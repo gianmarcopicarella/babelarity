@@ -1,0 +1,150 @@
+In abstract algebra, the sedenions form a 16-dimensional noncommutative and nonassociative algebra over the reals obtained by applying the Cayley–Dickson construction to the octonions. Unlike the octonions, the sedenions are not an alternative algebra. The set of sedenions is denoted by 
+          S
+    {\displaystyle \mathbb {S} }
+  .
+The term sedenion is also used for other 16-dimensional algebraic structures, such as a tensor product of two copies of the biquaternions, or the algebra of 4 by 4 matrices over the reals, or that studied by Smith (1995).
+Like octonions, multiplication of sedenions is neither commutative nor associative. But in contrast to the octonions, the sedenions do not even have the property of being alternative. They do, however, have the property of power associativity, which can be stated as that, for any element x of 
+          S
+    {\displaystyle \mathbb {S} }
+  , the power 
+          x
+            n
+    {\displaystyle x^{n}}
+   is well defined. They are also flexible.
+Every sedenion is a linear combination of the unit sedenions e0, e1, e2, e3, ...,e15, which form a basis of the vector space of sedenions. Every sedenion can be represented in the form
+        x
+        =
+          x
+            0
+          e
+            0
+        +
+          x
+            1
+          e
+            1
+        +
+          x
+            2
+          e
+            2
+        +
+        …
+        +
+          x
+            14
+          e
+            14
+        +
+          x
+            15
+          e
+            15
+        ,
+    {\displaystyle x=x_{0}e_{0}+x_{1}e_{1}+x_{2}e_{2}+\ldots +x_{14}e_{14}+x_{15}e_{15},\,}
+  .
+Addition and subtraction are defined by the addition and subtraction of corresponding coefficients and multiplication is distributive over addition.
+Like other algebras based on the Cayley–Dickson construction, the sedenions contain the algebra they were constructed from. So, they contain the octonions (e0 to e7 in the table below), and therefore also the quaternions (e0 to e3), complex numbers (e0 and e1) and reals (e0).
+The sedenions have a multiplicative identity element e0 and multiplicative inverses but they are not a division algebra because they have zero divisors. This means that two non-zero sedenions can be multiplied to obtain zero: an example is (e3 + e10)×(e6 − e15). All hypercomplex number systems after sedenions that are based on the Cayley–Dickson construction contain zero divisors.
+The multiplication table of these unit sedenions follows:
+From the above table, we can see that:
+          e
+            0
+          e
+            i
+        =
+          e
+            i
+          e
+            0
+        =
+          e
+            i
+        ,
+    {\displaystyle e_{0}e_{i}=e_{i}e_{0}=e_{i},}
+          e
+            i
+          e
+            i
+        =
+        −
+          e
+            0
+          for
+        i
+        ≠
+        0
+        ,
+    {\displaystyle e_{i}e_{i}=-e_{0}\,\,{\text{for}}\,\,i\neq 0,}
+          e
+            i
+          e
+            j
+        =
+        −
+          e
+            j
+          e
+            i
+          for
+        i
+        ≠
+        j
+          and
+        i
+        ,
+        j
+        ≠
+        0.
+    {\displaystyle e_{i}e_{j}=-e_{j}e_{i}\,\,{\text{for}}\,\,i\neq j\,\,{\text{and}}\,\,i,j\neq 0.}
+          e
+            i
+        (
+          e
+            j
+          e
+            k
+        )
+        =
+        −
+        (
+          e
+            i
+          e
+            j
+        )
+          e
+            k
+          for
+        i
+        ≠
+        j
+        ,
+        i
+        ,
+        j
+        ≠
+        0
+          and
+          e
+            i
+          e
+            j
+        ≠
+        ±
+          e
+            k
+        .
+    {\displaystyle e_{i}(e_{j}e_{k})=-(e_{i}e_{j})e_{k}\,\,{\text{for}}\,\,i\neq j,\,\,i,j\neq 0\,\,{\text{and}}\,\,e_{i}e_{j}\neq \pm e_{k}.}
+The 35 triads that make up this specific sedenion multiplication table with the 7 triads of the octonion used in creating the sedenion through the Cayley–Dickson construction shown in bold red:
+{​{1, 2, 3} , {1, 4, 5} , {1, 7, 6} , {1, 8, 9}, {1, 11, 10}, {1, 13, 12}, {1, 14, 15},{2, 4, 6} , {2, 5, 7} , {2, 8, 10}, {2, 9, 11}, {2, 14, 12}, {2, 15, 13}, {3, 4, 7} ,{3, 6, 5} , {3, 8, 11}, {3, 10, 9}, {3, 13, 14}, {3, 15, 12}, {4, 8, 12}, {4, 9, 13},
+{4, 10, 14}, {4, 11, 15}, {5, 8, 13}, {5, 10, 15}, {5, 12, 9}, {5, 14, 11}, {6, 8, 14},
+{6, 11, 13}, {6, 12, 10}, {6, 15, 9}, {7, 8, 15}, {7, 9, 14}, {7, 12, 11}, {7, 13, 10}​}
+The list of 84 sets of zero divisors {ea, eb, ec, ed}, where (ea + eb)
+        ∘
+    {\displaystyle \circ }
+  (ec + ed)=0:
+Moreno (1998) showed that the space of norm 1 zero-divisors of the sedenions is homeomorphic to the compact form of the exceptional Lie group G2.
+Pfister's sixteen-square identity
+Hypercomplex number
+Split-complex number

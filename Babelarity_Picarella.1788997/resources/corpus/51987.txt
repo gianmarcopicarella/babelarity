@@ -1,0 +1,65 @@
+In computing, the Executable and Linkable Format (ELF, formerly called Extensible Linking Format) is a common standard file format for executables, object code, shared libraries, and core dumps. First published in the System V Release 4 (SVR4) Application Binary Interface (ABI) specification, and later in the Tool Interface Standard, it was quickly accepted among different vendors of Unix systems. In 1999 it was chosen as the standard binary file format for Unix and Unix-like systems on x86 by the 86open project.
+ELF is flexible and extensible by design, and it is not bound to any particular processor or architecture. This has allowed it to be adopted by many different operating systems on many different platforms.
+Each ELF file is made up of one ELF header, followed by file data. The file data can include:
+Program header table, describing zero or more segments
+Section header table, describing zero or more sections
+Data referred to by entries in the program header table or section header table
+The segments contain information that is necessary for runtime execution of the file, while sections contain important data for linking and relocation. Any byte in the entire file can be owned by at most one section, and there can be orphan bytes which are not owned by any section.
+The ELF header defines whether 32- or 64-bit addresses are to be used. The header itself contains three fields that are affected by this setting and offset other fields that follow them. The 64-bit header is 64 bytes long.
+The program header table tells the system how to create a process image. It is found at file offset e_phoff, and consists of e_phnum entries, each with size e_phentsize. For 32-bit ELF, each entry is structured as:
+readelf is a Unix binary utility that displays information about one or more ELF files. A free software implementation is provided by GNU Binutils.
+elfutils provides alternative tools to GNU Binutils purely for Linux.
+elfdump is a command for viewing ELF information in an ELF file, available under Solaris and FreeBSD.
+objdump provides a wide range of information about ELF files and other object formats. objdump uses the Binary File Descriptor library as a back-end to structure the ELF data.
+The Unix file utility can display some information about ELF files, including the instruction set architecture for which the code in a relocatable, executable, or shared object file is intended, or on which an ELF core dump was produced.
+The ELF format has replaced older executable formats in various environments. It has replaced a.out and COFF formats in Unix-like operating systems:
+Linux
+Solaris
+IRIX
+FreeBSD
+NetBSD
+OpenBSD
+DragonFly BSD
+Syllable
+HP-UX (except for 32-bit PA-RISC programs which continue to use SOM)
+QNX Neutrino
+MINIX
+ELF has also seen some adoption in non-Unix operating systems, such as:
+OpenVMS, in its Itanium version
+BeOS Revision 4 and later for x86 based computers (where it replaced the Portable Executable format; the PowerPC version stayed with Preferred Executable Format)
+Haiku, the open source reimplementation of BeOS
+RISC OS
+Stratus VOS, in PA-RISC and x86 versions
+Windows 10 Insider Preview build 14316 using Windows Subsystem for Linux.
+Some game consoles also use ELF:
+PlayStation Portable, PlayStation Vita, PlayStation 2, PlayStation 3, PlayStation 4
+GP2X
+Dreamcast
+Nintendo DS, GameCube, Wii, Wii U
+Other operating systems running on PowerPC using ELF:
+AmigaOS 4, the ELF executable has replaced the previous EHF (Extended Hunk Format) which was used on Amigas equipped with PPC processor expansion cards.
+MorphOS
+AROS
+Some operating systems for mobile phones and mobile devices use ELF:
+Symbian OS v9 uses E32Image format that is based on the ELF file format;
+Sony Ericsson, for example, the W800i, W610, W300, etc.
+Siemens, the SGOLD and SGOLD2 platforms: from Siemens C65 to S75 and BenQ-Siemens E71/EL71;
+Motorola, for example, the E398, SLVR L7, v360, v3i (and all phone LTE2 which has the patch applied).
+Bada, for example, the Samsung Wave S8500.
+Nokia phones or tablets running the Maemo or the Meego OS, for example, the Nokia N900.
+Android uses ELF .so libraries for the Java Native Interface. With Android Runtime (ART), the default since Android 5.0 "Lollipop", all applications are compiled into native ELF binaries upon installation.
+ Some phones can run ELF files through the use of a patch that adds assembly code to the main firmware, which is a feature known as ELFPack in the underground modding culture. The ELF file format is also used with the Atmel AVR (8-bit), AVR32 and with Texas Instruments MSP430 microcontroller architectures. Some implementations of Open Firmware can also load ELF files, most notably Apple's implementation used in almost all PowerPC machines the company produced.
+The Linux Standard Base (LSB) supplements some of the above specifications for architectures in which it is specified. For example, that is the case for the System V ABI, AMD64 Supplement.
+86open was a project to form consensus on a common binary file format for Unix and Unix-like operating systems on the common PC compatible x86 architecture, in order to encourage software developers to port to the architecture. The initial idea was to standardize on a small subset of Spec 1170, a predecessor of the Single UNIX Specification, and the GNU C Library (glibc) to enable unmodified binaries to run on the x86 UNIX-like operating systems. The project was originally designated "Spec 150".
+The format eventually chosen was ELF, specifically the Linux implementation of ELF, after it had turned out to be a de facto standard supported by all involved vendors and operating systems.
+The group started email discussions in 1997 and first met together at the Santa Cruz Operation offices on August 22, 1997.
+The steering committee was Marc Ewing, Dion Johnson, Evan Leibovitch, Bruce Perens, Andrew Roach, Bryan Sparks and Linus Torvalds. Other people on the project were Keith Bostic, Chuck Cranor, Michael Davidson, Chris G. Demetriou, Ulrich Drepper, Don Dugger, Steve Ginzburg, Jon "maddog" Hall, Ron Holt, Jordan Hubbard, Dave Jensen, Kean Johnston, Andrew Josey, Robert Lipe, Bela Lubkin, Tim Marsland, Greg Page, Ronald Joe Record, Tim Ruckle, Joel Silverstein, Chia-pi Tien and Erik Troan. Operating systems and companies represented were BeOS, BSDI, FreeBSD, Intel, Linux, NetBSD, SCO and SunSoft, Inc..
+The project progressed and in mid-1998, SCO began developing lxrun, an open-source compatibility layer capable of running Linux binaries on OpenServer, UnixWare, and Solaris. SCO announced official support of lxrun at LinuxWorld in March 1999. Sun Microsystems began officially supporting lxrun for Solaris in early 1999, and has since moved to integrated support of the Linux binary format via Solaris Containers for Linux Applications.
+With the BSDs having long supported Linux binaries (through a compatibility layer) and the main x86 Unix vendors having added support for the format, the project decided that Linux ELF was the format chosen by the industry and "declare[d] itself dissolved" on July 25, 1999.
+FatELF is an ELF binary-format extension that adds fat binary capabilities. It is aimed for Linux and other Unix-like operating systems. Additionally to the CPU architecture abstraction (byte order, word size, CPU instruction set etc.), there is the potential advantage of software-platform abstraction e.g. binaries which support multiple kernel ABI versions. As of 2014, support for FatELF is not integrated in the Linux kernel mainline.
+Application binary interface
+Comparison of executable file formats
+DWARF –  a format for debugging data
+Intel Binary Compatibility Standard
+Portable Executable
+vDSO –  virtual DSO

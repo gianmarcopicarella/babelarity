@@ -1,0 +1,136 @@
+Rapa Nui or Rapanui (English /ræpəˈnuːi/; locally: [ˈɾapa ˈnu.i]) also known as Pascuan /ˈpæskjuːən/, or Pascuense, is an Eastern Polynesian language spoken on the island of Rapa Nui, also known as Easter Island.
+The island is home to a population of just under 4,000 and is a special territory of Chile. According to census data, there are about 3,700 people on the island and on the Chilean mainland who identify as ethnically Rapa Nui. Census data do not exist on the primary known and spoken languages among these people and there are recent claims that the number of fluent speakers is as low as 800. Rapa Nui is a minority language and many of its adult speakers also speak Spanish; most Rapa Nui children now grow up speaking Spanish and those who do learn Rapa Nui begin learning it later in life.
+Rapa Nui has ten consonants and five vowels.
+All vowels can be either long or short and are always long when they are stressed in the final position of a word. Most vowel sequences are present, with the exception of *uo. Repetition sequences do not occur except in eee ('yes').
+Written Rapa Nui uses the Latin script. The nasal velar consonant /ŋ/ is generally written with the Latin letter 〈g〉, but occasionally as 〈ng〉. The glottal plosive /ʔ/ is typically written with an ʻ, or frequently with an apostrophe. A special letter, 〈ġ〉, is sometimes used to distinguish the Spanish /ɡ/, occurring in introduced terms, from the Rapa Nui /ŋ/.
+Syllables in Rapa Nui are CV (consonant-vowel) or V (vowel). There are no consonant clusters or word-final consonants.
+The reduplication of whole nouns or syllable parts performs a variety of different functions within Rapa Nui. To describe colours for which there is not a predefined word, the noun for an object of a like colour is duplicated to form an adjective. For example:
+‘ehu (mist) → ‘ehu ‘ehu = dark grey
+tea (dawn) → tea tea = white
+Besides forming adjectives from nouns, the reduplication of whole words can indicate a multiple or intensified action. For example:
+hatu (weave) → hatuhatu (fold)
+kume (undo) → kumekume (take to pieces)
+ruku (dive) → rukuruku (go diving)
+There are some apparent duplicate forms for which the original form has been lost. For example:
+rohirohi (tired)
+The reduplication of the initial syllable in verbs can indicate plurality of subject or object. In this example the bolded section represents the reduplication of a syllable which indicates the plurality of the subject of a transitive verb:
+ʻori (dance):
+E ʻori ro ʻa (he/she/they is/are dancing)
+E ʻoʻori ro ʻa (they are all dancing)
+The reduplication of the final two syllables of a verb indicates plurality or intensity. In this example the bolded section represents the reduplication of two final syllables, indicating intensity or emphasis:
+Haʻaki (tell):
+Ka haʻaki (Tell the story)
+Ka haʻakiʻaki(Tell the whole story)
+Rapa Nui incorporates a number of loanwords in which constructions such as consonant clusters or word-final consonants occur, though they do not occur naturally in the language. Historically, the practice was to transliterate unfamiliar consonants, insert vowels between clustered consonants and append word-final vowels where necessary.
+e.g.: Britain (English loanword) → Peretane (Rapa Nui rendering)
+More recently, loanwords – which come primarily from Spanish – retain their consonant clusters. For example, "litro" (litre).
+Rapa Nui is a VSO (verb–subject–object) language. Except where verbs of sensing are used, the object of a verb is marked by the relational particle i.
+e.g.: He hakahu koe i te rama (the relational particle and object are bolded)
+"You light the torch"
+Where a verb of sensing is used, the subject is marked by the agentive particle e.
+e.g.: He tikea e au te poki (the agentive particle and subject are bolded)
+"I can see the child"
+Pronouns are usually marked for number: in Rapa Nui there are markers for first, second and third personal singular and plural; however, there is only a marker for dual in the first person. The first person dual and plural can mark for exclusive and inclusive. The pronouns are always ahead of the person singular (PRS) 'a' and relational particle (RLT) 'i' or dative (DAT) 'ki'. However, in some examples, they don't have PRS, RLT and DAT.
+There is only one paradigm of pronouns for Rapa Nui. They function the same in both subject and object cases.
+Here is the table for the pronoun forms in Rapa Nui 
+e.g. (1) 
+'I live here all alone'
+e.g. (2) 
+'They made him governor'
+ACT – action
+CAUS – causative
+EX – existential
+LIM – limitative
+PFT – perfect tense
+PPD – postpositive determinant
+PRS – person singular
+RLT – relational particle
+STA – state (verbal)
+±SPE – +/- specific
+TOW – towards subject
+Yes/no questions are distinguished from statements chiefly by a particular pattern of intonation. Where there is no expectation of a particular answer, the form remains the same as a statement. A question expecting an agreement is preceded by 'hoki'.
+Original Rapa Nui has no conjunctive particles. Copulative, adversative and disjunctive notions are typically communicated by context or clause order. Modern Rapa Nui has almost completely adopted Spanish conjunctions rather than rely on this.
+In the Rapa Nui language, there are alienable and inalienable possession. Lichtemberk described alienable possession as the possessed noun being contingently associated with the possessor, and on the other hand inalienable possession as the possessed noun being necessarily associated with the possessor. The distinction is marked by a possessive suffix inserted before the relevant pronoun. Possessive particles:
+a (alienable) expresses dominant possession
+Alienable possession is used to refer to a person's spouse, children, food, books, work, all animals (except horse), all tools and gadgets (including the fridge), and some illnesses.
+e.g. (1) 
+'I must cook dinner for my children who are hungry'
+poki 'children' is an alienable possession therefore 'a' is used to indicate that in this sentence.
+o (inalienable) expresses the subordinate possession
+It is used with parents, siblings, house, furniture, transports (include, cart, car, scooter, boat, airplane), clothes, feeling, native land, parts of body (include mind), horse and its bridle.
+e.g. (2) 
+'It is true apparently, he is my brother.'
+Inalienable possession 'o' is used in this example. It is talking about the speaker's brother, which is an inalienable relation.
+There are no markers to distinguish between temporary or permanent possession; the nature of objects possessed; or between past, present or future possession.
+A and O possession refer to alienable and inalienable possession in Rapa Nui. a marks for alienable possession and o marks for inalienable possession. a and o are marked as suffixes of the possessive pronouns; however, they are only marked when the possessive pronoun is in the first, second or third person singular. In (2) above, taina ‘sibling’ is inalienable and the possessor is first person singular ‘o’oku ‘my’. However, for all the other situations, a and o are not marked as a suffix of the possessor.
+‘We’ll talk about those matters.’
+In the above example, the possessor me’e ‘those’ is not a possessive pronoun of the first, second or third person singular. Therefore, o is marked not as a suffix of the possessor but a separate word in the sentence.
+There are no classifiers in the Rapa Nui language.
+BEN- benefactive
+EMP-emphasis
+GRP- group plural
+LIM - limitative
+POS1sa- possessive 1st person singular alienable
+POS1si - possessive 1st person singular inalienable
+POS - possession
+PPD- postpositive determinant
+PFT - perfect tense
+RES - resultativetative
+RLT-relational particle
++/- SPE - +/- specific
+STA- state (verbal)
+Ko and ka are exclamatory indicators.
+Ko suggests a personal reaction:
+Ko te aroha (Poor thing!)
+Ka suggests judgement on external events:
+Ka haʻakiʻaki (Tell the whole story!)
+Terms which did not exist in original Rapa Nui were created via compounding:
+patia ika = (‘spear fish’) = harpoon
+patia kai = (‘spear food’) = fork
+kiri vaʻe = (‘skin foot’) = shoe
+manu patia =(‘bird spear’) = wasp
+pepe hoi = (‘stool horse’) = saddle
+pepe noho =(‘stool stay’) = chair
+There is a system for the numerals 1–10 in both Rapa Nui and Tahitian, both of which are used, though all numbers higher than ten are expressed in Tahitian. When counting, all numerals whether Tahitian or Rapanui are preceded by 'ka'. This is not used, however, when using a number in a sentence.
+Rapa Nui Numerals 1-10:
+(ka) tahi
+(ka) rua
+(ka) toru
+(ka) ha
+(ka) rima
+(ka) ono
+(ka) hitu
+(ka) va’u/varu
+(ka) iva
+(ka) aŋahuru
+The Rapa Nui language is isolated within Eastern Polynesian, which also includes the Marquesic and Tahitic languages. Within Eastern Polynesian, it is closest to Marquesan morphologically, although its phonology has more in common with New Zealand Māori, as both languages are relatively conservative in retaining consonants lost in other Eastern Polynesian languages.
+Like all Polynesian languages, Rapa Nui has relatively few consonants. Uniquely for an Eastern Polynesian language, Rapa Nui has preserved the original glottal stop of Proto-Polynesian. It is, or until recently was, a verb-initial language.
+One of the most important recent book written about the language of Rapa Nui is Verónica du Feu's Rapanui (Descriptive Grammar) (ISBN 0-415-00011-4).
+Very little is known about the Rapa Nui language prior to European contact. The majority of Rapa Nui vocabulary is inherited directly from Proto–Eastern Polynesian. Due to extensive borrowing from Tahitian there now often exist two forms for what was the same word in the early language. For example, Rapa Nui has Tahitian ‘ite alongside original tike‘a for 'to see', both derived from Proto-Eastern Polynesian *kite‘a. There are also hybridized forms of words such as haka‘ite 'to teach', from native haka (causative prefix) and Tahitian ‘ite.
+Spanish notes from a 1770 visit to the island record 94 words and terms. Many are clearly Polynesian, but several are not easily recognizable. For example, the numbers from one to ten seemingly have no relation to any known language. They are, with contemporary Rapa Nui words in parenthesis:
+cojàna (katahi)
+corena (karua)
+cogojù (katoru)
+quirote (kaha)
+majanà (karima)
+teùto (kaono)
+tejèa (kahitu)
+moroqui (kavau)
+vijoviri (kaiva)
+queromata-paùpaca quacaxixiva (kaangaahuru)
+It may be that the list is a misunderstanding, and the words not related to numbers at all. The Spanish may have shown Arabic numerals to the islanders who did not understand their meaning, and likened them to some other abstraction. For example, the "moroqui" for number eight (8) would have actually been "moroki", a small fish that is used as a bait, since "8" can look like a simple drawing of a fish.
+Captain James Cook visited the island four years later, and had a Tahitian interpreter with him, who, while recognizing some Polynesian words (up to 17 were written down), was not able to converse with the islanders in general. The British also attempted to record the numerals and were able to record the correct Polynesian words.
+In the 1860s the Peruvian slave raids began. It was at this time that Peruvians were experiencing labor shortages and they came to regard the Pacific as a vast source of free labor. Slavers raided islands as far away as Micronesia. But Easter Island was much closer and became a prime target.
+In December of 1862 eight Peruvian ships landed their crewmen and between bribery and outright violence they captured some 1000 Easter Islanders, including the king, his son, and the ritual priests (one of the reasons for so many gaps in knowledge of the ancient ways). It has been estimated that a total of 2000 Easter Islanders were captured over a period of years. Those who survived to arrive in Peru were poorly treated, overworked, and exposed to diseases. Ninety percent of the Rapa Nui died within one or two years of capture.
+Eventually the Bishop of Tahiti caused a public outcry and an embarrassed Peru rounded up the few survivors to return them. A shipload headed to Easter Island, but smallpox broke out en route and only 15 arrived at the island. They were put ashore. The resulting smallpox epidemic nearly wiped out the remaining population.
+In the aftermath of the Peruvian slave deportations in the 1860s, Rapa Nui came under extensive outside influence from neighbouring Polynesian languages such as Tahitian. While the majority of the population that was taken to work as slaves in the Peruvian mines died of diseases and bad treatment in the 1860s, hundreds of other Easter Islanders who left for Mangareva in the 1870s and 1880s to work as servants or labourers adopted the local form of Tahitian-Pidgin. Fischer argues that this pidgin became the basis for the modern Rapa Nui language when the surviving part of the Rapa Nui immigrants on Mangareva returned to their almost deserted home island.
+William J. Thomson, paymaster on the USS Mohican, spent twelve days on Easter Island from 19 to 30 December 1886. Among the data Thomson collected was the Rapa Nui calendar.
+Father Sebastian Englert, a German missionary living on Easter Island during 1935–1969, published a partial Rapa Nui–Spanish dictionary in his La Tierra de Hotu Matu’a in 1948, trying to save what was left of the old language. Despite the many typographical mistakes, the dictionary is valuable, because it provides a wealth of examples which all appear drawn from a real corpus, part oral traditions and legends, part actual conversations.
+Englert recorded vowel length, stress, and glottal stop, but was not always consistent, or perhaps the misprints make it seem so. He indicated vowel length with a circumflex, and stress with an acute accent, but only when it does not occur where expected. The glottal stop /ʔ/ is written as an apostrophe, as it is today, but is often omitted. The velar nasal /ŋ/ (now "ng") is sometimes transcribed with a "g", but sometimes with a Greek eta, "η", as a graphic approximation of "ŋ".
+It is assumed that rongorongo, the undeciphered script of Easter Island, represents the old Rapa Nui language.
+The island is under the jurisdiction of Chile and is now home to a number of Chilean continentals most of whom speak only Spanish. The influence of the Spanish language is noticeable in modern Rapa Nui speech. As fewer children learn to speak Rapa Nui at an early age, their superior knowledge of Spanish affects the 'passive knowledge' they have of Rapa Nui. A version of Rapa Nui interspersed with Spanish nouns, verbs and adjectives has become a popular form of casual speech. The most well integrated borrowings are the Spanish conjunctions o (or), pero (but) and y (and). Spanish words such as problema (problem), which was once rendered as poroborema, are now often integrated with minimal or no change.
+Spanish words are still often used within Rapa Nui grammatical rules, though some word order changes are occurring and it is argued that Rapa Nui may be undergoing a shift from VSO to the Spanish SVO. This example sentence was recorded first in 1948 and again in 2001 and its expression has changed from VSO to SVO.
+'They both suffer and weep"
+1948: he ‘aroha, he tatangi ararua
+2001: ararua he ‘aroha he tatangi
+Easter Island's indigenous Rapa Nui toponymy has survived with few Spanish additions or replacements, a fact that has been attributed in part to the survival of Rapa Nui language. This contrasts with the toponymy of continental Chile, which has lost most of its indigenous names.

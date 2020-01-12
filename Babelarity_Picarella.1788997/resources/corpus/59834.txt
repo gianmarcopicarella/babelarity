@@ -1,0 +1,5 @@
+Iodine pentafluoride is an interhalogen compound with chemical formula IF5. It is a fluoride of iodine. It is a colorless or yellow liquid with a density of 3.250 g cm−3. It was first synthesized by Henri Moissan in 1891 by burning solid iodine in fluorine gas. This exothermic reaction is still used to produce iodine pentafluoride, although the reaction conditions have been improved.
+I2 + 5 F2 → 2 IF5
+Iodine pentafluoride is a strong fluorination agent and is highly oxidative. It reacts vigorously with water forming hydrofluoric acid and with more fluorine forming iodine heptafluoride.
+Primary amines react with iodine pentafluoride forming nitriles after hydrolysis with water.
+R-CH2-NH2 → R-CN

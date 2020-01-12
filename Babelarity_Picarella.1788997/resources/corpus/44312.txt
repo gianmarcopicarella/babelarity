@@ -1,0 +1,31 @@
+The palm mute is a playing technique for guitar and bass guitar, executed by placing the side of the picking hand below the little finger across the strings to be plucked, very close to the bridge, and then plucking the strings while the damping is in effect. This produces a muted sound. The name is a slight misnomer, as the muting is performed by the side of the hand, not the palm.
+Palm muting is a standard technique used in classical guitar performance (under the name of pizzicato, as it creates a sound similar to that of a bowed string instrument when finger picked, despite a very different construction from that of a guitar) and by electric guitarists who play with a pick. Palm muting is so widely used as to be idiomatic in heavy metal, and particularly in thrash, speed and death metal, but it is often found in any style of music that features electric guitars with distortion in the signal's preamplification stage. It is responsible for the characteristic "chugging" and "crunch" sound of distorted guitar music. In metal, palm muting makes chords and notes sound shorter and more defined. Palm muting can also be used in conjunction with a wah pedal to produce the distinctive scratching sound often heard in disco music.
+Palm-muting is also used by electric bassists in order to obtain a warm, "thumpy" tone that is sometimes similar to that of a finger picked double bass (as noted above). The strings may be plucked with the thumb, or with a pick which gives a more percussive tone.
+There are many ways to perform palm muting, but, generally the following are recognized:
+Applied pressure. Amount of applied pressure tends to vary the sound a lot. Slight touch makes light muting, thus producing more pronounced, fuller sounds. Pressing the hand down intensively makes heavy muting, enhancing staccato effect, adding percussion and making notes less recognizable. Certainly, with some amplification gain, heavily muted notes sound quieter than lightly muted, but given a fair amount of compression, loudness levels become the same and heavily muted notes sound less muddy, with fewer overtones and tonal characteristics than lightly muted.
+Hand position. The most common way to play with palm muting is placing the edge of picking hand near the bridge, dampening the strings when necessary. However, moving the hand further from the bridge and closer to the neck changes the effect drastically. Moving the hand closer to the bridge (and even resting part of edge on the bridge) makes palm muting lighter. Moving the hand farther from bridge (going up to the neck) makes palm muting heavier. Note that resting the palm on the bridge is usually considered a bad practice among guitarists (other than for performing palm muting) for the following reasons:
+Ergonomic: it is generally not very ergonomic to play this way; maintaining the picking hand edge always strictly parallel to the bridge rivets the motions and encumbers performance of most advanced techniques;
+Metal part corrosion: while playing intensively, hands usually become sweaty; sweat coming in contact with metal bridge hastens its corrosion; metal strings corrode too, but strings are considered a consumable, while the bridge is more expensive.
+Tremolo interference: when using floating tremolo bridge, such as Floyd Rose, applying pressure to the bridge may affect the pitch of played strings.
+Amount of amplification (gain).
+Muted notes / chords. Generally, it is recognized that full chords (with 3') sound muddy with large amounts of amplification and distortion, unlike single notes and power chords. Sustain sound coming from each string simultaneously makes large amounts of overlapping overtones after distortion and thus a chord loses its clarity. Palm muting of such chords helps to alleviate this problem, giving notes chuggier, more distortion-friendly sound.
+Palm muting is a basis for many other techniques, especially those specific to electric guitars, such as sweep picking or alternate picking.
+In guitar tablature, palm mutes are rendered with a "P.M." or "PM", and a dashed or dotted line for the duration of the phrase to be muted. If the pitches of the muted notes are discernible, the fret numbers are given accordingly, otherwise they are represented with an X in lieu of a tab number. (If an X appears in lieu of a tab number but there is no P.M. directive, this usually means to mute the string using the fretting hand, not the picking hand.)
+    P.M.------------|
+e |------------------|
+B |--8-------8-------|
+G |--7-------7-------|
+D |--6-------6-------|
+A |--7-------7-------|
+E |----0-0-0---0-0-0-|
+One popular song with palm muting is "Basket Case" by Green Day, where power chords are accented then muted to create a sense of energy and urgency.
+    > PM--------| >  PM-| < PM--| >      PM-| < PM- > PM>  PM-| < PM--| <
+d# |-----------------|-------------------|-----------------|-------------------|
+A# |-----------------|-------------------|-----------------|-------------------|
+F# |-9---------------|-------------------|-----6-----6-----|-------------------|
+C# |-9-9-9-9-9-9-9-9-|-----9-------9-x-x-|-6-6-6-6-6-6---6-|-----6-------6-x-x-|
+G# |-7-7-7-7-7-7-7-9-|-9-9-9-9-9-9-9-x-x-|-4-4-4-4-4-4-6-6-|-6-6-6-6-6-6-6-x-x-|
+D# |---------------7-|-7-7-7-7-7-7-7-x-x-|-------------4-4-|-4-4-4-4-4-4-4-x-x-|
+More aggressive styles of palm muting grew out of thrash metal in the mid-late 1980s with bands such as Metallica, Slayer, Anthrax and Megadeth. The technique was fused with fast alternate picking, under high gain, to create a driving, percussive effect. Other uses of palm muting can be heard in post-punk bands like Gang of Four and Talking Heads, as well as in contemporary musicians such as Isaac Brock of Modest Mouse. Another example would be "Paranoid" by Black Sabbath, which uses palm muting for much of the song.
+Heavy metal gallop
+Pizzicato

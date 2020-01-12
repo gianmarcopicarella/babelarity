@@ -1,0 +1,855 @@
+In relativity, proper time along a timelike world line is defined as the time as measured by a clock following that line. It is thus independent of coordinates, and a Lorentz scalar. The proper time interval between two events on a world line is the change in proper time. This interval is the quantity of interest, since proper time itself is fixed only up to an arbitrary additive constant, namely the setting of the clock at some event along the world line. The proper time between two events depends not only on the events but also the world line connecting them, and hence on the motion of the clock between the events. It is expressed as an integral over the world line. An accelerated clock will measure a smaller elapsed time between two events than that measured by a non-accelerated (inertial) clock between the same two events. The twin paradox is an example of this effect.
+In terms of four-dimensional spacetime, proper time is analogous to arc length in three-dimensional (Euclidean) space. By convention, proper time is usually represented by the Greek letter τ (tau) to distinguish it from coordinate time represented by t.
+By contrast, coordinate time is the time between two events as measured by an observer using that observer's own method of assigning a time to an event. In the special case of an inertial observer in special relativity, the time is measured using the observer's clock and the observer's definition of simultaneity.
+The concept of proper time was introduced by Hermann Minkowski in 1908, and is a feature of Minkowski diagrams.
+The formal definition of proper time involves describing the path through spacetime that represents a clock, observer, or test particle, and the metric structure of that spacetime. Proper time is the pseudo-Riemannian arc length of world lines in four-dimensional spacetime. From the mathematical point of view, coordinate time is assumed to be predefined and we require an expression for proper time as a function of coordinate time. From the experimental point of view, proper time is what is measured experimentally and then coordinate time is calculated from the proper time of some inertial clocks.
+Proper time can only be defined for timelike paths through spacetime which allow for the construction of an accompanying set of physical rulers and clocks. The same formalism for spacelike paths leads to a measurement of proper distance rather than proper time. For lightlike paths, there exists no concept of proper time and it is undefined as the spacetime interval is identically zero. Instead an arbitrary and physically irrelevant affine parameter unrelated to time must be introduced.
+Let the Minkowski metric be defined by
+          η
+            μ
+            ν
+        =
+          (
+                  1
+                  0
+                  0
+                  0
+                  0
+                  −
+                  1
+                  0
+                  0
+                  0
+                  0
+                  −
+                  1
+                  0
+                  0
+                  0
+                  0
+                  −
+                  1
+          )
+        ,
+    {\displaystyle \eta _{\mu \nu }=\left({\begin{matrix}1&0&0&0\\0&-1&0&0\\0&0&-1&0\\0&0&0&-1\end{matrix}}\right),}
+and define
+        (
+          x
+            0
+        ,
+          x
+            1
+        ,
+          x
+            2
+        ,
+          x
+            3
+        )
+        =
+        (
+        c
+        t
+        ,
+        x
+        ,
+        y
+        ,
+        z
+        )
+    {\displaystyle (x^{0},x^{1},x^{2},x^{3})=(ct,x,y,z)}
+for arbitrary Lorentz frames.
+Consider an infinitesimal interval
+expressed in any Lorentz frame and here assumed timelike, separating points on a trajectory of a particle (think clock). The same interval can be expressed in coordinates such that at each moment, the particle is at rest. Such a frame is called an instantaneous rest frame. Due to the invariance of the interval (instantaneous rest frames taken at different times are related by Lorentz transformations) one may write
+        d
+          s
+            2
+        =
+          c
+            2
+        d
+          τ
+            2
+        −
+        d
+          x
+            τ
+            2
+        −
+        d
+          y
+            τ
+            2
+        −
+        d
+          z
+            τ
+            2
+        =
+          η
+            μ
+            ν
+        d
+          x
+            τ
+            μ
+        d
+          x
+            τ
+            ν
+        =
+          c
+            2
+        d
+          τ
+            2
+        ,
+    {\displaystyle ds^{2}=c^{2}d\tau ^{2}-dx_{\tau }^{2}-dy_{\tau }^{2}-dz_{\tau }^{2}=\eta _{\mu \nu }dx_{\tau }^{\mu }dx_{\tau }^{\nu }=c^{2}d\tau ^{2},}
+since in the instantaneous rest frame, the particle is at rest. Since the interval is assumed timelike, one may take the square root of the above expression;
+        d
+        s
+        =
+        c
+        d
+        τ
+        ,
+    {\displaystyle ds=cd\tau ,}
+or
+        d
+        τ
+        =
+              d
+              s
+            c
+        .
+    {\displaystyle d\tau ={\frac {ds}{c}}.}
+Given this differential expression for τ, the proper time interval is defined as
+Here P is the worldline from some initial event to some final event with the ordering of the events fixed by the requirement that the final event occurs later according to the clock than the initial event.
+Using (1) and again the invariance of the interval, one may write
+where v(t) is the coordinate speed at coordinate time t, and x(t), y(t), and z(t) are space coordinates. It should be noted that the first expression is manifestly Lorentz invariant. They are all Lorentz invariant, since proper time and proper time intervals are coordinate-independent by definition.
+If t, x, y, z, are parameterised by a parameter λ, this can be written as
+        Δ
+        τ
+        =
+        ∫
+                (
+                      d
+                      t
+                      d
+                      λ
+                )
+                2
+            −
+                1
+                  c
+                    2
+              [
+                  (
+                        d
+                        x
+                        d
+                        λ
+                  )
+                  2
+              +
+                  (
+                        d
+                        y
+                        d
+                        λ
+                  )
+                  2
+              +
+                  (
+                        d
+                        z
+                        d
+                        λ
+                  )
+                  2
+              ]
+        d
+        λ
+        .
+    {\displaystyle \Delta \tau =\int {\sqrt {\left({\frac {dt}{d\lambda }}\right)^{2}-{\frac {1}{c^{2}}}\left[\left({\frac {dx}{d\lambda }}\right)^{2}+\left({\frac {dy}{d\lambda }}\right)^{2}+\left({\frac {dz}{d\lambda }}\right)^{2}\right]}}\,d\lambda .}
+If the motion of the particle is constant, the expression simplifies to
+        Δ
+        τ
+        =
+                (
+                Δ
+                t
+                )
+                2
+            −
+                    (
+                    Δ
+                    x
+                    )
+                    2
+                  c
+                    2
+            −
+                    (
+                    Δ
+                    y
+                    )
+                    2
+                  c
+                    2
+            −
+                    (
+                    Δ
+                    z
+                    )
+                    2
+                  c
+                    2
+        ,
+    {\displaystyle \Delta \tau ={\sqrt {\left(\Delta t\right)^{2}-{\frac {\left(\Delta x\right)^{2}}{c^{2}}}-{\frac {\left(\Delta y\right)^{2}}{c^{2}}}-{\frac {\left(\Delta z\right)^{2}}{c^{2}}}}},}
+where Δ means the change in coordinates between the initial and final events. The definition in special relativity generalizes straightforwardly to general relativity as follows below.
+Proper time is defined in general relativity as follows: Given a pseudo-Riemannian manifold with a local coordinates xμ and equipped with a metric tensor gμν, the proper time interval Δτ between two events along a timelike path P is given by the line integral
+This expression is, as it should be, invariant under coordinate changes. It reduces (in appropriate coordinates) to the expression of special relativity in flat spacetime.
+In the same way that coordinates can be chosen such that x1, x2, x3 = const in special relativity, this can be done in general relativity too. Then, in these coordinates,
+        Δ
+        τ
+        =
+          ∫
+            P
+        d
+        τ
+        =
+          ∫
+            P
+            1
+            c
+              g
+                00
+        d
+          x
+            0
+        .
+    {\displaystyle \Delta \tau =\int _{P}d\tau =\int _{P}{\frac {1}{c}}{\sqrt {g_{00}}}dx^{0}.}
+This expression generalizes definition (2) and can be taken as the definition. Then using invariance of the interval, equation (4) follows from it in the same way (3) follows from (2), except that here arbitrary coordinate changes are allowed.
+For a twin "paradox" scenario, let there be an observer A who moves between the coordinates (0,0,0,0) and (10 years, 0, 0, 0) inertially. This means that A stays at 
+        x
+        =
+        y
+        =
+        z
+        =
+        0
+    {\displaystyle x=y=z=0}
+   for 10 years of coordinate time. The proper time interval for A is then
+        Δ
+        τ
+        =
+            (
+            10
+               years
+              )
+                2
+        =
+        10
+           years
+    {\displaystyle \Delta \tau ={\sqrt {(10{\text{ years}})^{2}}}=10{\text{ years}}}
+So we find that being "at rest" in a special relativity coordinate system means that proper time and coordinate time are the same.
+Let there now be another observer B who travels in the x direction from (0,0,0,0) for 5 years of coordinate time at 0.866c to (5 years, 4.33 light-years, 0, 0). Once there, B accelerates, and travels in the other spatial direction for another 5 years of coordinate time to (10 years, 0, 0, 0). For each leg of the trip, the proper time interval is
+        Δ
+        τ
+        =
+            (
+            5
+              y
+              e
+              a
+              r
+              s
+              )
+                2
+            −
+            (
+            4.33
+              y
+              e
+              a
+              r
+              s
+              )
+                2
+        =
+            6.25
+                y
+                e
+                a
+                r
+                s
+                2
+        =
+            6.25
+          y
+          e
+          a
+          r
+          s
+        =
+        2.5
+          y
+          e
+          a
+          r
+          s
+        .
+    {\displaystyle \Delta \tau ={\sqrt {(5\;\mathrm {years} )^{2}-(4.33\;\mathrm {years} )^{2}}}={\sqrt {6.25\;\mathrm {years} ^{2}}}={\sqrt {6.25\;}}\mathrm {years} =2.5\;\mathrm {years} .}
+So the total proper time for observer B to go from (0,0,0,0) to (5 years, 4.33 light-years, 0, 0) to (10 years, 0, 0, 0) is 5 years. Thus it is shown that the proper time equation incorporates the time dilation effect. In fact, for an object in a SR spacetime traveling with a velocity of v for a time 
+        Δ
+        T
+    {\displaystyle \Delta T}
+  , the proper time interval experienced is
+        Δ
+        τ
+        =
+            Δ
+              T
+                2
+            −
+            (
+              v
+                x
+            Δ
+            T
+              /
+            c
+              )
+                2
+            −
+            (
+              v
+                y
+            Δ
+            T
+              /
+            c
+              )
+                2
+            −
+            (
+              v
+                z
+            Δ
+            T
+              /
+            c
+              )
+                2
+        =
+        Δ
+        T
+            1
+            −
+              v
+                2
+              /
+              c
+                2
+        ,
+    {\displaystyle \Delta \tau ={\sqrt {\Delta T^{2}-(v_{x}\Delta T/c)^{2}-(v_{y}\Delta T/c)^{2}-(v_{z}\Delta T/c)^{2}}}=\Delta T{\sqrt {1-v^{2}/c^{2}}},}
+which is the SR time dilation formula.
+An observer rotating around another inertial observer is in an accelerated frame of reference. For such an observer, the incremental (
+        d
+        τ
+    {\displaystyle d\tau \ }
+  ) form of the proper time equation is needed, along with a parameterized description of the path being taken, as shown below.
+Let there be an observer C on a disk rotating in the xy plane at a coordinate angular rate of 
+        ω
+    {\displaystyle \omega }
+   and who is at a distance of r from the center of the disk with the center of the disk at x=y=z=0. The path of observer C is given by 
+        (
+        T
+        ,
+        r
+        cos
+        ⁡
+        (
+        ω
+        T
+        )
+        ,
+        r
+        sin
+        ⁡
+        (
+        ω
+        T
+        )
+        ,
+        0
+        )
+    {\displaystyle (T,\;\,r\cos(\omega T),\;\,r\sin(\omega T),\;\,0)}
+  , where 
+        T
+    {\displaystyle T}
+   is the current coordinate time. When r and 
+        ω
+    {\displaystyle \omega }
+   are constant, 
+        d
+        x
+        =
+        −
+        r
+        ω
+        sin
+        ⁡
+        (
+        ω
+        T
+        )
+        d
+        T
+    {\displaystyle dx=-r\omega \sin(\omega T)\;dT}
+   and 
+        d
+        y
+        =
+        r
+        ω
+        cos
+        ⁡
+        (
+        ω
+        T
+        )
+        d
+        T
+    {\displaystyle dy=r\omega \cos(\omega T)\;dT}
+  . The incremental proper time formula then becomes
+        d
+        τ
+        =
+            d
+              T
+                2
+            −
+            (
+            r
+            ω
+              /
+            c
+              )
+                2
+              sin
+                2
+            ⁡
+            (
+            ω
+            T
+            )
+            d
+              T
+                2
+            −
+            (
+            r
+            ω
+              /
+            c
+              )
+                2
+              cos
+                2
+            ⁡
+            (
+            ω
+            T
+            )
+            d
+              T
+                2
+        =
+        d
+        T
+            1
+            −
+                (
+                      r
+                      ω
+                    c
+                )
+                2
+        .
+    {\displaystyle d\tau ={\sqrt {dT^{2}-(r\omega /c)^{2}\sin ^{2}(\omega T)\;dT^{2}-(r\omega /c)^{2}\cos ^{2}(\omega T)\;dT^{2}}}=dT{\sqrt {1-\left({\frac {r\omega }{c}}\right)^{2}}}.}
+So for an observer rotating at a constant distance of r from a given point in spacetime at a constant angular rate of ω between coordinate times 
+          T
+            1
+    {\displaystyle T_{1}}
+   and 
+          T
+            2
+    {\displaystyle T_{2}}
+  , the proper time experienced will be
+          ∫
+              T
+                1
+              T
+                2
+        d
+        τ
+        =
+        (
+          T
+            2
+        −
+          T
+            1
+        )
+            1
+            −
+                (
+                      r
+                      ω
+                    c
+                )
+                2
+        =
+        Δ
+        T
+            1
+            −
+              v
+                2
+              /
+              c
+                2
+        ,
+    {\displaystyle \int _{T_{1}}^{T_{2}}d\tau =(T_{2}-T_{1}){\sqrt {1-\left({\frac {r\omega }{c}}\right)^{2}}}=\Delta T{\sqrt {1-v^{2}/c^{2}}},}
+as v=rω for a rotating observer. This result is the same as for the linear motion example, and shows the general application of the integral form of the proper time formula.
+The difference between SR and general relativity (GR) is that in GR one can use any metric which is a solution of the Einstein field equations, not just the Minkowski metric. Because inertial motion in curved spacetimes lacks the simple expression it has in SR, the line integral form of the proper time equation must always be used.
+An appropriate coordinate conversion done against the Minkowski metric creates coordinates where an object on a rotating disk stays in the same spatial coordinate position. The new coordinates are
+        r
+        =
+              x
+                2
+            +
+              y
+                2
+    {\displaystyle r={\sqrt {x^{2}+y^{2}}}}
+and
+        θ
+        =
+        arctan
+        ⁡
+          (
+              y
+              x
+          )
+        −
+        ω
+        t
+        .
+    {\displaystyle \theta =\arctan \left({\frac {y}{x}}\right)-\omega t.}
+The t and z coordinates remain unchanged. In this new coordinate system, the incremental proper time equation is
+        d
+        τ
+        =
+              [
+              1
+              −
+                  (
+                        r
+                        ω
+                      c
+                  )
+                  2
+              ]
+            d
+              t
+                2
+            −
+                  d
+                    r
+                      2
+                  c
+                    2
+            −
+                    r
+                      2
+                  d
+                    θ
+                      2
+                  c
+                    2
+            −
+                  d
+                    z
+                      2
+                  c
+                    2
+            −
+            2
+                    r
+                      2
+                  ω
+                  d
+                  t
+                  d
+                  θ
+                  c
+                    2
+        .
+    {\displaystyle d\tau ={\sqrt {\left[1-\left({\frac {r\omega }{c}}\right)^{2}\right]dt^{2}-{\frac {dr^{2}}{c^{2}}}-{\frac {r^{2}\,d\theta ^{2}}{c^{2}}}-{\frac {dz^{2}}{c^{2}}}-2{\frac {r^{2}\omega \,dt\,d\theta }{c^{2}}}}}.}
+With r, θ, and z being constant over time, this simplifies to
+        d
+        τ
+        =
+        d
+        t
+            1
+            −
+                (
+                      r
+                      ω
+                    c
+                )
+                2
+        ,
+    {\displaystyle d\tau =dt{\sqrt {1-\left({\frac {r\omega }{c}}\right)^{2}}},}
+which is the same as in Example 2.
+Now let there be an object off of the rotating disk and at inertial rest with respect to the center of the disk and at a distance of R from it. This object has a coordinate motion described by dθ = -ω dt, which describes the inertially at-rest object of counter-rotating in the view of the rotating observer. Now the proper time equation becomes
+        d
+        τ
+        =
+              [
+              1
+              −
+                  (
+                        R
+                        ω
+                      c
+                  )
+                  2
+              ]
+            d
+              t
+                2
+            −
+                (
+                      R
+                      ω
+                    c
+                )
+                2
+            d
+              t
+                2
+            +
+            2
+                (
+                      R
+                      ω
+                    c
+                )
+                2
+            d
+              t
+                2
+        =
+        d
+        t
+        .
+    {\displaystyle d\tau ={\sqrt {\left[1-\left({\frac {R\omega }{c}}\right)^{2}\right]dt^{2}-\left({\frac {R\omega }{c}}\right)^{2}\,dt^{2}+2\left({\frac {R\omega }{c}}\right)^{2}\,dt^{2}}}=dt.}
+So for the inertial at-rest observer, coordinate time and proper time are once again found to pass at the same rate, as expected and required for the internal self-consistency of relativity theory.
+The Schwarzschild solution has an incremental proper time equation of
+        d
+        τ
+        =
+              (
+              1
+              −
+                    2
+                    m
+                  r
+              )
+            d
+              t
+                2
+            −
+                1
+                  c
+                    2
+                (
+                1
+                −
+                      2
+                      m
+                    r
+                )
+                −
+                1
+            d
+              r
+                2
+            −
+                  r
+                    2
+                  c
+                    2
+            d
+              ϕ
+                2
+            −
+                  r
+                    2
+                  c
+                    2
+              sin
+                2
+            ⁡
+            (
+            ϕ
+            )
+            d
+              θ
+                2
+        ,
+    {\displaystyle d\tau ={\sqrt {\left(1-{\frac {2m}{r}}\right)dt^{2}-{\frac {1}{c^{2}}}\left(1-{\frac {2m}{r}}\right)^{-1}dr^{2}-{\frac {r^{2}}{c^{2}}}d\phi ^{2}-{\frac {r^{2}}{c^{2}}}\sin ^{2}(\phi )\,d\theta ^{2}}},}
+where
+t is time as calibrated with a clock distant from and at inertial rest with respect to the Earth,
+r is a radial coordinate (which is effectively the distance from the Earth's center),
+ɸ is a co-latitudinal coordinate, the angular separation from the north pole in radians.
+θ is a longitudinal coordinate, analogous to the longitude on the Earth's surface but independent of the Earth's rotation. This is also given in radians.
+m is the geometrized mass of the Earth, m = GM/c2,
+M is the mass of the Earth,
+G is the gravitational constant.
+To demonstrate the use of the proper time relationship, several sub-examples involving the Earth will be used here.
+For the Earth, M = 5.9742 × 1024 kg, meaning that m = 4.4354 × 10−3 m. When standing on the north pole, we can assume 
+        d
+        r
+        =
+        d
+        θ
+        =
+        d
+        ϕ
+        =
+        0
+    {\displaystyle dr=d\theta =d\phi =0}
+   (meaning that we are neither moving up or down or along the surface of the Earth). In this case, the Schwarzschild solution proper time equation becomes 
+        d
+        τ
+        =
+        d
+        t
+            1
+            −
+            2
+            m
+              /
+            r
+    {\displaystyle d\tau =dt\,{\sqrt {1-2m/r}}}
+  . Then using the polar radius of the Earth as the radial coordinate (or 
+        r
+        =
+        6
+        ,
+        356
+        ,
+        752
+    {\displaystyle r=6,356,752}
+   meters), we find that
+        d
+        τ
+        =
+              (
+              1
+              −
+              1.3908
+              ×
+                10
+                  −
+                  9
+              )
+            d
+              t
+                2
+        =
+          (
+          1
+          −
+          6.9540
+          ×
+            10
+              −
+              10
+          )
+        d
+        t
+        .
+    {\displaystyle d\tau ={\sqrt {\left(1-1.3908\times 10^{-9}\right)\;dt^{2}}}=\left(1-6.9540\times 10^{-10}\right)\,dt.}
+At the equator, the radius of the Earth is r = 6,378,137 meters. In addition, the rotation of the Earth needs to be taken into account. This imparts on an observer an angular velocity of 
+        d
+        θ
+          /
+        d
+        t
+    {\displaystyle \ d\theta /dt}
+   of 2π divided by the sidereal period of the Earth's rotation, 86162.4 seconds. So 
+        d
+        θ
+        =
+        7.2923
+        ×
+          10
+            −
+            5
+        d
+        t
+    {\displaystyle d\theta =7.2923\times 10^{-5}\,dt}
+  . The proper time equation then produces
+        d
+        τ
+        =
+              (
+              1
+              −
+              1.3908
+              ×
+                10
+                  −
+                  9
+              )
+            d
+              t
+                2
+            −
+            2.4069
+            ×
+              10
+                −
+                12
+            d
+              t
+                2
+        =
+          (
+          1
+          −
+          6.9660
+          ×
+            10
+              −
+              10
+          )
+        d
+        t
+        .
+    {\displaystyle d\tau ={\sqrt {\left(1-1.3908\times 10^{-9}\right)dt^{2}-2.4069\times 10^{-12}\,dt^{2}}}=\left(1-6.9660\times 10^{-10}\right)\,dt.}
+This should have been the same as the previous result, but as noted above the Earth is not spherical as assumed by the Schwarzschild solution. Even so, this demonstrates how the proper time equation is used.
+Lorentz transformation
+Minkowski space
+Proper length
+Proper acceleration
+Proper mass
+Proper velocity
+Clock hypothesis
+Peres metric

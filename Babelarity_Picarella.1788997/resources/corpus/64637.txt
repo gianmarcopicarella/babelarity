@@ -1,0 +1,435 @@
+In mathematics, Hodge theory, named after W. V. D. Hodge, is one aspect of the study of differential forms of a smooth manifold M. More specifically, it works out the logical consequences for the cohomology groups of M, with real coefficients, of the partial differential equation theory of generalised Laplacian operators associated to a Riemannian metric on M.
+It was developed by Hodge in the 1930s as an extension of de Rham cohomology, and has major applications on three levels:
+Riemannian manifolds
+Kähler manifolds
+algebraic geometry of complex projective varieties, and even more broadly, motives.
+In the initial development, M was taken to be a closed manifold (that is, compact and without boundary). On all three levels, the theory was very influential on subsequent work, being taken up by Kunihiko Kodaira (in Japan and later, partly under the influence of Hermann Weyl, at Princeton) and many others subsequently.
+The original formulation of Hodge theory, due to W. V. D. Hodge, was for the de Rham complex. If M is a compact oriented smooth manifold equipped with a smooth metric g, and Ωk is the sheaf of smooth differential forms of degree k on M, then the de Rham complex is the sequence of differential operators
+        0
+        →
+          Ω
+            0
+        (
+        M
+        )
+            →
+                d
+                  0
+          Ω
+            1
+        (
+        M
+        )
+            →
+                d
+                  1
+        ⋯
+            →
+                d
+                  n
+                  −
+                  1
+          Ω
+            n
+        (
+        M
+        )
+            →
+                d
+                  n
+        0
+    {\displaystyle 0\rightarrow \Omega ^{0}(M){\xrightarrow {d_{0}}}\Omega ^{1}(M){\xrightarrow {d_{1}}}\cdots {\xrightarrow {d_{n-1}}}\Omega ^{n}(M){\xrightarrow {d_{n}}}0}
+where dk denotes the exterior derivative on Ωk(M). The de Rham cohomology is then the sequence of vector spaces defined by
+          H
+            k
+        (
+        M
+        )
+        =
+              ker
+              ⁡
+                d
+                  k
+                i
+                m
+                d
+                  k
+                  −
+                  1
+        .
+    {\displaystyle H^{k}(M)={\frac {\ker d_{k}}{\mathrm {im} \,d_{k-1}}}.}
+One can define the formal adjoint of the exterior derivative d, denoted δ, called codifferential, as follows. For all α ∈ Ωk(M) and β ∈ Ωk+1(M), we require that
+          ∫
+            M
+        ⟨
+        d
+        α
+        ,
+        β
+          ⟩
+            k
+            +
+            1
+          v
+          o
+          l
+        =
+          ∫
+            M
+        ⟨
+        α
+        ,
+        δ
+        β
+          ⟩
+            k
+          v
+          o
+          l
+    {\displaystyle \int _{M}\langle d\alpha ,\beta \rangle _{k+1}\,\mathrm {vol} =\int _{M}\langle \alpha ,\delta \beta \rangle _{k}\,\mathrm {vol} }
+where 
+        ⟨
+        ,
+          ⟩
+            k
+    {\displaystyle \langle \ ,\ \rangle _{k}}
+   is the metric induced on Ωk(M) and 
+          v
+          o
+          l
+    {\displaystyle \mathrm {vol} }
+   is the volume form. The Laplacian on forms is then defined by
+        Δ
+        =
+        d
+        δ
+        +
+        δ
+        d
+        .
+    {\displaystyle \Delta =d\delta +\delta d.}
+This allows one to define spaces of harmonic forms
+              H
+            Δ
+            k
+        (
+        M
+        )
+        =
+        {
+        α
+        ∈
+          Ω
+            k
+        (
+        M
+        )
+        ∣
+        Δ
+        α
+        =
+        0
+        }
+        .
+    {\displaystyle {\mathcal {H}}_{\Delta }^{k}(M)=\{\alpha \in \Omega ^{k}(M)\mid \Delta \alpha =0\}.}
+Since 
+        d
+              H
+            Δ
+            k
+        (
+        M
+        )
+        =
+        0
+    {\displaystyle d{\mathcal {H}}_{\Delta }^{k}(M)=0}
+  , there is a canonical mapping 
+        φ
+        :
+              H
+            Δ
+            k
+        (
+        M
+        )
+        →
+          H
+            k
+        (
+        M
+        )
+    {\displaystyle \varphi :{\mathcal {H}}_{\Delta }^{k}(M)\rightarrow H^{k}(M)}
+  . The first part of Hodge's original theorem states that 
+        φ
+    {\displaystyle \varphi }
+   is an isomorphism of vector spaces. In other words, for each de Rham cohomology class on M, there is a unique harmonic representative.
+One major consequence of this is that the de Rham cohomology groups on a compact manifold are finite-dimensional. This follows since the operators Δ are elliptic, and the kernel of an elliptic operator on a compact manifold is always a finite-dimensional vector space.
+Another consequence is the Hodge decomposition. This that any k-form on a compact oriented smooth manifold equipped with a smooth metric can be uniquely written as the sum of three parts:
+        ω
+        =
+        d
+        α
+        +
+        δ
+        β
+        +
+        γ
+    {\displaystyle \omega =d\alpha +\delta \beta +\gamma }
+where γ is harmonic: Δγ = 0. Moreover, these three parts are orthogonal in the following sense:
+          ∫
+            M
+        ⟨
+        d
+        α
+        ,
+        δ
+        β
+          ⟩
+            k
+          v
+          o
+          l
+        =
+          ∫
+            M
+        ⟨
+        d
+        α
+        ,
+        γ
+          ⟩
+            k
+          v
+          o
+          l
+        =
+          ∫
+            M
+        ⟨
+        δ
+        β
+        ,
+        γ
+          ⟩
+            k
+          v
+          o
+          l
+        =
+        0.
+    {\displaystyle \int _{M}\langle d\alpha ,\delta \beta \rangle _{k}\,\mathrm {vol} =\int _{M}\langle d\alpha ,\gamma \rangle _{k}\,\mathrm {vol} =\int _{M}\langle \delta \beta ,\gamma \rangle _{k}\,\mathrm {vol} =0.}
+We thus have an orthogonal direct sum decomposition:
+          Ω
+            k
+        (
+        M
+        )
+        ≅
+          i
+          m
+          d
+            k
+            −
+            1
+        ⊕
+          i
+          m
+          δ
+            k
+            −
+            1
+        ⊕
+              H
+            Δ
+            k
+        (
+        M
+        )
+        .
+    {\displaystyle \Omega ^{k}(M)\cong \mathrm {im} \,d_{k-1}\oplus \mathrm {im} \,\delta _{k-1}\oplus {\mathcal {H}}_{\Delta }^{k}(M).}
+In general, Hodge theory applies to any elliptic complex over a compact manifold.
+Let 
+          E
+            0
+        ,
+          E
+            1
+        ,
+        …
+        ,
+          E
+            N
+    {\displaystyle E_{0},E_{1},\dots ,E_{N}}
+   be vector bundles, equipped with metrics, on a compact manifold M with a volume form dV. Suppose that
+          L
+            i
+        :
+        Γ
+        (
+          E
+            i
+        )
+        →
+        Γ
+        (
+          E
+            i
+            +
+            1
+        )
+    {\displaystyle L_{i}:\Gamma (E_{i})\rightarrow \Gamma (E_{i+1})}
+are differential operators acting on sections of these vector bundles, and that the induced sequence
+        Γ
+        (
+          E
+            0
+        )
+        →
+        Γ
+        (
+          E
+            1
+        )
+        →
+        ⋯
+        →
+        Γ
+        (
+          E
+            N
+        )
+    {\displaystyle \Gamma (E_{0})\rightarrow \Gamma (E_{1})\rightarrow \cdots \rightarrow \Gamma (E_{N})}
+is an elliptic complex. Introduce the direct sums:
+              E
+            ∙
+        =
+          ⨁
+            i
+        Γ
+        (
+          E
+            i
+        )
+    {\displaystyle {\mathcal {E}}^{\bullet }=\bigoplus _{i}\Gamma (E_{i})}
+        L
+        =
+        ⨁
+          L
+            i
+        :
+              E
+            ∙
+        →
+              E
+            ∙
+    {\displaystyle L=\bigoplus L_{i}:{\mathcal {E}}^{\bullet }\rightarrow {\mathcal {E}}^{\bullet }}
+and let L* be the adjoint of L. Define the elliptic operator Δ = LL* + L*L. As in the de Rham case, this yields the vector space of harmonic sections
+            H
+        =
+        {
+        e
+        ∈
+              E
+            ∙
+        ∣
+        Δ
+        e
+        =
+        0
+        }
+        .
+    {\displaystyle {\mathcal {H}}=\{e\in {\mathcal {E}}^{\bullet }\mid \Delta e=0\}.}
+So let 
+        H
+        :
+              E
+            ∙
+        →
+            H
+    {\displaystyle H:{\mathcal {E}}^{\bullet }\rightarrow {\mathcal {H}}}
+   be the orthogonal projection, and let G be the Green's operator for Δ. The Hodge theorem then asserts the following:
+H and G are well-defined.
+Id = H + ΔG = H + GΔ
+LG = GL, L*G = GL*
+The cohomology of the complex is canonically isomorphic to the space of harmonic sections, 
+        H
+        (
+          E
+            j
+        )
+        ≅
+            H
+        (
+          E
+            j
+        )
+    {\displaystyle H(E_{j})\cong {\mathcal {H}}(E_{j})}
+  , in the sense that each cohomology class has a unique harmonic representative.
+There is also a Hodge decomposition in this situation, generalizing that described above for the deRham complex.
+An abstract definition of (real) Hodge structure is now given: for a real vector space W, a Hodge structure of integer weight k on W is a direct sum decomposition of WC = W ⊗ C, the complexification of W, into graded pieces Wp, q where k = p + q, and the complex conjugation of WC interchanges this subspace with Wq, p.
+The basic statement in algebraic geometry is then that the singular cohomology groups with real coefficients of a non-singular complex projective variety V carry such a Hodge structure, with 
+          H
+            k
+        (
+        V
+        )
+    {\displaystyle H^{k}(V)}
+   having the required decomposition into complex subspaces Hp, q. The consequence for the Betti numbers is that, taking dimensions
+          b
+            k
+        =
+        dim
+        ⁡
+          H
+            k
+        (
+        V
+        )
+        =
+          ∑
+            p
+            +
+            q
+            =
+            k
+          h
+            p
+            ,
+            q
+        ,
+    {\displaystyle b_{k}=\dim H^{k}(V)=\sum _{p+q=k}h^{p,q},\,}
+where the sum runs over all pairs p, q with p + q = k and where
+          h
+            p
+            ,
+            q
+        =
+        dim
+        ⁡
+          H
+            p
+            ,
+            q
+        .
+    {\displaystyle h^{p,q}=\dim H^{p,q}.\,}
+The sequence of Betti numbers becomes a Hodge diamond of Hodge numbers spread out into two dimensions.
+This grading comes initially from the theory of harmonic forms, that are privileged representatives in a de Rham cohomology class picked out by the Hodge Laplacian (generalising harmonic functions, which must be locally constant on compact manifolds by their maximum principle). In later work (Dolbeault) it was shown that the Hodge decomposition above can also be found by means of the coherent sheaf cohomology groups 
+          H
+            q
+        (
+        V
+        ,
+          Ω
+            p
+        )
+    {\displaystyle H^{q}(V,\Omega ^{p})}
+   in which Ωp is the sheaf of holomorphic p-forms. This gives a more directly algebraic interpretation, without Laplacians, for this case.
+In the case of singularities or noncompact varieties, the Hodge structure has to be modified to a mixed Hodge structure, where the double-graded direct sum decomposition is replaced by a pair of filtrations. This case is much used, for example in monodromy questions.
+Hodge–Arakelov theory
+Hodge cycle
+Hodge conjecture
+Period mapping
+Torelli theorem
+Variation of Hodge structure
+Mixed Hodge structure
+Logarithmic form

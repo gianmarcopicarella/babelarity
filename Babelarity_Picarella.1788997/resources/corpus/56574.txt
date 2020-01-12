@@ -1,0 +1,43 @@
+The Cessna 340 is a twin piston engine pressurized business aircraft that was manufactured by Cessna.
+The Cessna 335 is an unpressurized version, which appears the same externally as the 340. It sold in fewer numbers than the 340.
+The 340 was conceived of as a cabin-class development of the successful Cessna 310.
+The 340 is a six-seat aircraft, with four passenger seats, an aisle and an airstair door. The tail and landing gear were based on the Cessna 310's units, while its wings were from the Cessna 414. The 340's primary selling feature was its spacious, pressurized cabin, the first in a light twin.
+Work on the 340 began in 1969 and the first aircraft was delivered in 1971, behind schedule as one of the prototypes crashed during flight testing in 1970.
+The early models have two turbocharged Continental TSIO-520-K engines with 285 hp (214 kW) each. Starting in 1976 the engines were upgraded to the more powerful Continental TSIO-520-NB engines of 310 hp (233 kW). This variant is known as the 340A and it also features smaller 75.5-inch (1,920 mm) diameter propellers to reduce noise and meet ICAO Annex 16 noise requirements.
+The Cessna 335 was marketed as a low-priced, non-pressurized, version powered by 300 hp (225 kW) Continental TSIO-520-EB engines. The prototype 335 made its maiden flight on December 5, 1978, with the first production aircraft flying in 1979. It was not a market success, with only 64 built by the time production ended in 1980. The 340 was more successful and remained in production until 1984 with 1287 built.
+340
+Pressurized six-seat twin powered by two Continental TSIO-520-K engines of 285 hp (214 kW) each. Certified 15 October 1971. 350 built.
+340A
+Pressurized six-seat twin powered by two Continental TSIO-520-NB engines of 310hp (233 kW) each. Certified 19 November 1975 948 built.
+335
+Unpressurized six-seat twin powered by Continental TSIO-520-EB engines of 300hp (225 kW) each. Certified 2 October 1979 65 built.
+Riley Jet Prop 340
+Conversion of Cessna 340 aircraft by fitting two Lycoming LTP101 turboprop engines.
+Riley Rocket 340
+Conversion of Cessna 340 aircraft by fitting two 340 hp (254 kW) Lycoming TIO-540-R engines. Also designated R340L.
+Riley Super 340
+Conversion of 1972–1975 Cessna 340 aircraft by fitting two 310hp Continental TSIO-520-J/-N engines. Also known as R340 Super.
+Data from Plane & Pilot, Airliners.net, The Incomplete Guide to Airfoil Usage
+General characteristics
+Crew: one pilot
+Capacity: five passengers
+Length: 34 ft 4 in (10.46 m)
+Wingspan: 38 ft 1 in (11.62 m)
+Height: 12 ft 7 in (3.84 m)
+Wing area: 184 ft² (17.1 m²)
+Airfoil: NACA 23018 (root) NACA 23015 (tip)
+Empty weight: 3,921 lb (1,780 kg)
+Max. takeoff weight: 5,990 lb (2,719kg)
+Powerplant: 2 × Continental TSIO-520-NB 6-cylinder piston engines, 310hp (231 kW) each
+Performance
+Maximum speed: 244 kts (279 mph, 452km/h)
+Stall speed: 82 knots (94 mph, 153 km/h)
+Range: 1,406 nm (1,606 mi, 2,603 km) at economy cruising speed
+Service ceiling: 29,800 ft (9,085 m)
+Rate of climb: 1,650 ft/min (8.38 m/s)
+Wing loading: 32.55 lb/ft² (159.0kg/m²)
+Power/mass: 9.66 lb/hp (0.12 kW/kg)
+Aircraft of comparable role, configuration and era
+Beechcraft Duke
+Piper PA-31 Navajo
+Rockwell Aero Commander

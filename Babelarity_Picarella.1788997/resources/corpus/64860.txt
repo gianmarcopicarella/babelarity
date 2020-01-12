@@ -1,0 +1,40 @@
+In mathematics, a unary operation is an operation with only one operand, i.e. a single input. An example is the function f : A → A, where A is a set. The function f is a unary operation on A.
+Common notations are prefix notation (e.g. +, −, not), postfix notation (e.g. factorial n!), functional notation (e.g. sin x or sin(x)), and superscripts (e.g. transpose AT). Other notations exist as well. For example, in the case of the square root, a horizontal bar extending the square root sign over the argument can indicate the extent of the argument.
+As unary operations have only one operand they are evaluated before other operations containing them in common mathematics (because certain programming languages do not abide by such rules). Here is an example using negation:
+3 − −2
+Here the first '−' represents the binary subtraction operation, while the second '−' represents the unary negation of the 2 (or '−2' could be taken to mean the integer −2). Therefore, the expression is equal to:
+3 − (−2) = 5
+Technically there is also a unary positive but it is not needed since we assume a value to be positive:
+(+2) = 2
+Unary positive does not change the sign of a negative operation:
+(+(−2)) = (−2)
+In this case a unary negative is needed to change the sign:
+(−(−2)) = (+2)
+In the C family of languages, the following operators are unary:
+Increment: ++x, x++
+Decrement: −−x, x−−
+Address: &x
+Indirection: *x
+Positive: +x
+Negative: −x
+Ones' complement: ~x
+Logical negation: !x
+Sizeof: sizeof x, sizeof(type-name)
+Cast: (type-name) cast-expression
+In the Unix/Linux shell (bash/sh), '$' is a unary operator when used for parameter expansion, replacing the name of a variable by its (sometimes modified) value. For example:
+Simple expansion: $x
+Complex expansion: ${#x}
+Increment: ++$x, $x++
+Decrement: −−$x, $x−−
+Positive: +$x
+Negative: −$x
+Logical negation: -not $x
+Invoke in current scope: .$x
+Invoke in new scope: &$x
+Cast: [type-name] cast-expression
+Cast: +$x
+Binary operation
+Ternary operation
+Arity
+Operation (mathematics)
+Operator (programming)

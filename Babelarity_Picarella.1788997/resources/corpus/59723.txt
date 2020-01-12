@@ -1,0 +1,22 @@
+Chalcopyrite (/ˌkælkəˈpaɪraɪt, -koʊ-/ KAL-ko-PY-ryt) is a copper iron sulfide mineral that crystallizes in the tetragonal system. It has the chemical formula CuFeS2. It has a brassy to golden yellow color and a hardness of 3.5 to 4 on the Mohs scale. Its streak is diagnostic as green tinged black.
+On exposure to air, chalcopyrite oxidises to a variety of oxides, hydroxides and sulfates. Associated copper minerals include the sulfides bornite (Cu5FeS4), chalcocite (Cu2S), covellite (CuS), digenite (Cu9S5); carbonates such as malachite and azurite, and rarely oxides such as cuprite (Cu2O). Chalcopyrite is rarely found in association with native copper.
+Natural chalcopyrite has no solid solution series with any other sulfide minerals. There is limited substitution of Zn with Cu despite chalcopyrite having the same crystal structure as sphalerite.
+Minor amounts of elements such as Ag, Au, Cd, Co, Ni, Pb, Sn, and Zn can be measured (at part per million levels), likely substituting for Cu and Fe. Selenium, Bi, Te, and As may substitute for sulfur in minor amounts.
+Chalcopyrite is present with many ore-bearing environments via a variety of ore forming processes.
+Chalcopyrite is present in volcanogenic massive sulfide ore deposits and sedimentary exhalative deposits, formed by deposition of copper during hydrothermal circulation. Chalcopyrite is concentrated in this environment via fluid transport.
+Porphyry copper ore deposits are formed by concentration of copper within a granite stock during the ascent and crystallisation of a magma. Chalcopyrite in this environment is produced by concentration within a magmatic system.
+Chalcopyrite is an accessory mineral in Kambalda type komatiitic nickel ore deposits, formed from an immiscible sulfide liquid in sulfide-saturated ultramafic lavas. In this environment chalcopyrite is formed by a sulfide liquid stripping copper from an immiscible silicate liquid.
+Chalcopyrite is the most important copper ore. Chalcopyrite ore occurs in a variety of ore types, from huge masses as at Timmins, Ontario, to irregular veins and disseminations associated with granitic to dioritic intrusives as in the porphyry copper deposits of Broken Hill, the American cordillera and the Andes. The largest deposit of nearly pure chalcopyrite ever discovered in Canada was at the southern end of the Temagami Greenstone Belt where Copperfields Mine extracted the high-grade copper.
+Chalcopyrite is present in the supergiant Olympic Dam Cu-Au-U deposit in South Australia.
+Chalcopyrite may also be found in coal seams associated with pyrite nodules, and as disseminations in carbonate sedimentary rocks.
+Crystallographically the structure of chalcopyrite is closely related to that of zinc blende ZnS (sphalerite). The unit cell is twice as large, reflecting an alternation of Cu+ and Fe3+ ions replacing Zn2+ ions in adjacent cells. In contrast to the pyrite structure chalcopyrite has single S2− sulfide anions rather than disulfide pairs. Another difference is that the iron cation is not diamagnetic low spin Fe(II) as in pyrite.
+Copper metal can be extracted from the roasting of chalcopyrite, as shown in the following reaction:
+2CuFeS
+2 (s) + 5O
+2 (g) + 2SiO
+2 (s) ⇌ 2Cu (l) + 4SO
+2 (g) + 2FeSiO
+3 (l)
+Classification of minerals
+List of minerals
+Kesterite

@@ -1,0 +1,20 @@
+Instantbird is a cross-platform instant messaging client based on Mozilla's XULRunner and the open source library libpurple used in Pidgin. Instantbird is free software available under the GNU General Public License. Over 250 add-ons allow user customization of, and addition of, features.
+Supported protocols include:
+OSCAR (AIM/ICQ/MobileMe)
+Gadu-Gadu
+Novell GroupWise
+IRC
+Lotus Sametime
+MSNP (Microsoft Messenger service, commonly known as MSN, .NET, or Live)
+MySpaceIM
+Netsoul
+Odnoklassniki
+SIMPLE
+QQ
+Twitter
+XMPP (Google Talk, ...)
+YMSG (YIM)
+VKontakte
+Users can set their own user icon and display name. Several themes are included by default, including "Bubbles", which has the "Time Bubbles" feature of displaying time between messages, rather than timestamps within or adjacent to each message. Text copied from an Instantbird window is reformatted transparently to include timestamps in front of each message, in a feature called "Magic Copy". Instantbird includes an Add-ons system which allows additional protocol support such as LiveJournal's LJ Talk; there are over 250 additional add-ons available. Additional features available include "UI theming, language packs and dictionaries, developer tools and usability enhancements such as tab completion of nicknames, highlighting, colourising of buddies, and vertical tabs." The developers list some of their "favorite" add-ons as follows: "Colorize" buddy names, "Highlight" words in chats, "Tab Complete" nicknames and commands, "Reply to Nick" - doubleclick inserts name, "Show Nick" in color in multiuser chats, and "Vertical Tabs" to arrange conversations vertically. Conversation logging is enabled by default, but can be disabled. Binaries are available in the following 13 languages: English, German, Spanish, French, Italian, Dutch, Polish, Russian, Czech, Slovak, Ukrainian, Swedish and Estonian.
+In October 2015 the Tor anonymity project presented Tor Messenger as its open source instant messenger client. It is based on Instandbird but removes the dependency on libpurple, re-implementing all supported chat protocols in the memory-safe language JavaScript. Tor Messenger encrypts one-to-one chats by default using OTR and provides anonymity by routing its traffic through the Tor network.
+Instantbird received some positive notice, with stated expectations of future improvements. Tech blogger Chris Pirillo wrote that the client "works quite well on all three main operating systems", that the interface "is unobtrusive… and very clean", and that chat can take place on multiple protocols simultaneously, including IRC. BetaNews writer Joe Cassels noted that Instantbird "aims to bring together many of these disparate networks and services under one roof, and while not as polished as more established multi-network clients like Trillian and Pidgin, its close links to Mozilla makes us confident the program will evolve into a powerful alternative to these programs in time." LifeHacker writer Alan Henry called the application's visual appearance "sharp", referred to the user interface as "inspired by" but "a bit more attractive" than Pidgin, called the version 1.0 of the software "a big improvement", and stated "what it lacks in native features it makes up for in add-ons and themes contributed by the user community."

@@ -1,0 +1,65 @@
+Molybdenum disulfide is the inorganic compound composed of only two elements: molybdenum and sulfur. Its chemical formula is MoS
+2.
+The compound is classified as a metal dichalcogenide. It is a silvery black solid that occurs as the mineral molybdenite, the principal ore for molybdenum. MoS
+2 is relatively unreactive. It is unaffected by dilute acids and oxygen. In appearance and feel, molybdenum disulfide is similar to graphite. It is widely used as a solid lubricant because of its low friction properties and robustness. Bulk MoS
+2 is a diamagnetic, indirect bandgap semiconductor similar to silicon, with a bandgap of 1.23 eV.
+Molybdenite ore is processed by flotation to give relatively pure MoS
+2, the main contaminant being carbon. MoS
+2 also arises by the thermal treatment of virtually all molybdenum compounds with hydrogen sulfide or elemental sulfur and can be produced by metathesis reactions from molybdenum pentachloride.
+MoS
+2 usually consists of a mixture of two major polytypes of similar structure, 2H and 3R, with the former being more abundant. In 2H-MoS
+2, each Mo(IV) center occupies a trigonal prismatic coordination sphere that is bound to six sulfide ligands. Each sulfur centre is pyramidal and is connected to three Mo centres. In this way, the trigonal prisms are interconnected to give a layered structure, wherein molybdenum atoms are sandwiched between layers of sulfur atoms. Because of the weak van der Waals interactions between the sheets of sulfide atoms, MoS
+2 has a low coefficient of friction, producing its lubricating properties. Other layered inorganic materials exhibit lubricating properties (collectively known as solid lubricants (or dry lubricants)) include graphite, which requires volatile additives, and hexagonal boron nitride.
+Much research is focused on unusual morphologies of MoS2. Multilayer sheets are produced by liquid phase exfoliation. Nanotube-like and buckyball-like molecules composed of MoS
+2 are known.
+The natural amorphous form is known as the rarer mineral jordisite.
+Two-dimensional, single- or few-layer MoS
+2, is a two-dimensional semiconductor, with the band structure very sensitive to strain.
+Molybdenum disulfide is stable in air and attacked only by aggressive reagents. It reacts with oxygen upon heating forming molybdenum trioxide:
+2 MoS
+2 + 7 O
+2 → 2 MoO
+3 + 4 SO
+2
+Chlorine attacks molybdenum disulfide at elevated temperatures to form molybdenum pentachloride:
+2 MoS
+2 + 7 Cl
+2 → 2 MoCl
+5 + 2 S
+2Cl
+2
+Molybdenum disulfide is a host for formation of intercalation compounds. This behavior is relevant to its use as a cathode material in batteries. One example is lithiated material, Li
+xMoS
+2. With butyl lithium, the product is LiMoS
+2.
+MoS
+2 with particle sizes in the range of 1–100 µm is a common dry lubricant. Few alternatives exist that confer high lubricity and stability at up to 350 °C in oxidizing environments. Sliding friction tests of MoS
+2 using a pin on disc tester at low loads (0.1–2 N) give friction coefficient values of <0.1.
+MoS
+2 is often a component of blends and composites that require low friction. A variety of oils and greases are used, because they retain their lubricity even in cases of almost complete oil loss, thus finding a use in critical applications such as aircraft engines. When added to plastics, MoS
+2 forms a composite with improved strength as well as reduced friction. Polymers filled with MoS
+2 include nylon (with the trade name Nylatron), Teflon and Vespel. Self-lubricating composite coatings for high-temperature applications consist of molybdenum disulfide and titanium nitride, using chemical vapor deposition.
+Examples of applications of MoS
+2-based lubricants include two-stroke engines (such as motorcycle engines), bicycle coaster brakes, automotive CV and universal joints, ski waxes, and even bullets.
+MoS
+2 is employed as a cocatalyst for desulfurization in petrochemistry, for example, hydrodesulfurization.The effectiveness of the MoS
+2 catalysts is enhanced by doping with small amounts of cobalt or nickel The intimate mixture of these sulfides is supported on alumina. Such catalysts are generated in situ by treating molybdate/cobalt or nickel-impregnated alumina with H
+2S or an equivalent reagent. Catalysis does not occur at the regular sheet-like regions of the crystallites, but instead at the edge of these planes.
+MoS2 also finds some use as a hydrogenation catalyst for organic synthesis. Being derived from a common transition metal, rather than group 10 metal like many alternatives, MoS2 is chosen when catalyst price or resistance to sulfur poisoning are of primary concern. MoS2 is effective for the hydrogenation of nitro compounds to amines and can be used produce secondary amines via reductive alkylation. The catalyst can also can effect hydrogenolysis of organosulfur compounds, aldehydes, ketones, phenols, and carboxylic acids to their respective alkanes. The catalyst suffers from rather low activity however, often requiring hydrogen pressures above 95 atm and temperatures above 185 °C.
+MoS
+2 and related molybdenum sulfides are efficient catalysts for hydrogen evolution, including the electrolysis of water.
+As in graphene, the layered structures of MoS
+2 and other transition metal dichalcogenides exhibit rich electronic and optical properties that can differ from those in bulk. Whereas bulk MoS
+2 has an indirect band gap of 1.2 eV, MoS
+2 monolayers have a direct 1.8 eV electronic bandgap, allowing the production of switchable transistors and photodetectors.
+MoS
+2 nanoflakes can be used for solution-processed fabrication of layered memristive and memcapacitive devices through engineering a MoO
+x/MoS
+2 heterostructure sandwiched between silver electrodes. The MoS
+2-based memristors are mechanically flexible, optically transparent and can be produced at low cost.
+The sensitivity of a graphene field-effect transistor (FET) biosensor is fundamentally restricted by the zero band gap of graphene, which results in increased leakage and reduced sensitivity. In digital electronics, transistors control current flow throughout an integrated circuit and allow for amplification and switching. In biosensing, the physical gate is removed, and the binding between embedded receptor molecules and the charged target biomolecules to which they are exposed modulates the current.
+MoS2 has been investigated as a component of flexible circuits.
+MoS
+2 also possesses mechanical strength, electrical conductivity, and can emit light, opening possible applications such as photodetectors. MoS
+2 has been investigated as a component of photoelectrochemical (e.g. for photocatalytic hydrogen production) applications and for microelectronics applications.
+Molybdenum diselenide

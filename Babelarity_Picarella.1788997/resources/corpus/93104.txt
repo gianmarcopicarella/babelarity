@@ -1,0 +1,90 @@
+The Dipodidae, or dipodids, are a family of rodents found across the northern hemisphere, the sole family in the superfamily Dipodoidea. This family includes over 50 species among the 16 genera. They include the jerboas, jumping mice, and birch mice. Different species are found in grassland, deserts, and forests. They are all capable of saltation (jumping while in a bipedal stance), a feature that is most highly evolved in the desert-dwelling jerboas.
+Dipodids are small to medium-sized rodents, ranging from 4 to 26 cm (1.6 to 10.2 in) in body length, excluding the tail. They are all adapted for jumping, although to varying degrees. The jerboas have very long hind legs which, in most species, include cannon bones. They move either by jumping, or by walking on their hind legs. The jumping mice have long feet, but lack the extreme adaptations of the jerboas, so that they move by crawling or making short hops, rather than long leaps. Both jerboas and jumping mice have long tails to aid their balance. Birch mice have shorter tails and feet, but they, too, move by jumping.
+Most dipodids are omnivorous, with a diet consisting of seeds and insects. Some species of jerboa, however, such as Allactaga sibirica, are almost entirely insectivorous. Like other rodents, they have gnawing incisors separated from the grinding cheek teeth by a gap, or diastema. The dental formula for dipodids is:
+Jerboas and birch mice make their nests in burrows, which, in the case of jerboas, may be complex, with side-chambers for storage of food. In contrast, while jumping mice sometimes co-opt the burrows of other species, they do not dig their own, and generally nest in thick vegetation. Most species hibernate for at least half the year, surviving on fat that they build up in the weeks prior to going to sleep.
+Dipodids give birth to litters of between two and seven young after a gestation period of between 17 and 42 days. They breed once or twice a year, depending on the species.
+Family Dipodidae
+Subfamily Sicistinae, Birch mice
+Genus Sicista
+Armenian Birch Mouse, Sicista armenica
+Northern Birch Mouse, Sicista betulina
+Caucasian Birch Mouse, Sicista caucasica
+Long-tailed Birch Mouse, Sicista caudata
+Chinese Birch Mouse, Sicista concolor
+Kazbeg Birch Mouse, Sicista kazbegica
+Kluchor Birch Mouse, Sicista kluchorica
+Altai Birch Mouse, Sicista napaea
+Gray Birch Mouse, Sicista pseudonapaea
+Severtzov's Birch Mouse, Sicista severtzovi
+Strand's Birch Mouse, Sicista strandi
+Southern Birch Mouse, Sicista subtilis
+Tien Shan Birch Mouse, Sicista tianshanica
+Subfamily Zapodinae, Jumping mice
+Genus Eozapus
+Chinese Jumping Mouse, Eozapus setchuanus
+Genus Napaeozapus
+Woodland Jumping Mouse, Napaeozapus insignis
+Genus Zapus
+Meadow Jumping Mouse, Zapus hudsonius
+Western Jumping Mouse, Zapus princeps
+Pacific Jumping Mouse, Zapus trinotatus
+Subfamily Allactaginae
+Genus Allactaga
+Subgenus Allactaga
+Small Five-toed Jerboa, Allactaga elater
+Iranian Jerboa, Allactaga firouzi
+Hotson's Jerboa, Allactaga hotsoni
+Great Jerboa, Allactaga major
+Severtzov's Jerboa, Allactaga severtzovi
+Vinogradov's Jerboa, Allactaga vinogradovi
+Subgenus Orientallactaga
+Balikun Jerboa, Allactaga balikunica
+Gobi Jerboa, Allactaga bullata
+Mongolian Five-toed Jerboa, Allactaga sibirica
+Subgenus Paralactaga
+Euphrates Jerboa, Allactaga euphratica
+Williams's Jerboa, Allactaga williamsi
+Subgenus Scarturus
+Four-toed Jerboa, Allactaga tetradactyla
+incertae sedis
+Allactaga toussi
+Genus Allactodipus
+Bobrinski's Jerboa, Allactodipus bobrinskii
+Genus Pygeretmus, Fat-tailed Jerboas
+Lesser Fat-tailed Jerboa, Pygeretmus platyurus
+Dwarf Fat-tailed Jerboa, Pygeretmus pumilio
+Greater Fat-tailed Jerboa, Pygeretmus shitkovi
+Subfamily Cardiocraniinae
+Genus Cardiocranius
+Five-toed Pygmy Jerboa, Cardiocranius paradoxus
+Genus Salpingotulus
+Baluchistan Pygmy Jerboa, Salpingotulus michaelis
+Genus Salpingotus, Pygmy Jerboas
+Subgenus Anguistodontus
+Thick-tailed Pygmy Jerboa, Salpingotus crassicauda
+Subgenus Prosalpingotus
+Heptner's Pygmy Jerboa, Salpingotus heptneri
+Pale Pygmy Jerboa, Salpingotus pallidus
+Thomas's Pygmy Jerboa, Salpingotus thomasi
+Subgenus Salpingotus
+Kozlov's Pygmy Jerboa, Salpingotus kozlovi
+Subfamily Dipodinae
+Tribe Dipodini
+Genus Dipus
+Northern Three-toed Jerboa, Dipus sagitta
+Genus Eremodipus
+Lichtenstein's Jerboa, Eremodipus lichtensteini
+Genus Jaculus
+Blanford's Jerboa, Jaculus blanfordi
+Lesser Egyptian Jerboa, Jaculus jaculus
+Greater Egyptian Jerboa, Jaculus orientalis
+Genus Stylodipus, Three-toed Jerboas
+Andrews's Three-toed Jerboa, Stylodipus andrewsi
+Mongolian Three-toed Jerboa, Stylodipus sungorus
+Thick-tailed Three-toed Jerboa, Stylodipus telum
+Tribe Paradipodini
+Genus Paradipus
+Comb-toed Jerboa, Paradipus ctenodactylus
+Subfamily Euchoreutinae
+Genus Euchoreutes, Long-eared Jerboa
+Long-eared Jerboa, Euchoreutes naso

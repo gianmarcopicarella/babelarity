@@ -1,0 +1,67 @@
+Tsakonian or Tsaconian (also Tzakonian or Tsakonic, Greek and Tsakonian: τσακώνικα) is a highly divergent modern variety of Greek, spoken in the Tsakonian region of the Peloponnese, Greece. Tsakonian derives from Doric Greek, being its only extant variant. Although it is conventionally treated as a dialect of Greek, some compendia treat it as a separate language. Tsakonian is critically endangered, with only a few hundred, mostly elderly, fluent speakers left. It is mutually unintelligible with Standard Modern Greek.
+It is named after its speakers, the Tsakonians, which in turn may be derived from 'exo-Laconians' 'Outer Lakonians'.
+Tsakonian is found today in a group of mountain towns and villages slightly inland from the Argolic Gulf, although it was once spoken farther to the south and west as well as on the coasts of Laconia (ancient Sparta). There was formerly a Tsakonian colony on the Sea of Marmara (or Propontis; two villages near Gönen, Vatika and Havoutsi), probably dating from the 18th century, whose members were resettled in Greece with the 1924 population exchanges. Propontis Tsakonian appears to have died out around 1970.
+Geographical barriers to travel and communication kept the Tsakonians relatively isolated from the rest of Greece until the 19th century, although there was some trade between the coastal towns. The rise of mass education and improved travel beginning after the Greek War of Independence meant that fluent Tsakonian speakers were no longer as isolated from the rest of Greece. In addition, during the war, the Turkish army drove the Tsakonians east, and as a result, their de-facto capital shifted from Paliohora to Leonidio, further making the people significantly less isolated. There began a rapid decline from an estimated figure of some 200,000 fluent speakers to the present estimate of a speaker count between 200 and 1,000.
+Since the introduction of electricity to all villages in Tsakonia by the late 1950s, the Greek mass media can reach the most remote of areas and profoundly affect the speech of younger speakers. Efforts to revive the language by teaching it in local schools do not seem to have had much success. Standard Modern Greek is the official language of government, commerce and education, and it is possible that the continued modernization of Tsakonia will lead to the language's disappearance sometime this century.
+Tsakonian has no official status. Prayers and liturgies of the Greek Orthodox Church have been translated into Tsakonian, but the ancient Koine of the traditional church services is usually used as in other locations in Greece. Some teaching materials in Tsakonian for use in local schools have reportedly also been produced.
+Tsakonian is divided by scholars into three dialects, Northern Tsakonian, Southern Tsakonian and Propontis Tsakonian.
+Another difference between Tsakonian and the common Demotic Greek dialect is its verb system – Tsakonian preserves different archaic forms, such as participial periphrasis for the present tense. Certain complementisers and other adverbial features present in the standard Modern Greek dialect are absent from Tsakonian, with the exception of the Modern που (/pu/) relativiser, which takes the form πφη (/pʰi/) in Tsakonian (note: traditional Tsakonian orthography uses the digraph πφ to represent aspirated /pʰ/). Noun morphology is broadly similar to Standard Modern Greek, although Tsakonian tends to drop the nominative, final -ς (-s) from masculine nouns, thus Tsakonian ο τσχίφτα for Standard o τρίφτης (o tshífta/o tríftis: "grater").
+The Propontis dialect was much more heavily influenced by the modern Thracian dialect, and although there were significant grammatical differences, its vocabulary was much closer to Standard Modern Greek. Compare the Northern and Southern word for water, ύο (ýo, derived from Ancient Greek ὕδωρ) to Propontic νερέ and Standard νερό (neré, neró).
+However, there has always been contact with Koine Greek speakers and the language was affected by the neighboring Greek dialects. Additionally, there are some lexical borrowings from Arvanitika and Turkish. The core vocabulary remains recognizably Doric, although experts disagree on the extent to which other true Doricisms can be found. There are only a few hundred, mainly elderly true native speakers living, although a great many more can speak the language less than fluently.
+A [a] can appear as a reflex of Doric [aː], in contexts where Attic had η [ɛː] and Modern Greek has [i]: αμέρα [aˈmera] corresponding to Modern ημέρα [imera] "day", στρατιώτα [stratiˈota] corresponding to Modern στρατιώτης [stratiˈotis] "soldier".
+Ε [e] > [i] before vowels: e.g. Βασιλήα [vasiˈlia] instead of βασιλέα [vasiˈlea].
+O occasionally [o] > [u]: ουφις [ufis] < όφις [ˈofis] "snake", τθούμα [ˈtʰuma] < στόμα [ˈstoma] "mouth". Final [o] > [e] after coronals and front vowels: όνος [ˈonos] > όνε [ˈone], χοίρος [ˈxyros] > χιούρε [ˈxjure], γραφτός [ɣrafˈtos] > γραφτέ [ɣrafˈte], χρέος [ˈxreos] > χρίε [ˈxrie], but δρόμος [ˈðromos] > δρόμο [ˈðromo]
+Υ Pronounced in Modern Greek [i], this was [u] in Doric and [y] in Attic. The reflex of this phoneme in Tsakonian is [u], and [ju] after coronals (suggesting an origin in [y]). σούκα [ˈsuka] corresponding to Modern σύκα [ˈsika] "figs", άρτουμα [ˈartuma] corresponding to άρτυμα [ˈartima] "bread"; λύκος [ˈlykos] > λιούκο [ˈljuko] [ˈʎuko] "wolf"
+Ω [ɔː] in Ancient Greek, regularly goes to [u]: μουρήα [muˈria] (Ancient μωρέα [mɔːˈrea], Modern μουριά [murˈja]), αού [au] < λαλών [laˈlɔːn] "speaking".
+(Note: Tsakonian citation forms for verbs are participles, hence they are given as derived from the ancient participle in -ών.)
+Tsakonian in some words preserves the pre-classical Greek [w]-sound, represented in some Ancient Greek texts by the digamma (ϝ). In Tsakonian, this sound has become a fricative [v]: βάννε [ˈvane] "sheep", corresponding to Ancient ϝαμνός [wamˈnos] (Attic ἀμνός).
+Tsakonian has extensive changes triggered by palatalisation:
+[k] > [tɕ] : κύριος [ˈkyrios] > τζιούρη [ˈtɕuri], occasionally [ts]: κεφάλι [keˈfali] > τσουφά [tsuˈfa]
+[ɡ] > [dz] : αγγίζων [aŋˈɡizɔːn] > αντζίχου [anˈdzixu]
+[p] > [c] : πηγάδι [piˈɣaði] > κηγάδι [ciˈɣaði]
+[t] > [c] : τυρός [tyˈros] > κιουρέ [cuˈre], occasionally [ts]: τίποτα [ˈtipota] > τσίπτα [ˈtsipta], πίτα [ˈpita] > πίτσα [ˈpitsa]
+[m] > [n] : Μιχάλης [miˈxalis] > Ν(ν)ιχάλη [niˈxali]
+[n] > [ɲ] : ανοίγων [aˈniɣɔːn] > ανοίντου [aˈɲindu]
+[l] > [ʎ] : ηλιάζων [iliˈazɔːn] > λιάζου [ˈʎazu]
+[r] > [ʒ] : ρυάκι [ryˈaki] > ρζάτζι [ˈʒatɕi]. This sound appears to have been a fricative trill in the 19th century, and [ʒ] survived latterly only in women's usage in Southern Tsakonian. A similar change occurred with palatalised [rʲ] in Polish and Czech, whereas in other languages it went in the reverse.
+In Southern Tsakonian, [l] is deleted before back and central vowels: λόγος [ˈloɣos] > Northern λόγo [ˈloɣo], Southern όγo [ˈoɣo]; λούζων [ˈluzɔːn] > Northern λούκχου [ˈlukʰu], Southern ούκχου [ˈukʰu];
+Occasionally [θ] > [s], which appears to reflect an earlier process in Laconian, but in others [θ] is retained though the word is absent in Standard Greek: θυγάτηρ [θyˈɣatir] > σάτη [ˈsati], but Ancient θύων [ˈθiɔːn] (Modern σφάζω [ˈsfazo]) > θύου [ˈθiu]
+Word-final [s] > [r], which reflects an earlier process in Laconian; in Tsakonian, it is a liaison phoneme: τίνος [ˈtinos] > τσούνερ [ˈtsuner]
+Word-initial [r] > [ʃ]: *ράφων [ˈrafɔːn] > σχάφου [ˈʃafu]
+In the common verb ending -ζω, [z] > [nd] : φωνάζων [foˈnazɔːn] > φωνιάντου [foˈɲandu]
+Tsakonian avoids clusters, and reduces them to aspirated or prenasalised stops and affricates:
+[ðr, θr, tr] > [tʃ]: δρύας, άνθρωπος, τράγος [ˈðryas, ˈanθropos, ˈtraɣos] > τσχούα, άτσχωπο, τσχάο [ˈtʃua, ˈatʃopo, ˈtʃao]
+[sp, st, sθ, sk, sx] > [pʰ, tʰ, tʰ, kʰ, kʰ]: σπείρων, ιστός, επιάσθη, ασκός, ίσχων [ˈspirɔːn, isˈtos, epiˈasθi, asˈkos, ˈisxɔːn] > πφείρου, ιτθέ, εκιάτθε, ακχό, ίκχου [ˈpʰiru, iˈtʰe, eˈcatʰe, aˈkʰo, ˈikʰu]
+[mf, nθ, ŋx] > [pʰ, tʰ, kʰ]: ομφαλός, γρονθία, ρύγχος [omfaˈlos, ɣronˈθia, ˈryŋxos] > απφαλέ, γροτθία, σχούκο [apʰaˈle, ɣroˈtʰia, ˈʃukʰo]
+[ks] > [ts]: ξερός [kseˈros] > τσερέ [tseˈre]
+[kt, xθ] > [tʰ]: δάκτυλο, δεχθώ [ˈðaktylo, ðexˈθɔː] > δάτθυλε, δετθού [ˈðatʰile, ðeˈtʰu]
+[l] after consonants often goes to [r]: πλατύ, κλέφτης, γλώσσα, αχλάδες [plaˈty, ˈkleftis, ˈɣlɔːsa, aˈxlaðes] > πρακιού, κρέφτα, γρούσα, αχράε [praˈcu, ˈkrefta, ˈɣrusa, aˈxrae]
+[rp, rt, rk, rð] > [mb, nd, ŋɡ, nd]: σκορπίος, άρτος, άρκα, πορδή [skorˈpios, ˈartos, ˈarka, porˈði] > κχομπίο, άντε, άγκα, πφούντα [kʰomˈbio, ˈande, ˈaŋɡa, ˈpʰunda]
+[z, v] are added between vowels: μυία, κυανός [myˈia, kyaˈnos] > μούζα, κουβάνε [ˈmuza, kuˈvane]
+[ɣ, ð] often drop out between vowels: πόδας, τράγος [ˈpoðas, ˈtraɣos] > πούα, τσχάο [ˈpua, ˈtʃao]
+English translation
+Tsakonian avoids consonant clusters, as seen, and drops final [s] and [n]; as a result, syllable structure tends more to CV than in Standard Modern Greek. (The use of digraphs in tradition spelling tends to obscure this). For instances, ancient [hadros] "hard" goes to Tsakonian [a.tʃe], where /t͡ʃ/ can be considered a single phoneme; it is written traditionally with a trigraph as ατσχέ (= atskhe).
+Tsakonian has undergone considerable morphological simplification: there is minimal case inflection.
+The present and imperfect indicative in Tsakonian are formed with participles, like English but unlike the rest of Greek: Tsakonian ενεί αού, έμα αού "I am saying, I was saying" ≈ Greek ειμί λαλών, ήμην λαλών.
+Ενεί (Ení) = I am
+Εσεί (Esí) = you are
+Έννι (Éni) = he/she/it is
+Έμε (Éme) = we are
+Έτε (Éte) = you are
+Είνι (Íni) = they are
+Έμα (Éma) = I was
+Έσα (Ésa) = you were
+Έκη (Éki) = he/she/it was
+Έμαϊ (Émaï) = we were
+Έταϊ (Étaï) = you were
+Ήγκιαϊ (Ígiaï) = they were
+φερήκου (males) φερήκα (females) (feríkou/feríka) = I bring
+φερήκεις (feríkis) = you bring
+φερήκει (feríki) = he/she/it brings
+φερήκουντε (feríkoude) = we bring
+φερήκουτε (feríkoute) = you bring
+φερήκουσι (feríkousi) = they bring
+Traditionally, Tsakonian used the standard Greek alphabet, along with digraphs to represent certain sounds that either do not occur in Demotic Greek, or that do not commonly occur in combination with the same sounds as they do in Tsakonian. For example, the [ʃ] sound, which does not occur in standard Greek, does occur in Tsakonian, and is spelled σχ (much like German sch). Another sound recalls Czech ř. Thanasis Costakis invented an orthography using dots, spiritus asper, and caron for use in his works, which has been used in his grammar and several other works. This is more like the Czech usage of hačeks (such as š). Lastly, unpalatalized n and l before a front vowel can be written double, to contrast with a palatalised single letter. (e.g. in Southern Tsakonian ένι [eɲi] "he is", έννι [eni] "I am" – the latter corresponding to Northern Tsakonian έμι [emi] and Standard Greek είμαι [ime].)
+Note: (K) is for the northern dialect of Kastanitsa and Sitaina, (Λ) and (L) for the southern which is spoken around Leonidio and Tyros.
+Tsakonia
+Tsakonian people

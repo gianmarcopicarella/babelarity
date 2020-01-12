@@ -1,0 +1,96 @@
+Nystagmus /nɪˈstæɡməs/ is a condition of involuntary (or voluntary, in rare cases) eye movement, acquired in infancy or later in life, that may result in reduced or limited vision. Due to the involuntary movement of the eye, it is often called "dancing eyes".
+In a normal condition, while the head rotates about any axis, distant visual images are sustained by rotating eyes in the opposite direction on the respective axis. The semicircular canals in the vestibule sense angular acceleration. These send signals to the nuclei for eye movement in the brain. From here, a signal is relayed to the extraocular muscles to allow one’s gaze to fixate on one object as the head moves. Nystagmus occurs when the semicircular canals are being stimulated while the head is not in motion. The direction of ocular movement is related to the semicircular canal that is being stimulated.
+There are two key forms of nystagmus: pathological and physiological, with variations within each type. Nystagmus may be caused by congenital disorders, acquired or central nervous system disorders, toxicity, pharmaceutical drugs, alcohol, or rotational movement. Previously considered untreatable, in recent years several pharmaceutical drugs have been identified for treatment of nystagmus. Nystagmus is occasionally associated with vertigo.
+Nystagmus is very noticeable but rarely recognized. Nystagmus can be clinically investigated by using a number of non-invasive standard tests. The simplest one is the caloric reflex test, in which one ear canal is irrigated with warm or cold water or air. The temperature gradient provokes the stimulation of the horizontal semicircular canal and the consequent nystagmus. Nystagmus is often very commonly present with Chiari malformation.
+The resulting movement of the eyes may be recorded and quantified by special devices called electronystagmograph (ENG), a form of electrooculography (an electrical method of measuring eye movements using external electrodes), or even less invasive devices called videonystagmograph (VNG), a form of video-oculography (VOG) (a video-based method of measuring eye movements using external small cameras built into head masks) by an audiologist. Special swinging chairs with electrical controls can be used to induce rotatory nystagmus.
+Over the past forty years, objective eye-movement-recording techniques have been applied to the study of nystagmus, and the results have led to a greater accuracy and understanding of the condition.
+Orthoptists may also use an optokinetic drum, or electrooculography to assess a patient's eye movements.
+Nystagmus can be caused by subsequent foveation of moving objects, pathology, sustained rotation or substance use. Nystagmus is not to be confused with other superficially similar-appearing disorders of eye movements (saccadic oscillations) such as opsoclonus or ocular flutter that are composed purely of fast-phase (saccadic) eye movements, while nystagmus is characterised by the combination of a smooth pursuit, which usually acts to take the eye off the point of regard, interspersed with the saccadic movement that serves to bring the eye back on target. Without the use of objective recording techniques, it may be very difficult to distinguish between these conditions.
+In medicine, the presence of nystagmus can be benign, or it can indicate an underlying visual or neurological problem.
+Pathologic nystagmus is characterized by a biphasic ocular oscillation alternating a slow eye movement, or smooth pursuit, in one direction and a fast eye movement, or saccadic movement, in the other direction. The velocity of the slow phase eye velocity (SPEV) and the fast phase eye velocity (FPEV) are related to each other and can be considered as a measurement of the efficiency of the system stimulus/response.
+When nystagmus occurs without fulfilling its normal function, it is pathologic (deviating from the healthy or normal condition). Pathological nystagmus is the result of damage to one or more components of the vestibular system, including the semicircular canals, otolith organs, and the vestibulocerebellum.
+Pathological nystagmus generally causes a degree of vision impairment, although the severity of such impairment varies widely. Also, many blind people have nystagmus, which is one reason that some wear dark glasses.
+Central nystagmus occurs as a result of either normal or abnormal processes not related to the vestibular organ. For example, lesions of the midbrain or cerebellum can result in up- and down-beat nystagmus.
+Gaze induced nystagmus occurs or is exacerbated as a result of changing one's gaze toward or away from a particular side which has an affected central apparatus.
+Peripheral nystagmus occurs as a result of either normal or diseased functional states of the vestibular system and may combine a rotational component with vertical or horizontal eye movements and may be spontaneous, positional, or evoked.
+Positional nystagmus occurs when a person's head is in a specific position. An example of disease state in which this occurs is Benign paroxysmal positional vertigo (BPPV).
+Post rotational nystagmus occurs after an imbalance is created between a normal side and a diseased side by stimulation of the vestibular system by rapid shaking or rotation of the head.
+Spontaneous nystagmus is nystagmus that occurs randomly, regardless of the position of the patient's head.
+Physiological nystagmus is a form of involuntary eye movement that is part of the vestibulo-ocular reflex (VOR), characterized by alternating smooth pursuit in one direction and saccadic movement in the other direction.
+The direction of nystagmus is defined by the direction of its quick phase (e.g. a right-beating nystagmus is characterized by a rightward-moving quick phase, and a left-beating nystagmus by a leftward-moving quick phase). The oscillations may occur in the vertical, horizontal or torsional planes, or in any combination. The resulting nystagmus is often named as a gross description of the movement, e.g. downbeat nystagmus, upbeat nystagmus, seesaw nystagmus, periodic alternating nystagmus.
+These descriptive names can be misleading however, as many were assigned historically, solely on the basis of subjective clinical examination, which is not sufficient to determine the eyes' true trajectory.
+Opticokinetic nystagmus; a nystagmus induced by looking at moving visual stimuli, such as moving horizontal or vertical lines, and/or stripes. For example, if one fixates on a stripe of a rotating drum with alternating black and white, the gaze retreats to fixate on a new stripe as the drum moves. This is first a rotation with the same angular velocity, then returns in a saccade in the opposite direction. The process proceeds indefinitely. This is optokinetic nystagmus, and is a source for understanding the fixation reflex.
+Postrotatory nystagmus; if one spins in a chair continuously and stops suddenly, the fast phase of nystagmus is in the opposite direction of rotation, known as the "post-rotatory nystagmus", while slow phase is in the direction of rotation.
+The cause for pathological nystagmus may be congenital, idiopathic, or secondary to a pre-existing neurological disorder. It also may be induced temporarily by disorientation (such as on roller coaster rides) or by certain drugs (alcohol and other central nervous system depressants, inhalant drugs, stimulants, psychedelic drugs, and dissociative drugs).
+Early onset nystagmus occurs more frequently than acquired nystagmus. It can be insular or accompany other disorders (such as micro-ophthalmic anomalies or Down Syndrome). Early-onset nystagmus itself is usually mild and non-progressive. The affected persons are not normally aware of their spontaneous eye movements, but vision can be impaired depending on the severity of the movements.
+Types of early-onset nystagmus include the following:
+Infantile:
+Albinism
+Aniridia
+Bilateral congenital cataract
+Bilateral optic nerve hypoplasia
+Idiopathic
+Leber's congenital amaurosis
+Optic nerve or macular disease
+Persistent tunica vasculosa lentis
+Rod monochromatism
+Visual-motor syndrome of functional monophthalmus
+Latent nystagmus
+Noonan syndrome
+Nystagmus blockage syndrome
+X-linked infantile nystagmus is associated with mutations of the gene FRMD7, which is located on the X chromosome.
+Infantile nystagmus is also associated with two X-linked eye diseases known as complete congenital stationary night blindness (CSNB) and incomplete CSNB (iCSNB or CSNB-2), which are caused by mutations of one of two genes located on the X chromosome. In CSNB, mutations are found in NYX (nyctalopin). CSNB-2 involves mutations of CACNA1F, a voltage-gated calcium channel that, when mutated, does not conduct ions.
+It may be acquired from:
+Diseases. Some of the diseases that present nystagmus as a pathological sign:
+Aniridia
+Benign paroxysmal positional vertigo 
+Brain tumors (medulloblastoma, astrocytoma, or other tumors in the posterior fossa.)
+Head trauma
+Lateral medullary syndrome
+Ménière's disease and other balance disorders
+Multiple sclerosis
+Optic nerve hypoplasia
+Pelizaeus–Merzbacher disease
+Superior canal dehiscence syndrome
+Stroke (the most common cause in older people)
+Tullio phenomenon
+Wernicke–Korsakoff syndrome
+Whipple's disease
+Toxic or metabolic reasons could be the result of the following:
+Alcohol intoxication
+Amphetamines
+Barbiturates
+Benzodiazepines
+Ketamine
+Lithium
+Other anticonvulsants or sedatives
+Phencyclidine (PCP)
+Phenytoin (Dilantin)
+Salicylates
+SSRIs
+Thiamine deficiency
+Wernicke's encephalopathy
+Central nervous system (CNS) disorders, such as with a cerebellar problem, the nystagmus can be in any direction including horizontal. Purely vertical nystagmus is usually central in origin, but it is also a frequent adverse effect of high phenytoin toxicity. Causes include:
+Cerebellar ataxia
+Chiari Malformation
+Multiple sclerosis
+Stroke
+Thalamic hemorrhage
+Trauma
+Tumor
+Non-physiological
+Trochlear nerve malfunction
+Vestibular Pathology (Ménière's disease, SCDS (superior canal dehiscence syndrome), BPPV, Labyrinthitis)
+In the United States, testing for horizontal gaze nystagmus is one of a battery of field sobriety tests used by police officers to determine whether a suspect is driving under the influence of alcohol. The test involves observation of the suspect's pupil as it follows a moving object, noting
+lack of smooth pursuit,
+distinct and sustained nystagmus at maximum deviation, and
+the onset of nystagmus prior to 45 degrees.
+The horizontal gaze nystagmus test has been highly criticized and major errors in the testing methodology and analysis found. However, the validity of the horizontal gaze nystagmus test for use as a field sobriety test for persons with a blood alcohol level between 0.04–0.08 is supported by peer reviewed studies and has been found to be a more accurate indication of blood alcohol content than other standard field sobriety tests.
+Congenital nystagmus has traditionally been viewed as non-treatable, but medications have been discovered in recent years that show promise in some patients. In 1980, researchers discovered that a drug called baclofen could effectively stop periodic alternating nystagmus. Subsequently, gabapentin, an anticonvulsant, was found to cause improvement in about half the patients who received it to relieve symptoms of nystagmus. Other drugs found to be effective against nystagmus in some patients include memantine, levetiracetam, 3,4-diaminopyridine (available in the US to eligible patients with downbeat nystagmus at no cost under an expanded access program), 4-aminopyridine, and acetazolamide. Several therapeutic approaches, such as contact lenses, drugs, surgery, and low vision rehabilitation have also been proposed. For example, it has been proposed that mini-telescopic eyeglasses suppress nystagmus.
+Surgical treatment of Congenital Nystagmus is aimed at improving the abnormal head posture, simulating artificial divergence or weakening the horizontal recti muscles. Clinical trials of a surgery to treat nystagmus (known as tenotomy) concluded in 2001. Tenotomy is now being performed regularly at numerous centres around the world. The surgery developed by Louis F. Dell'Osso Ph.D. aims to reduce the eye shaking (oscillations), which in turn tends to improve visual acuity.
+Acupuncture has conflicting evidence as to having beneficial effects on the symptoms of nystagmus. Benefits have been seen in treatments where acupuncture points of the neck were used, specifically points on the sternocleidomastoid muscle. Benefits of acupuncture for treatment of nystagmus include a reduction in frequency and decreased slow phase velocities which led to an increase in foveation duration periods both during and after treatment. By the standards of Evidence-based medicine, the quality of these studies can be considered poor (for example, Ishikawa has a study sample size of just six, is unblinded and without proper control), and given high quality studies showing that acupuncture has no effect beyond placebo, the results of these studies have to be considered clinically irrelevant until higher quality studies are produced.
+Physical therapy or Occupational therapy is also used to treat nystagmus. Treatment consist of learning compensatory strategies to take over for the impaired system.
+Nystagmus is a relatively common clinical condition, affecting one in several thousand people. A survey conducted in Oxfordshire, United Kingdom found that by the age of two, one in every 670 children had manifested nystagmus. Authors of another study in the United Kingdom estimated an incidence of 24 in 10,000 (~0.240 %), noting an apparently higher rate amongst white Europeans than in individuals of Asian origin.
+Myoclonus
+Opsoclonus
+Optokinetic nystagmus

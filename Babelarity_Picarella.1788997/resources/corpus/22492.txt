@@ -1,0 +1,39 @@
+Senryū (川柳, literally 'river willow') is a Japanese form of short poetry similar to haiku in construction: three lines with 17 or fewer total morae (or "on", often translated as syllables, but see the article on onji for distinctions). Senryū tend to be about human foibles while haiku tend to be about nature, and senryū are often cynical or darkly humorous while haiku are more serious. Unlike haiku, senryū do not include a kireji (cutting word), and do not generally include a kigo, or season word.
+Senryū is named after Edo period haikai poet Senryū Karai (柄井川柳, 1718-1790), whose collection Haifūyanagidaru (誹風柳多留) launched the genre into the public consciousness. A typical example from the collection:
+泥棒を dorobō o
+捕えてみれば toraete mireba
+我が子なり wagako nari
+When I catch,
+The robber,
+my own son
+This senryū, which can also be translated "Catching him / you see the robber / is your son," is not so much a personal experience of the author as an example of a type of situation (provided by a short comment called a maeku or fore-verse, which usually prefaces a number of examples) and/or a brief or witty rendition of an incident from history or the arts (plays, songs, tales, poetry, etc.). In this case, there was a historical incident of legendary proportion.
+Some senryū skirt the line between haiku and senryū. The following senryū by Shūji Terayama copies the haiku structure faithfully, down to a blatantly obvious kigo, but on closer inspection is absurd in its content:
+かくれんぼ kakurenbo
+三つ数えて mittsu kazoete
+冬になる fuyu ni naru
+Hide and seek
+Count to three
+Winter comes
+Terayama, who wrote about playing hide-and-seek in the graveyard as a child, thought of himself as the odd one out, the one who was always "it" in hide-and-seek. Indeed, the original haiku included the theme "oni" (the "it" in Japanese is a demon, though in some parts a very young child forced to play "it" was called a "sea slug" (namako)). To him, seeing a game of hide-and-seek, or recalling it as it grew cold would be a chilling experience. Terayama might also have recalled opening his eyes and finding himself all alone, feeling the cold more intensely than he did a minute before among other children. Either way, any genuinely personal experience would be haiku and not senryū in the classic sense. If you think Terayama's poem uses a child's game to express in hyperbolic metaphor how, in retrospect, life is short, and nothing more, then this would indeed work as a senryū. Otherwise, it is a bona-fide haiku. There is also the possibility that it is a joke about playing hide and seek, only to realize (winter having arrived during the months spent hiding) that no one wants to find you.
+In the 1970s, Michael McClintock edited Seer Ox: American Senryu Magazine. In 1993, Michael Dylan Welch edited and published Fig Newtons: Senryū to Go, the first anthology of English-language senryū.
+Prune Juice Journal of Senryu and Kyoka, is edited by Liam Wilkinson and Bruce Boynton.
+Simply Haiku journal archives contain a regular senryū column edited by Alan Pizzarelli.
+Additionally, one can regularly find senryū and related articles in some haiku publications. For example:
+World Haiku Review has regularly published senryū.
+Senryū regularly appear in the pages of Modern Haiku, Frogpond, Tundra, and other haiku journals, often unsegregated from haiku.
+The Haiku Society of America holds the annual Gerald Brady Memorial Award for best unpublished senryū.
+Since about 1990, the Haiku Poets of Northern California has been running a senryū contest, as part of its San Francisco International Haiku and Senryu Contest.
+Zappai
+J C Brown, Senryu: Poems of the People, Simon & Schuster Ltd, 1991, ISBN 978-0-8048-1664-9
+R. H. Blyth, translator, Senryu: Japanese Satirical Verses, The Hokuseido Press, ISBN 0-8371-2958-3 [1949, 230 pp, Incl. B&W sketches & some colored plates]
+R. H. Blyth, translator, Japanese Life and Character in Senryu, The Hokuseido Press, [1960, 630 pp.]
+R. H. Blyth, translator, Oriental Humour, The Hokuseido Press, [1960, 630 pp.]
+R. H. Blyth, translator, Edo Satirical Verse Anthologies, The Hokuseido Press, [1961, 312 pp.]
+Robin D. Gill, compiler and translator, Octopussy, Dry Kidney & Blue Spots – dirty themes from 18-19c Japanese poems, Paraverse Press, 2007. ISBN 978-0-9742618-5-0 [504 pp, 1300 senryu - Blyth mentioned that he could only introduce what the censors allowed; these are the type of senryū that were not allowed]
+Robin D. Gill, ditto, The Woman Without a Hole – & other risky themes from old Japanese poems [same as above but with different title and ISBN 978-0-9742618-8-1]
+Lorraine Ellis Harr (tombo), Selected Senryu, J & C Transcripts, 1976 [one of the earliest English-language senryū-only publications]
+James D. Hodgson, American Senryu, The Japan Times, 1992 ISBN 4-7890-0661-1 [U.S. ambassador to Japan from 1974-1977]
+Howard S. Levy and Junko Ohsawa, One Hundred Senryu Selections, So. Pasadena, CA, Langstaff Publications, 1979 ISBN 0-686-37532-7
+Alan Pizzarelli, Senryu Magazine, River Willow, 2001. [Although this book looks like a regular journal, it is the effort of Alan Pizzarelli only, done as a parody of haiku journals.]
+Makoto Ueda, Light Verse from the Floating World: An Anthology of Premodern Japanese Senryu, Columbia University Press, 1999. ISBN 0-231-11550-4 cloth ISBN 0-231-11551-2 pbk [273 pp., 400 senryu]
+Michael Dylan Welch, ed. Fig Newtons: Senryu to Go, Press Here, 1993 (the first anthology of English-language senryū)

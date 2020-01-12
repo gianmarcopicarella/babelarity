@@ -1,0 +1,57 @@
+The family Echimyidae contains the Neotropical spiny rats and their fossil relatives. This is the most species-rich family of hystricognath rodents. It is probably also the most ecologically diverse, with members ranging from fully arboreal to terrestrial to fossorial habits. They presently exist mainly in South America; three members of the family also range into Central America. Species of the extinct subfamily Heteropsomyinae formerly lived on Cuba, Hispaniola, and Puerto Rico in the Antilles, probably until the arrival of Europeans. Some authorities consider the nutria from southern and central South America to be a part of this family.
+In general form, most spiny rats resemble rats, although they are more closely related to guinea pigs and chinchillas. Most species have stiff, pointed hairs, or spines, that presumably serve for protection from predators.
+Many echimyids can break off their tails when attacked. This action may confuse predators long enough for the spiny rat to escape. Unlike the tails of some species of lizards, however, the tails of spiny rats do not regenerate. Therefore, the tactic cannot be used more than once in each individual's lifetime.
+Most spiny rats are rare and poorly known, but a few are extremely abundant. Various species are respectively terrestrial, arboreal, or fossorial. In general, the arboreal forms are most rat-like in appearance, whilst the burrowing species are more gopher-like, with stocky bodies and short tails. Most species do poorly in conditions of high heat and aridity and are restricted to regions with abundant water. They are almost exclusively herbivorous.
+The bristle-spined rat, Chaetomys subspinosus, has sometimes been classified in Echimyidae, although traditionally considered a member of the New World porcupine family Erethizontidae. The classification with Echimyidae is supported by similarities in the cheek teeth structure. Like all living caviomorphs except erethizontids, Chaetomys seems to lack posterior carotid foramina, and together with all echimyids and in contrast to all other caviomorphs, Chaetomys seems to retain the otherwise deciduous premolars (dP4). Some of these characters have been, however, reinterpreted as evidence for affinities between Chaetomys and the Erethizontidae. A molecular phylogeny based on the mitochondrial gene coding for cytochrome b combined to karyological evidence actually suggests Chaetomys is more closely related to the Erethizontidae than to the Echimyidae, although it branches as the sister group to the rest of the Erethizontidae.
+Family Echimyidae - spiny rats
+†Cercomys
+†Maruchito
+†Paulacoutomys
+†Willidewu
+Subfamily †Adelphomyinae
+†Adelphomys
+†Deseadomys
+†Paradelphomys
+†Stichomys
+†Xylechimys
+Subfamily Dactylomyinae
+Dactylomys - coro-coros
+Kannabateomys - rato de Taquara
+Olallamys
+Subfamily †Heteropsomyinae - extinct West Indian echimyids
+†Boromys
+†Brotomys
+†Heteropsomys
+†Puertoricomys
+Subfamily Eumysopinae
+†Acarechimys
+†Chasichimys
+†Eumysops
+Hoplomys armored rat
+Lonchothrix
+Mesomys
+†Palaeoechimys
+†Pampamys
+†Pattersomys
+†Protacaremys
+†Protadelphomys
+†Sallamys
+Proechimys - spiny rats
+Thrichomys - punaré
+Trinomys
+Tribe Euryzygomatomyini
+Carterodon
+Clyomys
+Euryzygomatomys - guiara
+Subfamily Echimyinae
+Callistomys
+Diplomys
+Echimys - arboreal spiny rats
+Isothrix - toros
+Makalata
+Pattonomys
+Phyllomys
+Santamartamys
+Toromys
+Emmons, L.H. 2005. A Revision of the Genera of Arboreal Echimyidae (Rodentia: Echimyidae, Echimyinae), With Descriptions of Two New Genera. pp. 247–310 in Lacey, E.A. & Myers, P. 2005. Mammalian Diversification: From Chromosomes to Phylogeography (A Celebration of the Career of James L. Patton). University of California Publications in Zoology.
+Nowak, R. M. 1999. Walker's Mammals of the World, Vol. 2. Johns Hopkins University Press, London.

@@ -1,0 +1,21 @@
+Furan is a heterocyclic organic compound, consisting of a five-membered aromatic ring with four carbon atoms and one oxygen. The class of compounds containing such rings are also referred to as furans.
+Furan is a colorless, flammable, highly volatile liquid with a boiling point close to room temperature. It is soluble in common organic solvents, including alcohol, ether, and acetone, and is slightly soluble in water. It is toxic and may be carcinogenic in humans. Furan is used as a starting point to other specialty chemicals.
+The name "furan" comes from the Latin furfur, which means bran. The first furan derivative to be described was 2-furoic acid, by Carl Wilhelm Scheele in 1780. Another important derivative, furfural, was reported by Johann Wolfgang Döbereiner in 1831 and characterised nine years later by John Stenhouse. Furan itself was first prepared by Heinrich Limpricht in 1870, although he called it "tetraphenol" (as if it were a four-carbon analog to phenol, C6H6O).
+Industrially, furan is manufactured by the palladium-catalyzed decarbonylation of furfural, or by the copper-catalyzed oxidation of 1,3-butadiene:
+In the laboratory, furan can be obtained from furfural by oxidation to 2-furoic acid, followed by decarboxylation. It can also be prepared directly by thermal decomposition of pentose-containing materials, and cellulosic solids, especially pine wood.
+The Feist–Benary synthesis is a classic way to synthesize furans, although many syntheses have been developed. One of the simplest synthesis methods for furans is the reaction of 1,4-diketones with phosphorus pentoxide (P2O5) in the Paal–Knorr synthesis. The thiophene formation reaction of 1,4-diketones with Lawesson's reagent also forms furans as side products. Many routes exist for the synthesis of substituted furans.
+Furan is aromatic because one of the lone pairs of electrons on the oxygen atom is delocalized into the ring, creating a 4n + 2 aromatic system (see Hückel's rule) similar to benzene. Because of the aromaticity, the molecule is flat and lacks discrete double bonds. The other lone pair of electrons of the oxygen atom extends in the plane of the flat ring system. The sp2 hybridization is to allow one of the lone pairs of oxygen to reside in a p orbital and thus allow it to interact within the π system.
+Due to its aromaticity, furan's behavior is quite dissimilar to that of the more typical heterocyclic ethers such as tetrahydrofuran.
+It is considerably more reactive than benzene in electrophilic substitution reactions, due to the electron-donating effects of the oxygen heteroatom. Examination of the resonance contributors shows the increased electron density of the ring, leading to increased rates of electrophilic substitution.
+Furan serves as a diene in Diels–Alder reactions with electron-deficient dienophiles such as ethyl (E)-3-nitroacrylate. The reaction product is a mixture of isomers with preference for the endo isomer:
+Diels-Alder reaction of furan with arynes provides corresponding derivatives of dihydronaphthalenes, which are useful intermediates in synthesis of other polycyclic aromatic compounds.
+Hydrogenation of furans sequentially affords dihydrofurans and tetrahydrofurans.
+In the Achmatowicz reaction, furans are converted to dihydropyran compounds.
+Furan is found in heat-treated commercial foods and is produced through thermal degradation of natural food constituents. It can be found in roasted coffee, instant coffee, and processed baby foods. Research has indicated that coffee made in espresso makers, and, above all, coffee made from capsules, contains more furan than that made in traditional drip coffee makers, although the levels are still within safe health limits.
+Exposure to furan at doses about 2000 times the projected level of human exposure from foods increases the risk of hepatocellular tumors in rats and mice and bile duct tumors in rats. Furan is therefore listed as a possible human carcinogen.
+BS 4994 – Furan resin as thermoset FRP for chemical process plant equipments
+Furanoflavonoid
+Furanose
+Furantetracarboxylic acid
+Simple aromatic rings
+Recent synthetic methods

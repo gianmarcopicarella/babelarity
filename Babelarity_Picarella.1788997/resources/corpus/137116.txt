@@ -1,0 +1,30 @@
+Ebstein's anomaly is a congenital heart defect in which the septal and posterior leaflets of the tricuspid valve are displaced towards the apex of the right ventricle of the heart.
+The annulus of the valve is still in the normal position. The valve leaflets, however, are to a varying degree, attached to the walls and septum of the right ventricle. There is subsequent 'atrialization' of a portion of the morphologic right ventricle (which is then contiguous with the right atrium). This causes the right atrium to be large and the anatomic right ventricle to be small in size.
+S3 heart sound
+S4 heart sound
+Systolic murmur of tricuspid regurgitation
+Mid-diastolic murmur along the lower left sternal border
+Right atrial hypertrophy
+Right ventricular conduction defects
+Wolff-Parkinson-White syndrome often accompanies
+There is an enlargement of the aorta; there may be an increased risk of abnormality in infants of women taking lithium during the first trimester of pregnancy (though some have questioned this) and in those with Wolff-Parkinson-White syndrome.
+Ebstein's anomaly was named after Wilhelm Ebstein, who in 1866 described the heart of the 19-year-old Joseph Prescher.
+While Ebstein's anomaly is defined as the congenital displacement of the tricuspid valve towards the apex of the right ventricle, it is often associated with other abnormalities.
+Typically, there are anatomic abnormalities of the tricuspid valve, with enlargement of the anterior leaflet of the valve. The other leaflets are described as being plastered to the endocardium.
+About 50% of individuals with Ebstein's anomaly have an associated shunt between the right and left atria, either an atrial septal defect or a patent foramen ovale. 
+About 50% of individuals with Ebstein's anomaly have evidence of Wolff-Parkinson-White syndrome, secondary to the atrialized right ventricular tissue.
+Other abnormalities that can be seen on the ECG include:
+signs of right atrial enlargement or tall and broad 'Himalayan' P waves
+first degree atrioventricular block manifesting as a prolonged PR-interval
+low amplitude QRS complexes in the right precordial leads
+atypical right bundle branch block
+T wave inversion in V1-V4 and Q waves in V1-V4 and II, III and aVF.
+Ebstein's cardiophysiology typically presents as an (antidromic) AV reentrant tachycardia with associated pre-excitation. In this setting, the preferred pharmacological treatment agent is procainamide. Since AV-blockade may promote conduction over the accessory pathway, drugs like beta blockers, calcium channel blockers and digoxin are contraindicated.
+If there is atrial fibrillation with pre-excitation, treatment options include procainamide, flecainide, propafenone, dofetilide and ibutilide since these medications slow conduction in the accessory pathway causing the tachycardia and should be administered before considering electrical cardioversion. Intravenous amiodarone may also convert atrial fibrillation and/or slow the ventricular response.
+The Canadian Cardiovascular Society (CCS) recommends surgical intervention for the following indications:
+Limited exercise capacity (NYHA III-IV).
+Increasing heart size (cardiothoracic ratio greater than 65%).
+Important cyanosis (resting oxygen saturation of less than 90%). (Level B)
+Severe tricuspid regurgitation with symptoms.
+Transient ischemic attack or stroke
+The CCS further recommends patients who require operation for Ebstein's anomaly should be operated on by congenital heart surgeons who have substantial specific experience and success with this operation. Every effort should be made to preserve the native tricuspid valve.

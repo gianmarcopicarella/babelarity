@@ -1,0 +1,13 @@
+Ubuntu Mobile Internet Device Edition was an Ubuntu distribution planned to run on the Intel Mobile Internet Device platform, x86 mobile computers based on the Intel Atom processor. It was planned to use the GNOME framework Hildon as the basis for its GUI.
+Equipment producers would have been able to customize their distributions, including options such as Flash, Java, or custom interfaces.
+Ubuntu Mobile has stopped development in 2009 and the successor Ubuntu for phones was announced on January 2, 2013.
+According to Canonical, Ubuntu Mobile would provide an "uncompromised Web 2.0 experience". It was to include features such as Web browsing, email, media, camera, VoIP, instant messaging, GPS, blogging, digital TV, games, contacts, and calendars, with regular software updates. It was designed to be fully operable using a simple touchscreen interface.
+In June 2008, Ubuntu Mobile 8.04 was released. Ubuntu Mobile ended active development in 2009 after 9.10 Alpha 6.
+Mark Shuttleworth announced on 000000002011-10-31-000031 October 2011 that by Ubuntu 14.04, Ubuntu will support smartphones, tablets, smart TVs and other smart screens (such as car head units and smartwatches). This resulted in the successor Ubuntu Touch project which was announced on January 2, 2013.
+Ubuntu Touch
+Ubuntu Netbook Edition
+Ubuntu for Android
+Plasma Mobile
+MeeGo
+Mer
+Tizen

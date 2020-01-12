@@ -1,0 +1,29 @@
+An enthymeme (Greek: ἐνθύμημα, enthumēma), is a rhetorical syllogism (a three-part deductive argument) used in oratorical practice. Originally theorized by Aristotle, there are four types of enthymeme, at least two of which are described in Aristotle's work.
+Aristotle referred to the enthymeme as "the body of proof", "the strongest of rhetorical proofs...a kind of syllogism" (Rhetoric I.I.3,11). He considered it to be one of two kinds of proof, the other of which was the paradeigma. Maxims, Aristotle thought to be a derivative of enthymemes. (Rhetoric II.XX.1)
+The first type of enthymeme is a truncated syllogism, or a syllogism with an unstated premise.
+Here is an example of an enthymeme derived from a syllogism through truncation (shortening) of the syllogism:
+"Socrates is mortal because he's human."
+The complete formal syllogism would be the classic:
+All humans are mortal. (major premise – unstated)
+Socrates is human. (minor premise – stated)
+Therefore, Socrates is mortal. (conclusion – stated)
+While syllogisms lay out all of their premises and conclusion explicitly, these kinds of enthymemes keep at least one of the premises or conclusion unstated.
+In the Art of Rhetoric, Aristotle argues that some enthymemes are derived from syllogisms that are based on signs (tekmērion) instead of absolute facts. In this context, signs are "things [that] are so closely related that the presence or absence of one indicates the presence or absence of the other.” Examples are given below.
+"He is ill, since he has a cough."
+"Since she has a child, she has given birth."
+In the examples, 'having a cough' and 'having a child' are signs (or symptoms) of illness and giving birth respectively. In the both cases the enthymeme is only probably true because there are other sources of coughs and children (e.g. allergies and adoption).
+The third kind of enthymeme consists of a syllogism with a missing premise that is supplied by the audience as an unstated assumption. In the words of rhetorician William Benoit, the missing premise is: "assumed by rhetor when inventing and by audience when understanding the argument."
+An example of this kind of enthymeme is as follows:
+"Candide is a typical French novel, therefore it is vulgar."
+In this case, the missing term of the syllogism is "French novels are vulgar" and might be an assumption held by an audience that would make sense of the enthymematic argument. Such unstated premises can also rise to the level of maxims (statements so commonly accepted as to be thought universally true).
+The final kind of enthymeme is the visual enthymeme. Scholars have argued that words are not the only form of expression that can be understood to form enthymematic arguments. Pictures can also function as enthymemes because they require the audience to help construct their meaning.
+An example of the visual enthymeme is illustrated by the picture on the right which might be translated into an enthymeme (where the audience supplies both a premise and the conclusion) as follows:
+"These people are performing the Nazi salute, therefore they are evil."
+The image only supplies one of the terms of the enthymeme (the people performing the Nazi salute). The audience supplies the middle, unstated term (all people who perform the Nazi salute are evil) and the conclusion (these specific people are evil).
+Some scholars argue that our understanding of the enthymeme has evolved over time and is no longer representative of the enthymeme as originally conceived by Aristotle. This is obviously true of the visual enthymeme, only conceived in the early twenty-first century and may also be true of the enthymeme as truncated syllogism. Carol Poster argues that this later interpretation of the enthymeme was invented by British rhetoricians (such as Richard Whately in the eighteenth century.
+Paradeigma
+Chewbacca defense
+Fallacy
+Rogerian argument
+Senator, you are no Jack Kennedy
+Modus ponens

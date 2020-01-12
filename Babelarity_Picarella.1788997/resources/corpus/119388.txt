@@ -1,0 +1,21 @@
+A solar calendar is a calendar whose dates indicate the position of Earth on its revolution around the Sun or, equivalently, the apparent position of the sun moving on the celestial sphere. The other commonly used system is a lunar calendar which dates the months based on cycles of the lunar phases. The Gregorian calendar, widely accepted as standard in the world, is an example of solar calendar.
+The natural science of astronomy is the study of celestial objects, observations and phenomena in the night sky. The ancient discipline of astronomy is the key method of calculating a date and time. A star in a solar system is the source of light which creates the stellar day, the rotation period of orbiting planets regulates the seasons on a planet surface, this combination is monitored and recorded by a calendar.
+If the position of the earth in its orbit around the sun is reckoned with respect to the equinox, the point at which the orbit crosses the celestial equator, then its dates accurately indicate the seasons, that is, they are synchronized with the declination of the sun. Such a calendar is called a tropical solar calendar.
+The duration of the mean calendar year of such a calendar approximates some form of the tropical year, usually either the mean tropical year or the vernal equinox year.
+The following are tropical solar calendars:
+Gregorian calendar
+Iranian calendar (Jalāli calendar)
+Indian national calendar (Saka calendar)
+Julian calendar
+Coptic calendar
+Every one of these calendars has a year of 365 days, which is occasionally extended by adding an extra day to form a leap year, a method called "intercalation", the inserted day being "intercalary".
+The Baha'i calendar begins the year on the vernal equinox and (as of 2015) sets its intercalary days so that the following year also begins on the vernal equinox. The moment of the vernal equinox in the northern hemisphere is determined as at Tehran "by means of astronomical computations from reliable sources".
+The non - intercalating version of the Zoroastrian calendar, derived from the Egyptian calendar (the earliest solar calendar) is a religious calendar used by adherents of the Zoroastrian faith, and is an approximation of the tropical solar calendar. °
+If the position of the earth (see above) is reckoned with respect to the fixed stars, then the dates indicate the zodiacal constellation near which the sun can be found. A calendar of this type is called a sidereal solar calendar.
+The mean calendar year of such a calendar approximates the sidereal year.
+Indian calendars like the Hindu calendar, Tamil calendar, Bengali calendar and Malayalam calendar are sidereal solar calendars. The Thai solar calendar, when based on the Hindu solar calendar was also a sidereal calendar. They are calculated on the basis of the apparent motion of the sun through the twelve zodiacal signs rather than the tropical movement of the earth.
+Calendars that are not solar calendars include the Islamic calendar, which is a purely lunar calendar and calendars synchronized to the synodic period of Venus or to the heliacal risings of stars.
+Lunisolar calendars may be regarded as solar calendars, although their dates additionally indicate the moon phase. Because a typical lunisolar calendar has a year made up of a whole number of lunar months, it can't indicate the position of Earth on its revolution around the sun as well as a pure solar calendar can.
+Analemma calendar
+Astronomical clock
+Daytime (astronomy)

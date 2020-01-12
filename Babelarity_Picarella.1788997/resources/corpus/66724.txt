@@ -1,0 +1,131 @@
+In labor economics, the efficiency wage hypothesis argues that wages, at least in some markets, form in a way that is not market-clearing. Specifically, it points to the incentive for managers to pay their employees more than the market-clearing wage in order to increase their productivity or efficiency, or reduce costs associated with turnover, in industries where the costs of replacing labor are high. This increased labor productivity and/or decreased costs pay for the higher wages.
+Because workers are paid more than the equilibrium wage, there may be unemployment. Efficiency wages offer therefore a market failure explanation of unemployment – in contrast to theories which emphasize government intervention (such as minimum wages). However, efficiency wages do not necessarily imply unemployment, but only uncleared markets and job rationing in those markets. There may be full employment in the economy, and yet efficiency wages may prevail in some occupations. In this case there will be excess supply for those occupations, but some applicants are not hired and have to work for a probably lower wage elsewhere.
+The term "efficiency-wages" (or rather "efficiency-earnings") has been introduced by Alfred Marshall to denote the wage per efficiency unit of labor. Marshallian efficiency wages would make employers pay different wages to workers who are of different efficiency, such that the employer would be indifferent between more efficient workers and less efficient workers. The modern use of the term is quite different and refers to the idea that higher wages may increase the efficiency of the workers through various channels, and make it worth while for the employers to offer wages that exceed a market-clearing level.
+There are several theories (or "microfoundations") of why managers pay efficiency wages (wages above the market clearing rate):
+Avoiding shirking: If it is difficult to measure the quantity or quality of a worker's effort—and systems of piece rates or commissions are impossible—there may be an incentive for him or her to "shirk" (do less work than agreed). The manager thus may pay an efficiency wage in order to create or increase the cost of job loss, which gives a sting to the threat of firing. This threat can be used to prevent shirking (or "moral hazard").
+Minimizing turnover: By paying above-market wages, the worker's motivation to leave the job and look for a job elsewhere will be reduced. This strategy makes sense because it is often expensive to train replacement workers.
+Selection: If job performance depends on workers' ability and workers differ from each other in those terms, firms with higher wages will attract more able job-seekers, and this may make it profitable to offer wages that exceed the market clearing level.
+Sociological theories: Efficiency wages may result from traditions. Akerlof's theory (in very simple terms) involves higher wages encouraging high morale, which raises productivity.
+Nutritional theories: In developing countries, efficiency wages may allow workers to eat well enough to avoid illness and to be able to work harder and even more productively.
+The model of efficiency wages, largely based on shirking, developed by Carl Shapiro and Joseph E. Stiglitz has been particularly influential.
+The shirking model begins with the fact that complete contracts rarely (or never) exist in the real world. This implies that both parties to the contract have some discretion, but frequently, due to monitoring problems, it is the employee’s side of the bargain which is subject to the most discretion. (Methods such as piece rates are often impracticable because monitoring is too costly or inaccurate; or they may be based on measures too imperfectly verifiable by workers, creating a moral hazard problem on the employer’s side.) Thus the payment of a wage in excess of market-clearing may provide employees with cost-effective incentives to work rather than shirk. In the Shapiro and Stiglitz model, workers either work or shirk, and if they shirk they have a certain probability of being caught, with the penalty of being fired. Equilibrium then entails unemployment, because in order to create an opportunity cost to shirking, firms try to raise their wages above the market average (so that sacked workers face a probabilistic loss). But since all firms do this the market wage itself is pushed up, and the result is that wages are raised above market-clearing, creating involuntary unemployment. This creates a low, or no income alternative which makes job loss costly, and serves as a worker discipline device. Unemployed workers cannot bid for jobs by offering to work at lower wages, since if hired, it would be in the worker’s interest to shirk on the job, and he has no credible way of promising not to do so. Shapiro and Stiglitz point out that their assumption that workers are identical (e.g. there is no stigma to having been fired) is a strong one – in practice reputation can work as an additional disciplining device.
+The shirking model does not predict (counterfactually) that the bulk of the unemployed at any one time are those who are fired for shirking, because if the threat associated with being fired is effective, little or no shirking and sacking will occur. Instead the unemployed will consist of a (rotating) pool of individuals who have quit for personal reasons, are new entrants to the labour market, or who have been laid off for other reasons. Pareto optimality, with costly monitoring, will entail some unemployment, since unemployment plays a socially valuable role in creating work incentives. But the equilibrium unemployment rate will not be Pareto optimal, since firms do not take into account the social cost of the unemployment they help to create.
+One criticism of this and other flavours of the efficiency wage hypothesis is that more sophisticated employment contracts can under certain conditions reduce or eliminate involuntary unemployment. Lazear (1979, 1981) demonstrates the use of seniority wages to solve the incentive problem, where initially workers are paid less than their marginal productivity, and as they work effectively over time within the firm, earnings increase until they exceed marginal productivity. The upward tilt in the age-earnings profile here provides the incentive to avoid shirking, and the present value of wages can fall to the market-clearing level, eliminating involuntary unemployment. Lazear and Moore (1984) find that the slope of earnings profiles is significantly affected by incentives.
+However, a significant criticism is that moral hazard would be shifted to employers, since they are responsible for monitoring the worker’s effort. Obvious incentives would exist for firms to declare shirking when it has not taken place. In the Lazear model, firms have obvious incentives to fire older workers (paid above marginal product) and hire new cheaper workers, creating a credibility problem. The seriousness of this employer moral hazard depends on the extent to which effort can be monitored by outside auditors, so that firms cannot cheat, although reputation effects (e.g. Lazear 1981) may be able to do the same job.
+On the labor turnover flavor of the efficiency wage hypothesis, firms also offer wages in excess of market-clearing (e.g. Salop 1979, Schlicht 1978, Stiglitz 1974), due to the high cost of replacing workers (search, recruitment, training costs). If all firms are identical, one possible equilibrium involves all firms paying a common wage rate above the market-clearing level, with involuntary unemployment serving to diminish turnover. These models can easily be adapted to explain dual labor markets: if low-skill, labor-intensive firms have lower turnover costs (as seems likely), there may be a split between a low-wage, low-effort, high-turnover sector and a high-wage, high effort, low-turnover sector. Again, more sophisticated employment contracts may solve the problem.
+In selection wage theories it is presupposed that performance on the job depends on "ability", and that workers are heterogeneous with respect to ability. The selection effect of higher wages may come about through self-selection or because firms faced with a larger pool of applicants can increase their hiring standards and thereby obtain a more productive work force.
+Self-selection (often referred to as adverse selection) comes about if the workers’ ability and reservation wages are positively correlated. There are two crucial assumptions, that firms cannot screen applicants either before or after applying, and that there is costless self-employment available which realises a worker’s marginal product (that is higher for the more productive workers). If there are two kinds of firm (low and high wage), then we effectively have two sets of lotteries (since firms cannot screen), the difference being that high-ability workers do not enter the low-wage lotteries as their reservation wage is too high. Thus low-wage firms attract only low-ability lottery entrants, while high-wage firms attract workers of all abilities (i.e. on average they will select average workers). Thus high-wage firms are paying an efficiency wage – they pay more, and, on average, get more (see e.g. Malcolmson 1981; Stiglitz 1976; Weiss 1980). However, the assumption that firms are unable to measure effort and pay piece rates after workers are hired or to fire workers whose output is too low is quite strong. Firms may also be able to design self-selection or screening devices that induce workers to reveal their true characteristics.
+If firms can assess the productivity of applicants, they will try to select the best among the applicants. A higher wage offer will attract more applicants, and in particular more highly qualified applicants. This permits a firm to raise its hiring standard and thereby enhance the firm's productivity. Wage compression makes it profitable for firms to screen applicants under such circumstances, and selection wages may be important.
+Standard economic models ("neoclassical economics") assume that people pursue only their own self-interest and do not care about "social" goals ("homo economicus"). Some attention has been paid to the idea that people may be altruistic (care about the well-being of others), but it is only with the addition of reciprocity and norms of fairness that the model becomes accurate.(e.g. Rabin 1993; Dufwenberg and Kirchsteiger 2000; Fehr and Schmidt 2000). Thus of crucial importance is the idea of exchange: a person who is altruistic towards another expects the other to fulfil some kind of fairness norm, be it reciprocating in kind, in some other but – according to some shared standard – equivalent way; or simply by being grateful. If the expected reciprocation is not forthcoming, the altruism is unlikely to be repeated or continued. In addition, similar norms of fairness will typically lead people into negative forms of reciprocity too – in the form of retaliation for acts perceived as vindictive. This can bind actors into vicious loops where vindictive acts are met with further vindictive acts.
+In practice, despite the neat logic of standard neoclassical models, these kinds of sociological models do impinge upon very many economic relations, though in different ways and to different degrees. For example, if an employee has been exceptionally loyal, a manager may feel some obligation to treat that employee well, even when it is not in his (narrowly defined, economic) self-interest to do so. It would appear that although broader, longer-term economic benefits may result (e.g. through reputation, or perhaps through simplified decision-making according to fairness norms), a major factor must be that there are noneconomic benefits the manager receives, such as not having a guilty conscience (loss of self-esteem). For real-world, socialised, normal human beings (as opposed to abstracted factors of production), this is likely to be the case quite often. (As a quantitative estimate of the importance of this, Weisbrod’s 1988 estimate of the total value of voluntary labor in the US - $74 billion annually – will suffice.) Examples of the negative aspect of fairness include consumers "boycotting" firms they disapprove of by not buying products they otherwise would (and therefore settling for second-best); and employees sabotaging firms they feel hard done by.
+Rabin (1993) offers three stylised facts as a starting-point on how norms affect behaviour: (a) people are prepared to sacrifice their own material well-being to help those who are being kind; (b) they are also prepared to do this to punish those being unkind; (c) both (a) and (b) have a greater effect on behaviour as the material cost of sacrificing (in relative rather than absolute terms) becomes smaller. Rabin supports his Fact A by Dawes and Thaler’s (1988) survey of the experimental literature, which concludes that, for most one-shot public good decisions in which the individually optimal contribution is close to 0%, the contribution rate ranges from 40 to 60% of the socially optimal level. Fact B is demonstrated by the "ultimatum game" (e.g. Thaler 1988), where an amount of money is split between two people, one proposing a division, the other accepting or rejecting (where rejection means both get nothing). Rationally, the proposer should offer no more than a penny, and the decider accept any offer of at least a penny, but in practice, even in one-shot settings, proposers make fair proposals, and deciders are prepared to punish unfair offers by rejecting them. Fact C is tested and partially confirmed by Gerald Leventhal and David Anderson (1970), but is also fairly intuitive. In the ultimatum game, a 90% split (regarded as unfair) is (intuitively) far more likely to be punished if the amount to be split is $1 than if it is $1 million.
+A crucial point (as noted in Akerlof 1982) is that notions of fairness depend on the status quo and other reference points. Experiments (Fehr and Schmidt 2000) and surveys (Kahneman, Knetsch and Thaler 1986) indicate that people have clear notions of fairness based on particular reference points (disagreements can arise in the choice of reference point). Thus for example firms who raise prices or lower wages to take advantage of increased demand or increased labour supply are frequently perceived as acting unfairly, where the same changes are deemed acceptable when the firm makes them due to increased costs (Kahneman et al.). In other words, in people’s intuitive "naïve accounting" (Rabin 1993), a key role is played by the idea of entitlements embodied in reference points (although as Dufwenberg and Kirchsteiger 2000 point out, there may be informational problems, e.g. for workers in determining what the firm’s profit actually is, given tax avoidance and stock-price considerations). In particular it is perceived as unfair for actors to increase their share at the expense of others, although over time such a change may become entrenched and form a new reference point which (typically) is no longer in itself deemed unfair.
+Solow (1981) argued that wage rigidity may be at least partly due to social conventions and principles of appropriate behaviour, which are not entirely individualistic in origin. Akerlof (1982) provided the first explicitly sociological model leading to the efficiency wage hypothesis. Using a variety of evidence from sociological studies, Akerlof argues that worker effort depends on the work norms of the relevant reference group. In Akerlof’s partial gift exchange model, the firm can raise group work norms and average effort by paying workers a gift of wages in excess of the minimum required, in return for effort above the minimum required. The sociological model can explain phenomena inexplicable on neoclassical terms, such as why firms do not fire workers who turn out to be less productive; why piece rates are so little used even where quite feasible; and why firms set work standards exceeded by most workers. A possible criticism is that workers do not necessarily view high wages as gifts, but as merely fair (particularly since typically 80% or more of workers consider themselves to be in the top quarter of productivity), in which case they will not reciprocate with high effort.
+Akerlof and Yellen (1990), responding to these criticisms and building on work from psychology, sociology, and personnel management, introduce "the fair wage-effort hypothesis", which states that workers form a notion of the fair wage, and if the actual wage is lower, withdraw effort in proportion, so that, depending on the wage-effort elasticity and the costs to the firm of shirking, the fair wage may form a key part of the wage bargain. This provides an explanation of persistent evidence of consistent wage differentials across industries (e.g. Slichter 1950; Dickens and Katz 1986; Krueger and Summers 1988): if firms must pay high wages to some groups of workers – perhaps because they are in short supply or for other efficiency-wage reasons such as shirking – then demands for fairness will lead to a compression of the pay scale, and wages for other groups within the firm will be higher than in other industries or firms.
+The union threat model is one of several explanations for industry wage differentials. This Keynesian economics model looks at the role of unions in wage determination. The degree in which union wages exceed non-union member wages is known as union wage premium and some firms seek to prevent unionization in the first instances. Varying costs of union avoidance across sectors will lead some firms to offer supracompetitive wages as pay premiums to workers in exchange for their avoiding unionization. Under the union threat model (Dickens 1986), the ease with which an industry can defeat a union drive has a negative relationship with its wage differential. In other words, inter-industry wage variability should be low where the threat of unionization is low.
+Raff and Summers (1987) conduct a case study on Henry Ford’s introduction of the five dollar day in 1914. Their conclusion is that the Ford experience supports efficiency wage interpretations. Ford’s decision to increase wages so dramatically (doubling for most workers) is most plausibly portrayed as the consequence of efficiency wage considerations, with the structure being consistent, evidence of substantial queues for Ford jobs, and significant increases in productivity and profits at Ford. Concerns such as high turnover and poor worker morale appear to have played a significant role in the five-dollar decision. Ford’s new wage put him in the position of rationing jobs, and increased wages did yield substantial productivity benefits and profits. There is also evidence that other firms emulated Ford’s policy to some extent, with wages in the automobile industry 40% higher than in the rest of manufacturing (Rae 1965, quoted in Raff and Summers). Given low monitoring costs and skill levels on the Ford production line, such benefits (and the decision itself) appear particularly significant.
+Fehr, Kirchler, Weichbold and Gächter (1998) conduct labour market experiments to separate the effects of competition and social norms/customs/standards of fairness. They find that in complete contract markets, firms persistently try to enforce lower wages. By contrast, in gift exchange markets and bilateral gift exchanges, wages are higher and more stable. It appears that in complete contract situations, competitive equilibrium exerts a considerable drawing power, whilst in the gift exchange market it does not.
+Fehr et al. stress that reciprocal effort choices are truly a one-shot phenomenon, without reputation or other repeated-game effects. "It is, therefore, tempting to interpret reciprocal effort behavior as a preference phenomenon."(p344). Two types of preferences can account for this behaviour: a) workers may feel an obligation to share the additional income from higher wages at least partly with firms; b) workers may have reciprocal motives (reward good behaviour, punish bad). "In the context of this interpretation, wage setting is inherently associated with the signalling of intentions, and workers condition their effort responses on the inferred intentions." (p344). Charness (1996), quoted in Fehr et al., finds that when signalling is removed (wages are set randomly or by the experimenter), workers exhibit a lower, but still positive, wage-effort relation, suggesting some gain-sharing motive and some reciprocity (where intentions can be signalled).
+Fehr et al. state that "Our preferred interpretation of firms’ wage-setting behavior is that firms voluntarily paid job rents to elicit non-minimum effort levels." Although excess supply of labour created enormous competition among workers, firms did not take advantage. In the long run, instead of being governed by competitive forces, firms’ wage offers were solely governed by reciprocity considerations because the payment of non-competitive wages generated higher profits. Thus, both firms and workers can be better off when they rely on stable reciprocal interactions.
+That reciprocal behavior generates efficiency gains has been confirmed by several other papers e.g. Berg, Dickhaut and McCabe (1995) - even under conditions of double anonymity and where actors know even the experimenter cannot observe individual behaviour, reciprocal interactions and efficiency gains are frequent. Fehr, Gächter and Kirchsteiger (1996, 1997) show that reciprocal interactions generate substantial efficiency gains. However the efficiency-enhancing role of reciprocity is, in general, associated with serious behavioural deviations from competitive equilibrium predictions. To counter a possible criticism of such theories, Fehr and Tougareva (1995) showed these reciprocal exchanges (efficiency-enhancing) are independent of the stakes involved (they compared outcomes with stakes worth a week’s income with stakes worth 3 months’ income, and found no difference).
+As one counter to over-enthusiasm for efficiency wage models, Leonard (1987) finds little support for either shirking or turnover efficiency wage models, by testing their predictions for large and persistent wage differentials. The shirking version assumes a trade-off between self-supervision and external supervision, while the turnover version assumes turnover is costly to the firm. Variation across firms in the cost of monitoring/shirking or turnover then is hypothesized to account for wage variations across firms for homogeneous workers. But Leonard finds that wages for narrowly defined occupations within one sector of one state are widely dispersed, suggesting other factors may be at work.
+Paul Krugman explains how the efficiency wage theory comes into play in a real society. The productivity 
+        E
+        (
+        w
+        )
+    {\displaystyle E(w)}
+   of individual workers is a function of their wage 
+        w
+    {\displaystyle w}
+  , and the total productivity is the sum of the individual productivities. Accordingly, the sales 
+        V
+    {\displaystyle V}
+   of the firm to which the workers belong become a function of both employment 
+        L
+    {\displaystyle L}
+   and the individual productivity. The firm's profit 
+        P
+    {\displaystyle P}
+   is
+        P
+        =
+        V
+        (
+        L
+        E
+        )
+        −
+        w
+        L
+        .
+    {\displaystyle P=V(LE)-wL\;.}
+Then we assume that the higher the wage of the workers become, the higher the individual productivity: 
+              d
+              E
+              d
+              w
+        >
+        0
+    {\displaystyle {\frac {dE}{dw}}>0}
+  . If the employemnt is chosen so that the profit is maximised, it is constant. Under this optimised condition, we have
+        d
+        P
+        =
+              ∂
+              V
+              ∂
+              (
+              L
+              E
+              )
+        L
+        d
+        E
+        −
+        L
+        d
+        w
+        ,
+    {\displaystyle dP={\frac {\partial V}{\partial (LE)}}LdE-Ldw\;,}
+that is,
+              d
+              P
+              d
+              w
+        =
+              ∂
+              V
+              ∂
+              E
+              d
+              E
+              d
+              w
+        −
+        L
+        .
+    {\displaystyle {\frac {dP}{dw}}={\frac {\partial V}{\partial E}}{\frac {dE}{dw}}-L\;.}
+Obviously, the gradient 
+              ∂
+              V
+              ∂
+              E
+    {\displaystyle {\frac {\partial V}{\partial E}}}
+   of the slope is positive, because the higher individual productivity the higher sales. The 
+              d
+              P
+              d
+              w
+    {\displaystyle {\frac {dP}{dw}}}
+   never goes to negative because of the optimised condition, and therefore we have
+        0
+        ≤
+              d
+              P
+              d
+              w
+        .
+    {\displaystyle 0\leq {\frac {dP}{dw}}\;.}
+This means that if the firm increases their wage their profit becomes costant or even larger. Thus the efficiency wage theory motivates the owners of the firm to raise the wage to increase the profit of the firm.
+Minimum wages

@@ -1,0 +1,16 @@
+In Japanese writing, the kana お (hiragana) and オ (katakana) occupy the fifth place, between え and か, in the modern Gojūon (五十音) system of collating kana. In the Iroha, they occupy the 27th, between の and く. In the table at right (ordered by columns, from right to left), お lies in the first column (あ行, "column A") and the fifth row (お段, "row O"). Both represent [o].
+お and オ originate, via man'yōgana, from the kanji 於.
+Scaled-down versions of the kana (ぉ, ォ) are used to express morae foreign to the Japanese language, such as フォ (fo).
+The hiragana お is made with three strokes:
+A horizontal line from left to right.
+A stroke consisting of a vertical line, a small diagonal line going upwards and to the left, and an open curve heading right and downwards.
+A small curved stroke on the right.
+The katakana オ is made with three strokes:
+At the top, a horizontal stroke from left to right.
+A downward vertical stroke cutting through the first stroke, with a small hook at the end facing left.
+At the intersection of the first two strokes, a diagonal line going downwards and to the left.
+Computer encodings
+Braille
+Japanese semaphore
+Phonetic alphabet: 「大阪のオ」 ("o as in Osaka")
+Morse code: ・－・・・

@@ -1,0 +1,26 @@
+An ionophore is a chemical species that reversibly binds ions. Many ionophores are lipid-soluble entities that transport ions across a cell membrane. Ionophore means "ion carrier" as these compounds catalyze ion transport across hydrophobic membranes such as liquid polymeric membranes (carrier-based ion selective electrodes) or lipid bilayers found in the living cells or synthetic vesicles (liposomes)
+Some ionophores are synthesized by microorganisms to import ions into their cells. Synthetic ion carriers have also been prepared. Ionophores selective for cations and anions have found many applications in analysis.
+The two broad classifications of ionophores synthesized by microorganisms are:
+Carrier ionophores that bind to a particular ion and shield its charge from the surrounding environment. This makes it easier for the ion to pass through the hydrophobic interior of the lipid membrane. An example of a carrier ionophore is valinomycin, a molecule that transports a single potassium cation. Carrier ionophores may be proteins or other molecules.
+Channel formers that introduce a hydrophilic pore into the membrane, allowing ions to pass through without coming into contact with the membrane's hydrophobic interior. An example of a channel former is gramicidin A. Channel forming ionophores are usually large proteins.
+Transmembrane ion concentration gradients (membrane potential) are required for living organisms. Ionophores can disrupt the membrane potential by conducting ions through a lipid membrane in the absence of a protein pore, and thus could exhibit cytotoxic properties. They are produced naturally by a variety of microbes and act as a defense against competing microbes. Many synthetic membrane-spanning ionophores have also been investigated.
+Many antibiotics, particularly the macrolide antibiotics, are ionophores. Some exhibit high affinities for Na+, others high affinities for K+. The structure of the sodium and potassium complexes of antibiotics have been verified by X-ray crystallography.
+Ionophores have been used to modify the permeability of biological membranes toward certain ions. Additionally, some ionophores are used as antibiotics and/or as growth-enhancing feed additives for certain animals, such as cattle (see monensin) and chickens.
+Many synthetic ionophores are based on crown ethers, cryptands, and calixarenes. These synthetic species are often macrocyclic. Some synthetic agents are not macrocyclic, e.g., carbonyl cyanide-p-trifluoromethoxyphenylhydrazone. Even simple organic compounds, such as phenols, exhibit ionophoric properties. The majority of synthetic receptors used in the carrier-based anion-selective electrodes employ transition elements or metalloids as anion carriers, although simple organic urea- and thiourea based receptors are known.
+With the ion(s) they act upon:
+Beauvericin (Ca2+, Ba2+)
+Calcimycine or A23187 (Mn2+, Ca2+, Mg2+)
+Cezomycin
+Carbonyl cyanide m-chlorophenyl hydrazone (CCCP) (H+)
+Enniatin (ammonium)
+Gramicidin A (H+, Na+, K+)
+Ionomycin (Ca2+)
+Lasalocid (K+, Na+, Ca2+, Mg2+)
+Monensin (Na+, H+)
+Nigericin (K+, H+, Pb2+)
+Nonactin (ammonium ionophore I)
+Salinomycin (K+)
+Tetronasin
+Valinomycin (potassium ionophore I)
+Crystal structures have been determined for many of the alkali metal complexes formed by these compounds.
+Siderophore - Fe3+ binding compounds, found in microbes and grasses

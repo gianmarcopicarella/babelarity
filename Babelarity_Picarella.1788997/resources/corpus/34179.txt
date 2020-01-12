@@ -1,0 +1,22 @@
+A cistron is a gene. The term cistron is used to emphasize that genes exhibit a specific behavior in a cis-trans test; distinct positions (or loci) within a genome are cistronic.
+For example, suppose a mutation at a chromosome position 
+        x
+    {\displaystyle x}
+   is responsible for a recessive trait in a diploid organism (where chromosomes come in pairs). We say that the mutation is recessive because the organism will exhibit the wild type phenotype (ordinary trait) unless both chromosomes of a pair have the mutation (homozygous mutation). Similarly, suppose a mutation at another position, 
+        y
+    {\displaystyle y}
+  , is responsible for the same recessive trait. The positions 
+        x
+    {\displaystyle x}
+   and 
+        y
+    {\displaystyle y}
+   are said to be within the same cistron when an organism that has the mutation at 
+        x
+    {\displaystyle x}
+   on one chromosome and has the mutation at position 
+        y
+    {\displaystyle y}
+   on the paired chromosome exhibits the recessive trait even though the organism is not homozygous for either mutation. When instead the wild type trait is expressed, the positions are said to belong to distinct cistrons / genes.
+For example, an operon is a stretch of DNA that is transcribed to create a contiguous segment of RNA, but contains more than one cistron / gene. The operon is said to be polycistronic, whereas ordinary genes are said to be monocistronic.
+The words cistron and gene were coined before the advancing state of biology made it clear that the concepts they refer to are practically equivalent. This principle explains many instances of synonymity in the life sciences.

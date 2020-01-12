@@ -1,0 +1,41 @@
+In mathematics, a lituus is a spiral with polar equation
+          r
+            2
+        θ
+        =
+        k
+    {\displaystyle r^{2}\theta =k\,}
+where k is any non-zero constant. Thus, the angle θ is inversely proportional to the square of the radius r.
+This spiral, which has two branches depending on the sign of 
+        r
+    {\displaystyle r}
+  , is asymptotic to the 
+        x
+    {\displaystyle x}
+   axis. Its points of inflexion are at 
+        (
+        θ
+        ,
+        r
+        )
+        =
+        (
+              1
+              2
+        ,
+            2
+            k
+        )
+    {\displaystyle (\theta ,r)=({\tfrac {1}{2}},{\sqrt {2k}})}
+   and 
+        (
+              1
+              2
+        ,
+        −
+            2
+            k
+        )
+    {\displaystyle ({\tfrac {1}{2}},-{\sqrt {2k}})}
+  .
+The curve was named for the ancient Roman lituus by Roger Cotes in a collection of papers entitled Harmonia Mensurarum (1722), which was published six years after his death.

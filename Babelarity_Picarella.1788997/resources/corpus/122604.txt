@@ -1,0 +1,20 @@
+A lexeme ( pronunciation ) is a unit of lexical meaning that exists regardless of the number of inflectional endings it may have or the number of words it may contain. It is a basic unit of meaning, and the headwords of a dictionary are all lexemes. Put more technically, a lexeme is an abstract unit of morphological analysis in linguistics, that roughly corresponds to a set of forms taken by a single word. For example, in the English language, run, runs, ran and running are forms of the same lexeme, conventionally written as RUN. A related concept is the lemma (or citation form), which is a particular form of a lexeme that is chosen by convention to represent a canonical form of a lexeme. Lemmas, being a subset of lexemes, are likewise used in dictionaries as the headwords, and other forms of a lexeme are often listed later in the entry if they are not common conjugations of that word.
+A lexeme belongs to a particular syntactic category, has a certain meaning (semantic value), and in inflecting languages, has a corresponding inflectional paradigm; that is, a lexeme in many languages will have many different forms. For example, the lexeme RUN has a present third person singular form runs, a present non-third-person singular form run (which also functions as the past participle and non-finite form), a past form ran, and a present participle running. (It does not include runner, runners, runnable, etc.) The use of the forms of a lexeme is governed by rules of grammar; in the case of English verbs such as RUN, these include subject-verb agreement and compound tense rules, which determine which form of a verb can be used in a given sentence.
+A lexicon consists of lexemes.
+In many formal theories of language, lexemes have subcategorization frames to account for the number and types of complements. They occur within sentences and other syntactic structures.
+The notion of a lexeme is very central to morphology, and thus, many other notions can be defined in terms of it. For example, the difference between inflection and derivation can be stated in terms of lexemes:
+Inflectional rules relate a lexeme to its forms.
+Derivational rules relate a lexeme to another lexeme.
+The lexemes of a language are often composed of smaller units with individual meaning called morphemes, according to root morpheme + derivational morphemes + desinence (not necessarily in this order), where:
+The root morpheme is the primary lexical unit of a word, which carries the most significant aspects of semantic content and cannot be reduced to smaller constituents.
+The derivational morphemes carry only derivational information.
+The desinence is composed of all inflectional morphemes, and carries only inflectional information.
+The compound root morpheme + derivational morphemes is often called the stem. The decomposition stem + desinence can then be used to study inflection.
+Ending (linguistics)
+Inflection
+Lexical word vs. grammatical word
+Marker (linguistics)
+Multiword expression
+Null morpheme
+Root (linguistics)
+Stem

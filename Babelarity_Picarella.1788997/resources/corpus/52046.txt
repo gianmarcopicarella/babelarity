@@ -1,0 +1,32 @@
+Uncial 070 (in the Gregory-Aland numbering), ε 6 (Soden), is a Greek-Coptic diglot uncial manuscript of the New Testament. Palaeographically it has been assigned to the 6th century.
+Uncial 070 belonged to the same manuscript as codices: 0110, 0124, 0178, 0179, 0180, 0190, 0191, 0193, 0194, and 0202.
+The manuscript is very lacunose.
+070 (13 folios) – Luke 9:9-17; 10:40-11:6; 12:15-13:32; John 5:31-42; 8:33-42; 12:27-36
+0110 (1 folio) – John 8:13-22
+0124 + 0194 (22 folios) – Luke 3:19-30; 10:21-30; 11:24-42; 22:54-65; 23:4-24:26; John 5:22-31; 8:42-9:39; 11:48-56; 12:46-13:4
+0178 (1 folio) – Luke 16:4-12
+0179 (1 folio) – Luke 21:30-22:2
+0180 (1 folio) – John 7:3-12
+0190 (1 folio) – Luke 10:30-39
+0191 (1 folio) – Luke 12:5-14
+0193 (1 folio) – John 3:23-32
+0202 (2 folios) – Luke 8:13-19; 8:55-9:9.
+The codex contains a parts of the Gospel of Luke and Gospel of John, on 44 parchment leaves (37 by 28 cm). The text is written in two columns per page, 35 lines per page. The Coptic texts are not completely identical with the Greek. It is written in large, round, not compressed letters, in black ink. Pages have Coptic numbers. It used Spiritus asper, Spiritus lenis, and accents, but often wrongly. There are many itacistic errors.
+Probably it was written by Coptic scribe. In Luke 13:21 he wrote βαβουσα instead of λαβουσα, in Luke 13:16 used δεκαι instead of δεκα και. The Greek text of this codex is a representative of the Alexandrian text-type. Aland placed it in Category III. The Coptic texts are not completely identical with the Greek.
+It does not include the Pericope Adulterae (John 7:53-8:11) in the Coptic text. The Greek text has a lacuna in that place.
+In Luke 23:34 omitted words are "And Jesus said: Father forgive them, they know not what they do." This omission is supported by the manuscripts Papyrus 75, Sinaiticusa, B, D*, W, Θ, 1241, ita, d, syrs, copsa, copbo.
+Currently the manuscript is dated by the INTF to the 6th century.
+Nine leaves of the codex (Luke 12:15-13:32; John 8:33-42), belonged once to Carl Gottfried Woide, who received them from Egypt. They are known as Fragmentum Woideanum, they were designated by Ta or Twoi and were confused with Codex Borgianus. According to Tregelles they were parts of the same manuscript. J.B. Lightfoot gave a reasons for thinking that this fragment was not originally a portion of Borgianus.
+0124 was brought from White Monastery.
+The codex is divided into 14 parts, but 11 codices, and located in 5 libraries of four cities.
+Fragmentum Woideanum from 070 is held in the Clarendon Press, b. 2 Oxford – 9 leaves, with inscription "Coptic and Sahidic Manuscripts from Cairo"
+part of 070 is held in the Bibliothèque nationale de France, Copt. 132,2 Paris – 2 leaves
+rest of 070 is held in the Louvre MSE 10014, 10092k – 2 leaves
+0110 is held in British Library, Add. 34274, 1 f., London
+0194 (=0124) and 0202 are held in the British Library, Or. 3579 B [29], fol. 46, 47, 2 ff. London
+0124, 0179, 0180, 0190, 0191, and 0193 are held in the Bibliothèque nationale de France, Copt. 129,7 Paris
+0178 is held in the Österreichische Nationalbibliothek (1 f), in Vienna.
+List of New Testament uncials
+Coptic versions of the Bible
+Biblical manuscript
+Textual criticism

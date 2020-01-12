@@ -1,0 +1,38 @@
+Citadels is a German-style card game, designed by Bruno Faidutti, originally published in French as Citadelles by MultiSim in 2000, illustrated by Julien Delval, Florence Magnin, Jean-Louis Mourier and Cyrille Daujean as graphic designer for the first edition. Sometimes later, Citadels was published in German as Ohne Furcht und Adel, which means "Without Fear or Nobility".
+Citadels was a finalist for the 2000 Spiel des Jahres award. The Dutch version, Machiavelli, won the Dutch game prize (Nederlandse spellenprijs) in 2001.
+Gameplay revolves around two phases each round, character selection and then taking actions.
+First characters are selected through a partially secret draft. Each character has a different in-game effect which allows the player choosing that character to activate during the next phase of the turn. Beginning with the player possessing the crown counter, players take it in turn to choose a character card secretly before passing the hand to the next player. To add further strategy to the game, not all characters are available each round. Unavailable characters are selected randomly, and may be revealed or hidden, depending on the number of people playing. Also depending on the number of players in the game, players may be able to choose a second character, allowing them two 'turns' in the next phase of the round.
+After character selection is finished, characters are called out in order to take their actions. Characters that were not selected (either by choice, or because they were not in the available selection) are ignored, and the next character takes their action phase. The actions involve: taking income, taking additional district cards, 'building' district cards, and using character-specific abilities.
+Characters are then reshuffled and a new turn begins with players selecting new characters in the same process. When a player 'builds' their eighth district card in their tableau, the game ends and points are tallied. Bonus points are awarded for building the maximum 8 districts, being the first to do so, and having a district of each possible color (purple, yellow, red, blue, green).
+There are several cards that affect the end of the game. A player can build the "Belltower" district card to cause the game to end with 7 districts instead of 8. This affects the appropriate bonus points and the warlord/diplomat abilities.
+The original set contained eight character cards:
+Assassin
+Thief
+Magician
+King
+Bishop
+Merchant
+Architect
+Warlord
+The abilities associated with each character vary and include defensive, offensive, and bonus earning powers. For example, the Assassin has the ability to kill another character, preventing him or her from taking a turn; the King has the ability to move the crown counter, and the Warlord is able to destroy districts.
+The English language edition is sold as an expanded set with some extra cards and markers. These cards add a ninth character to be used in games of five or more players.
+The expansion set also adds an entire set of new characters, any of which can be swapped for their numerical counterpart (i.e. a game could not have the Witch and the Assassin, as they are both Character #1):
+Witch
+Tax Collector
+Wizard
+Emperor
+Abbot
+Alchemist
+Navigator
+Diplomat
+Artist / Queen
+These characters are generally a twist on the character and ability on the original set of character cards. For example, where the King takes the king token for himself, the Emperor instead nominates a different character to receive the king token.
+An expansion, The Dark City, was released for the game in 2004. The expansion adds 14 new purple district cards, some turn summary cards, and a wooden king token. The German, Lithuanian and Estonian language editions of The Dark City also include the nine new character cards from the English-language edition.
+The latest edition of the base game that was published in Germany in 2012 contained 15 new cards of a new type called "action cards". These cards can be used once per turn without costing any gold and offer various tactical advantages - comparable to purple district cards.
+This new edition was released as Ohne Furcht und Adel. It included the base game and the new action cards, but not the Dark City expansion which was included with the Fantasy Flight 3rd edition of Citadels.
+2000 Fairplay À la carte Winner
+2000 Meeples' Choice Award
+2000 Spiel des Jahres Nominee
+2001 International Gamers Awards - General Strategy; Multi-player Nominee
+2001 Nederlandse Spellenprijs Winner
+2007 Golden Geek Best Card Game Nominee

@@ -1,0 +1,298 @@
+In orbital mechanics, the Hohmann transfer orbit /ˈhoʊ.mʌn/ is an elliptical orbit used to transfer between two circular orbits of different radii in the same plane.
+The orbital maneuver to perform the Hohmann transfer uses two engine impulses, one to move a spacecraft onto the transfer orbit and a second to move off it. This maneuver was named after Walter Hohmann, the German scientist who published a description of it in his 1925 book Die Erreichbarkeit der Himmelskörper ("The Accessibility of Celestial Bodies") Hohmann was influenced in part by the German science fiction author Kurd Lasswitz and his 1897 book Two Planets.
+The diagram shows a Hohmann transfer orbit to bring a spacecraft from a lower circular orbit into a higher one. It is one half of an elliptic orbit that touches both the lower circular orbit the spacecraft wishes to leave (green and labeled 1 on diagram) and the higher circular orbit that it wishes to reach (red and labeled 3 on diagram). The transfer (yellow and labeled 2 on diagram) is initiated by firing the spacecraft's engine in order to accelerate it so that it will follow the elliptical orbit; this adds energy to the spacecraft's orbit. When the spacecraft has reached its destination orbit, its orbital speed (and hence its orbital energy) must be increased again in order to change the elliptic orbit to the larger circular one.
+Due to the reversibility of orbits, Hohmann transfer orbits also work to bring a spacecraft from a higher orbit into a lower one; in this case, the spacecraft's engine is fired in the opposite direction to its current path, slowing the spacecraft and causing it to drop into the lower-energy elliptical transfer orbit. The engine is then fired again at the lower distance to slow the spacecraft into the lower circular orbit.
+The Hohmann transfer orbit is based on two instantaneous velocity changes. Extra fuel is required to compensate for the fact that the bursts take time; this is minimized by using high thrust engines to minimize the duration of the bursts. Low thrust engines can perform an approximation of a Hohmann transfer orbit, by creating a gradual enlargement of the initial circular orbit through carefully timed engine firings. This requires a change in velocity (delta-v) that is up to 141% greater than the two impulse transfer orbit (see also below), and takes longer to complete.
+For a small body orbiting another much larger body, such as a satellite orbiting the earth, the total energy of the smaller body is the sum of its kinetic energy and potential energy, and this total energy also equals half the potential at the average distance 
+        a
+    {\displaystyle a}
+  , (the semi-major axis):
+        E
+        =
+                    1
+                    2
+        m
+          v
+            2
+        −
+              G
+              M
+              m
+            r
+        =
+              −
+              G
+              M
+              m
+              2
+              a
+        .
+    {\displaystyle E={\begin{matrix}{\frac {1}{2}}\end{matrix}}mv^{2}-{\frac {GMm}{r}}={\frac {-GMm}{2a}}.\,}
+Solving this equation for velocity results in the vis-viva equation,
+          v
+            2
+        =
+        μ
+          (
+              2
+              r
+          −
+              1
+              a
+          )
+    {\displaystyle v^{2}=\mu \left({\frac {2}{r}}-{\frac {1}{a}}\right)}
+where:
+        v
+    {\displaystyle v\,\!}
+   is the speed of an orbiting body
+        μ
+        =
+        G
+        M
+    {\displaystyle \mu =GM\,\!}
+   is the standard gravitational parameter of the primary body, assuming 
+        M
+        +
+        m
+    {\displaystyle M+m}
+   is not significantly bigger than 
+        M
+    {\displaystyle M}
+   (which makes 
+          v
+            M
+        ≪
+        v
+    {\displaystyle v_{M}\ll v}
+  )
+        r
+    {\displaystyle r\,\!}
+   is the distance of the orbiting body from the primary focus
+        a
+    {\displaystyle a\,\!}
+   is the semi-major axis of the body's orbit.
+Therefore, the delta-v required for the Hohmann transfer can be computed as follows, under the assumption of instantaneous impulses:
+        Δ
+          v
+            1
+        =
+              μ
+                r
+                  1
+          (
+                  2
+                    r
+                      2
+                    r
+                      1
+                  +
+                    r
+                      2
+          −
+          1
+          )
+        ,
+    {\displaystyle \Delta v_{1}={\sqrt {\frac {\mu }{r_{1}}}}\left({\sqrt {\frac {2r_{2}}{r_{1}+r_{2}}}}-1\right),}
+to enter the elliptical orbit at 
+        r
+        =
+          r
+            1
+    {\displaystyle r=r_{1}}
+   from the 
+          r
+            1
+    {\displaystyle r_{1}}
+   circular orbit
+        Δ
+          v
+            2
+        =
+              μ
+                r
+                  2
+          (
+          1
+          −
+                  2
+                    r
+                      1
+                    r
+                      1
+                  +
+                    r
+                      2
+          )
+        ,
+    {\displaystyle \Delta v_{2}={\sqrt {\frac {\mu }{r_{2}}}}\left(1-{\sqrt {\frac {2r_{1}}{r_{1}+r_{2}}}}\,\,\right),}
+to leave the elliptical orbit at 
+        r
+        =
+          r
+            2
+    {\displaystyle r=r_{2}}
+   to the 
+          r
+            2
+    {\displaystyle r_{2}}
+   circular orbit where 
+          r
+            1
+    {\displaystyle r_{1}}
+   and 
+          r
+            2
+    {\displaystyle r_{2}}
+   are, respectively, the radii of the departure and arrival circular orbits; the smaller (greater) of 
+          r
+            1
+    {\displaystyle r_{1}}
+   and 
+          r
+            2
+    {\displaystyle r_{2}}
+   corresponds to the periapsis distance (apoapsis distance) of the Hohmann elliptical transfer orbit. Typically 
+        μ
+    {\displaystyle \mu }
+   is given in units of m3/s2, as such be sure to use meters not kilometers for 
+          r
+            1
+    {\displaystyle r_{1}}
+   and 
+          r
+            2
+    {\displaystyle r_{2}}
+  . The total 
+        Δ
+        v
+    {\displaystyle \Delta v}
+   is then:
+        Δ
+          v
+            t
+            o
+            t
+            a
+            l
+        =
+        Δ
+          v
+            1
+        +
+        Δ
+          v
+            2
+        .
+    {\displaystyle \Delta v_{total}=\Delta v_{1}+\Delta v_{2}.}
+Whether moving into a higher or lower orbit, by Kepler's third law, the time taken to transfer between the orbits is:
+          t
+            H
+        =
+                    1
+                    2
+                4
+                  π
+                    2
+                  a
+                    H
+                    3
+              μ
+        =
+        π
+                (
+                  r
+                    1
+                +
+                  r
+                    2
+                  )
+                    3
+                8
+                μ
+    {\displaystyle t_{H}={\begin{matrix}{\frac {1}{2}}\end{matrix}}{\sqrt {\frac {4\pi ^{2}a_{H}^{3}}{\mu }}}=\pi {\sqrt {\frac {(r_{1}+r_{2})^{3}}{8\mu }}}}
+(one half of the orbital period for the whole ellipse), where 
+          a
+            H
+    {\displaystyle a_{H}\,\!}
+   is length of semi-major axis of the Hohmann transfer orbit.
+In application to traveling from one celestial body to another it is crucial to start maneuver at the time when the two bodies are properly aligned. Considering the target angular velocity being
+          ω
+            2
+        =
+              μ
+                r
+                  2
+                  3
+    {\displaystyle \omega _{2}={\sqrt {\frac {\mu }{r_{2}^{3}}}}}
+angular alignment α (in radians) at the time of start between the source object and the target object shall be
+        α
+        =
+        π
+        −
+          ω
+            2
+          t
+            H
+        =
+        π
+          (
+          1
+          −
+              1
+                2
+                    2
+                  (
+                        r
+                          1
+                        r
+                          2
+                  +
+                  1
+                  )
+                  3
+          )
+    {\displaystyle \alpha =\pi -\omega _{2}t_{H}=\pi \left(1-{\frac {1}{2{\sqrt {2}}}}{\sqrt {\left({\frac {r_{1}}{r_{2}}}+1\right)^{3}}}\,\right)}
+Consider a geostationary transfer orbit, beginning at r1 = 6,678 km (altitude 300 km) and ending in a geostationary orbit with r2 = 42,164 km (altitude 35,786 km).
+In the smaller circular orbit the speed is 7.73 km/s; in the larger one, 3.07 km/s. In the elliptical orbit in between the speed varies from 10.15 km/s at the perigee to 1.61 km/s at the apogee.
+The Δv for the two burns are thus 10.15 − 7.73 = 2.42 and 3.07 − 1.61 = 1.46 km/s, together 3.88 km/s.[1]
+It is interesting to note that this is greater than the Δv required for an escape orbit: 10.93 − 7.73 = 3.20 km/s. Applying a Δv at the LEO of only 0.78 km/s more (3.20−2.42) would give the rocket the escape speed, which is less than the Δv of 1.46 km/s required to circularize the geosynchronous orbit. This illustrates that at large speeds the same Δv provides more specific orbital energy, and energy increase is maximized if one spends the Δv as quickly as possible, rather than spending some, being decelerated by gravity, and then spending some more to overcome the deceleration (of course, the objective of a Hohmann transfer orbit is different).
+As the example above demonstrates, the Δv required to perform a Hohmann transfer between two circular orbits is not the greatest when the destination radius is infinite. (Escape speed is √2 times orbital speed, so the Δv required to escape is √2 − 1 (41.4%) of the orbital speed.) The Δv required is greatest (53.0% of smaller orbital speed) when the radius of the larger orbit is 15.58 times that of the smaller orbit. This number is the positive root of x3 − 15x2 − 9x − 1 = 0, which is 
+        5
+        +
+        4
+            7
+        cos
+        ⁡
+          (
+              1
+              3
+            tan
+              −
+              1
+          ⁡
+                  3
+              37
+          )
+    {\displaystyle 5+4{\sqrt {7}}\cos \left({1 \over 3}\tan ^{-1}{{\sqrt {3}} \over 37}\right)}
+  . For higher orbit ratios the Δv required for the second burn decreases faster than the first increases.
+When used to move a spacecraft from orbiting one planet to orbiting another, the situation becomes somewhat more complex, but much less delta-v is required, due to the Oberth effect, than the sum of the delta-v required to escape the first planet plus the delta-v required for a Hohmann transfer to the second planet.
+For example, consider a spacecraft travelling from the Earth to Mars. At the beginning of its journey, the spacecraft will already have a certain velocity and kinetic energy associated with its orbit around Earth. During the burn the rocket engine applies its delta-v, but the kinetic energy increases as a square law, until it is sufficient to escape the planet's gravitational potential, and then burns more so as to gain enough energy to get into the Hohmann transfer orbit (around the Sun). Because the rocket engine is able to make use of the initial kinetic energy of the propellant, far less delta-v is required over and above that needed to reach escape velocity, and the optimum situation is when the transfer burn is made at minimum altitude (low periapsis) above the planet. The delta-v needed is only 3.6 km/s, only about 0.4 km/s more than needed to escape Earth, even though this results in the spacecraft going 2.9 km/s faster than the earth as it heads off for Mars (see table below).
+At the other end, the spacecraft will need a certain velocity to orbit Mars, which will actually be less than the velocity needed to continue orbiting the Sun in the transfer orbit, let alone attempting to orbit the Sun in a Mars-like orbit. Therefore, the spacecraft will have to decelerate in order for the gravity of Mars to capture it. This capture burn should optimally be done at low altitude to also make best use of Oberth effect. Therefore, relatively small amounts of thrust at either end of the trip are needed to arrange the transfer compared to the free space situation.
+However, with any Hohmann transfer, the alignment of the two planets in their orbits is crucial – the destination planet and the spacecraft must arrive at the same point in their respective orbits around the Sun at the same time. This requirement for alignment gives rise to the concept of launch windows.
+The term lunar transfer orbit (LTO) is used for the moon.
+We may apply the formula given above to calculate the Δv in km/s needed to enter a Hohmann transfer orbit to arrive at various destinations from Earth (assuming circular orbits for the planets). In this table, the column labeled "Δv to enter Hohmann orbit from Earth's orbit" gives the change from Earth's velocity to the velocity needed to get on a Hohmann ellipse whose other end will be at the desired distance from the sun. The column labeled "v exiting LEO" gives the velocity needed (in a non-rotating frame of reference centered on the earth) when 300 km/s above the Earth's surface. This is obtained by adding to the specific kinetic energy the square of the speed (7.73 km/s) of this low Earth orbit (that is, the depth of Earth's gravity well at this LEO). The column "Δv from LEO" is simply the previous speed minus 7.73 km/s.
+Note that in most cases, Δv from LEO is less than the Δv to enter Hohmann orbit from Earth's orbit.
+To get to the sun, it is actually not necessary to use a Δv of 24 km/s. One can use 8.8 km/s to go very far away from the sun, then use a negligible Δv to bring the angular momentum to zero, and then fall into the sun. This can be considered a sequence of two Hohmann transfers, one up and one down. Also, the table does not give the values that would apply when using the moon for a gravity assist. There are also possibilities of using one planet, like Venus which is the easiest to get to, to assist getting to other planets or the sun.
+Engines such as ion thrusters are more difficult to analyze with the delta-v model. These engines offer a very low thrust and at the same time, paradoxically, much higher delta-v budget, much higher specific impulse, lower mass of fuel and engine. A 2-burn Hohmann transfer maneuver would be impractical with such a low thrust; the maneuver mainly optimizes the use of fuel, but in this situation there is relatively plenty of it.
+If only low-thrust maneuvers are planned on a mission, then continuously firing a low-thrust, but very high-efficiency engine might generate a higher delta-v and at the same time use less propellant than a rocket engine.
+Going from one circular orbit to another by gradually changing the radius simply requires the same delta-v as the difference between the two speeds. Such maneuver requires more delta-v than a 2-burn Hohmann transfer maneuver, but does not require "burns", the short applications of high thrust.
+The amount of propellant mass used measures the efficiency of the maneuver plus the hardware employed for it. The total delta-v used measures the efficiency of the maneuver only. For electric propulsion systems, which tend to be low-thrust, the high efficiency of the propulsive system usually vastly compensates for the inability to make the more efficient Hohmann maneuver.
+Transfer orbit using Electrical Propulsion or Low Thrust engines optimize the transfer time to reach the final orbit and not the delta-v as in the Hohmann transfer orbit. For geostationary orbit, the initial orbit is set to be supersynchronous and by thrusting continuously in the direction of the velocity at Apogee, the transfer orbit transforms to a circular geosynchronous one. This method however takes much longer to achieve due to the low thrust injected into the orbit 
+In 1997, a set of orbits known as the Interplanetary Transport Network (ITN) was published, providing even lower propulsive delta-v (though much slower and longer) paths between different orbits than Hohmann transfer orbits. The Interplanetary Transport Network is different in nature than Hohmann transfers because Hohmann transfers assume only one large body whereas the Interplanetary Transport Network does not. The Interplanetary Transport Network is able to achieve the use of less propulsive delta-v by employing gravity assist from the planets.
+Bi-elliptic transfer
+Delta-v budget
+Geostationary transfer orbit
+Halo orbit
+Lissajous orbit
+List of orbits
+Orbital mechanics

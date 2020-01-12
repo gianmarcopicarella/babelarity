@@ -1,0 +1,94 @@
+The Junkers Jumo 004 was the world's first turbojet engine in production and operational use, and the first successful axial compressor jet engine ever built. Some 8,000 units were manufactured by Junkers in Germany during late World War II, powering the operational Messerschmitt Me 262 fighter jet and the Arado Ar 234 reconnaissance/bomber jet, along with prototypes including the Horten Ho 229 aircraft. Variants of the engine were produced in Eastern Europe for years following the war.
+The feasibility of jet propulsion had been demonstrated in Germany in early 1937 by Hans von Ohain working with the Heinkel company. Most of the Reich Air Ministry (RLM) remained uninterested, but Helmut Schelp and Hans Mauch saw the potential of the concept and encouraged Germany's aero engine manufacturers to begin their own programmes of jet engine development. The companies remained skeptical and little new development was carried out.
+In 1939 Schelp and Mauch visited the companies to check up on progress. Otto Mader, head of Junkers Motoren (Jumo), stated that even if the concept was useful, he had no one to work on it. Schelp responded by stating that Dr Anselm Franz, then in charge of Junkers' turbo- and supercharger development, would be perfect for the job. Franz started his development team later that year, and the project was given the RLM designation 109-004 (the 109- prefix, assigned by the RLM was common to all reaction engine projects in WW II Germany, and was also used for German WW II rocket engine designs for manned aircraft).
+Franz opted for a design that was at once conservative and revolutionary. His design differed from von Ohain's in that he utilised a new type of compressor which allowed a continuous, straight flow of air through the engine (an axial compressor), recently developed by the Aerodynamische Versuchsanstalt (AVA - Aerodynamic Research Institute) at Göttingen. The axial-flow compressor not only had excellent performance, about 78% efficient in "real world" conditions, but it also had a smaller cross-section, important for high-speed aircraft. Dr. Bruno Bruckman's old assistant on the jet engine program, Dr. Österich, took over for him in Berlin, and selected the axial flow design, due to its smaller diameter; it was 10 cm (3.9 in) less than the BMW 003.
+On the other hand, he aimed to produce an engine that was far below its theoretical potential, in the interests of expediting development and simplifying production. One major decision was to opt for a simple combustion area using six "flame cans", instead of the more efficient single annular can. For the same reasons, he collaborated heavily on the development of the engine's turbine with Allgemeine Elektrizitäts-Gesellschaft (General Electric Company, AEG) in Berlin, and instead of building development engines, opted to begin work immediately on the prototype of an engine that could be put straight into production. Franz's conservative approach came under question from the RLM, but was vindicated when even given the developmental problems that it was to face, the 004 entered production and service well ahead of its more technologically advanced competitor, the BMW 003.
+At Kolbermoor, location of the Heinkel-Hirth engine works, the Fedden Mission, led by Sir Roy Fedden, found jet engine manufacturing was simpler and required lower-skill labor and less sophisticated tooling than piston engine production; in fact, most of making of hollow turbine blades and sheet metal work on jets could be done by tooling used in making automobile body panels. Fedden himself criticized the attachment of the 004's compressor casing, which was in two halves, bolted to the half-sections of the stator assemblies.
+The first prototype 004A, which was constructed to run on diesel fuel, was first tested in October 1940, though without an exhaust nozzle. It was benchtested at the end of January 1941 to a top thrust of 430 kgf (4,200 N; 950 lbf), and work continued to increase the output, the RLM contract having set a minimum of 600 kgf (5,900 N; 1,300 lbf) thrust.
+Vibration problems with the compressor stators, originally cantilevered from the outside, delayed the program at this point. Max Bentele, as an Air Ministry consulting engineer with a background in turbocharger vibrations, assisted in solving the problem. The original aluminium stators were replaced with steel ones in which configuration the engine developed 5.9 kN (1,300 lbf) in August, and passed a 10-hour endurance run at 9.8 kN (2,200 lbf) in December. The first flight test took place on March 15, 1942, when a 004A was carried aloft by a Messerschmitt Bf 110 to run up the engine in flight. The 004 used an eight-stage axial-flow compressor, with a number of axial combustion chambers (made from sheet steel), and a one-stage turbine with hollow blades.
+On July 18, one of the prototype Messerschmitt Me 262s flew for the first time under jet power from its 004 engines, and the 004 was ordered into production by the RLM to the extent of 80 engines.
+The initial 004A engines built to power the Me 262 prototypes had been built without restrictions on materials, and they used scarce raw materials such as nickel, cobalt, and molybdenum in quantities which were unacceptable in production. Franz realized that the Jumo 004 would have to be redesigned to incorporate a minimum of these strategic materials, and this was accomplished. All the hot metal parts, including the combustion chamber, were changed to mild steel protected by an aluminum coating, and the hollow turbine blades were produced from folded and welded Cromadur alloy (12% chromium, 18% manganese, and 70% iron) developed by Krupp, and cooled by compressed air "bled" from the compressor. The engine's operational lifespan was shortened, but on the plus side it became easier to construct. Production engines had a cast magnesium casing in two halves, one with half-sections of stator assemblies bolted to it. The four front stators were constructed from steel alloy blades welded to the mount; the rear five were pressed steel sheet bent over the mount and welded on. Steel alloy compressor blades dovetailled into slots in the compressor disk and were fixed by small screws. The compressor itself was mounted to a steel shaft with twelve set screws. Jumo tried a variety of compressor blades, beginning with solid steel, later hollow sheet metal ones, welded on the taper, with their roots fitted over rhomboidal studs on the turbine wheel, to which they were pinned and brazed.
+One interesting feature of the 004 was the starter system, designed by the German engineer Norbert Riedel, which consisted of a 10 hp (7.5 kW) 2-stroke flat engine hidden in the intake, and essentially functioned as a pioneering example of an APU for starting a jet engine. A hole in the extreme nose of the intake diverter body contained a pull-handle for the cable which "turned-over" the piston engine, which in turn spun up the turbine. Two small gasoline/oil mix tanks were fitted within the upper perimeter of the annular intake's sheet metal housing for fueling the Riedel two-stroke mechanical APU unit. The Riedel unit was also used — but was installed differently — for startup of the competing BMW 003 engine, and for Heinkel's more advanced HeS 011 "mixed-flow" turbojet design.
+The first production model of the 004B weighed 100 kg (220 lb) less than the 004A, and in 1943 had passed several 100-hour tests, with a time between overhauls of 50 hours being achieved.
+Later in 1943 the 004B version suffered turbine blade failures which were not understood by the Junkers team. They focussed on areas such as material defects, grain size and surface roughness. Eventually, in December, blade-vibration specialist Max Bentele was once again brought in during a meeting at the RLM headquarters. He identified that the failures were caused by one of the blades' natural frequencies being in the engine running range. His solution was to raise the frequency, by increasing the blade taper and shortening them by 1 millimeter, and to reduce the operating speed of the engine from 9,000 to 8,700 rpm.
+It was not until early 1944 that full production could finally begin. These setbacks were the principal factor delaying the Luftwaffe's introduction of the Me 262 into squadron service.
+Given the lower-quality steels used in the 004B, these engines typically only had a service life of some 10–25 hours, perhaps twice this in the hands of a skilled pilot. Another shortcoming of the engine, common to all early turbojets, was its sluggish throttle response. Worse, it was fairly easy to inject too much fuel into the engine by throttling up too quickly, allowing heat to build up before the cooling air could remove it. This led to softening of the turbine blades, and was a major cause for engine failures. Nevertheless, it made jet power for combat aircraft a reality for the first time.
+The exhaust area of the 004 featured a variable geometry nozzle, which had a special restrictive body nicknamed the Zwiebel (German for onion, due to its shape when seen from the side) which had roughly 40 cm (16 inch) of fore-and-aft travel to vary the jet exhaust's cross-sectional area for thrust control, as the active part of a pioneering "divergent-convergent" nozzle format.
+The Jumo 004 could run on three types of fuel:
+J-2, its standard fuel, a synthetic fuel produced from coal.
+Diesel oil.
+Aviation gasoline; not considered desirable due to its high rate of consumption.
+Costing RM10,000 for materials, the Jumo 004 also proved somewhat cheaper than the competing BMW 003, which was RM12,000, and cheaper than the Junkers 213 piston engine, which was RM35,000. Moreover, the jets used lower-skill labor and needed only 375 hours to complete (including manufacture, assembly, and shipping), compared to 1,400 for the BMW 801.
+Production and maintenance of the 004 was done at the Junkers works at Magdeburg, under the supervision of Otto Hartkopf. Completed engines earned a reputation for unreliability; the time between major overhauls (not technically a TBO) was thirty to fifty hours, and may have been as low as ten, though a skilled flyer could double the interval. (The competing BMW 003's was about fifty.) The process involved replacing turbine blades (which suffered the most damage, usually from ingesting stones and such, later known as fodding) and rebalancing the rotors; the Riedel two-stroke starter engine and the turbojet's governor would also be examined and replaced as needed. Combustors required maintenance every twenty hours, and replacement at 200.
+Between 5,000 and 8,000 004s were built; at the end of the Second World War, production stood at 1,500 per month. The Fedden Mission, led by Sir Roy Fedden, postwar estimated total jet engine production by mid-1946 could have reached 100,000 units a year, or more.
+Following World War II, Jumo 004s were built in small numbers in Malešice in Czechoslovakia, designated M-04, to power the Avia S-92 which was itself a copy of the Me 262. Upgraded Jumo 004 copies were also built in the Soviet Union as the RD-10, where they powered the Yakovlev Yak-15 as well as many prototype jet fighters.
+In France, captured 004s powered the Sud-Ouest SO 6000 Triton and the Arsenal VG-70.
+(Data from:
+109-004
+1⁄10 scale (compressor power absorption) prototype engine, test-run with limited success.
+109-004A
+Full-scale prototype and pre-production engines, powered early Messerschmitt Me 262 and Arado Ar 234 prototypes aircraft.
+109-004A-0: Pre-production engines for flight .
+109-004B
+Production-series engines with reduced weight and strategic materials.
+109-004B-0: initial production standard engines, 8.22 kN (1,848 lbf) thrust at 8,700 rpm.
+109-004B-1: modified compressor and turbine to reduce vibration and thrust increased to 8.83 kN (1,984 lbf).
+109-004B-2: Incorporating a new compressor to reduce vibration failures
+109-004B-3: A development model
+109-004B-4: Introduce air-cooled hollow turbine blades
+109-004C
+A projected version with detail refinements giving 9.81 kN (2,205 lbf) thrust, not built.
+109-004D
+A refined 004B with two-stage fuel injection and a new fuel control unit, ready for production by the end of World War II.
+109-004D-4: Modified combustion system for increased thrust but reduced life, for testing only.
+109-004E
+An 004D with exhaust area optimised for high altitude performance, 11.77 kN (2,646 lbf) thrust with afterburning.
+109-004F
+Possibly with Water or Water/Methanol injection.
+109-004G
+Based on the 004C with an 11-stage compressor and 8 can combustion chambers for 16.68 kN (3,749 lbf).
+109-004H
+A re-designed and enlarged version of the 004 with 11-stage compressor and 2-stage turbine, only reaching the design stage by war's end; projected to deliver 17.7 kN (3,970 lbf) thrust at 6,600 rpm.
+Avia M-04
+Post-war production of the 004B in Czechoslovakia
+Layout: A=axial flow compressor stages, C=can combustion chambers, T=turbine stages.
+Arado Ar 234
+Avia S-92: (Avia M-04) Czechoslovak-built Me 262 A-1a (fighter)
+Avia CS-92: (Avia M-04) Czechoslovak-built Me 262 B-1a (fighter trainer, two seats)
+Blohm & Voss P.188
+Focke-Wulf Ta 183 Huckebein
+Gotha Go 229
+Heinkel He 280
+Heinkel He 162A-8
+Henschel Hs 132
+Horten H.IX
+Messerschmitt Bf 110: Flying engine test-bed.
+Messerschmitt Me 262
+Yakovlev Yak-Jumo: precursor to the Yakovlev Yak-15 powered with captured 004s
+A number of examples of the Jumo 004 turbojet exist in aviation museums in North America, Europe and Australia specifically at the Smithsonian's National Air and Space Museum, the National Museum of the U.S. Air Force, at the New England Air Museum, Bradley International Airport, Windsor Locks, CT; and in Europe in such museums like the RAF Museum in the UK, and Munich's Deutsches Museum and in Australia at the Australian National Aviation Museum, as well in preserved examples of the Me 262A jet fighters in several aviation museums.
+The Me 262 owned by the Flying Heritage Collection is being restored to airworthy condition with Jumo 004s which have been retooled to allow greater fatigue life.
+Data from
+Type: Turbojet
+Length: 3.86 m (152 in)
+Diameter: 81 cm (32 in)
+Dry weight: 719 kg (1,585 lb)
+Compressor: 8-stage axial compressor
+Combustors: Can-type, 6
+Turbine: Single-stage
+Maximum thrust: 8.8 kN (1,980 lbf) at 8,700 rpm
+Overall pressure ratio: 3.14:1
+Specific fuel consumption: 1.39 N/(N·hr)
+Thrust-to-weight ratio: 1.25 (12.2 N/kg)
+The Blue Öyster Cult song ME 262 from 1972 makes a reference to the Junkers Jumo 004 engine of the Messerschmitt 262.
+"Me-262 prince of turbojets, Junkers Jumo 004 Blasts from clustered R4M quartets in my snout And see these English planes go burn"
+Comparable engines
+Armstrong Siddeley ASX
+BMW 003
+Heinkel HeS 011
+Ishikawajima Ne-20
+Lockheed J37 - first American axial-flow jet engine design attempt
+Metropolitan-Vickers F.2
+Westinghouse J30 — first operable American axial-flow jet engine (1943)
+Related lists
+List of aircraft engines
+List of aircraft engines of Germany during World War II

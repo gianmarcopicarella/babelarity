@@ -1,0 +1,12 @@
+Benzoyl chloride, also known as benzenecarbonyl chloride, is an organochlorine compound with the formula C6H5COCl. It is a colourless, fuming liquid with an irritating odour. It is mainly useful for the production of peroxides but is generally useful in other areas such as in the preparation of dyes, perfumes, pharmaceuticals, and resins.
+Benzoyl chloride is produced from benzotrichloride using either water or benzoic acid:
+C6H5CCl3 + H2O → C6H5COCl + 2 HCl
+C6H5CCl3 + C6H5CO2H → 2 C6H5COCl + HCl
+As for other acyl chlorides, it can be generated from the parent acid and other chlorinating agents phosphorus pentachloride or thionyl chloride. It was first prepared by treatment of benzaldehyde with chlorine.
+An early method for production of benzoyl chloride involved chlorination of benzyl alcohol.
+It reacts with water to produce hydrochloric acid and benzoic acid:
+C6H5COCl + H2O → C6H5CO2H + HCl
+Benzoyl chloride is a typical acyl chloride. It reacts with alcohols to give the corresponding esters. Similarly, it reacts with amines to give the amide.
+It undergoes the Friedel-Crafts acylation with aromatic compounds to give the corresponding benzophenones and related derivatives. With carbanions, it serves again as a source of "PhCO+".
+Benzoyl peroxide, a common reagent in polymer chemistry, is produced industrially by treating benzoyl chloride with hydrogen peroxide and sodium hydroxide:
+2 C6H5COCl + H2O2 + 2 NaOH → (C6H5CO)2O2 + 2 NaCl + 2 H2O

@@ -1,0 +1,44 @@
+An anti-tank rifle is a rifle designed to penetrate the armor of vehicles, particularly tanks. The usefulness of rifles for this purpose ran from the introduction of tanks in World War I until the Korean War. While medium and heavy tank armor became too thick to be penetrated by rigid projectiles from rifles that could be carried by a single soldier, anti-tank rifles continued to be used against other targets, though recoilless rifles and rocket-propelled grenades such as the bazooka were also introduced for infantry close-layer defense against tanks. Anti-materiel rifles of today, such as the Barrett M82, are a development of the Second World War technology.
+The tug of war between armor and projectiles had been developing for a long while among naval vessels, since the advent of the Ironclad. It wasn't until soldiers met armored vehicles that the conflict of infantry firearms and armor began. The introduction of armored cars and tanks resulted in the development of the first anti-tank weapons, among the first of which were high-powered rifles. These had appeared in the 19th century for big-game hunting. The anti-tank rifle followed the same route: a large bullet with a high velocity and the ability to penetrate armor.
+The first tanks, beginning with the British Mark I launched against the German trenches in World War I, were nearly impregnable to ordinary rifle fire. Most armored cars were similarly protected, but troops rarely faced armored cars, as they could not navigate the landscape of trench warfare very well. Though tanks and armored cars were vulnerable to artillery, mortars, and grenades, infantry was at a significant disadvantage when facing armored fighting vehicles since they had no effective direct fire weapon, with the exception of the ubiquitous trench mortar, improvised on the spot. In the direct fire mode, this weapon was manhandled by German infantry over the front of a trench wall and fired at low angles by eye at approaching enemy vehicles. Though somewhat effective, these actions were obviously very hazardous to any desperate mortar crew as their exposure could attract enemy fire.
+The first attempt at boosting penetrating power was the so-called 'reversed bullet'. This used the same cartridge and bullet as the regular round, but the bullet was "reversed" and an increased propelling charge was used. The next development was a special armor-piercing bullet, the K bullet (in German Patrone SmK Kurz 7.92 mm), which could also be fired from the regular infantry rifle. It had an increased propelling charge and a steel core bullet. This had about a 30% chance of penetrating the 8 mm armour of contemporary tanks if it struck the armor at a perpendicular angle.
+Both types had their specific advantages and disadvantages: for example, the K bullet was more expensive to produce and therefore was generally only issued to snipers and other advanced marksmen who could use it more effectively; the ordinary infantryman had to make do with reversed bullets, which were far less effective and had to be used in closer proximity to the target. In addition, both types of round damaged the rifles due to the higher propellant load and the resulting higher muzzle velocities and pressures: firstly, service life of the rifle barrel was decreased significantly because of the increased wear. Secondly, the higher pressure created in the chamber could jam the bolt, leading to the extractor claw failing to extract the cartridge and only breaking off the cartridge rim, leaving it stuck in the chamber. The strain of firing the increased charge could also burst the chamber of weaker and older rifles, at best destroying the rifle and at worst injuring or killing the rifleman. For these reasons, the K bullet and reversed bullet were not popular with the troops. Nevertheless, it gave the infantry a chance to stop a tank in an emergency, or at least injure or kill some of the crew if a bullet penetrated.
+Even as the rounds were introduced, tanks were being designed and built with thicker armor rendering these rounds largely ineffective, though they remained in use against the older designs and armored cars. Hence, a purpose-built weapon was required to counter the newer tanks.
+The first purposely-designed infantry anti-tank rifle was designed by Germany. The Mauser 1918 T-Gewehr large-calibre (13.2mm) rifle was capable of penetrating the armor of the newer generations of tanks and allowed a chance at stopping them. The high recoil of the rifle was very hard on the firer, sometimes breaking the collar bone or dislocating the shoulder. Although the rifle was unique to its role, it was a development of the Mauser rifles and high-powered British sporting rifles that had preceded it. The 13.2x92mm (0.538 in) cartridge was not unusual either, as some 0.50in firearms have already been fielded in land warfare with the relatively new and more powerful (as compared to black powder) smokeless powders of the era.
+At the same time, in the US, a half-inch high velocity round was being developed for use against aircraft. It would be used with the Browning-designed .50 caliber machine gun. This round was based on current US .30-06 caliber infantry ammunition. When word of the German anti-tank shell spread, there was some debate as to if it should be copied and used as a base for the new machine gun cartridge. However, after some analysis the German ammunition was ruled out, as its performance was inferior to the modified Springfield .30-06 round and was semi-rimmed, making it difficult to feed into an automatic weapon. The Browning M2 .50 cal machine gun would, however, go on to function as an anti-armor machine gun.
+At the start of World War II, only some European nations had an anti-tank rifle based on a high-velocity, large-calibre round, such as the British Boys anti-tank Rifle. The first combat use of anti-tank rifles took place during the Invasion of Poland of 1939. The Wz. 35 anti-tank rifle was extensively used by most Polish units. The Wz. 35 with 7.92 mm anti-tank rifle ammunition was a very effective weapon against all German tanks of the period (the Panzer I, II and III, as well as the Czech-made LT-35 and LT-38). At up to 400 meters, it could destroy all lightly armored vehicles. It could penetrate 15 mm of armor, sloped at 30° at 300 m distance, or 33 mm of armor at 100 m.
+Later, as armor became thicker on newer models, the effectiveness of a man-portable rifle lessened. This was particularly true in Malaya, where the light Japanese tanks specially configured for jungle conflict rode roughshod over British forces amply supplied with the Boys anti-tank rifle. At first small cannons up to 20mm caliber were used, but the anti-tank role soon required more powerful weapons which were based on the application of chemical energy in the form of the shaped charge anti-tank rifle grenade. To these were added rocket launchers such as the bazooka, recoilless rifles such as the Panzerfaust, and rocket-propelled grenades — some anti-armor successes were achieved with heavy-calibre autocannon by the Luftwaffe, especially with the Bordkanone BK 3,7 autocannon, mounted in twin gun pods against Soviet armor on the Eastern Front. Some anti-tank rifles, like the Finnish L-39, were still used by snipers to harass the enemy, like firing phosphorus bullets at tanks' open hatches, or to smoke an enemy sniper out of his position.
+The Soviet PTRS-41 and PTRD of World War II vintage were used by North Korean and Chinese forces during the Korean War as they lacked more modern infantry anti-tank weapons.
+Although retaining many of the technical characteristics of the anti-tank rifles, the Cold War era weapons are only conceptual descendants of anti-tank weapons wielded by the Second World War infantry, and both large-caliber sniper rifles and anti-materiel rifles owe only some part of their design heritage to them.
+Although no longer capable of penetrating even the side armor of the modern main battle tanks, they are capable of causing serious damage to their external fittings such as periscopes, optics, sensors, tank treads, and machine guns. Useful also in disabling or even destroying lesser-than-well armored rear units and support vehicles, helicopters, low-flying UAVs and personnel.
+Some examples of anti-tank rifles include:
+WWI
+Mauser Gewehr 98 with Patrone SmK Kurz 7.92 mm
+German 13.2 mm Rifle Anti-Tank (Mauser)
+WWII
+Finland
+Lahti L-39
+Japan
+Type 97 20 mm AT Rifle
+Germany
+Panzerbüchse 38
+Panzerbüchse 39
+Poland
+Anti-tank rifle, model 35
+Soviet Union
+14.5 mm PTRS-41 (Simonov)
+14.5 mm PTRD-41 (Degtyaryov)
+Switzerland
+7.92 mm Solothurn M SS 41
+20 mm Solothurn S-18/100
+20 mm Solothurn S-18/1000
+20 mm Solothurn S-18/1100
+United Kingdom
+Rifle, Anti-Tank, .55 in, Boys
+MANPATS
+High Explosive Incendiary/Armor Piercing Ammunition
+List of firearms
+Raufoss Mk211
+Sniper rifle
+Marksman rifle
+Category:20mm sniper rifles

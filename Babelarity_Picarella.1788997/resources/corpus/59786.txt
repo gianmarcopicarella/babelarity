@@ -1,0 +1,7 @@
+Thiosulfuric acid is a sulfur oxoacid. The acid cannot be made by acidifying aqueous thiosulfate salt solutions as the acid readily decomposes in water. The decomposition products can include sulfur, sulfur dioxide, hydrogen sulfide, polysulfanes, sulfuric acid and polythionates, depending on the exact reaction conditions. Anhydrous methods of producing the acid were developed by Schmidt:
+H2S + SO3 → H2S2O3·nEt2O (in diethyl ether at −78 °C )
+Na2S2O3 + 2HCl → 2NaCl + H2S2O3·2Et2O (in diethyl ether at −78 °C )
+HSO3Cl + H2S → HCl + H2S2O3 (low temperature)
+The anhydrous acid also decomposes below 0 °C:
+H2S2O3 → H2S + SO3
+The S-acid isomer is believed to be more stable than the O-acid isomer based on Hartree–Fock/ab initio calculations with a 6-311 G** basis set and MP2 to MP4 refinements. There is another isomeric form, a white crystalline adduct of hydrogen sulfide and sulfur trioxide, H2S·SO3, which can also be prepared at low temperature.

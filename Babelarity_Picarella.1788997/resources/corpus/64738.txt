@@ -1,0 +1,24 @@
+Daniel Gray "Dan" Quillen (June 22, 1940 – April 30, 2011) was an American mathematician.
+From 1984 to 2006, he was the Waynflete Professor of Pure Mathematics at Magdalen College, Oxford. He is renowned for being the "prime architect" of higher algebraic K-theory, for which he was awarded the Cole Prize in 1975 and the Fields Medal in 1978.
+Quillen was born in Orange, New Jersey, and attended Newark Academy. He entered Harvard University, where he earned both his AB, in 1961, and his PhD in 1964; the latter completed under the supervision of Raoul Bott, with a thesis in partial differential equations. He was a Putnam Fellow in 1959.
+Quillen obtained a position at the Massachusetts Institute of Technology after completing his doctorate. However, he also spent a number of years at several other universities, including the University of Chicago as a Dickson instructor. He visited France twice: first as a Sloan Fellow in Paris, during the academic year 1968–69, where he was greatly influenced by Grothendieck, and then, during 1973–74, as a Guggenheim Fellow. In 1969–70, he was a visiting member of the Institute for Advanced Study in Princeton, where he came under the influence of Michael Atiyah. In 1978, Quillen received a Fields Medal at the International Congress of Mathematicians held in Helsinki.
+Quillen retired at the end of 2006. He died from complications of Alzheimer's disease on April 30, 2011, aged 70, in Florida.
+Quillen's most celebrated contribution (mentioned specifically in his Fields medal citation) was his formulation of higher algebraic K-theory in 1972. This new tool, formulated in terms of homotopy theory, proved to be successful in formulating and solving major problems in algebra, particularly in ring theory and module theory. More generally, Quillen developed tools (especially his theory of model categories) which allowed algebro-topological tools to be applied in other contexts.
+Before his ground-breaking work in defining higher algebraic K-theory, Quillen worked on the Adams conjecture, formulated by Frank Adams in homotopy theory. His proof of the conjecture used techniques from the modular representation theory of groups, which he later applied to work on cohomology of groups and algebraic K-theory. He also worked on complex cobordism, showing that its formal group law is essentially the universal one.
+In related work, he also supplied a proof of Serre's conjecture about the triviality of algebraic vector bundles on affine space. He was also an architect (along with Dennis Sullivan) of rational homotopy theory.
+He introduced the Quillen determinant line bundle and the Mathai–Quillen formalism.
+Quillen, Daniel G., Homology of commutative rings, unpublished notes 
+Quillen, Daniel G. (1967), Homotopical algebra, Lecture Notes in Mathematics 43, Berlin, New York: Springer-Verlag, doi:10.1007/BFb0097438, ISBN 978-3-540-03914-3, MR 0223432 
+Quillen, Daniel (1969), "On the formal group laws of unoriented and complex cobordism theory", Bulletin of the American Mathematical Society 75: 1293–1298, doi:10.1090/S0002-9904-1969-12401-8, MR 0253350 
+Quillen, D. (1969), "Rational homotopy theory", Annals of Math (Annals of Mathematics) 90 (2): 205–295, doi:10.2307/1970725, JSTOR 1970725, MR 0258031 
+Quillen, Daniel (1971), "The Adams conjecture", Topology. An International Journal of Mathematics 10: 67–80, doi:10.1016/0040-9383(71)90018-8, ISSN 0040-9383, MR 0279804 
+Quillen, Daniel (1971), "The spectrum of an equivariant cohomology ring. I", Annals of Mathematics. Second Series 94: 549–572, ISSN 0003-486X, JSTOR 1970770, MR 0298694 
+Quillen, Daniel (1971), "The spectrum of an equivariant cohomology ring. II", Annals of Mathematics. Second Series 94: 573–602, ISSN 0003-486X, JSTOR 1970771, MR 0298694 
+Quillen, Daniel (1973), "Higher algebraic K-theory. I", Algebraic K-theory, I: Higher K-theories (Proc. Conf., Battelle Memorial Inst., Seattle, Wash., 1972), Lecture Notes in Math 341, Berlin, New York: Springer-Verlag, pp. 85–147, doi:10.1007/BFb0067053, MR 0338129 
+Quillen, Daniel (1975), "Higher algebraic K-theory", Proceedings of the International Congress of Mathematicians (Vancouver, B. C., 1974), Vol. 1, Montreal, Quebec: Canad. Math. Congress, pp. 171–176, MR 0422392  (Quillen's Q-construction)
+Quillen, Daniel (1974), "Higher K-theory for categories with exact sequences", New developments in topology (Proc. Sympos. Algebraic Topology, Oxford, 1972), London Math. Soc. Lecture Note Ser. 11, Cambridge University Press, pp. 95–103, MR 0335604 
+Quillen, Daniel (1976), "Projective modules over polynomial rings", Inventiones Mathematicae 36: 167–171, doi:10.1007/BF01390008 
+Quillen, Daniel (1985), "Superconnections and the Chern character", Topology. An International Journal of Mathematics 24 (1): 89–95, doi:10.1016/0040-9383(85)90047-3, ISSN 0040-9383, MR 790678 
+Quillen's lemma
+Quillen metric
+Quillen's theorems A and B

@@ -1,0 +1,31 @@
+The Zhuang languages (autonym: Vahcuengh (pre-1982: Vaƅcueŋƅ, Sawndip: 話僮), from vah 'language' and Cuengh 'Zhuang'; simplified Chinese: 壮语; traditional Chinese: 壯語; pinyin: Zhuàngyǔ) are any of more than a dozen Tai languages spoken by the Zhuang people of southern China in the province of Guangxi and adjacent parts of Yunnan and Guangdong. The Zhuang languages do not form a monophyletic linguistic unit, as northern and southern Zhuang languages are more closely related to other Tai languages than to each other. Northern Zhuang languages form a dialect continuum with Tai varieties across the provincial border in Guizhou, which are designated as Bouyei, whereas Southern Zhuang languages form another dialect continuum with Nung, Tay and Caolan in Vietnam. Standard Zhuang is based on the northern Zhuang dialect of Wuming.
+The Tai languages are believed to have been originally spoken in what is now southern China, with speakers of the Southwestern Tai languages (which include Thai, Lao and Shan) having emigrated in the face of Chinese expansion. Noting that both the Zhuang and Thai peoples have the same exonym for the Vietnamese, kɛɛuA1, from the Chinese commandery of Jiaozhi in northern Vietnam, Jerold A. Edmondson posited that the split between Zhuang and the Southwestern Tai languages happened no earlier than the founding of Jiaozhi in 112 BC. He also argues that the departure of the Thai from southern China must predate the 5th century AD, when the Tai who remained in China began to take family names.
+Zhāng Jūnrú's (张均如) Zhuàngyǔ Fāngyán Yánjiù (壮语方言研究 [A Study of Zhuang dialects]) is the most detailed study of Zhuang dialectology published to date. It reports survey work carried out in the 1950s, and includes a 1465-word list covering 36 varieties of Zhuang. For the list of the 36 Zhuang variants below from Zhang (1999), the name of the region (usually county) is given first, followed by the specific village. The phylogenetic position of each variant follows that of Pittayaporn (2009) (see Tai languages#Pittayaporn (2009)).
+The Zhuang language (or language group) has been divided by Chinese linguists into northern and southern "dialects" (fangyan 方言 in Chinese), each of which has been divided into a number of vernacular varieties (known as Tǔyǔ 土语 in Chinese) by Chinese linguists (Zhang & Wei 1997; Zhang 1999:29-30). The Wuming dialect of Yongbei Zhuang, classified within the "Northern Zhuang dialect," is considered to be the "standard" or prestige dialect of Zhuang, developed by the government for certain official usages. Although Southern Zhuang varieties have aspirated stops, Northern Zhuang varieties lack them. There are over 60 distinct tonal systems with 5–11 tones depending on the variety.
+Zhang (1999) identified 13 Zhuang varieties. Later research by the Summer Institute of Linguistics has indicated that some of these are themselves multiple languages that are not mutually intelligible without previous exposure on the part of speakers, resulting in 16 separate ISO 639-3 codes.
+Northern Zhuang comprises dialects north of the Yong River, with 8,572,200 speakers (ISO 639 ccx prior to 2007):
+Guibei 桂北 (1,290,000 speakers): Luocheng, Huanjiang, Rongshui, Rong'an, Sanjiang, Yongfu, Longsheng, Hechi, Nandan, Tian'e, Donglan (ISO 639 zgb)
+Liujiang 柳江 (1,297,000 speakers): Liujiang, Laibin North, Yishan, Liucheng, Xincheng (ISO 639 zlj)
+Hongshui He 红水河 (2,823,000 speakers): Laibin South, Du'an, Mashan, Shilong, Guixian, Luzhai, Lipu, Yangshuo. Castro and Hansen (2010) distinguished three mutually unintelligible varieties: Central Hongshuihe (ISO 639 zch), Eastern Hongshuihe (ISO 639 zeh) and Liuqian (ISO 639 zlq).
+Yongbei 邕北 (1,448,000 speakers): Yongning North, Wuming (prestige dialect), Binyang, Hengxian, Pingguo (ISO 639 zyb)
+Youjiang 右江 (732,000 speakers): Tiandong, Tianyang, Baise; Youjiang River basin area (ISO 639 zyj)
+Guibian 桂边 (Yei; 827,000 speakers): Fengshan, Lingyun, Tianlin, Longlin, Yunnan Guangnan North (ISO 639 zgn)
+Qiubei 丘北 (Yei; 122,000 speakers): Yunnan Qiubei area (ISO 639 zqe)
+Lianshan 连山 (33,200 speakers): Guangdong Lianshan, Huaiji North (ISO 639 zln)
+Southern Zhuang dialects are spoken south of the Yong River, with 4,232,000 speakers (ISO 639 ccy prior to 2007):
+Yongnan 邕南 (1,466,000 speakers): Yongning South, Fusui Central and North, Long'an, Jinzhou, Shangse, Chongzuo areas (ISO 639 zyn)
+Zuojiang 左江 (1,384,000 speakers): Longzhou (Longjin), Daxin, Tiandeng, Ningming; Zuojiang River basin area (ISO 639 zzj)
+Dejing 得靖 (979,000 speakers): Jingxi, Debao, Mubian, Napo. Jackson, Jackson and Lau (2012) distinguished two mutually unintelligible varieties: Yang (ISO 639 zyg) and Min (ISO 639 zgm)
+Yanguang 砚广 (Nong; 308,000 speakers): Yunnan Guangnan South, Yanshan area (ISO 639 zhn)
+Wenma 文马 (Dai; 95,000 speakers): Yunnan Wenshan, Malipo, Guibian (ISO 639 zhd)
+Johnson (2011) distinguishes four distinct Zhuang languages in Wenshan Prefecture, Yunnan, China: Nong Zhuang, Yei Zhuang, Dai Zhuang, and Min Zhuang. Min Zhuang is a recently discovered variety that has never been described previous to Johnson (2011). (See also Wenshan Zhuang and Miao Autonomous Prefecture#Ethnic groups)
+Pyang Zhuang, or Fuping Zhuang, is an undescribed Central Tai language spoken in Fuping Township 扶平乡, Debao County, Guangxi, China.
+The Zhuang languages have been written in the Old Zhuang script, Sawndip, for over a thousand years, and possibly Sawgoek previous to that. The Old Zhuang script, Sawndip, is a Chinese character–based system of writing, similar to Vietnamese chữ nôm: some sawndip logograms were borrowed directly from Han characters, whereas others were original characters made up from the components of Chinese characters. It is used for writing songs about every aspect of life, including in more recent times encouraging people to follow official family planning policy.
+There has also been the occasional use of pictographic proto-writing, such as in the example at right.
+In addition, Standard Zhuang and Bouyei are written in Latin script.
+Chongzuo Tai languages
+Languages of China
+Ningming Mingjiang language
+Northern Tai languages
+Yongnan languages
+Zhuang studies

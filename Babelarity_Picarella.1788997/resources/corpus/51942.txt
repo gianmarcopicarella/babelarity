@@ -1,0 +1,78 @@
+In class-based object-oriented programming, a constructor (abbreviation: ctor) in a class is a special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.
+A constructor resembles an instance method, but it differs from a method in that it has no explicit return type, it is not implicitly inherited and it usually has different rules for scope modifiers. Constructors often have the same name as the declaring class. They have the task of initializing the object's data members and of establishing the invariant of the class, failing if the invariant is invalid. A properly written constructor leaves the resulting object in a valid state. Immutable objects must be initialized in a constructor.
+Programmers also use the term constructor to denote one of the tags that wraps data in an algebraic data type. This is a different usage than in this article.
+Most languages allow overloading the constructor in that there can be more than one constructor for a class, with differing parameters. Some languages take consideration of some special types of constructors. Constructors, which concretely use a single class to create objects and return a new instance of the class, are abstracted by factories, which also create objects but can do so in various ways, using multiple classes or different allocation schemes such as an object pool.
+Constructors that can take at least one argument are termed as parameterized constructors. For example:
+When an object is declared in a parameterized constructor, the initial values have to be passed as arguments to the constructor function. The normal way of object declaration may not work. The constructors can be called explicitly or implicitly. The method of calling the constructor implicitly is also called the shorthand method.
+If the programmer does not supply a constructor for an instantiable class, most languages will provide a default constructor.
+The behavior of the default constructor is language dependent. It may initialize data members to zero or other same values, or it may do nothing at all.
+Some languages (Java, C#, VB .NET) will default construct arrays of class types to contain null references. Languages without null references may not allow default construction of arrays of non default constructible objects, or require explicit initialization at the time of the creation (C++):
+Copy constructors define the actions performed by the compiler when copying class objects. A copy constructor has one formal parameter that is the type of the class (the parameter may be a reference to an object). It is used to create a copy of an existing object of the same class. Even though both classes are the same, it counts as a conversion constructor.
+While copy constructors are usually abbreviated copy ctor or cctor, they have nothing to do with class constructors used in .NET using the same abbreviation.
+Conversion constructors provide a means for a compiler to implicitly create an object belonging to one class based on an object of a different type. These constructors are usually invoked implicitly to convert arguments or operands to an appropriate type, but they may also be called explicitly.
+In C++, move constructors take a value reference to an object of the class, and are used to implement ownership transfer of the parameter object's resources.
+Java, C++, C#, ActionScript, and PHP 4 have a naming convention in which constructors have the same name as the class of which they are associated with.
+In PHP 5, a recommended name for a constructor is __construct. For backwards compatibility, a method with the same name as the class will be called if __construct method can not be found. Since PHP 5.3.3, this works only for non-namespaced classes.
+In Perl, constructors are, by convention, named "new" and have to do a fair amount of object creation.
+In Moose object system for Perl, constructors (named new) are automatically created and are extended by specifying a BUILD method.
+In Visual Basic .NET, the constructor is called "New".
+In Python, the constructor is split over two methods, "__new__" and "__init__". The __new__ method is responsible for allocating memory for the instance, and receives the class as an argument (conventionally called "cls"). The __init__ method (often called "the initialiser") is passed the newly created instance as an argument (conventionally called "self").
+Object Pascal constructors are signified by the keyword "constructor" and can have user-defined names (but are mostly called "Create").
+In Objective-C, the constructor method is split across two methods, "alloc" and "init" with the alloc method setting aside (allocating) memory for an instance of the class, and the init method handling the bulk of initializing the instance. A call to the method "new" invokes both the alloc and the init methods, for the class instance.
+In Java, C# and VB .NET the constructor creates objects in a special memory structure called heap for reference types. Value types (such as int, double etc.), are created in a sequential structure called stack. VB .NET and C# allow use of new to create objects of value types. However, in those languages even use of new for value types creates objects only on stack.
+In C++, when constructor is invoked without new the objects are created on stack. When objects are created using new they are created on heap. They must be deleted implicitly by a destructor or explicitly by a call to operator delete.
+In Java, constructors differ from other methods in that:
+Constructors never have an explicit return type.
+Constructors cannot be directly invoked (the keyword “new” invokes them).
+Constructors cannot be synchronized, final, abstract, native, or static.
+Java constructors perform the following tasks in the following order:
+Initialize the class variables to default values. (byte, short, int, long, float, and double variables default to their respective zero values, booleans to false, chars to the null character ('\u0000') and object references to null.)
+Call the default constructor of the superclass if no constructor is defined.
+Initialize member variables to the specified values.
+Executes the body of the constructor.
+Java provides access to the superclass's constructor through the super keyword.
+A constructor taking zero number of arguments is called a "no-arguments" or "no-arg" constructor.
+In Visual Basic .NET, constructors use a method declaration with the name "New".
+Example C# constructor:
+In C#, a static constructor is a static data initializer. Static constructors are also called class constructors. Since the actual method generated has the name .cctor they are often also called "cctors".
+Static constructors allow complex static variable initialization. Static constructors are called implicitly when the class is first accessed. Any call to a class (static or constructor call), triggers the static constructor execution. Static constructors are thread safe and implement a singleton pattern. When used in a generic programming class, static constructors are called at every new generic instantiation one per type. Static variables are instantiated as well.
+In C++, the name of the constructor is the name of the class. It returns nothing. It can have parameters like any member function. Constructor functions are usually declared in the public section, but can also be declared in the protected and private sections, if the user wants to restrict access to them.
+The constructor has two parts. First is the initializer list which follows the parameter list and before the method body. It starts with a colon and entries are comma-separated. The initializer list is not required, but offers the opportunity to provide values for data members and avoid separate assignment statements. The initializer list is required if you have const or reference type data members, or members that do not have parameterless constructor logic. Assignments occur according to the order in which data members are declared (even if the order in the initializer list is different). The second part is the body, which is a normal method body enclosed in curly brackets.
+C++ allows more than one constructor. The other constructors must have different parameters. Additionally constructors which contain parameters which are given default values, must adhere to the restriction that not all parameters are given a default value. This is a situation which only matters if there is a default constructor. The constructor of a base class (or base classes) can also be called by a derived class. Constructor functions are not inherited and their addresses cannot be referenced. When memory allocation is required, the new and delete operators are called implicitly.
+A copy constructor has a parameter of the same type passed as const reference, for example Vector(const Vector& rhs). If it is not provided explicitly, the compiler uses the copy constructor for each member variable or simply copies values in case of primitive types. The default implementation is not efficient if the class has dynamically allocated members (or handles to other resources), because it can lead to double calls to delete (or double release of resources) upon destruction.
+Example invocations:
+On returning objects from functions or passing objects by value, the objects copy constructor will be called implicitly, unless return value optimization applies.
+C++ implicitly generates a default copy constructor which will call the copy constructors for all base classes and all member variables unless the programmer provides one, explicitly deletes the copy constructor (to prevent cloning) or one of the base classes or member variables copy constructor is deleted or not accessible (private). Most cases calling for a customized copy constructor (e.g. reference counting, deep copy of pointers) also require customizing the destructor and the copy assignment operator. This is commonly referred to as the Rule of three.
+In F#, a constructor can include any let or do statements defined in a class. let statements define private fields and do statements execute code. Additional constructors can be defined using the new keyword.
+In Eiffel, the routines which initialize new objects are called creation procedures. Creation procedures have the following traits:
+Creation procedures have no explicit return type (by definition of procedure).
+Creation procedures are named.
+Creation procedures are designated by name as creation procedures in the text of the class.
+Creation procedures can be explicitly invoked to re-initialize existing objects.
+Every effective (i.e., concrete or non-abstract) class must designate at least one creation procedure.
+Creation procedures must leave the newly initialized object in a state that satisfies the class invariant.
+Although object creation involves some subtleties, the creation of an attribute with a typical declaration x: T as expressed in a creation instruction create x.make consists of the following sequence of steps:
+Create a new direct instance of type T.
+Execute the creation procedure make to the newly created instance.
+Attach the newly initialized object to the entity x.
+In the first snippet below, class POINT is defined. The procedure make is coded after the keyword feature.
+The keyword create introduces a list of procedures which can be used to initialize instances. In this case the list includes default_create, a procedure with an empty implementation inherited from class ANY, and the make procedure coded within the class.
+In the second snippet, a class which is a client to POINT has a declarations my_point_1 and my_point_2 of type POINT.
+In procedural code, my_point_1 is created as the origin (0.0, 0.0). Because no creation procedure is specified, the procedure default_create inherited from class ANY is used. This line could have been coded create my_point_1.default_create . Only procedures named as creation procedures can be used in an instruction with the create keyword. Next is a creation instruction for my_point_2, providing initial values for the my_point_2's coordinates. The third instruction makes an ordinary instance call to the make procedure to reinitialize the instance attached to my_point_2 with different values.
+CFML uses a method named 'init' as a constructor method.
+Cheese.cfc
+Create instance of a cheese.
+Since ColdFusion 10, CFML has also supported specifying the name of the constructor method:
+In Object Pascal, the constructor is similar to a factory method. The only syntactic difference to regular methods is the keyword constructor in front of the name (instead of procedure or function). It can have any name, though the convention is to have Create as prefix, such as in CreateWithFormatting. Creating an instance of a class works like calling a static method of a class: TPerson.Create('Peter').
+In Perl programming language version 5, by default, constructors are factory methods, that is, methods that create and return the object, concretely meaning create and return a blessed reference. A typical object is a reference to a hash, though rarely references to other types are used too. By convention the only constructor is named new, though it is allowed to name it otherwise, or to have multiple constructors. For example, a Person class may have a constructor named new as well as a constructor new_from_file which reads a file for Person attributes, and new_from_person which uses another Person object as a template.
+With the Moose object system for Perl, most of this boilerplate can be left out, a default new is created, attributes can be specified, as well as whether they can be set, reset, or are required. In addition, any extra constructor functionality can be included in a BUILD method which the Moose generated constructor will call, after it has checked the arguments. A BUILDARGS method can be specified to handle constructor arguments not in hashref / key => value form.
+In both cases the Person class is instiated like this:
+In PHP version 5 and above, the constructor is a method named __construct() (notice that it's a double underscore), which the keyword new automatically calls after creating the object. It is usually used to automatically perform initializations such as property initializations. Constructors can also accept arguments, in which case, when the new statement is written, you also need to send the constructor arguments for the parameters.
+In Python, constructors are defined by one or both of __new__ and __init__ methods. A new instance is created by calling the class as if it were a function, which calls the __new__ and __init__ methods. If a constructor method is not defined in the class, the next one found in the class's Method Resolution Order will be called.
+In the typical case, only the __init__ method need be defined. (The most common exception is for immutable objects.)
+Classes normally act as factories for new instances of themselves, that is, a class is a callable object (like a function), with the call being the constructor, and calling the class returns an instance of that class. However the __new__ method is permitted to return something other than an instance of the class for specialised purposes. In that case, the __init__ is not invoked.
+In Ruby, constructors are created by defining a method called initialize. This method is executed to initialize each new instance.
+Allocation site
+Creational pattern
+Destructor
+Global constructor in C++, and its C counterpart, ((constructor)) function attribute

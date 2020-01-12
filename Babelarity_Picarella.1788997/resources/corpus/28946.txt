@@ -1,0 +1,37 @@
+The Antonov An-12 (Russian: Антонов Ан-12; NATO reporting name: Cub) is a four-engined turboprop transport aircraft designed in the Soviet Union. It is the military version of the Antonov An-10 and has many variants.
+The first prototype An-12 flew in December 1957. Over 900 had been built (both military and civilian versions) when Soviet production finally ended in 1973. The An-12BP entered Soviet military service in 1959. In terms of configuration, size, and capability, the aircraft is similar to the United States-built Lockheed C-130 Hercules. Soviet military and former-Soviet An-12s have a defensive tail gun turret.
+In the 1960s, China purchased several An-12 aircraft from the Soviet Union, along with a license to assemble the aircraft locally. Due to the Sino-Soviet split, the Soviet Union withdrew its technical assistance and the first flight of a Chinese-assembled An-12 was delayed until 1974. The Xi'an Aircraft Company and Xi'an Aircraft Design Institute worked to reverse-engineer the An-12 for local production.
+In 1981, the Chinese version of the An-12, designated Y-8, entered production. Since then, the Y-8 has become one of China's most popular military and civilian transport/cargo aircraft, with many variants produced and exported. A Tu-16/H-6 bomber navigator cockpit design was chosen for Y-8 instead of the original An-12 shorter navigator cockpit design, as the H-6 bomber had been in serial production for some time. Although An-12 is no longer in production in Russia or in Ukraine, Y-8 is upgraded and produced in China. The latest Y8-F600 is a joint venture between Shaanxi Aircraft Company, Antonov Aeronautical Scientific Technical Complex (ASTC), and Pratt & Whitney Canada. The Y8-F600 has a redesigned fuselage, western avionics, PW150B turboprop engines with an R-408 propeller system, and a two-crew glass cockpit. It is unknown whether the Shaanxi Y-8 remains in production, yet many believe it will remain in production for the foreseeable future.
+Currently the An-12 is very popular with cargo operators, especially those in the CIS, Africa and the Indian subcontinent.
+On 12 January 2009, the United Arab Emirates (UAE) issued a temporary ban of the An-12 from flying over their airspace following runway incursions at Sharjah International Airport and the GCAA has advised operators to stop using the aircraft. The ban was made permanent in Feb 2010.
+Data from Global Aircraft, Airliners.net
+General characteristics
+Crew: 5: 2 pilots, flight engineer, navigator, radio operator
+Payload: 20,000 kg (44,000 lb)
+Length: 33.10 m (108 ft 7 in)
+Wingspan: 38.00 m (124 ft 8 in)
+Height: 10.53 m (34 ft 7 in)
+Wing area: 121.7 m² (1,310 ft²)
+Empty weight: 28,000 kg (62,000 lb)
+Useful load: 60 paratroopers (two BMD-1 armoured vehicles)
+Max. takeoff weight: 61,000 kg (130,000 lb)
+Powerplant: 4 × Ivchenko AI-20L or AI-20M turboprops, 4,000 ehp (3,000 kW) each
+Performance
+Maximum speed: 777 km/h (419 knots, 482 mph)
+Cruise speed: 670 km/h (361 knots, 415 mph)
+Range:With maximum fuel: 5,700 km (3,075 nm, 3,540 mi)
+With maximum load: 3,600 km (1,945 nm, 2,235 mi))
+Service ceiling: 10,200 m (33,500 ft)
+Rate of climb: 10m/s (1960ft/min)
+Armament
+Guns: 2× 23 mm (0.906 in) Nudelman-Rikhter NR-23 cannons in a tail turret (some aircraft)
+In the 2005 film Lord of War, the main character Yuri Orlov, played by Nicolas Cage, commonly uses an Antonov An-12 to transport weapons, and is later said to have "a fleet" of such planes. Andrew Niccol, the director of Lord of War, stated that they actually used one of Viktor Bout's An-12 aircraft in the movie. The plane was used in the 2009 movie Whiteout.
+Related development
+Antonov An-22
+Shaanxi Y-8
+Aircraft of comparable role, configuration and era
+Lockheed C-130 Hercules
+Transall C.160
+Related lists
+List of military aircraft of the Soviet Union and the CIS
+List of military transport aircraft

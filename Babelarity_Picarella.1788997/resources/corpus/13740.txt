@@ -1,0 +1,44 @@
+Baseball had its debut as an official medal sport at the 1992 Summer Olympics in Barcelona. Eight nations competed, with the preliminary phase consisting of each team playing every other team. Playoffs were then held, with the four highest ranked teams advancing. For the semifinals, the 1st place team played the 4th place team and the 2nd place team played against the 3rd place team. The winners of those semifinals competed against each other for the gold medal, with the loser getting the silver medal. The teams defeated in the semifinal played a match for the bronze medal.
+Baseball was an event open only to male amateurs.
+Baseball events took place over 11 days, from July 26 to August 5.
+July 26
+ITA - TPE (10:30, L'Hospitalet)
+DOM - CUB (10:30, Viladecans)
+USA - ESP (18:00, L'Hospitalet)
+JPN - PUR (18:00, Viladecans)
+July 27
+USA - TPE (15:00, L'Hospitalet)
+CUB - ITA (15:00, Viladecans)
+DOM - PUR (21:00, L'Hospitalet)
+ESP - JPN (21:00, Viladecans)
+July 28
+PUR - TPE (15:00, L'Hospitalet)
+ITA - USA (15:00, Viladecans)
+CUB - JPN (21:00, L'Hospitalet)
+ESP - DOM (21:00, Viladecans)
+July 29
+JPN - DOM (15:00, L'Hospitalet)
+ITA - PUR (15:00, Viladecans)
+USA - CUB (21:00, L'Hospitalet)
+ESP - TPE (21:00, Viladecans)
+July 31
+ITA - JPN (15:00, L'Hospitalet)
+TPE - DOM (15:00, Viladecans)
+CUB - ESP (21:00, L'Hospitalet)
+PUR - USA (21:00, Viladecans)
+August 1
+PUR - CUB (15:00, L'Hospitalet)
+TPE - JPN (15:00, Viladecans)
+ESP - ITA (21:00, L'Hospitalet)
+DOM - USA (21:00, Viladecans)
+August 2
+DOM - ITA (15:00, L'Hospitalet)
+PUR - ESP (15:00, Viladecans)
+JPN - USA (21:00, L'Hospitalet)
+TPE - CUB (21:00, Viladecans)
+August 4
+TPE - JPN (15:00, L'Hospitalet)
+USA - CUB (21:00, L'Hospitalet)
+August 5
+JPN - USA (15:00, L'Hospitalet)
+CUB - TPE (21:00, L'Hospitalet)

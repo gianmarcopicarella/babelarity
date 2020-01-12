@@ -1,0 +1,19 @@
+Hemiacetals and hemiketals are compounds that are derived from aldehydes and ketones respectively. The Greek word hèmi means half. These compounds are formed by formal addition of an alcohol to the carbonyl group.
+When the alcohol group is replaced by a second alkoxy group, an acetal or a ketal, respectively, is formed.
+The general formula of a hemiacetal is R1R2C(OH)OR, where R1 or R2 is often hydrogen and R (bonded to O) is not hydrogen.
+While in the IUPAC definition of a hemiacetal R1 or R2 may or may not be a hydrogen, in a hemiketal none of the R-groups is an H. Hemiketals are regarded as hemiacetals that have no R-groups being H, thus a subclass of the hemiacetals. 
+Hemiacetals and hemiketals are generally unstable compounds. In some cases however, stable cyclic hemiacetals and hemiketals, called lactols, can be readily formed, especially when 5- and 6-membered rings are possible. In this case an intramolecular OH group reacts with the carbonyl group. Glucose and many other aldoses exist as cyclic hemiacetals whereas fructose and similar ketoses exist as cyclic hemiketals. Examples of hemiketals which are stable are OH-CH2-CH2-CH2-C(=O)-CH3,OH-CH2-(CH2)4-C(=O)-CH3.
+In organic synthesis, hemiacetals can be prepared in a number of ways:
+Nucleophilic addition of an alcohol to a carbonyl group of an aldehyde
+Nucleophilic addition of an alcohol to a resonance stabilized hemiacetal cation
+Partial hydrolysis of an acetal
+Hemiacetals and hemiketals may be thought of as intermediates in the reaction between alcohols and aldehydes or ketones, with the final product being an acetal or a ketal:
+-C=O + 2 ROH ⇌ -C(OH)(OR) + ROH ⇌ -C(OR)2 + H2O
+A hemiacetal can react with an alcohol under acidic conditions to form an acetal, and can dissociate to form an aldehyde and an alcohol.
+hemiacetal + alcohol (excess) + acid (catalyst) ↔ acetal + water
+An aldehyde dissolved in water exists in equilibrium with low concentrations of its hydrate, R-CH(OH)2. Similarly, in excess alcohol, the aldehyde, its hemiacetal, and its acetal all exist in solution.
+Hemiacetal results from addition of the alcohol's hydroxyl group to the carbon in the C=O bond. Acetals are products of substitution reactions catalyzed by acid. The presence of acid improves the leaving capacity of the hydroxyl group and enables its substitution with an alkoxyl group (-OR). The conversion of a hemiacetal to an acetal is an SN1 reaction.
+Ketones give hemiketals and ketals. These do not form as readily as hemiacetals and acetals. To increase yields of ketals or acetals, water formed during the reaction can be removed.
+Lactol
+Acetal
+Ketal

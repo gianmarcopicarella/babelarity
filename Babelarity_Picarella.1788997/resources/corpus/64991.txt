@@ -1,0 +1,721 @@
+A stochastic differential equation (SDE) is a differential equation in which one or more of the terms is a stochastic process, resulting in a solution which is also a stochastic process. SDEs are used to model various phenomena such as unstable stock prices or physical systems subject to thermal fluctuations. Typically, SDEs contain a variable which represents random white noise calculated as the derivative of Brownian motion or the Wiener process. However, other types of random behaviour are possible, such as jump processes.
+Early work on SDEs was done to describe Brownian motion in Einstein's famous paper, and at the same time by Smoluchowski. However, one of the earlier works related to Brownian motion is credited to Bachelier (1900) in his thesis 'Theory of Speculation'. This work was followed upon by Langevin. Later Itô and Stratonovich put SDEs on more solid mathematical footing.
+In physical science, SDEs are usually written as Langevin equations. These are sometimes ambiguously called "the Langevin equation" even though there are many possible forms. Those forms consist of an ordinary differential equation containing a deterministic function and an additional random white noise term. A second form includes the Smoluchowski equation or the Fokker-Planck equation. These are partial differential equations which describe the time evolution of probability distribution functions. The third form is the Itô stochastic differential equation, which is most frequently used in mathematics and quantitative finance. This is similar to the Langevin form, but it is usually written in differential notation. SDEs are denoted in two varieties, corresponding to two versions of stochastic calculus.
+Brownian motion or the Wiener process was discovered to be exceptionally complex mathematically. The Wiener process is almost surely nowhere differentiable; thus, it requires its own rules of calculus. There are two dominating versions of stochastic calculus, the Itô stochastic calculus and the Stratonovich stochastic calculus. Each of the two has advantages and disadvantages, and newcomers are often confused whether the one is more appropriate than the other in a given situation. Guidelines exist (e.g. Øksendal, 2003) and conveniently, one can readily convert an Itô SDE to an equivalent Stratonovich SDE and back again. Still, one must be careful which calculus to use when the SDE is initially written down.
+Numerical solution of stochastic differential equations and especially stochastic partial differential equations is a young field relatively speaking. Almost all algorithms that are used for the solution of ordinary differential equations will work very poorly for SDEs, having very poor numerical convergence. A textbook describing many different algorithms is Kloeden & Platen (1995).
+Methods include the Euler–Maruyama method, Milstein method and Runge–Kutta method (SDE).
+In physics, SDEs are typically written in the Langevin form and referred to as "the Langevin equation." For example, a general coupled set of first-order SDEs is often written in the form:
+                x
+                ˙
+            i
+        =
+              d
+                x
+                  i
+              d
+              t
+        =
+          f
+            i
+        (
+          x
+        )
+        +
+          ∑
+            m
+            =
+            1
+            n
+          g
+            i
+            m
+        (
+          x
+        )
+          η
+            m
+        (
+        t
+        )
+        ,
+    {\displaystyle {\dot {x}}_{i}={\frac {dx_{i}}{dt}}=f_{i}(\mathbf {x} )+\sum _{m=1}^{n}g_{i}^{m}(\mathbf {x} )\eta _{m}(t),\,}
+where 
+          x
+        =
+        {
+          x
+            i
+          |
+        1
+        ≤
+        i
+        ≤
+        k
+        }
+    {\displaystyle \mathbf {x} =\{x_{i}|1\leq i\leq k\}}
+   is the set of unknowns, the 
+          f
+            i
+    {\displaystyle f_{i}}
+   and 
+          g
+            i
+    {\displaystyle g_{i}}
+   are arbitrary functions and the 
+          η
+            m
+    {\displaystyle \eta _{m}}
+   are random functions of time, often referred to as "noise terms". This form is usually usable because there are standard techniques for transforming higher-order equations into several coupled first-order equations by introducing new unknowns. If the 
+          g
+            i
+    {\displaystyle g_{i}}
+   are constants, the system is said to be subject to additive noise, otherwise it is said to be subject to multiplicative noise. This term is somewhat misleading as it has come to mean the general case even though it appears to imply the limited case in which 
+        g
+        (
+        x
+        )
+        ∝
+        x
+    {\displaystyle g(x)\propto x}
+  . Additive noise is the simpler of the two cases; in that situation the Langevin equation has only one natural notion of solution and, in the linear case, this solution has an explicit expression found using the ordinary rules of calculus as if the 
+          η
+            m
+    {\displaystyle \eta _{m}}
+   were functions. However, in the case of multiplicative noise, the Langevin equation is not a well-defined entity on its own, and it must be specified whether the Langevin equation should be interpreted as an Itô SDE or a Stratonovich SDE.
+In physics, the main method of solution is to find the probability distribution function as a function of time using the equivalent Fokker-Planck equation (FPE). The Fokker-Planck equation is a deterministic partial differential equation. It tells how the probability distribution function evolves in time similarly to how the Schrödinger equation gives the time evolution of the quantum wave function or the diffusion equation gives the time evolution of chemical concentration. Alternatively numerical solutions can be obtained by Monte Carlo simulation. Other techniques include the path integration that draws on the analogy between statistical physics and quantum mechanics (for example, the Fokker-Planck equation can be transformed into the Schrödinger equation by rescaling a few variables) or by writing down ordinary differential equations for the statistical moments of the probability distribution function.
+The notation used in probability theory (and in many applications of probability theory, for instance mathematical finance) is slightly different. This notation makes the exotic nature of the random function of time 
+          η
+            m
+    {\displaystyle \eta _{m}}
+   in the physics formulation more explicit. It is also the notation used in publications on numerical methods for solving stochastic differential equations. In strict mathematical terms, 
+          η
+            m
+    {\displaystyle \eta _{m}}
+   cannot be chosen as an ordinary function, but only as a generalized function. The mathematical formulation treats this complication with less ambiguity than the physics formulation.
+A typical equation is of the form
+          d
+          X
+            t
+        =
+        μ
+        (
+          X
+            t
+        ,
+        t
+        )
+          d
+        t
+        +
+        σ
+        (
+          X
+            t
+        ,
+        t
+        )
+          d
+          B
+            t
+        ,
+    {\displaystyle \mathrm {d} X_{t}=\mu (X_{t},t)\,\mathrm {d} t+\sigma (X_{t},t)\,\mathrm {d} B_{t},}
+where 
+        B
+    {\displaystyle B}
+   denotes a Wiener process (Standard Brownian motion). This equation should be interpreted as an informal way of expressing the corresponding integral equation
+          X
+            t
+            +
+            s
+        −
+          X
+            t
+        =
+          ∫
+            t
+            t
+            +
+            s
+        μ
+        (
+          X
+            u
+        ,
+        u
+        )
+          d
+        u
+        +
+          ∫
+            t
+            t
+            +
+            s
+        σ
+        (
+          X
+            u
+        ,
+        u
+        )
+          d
+          B
+            u
+        .
+    {\displaystyle X_{t+s}-X_{t}=\int _{t}^{t+s}\mu (X_{u},u)\mathrm {d} u+\int _{t}^{t+s}\sigma (X_{u},u)\,\mathrm {d} B_{u}.}
+The equation above characterizes the behavior of the continuous time stochastic process Xt as the sum of an ordinary Lebesgue integral and an Itô integral. A heuristic (but very helpful) interpretation of the stochastic differential equation is that in a small time interval of length δ the stochastic process Xt changes its value by an amount that is normally distributed with expectation μ(Xt, t) δ and variance σ(Xt, t)² δ and is independent of the past behavior of the process. This is so because the increments of a Wiener process are independent and normally distributed. The function μ is referred to as the drift coefficient, while σ is called the diffusion coefficient. The stochastic process Xt is called a diffusion process, and is usually a Markov process.
+The formal interpretation of an SDE is given in terms of what constitutes a solution to the SDE. There are two main definitions of a solution to an SDE, a strong solution and a weak solution. Both require the existence of a process Xt that solves the integral equation version of the SDE. The difference between the two lies in the underlying probability space (Ω, F, Pr). A weak solution consists of a probability space and a process that satisfies the integral equation, while a strong solution is a process that satisfies the equation and is defined on a given probability space.
+An important example is the equation for geometric Brownian motion
+          d
+          X
+            t
+        =
+        μ
+          X
+            t
+          d
+        t
+        +
+        σ
+          X
+            t
+          d
+          B
+            t
+        .
+    {\displaystyle \mathrm {d} X_{t}=\mu X_{t}\,\mathrm {d} t+\sigma X_{t}\,\mathrm {d} B_{t}.}
+which is the equation for the dynamics of the price of a stock in the Black Scholes options pricing model of financial mathematics.
+There are also more general stochastic differential equations where the coefficients μ and σ depend not only on the present value of the process Xt, but also on previous values of the process and possibly on present or previous values of other processes too. In that case the solution process, X, is not a Markov process, and it is called an Itô process and not a diffusion process. When the coefficients depends only on present and past values of X, the defining equation is called a stochastic delay differential equation.
+As with deterministic ordinary and partial differential equations, it is important to know whether a given SDE has a solution, and whether or not it is unique. The following is a typical existence and uniqueness theorem for Itô SDEs taking values in n-dimensional Euclidean space Rn and driven by an m-dimensional Brownian motion B; the proof may be found in Øksendal (2003, §5.2).
+Let T > 0, and let
+        μ
+        :
+            R
+            n
+        ×
+        [
+        0
+        ,
+        T
+        ]
+        →
+            R
+            n
+        ;
+    {\displaystyle \mu :\mathbb {R} ^{n}\times [0,T]\to \mathbb {R} ^{n};}
+        σ
+        :
+            R
+            n
+        ×
+        [
+        0
+        ,
+        T
+        ]
+        →
+            R
+            n
+            ×
+            m
+        ;
+    {\displaystyle \sigma :\mathbb {R} ^{n}\times [0,T]\to \mathbb {R} ^{n\times m};}
+be measurable functions for which there exist constants C and D such that
+            |
+        μ
+        (
+        x
+        ,
+        t
+        )
+            |
+        +
+            |
+        σ
+        (
+        x
+        ,
+        t
+        )
+            |
+        ≤
+        C
+            (
+        1
+        +
+          |
+        x
+          |
+            )
+        ;
+    {\displaystyle {\big |}\mu (x,t){\big |}+{\big |}\sigma (x,t){\big |}\leq C{\big (}1+|x|{\big )};}
+            |
+        μ
+        (
+        x
+        ,
+        t
+        )
+        −
+        μ
+        (
+        y
+        ,
+        t
+        )
+            |
+        +
+            |
+        σ
+        (
+        x
+        ,
+        t
+        )
+        −
+        σ
+        (
+        y
+        ,
+        t
+        )
+            |
+        ≤
+        D
+          |
+        x
+        −
+        y
+          |
+        ;
+    {\displaystyle {\big |}\mu (x,t)-\mu (y,t){\big |}+{\big |}\sigma (x,t)-\sigma (y,t){\big |}\leq D|x-y|;}
+for all t ∈ [0, T] and all x and y ∈ Rn, where
+          |
+        σ
+            |
+            2
+        =
+          ∑
+            i
+            ,
+            j
+            =
+            1
+            n
+          |
+          σ
+            i
+            j
+            |
+            2
+        .
+    {\displaystyle |\sigma |^{2}=\sum _{i,j=1}^{n}|\sigma _{ij}|^{2}.}
+Let Z be a random variable that is independent of the σ-algebra generated by Bs, s ≥ 0, and with finite second moment:
+          E
+            [
+          |
+        Z
+            |
+            2
+            ]
+        <
+        +
+        ∞
+        .
+    {\displaystyle \mathbb {E} {\big [}|Z|^{2}{\big ]}<+\infty .}
+Then the stochastic differential equation/initial value problem
+          d
+          X
+            t
+        =
+        μ
+        (
+          X
+            t
+        ,
+        t
+        )
+          d
+        t
+        +
+        σ
+        (
+          X
+            t
+        ,
+        t
+        )
+          d
+          B
+            t
+           for 
+        t
+        ∈
+        [
+        0
+        ,
+        T
+        ]
+        ;
+    {\displaystyle \mathrm {d} X_{t}=\mu (X_{t},t)\,\mathrm {d} t+\sigma (X_{t},t)\,\mathrm {d} B_{t}{\mbox{ for }}t\in [0,T];}
+          X
+            0
+        =
+        Z
+        ;
+    {\displaystyle X_{0}=Z;}
+has a Pr-almost surely unique t-continuous solution (t, ω) |→ Xt(ω) such that X is adapted to the filtration FtZ generated by Z and Bs, s ≤ t, and
+          E
+          [
+            ∫
+              0
+              T
+            |
+            X
+              t
+              |
+              2
+            d
+          t
+          ]
+        <
+        +
+        ∞
+        .
+    {\displaystyle \mathbb {E} \left[\int _{0}^{T}|X_{t}|^{2}\,\mathrm {d} t\right]<+\infty .}
+        d
+          X
+            t
+        =
+        (
+        a
+        (
+        t
+        )
+          X
+            t
+        +
+        c
+        (
+        t
+        )
+        )
+        d
+        t
+        +
+        (
+        b
+        (
+        t
+        )
+          X
+            t
+        +
+        d
+        (
+        t
+        )
+        )
+        d
+          W
+            t
+    {\displaystyle dX_{t}=(a(t)X_{t}+c(t))dt+(b(t)X_{t}+d(t))dW_{t}}
+          X
+            t
+        =
+          Φ
+            t
+            ,
+              t
+                0
+          (
+            X
+                t
+                  0
+          +
+            ∫
+                t
+                  0
+              t
+            Φ
+              s
+              ,
+                t
+                  0
+              −
+              1
+          (
+          c
+          (
+          s
+          )
+          −
+          b
+          (
+          s
+          )
+          d
+          (
+          s
+          )
+          )
+          d
+          s
+          +
+            ∫
+                t
+                  0
+              t
+            Φ
+              s
+              ,
+                t
+                  0
+              −
+              1
+          d
+          (
+          s
+          )
+          d
+            W
+              s
+          )
+    {\displaystyle X_{t}=\Phi _{t,t_{0}}\left(X_{t_{0}}+\int _{t_{0}}^{t}\Phi _{s,t_{0}}^{-1}(c(s)-b(s)d(s))ds+\int _{t_{0}}^{t}\Phi _{s,t_{0}}^{-1}d(s)dW_{s}\right)}
+where
+          Φ
+            t
+            ,
+              t
+                0
+        =
+        exp
+        ⁡
+          (
+            ∫
+                t
+                  0
+              t
+            (
+            a
+            (
+            s
+            )
+            −
+                    b
+                      2
+                  (
+                  s
+                  )
+                2
+            )
+          d
+          s
+          +
+            ∫
+                t
+                  0
+              t
+          b
+          (
+          s
+          )
+          d
+            W
+              s
+          )
+    {\displaystyle \Phi _{t,t_{0}}=\exp \left(\int _{t_{0}}^{t}\left(a(s)-{\frac {b^{2}(s)}{2}}\right)ds+\int _{t_{0}}^{t}b(s)dW_{s}\right)}
+        d
+          X
+            t
+        =
+            1
+            2
+        f
+        (
+          X
+            t
+        )
+          f
+          ′
+        (
+          X
+            t
+        )
+        d
+        t
+        +
+        f
+        (
+          X
+            t
+        )
+          W
+            t
+    {\displaystyle dX_{t}={\frac {1}{2}}f(X_{t})f'(X_{t})dt+f(X_{t})W_{t}}
+for a given differentiable function 
+        f
+    {\displaystyle f}
+   is equivalent to the Stratonovich SDE
+        d
+          X
+            t
+        =
+        f
+        (
+          X
+            t
+        )
+        ∘
+          W
+            t
+    {\displaystyle dX_{t}=f(X_{t})\circ W_{t}}
+which has a general solution
+          X
+            t
+        =
+          h
+            −
+            1
+        (
+          W
+            t
+        +
+        h
+        (
+          X
+            0
+        )
+        )
+    {\displaystyle X_{t}=h^{-1}(W_{t}+h(X_{0}))}
+where
+        h
+        (
+        x
+        )
+        =
+          ∫
+            x
+              d
+              s
+              f
+              (
+              s
+              )
+    {\displaystyle h(x)=\int ^{x}{\frac {ds}{f(s)}}}
+        d
+          X
+            t
+        =
+          (
+          α
+          f
+          (
+            X
+              t
+          )
+          +
+              1
+              2
+          f
+          (
+            X
+              t
+          )
+            f
+            ′
+          (
+            X
+              t
+          )
+          )
+        d
+        t
+        +
+        f
+        (
+          X
+            t
+        )
+          W
+            t
+    {\displaystyle dX_{t}=\left(\alpha f(X_{t})+{\frac {1}{2}}f(X_{t})f'(X_{t})\right)dt+f(X_{t})W_{t}}
+for a given differentiable function 
+        f
+    {\displaystyle f}
+   is equivalent to the Stratonovich SDE
+        d
+          X
+            t
+        =
+        α
+        f
+        (
+          X
+            t
+        )
+        d
+        t
+        +
+        f
+        (
+          X
+            t
+        )
+        ∘
+          W
+            t
+    {\displaystyle dX_{t}=\alpha f(X_{t})dt+f(X_{t})\circ W_{t}}
+which is reducible to
+        d
+          Y
+            t
+        =
+        α
+        d
+        t
+        +
+        d
+          W
+            t
+    {\displaystyle dY_{t}=\alpha dt+dW_{t}}
+where 
+          Y
+            t
+        =
+        h
+        (
+          X
+            t
+        )
+    {\displaystyle Y_{t}=h(X_{t})}
+   where 
+        h
+    {\displaystyle h}
+   is defined as before. Its general solution is
+          X
+            t
+        =
+          h
+            −
+            1
+        (
+        α
+        t
+        +
+          W
+            t
+        +
+        h
+        (
+          X
+            0
+        )
+        )
+    {\displaystyle X_{t}=h^{-1}(\alpha t+W_{t}+h(X_{0}))}
+Langevin dynamics
+Local volatility
+Stochastic volatility
+Stochastic partial differential equations
+Diffusion process
+Stochastic difference equation

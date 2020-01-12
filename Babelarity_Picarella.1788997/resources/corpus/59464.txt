@@ -1,0 +1,59 @@
+Diazinon (IUPAC name: O,O-Diethyl O-[4-methyl-6-(propan-2-yl)pyrimidin-2-yl] phosphorothioate, INN - Dimpylate), a colorless to dark brown liquid, is a thiophosphoric acid ester developed in 1952 by Ciba-Geigy, a Swiss chemical company (later Novartis and then Syngenta). It is a nonsystemic organophosphate insecticide formerly used to control cockroaches, silverfish, ants, and fleas in residential, non-food buildings. Diazinon was heavily used during the 1970s and early 1980s for general-purpose gardening use and indoor pest control. A bait form was used to control scavenger wasps in the western U.S. Diazinon is used in flea collars for domestic pets in Australia and New Zealand. Residential uses of diazinon were outlawed in the U.S. in 2004 but it is still approved for agricultural uses. An emergency antidote is atropine.
+Diazinon was developed in 1952 by the Swiss company Ciba-Geigy to replace the insecticide DDT. Diazinon became available for mass use in 1955, as DDT production tapered. Before 1970 diazinon had issues with contaminants in the solution. but by the 1970s, alternative purification methods were used to reduce residual materials. After this, diazinon became an all-purpose indoor and outdoor commercial pest control product. In 2004, U.S. residential use of diazinon was outlawed, except for agricultural purposes and cattle ear tags .
+The structure of diazinon contains a thiophosphoric ester. The phosphorus center is the reactive site of the chemical. However, no known mechanisms currently exist. A novel mechanism does exist, which proposes that the sulfur is protonated in acidic medium via a hydronium ion which ultimately delivers a hydroxide group to the phosphorus center and can react readily.
+The form of diazinon varies widely as it can be in dusts, granules, liquids, concentrates, microencapsulations, wettable powders, and seed dressings. Its appearance varies depending on purity, ranging from a dark brown (industrial grade), to a colorless liquid (pure). Indicative of its functionality of a thiophosphoric ester, the chemical has a pronounced smell similar to that of diethyl ether.
+Diazinon is relatively stable under standard ambient temperature and pressure but is susceptible to form toxic phosphine gas upon heating. Furthermore, diazinon can oxidize into toxic phosphorus oxides if in the presence of a strong oxidizing agent.
+According to the German Patent bureau, the industrial synthesis of diazinon is as follows:
+β-isobutyrylaminocrotonic acid amine was cyclized with NaOR (R is either a hydrogen or aliphatic chain of 1 to 8 carbons) in a mixture of 0 to 100% by weight of water and an alcohol having 1 to 8 carbon atoms, above 90°C (but below the boiling point of the mixture used). Sodium pyrimidinolate was precipitated out in an inert solvent, such as benzene, with simultaneous removal of the water formed. The potassium salt is then reacted with diethylthiophosphoryl chloride by heating for several hours. When the reaction finished, the potassium chloride formed was washed with water and the solvent was removed under reduced pressure leaving diazinon.
+Diazinon functions as an acetylcholinesterase (AChE) inhibitor. This enzyme breaks down the neurotransmitter acetylcholine (ACh) into [choline] and an acetate group. (1) The inhibition of the AChE causes an abnormal accumulation of ACh in the synaptic cleft. When Diazinon enters the body, it is oxidatively degenerated to diaxozon, an organophosphate compound that is much more poisoning than diazinon and causes mainly the inhibition of AChE (6). The activation of diazinon (Reaction 1) is located in the liver microsomal enzyme system and requires O2 and NADPH. Additionally it can also be degenerated via oxidation in the microsomal enzyme system (Reaction 2). Both reactions are possible, and likely are catalyzed nonspecifically by the same mixed function oxidase. Once formed diazoxon is biotransformed again as it is degenerated. Diazoxon is degenerated due to the very effective hydrolyases in the microsomal and other sub cellular factions within the liver (Reaction 3). Mammalian specie degenerate diazoxon at a much slower rate though (with a half-life of 2 to 6 weeks). Insects lack this hydrolysis step which allows for the toxic species to accumulate rapidly. The detoxification of diazoxon is processed through the mircosomal mixed function oxidase system. Although not fully known, it is believed that this is the cause for the selectivity of diazinon against insects. After the hydrolysis or oxidation diazinon is further degenerated (Reaction 4).
+Toxicity and effects on animals: Diazinon is considered to be of relatively high toxicity for vertebrates. The common method of administering diazinon is absorption although inhalation is possible as well. The observed toxification symptoms conform to other acetylcholinesterase inhibitors. Symptoms are as follows:
+Colics
+Diarrhea and/or Vomiting
+Vertigo
+Headaches
+Miosis
+Bradycardia
+Sudden Drop in blood pressure
+Convulsion
+Apnea
+Intoxication of diazinon produces the following signs and symptoms:
+Eyes, ears, nose, and throat
+Small pupils (unreactive to light)
+Tearing, increased
+Cardiovascular
+Low or high blood pressure
+Slow or rapid heart rate
+Respiratory
+Breathing difficulty
+Chest tightness
+Nervous system
+Anxiety
+Convulsions
+Coma
+Dizziness
+Excitability
+Headache
+Weakness
+Tremor
+Twitching
+Skin
+Irritation
+Redness
+Sweating
+Gastrointestinal
+Abdominal cramps
+Diarrhea
+Loss of appetite
+Nausea
+Vomiting
+Typically treatments will vary depending on exposure and method of administration of the toxin. Critical biomarkers such as urine samples, blood content and heart rates are measured while detoxifying the patient. Common treatments for patients suffering from diazinon poisoning include:
+Assisted Breathing
+Intravenous fluids (IV)
+Irrigation (washing of the skin and eyes)
+Medicinal Treatments; including the antidotes atropine and oxime.
+Gastric Lavage
+Patients that continue to improve over the first 4 to 6 hours (after medical treatment) usually recover unscathed. Prolonged treatment often is needed to reverse the poisoning, including intensive care hospitalization and long-term therapy. Some toxicity may persist for weeks or months, or even longer.
+Diazinon is a contact insecticide which kills insects by altering normal neurotransmission within the nervous system of the insect. As mentioned above, diazinon inhibits the enzyme acetylcholinesterase (AChE), which hydrolyzes the neurotransmitter acetylcholine (ACh) in cholinergic synapses and neuromuscular junctions. This results in abnormal accumulation of ACh within the nervous system. Diazinon, although a thiophosphoric ester, shares a common mechanism of toxicity with other organophosphate insecticides such as chlorpyrifos, malathion and parathion, and is not very effective against the organophosphate-resistant insect populations.
+Symptoms of acute diazinon exposure develop in minutes to hours following exposure, depending of the exposure pathway. The initial symptoms of humans are nausea, dizziness, salivation, headache, sweating, lacrimation, and rhinorrhea. The symptoms can progress to vomiting, abdominal cramps, diarrhea, muscle twitching, weakness, tremor, a lack of coordination and miosis. Furthermore, some studies have even reported some psychiatric side effects as well including memory loss, confusion, and depression.
+Because diazinon is fat soluble, there is potential for delayed toxicity if significant amounts of diazinon are stored in fatty tissues. Intermediate syndrome generally occurs within 24–96 hours after exposure. Intermediate syndrome in humans is characterized by difficulty breathing and muscular weakness, often in the face, neck and proximal limb muscles. Cranial nerve palsies and depressed tendon reflexes have also been reported.
+Studies have suggested that exposure to some organophosphate pesticides can result in long-term neurological problems including organophosphate-induced delayed neuropathy (weakness or paralysis as well as paresthesia in the extremities); however, reports of these symptoms following diazinon exposures are rare. Human poisoning victims have shown increased levels of serum amylase and glucose as well as elevated urinary diastase levels accompanied by symptoms considered to be indicative of acute pancreatitis.

@@ -1,0 +1,327 @@
+In mathematics, Dirichlet's test is a method of testing for the convergence of a series. It is named after its author Peter Gustav Lejeune Dirichlet, and was published posthumously in the Journal de Mathématiques Pures et Appliquées in 1862.
+The test states that if 
+        {
+          a
+            n
+        }
+    {\displaystyle \{a_{n}\}}
+   is a sequence of real numbers and 
+        {
+          b
+            n
+        }
+    {\displaystyle \{b_{n}\}}
+   a sequence of complex numbers satisfying
+          a
+            n
+        ≥
+          a
+            n
+            +
+            1
+    {\displaystyle a_{n}\geq a_{n+1}}
+          lim
+            n
+            →
+            ∞
+          a
+            n
+        =
+        0
+    {\displaystyle \lim _{n\rightarrow \infty }a_{n}=0}
+          |
+            ∑
+              n
+              =
+              1
+              N
+            b
+              n
+          |
+        ≤
+        M
+    {\displaystyle \left|\sum _{n=1}^{N}b_{n}\right|\leq M}
+   for every positive integer N
+where M is some constant, then the series
+          ∑
+            n
+            =
+            1
+            ∞
+          a
+            n
+          b
+            n
+    {\displaystyle \sum _{n=1}^{\infty }a_{n}b_{n}}
+converges.
+Let 
+          S
+            n
+        =
+          ∑
+            k
+            =
+            1
+            n
+          a
+            k
+          b
+            k
+    {\displaystyle S_{n}=\sum _{k=1}^{n}a_{k}b_{k}}
+   and 
+          B
+            n
+        =
+          ∑
+            k
+            =
+            1
+            n
+          b
+            k
+    {\displaystyle B_{n}=\sum _{k=1}^{n}b_{k}}
+  .
+From summation by parts, we have that 
+          S
+            n
+        =
+          a
+            n
+            +
+            1
+          B
+            n
+        +
+          ∑
+            k
+            =
+            1
+            n
+          B
+            k
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+    {\displaystyle S_{n}=a_{n+1}B_{n}+\sum _{k=1}^{n}B_{k}(a_{k}-a_{k+1})}
+  .
+Since 
+          B
+            n
+    {\displaystyle B_{n}}
+   is bounded by M and 
+          a
+            n
+        →
+        0
+    {\displaystyle a_{n}\rightarrow 0}
+  , the first of these terms approaches zero, 
+          a
+            n
+            +
+            1
+          B
+            n
+        →
+        0
+    {\displaystyle a_{n+1}B_{n}\to 0}
+   as n→∞.
+On the other hand, since the sequence 
+          a
+            n
+    {\displaystyle a_{n}}
+   is decreasing, 
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+    {\displaystyle a_{k}-a_{k+1}}
+   is positive for all k, so 
+          |
+          B
+            k
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+          |
+        ≤
+        M
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+    {\displaystyle |B_{k}(a_{k}-a_{k+1})|\leq M(a_{k}-a_{k+1})}
+  . That is, the magnitude of the partial sum of Bn, times a factor, is less than the upper bound of the partial sum Bn (a value M) times that same factor.
+But 
+          ∑
+            k
+            =
+            1
+            n
+        M
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+        =
+        M
+          ∑
+            k
+            =
+            1
+            n
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+    {\displaystyle \sum _{k=1}^{n}M(a_{k}-a_{k+1})=M\sum _{k=1}^{n}(a_{k}-a_{k+1})}
+  , which is a telescoping series that equals 
+        M
+        (
+          a
+            1
+        −
+          a
+            n
+            +
+            1
+        )
+    {\displaystyle M(a_{1}-a_{n+1})}
+   and therefore approaches 
+        M
+          a
+            1
+    {\displaystyle Ma_{1}}
+   as n→∞. Thus, 
+          ∑
+            k
+            =
+            1
+            ∞
+        M
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+    {\displaystyle \sum _{k=1}^{\infty }M(a_{k}-a_{k+1})}
+   converges.
+In turn, 
+          ∑
+            k
+            =
+            0
+            ∞
+          |
+          B
+            k
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+          |
+    {\displaystyle \sum _{k=0}^{\infty }|B_{k}(a_{k}-a_{k+1})|}
+   converges as well by the Direct comparison test. The series 
+          ∑
+            k
+            =
+            1
+            ∞
+          B
+            k
+        (
+          a
+            k
+        −
+          a
+            k
+            +
+            1
+        )
+    {\displaystyle \sum _{k=1}^{\infty }B_{k}(a_{k}-a_{k+1})}
+   converges, as well, by the Absolute convergence test. Hence 
+          S
+            n
+    {\displaystyle S_{n}}
+   converges.
+A particular case of Dirichlet's test is the more commonly used alternating series test for the case
+          b
+            n
+        =
+        (
+        −
+        1
+          )
+            n
+        ⇒
+          |
+            ∑
+              n
+              =
+              1
+              N
+            b
+              n
+          |
+        ≤
+        1
+    {\displaystyle b_{n}=(-1)^{n}\Rightarrow \left|\sum _{n=1}^{N}b_{n}\right|\leq 1}
+  .
+Another corollary is that 
+          ∑
+            n
+            =
+            1
+            ∞
+          a
+            n
+        sin
+        ⁡
+        n
+    {\displaystyle \sum _{n=1}^{\infty }a_{n}\sin n}
+   converges whenever 
+        {
+          a
+            n
+        }
+    {\displaystyle \{a_{n}\}}
+   is a decreasing sequence that tends to zero.
+An analogous statement for convergence of improper integrals is proven using integration by parts. If the integral of a function f is uniformly bounded over all intervals, and g is a monotonically decreasing non-negative function, then the integral of fg is a convergent improper integral.

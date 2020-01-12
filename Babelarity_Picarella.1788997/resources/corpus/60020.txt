@@ -1,0 +1,14 @@
+Lithium peroxide is the inorganic compound with the formula Li2O2. It is a white, nonhygroscopic solid. Because of its low density, the solid has been used to remove CO2 from the atmosphere in spacecraft.
+It is prepared by the reaction of hydrogen peroxide and lithium hydroxide. This reaction initially produces lithium hydroperoxide:
+LiOH + H2O2 → LiOOH + 2 H2O
+This lithium hydroperoxide has also been described as lithium peroxide monoperoxohydrate trihydrate (Li2O2·H2O2·3H2O). Dehydration of this material gives the anhydrous peroxide salt:
+2 LiOOH → Li2O2 + H2O2 + 2 H2O
+Li2O2 decomposes at about 450 °C to give lithium oxide:
+2 Li2O2 → 2 Li2O + O2
+The structure of solid Li2O2 has been determined by X-ray crystallography and density funcitonal theory. The solid features an eclipsed "ethane-like" Li6O2 subunits with an O-O distance of around 1.5 Å.
+It is used in air purifiers where weight is important, e.g., spacecraft to absorb carbon dioxide and release oxygen in the reaction:
+2 Li2O2 + 2 CO2 → 2 Li2CO3 + O2
+It absorbs more CO2 than does the same weight of lithium hydroxide and offers the bonus of releasing oxygen. Furthermore, unlike most other alkali metal peroxides, it is not hygroscopic.
+The reversible lithium peroxide reaction is the basis for a prototype lithium–air battery. Using oxygen from the atmosphere allows the battery to eliminate storage of oxygen for its reaction, saving battery weight and size.
+The successful combination of a lithium-air battery overlain with an air-permeable mesh solar cell was announced by Ohio State University in 2014. The combination of two functions in one device (a "solar battery") is expected to reduce costs significantly compared to separate devices and controllers as are currently employed.
+Lithium oxide

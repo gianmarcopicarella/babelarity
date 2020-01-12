@@ -1,0 +1,42 @@
+Geraniales are a small order of flowering plants, included within the rosid subclade of eudicots. The largest family in the order is Geraniaceae with over 800 species. In addition, the order includes the smaller Francoaceae with about 40 species. Most Geraniales are herbaceous, but there are also shrubs and small trees.
+The economic importance of Geraniales is low. Some species of the genus Pelargonium (Geraniaceae) are cultivated for their aromatic oil used in the perfume industry. Some other species, also mostly within Geraniaceae, have horticultural or medicinal uses. A Paleobotanic record is missing.
+The botanical authority for Geraniales is given to Jussieu, but since the original description did not fulfill all the rules for a valid publication and was subsequently validly published, attribution is given to both Jussieu and the subsequent publication, hence the designation Geraniales Juss. ex Bercht. & J.Presl Jussieu, who developed the concept of botanical families, described the Gerania, as a grouping of five genera, including Geranium. Although Jussieu used the term Ordo this did not corrrespond to current understandings of the term Order. The subsequent attribution occurred in 1820, in the Czech text O Prirozenosti Rostlin, by Friedrich von Berchtold and Jan Svatopluk Presl, hence ex Bercht. & J.Presl. However, Berchtold snd Presl also only described a rad (ordo) of five genera, which they called Geraniae. other authorities have given the authority to Dumortier who described the Geraniaceae family, consisting of two tribes, Pelargonieae and Geranieae, each with three genera.
+Geraniales contain two families, 11 genera and about 830 species. For a historical account of the circumscription of the order, see Price and Palmer (1993) Table 1.
+Under the Cronquist system (1988), the Geraniales comprised the following five families:
+family Geraniaceae
+family Oxalidaceae
+family Limnanthaceae
+family Tropaeolaceae
+family Balsaminaceae
+While the Dahlgren system (1980) was much larger in circumscription with 16 families, only two of which were in Cronquist's construction, and placed the order in the superorder Rutiflorae:
+family Zygophyllaceae
+family Nitrariaceae
+family Peganaceae
+family Balanitaceae
+family Erythroxylaceae
+family Humiriaceae
+family Linaceae
+family Ctenolophonaceae
+family Ixonanthaceae
+family Lepidobotryaceae
+family Oxalidaceae (including Averrhoaceae)
+family Geraniaceae
+family Dirachmaceae
+family Ledocarpaceae
+family Vivianiaceae
+family Biebersteiniaceae
+Other modern systems include those of Takhtajan (1987) with nine families, and Thorne (1992). Thorne's system was the same as Cronquist's except that Biebersteiniaceae, Dirachmaceae, Ledocarpaceae, and Vivianiaceae were reduced to subfamilies of Geraniaceae.
+The elucidation of the relationships within the order by morphological or cytological methods alone had proven difficult as demonstrated by the widely different treatment by various authorities. For instance Cronquist and Thorne immersed the families Biebersteiniaceae, Dirachmaceae, Ledocarpaceae, Rhynchothecaceae and Vivianiaceae within Geraniaceae (Geraniaceae sensu lato), whereas Dahlgren and others maintained them as separate taxa, maintaining a "core" Geraniaceae (Geraniaceae sensu stricto). Price and Palmer (1993) were among the first investigators to apply molecular phylogenetics to this order, using the chloroplast gene rbcL. This dissambled the traditional morphologicallly defined grouping of dicotyledons, replacing it with a series of nested clades. The Geraniales segregated in the eudicot clade, specifically in the rosid subclade.
+The family circumscription of the Angiosperm Phylogeny Group (APG) of 1998 placed Geraniales Dumort. amongst the rosids with the following six families:
+Geraniales Dumort. 1829
+Francoaceae A.Juss., 1832
+Geraniaceae Juss., 1789 [ + Hypseocharitaceae Wedd., 1861]
+Greyiaceae Hutch., 1926
+Ledocarpaceae Meyen, 1834
+Melianthaceae Bercht. & J.Presl, 1820
+Vivianiaceae Klotzsch, 1836
+Hypseocharitaceae were a small family of eight species of the genus Hypseocharis found in the tropical mountainous regions of the Andes. The APG provided the option of considering them as a separate family or subsumed into Geraniaceae. By 2003, when the APG was published, it was apparent that the small families Francoaceae, Greyiaceae and Melianthaceae were closely related and were collapsed into one family as Melanthiaceae with Francoaceae as an optional synonym. Thus the number of families was reduced to four.
+The APG III classification (2009) was typical of newer arrangements. In this definition, Hypseocharitaceae was included within Geraniaceae, Francoaceae and Greyiaceae were included within Melianthaceae, and Ledocarpaceae was included within the Vivianiaceae.
+However, Considerable rearrangements took place in the 2016 APG IV system. Francoaceae was substituted for Melianthaceae, due to nomenclatural priority. The latter subsumed Vivianiaceae based on the work of Sytsma, Spalink & Berger (2014). However there remains substantial uncertainty regarding the relationships within Francoaceae sensu stricto (s.s.), Melianthaceae (Bersama Fresen. and Melianthus L.) and Ledocarpaceae. Here, Vivianiaceae is used as a later synonym for Ledocarpaceae. This due to conflicting evidence (see Palazzesi et al., 2012). The APG chose to follow the broader circumscription for the time being till these differences are resolved.
+This leaves the order Geraniales with only two families: Geraniaceae and Francoaceae (including Bersamaceae, Greyiaceae, Ledocarpaceae, Melianthaceae, Rhynchothecaceae and Vivianiaceae).
+The Vivianiaceae and Ledocarpaceae were included within the Geraniaceae, and the Hypseocharitaceae within the Oxalidaceae, which are now treated in the order Oxalidales. The Melianthaceae were placed within the Sapindales, the Greyiaceae and Francoaceae within the Rosales, the latter subsumed within the Saxifragaceae.

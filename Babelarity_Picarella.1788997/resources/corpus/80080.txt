@@ -1,0 +1,8 @@
+Locale may refer to:
+Locale (computer software), a set of parameters that defines the user's language, region and any special variant preferences that the user wants to see in their user interface. Usually a locale identifier consists of at least a language identifier and a region identifier
+Locale (computer hardware), an abstraction of the concept of a localized set of hardware resources which are close enough to enjoy uniform memory access
+Locale (geographic), the geographic place at which there is or was human activity
+Locale (mathematics)
+Locale ('Ndrangheta), the main local organizational unit of the 'Ndrangheta with jurisdiction over criminal activities in an entire town or an area in a large urban center
+Locale theory
+Location (disambiguation)

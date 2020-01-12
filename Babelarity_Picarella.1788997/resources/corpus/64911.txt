@@ -1,0 +1,7 @@
+Nano- (symbol n) is a unit prefix meaning one billionth. Used primarily with the metric system, this prefix denotes a factor of 10−9 or 0.000000001. It is frequently encountered in science and electronics for prefixing units of time and length.
+Examples:
+One nanometer is about the length that a fingernail grows in one second.
+Three gold atoms lined up are about one nanometer long.
+If a toy marble were scaled down to one nanometer wide, Earth would scale to about one meter (3.3 feet) wide.
+The prefix is derived from the Greek νᾶνος (Latin nanus), meaning "dwarf", and was officially confirmed as standard in 1960.
+When used as a prefix for something other than a unit of measure (as in "nanoscience"), nano refers to nanotechnology, or on a scale of nanometres. See nanoscopic scale.

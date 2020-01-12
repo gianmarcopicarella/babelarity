@@ -1,0 +1,21 @@
+Laser cooling refers to a number of techniques in which atomic and molecular samples are cooled down to near absolute zero through the interaction with one or more laser fields. All laser cooling techniques rely on the fact that when an object (usually an atom) absorbs and re-emits a photon (a particle of light) its momentum changes. The temperature of an ensemble of particles is larger for larger variance in the velocity distribution of the particles. Laser cooling techniques combine atomic spectroscopy with the aforementioned mechanical effect of light to compress the velocity distribution of an ensemble of particles, thereby cooling the particles.
+The first example of laser cooling, and also still the most common method (so much so that it is still often referred to simply as 'laser cooling') is Doppler cooling. Other methods of laser cooling include:
+Sisyphus cooling
+Resolved sideband cooling
+Raman Sideband Cooling
+Velocity selective coherent population trapping (VSCPT)
+Cavity mediated cooling 
+Use of a Zeeman slower
+Electromagnetically induced transparency (EIT) cooling
+Doppler cooling, which is usually accompanied by a magnetic trapping force to give a magneto-optical trap, is by far the most common method of laser cooling. It is used to cool low density gases down to the Doppler cooling limit, which for Rubidium 85 is around 150 microkelvin.
+In Doppler cooling, the frequency of light is tuned slightly below an electronic transition in the atom. Because the light is detuned to the "red" (i.e., at lower frequency) of the transition, the atoms will absorb more photons if they move towards the light source, due to the Doppler effect. Thus if one applies light from two opposite directions, the atoms will always scatter more photons from the laser beam pointing opposite to their direction of motion. In each scattering event the atom loses a momentum equal to the momentum of the photon. If the atom, which is now in the excited state, then emits a photon spontaneously, it will be kicked by the same amount of momentum, but in a random direction. Since the initial momentum loss was opposite to the direction of motion, while the subsequent momentum gain was in a random direction, the overall result of the absorption and emission process is to reduce the speed of the atom (provided its initial speed was larger than the recoil speed from scattering a single photon). If the absorption and emission are repeated many times, the average speed, and therefore the kinetic energy of the atom will be reduced. Since the temperature of a group of atoms is a measure of the average random internal kinetic energy, this is equivalent to cooling the atoms.
+Laser cooling is primarily used to create ultracold atoms for experiments in quantum physics. These experiments are performed near absolute zero where unique quantum effects such as Bose-Einstein condensation can be observed. Laser cooling has primarily been used on atoms, but recent progress has been made toward laser cooling more complex systems. In 2010, a team at Yale successfully laser-cooled a diatomic molecule. In 2007, an MIT team successfully laser-cooled a macro-scale (1 gram) object to 0.8 K. In 2011, a team from the California Institute of Technology and the University of Vienna became the first to laser-cool a (10 μm x 1 μm) mechanical object to its quantum ground state.
+List of laser articles
+Optical tweezers
+Mössbauer effect
+Mössbauer spectroscopy
+Quantum refrigerators
+Timeline of low-temperature technology
+Researchers in laser cooling
+Claude Cohen-Tannoudji
+Steven Chu

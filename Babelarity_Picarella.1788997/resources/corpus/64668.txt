@@ -1,0 +1,1690 @@
+In mathematical analysis Hölder's inequality, named after Otto Hölder, is a fundamental inequality between integrals and an indispensable tool for the study of Lp spaces.
+Theorem (Hölder's inequality). Let (S, Σ, μ) be a measure space and let p, q ∈ [1, ∞] with 1/p + 1/q = 1. Then, for all measurable real- or complex-valued functions f and g on S,
+        ∥
+        f
+        g
+          ∥
+            1
+        ≤
+        ∥
+        f
+          ∥
+            p
+        ∥
+        g
+          ∥
+            q
+        .
+    {\displaystyle \|fg\|_{1}\leq \|f\|_{p}\|g\|_{q}.}
+If, in addition, p, q ∈ (1, ∞) and f ∈ Lp(μ) and g ∈ Lq(μ), then Hölder's inequality becomes an equality if and only if | f  |p and |g|q are linearly dependent in L1(μ), meaning that there exist real numbers α, β ≥ 0, not both of them zero, such that α|f |p = β |g|q μ-almost everywhere.
+The numbers p and q above are said to be Hölder conjugates of each other. The special case p = q = 2 gives a form of the Cauchy–Schwarz inequality. Hölder's inequality holds even if || fg ||1 is infinite, the right-hand side also being infinite in that case. Conversely, if f  is in Lp(μ) and g is in Lq(μ), then the pointwise product fg is in L1(μ).
+Hölder's inequality is used to prove the Minkowski inequality, which is the triangle inequality in the space Lp(μ), and also to establish that Lq(μ) is the dual space of Lp(μ) for p ∈ [1, ∞).
+Hölder's inequality was first found by Rogers (1888), and discovered independently by Hölder (1889).
+The brief statement of Hölder's inequality uses some conventions.
+In the definition of Hölder conjugates, 1/ ∞ means zero.
+If p, q ∈ [1, ∞), then || f  ||p and || g ||q stand for the (possibly infinite) expressions
+                    (
+                      ∫
+                        S
+                      |
+                    f
+                        |
+                        p
+                      d
+                    μ
+                    )
+                      1
+                      p
+                    (
+                      ∫
+                        S
+                      |
+                    g
+                        |
+                        q
+                      d
+                    μ
+                    )
+                      1
+                      q
+    {\displaystyle {\begin{aligned}&\left(\int _{S}|f|^{p}\,\mathrm {d} \mu \right)^{\frac {1}{p}}\\&\left(\int _{S}|g|^{q}\,\mathrm {d} \mu \right)^{\frac {1}{q}}\end{aligned}}}
+If p = ∞, then || f  ||∞ stands for the essential supremum of | f  |, similarly for || g ||∞.
+The notation || f  ||p with 1 ≤ p ≤ ∞ is a slight abuse, because in general it is only a norm of f  if || f  ||p is finite and f  is considered as equivalence class of μ-almost everywhere equal functions. If f ∈ Lp(μ) and g ∈ Lq(μ), then the notation is adequate.
+On the right-hand side of Hölder's inequality, 0 × ∞ as well as ∞ × 0 means 0. Multiplying a > 0 with ∞ gives ∞.
+As above, let f  and g denote measurable real- or complex-valued functions defined on S. If || fg ||1 is finite, then the pointwise products of f  with g and its complex conjugate function are μ-integrable, the estimate
+            |
+          ∫
+            S
+        f
+              g
+              ¯
+          d
+        μ
+            |
+        ≤
+          ∫
+            S
+          |
+        f
+        g
+          |
+          d
+        μ
+        =
+        ∥
+        f
+        g
+          ∥
+            1
+    {\displaystyle {\biggl |}\int _{S}f{\bar {g}}\,\mathrm {d} \mu {\biggr |}\leq \int _{S}|fg|\,\mathrm {d} \mu =\|fg\|_{1}}
+and the similar one for fg hold, and Hölder's inequality can be applied to the right-hand side. In particular, if f  and g are in the Hilbert space L2(μ), then Hölder's inequality for p = q = 2 implies
+          |
+        ⟨
+        f
+        ,
+        g
+        ⟩
+          |
+        ≤
+        ∥
+        f
+          ∥
+            2
+        ∥
+        g
+          ∥
+            2
+        ,
+    {\displaystyle |\langle f,g\rangle |\leq \|f\|_{2}\|g\|_{2},}
+where the angle brackets refer to the inner product of L2(μ). This is also called Cauchy–Schwarz inequality, but requires for its statement that || f  ||2 and || g ||2 are finite to make sure that the inner product of f  and g is well defined. We may recover the original inequality (for the case p = 2) by using the functions | f  | and | g | in place of f  and g.
+If (S, Σ, μ) is a probability space, then p, q ∈ [1, ∞] just need to satisfy 1/p + 1/q ≤ 1, rather than being Hölder conjugates. A combination of Hölder's inequality and Jensen's inequality implies that
+        ∥
+        f
+        g
+          ∥
+            1
+        ≤
+        ∥
+        f
+          ∥
+            p
+        ∥
+        g
+          ∥
+            q
+    {\displaystyle \|fg\|_{1}\leq \|f\|_{p}\|g\|_{q}}
+for all measurable real- or complex-valued functions f  and g on S.
+For the following cases assume that p and q are in the open interval (1,∞) with 1/p + 1/q = 1.
+For the n-dimensional Euclidean space, when the set S is {1, ..., n} with the counting measure, we have
+          ∑
+            k
+            =
+            1
+            n
+          |
+          x
+            k
+          y
+            k
+          |
+        ≤
+            (
+          ∑
+            k
+            =
+            1
+            n
+          |
+          x
+            k
+            |
+            p
+              )
+              1
+              p
+            (
+          ∑
+            k
+            =
+            1
+            n
+          |
+          y
+            k
+            |
+            q
+              )
+              1
+              q
+           for all 
+        (
+          x
+            1
+        ,
+        …
+        ,
+          x
+            n
+        )
+        ,
+        (
+          y
+            1
+        ,
+        …
+        ,
+          y
+            n
+        )
+        ∈
+            R
+            n
+           or 
+            C
+            n
+        .
+    {\displaystyle \sum _{k=1}^{n}|x_{k}\,y_{k}|\leq {\biggl (}\sum _{k=1}^{n}|x_{k}|^{p}{\biggr )}^{\frac {1}{p}}{\biggl (}\sum _{k=1}^{n}|y_{k}|^{q}{\biggr )}^{\frac {1}{q}}{\text{ for all }}(x_{1},\ldots ,x_{n}),(y_{1},\ldots ,y_{n})\in \mathbb {R} ^{n}{\text{ or }}\mathbb {C} ^{n}.}
+If S = N with the counting measure, then we get Hölder's inequality for sequence spaces:
+          ∑
+            k
+            =
+            1
+            ∞
+          |
+          x
+            k
+          y
+            k
+          |
+        ≤
+            (
+          ∑
+            k
+            =
+            1
+            ∞
+          |
+          x
+            k
+            |
+            p
+              )
+              1
+              p
+            (
+              ∑
+                k
+                =
+                1
+                ∞
+              |
+              y
+                k
+                |
+                q
+            )
+              1
+              q
+           for all 
+        (
+          x
+            k
+          )
+            k
+            ∈
+              N
+        ,
+        (
+          y
+            k
+          )
+            k
+            ∈
+              N
+        ∈
+            R
+              N
+           or 
+            C
+              N
+        .
+    {\displaystyle \sum _{k=1}^{\infty }|x_{k}\,y_{k}|\leq {\biggl (}\sum _{k=1}^{\infty }|x_{k}|^{p}{\biggr )}^{\frac {1}{p}}\left(\sum _{k=1}^{\infty }|y_{k}|^{q}\right)^{\frac {1}{q}}{\text{ for all }}(x_{k})_{k\in \mathbb {N} },(y_{k})_{k\in \mathbb {N} }\in \mathbb {R} ^{\mathbb {N} }{\text{ or }}\mathbb {C} ^{\mathbb {N} }.}
+If S is a measurable subset of Rn with the Lebesgue measure, and f  and g are measurable real- or complex-valued functions on S, then Hölder inequality is
+          ∫
+            S
+            |
+        f
+        (
+        x
+        )
+        g
+        (
+        x
+        )
+            |
+          d
+        x
+        ≤
+            (
+          ∫
+            S
+          |
+        f
+        (
+        x
+        )
+            |
+            p
+          d
+        x
+              )
+              1
+              p
+            (
+          ∫
+            S
+          |
+        g
+        (
+        x
+        )
+            |
+            q
+          d
+        x
+              )
+              1
+              q
+        .
+    {\displaystyle \int _{S}{\bigl |}f(x)g(x){\bigr |}\,\mathrm {d} x\leq {\biggl (}\int _{S}|f(x)|^{p}\,\mathrm {d} x{\biggr )}^{\frac {1}{p}}{\biggl (}\int _{S}|g(x)|^{q}\,\mathrm {d} x{\biggr )}^{\frac {1}{q}}.}
+For the probability space 
+        (
+        Ω
+        ,
+            F
+        ,
+          P
+        )
+        ,
+    {\displaystyle (\Omega ,{\mathcal {F}},\mathbb {P} ),}
+   let 
+          E
+    {\displaystyle \mathbb {E} }
+   denote the expectation operator. For real- or complex-valued random variables 
+        X
+    {\displaystyle X}
+   and 
+        Y
+    {\displaystyle Y}
+   on 
+        Ω
+        ,
+    {\displaystyle \Omega ,}
+   Hölder's inequality reads
+          E
+        [
+          |
+        X
+        Y
+          |
+        ]
+        ⩽
+            (
+              E
+                [
+              |
+            X
+                |
+                p
+                ]
+            )
+              1
+              p
+            (
+              E
+                [
+              |
+            Y
+                |
+                q
+                ]
+            )
+              1
+              q
+        .
+    {\displaystyle \mathbb {E} [|XY|]\leqslant \left(\mathbb {E} {\bigl [}|X|^{p}{\bigr ]}\right)^{\frac {1}{p}}\left(\mathbb {E} {\bigl [}|Y|^{q}{\bigr ]}\right)^{\frac {1}{q}}.}
+Let 
+        0
+        <
+        r
+        <
+        s
+    {\displaystyle 0<r<s}
+   and define 
+        p
+        =
+              s
+              r
+        .
+    {\displaystyle p={\tfrac {s}{r}}.}
+   Then 
+        q
+        =
+              p
+                p
+                −
+                1
+    {\displaystyle q={\tfrac {p}{p-1}}}
+   is the Hölder conjugate of 
+        p
+        .
+    {\displaystyle p.}
+   Applying Hölder's inequality to the random variables 
+          |
+        X
+            |
+            r
+    {\displaystyle |X|^{r}}
+   and 
+          1
+            Ω
+    {\displaystyle 1_{\Omega }}
+   we obtain
+          E
+            [
+          |
+        X
+            |
+            r
+            ]
+        ⩽
+            (
+              E
+                [
+              |
+            X
+                |
+                s
+                ]
+            )
+              r
+              s
+        .
+    {\displaystyle \mathbb {E} {\bigl [}|X|^{r}{\bigr ]}\leqslant \left(\mathbb {E} {\bigl [}|X|^{s}{\bigr ]}\right)^{\frac {r}{s}}.}
+In particular, if the sth absolute moment is finite, then the r th absolute moment is finite, too. (This also follows from Jensen's inequality.)
+For two σ-finite measure spaces (S1, Σ1, μ1) and (S2, Σ2, μ2) define the product measure space by
+        S
+        =
+          S
+            1
+        ×
+          S
+            2
+        ,
+        Σ
+        =
+          Σ
+            1
+        ⊗
+          Σ
+            2
+        ,
+        μ
+        =
+          μ
+            1
+        ⊗
+          μ
+            2
+        ,
+    {\displaystyle S=S_{1}\times S_{2},\quad \Sigma =\Sigma _{1}\otimes \Sigma _{2},\quad \mu =\mu _{1}\otimes \mu _{2},}
+where S is the Cartesian product of S1 and S2, the σ-algebra Σ arises as product σ-algebra of Σ1 and Σ2, and μ denotes the product measure of μ1 and μ2. Then Tonelli's theorem allows us to rewrite Hölder's inequality using iterated integrals: If f  and g are Σ-measurable real- or complex-valued functions on the Cartesian product S, then
+          ∫
+              S
+                1
+          ∫
+              S
+                2
+          |
+        f
+        (
+        x
+        ,
+        y
+        )
+        g
+        (
+        x
+        ,
+        y
+        )
+          |
+          μ
+            2
+        (
+          d
+        y
+        )
+          μ
+            1
+        (
+          d
+        x
+        )
+        ≤
+            (
+              ∫
+                  S
+                    1
+              ∫
+                  S
+                    2
+              |
+            f
+            (
+            x
+            ,
+            y
+            )
+                |
+                p
+              μ
+                2
+            (
+              d
+            y
+            )
+              μ
+                1
+            (
+              d
+            x
+            )
+            )
+              1
+              p
+            (
+              ∫
+                  S
+                    1
+              ∫
+                  S
+                    2
+              |
+            g
+            (
+            x
+            ,
+            y
+            )
+                |
+                q
+              μ
+                2
+            (
+              d
+            y
+            )
+              μ
+                1
+            (
+              d
+            x
+            )
+            )
+              1
+              q
+        .
+    {\displaystyle \int _{S_{1}}\int _{S_{2}}|f(x,y)\,g(x,y)|\,\mu _{2}(\mathrm {d} y)\,\mu _{1}(\mathrm {d} x)\leq \left(\int _{S_{1}}\int _{S_{2}}|f(x,y)|^{p}\,\mu _{2}(\mathrm {d} y)\,\mu _{1}(\mathrm {d} x)\right)^{\frac {1}{p}}\left(\int _{S_{1}}\int _{S_{2}}|g(x,y)|^{q}\,\mu _{2}(\mathrm {d} y)\,\mu _{1}(\mathrm {d} x)\right)^{\frac {1}{q}}.}
+This can be generalized to more than two σ-finite measure spaces.
+Let (S, Σ, μ) denote a σ-finite measure space and suppose that f = (f1, ..., fn) and g = (g1, ..., gn) are Σ-measurable functions on S, taking values in the n-dimensional real- or complex Euclidean space. By taking the product with the counting measure on {1, ..., n}, we can rewrite the above product measure version of Hölder's inequality in the form
+          ∫
+            S
+          ∑
+            k
+            =
+            1
+            n
+          |
+          f
+            k
+        (
+        x
+        )
+          g
+            k
+        (
+        x
+        )
+          |
+        μ
+        (
+          d
+        x
+        )
+        ≤
+            (
+              ∫
+                S
+              ∑
+                k
+                =
+                1
+                n
+              |
+              f
+                k
+            (
+            x
+            )
+                |
+                p
+            μ
+            (
+              d
+            x
+            )
+            )
+              1
+              p
+            (
+              ∫
+                S
+              ∑
+                k
+                =
+                1
+                n
+              |
+              g
+                k
+            (
+            x
+            )
+                |
+                q
+            μ
+            (
+              d
+            x
+            )
+            )
+              1
+              q
+        .
+    {\displaystyle \int _{S}\sum _{k=1}^{n}|f_{k}(x)\,g_{k}(x)|\,\mu (\mathrm {d} x)\leq \left(\int _{S}\sum _{k=1}^{n}|f_{k}(x)|^{p}\,\mu (\mathrm {d} x)\right)^{\frac {1}{p}}\left(\int _{S}\sum _{k=1}^{n}|g_{k}(x)|^{q}\,\mu (\mathrm {d} x)\right)^{\frac {1}{q}}.}
+If the two integrals on the right-hand side are finite, then equality holds if and only if there exist real numbers α, β ≥ 0, not both of them zero, such that
+        α
+          (
+            |
+            f
+              1
+          (
+          x
+          )
+              |
+              p
+          ,
+          …
+          ,
+            |
+            f
+              n
+          (
+          x
+          )
+              |
+              p
+          )
+        =
+        β
+          (
+            |
+            g
+              1
+          (
+          x
+          )
+              |
+              q
+          ,
+          …
+          ,
+            |
+            g
+              n
+          (
+          x
+          )
+              |
+              q
+          )
+        ,
+    {\displaystyle \alpha \left(|f_{1}(x)|^{p},\ldots ,|f_{n}(x)|^{p}\right)=\beta \left(|g_{1}(x)|^{q},\ldots ,|g_{n}(x)|^{q}\right),}
+for μ-almost all x in S.
+This finite-dimensional version generalizes to functions f  and g taking values in a sequence space.
+There are several proofs of Hölder's inequality; the main idea in the following is Young's inequality.
+If || f  ||p = 0, then f  is zero μ-almost everywhere, and the product fg is zero μ-almost everywhere, hence the left-hand side of Hölder's inequality is zero. The same is true if || g ||q = 0. Therefore, we may assume || f  ||p > 0 and || g ||q > 0 in the following.
+If || f  ||p = ∞ or || g ||q = ∞, then the right-hand side of Hölder's inequality is infinite. Therefore, we may assume that || f  ||p and || g ||q are in (0, ∞).
+If p = ∞ and q = 1, then | fg | ≤ || f  ||∞ | g | almost everywhere and Hölder's inequality follows from the monotonicity of the Lebesgue integral. Similarly for p = 1 and q = ∞. Therefore, we may also assume p, q ∈ (1, ∞).
+Dividing f  and g by || f  ||p and || g ||q, respectively, we can assume that
+        ∥
+        f
+          ∥
+            p
+        =
+        ∥
+        g
+          ∥
+            q
+        =
+        1.
+    {\displaystyle \|f\|_{p}=\|g\|_{q}=1.}
+We now use Young's inequality, which states that
+        a
+        b
+        ≤
+              a
+                p
+            p
+        +
+              b
+                q
+            q
+    {\displaystyle ab\leq {\frac {a^{p}}{p}}+{\frac {b^{q}}{q}}}
+for all nonnegative a and b, where equality is achieved if and only if ap = bq. Hence
+          |
+        f
+        (
+        s
+        )
+        g
+        (
+        s
+        )
+          |
+        ≤
+                |
+              f
+              (
+              s
+              )
+                  |
+                  p
+            p
+        +
+                |
+              g
+              (
+              s
+              )
+                  |
+                  q
+            q
+        ,
+        s
+        ∈
+        S
+        .
+    {\displaystyle |f(s)g(s)|\leq {\frac {|f(s)|^{p}}{p}}+{\frac {|g(s)|^{q}}{q}},\qquad s\in S.}
+Integrating both sides gives
+        ∥
+        f
+        g
+          ∥
+            1
+        ≤
+            1
+            p
+        +
+            1
+            q
+        =
+        1
+        ,
+    {\displaystyle \|fg\|_{1}\leq {\frac {1}{p}}+{\frac {1}{q}}=1,}
+which proves the claim.
+Under the assumptions p ∈ (1, ∞) and || f  ||p = || g ||q, equality holds if and only if | f  |p = | g |q almost everywhere. More generally, if || f  ||p and || g ||q are in (0, ∞), then Hölder's inequality becomes an equality if and only if there exist real numbers α, β > 0, namely
+        α
+        =
+        ∥
+        g
+          ∥
+            q
+            q
+        ,
+        β
+        =
+        ∥
+        f
+          ∥
+            p
+            p
+        ,
+    {\displaystyle \alpha =\|g\|_{q}^{q},\qquad \beta =\|f\|_{p}^{p},}
+such that
+        α
+          |
+        f
+            |
+            p
+        =
+        β
+          |
+        g
+            |
+            q
+    {\displaystyle \alpha |f|^{p}=\beta |g|^{q}\,}
+     μ-almost everywhere   (*).
+The case || f  ||p = 0 corresponds to β = 0 in (*). The case || g ||q = 0 corresponds to α = 0 in (*).
+Assume that 1 ≤ p < ∞ and let q denote the Hölder conjugate. Then, for every f ∈ Lp(μ),
+        ∥
+        f
+          ∥
+            p
+        =
+        max
+          {
+            |
+              ∫
+                S
+            f
+            g
+              d
+            μ
+            |
+          :
+          g
+          ∈
+            L
+              q
+          (
+          μ
+          )
+          ,
+          ∥
+          g
+            ∥
+              q
+          ≤
+          1
+          }
+        ,
+    {\displaystyle \|f\|_{p}=\max \left\{\left|\int _{S}fg\,\mathrm {d} \mu \right|:g\in L^{q}(\mu ),\|g\|_{q}\leq 1\right\},}
+where max indicates that there actually is a g maximizing the right-hand side. When p = ∞ and if each set A in the σ-field Σ with μ(A) = ∞ contains a subset B ∈ Σ with 0 < μ(B) < ∞ (which is true in particular when μ is σ-finite), then
+        ∥
+        f
+          ∥
+            ∞
+        =
+        sup
+          {
+            |
+              ∫
+                S
+            f
+            g
+              d
+            μ
+            |
+          :
+          g
+          ∈
+            L
+              1
+          (
+          μ
+          )
+          ,
+          ∥
+          g
+            ∥
+              1
+          ≤
+          1
+          }
+        .
+    {\displaystyle \|f\|_{\infty }=\sup \left\{\left|\int _{S}fg\,\mathrm {d} \mu \right|:g\in L^{1}(\mu ),\|g\|_{1}\leq 1\right\}.}
+The equality for 
+        p
+        =
+        ∞
+    {\displaystyle p=\infty }
+   fails whenever there exists a set 
+        A
+    {\displaystyle A}
+   of infinite measure in the 
+        σ
+    {\displaystyle \sigma }
+  -field 
+        Σ
+    {\displaystyle \Sigma }
+   with that has no subset 
+        B
+        ∈
+        Σ
+    {\displaystyle B\in \Sigma }
+   that satisfies: 
+        0
+        <
+        μ
+        (
+        B
+        )
+        <
+        ∞
+        .
+    {\displaystyle 0<\mu (B)<\infty .}
+   (the simplest example is the 
+        σ
+    {\displaystyle \sigma }
+  -field 
+        Σ
+    {\displaystyle \Sigma }
+   containing just the empty set and 
+        S
+        ,
+    {\displaystyle S,}
+   and the measure 
+        μ
+    {\displaystyle \mu }
+   with 
+        μ
+        (
+        S
+        )
+        =
+        ∞
+        .
+    {\displaystyle \mu (S)=\infty .}
+  ) Then the indicator function 
+          1
+            A
+    {\displaystyle 1_{A}}
+   satisfies 
+        ∥
+          1
+            A
+          ∥
+            ∞
+        =
+        1
+        ,
+    {\displaystyle \|1_{A}\|_{\infty }=1,}
+   but every 
+        g
+        ∈
+          L
+            1
+        (
+        μ
+        )
+    {\displaystyle g\in L^{1}(\mu )}
+   has to be 
+        μ
+    {\displaystyle \mu }
+  -almost everywhere constant on 
+        A
+        ,
+    {\displaystyle A,}
+   because it is 
+        Σ
+    {\displaystyle \Sigma }
+  -measurable, and this constant has to be zero, because 
+        g
+    {\displaystyle g}
+   is 
+        μ
+    {\displaystyle \mu }
+  -integrable. Therefore, the above supremum for the indicator function 
+          1
+            A
+    {\displaystyle 1_{A}}
+   is zero and the extremal equality fails.
+For 
+        p
+        =
+        ∞
+        ,
+    {\displaystyle p=\infty ,}
+   the supremum is in general not attained. As an example, let 
+        S
+        =
+          N
+        ,
+        Σ
+        =
+            P
+        (
+          N
+        )
+    {\displaystyle S=\mathbb {N} ,\Sigma ={\mathcal {P}}(\mathbb {N} )}
+   and 
+        μ
+    {\displaystyle \mu }
+   the counting measure. Define:
+            {
+                  f
+                  :
+                    N
+                  →
+                    R
+                  f
+                  (
+                  n
+                  )
+                  =
+                        n
+                        −
+                        1
+                      n
+    {\displaystyle {\begin{cases}f:\mathbb {N} \to \mathbb {R} \\f(n)={\frac {n-1}{n}}\end{cases}}}
+Then 
+        ∥
+        f
+          ∥
+            ∞
+        =
+        1.
+    {\displaystyle \|f\|_{\infty }=1.}
+   For 
+        g
+        ∈
+          L
+            1
+        (
+        μ
+        ,
+          N
+        )
+    {\displaystyle g\in L^{1}(\mu ,\mathbb {N} )}
+   with 
+        0
+        <
+        ∥
+        g
+          ∥
+            1
+        ⩽
+        1
+        ,
+    {\displaystyle 0<\|g\|_{1}\leqslant 1,}
+   let 
+        m
+    {\displaystyle m}
+   denote the smallest natural number with 
+        g
+        (
+        m
+        )
+        ≠
+        0.
+    {\displaystyle g(m)\neq 0.}
+   Then
+          |
+            ∫
+              S
+          f
+          g
+            d
+          μ
+          |
+        ⩽
+              m
+              −
+              1
+            m
+          |
+        g
+        (
+        m
+        )
+          |
+        +
+          ∑
+            n
+            =
+            m
+            +
+            1
+            ∞
+          |
+        g
+        (
+        n
+        )
+          |
+        =
+        ∥
+        g
+          ∥
+            1
+        −
+                |
+              g
+              (
+              m
+              )
+                |
+            m
+        <
+        1.
+    {\displaystyle \left|\int _{S}fg\,\mathrm {d} \mu \right|\leqslant {\frac {m-1}{m}}|g(m)|+\sum _{n=m+1}^{\infty }|g(n)|=\|g\|_{1}-{\frac {|g(m)|}{m}}<1.}
+The extremal equality is one of the ways for proving the triangle inequality || f1 + f2 ||p ≤ || f1 ||p + || f2 ||p for all f1 and f2 in Lp(μ), see Minkowski inequality.
+Hölder's inequality implies that every f ∈ Lp(μ) defines a bounded (or continuous) linear functional κf  on Lq(μ) by the formula
+          κ
+            f
+        (
+        g
+        )
+        =
+          ∫
+            S
+        f
+        g
+          d
+        μ
+        ,
+        g
+        ∈
+          L
+            q
+        (
+        μ
+        )
+        .
+    {\displaystyle \kappa _{f}(g)=\int _{S}fg\,\mathrm {d} \mu ,\qquad g\in L^{q}(\mu ).}
+The extremal equality (when true) shows that the norm of this functional κf  as element of the continuous dual space Lq(μ)* coincides with the norm of f  in Lp(μ) (see also the Lp-space article).
+Assume that r ∈ (0, ∞) and p1, …, pn ∈ (0, ∞] such that
+          ∑
+            k
+            =
+            1
+            n
+            1
+              p
+                k
+        =
+            1
+            r
+        .
+    {\displaystyle \sum _{k=1}^{n}{\frac {1}{p_{k}}}={\frac {1}{r}}.}
+Then, for all measurable real- or complex-valued functions f1, …, fn defined on S,
+            ∥
+              ∏
+                k
+                =
+                1
+                n
+              f
+                k
+            ∥
+            r
+        ≤
+          ∏
+            k
+            =
+            1
+            n
+        ∥
+          f
+            k
+          ∥
+              p
+                k
+        .
+    {\displaystyle \left\|\prod _{k=1}^{n}f_{k}\right\|_{r}\leq \prod _{k=1}^{n}\|f_{k}\|_{p_{k}}.}
+In particular,
+          f
+            k
+        ∈
+          L
+              p
+                k
+        (
+        μ
+        )
+        ∀
+        k
+        ∈
+        {
+        1
+        ,
+        …
+        ,
+        n
+        }
+        ⟹
+          ∏
+            k
+            =
+            1
+            n
+          f
+            k
+        ∈
+          L
+            r
+        (
+        μ
+        )
+        .
+    {\displaystyle f_{k}\in L^{p_{k}}(\mu )\;\;\forall k\in \{1,\ldots ,n\}\implies \prod _{k=1}^{n}f_{k}\in L^{r}(\mu ).}
+Note: For r ∈ (0, 1), contrary to the notation, || . ||r is in general not a norm, because it doesn't satisfy the triangle inequality.
+Let p1, ..., pn ∈ (0, ∞] and let θ1, ..., θn ∈ (0, 1) denote weights with θ1 + ... + θn = 1. Define p as the weighted harmonic mean, i.e.,
+            1
+            p
+        =
+          ∑
+            k
+            =
+            1
+            n
+              θ
+                k
+              p
+                k
+        .
+    {\displaystyle {\frac {1}{p}}=\sum _{k=1}^{n}{\frac {\theta _{k}}{p_{k}}}.}
+Given a measurable real- or complex-valued function f  on S, define
+          f
+            k
+        =
+          |
+        f
+            |
+              θ
+                k
+        ,
+        1
+        ⩽
+        k
+        ⩽
+        n
+        .
+    {\displaystyle f_{k}=|f|^{\theta _{k}},\quad 1\leqslant k\leqslant n.}
+Then by the above generalization of Hölder's inequality,
+        ∥
+        f
+          ∥
+            p
+        =
+            ∥
+              ∏
+                k
+                =
+                1
+                n
+              f
+                k
+            ∥
+            p
+        ⩽
+          ∏
+            k
+            =
+            1
+            n
+            ∥
+              f
+                k
+            ∥
+                p
+                  k
+                θ
+                  k
+        =
+          ∏
+            k
+            =
+            1
+            n
+        ∥
+        f
+          ∥
+              p
+                k
+              θ
+                k
+        .
+    {\displaystyle \|f\|_{p}=\left\|\prod _{k=1}^{n}f_{k}\right\|_{p}\leqslant \prod _{k=1}^{n}\left\|f_{k}\right\|_{\frac {p_{k}}{\theta _{k}}}=\prod _{k=1}^{n}\|f\|_{p_{k}}^{\theta _{k}}.}
+In particular, taking θ1 = θ and θ2 = 1 − θ, in the case n = 2, we obtain the interpolation result (Littlewood's inequality)
+        ∥
+        f
+          ∥
+              p
+                θ
+        ⩽
+        ∥
+        f
+          ∥
+              p
+                1
+            θ
+        ⋅
+        ∥
+        f
+          ∥
+              p
+                0
+            1
+            −
+            θ
+        ,
+    {\displaystyle \|f\|_{p_{\theta }}\leqslant \|f\|_{p_{1}}^{\theta }\cdot \|f\|_{p_{0}}^{1-\theta },}
+for 
+        θ
+        ∈
+        (
+        0
+        ,
+        1
+        )
+    {\displaystyle \theta \in (0,1)}
+   and
+            1
+              p
+                θ
+        =
+            θ
+              p
+                1
+        +
+              1
+              −
+              θ
+              p
+                0
+        .
+    {\displaystyle {\frac {1}{p_{\theta }}}={\frac {\theta }{p_{1}}}+{\frac {1-\theta }{p_{0}}}.}
+A similar application of Hölder gives Lyapunov's inequality: If
+        p
+        =
+        θ
+          p
+            0
+        +
+        (
+        1
+        −
+        θ
+        )
+          p
+            1
+        ,
+        θ
+        ∈
+        (
+        0
+        ,
+        1
+        )
+        ,
+    {\displaystyle p=\theta p_{0}+(1-\theta )p_{1},\qquad \theta \in (0,1),}
+then
+        ∥
+        f
+          ∥
+            p
+            p
+        ⩽
+        ∥
+        f
+          ∥
+              p
+                0
+              p
+                0
+            θ
+        ⋅
+        ∥
+        f
+          ∥
+              p
+                1
+              p
+                1
+            (
+            1
+            −
+            θ
+            )
+        .
+    {\displaystyle \|f\|_{p}^{p}\leqslant \|f\|_{p_{0}}^{p_{0}\theta }\cdot \|f\|_{p_{1}}^{p_{1}(1-\theta )}.}
+Both Littlewood and Lyapunov imply that if 
+        f
+        ∈
+          L
+              p
+                0
+        ∩
+          L
+              p
+                1
+        ,
+    {\displaystyle f\in L^{p_{0}}\cap L^{p_{1}},}
+   then 
+        f
+        ∈
+          L
+            p
+    {\displaystyle f\in L^{p}}
+   for all 
+          p
+            0
+        <
+        p
+        <
+          p
+            1
+        .
+    {\displaystyle p_{0}<p<p_{1}.}
+Assume that p ∈ (1, ∞) and that the measure space (S, Σ, μ) satisfies μ(S) > 0. Then, for all measurable real- or complex-valued functions f  and g on S such that g(s) ≠ 0 for μ-almost all s ∈ S,
+        ∥
+        f
+        g
+          ∥
+            1
+        ⩾
+        ∥
+        f
+          ∥
+              1
+              p
+        ∥
+        g
+          ∥
+                −
+                1
+                p
+                −
+                1
+        .
+    {\displaystyle \|fg\|_{1}\geqslant \|f\|_{\frac {1}{p}}\,\|g\|_{\frac {-1}{p-1}}.}
+If
+        ∥
+        f
+        g
+          ∥
+            1
+        <
+        ∞
+          and
+        ∥
+        g
+          ∥
+                −
+                1
+                p
+                −
+                1
+        >
+        0
+        ,
+    {\displaystyle \|fg\|_{1}<\infty \quad {\text{and}}\quad \|g\|_{\frac {-1}{p-1}}>0,}
+then the reverse Hölder inequality is an equality if and only if
+        ∃
+        α
+        ⩾
+        0
+          |
+        f
+          |
+        =
+        α
+          |
+        g
+            |
+                −
+                p
+                p
+                −
+                1
+        μ
+          -almost everywhere
+        .
+    {\displaystyle \exists \alpha \geqslant 0\quad |f|=\alpha |g|^{\frac {-p}{p-1}}\qquad \mu {\text{-almost everywhere}}.}
+Note: The expressions:
+        ∥
+        f
+          ∥
+              1
+              p
+          and
+        ∥
+        g
+          ∥
+                −
+                1
+                p
+                −
+                1
+        ,
+    {\displaystyle \|f\|_{\frac {1}{p}}\quad {\text{and}}\quad \|g\|_{\frac {-1}{p-1}},}
+are not norms, they are just compact notations for
+            (
+              ∫
+                S
+              |
+            f
+                |
+                  1
+                  p
+              d
+            μ
+            )
+            p
+          and
+            (
+              ∫
+                S
+              |
+            g
+                |
+                    −
+                    1
+                    p
+                    −
+                    1
+              d
+            μ
+            )
+            −
+            (
+            p
+            −
+            1
+            )
+        .
+    {\displaystyle \left(\int _{S}|f|^{\frac {1}{p}}\,\mathrm {d} \mu \right)^{p}\quad {\text{and}}\quad \left(\int _{S}|g|^{\frac {-1}{p-1}}\,\mathrm {d} \mu \right)^{-(p-1)}.}
+Let (Ω, F, ℙ) be a probability space, G ⊂ F a sub-σ-algebra, and p, q ∈ (1, ∞) Hölder conjugates, meaning that 1/p + 1/q = 1. Then, for all real- or complex-valued random variables X and Y on Ω,
+          E
+            [
+          |
+        X
+        Y
+          |
+            |
+            G
+            ]
+        ≤
+            (
+          E
+            [
+          |
+        X
+            |
+            p
+            |
+            G
+            ]
+              )
+              1
+              p
+            (
+          E
+            [
+          |
+        Y
+            |
+            q
+            |
+            G
+            ]
+              )
+              1
+              q
+          P
+          -almost surely.
+    {\displaystyle \mathbb {E} {\bigl [}|XY|{\big |}\,{\mathcal {G}}{\bigr ]}\leq {\bigl (}\mathbb {E} {\bigl [}|X|^{p}{\big |}\,{\mathcal {G}}{\bigr ]}{\bigr )}^{\frac {1}{p}}\,{\bigl (}\mathbb {E} {\bigl [}|Y|^{q}{\big |}\,{\mathcal {G}}{\bigr ]}{\bigr )}^{\frac {1}{q}}\qquad \mathbb {P} {\text{-almost surely.}}}
+Remarks:
+If a non-negative random variable Z has infinite expected value, then its conditional expectation is defined by
+          E
+        [
+        Z
+          |
+            G
+        ]
+        =
+          sup
+            n
+            ∈
+              N
+          E
+        [
+        min
+        {
+        Z
+        ,
+        n
+        }
+          |
+            G
+        ]
+          a.s.
+    {\displaystyle \mathbb {E} [Z|{\mathcal {G}}]=\sup _{n\in \mathbb {N} }\,\mathbb {E} [\min\{Z,n\}|{\mathcal {G}}]\quad {\text{a.s.}}}
+On the right-hand side of the conditional Hölder inequality, 0 times ∞ as well as ∞ times 0 means 0. Multiplying a > 0 with ∞ gives ∞.
+Let S be a set and let 
+        F
+        (
+        S
+        ,
+          C
+        )
+    {\displaystyle F(S,\mathbb {C} )}
+   be the space of all complex-valued functions on S. Let N be an increasing seminorm on 
+        F
+        (
+        S
+        ,
+          C
+        )
+        ,
+    {\displaystyle F(S,\mathbb {C} ),}
+   meaning that, for all real-valued functions 
+        f
+        ,
+        g
+        ∈
+        F
+        (
+        S
+        ,
+          C
+        )
+    {\displaystyle f,g\in F(S,\mathbb {C} )}
+   we have the following implication (the seminorm is also allowed to attain the value ∞):
+        ∀
+        s
+        ∈
+        S
+        f
+        (
+        s
+        )
+        ⩾
+        g
+        (
+        s
+        )
+        ⩾
+        0
+        ⇒
+        N
+        (
+        f
+        )
+        ⩾
+        N
+        (
+        g
+        )
+        .
+    {\displaystyle \forall s\in S\quad f(s)\geqslant g(s)\geqslant 0\qquad \Rightarrow \qquad N(f)\geqslant N(g).}
+Then:
+        ∀
+        f
+        ,
+        g
+        ∈
+        F
+        (
+        S
+        ,
+          C
+        )
+        N
+        (
+          |
+        f
+        g
+          |
+        )
+        ⩽
+            (
+        N
+        (
+          |
+        f
+            |
+            p
+        )
+              )
+              1
+              p
+            (
+        N
+        (
+          |
+        g
+            |
+            q
+        )
+              )
+              1
+              q
+        ,
+    {\displaystyle \forall f,g\in F(S,\mathbb {C} )\qquad N(|fg|)\leqslant {\bigl (}N(|f|^{p}){\bigr )}^{\frac {1}{p}}{\bigl (}N(|g|^{q}){\bigr )}^{\frac {1}{q}},}
+where the numbers 
+        p
+    {\displaystyle p}
+   and 
+        q
+    {\displaystyle q}
+   are Hölder conjugates.
+Remark: If (S, Σ, μ) is a measure space and 
+        N
+        (
+        f
+        )
+    {\displaystyle N(f)}
+   is the upper Lebesgue integral of 
+          |
+        f
+          |
+    {\displaystyle |f|}
+   then the restriction of N to all Σ-measurable functions gives the usual version of Hölder's inequality.
+Cauchy–Schwarz inequality
+Minkowski inequality
+Jensen's inequality
+Young's inequality

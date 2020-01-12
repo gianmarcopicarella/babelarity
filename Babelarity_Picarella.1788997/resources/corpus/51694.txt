@@ -1,0 +1,27 @@
+Glade Interface Designer is a graphical user interface builder/RAD-tool for GTK+, with additional components for GNOME. In its third version, Glade is programming language–independent, and does not produce code for events, but rather an XML file that is then used with an appropriate binding (such as GtkAda for use with the Ada programming language). See List of language bindings for GTK+ for the available ones.
+Glade is free and open-source software distributed under the GNU General Public License.
+The first Glade release, version 0.1, was made on 18 April 1998.
+Glade 3 was released on 12 August 2006. According to the Glade Web site, the most noticeable differences for the end-user are:
+Undo and redo support in all operations.
+Support for multiple open projects.
+Removal of code generation.
+Contextual help system with Devhelp
+Most of the difference is in the internals. Glade-3 is a complete rewrite, in order to take advantage of the new features of GTK+ 2 and the GObject system (Glade-3 was started when Glade-1 hadn't yet been ported to GTK+ 2). Therefore, the Glade-3 codebase is smaller and allows new interesting things, including:
+Catalogs of "pluggable" widgets. This means that external libraries can provide their set of widgets at runtime and Glade will detect them. In fact, Glade 3 supports only standard GTK+ widgets; GNOME UI and DB widgets are provided separately.
+The various Glade Tools (palette, editor, etc.) are implemented as widgets. This allows for easier integration in IDEs like Anjuta, and makes it easier to change the Glade UI.
+On 5 April 2011, two parallel installable stable Glade versions were released:
+Glade 3.8: That includes all support for GTK+ up till version 2.24. This version is to serve as a decent migration path for older projects migrating to GTK+ 3.0.
+Glade 3.10: That includes support only for widgets that are still included in GTK+ 3.0 and additionally drops support for Libglade.
+On 11 June 2015 Glade 3.19.0 was released. It depends at least on GTK+ 3.16.0. Among many bug fixes this version is the first to support the widgets GtkStack, GtkHeaderBar and GtkSidebar.
+GtkBuilder is the XML format that the Glade Interface Designer uses to save its forms. These documents can then be used in conjunction with the GtkBuilder object to instantiate the form using GTK+. GladeXML is the XML format that was used with conjunction with libglade, which is now deprecated.
+Glade Interface Designer automatically generates all the source code for a graphical control element.
+The "Gtk.Builder class" offers you the opportunity to design user interfaces without writing a single line of code. This is possible through describing the interface by a XML file and then loading the XML description at runtime and create the objects automatically, which the Builder class does for you. For the purpose of not needing to write the XML manually the Glade Interface Designer lets you create the user interface in a WYSIWYG manner.
+This method has several advantages:
+Less code needs to be written.
+UI changes can be seen more quickly, so UIs are able to improve.
+Designers without programming skills can create and edit UIs.
+The description of the user interface is independent from the programming language being used.
+There is still code required for handling interface changes triggered by the user, but Gtk.Builder allows you to focus on implementing that functionality.
+Code sketchers are software applications that help a user create source code from a GladeXML file. Most code sketchers create source code which uses libglade and a GladeXML file to create the GUI. Some sketchers are able to create raw code that does not need the GladeXML file. The table below compares basic information about GladeXML code sketcher packages.
+wxGlade
+Qt Designer

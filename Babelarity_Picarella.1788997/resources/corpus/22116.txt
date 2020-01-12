@@ -1,0 +1,25 @@
+The International Standard Bibliographic Description (ISBD) is a set of rules produced by the International Federation of Library Associations and Institutions (IFLA) to create a bibliographic description in a standard, human-readable form, especially for use in a bibliography or a library catalog. A preliminary consolidated edition of the ISBD was published in 2007 and the consolidated edition was published in 2011, superseding earlier separate ISBDs for monographs, older monographic publications, cartographic materials, serials and other continuing resources, electronic resources, non-book materials, and printed music. IFLA's ISBD Review Group is responsible for maintaining the ISBD.
+One of the original purposes of the ISBD was to provide a standard form of bibliographic description that could be used to exchange records internationally. This would support IFLA's program of universal bibliographic control.
+The ISBD defines nine areas of description. Each area, except area 7, is composed of multiple elements with structured classifications. Elements and areas that do not apply to a particular resource are omitted from the description. Standardized punctuation (colons, semicolons, slashes, dashes, commas, and periods) is used to identify and separate the elements and areas. The order of elements and standardized punctuation make it easier to interpret bibliographic records when one does not understand the language of the description.
+0: Content form and media type area
+1: Title and statement of responsibility area, consisting of
+1.1 Title proper
+1.2 Parallel title
+1.3 Other title information
+1.4 Statement of responsibility
+2: Edition area
+3: Material or type of resource specific area (e.g., the scale of a map or the numbering of a periodical)
+4: Publication, production, distribution, etc., area
+5: Material description area (e.g., number of pages in a book or number of CDs issued as a unit)
+6: Series area
+7: Notes area
+8: Resource identifier and terms of availability area (e.g., ISBN, ISSN)
+A typical ISBD record looks like this:
+Text : unmediated
+A manual for writers of research papers, theses, and dissertations : Chicago style for students and researchers / Kate L. Turabian ; revised by Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, and University of Chicago Press editorial staff. — 7th ed. — Chicago : University of Chicago Press, 2007. — xviii, 466 p. : ill. ; 23 cm. — (Chicago guides to writing, editing, and publishing). — Includes bibliographical references (p. 409-435) and index. — ISBN 978-0-226-82336-2 (cloth : alk. paper) : USD35.00. — ISBN 978-0-226-82337-9 (pbk. : alk. paper) : USD17.00
+Bibliographic control
+ISO 690
+Supply chain management
+Anglo-American Cataloguing Rules
+Library catalog
+MARC standards

@@ -1,0 +1,79 @@
+The Japan Meteorological Agency (気象庁, Kishō-chō), frequently abbreviated to JMA, is an agency of the Ministry of Land, Infrastructure, Transport and Tourism. It is charged with gathering and providing results for the public in Japan, that are obtained from data based on daily scientific observation and research into natural phenomena in the fields of meteorology, hydrology, seismology and volcanology, among other related scientific fields. Its headquarters is located in Chiyoda, Tokyo.
+JMA is responsible for gathering and reporting weather data and forecasts for the general public, as well as providing aviation and marine weather. JMA other responsibilities include issuing warnings for volcanic eruptions, and the nationwide issuance of earthquake warnings of the Earthquake Early Warning (EEW) system. JMA is also designated one of the Regional Specialized Meteorological Centers of the World Meteorological Organization (WMO). It is responsible for forecasting, naming, and distributing warnings for tropical cyclones in the Northwestern Pacific region, including the Celebes Sea, the Sulu Sea, the South China Sea, the East China Sea, the Yellow Sea, the Sea of Japan and the Sea of Okhotsk.
+August 26, 1872 - The first weather station in Japan set up in Hakodate, Hokkaido. It is the precursor of the present Hakodate Weather Station (函館海洋気象台, Hakodate Kaiyō Kishō-dai).
+June 1875 - The original Tokyo Meteorological Observatory (東京気象台, Tōkyō Kishō-dai) was formed within the Survey Division of Geography Bureau of Home Ministry (内務省地理寮量地課, Naimu-shō Chiri-ryō Ryōchi-ka).
+January 1, 1887 - The Tokyo Meteorological Observatory was renamed as the Central Meteorological Observatory (中央気象台, Chūō Kishō-dai), with the transfer of its jurisdiction to the Home Ministry.
+April 1895 - The Ministry of Education (文部省, Monbushō) replaced the preceding ministry as an administrator of the Observatory.
+January 1, 1923 - The main office moved to Motoe-machi, Kōjimachi-ku (later Takehira-chō 1), where it is near a moat surrounding the Imperial Palace.
+November 1943 - The Ministry of Transport and Communications (運輸通信省, Un'yu Tūshin-shō) took over the CMO's operation.
+May 1945 - It became part of the Ministry of Transport (運輸省, Un'yu-shō).
+July 1, 1956 - The Central Meteorological Observatory became an agency of the Ministry of Transport, and has been renamed to the Japan Meteorological Agency (気象庁, Kishō-chō).
+March 1964 - The headquarters office was relocated to the present building in Ōtemachi, Chiyoda-ku.
+January 6, 2001 - The JMA becomes an agency of the Ministry of Land, Infrastructure, Transport and Tourism (国土交通省, Kokudo-kōtsū-shō) with the Japanese government reformation.
+2013 - It has been announced that it would be scheduled to move the headquarters into Toranomon, Minato-ku.
+The JMA is responsible not only for gathering and reporting weather data and forecasts in Japan, but also for observation and warning of earthquakes, tsunamis, and volcanic eruptions.
+The agency has six regional administrative offices (including five DMOs and Okinawa Meteorological Observatory), four Marine Observatories, five auxiliary facilities, four Aviation Weather Service Centers and 47 local offices composed of the LMOs. These are also used to gather data, supplemented by weather satellites such as Himawari, and other research institutes.
+In 1968, the World Meteorological Organization (WMO) designated the JMA as a Regional Specialized Meteorological Centre (RSMC) for Asia. In June 1988, the WMO also assigned the JMA as a RSMC for the Northwestern Pacific under its Tropical Cyclone programme. In July 1989, the RSMC Tokyo - Typhoon Center was established within the headquarters office, which dealt with the forecasting and dissemination of active tropical cyclones, as well as preparing a summary of each year's cyclone activity.
+Each DMO and LMO issues weather forecasts and warnings or advisories to the general public live in its own area. Weather data used to these forecasts are acquired from the Surface Observation (represented by the AMeDAS), the Radar Observation, the Upper-air Observation and the Satellite Observation mainly using the Himawari series.
+The Marine Observatories are seated in Hakodte, Maizuru, Kobe and Nagasaki. These stations observe ocean waves, tide levels, sea surface temperature and ocean current etc. in the Northwestern Pacific basin, as well as the Sea of Japan and the Sea of Okhotsk basin, and provide marine meteorological forecasts resulted from them, in cooperation with the Hydrographic and Oceanographic Department, Japan Coast Guard.
+In 2005, in accordance with the ICAO's new CNS/ATM system, the Civil Aviation Bureau of the Ministry of Land, Infrastructure, Transport and Tourism set up the Air Traffic Management Center (ATMC) in Fukuoka, where the FIR is fixed. Along with this establishment, JMA placed the Air Traffic Meteorology Center (ATMetC) inside the ATMC.
+The agency forecasts SIGMET for aircraft in flight within the Fukuoka FIR airspace, while VOLMET is broadcast by each Aviation Weather Service Centers at the airports of Haneda, Narita, Centrair and Kansai. Additionally, Aviation Weather Stations (beside the airports of New Chitose, Sendai, Osaka, Fukuoka, Kagoshima and Naha) deal with the similar tasks as these.
+In the Northwestern Pacific area, the typhoon season ordinarily comes almost from May to November. The JMA forecasts and warns or advises on tropical cyclones to the public in Japan and its surrounding countries as well because it also works as the RSMC Tokyo - Typhoon Center.
+The JMA has its own 624 observation stations across the country that set up at intervals of 20 km approximately in order to measure seismic intensity of earthquakes precisely. The agency also utilize about 2,900 more seismographs owned by the National Research Institute for Earth Science and Disaster Prevention (NIED) and local governments. A 24-hour office has been housed within the JMA headquarters in Tokyo, for monitoring and tracking seismic events in the vicinity of Japan to collect and process their data, which issues observed earthquake's information on its hypocenter, magnitude, seismic intensity and possibility of tsunami occurrence after quakes quickly to the public through the Earthquake Phenomena Observation System (EPOS). The Earthquake Early Warning (EEW) system began to work fully for the general public on October 1, 2007.
+The agency is one of the representatives of the national Coordinating Committee for Earthquake Prediction.
+It is essential to provide coastal regions for tsunami information so that its catastrophic damages can be reduced and mitigated there. In case of there is a possibility of tsunami after an earthquake, JMA issues Tsunami Warning or Advisory for each region in Japan with information of estimated tsunami heights and arrival times within 2 to 3 minutes of the quake.
+The agency set up four Volcanic Observations and Information Centers within DMOs in Sapporo, Sendai, Tokyo and Fukuoka. They are monitoring volcanic events on 110 active volcanos in Japan and 47 of these volcanos selected by the Coordinating Committee for Prediction of Volcanic Eruption are under the 24-hour observation with seismographs, accelerometers, GPS, air-shock recorders, fixed point observation cameras and other equipment. If it is predicted that a volcanic eruption will affect inhabited areas or are around a crater, Volcanic Warnings are issued and supplemented by Volcanic Alert Levels.
+JMA Headquarters (気象庁本庁, Kishō-chō Honchō)
+Director-General (長官, Chōkan)
+Deputy Director-General (次長, Jichō)
+Administration Department (総務部, Sōmu-bu)
+Counselors (参事官, Sanjikan)
+Forecast Department (予報部, Yohō-bu)
+Observations Department (観測部, Kansoku-bu)
+Seismology and Volcanology Department (地震火山部, Jishin-kazan-bu)
+Global Environment and Marine Department (地球環境・海洋部, Chikyū-kankyō/Kaiyō-bu)
+Local Offices (地方支分部局, Chihō Shibun Bukyoku)
+5 District Meteorological Observatories (管区気象台, Kanku Kishō-dai)
+Okinawa Meteorological Observatory (沖縄気象台, Okinawa Kishō-dai)
+50 Local Meteorological Observatories (地方気象台, Chihō Kishō-dai)
+2 Weather Stations (測候所, Sokkōjo)
+4 Aviation Weather Service Centers (航空地方気象台, Kōkū Chihō Kisyō-dai)
+6 Aviation Weather Stations (航空測候所, Kōkū Sokkōjo)
+Auxiliary Organs (施設等機関, Shisetsu-tō Kikan)
+Meteorological Research Institute (気象研究所, Kishō Kenkyūjo)
+Meteorological Satellite Center (気象衛星センター, Kishō-eisei Sentā)
+Aerological Observatory (高層気象台, Kōsō Kishō-dai)
+Magnetic Observatory (地磁気観測所, Chijiki Kansokujo)
+Meteorological College (気象大学校, Kishō Daigakkō)
+Arai Ikunosuke (荒井 郁之助): 1890-1891
+Kobayashi Kazutomo (小林 一知): 1891-1895
+Nakamura Kiyoo (中村 精男): 1895-1923
+Okada Takematsu (岡田 武松): 1923-1941
+Fujiwhara Sakuhei (藤原 咲平): 1941-1947
+Wadachi Kiyoo (和達 清夫): 1947-1956
+Wadachi Kiyoo (和達 清夫): 1956-1963
+Hatakeyama Hisanao (畠山 久尚): 1963-1965
+Shibata Yoshiji (柴田 淑次): 1965-1969
+Yoshitake Motoji (吉武 素二): 1969-1971
+Takahashi Koūchirō (高橋 浩一郎): 1971-1974
+Mouri Keitarō (毛利 圭太郎): 1974-1976
+Arizumi Naosuke (有住 直介): 1976-1978
+Kubota Masaya (窪田 正八): 1978-1980
+Masuzawa Jōtarō (増澤 譲太郎): 1980-1983
+Suehiro Shigeji (末廣 重二): 1983-1985
+Uchida Eiji (内田 英治): 1985-1987
+Kikuchi Yukio (菊地 幸雄): 1987-1990
+Tatehira Ryōzō (立平 良三): 1990-1992
+Nitta Takashi (新田 尚): 1992-1993
+Ninomiya Kōzō (二宮 洸三): 1993-1996
+Ono Toshiyuki (小野 俊行): 1996-1998
+Takigawa Yūsō (瀧川 雄壮): 1998-2000
+Yamamoto Kōji (山本 孝二): 2000-2003
+Kitade Takeo (北出 武夫): 2003-2004
+Nagasaka Kōichi (長坂 昴一): 2004-2006
+Hiraki Satoshi (平木 哲): 2006-2009
+Sakurai Kunio (櫻井 邦雄): 2009-2011
+Hatori Mitsuhiko (羽鳥 光彦): 2011-2016
+Toshihiko Hashida (橋田 俊彦): 2016-present
+2015 Pacific typhoon season
+Severe weather terminology (Japan)

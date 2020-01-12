@@ -1,0 +1,1331 @@
+In statistics, a moving average (rolling average or running average) is a calculation to analyze data points by creating series of averages of different subsets of the full data set. It is also called a moving mean (MM) or rolling mean and is a type of finite impulse response filter. Variations include: simple, and cumulative, or weighted forms (described below).
+Given a series of numbers and a fixed subset size, the first element of the moving average is obtained by taking the average of the initial fixed subset of the number series. Then the subset is modified by "shifting forward"; that is, excluding the first number of the series and including the next number following the original subset in the series. This creates a new subset of numbers, which is averaged. This process is repeated over the entire data series. The plot line connecting all the (fixed) averages is the moving average. A moving average is a set of numbers, each of which is the average of the corresponding subset of a larger set of datum points. A moving average may also use unequal weights for each datum value in the subset to emphasize particular values in the subset.
+A moving average is commonly used with time series data to smooth out short-term fluctuations and highlight longer-term trends or cycles. The threshold between short-term and long-term depends on the application, and the parameters of the moving average will be set accordingly. For example, it is often used in technical analysis of financial data, like stock prices, returns or trading volumes. It is also used in economics to examine gross domestic product, employment or other macroeconomic time series. Mathematically, a moving average is a type of convolution and so it can be viewed as an example of a low-pass filter used in signal processing. When used with non-time series data, a moving average filters higher frequency components without any specific connection to time, although typically some kind of ordering is implied. Viewed simplistically it can be regarded as smoothing the data.
+In financial applications a simple moving average (SMA) is the unweighted mean of the previous n data. However, in science and engineering the mean is normally taken from an equal number of data on either side of a central value. This ensures that variations in the mean are aligned with the variations in the data rather than being shifted in time.  An example of a simple equally weighted running mean for a n-day sample of closing price is the mean of the previous n days' closing prices. If those prices are 
+          p
+            M
+        ,
+          p
+            M
+            −
+            1
+        ,
+        …
+        ,
+          p
+            M
+            −
+            (
+            n
+            −
+            1
+            )
+    {\displaystyle p_{M},p_{M-1},\dots ,p_{M-(n-1)}}
+   then the formula is
+                S
+                M
+                A
+                =
+                        p
+                          M
+                      +
+                        p
+                          M
+                          −
+                          1
+                      +
+                      ⋯
+                      +
+                        p
+                          M
+                          −
+                          (
+                          n
+                          −
+                          1
+                          )
+                    n
+                =
+                    1
+                    n
+                  ∑
+                    i
+                    =
+                    0
+                    n
+                    −
+                    1
+                  p
+                    M
+                    −
+                    i
+    {\displaystyle {\begin{aligned}SMA&={\frac {p_{M}+p_{M-1}+\cdots +p_{M-(n-1)}}{n}}\\&={\frac {1}{n}}\sum _{i=0}^{n-1}p_{M-i}\end{aligned}}}
+When calculating successive values, a new value comes into the sum and an old value drops out, meaning a full summation each time is unnecessary for this simple case,
+              SMA
+              t
+              o
+              d
+              a
+              y
+        =
+              SMA
+              y
+              e
+              s
+              t
+              e
+              r
+              d
+              a
+              y
+        +
+              p
+                M
+            n
+        −
+              p
+                M
+                −
+                n
+            n
+    {\displaystyle {\textit {SMA}}_{\mathrm {today} }={\textit {SMA}}_{\mathrm {yesterday} }+{p_{M} \over n}-{p_{M-n} \over n}}
+The period selected depends on the type of movement of interest, such as short, intermediate, or long-term. In financial terms moving-average levels can be interpreted as support in a falling market, or resistance in a rising market.
+If the data used are not centered around the mean, a simple moving average lags behind the latest datum point by half the sample width. An SMA can also be disproportionately influenced by old datum points dropping out or new data coming in. One characteristic of the SMA is that if the data have a periodic fluctuation, then applying an SMA of that period will eliminate that variation (the average always containing one complete cycle). But a perfectly regular cycle is rarely encountered.
+For a number of applications, it is advantageous to avoid the shifting induced by using only 'past' data. Hence a central moving average can be computed, using data equally spaced on either side of the point in the series where the mean is calculated. This requires using an odd number of datum points in the sample window.
+A major drawback of the SMA is that it lets through a significant amount of the signal shorter than the window length. Worse, it actually inverts it. This can lead to unexpected artifacts, such as peaks in the smoothed result appearing where there were troughs in the data. It also leads to the result being less smooth than expected since some of the higher frequencies are not properly removed.
+In a cumulative moving average, the data arrive in an ordered datum stream, and the user would like to get the average of all of the data up until the current datum point. For example, an investor may want the average price of all of the stock transactions for a particular stock up until the current time. As each new transaction occurs, the average price at the time of the transaction can be calculated for all of the transactions up to that point using the cumulative average, typically an equally weighted average of the sequence of n values 
+          x
+            1
+        .
+        …
+        ,
+          x
+            n
+    {\displaystyle x_{1}.\ldots ,x_{n}}
+   up to the current time:
+              CMA
+            n
+        =
+                x
+                  1
+              +
+              ⋯
+              +
+                x
+                  n
+            n
+        .
+    {\displaystyle {\textit {CMA}}_{n}={{x_{1}+\cdots +x_{n}} \over n}\,.}
+The brute-force method to calculate this would be to store all of the data and calculate the sum and divide by the number of datum points every time a new datum point arrived. However, it is possible to simply update cumulative average as a new value, 
+          x
+            n
+            +
+            1
+    {\displaystyle x_{n+1}}
+   becomes available, using the formula:
+              CMA
+            n
+            +
+            1
+        =
+                x
+                  n
+                  +
+                  1
+              +
+              n
+              ⋅
+                    CMA
+                  n
+              n
+              +
+              1
+    {\displaystyle {\textit {CMA}}_{n+1}={{x_{n+1}+n\cdot {\textit {CMA}}_{n}} \over {n+1}}}
+Thus the current cumulative average for a new datum point is equal to the previous cumulative average, times n, plus the latest datum point, all divided by the number of points received so far, n+1. When all of the datum points arrive (n = N), then the cumulative average will equal the final average.
+The derivation of the cumulative average formula is straightforward. Using
+          x
+            1
+        +
+        ⋯
+        +
+          x
+            n
+        =
+        n
+        ⋅
+              CMA
+            n
+    {\displaystyle x_{1}+\cdots +x_{n}=n\cdot {\textit {CMA}}_{n}}
+and similarly for n + 1, it is seen that
+                  x
+                    n
+                    +
+                    1
+                =
+                (
+                  x
+                    1
+                +
+                ⋯
+                +
+                  x
+                    n
+                    +
+                    1
+                )
+                −
+                (
+                  x
+                    1
+                +
+                ⋯
+                +
+                  x
+                    n
+                )
+                =
+                (
+                n
+                +
+                1
+                )
+                ⋅
+                      CMA
+                    n
+                    +
+                    1
+                −
+                n
+                ⋅
+                      CMA
+                    n
+    {\displaystyle {\begin{aligned}x_{n+1}&=(x_{1}+\cdots +x_{n+1})-(x_{1}+\cdots +x_{n})\\[6pt]&=(n+1)\cdot {\textit {CMA}}_{n+1}-n\cdot {\textit {CMA}}_{n}\end{aligned}}}
+Solving this equation for 
+              CMA
+            n
+            +
+            1
+    {\displaystyle {\textit {CMA}}_{n+1}}
+   results in:
+                      CMA
+                    n
+                    +
+                    1
+                =
+                        x
+                          n
+                          +
+                          1
+                      +
+                      n
+                      ⋅
+                            CMA
+                          n
+                      n
+                      +
+                      1
+                =
+                        CMA
+                      n
+                +
+                        x
+                          n
+                          +
+                          1
+                      −
+                            CMA
+                          n
+                      n
+                      +
+                      1
+    {\displaystyle {\begin{aligned}{\textit {CMA}}_{n+1}&={x_{n+1}+n\cdot {\textit {CMA}}_{n} \over {n+1}}\\[6pt]&={{\textit {CMA}}_{n}}+{{x_{n+1}-{\textit {CMA}}_{n}} \over {n+1}}\end{aligned}}}
+A weighted average is any average that has multiplying factors to give different weights to data at different positions in the sample window. Mathematically, the moving average is the convolution of the datum points with a fixed weighting function. One application is removing pixelisation from a digital graphical image.
+In technical analysis of financial data, a weighted moving average (WMA) has the specific meaning of weights that decrease in arithmetical progression. In an n-day WMA the latest day has weight n, the second latest n − 1, etc., down to one.
+            WMA
+            M
+        =
+              n
+                p
+                  M
+              +
+              (
+              n
+              −
+              1
+              )
+                p
+                  M
+                  −
+                  1
+              +
+              ⋯
+              +
+              2
+                p
+                  (
+                  M
+                  −
+                  n
+                  +
+                  2
+                  )
+              +
+                p
+                  (
+                  M
+                  −
+                  n
+                  +
+                  1
+                  )
+              n
+              +
+              (
+              n
+              −
+              1
+              )
+              +
+              ⋯
+              +
+              2
+              +
+              1
+    {\displaystyle {\text{WMA}}_{M}={np_{M}+(n-1)p_{M-1}+\cdots +2p_{(M-n+2)}+p_{(M-n+1)} \over n+(n-1)+\cdots +2+1}}
+The denominator is a triangle number equal to 
+              n
+              (
+              n
+              +
+              1
+              )
+            2
+        .
+    {\displaystyle {\frac {n(n+1)}{2}}.}
+   In the more general case the denominator will always be the sum of the individual weights.
+When calculating the WMA across successive values, the difference between the numerators of WMAM+1 and WMAM is npM+1 − pM − ⋅⋅⋅ − pM−n+1. If we denote the sum pM + ⋅⋅⋅ + pM−n+1 by TotalM, then
+            Total
+            M
+            +
+            1
+        =
+            Total
+            M
+        +
+          p
+            M
+            +
+            1
+        −
+          p
+            M
+            −
+            n
+            +
+            1
+    {\displaystyle {\text{Total}}_{M+1}={\text{Total}}_{M}+p_{M+1}-p_{M-n+1}\,}
+            Numerator
+            M
+            +
+            1
+        =
+            Numerator
+            M
+        +
+        n
+          p
+            M
+            +
+            1
+        −
+        T
+        o
+        t
+        a
+          l
+            M
+    {\displaystyle {\text{Numerator}}_{M+1}={\text{Numerator}}_{M}+np_{M+1}-Total_{M}\,}
+            WMA
+            M
+            +
+            1
+        =
+                Numerator
+                M
+                +
+                1
+              n
+              +
+              (
+              n
+              −
+              1
+              )
+              +
+              ⋯
+              +
+              2
+              +
+              1
+    {\displaystyle {\text{WMA}}_{M+1}={{\text{Numerator}}_{M+1} \over n+(n-1)+\cdots +2+1}\,}
+The graph at the right shows how the weights decrease, from highest weight for the most recent datum points, down to zero. It can be compared to the weights in the exponential moving average which follows.
+An exponential moving average (EMA), also known as an exponentially weighted moving average (EWMA), is a type of infinite impulse response filter that applies weighting factors which decrease exponentially. The weighting for each older datum decreases exponentially, never reaching zero. The graph at right shows an example of the weight decrease.
+The EMA for a series Y may be calculated recursively:
+          S
+            1
+        =
+          Y
+            1
+    {\displaystyle S_{1}=Y_{1}}
+for 
+        t
+        >
+        1
+        ,
+          S
+            t
+        =
+        α
+        ⋅
+          Y
+            t
+        +
+        (
+        1
+        −
+        α
+        )
+        ⋅
+          S
+            t
+            −
+            1
+    {\displaystyle t>1,\ \ S_{t}=\alpha \cdot Y_{t}+(1-\alpha )\cdot S_{t-1}}
+Where:
+The coefficient α represents the degree of weighting decrease, a constant smoothing factor between 0 and 1. A higher α discounts older observations faster.
+Yt is the value at a time period t.
+St is the value of the EMA at any time period t.
+S1 is undefined. S1 may be initialized in a number of different ways, most commonly by setting S1 to Y1, though other techniques exist, such as setting S1 to an average of the first 4 or 5 observations. The importance of the S1 initialisations effect on the resultant moving average depends on α; smaller α values make the choice of S1 relatively more important than larger α values, since a higher α discounts older observations faster.
+Whatever is done for S1 it assumes something about values prior to the available data and is necessarily in error. In view of this the early results should be regarded as unreliable until the iterations have had time to converge. This is sometimes called a 'spin-up' interval. One way to assess when it can be regarded as reliable is to consider the required accuracy of the result. For example, if 3% accuracy is required, initialising with Y1 and taking data after five time constants (defined above) will ensure that the calculation has converged to within 3% (only <3% of Y1 will remain in the result ). Sometimes with very small alpha, this can mean little of the result is useful. This is analogous to the problem of using a convolution filter (such as a weighted average) with a very long window.
+This formulation is according to Hunter (1986). By repeated application of this formula for different times, we can eventually write St as a weighted sum of the datum points Yt, as:
+                  S
+                    t
+                =
+                α
+                ×
+                (
+                  Y
+                    t
+                    −
+                    1
+                +
+                (
+                1
+                −
+                α
+                )
+                ×
+                  Y
+                    t
+                    −
+                    2
+                +
+                (
+                1
+                −
+                α
+                  )
+                    2
+                ×
+                  Y
+                    t
+                    −
+                    3
+                +
+                ⋯
+                ⋯
+                +
+                (
+                1
+                −
+                α
+                  )
+                    k
+                ×
+                  Y
+                    t
+                    −
+                    (
+                    k
+                    +
+                    1
+                    )
+                )
+                +
+                (
+                1
+                −
+                α
+                  )
+                    k
+                    +
+                    1
+                ×
+                  S
+                    t
+                    −
+                    (
+                    k
+                    +
+                    1
+                    )
+    {\displaystyle {\begin{aligned}S_{t}={}&\alpha \times (Y_{t-1}+(1-\alpha )\times Y_{t-2}+(1-\alpha )^{2}\times Y_{t-3}+\cdots \\[6pt]&\qquad \qquad \cdots +(1-\alpha )^{k}\times Y_{t-(k+1)})+(1-\alpha )^{k+1}\times S_{t-(k+1)}\end{aligned}}}
+for any suitable k ∈ {0, 1, 2, ...} The weight of the general datum point 
+          Y
+            t
+            −
+            i
+    {\displaystyle Y_{t-i}}
+   is 
+        α
+        (
+        1
+        −
+        α
+          )
+            i
+            −
+            1
+    {\displaystyle \alpha (1-\alpha )^{i-1}}
+  .
+An alternate approach by Roberts (1959) uses Yt in lieu of Yt−1:
+          S
+            t
+            ,
+               alternate
+        =
+        α
+        ⋅
+          Y
+            t
+        +
+        (
+        1
+        −
+        α
+        )
+        ⋅
+          S
+            t
+            −
+            1
+    {\displaystyle S_{t,{\text{ alternate}}}=\alpha \cdot Y_{t}+(1-\alpha )\cdot S_{t-1}}
+This formula can also be expressed in technical analysis terms as follows, showing how the EMA steps towards the latest datum point, but only by a proportion of the difference (each time):
+            EMA
+            today
+        =
+            EMA
+            yesterday
+        +
+        α
+        ×
+        (
+            price
+            today
+        −
+            EMA
+            yesterday
+        )
+    {\displaystyle {\text{EMA}}_{\text{today}}={\text{EMA}}_{\text{yesterday}}+\alpha \times ({\text{price}}_{\text{today}}-{\text{EMA}}_{\text{yesterday}})}
+Expanding out 
+            EMA
+            yesterday
+    {\displaystyle {\text{EMA}}_{\text{yesterday}}}
+   each time results in the following power series, showing how the weighting factor on each datum point p1, p2, etc., decreases exponentially:
+            EMA
+            today
+        =
+          α
+          ×
+          (
+            p
+              1
+          +
+          (
+          1
+          −
+          α
+          )
+            p
+              2
+          +
+          (
+          1
+          −
+          α
+            )
+              2
+            p
+              3
+          +
+          (
+          1
+          −
+          α
+            )
+              3
+            p
+              4
+          +
+          ⋯
+          )
+    {\displaystyle {\text{EMA}}_{\text{today}}={\alpha \times (p_{1}+(1-\alpha )p_{2}+(1-\alpha )^{2}p_{3}+(1-\alpha )^{3}p_{4}+\cdots )}}
+where
+          p
+            1
+    {\displaystyle p_{1}}
+   is 
+            price
+            today
+    {\displaystyle {\text{price}}_{\text{today}}}
+          p
+            2
+    {\displaystyle p_{2}}
+   is 
+            price
+            yesterday
+    {\displaystyle {\text{price}}_{\text{yesterday}}}
+and so on
+            EMA
+            today
+        =
+                p
+                  1
+              +
+              (
+              1
+              −
+              α
+              )
+                p
+                  2
+              +
+              (
+              1
+              −
+              α
+                )
+                  2
+                p
+                  3
+              +
+              (
+              1
+              −
+              α
+                )
+                  3
+                p
+                  4
+              +
+              ⋯
+              1
+              +
+              (
+              1
+              −
+              α
+              )
+              +
+              (
+              1
+              −
+              α
+                )
+                  2
+              +
+              (
+              1
+              −
+              α
+                )
+                  3
+              +
+              ⋯
+        ,
+    {\displaystyle {\text{EMA}}_{\text{today}}={p_{1}+(1-\alpha )p_{2}+(1-\alpha )^{2}p_{3}+(1-\alpha )^{3}p_{4}+\cdots  \over 1+(1-\alpha )+(1-\alpha )^{2}+(1-\alpha )^{3}+\cdots },}
+since 
+        1
+          /
+        α
+        =
+        1
+        +
+        (
+        1
+        −
+        α
+        )
+        +
+        (
+        1
+        −
+        α
+          )
+            2
+        +
+        ⋯
+    {\displaystyle 1/\alpha =1+(1-\alpha )+(1-\alpha )^{2}+\cdots }
+  .
+This is an infinite sum with decreasing terms.
+The N periods in an N-day EMA only specify the α factor. N is not a stopping point for the calculation in the way it is in an SMA or WMA. For sufficiently large N, the first N datum points in an EMA represent about 86% of the total weight in the calculation when 
+        α
+        =
+        2
+          /
+        (
+        N
+        +
+        1
+        )
+    {\displaystyle \alpha =2/(N+1)}
+  :
+              α
+              ×
+                (
+                1
+                +
+                (
+                1
+                −
+                α
+                )
+                +
+                (
+                1
+                −
+                α
+                  )
+                    2
+                +
+                ⋯
+                +
+                (
+                1
+                −
+                α
+                  )
+                    N
+                )
+              α
+              ×
+                (
+                1
+                +
+                (
+                1
+                −
+                α
+                )
+                +
+                (
+                1
+                −
+                α
+                  )
+                    2
+                +
+                ⋯
+                +
+                (
+                1
+                −
+                α
+                  )
+                    ∞
+                )
+        =
+        1
+        −
+              (
+              1
+              −
+                  2
+                    N
+                    +
+                    1
+              )
+            N
+            +
+            1
+    {\displaystyle {{\alpha \times \left(1+(1-\alpha )+(1-\alpha )^{2}+\cdots +(1-\alpha )^{N}\right)} \over {\alpha \times \left(1+(1-\alpha )+(1-\alpha )^{2}+\cdots +(1-\alpha )^{\infty }\right)}}=1-{\left(1-{2 \over N+1}\right)}^{N+1}}
+i.e. 
+          lim
+            N
+            →
+            ∞
+          [
+          1
+          −
+                (
+                1
+                −
+                    2
+                      N
+                      +
+                      1
+                )
+              N
+              +
+              1
+          ]
+    {\displaystyle \lim _{N\to \infty }\left[1-{\left(1-{2 \over N+1}\right)}^{N+1}\right]}
+   simplified, tends to 
+        1
+        −
+            e
+            −
+            2
+        ≈
+        0.8647
+    {\displaystyle 1-{\text{e}}^{-2}\approx 0.8647}
+  .
+The above discussion requires a bit of clarification. The sum of the weights of all the terms (i.e., infinite number of terms) in an exponential moving average is 1. The sum of the weights of 
+        N
+    {\displaystyle N}
+   terms is 
+        1
+        −
+        (
+        1
+        −
+        α
+          )
+            N
+            +
+            1
+    {\displaystyle 1-(1-\alpha )^{N+1}}
+  . Both of these sums can be derived by using the formula for the sum of a geometric series. The weight omitted after 
+        N
+    {\displaystyle N}
+   terms is given by subtracting this from 1, and you get 
+        1
+        −
+        (
+        1
+        −
+        (
+        1
+        −
+        α
+          )
+            N
+            +
+            1
+        )
+        =
+        (
+        1
+        −
+        α
+          )
+            N
+            +
+            1
+    {\displaystyle 1-(1-(1-\alpha )^{N+1})=(1-\alpha )^{N+1}}
+   (this is essentially the formula given below for the weight omitted). Note that there is no "accepted" value that should be chosen for 
+        α
+    {\displaystyle \alpha }
+   although there are some recommended values based on the application. In the above discussion, we have substituted a commonly used value for 
+        α
+        =
+        2
+          /
+        (
+        N
+        +
+        1
+        )
+    {\displaystyle \alpha =2/(N+1)}
+   in the formula for the weight of 
+        N
+    {\displaystyle N}
+   terms. Again, it is just a recommendation—not a requirement. If you make this substitution, and you make use of 
+          lim
+            n
+            →
+            ∞
+            (
+            1
+            +
+                a
+                  1
+                  +
+                  n
+            )
+            n
+        =
+          e
+            a
+    {\displaystyle \lim _{n\to \infty }\left(1+{a \over {1+n}}\right)^{n}=e^{a}}
+  , then you get the 0.864 approximation. Intuitively, what this is telling us is that the weight after 
+        N
+    {\displaystyle N}
+   terms of an ``
+        N
+    {\displaystyle N}
+  -period" exponential moving average converges to 0.864.
+The power formula above gives a starting value for a particular day, after which the successive days formula shown first can be applied. The question of how far back to go for an initial value depends, in the worst case, on the data. Large price values in old data will affect the total even if their weighting is very small. If prices have small variations then just the weighting can be considered. The weight omitted by stopping after k terms is
+        α
+        ×
+          (
+          (
+          1
+          −
+          α
+            )
+              k
+          +
+          (
+          1
+          −
+          α
+            )
+              k
+              +
+              1
+          +
+          (
+          1
+          −
+          α
+            )
+              k
+              +
+              2
+          +
+          ⋯
+          )
+        ,
+    {\displaystyle \alpha \times \left((1-\alpha )^{k}+(1-\alpha )^{k+1}+(1-\alpha )^{k+2}+\cdots \right),}
+which is
+        α
+        ×
+        (
+        1
+        −
+        α
+          )
+            k
+        ×
+          (
+          1
+          +
+          (
+          1
+          −
+          α
+          )
+          +
+          (
+          1
+          −
+          α
+            )
+              2
+          +
+          ⋯
+          )
+        ,
+    {\displaystyle \alpha \times (1-\alpha )^{k}\times \left(1+(1-\alpha )+(1-\alpha )^{2}+\cdots \right),}
+i.e. a fraction
+                        weight omitted by stopping after 
+                      k
+                         terms
+                    total weight
+                =
+                      α
+                      ×
+                        [
+                        (
+                        1
+                        −
+                        α
+                          )
+                            k
+                        +
+                        (
+                        1
+                        −
+                        α
+                          )
+                            k
+                            +
+                            1
+                        +
+                        (
+                        1
+                        −
+                        α
+                          )
+                            k
+                            +
+                            2
+                        +
+                        ⋯
+                        ]
+                      α
+                      ×
+                        [
+                        1
+                        +
+                        (
+                        1
+                        −
+                        α
+                        )
+                        +
+                        (
+                        1
+                        −
+                        α
+                          )
+                            2
+                        +
+                        ⋯
+                        ]
+                =
+                      α
+                      (
+                      1
+                      −
+                      α
+                        )
+                          k
+                      ×
+                          1
+                            1
+                            −
+                            (
+                            1
+                            −
+                            α
+                            )
+                      α
+                        1
+                        −
+                        (
+                        1
+                        −
+                        α
+                        )
+                =
+                (
+                1
+                −
+                α
+                  )
+                    k
+    {\displaystyle {\begin{aligned}&{\frac {{\text{weight omitted by stopping after }}k{\text{ terms}}}{\text{total weight}}}\\[6pt]={}&{\frac {\alpha \times \left[(1-\alpha )^{k}+(1-\alpha )^{k+1}+(1-\alpha )^{k+2}+\cdots \right]}{\alpha \times \left[1+(1-\alpha )+(1-\alpha )^{2}+\cdots \right]}}\\[6pt]={}&{\frac {\alpha (1-\alpha )^{k}\times {\frac {1}{1-(1-\alpha )}}}{\frac {\alpha }{1-(1-\alpha )}}}\\[6pt]={}&(1-\alpha )^{k}\end{aligned}}}
+out of the total weight.
+For example, to have 99.9% of the weight, set above ratio equal to 0.1% and solve for k:
+        k
+        =
+              log
+              ⁡
+              (
+              0.001
+              )
+              log
+              ⁡
+              (
+              1
+              −
+              α
+              )
+    {\displaystyle k={\log(0.001) \over \log(1-\alpha )}}
+terms should be used. Since 
+        log
+        (
+        1
+        −
+        α
+        )
+    {\displaystyle \log \,(1-\alpha )}
+   approaches 
+          −
+          2
+          N
+          +
+          1
+    {\displaystyle -2 \over N+1}
+   as N increases, this simplifies to approximately
+        k
+        =
+        3.45
+        (
+        N
+        +
+        1
+        )
+    {\displaystyle k=3.45(N+1)\,}
+for this example (99.9% weight).
+A modified moving average (MMA), running moving average (RMA), or smoothed moving average (SMMA) is defined as:
+            MMA
+            today
+        =
+              (
+              N
+              −
+              1
+              )
+              ×
+                  MMA
+                  yesterday
+              +
+                price
+              N
+    {\displaystyle {\text{MMA}}_{\text{today}}={(N-1)\times {\text{MMA}}_{\text{yesterday}}+{\text{price}} \over {N}}}
+In short, this is an exponential moving average, with 
+        α
+        =
+        1
+          /
+        N
+    {\displaystyle \alpha =1/N}
+  .
+Some computer performance metrics, e.g. the average process queue length, or the average CPU utilization, use a form of exponential moving average.
+          S
+            n
+        =
+        α
+        (
+          t
+            n
+        −
+          t
+            n
+            −
+            1
+        )
+        ×
+          Y
+            n
+        +
+        (
+        1
+        −
+        α
+        (
+          t
+            n
+        −
+          t
+            n
+            −
+            1
+        )
+        )
+        ×
+          S
+            n
+            −
+            1
+        .
+    {\displaystyle S_{n}=\alpha (t_{n}-t_{n-1})\times Y_{n}+(1-\alpha (t_{n}-t_{n-1}))\times S_{n-1}.}
+Here α is defined as a function of time between two readings. An example of a coefficient giving bigger weight to the current reading, and smaller weight to the older readings is
+        α
+        (
+          t
+            n
+        −
+          t
+            n
+            −
+            1
+        )
+        =
+        1
+        −
+        exp
+        ⁡
+          (
+            −
+                    t
+                      n
+                  −
+                    t
+                      n
+                      −
+                      1
+                  W
+                  ×
+                  60
+          )
+    {\displaystyle \alpha (t_{n}-t_{n-1})=1-\exp \left({-{{t_{n}-t_{n-1}} \over {W\times 60}}}\right)}
+where exp() is the exponential function, time for readings tn is expressed in seconds, and W is the period of time in minutes over which the reading is said to be averaged (the mean lifetime of each reading in the average). Given the above definition of α, the moving average can be expressed as
+          S
+            n
+        =
+          (
+          1
+          −
+          exp
+          ⁡
+            (
+            −
+                    t
+                      n
+                  −
+                    t
+                      n
+                      −
+                      1
+                  W
+                  ×
+                  60
+            )
+          )
+        ×
+          Y
+            n
+        +
+        exp
+        ⁡
+          (
+          −
+                  t
+                    n
+                −
+                  t
+                    n
+                    −
+                    1
+                W
+                ×
+                60
+          )
+        ×
+          S
+            n
+            −
+            1
+    {\displaystyle S_{n}=\left(1-\exp \left(-{{t_{n}-t_{n-1}} \over {W\times 60}}\right)\right)\times Y_{n}+\exp \left(-{{t_{n}-t_{n-1}} \over {W\times 60}}\right)\times S_{n-1}}
+For example, a 15-minute average L of a process queue length Q, measured every 5 seconds (time difference is 5 seconds), is computed as
+                  L
+                    n
+                =
+                  (
+                  1
+                  −
+                  exp
+                  ⁡
+                    (
+                      −
+                          5
+                            15
+                            ×
+                            60
+                    )
+                  )
+                ×
+                  Q
+                    n
+                +
+                  e
+                    −
+                        5
+                          15
+                          ×
+                          60
+                ×
+                  L
+                    n
+                    −
+                    1
+                =
+                  (
+                  1
+                  −
+                  exp
+                  ⁡
+                    (
+                      −
+                          1
+                            180
+                    )
+                  )
+                ×
+                  Q
+                    n
+                +
+                  e
+                    −
+                    1
+                      /
+                    180
+                ×
+                  L
+                    n
+                    −
+                    1
+                =
+                  Q
+                    n
+                +
+                  e
+                    −
+                    1
+                      /
+                    180
+                ×
+                (
+                  L
+                    n
+                    −
+                    1
+                −
+                  Q
+                    n
+                )
+    {\displaystyle {\begin{aligned}L_{n}&=\left(1-\exp \left({-{5 \over {15\times 60}}}\right)\right)\times Q_{n}+e^{-{5 \over {15\times 60}}}\times L_{n-1}\\[6pt]&=\left(1-\exp \left({-{1 \over {180}}}\right)\right)\times Q_{n}+e^{-1/180}\times L_{n-1}\\[6pt]&=Q_{n}+e^{-1/180}\times (L_{n-1}-Q_{n})\end{aligned}}}
+Other weighting systems are used occasionally – for example, in share trading a volume weighting will weight each time period in proportion to its trading volume.
+A further weighting, used by actuaries, is Spencer's 15-Point Moving Average (a central moving average). The symmetric weight coefficients are −3, −6, −5, 3, 21, 46, 67, 74, 67, 46, 21, 3, −5, −6, −3.
+Outside the world of finance, weighted running means have many forms and applications. Each weighting function or "kernel" has its own characteristics. In engineering and science the frequency and phase response of the filter is often of primary importance in understanding the desired and undesired distortions that a particular filter will apply to the data.
+A mean does not just "smooth" the data. A mean is a form of low-pass filter. The effects of the particular filter used should be understood in order to make an appropriate choice. On this point, the French version of this article discusses the spectral effects of 3 kinds of means (cumulative, exponential, Gaussian).
+From a statistical point of view, the moving average, when used to estimate the underlying trend in a time series, is susceptible to rare events such as rapid shocks or other anomalies. A more robust estimate of the trend is the simple moving median over n time points:
+            SMM
+        =
+          Median
+        (
+          p
+            M
+        ,
+          p
+            M
+            −
+            1
+        ,
+        …
+        ,
+          p
+            M
+            −
+            n
+            +
+            1
+        )
+    {\displaystyle {\textit {SMM}}={\text{Median}}(p_{M},p_{M-1},\ldots ,p_{M-n+1})}
+where the median is found by, for example, sorting the values inside the brackets and finding the value in the middle. For larger values of n, the median can be efficiently computed by updating an indexable skiplist.
+Statistically, the moving average is optimal for recovering the underlying trend of the time series when the fluctuations about the trend are normally distributed. However, the normal distribution does not place high probability on very large deviations from the trend which explains why such deviations will have a disproportionately large effect on the trend estimate. It can be shown that if the fluctuations are instead assumed to be Laplace distributed, then the moving median is statistically optimal. For a given variance, the Laplace distribution places higher probability on rare events than does the normal, which explains why the moving median tolerates shocks better than the moving mean.
+When the simple moving median above is central, the smoothing is identical to the median filter which has applications in, for example, image signal processing.
+In a moving average regression model, a variable of interest is assumed to be a weighted moving average of unobserved independent error terms; the weights in the moving average are parameters to be estimated.
+Those two concepts are often confused due to their name, but while they share many similarities, they represent distinct methods and are used in very different contexts.
+Exponential smoothing
+Moving average convergence/divergence indicator
+Window function
+Moving average crossover
+Rising moving average
+Running total
+Local regression
+Kernel smoothing

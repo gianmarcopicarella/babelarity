@@ -1,0 +1,93 @@
+Atbash (Hebrew: אתבש‎‎; also transliterated Atbaš) is a simple substitution cipher originally for the Hebrew alphabet, but possible with any known alphabet.
+It is considered 'complex'. But, it has a possible key, and it is a simple monoalphabetic substitution cipher. However, this may not have been an issue at the time when the cipher was first devised.
+The name derives from the first, last, second, and second to last Hebrew letters (Aleph-Tav-Beth-Shin).
+The Atbash cipher for the modern Hebrew alphabet would be:
+ Plain:  אבגדהוזחטיכלמנסעפצקרשת
+ Cipher: תשרקצפעסנמלכיטחזוהדגבא
+Several Biblical verses are described by commentators as being examples of Atbash:
+Jeremiah 25:26 - "The king of Sheshach shall drink after them" - Sheshach meaning Babylon in Atbash (ששך=בבל)
+Jeremiah 51:1 - "Behold, I will raise up against Babylon, and against the inhabitants of Lev-kamai, a destroying wind." - Lev-kamai meaning Chaldeans (לבקמי=כשדים)
+Jeremiah 51:41 - "How has Sheshach been captured! and the praise of the whole earth taken! How has Babylon become a curse among the nations!" - Sheshach meaning Babylon (ששך=בבל)
+It works by substituting the first letter of an alphabet for the last letter, the second letter for the second to last and so on, effectively reversing the alphabet. An Atbash cipher for the Latin alphabet would be as follows:
+ Plain:  abcdefghijklmnopqrstuvwxyz
+ Cipher: ZYXWVUTSRQPONMLKJIHGFEDCBA
+An easier, simpler and faster way of doing this is:
+ First 13 letters: A|B|C|D|E|F|G|H|I|J|K|L|M
+ Last 13 letters:  Z|Y|X|W|V|U|T|S|R|Q|P|O|N
+A few English words also 'Atbash' into other English words: "irk"="rip", "low"="old", "hob"="sly", "hold"="slow", "holy"="slob", "horn"="slim", "glow"="told", "grog"="tilt" and "zoo"="all". Some other English words Atbash into their own reverses, e.g., "wizard" = "draziw."
+The Atbash cipher can be seen as a special case of the affine cipher.
+Under the standard affine convention, an alphabet of m letters is mapped to the numbers 0, 1, ..., m − 1. (The Hebrew alphabet has m = 22, and the standard Latin alphabet has m = 26). The Atbash cipher may then be enciphered and deciphered using the encryption function for an affine cipher, by setting a = b = (m − 1):
+          E
+        (
+        x
+        )
+        =
+          D
+        (
+        x
+        )
+        =
+        (
+        (
+        m
+        −
+        1
+        )
+        x
+        +
+        (
+        m
+        −
+        1
+        )
+        )
+        mod
+        m
+    {\displaystyle {\mbox{E}}(x)={\mbox{D}}(x)=((m-1)x+(m-1))\mod {m}}
+This may be simplified to:
+                  E
+                (
+                x
+                )
+                =
+                (
+                m
+                −
+                1
+                )
+                (
+                x
+                +
+                1
+                )
+                mod
+                m
+                =
+                −
+                (
+                x
+                +
+                1
+                )
+                mod
+                m
+    {\displaystyle {\begin{aligned}{\mbox{E}}(x)&=(m-1)(x+1)\mod {m}\\&=-(x+1)\mod {m}\\\end{aligned}}}
+If, instead, the m letters of the alphabet are mapped to 1, 2, .., m, then the encryption and decryption function for the Atbash cipher becomes:
+          E
+        (
+        x
+        )
+        =
+        (
+        −
+        x
+        mod
+        m
+        )
+        +
+        1
+    {\displaystyle {\mbox{E}}(x)=(-x\mod {m})+1}
+Temurah (Kabbalah)
+Gematria
+Hebrew language
+ROT13

@@ -1,0 +1,20 @@
+Pimozide (Orap) is an antipsychotic drug of the diphenylbutylpiperidine class. It was discovered at Janssen Pharmaceutica in 1963. It has a high potency compared to chlorpromazine (ratio 50-70:1). On a weight basis it is even more potent than haloperidol. It also has special neurologic indications for Tourette syndrome and resistant tics. The side effects include akathisia, tardive dyskinesia, and, more rarely, neuroleptic malignant syndrome and prolongation of the QT interval.
+Pimozide is used in its oral preparation in schizophrenia and chronic psychosis (on-label indications in Europe only), Tourette syndrome and resistant tics (Europe, USA and Canada).
+Pimozide has been used in the treatment of delusional disorder and paranoid personality disorder. It has also been used for delusions of parasitosis.
+Use as an antibiotic for Listeria monocytogenes has been described.
+Very common (>10% frequency) side effects include:
+Akinesia
+Dizziness
+Somnolence
+Hyperhidrosis
+Nocturia
+Speech disorder
+Dry mouth
+Constipation
+It is contraindicated in individuals with either acquired, congenital or a family history of QT interval prolongation. Its use is advised against in individuals with people with either a personal or a family history of arrhythmias or torsades de pointes. Likewise its use is also advised against in individuals with uncorrected hypokalaemia and hypomagnesaemia or clinical significant cardiac disorders (e.g. a recent myocardial infarction or bradycardia. It is also contraindicated in individuals being cotreated with SSRIs or in those with a known hypersensitivity to pimozide or other diphenylbutyl-piperidine derivatives. Likewise its use is contraindicated in individuals receiving treatment with CYP3A4, CYP1A2, or CYP2D6 inhibitors.
+Pimozide overdose presents with severe extrapyramidal symptoms, hypotension, sedation, QT interval prolongation and ventricular arrhythmias including torsades de pointes. Gastric lavage, establishment of a patent airway and, if necessary, mechanically assisted respiration is the recommended treatment for pimozide overdose. Cardiac monitoring should be continued for at least 4 days due to the long half-life of pimozide.
+Pimozide acts as an antagonist of the D2, D3, and D4 receptors and the 5-HT7 receptor. It is also a hERG blocker.
+Similarly to other typical antipsychotics pimozide has a high affinity for the Dopamine D2 receptor and this likely results in its sexual (due to prolactin hypersecretion) and extrapyramidal side effects as well as its therapeutic efficacy against the positive symptoms of schizophrenia.
+In 1985 the orphan drug pimozide (Orap) was approved by the U.S. Food and Drug Administration (FDA or USFDA) for marketing in the U.S. for the treatment of Tourette's syndrome (TS) — one of a number of rare diseases — which also included Huntington's Disease, myoclonus, ALS, and muscular dystrophy — in the United States Orphan Drug Act of 1983, a law enacted to facilitate development of orphan drugs for conditions which affect small numbers of individuals residing in the United States.
+Amisulpride
+Pipamperone

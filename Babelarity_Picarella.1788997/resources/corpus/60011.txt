@@ -1,0 +1,12 @@
+An aldose, like a ketose, is a monosaccharide (a simple sugar) that contains only one aldehyde (−CH=O) group per molecule, whereas ketose contains a ketone group. The chemical formula takes the form Cn(H2O)n. The simplest possible aldose is the diose glycolaldehyde, which only contains two carbon atoms.
+Because they have at least one asymmetric carbon center, aldoses with three or more carbon atoms exhibit stereoisomerism. Aldoses containing stereogenic centers can exist in either a D- form or L- form. The determination is made based on the chirality of the penultimate carbon (the second-furthest from the aldehyde), where alcohol groups on the right of the Fischer projection result in D-aldoses, and epimers with alcohols on the left result in L-aldoses. Biological systems tend to recognize D-aldoses more than L-aldoses.
+Examples of aldose include glycolaldehyde, glyceraldehyde, erythrose, threose, ribose, arabinose, xylose, lyxose, allose, altrose, glucose, mannose, gulose, idose, talose, and galactose.  All of these examples contain one group of aldehyde. They only differ in numbers of carbons in carbon skeleton. All of these complex sugars serve an important role in biochemistry.
+An aldose differs from a ketose in that it has a carbonyl group at the end of the carbon chain instead of in the middle. This allows ketoses and aldoses to be chemically differentiated through Seliwanoff's test. In Seliwanoff's test, aldoses tend to react in a slow pace, and produce a light pink color, while ketoses react with resorcinol to produce a dark red color. With different color of production, aldoses can be differentiate from the ketoses. An aldose may isomerize to a ketose through the Lobry-de Bruyn-van Ekenstein transformation. Aldose and ketose, although differ in structures, also perform in different roles. Aldoses tend to isomerise into ketoses.
+Diose: glycolaldehyde
+Triose: glyceraldehyde
+Tetroses: erythrose, threose
+Pentoses: ribose, arabinose, xylose, lyxose
+Hexoses: allose, altrose, glucose, mannose, gulose, idose, galactose, talose
+Monosaccharide
+D/L nomenclature
+Epimer

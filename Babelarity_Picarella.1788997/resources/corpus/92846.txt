@@ -1,0 +1,44 @@
+The blesmols, also known as mole-rats, or African mole-rats, are burrowing rodents of the family Bathyergidae. They represent a distinct evolution of a subterranean life among rodents much like the pocket gophers of North America, the tuco-tucos in South America, or the Spalacidae.
+Modern blesmols are found strictly in sub-Saharan Africa. Fossil forms are also restricted almost exclusively to Africa, although a few specimens of the Pleistocene species Cryptomys asiaticus have been found in Israel. Nowak (1999) also reports that †Gypsorhynchus has been found in fossil deposits of Mongolia.
+Blesmols are somewhat mole-like animals with cylindrical bodies and short limbs. They range from 9 to 30 cm (3.5 to 11.8 in) in length, and from 30 to 1,800 g (1.1 to 63.5 oz) in weight, depending on the species. Blesmols, like many other fossorial mammals, have greatly reduced eyes and ear pinnae, a relatively short tail, loose skin, and (aside from the hairless naked mole rat) velvety fur. Blesmols have very poor vision, although they may use the surfaces of their eyes for sensing air currents. Despite their small or absent pinnae, they have a good sense of hearing, although their most important sense appears to be that of touch. Like other rodents, they have an excellent sense of smell, and they are also able to close their nostrils during digging to prevent them from clogging with dirt.
+The eyes of blesmols are structurally normal, despite their relatively small size, and include normal light-sensitive cells. However, the visual centres of their brains are reduced in certain respects, especially in those centres concerned with localising objects in the visual field. Research has shown that at least two species of blesmol (Fukomys mechowii and Heliophobius argenteocinereus) are not blind, as commonly believed, and will actively avoid blue or green-yellow light. They do not appear able to detect the presence of red light, and can probably not distinguish between different colours. The ability to sense the presence of light is probably useful in allowing them to detect breaches in their tunnel systems and repair them promptly.
+Most blesmol species dig using their powerful incisors and, to a lesser extent, the foreclaws, although dune blesmols dig primarily with their feet, restricting them to soft, sandy soil. Dune blesmols aside, some species have been reported to be able to extend their burrows by an inch (2.5 cm (0.98 in)) into the walls of concrete enclosures. Their unique skull shape is associated with delivering sheer power to the lateral masseter muscle which is responsible for the powerful bite of the anterior portion of the mouth. The incisors of blesmols are projected forward and protrude from the mouth even when the mouth is closed. This condition allows the animals to burrow with their teeth without getting dirt in their mouths. The number of cheek teeth varies greatly between species, an unusual feature among rodents, so that the dental formula for the family is:
+The skull morphology of blesmols sets them apart from all other rodents. As with all members of their suborder, their jaws are hystricognathous, but, unlike their relatives, they have a highly reduced infraorbital foramen. The medial masseter muscle shows only minimal passage through the infraorbital foramen leading most authorities to consider them protrogomorphous. They are therefore the only protrogomorphous hystricognaths.
+Blesmols live in elaborate burrow systems and different species exhibit varying degrees of sociality. Most species are solitary, but two species, the damaraland blesmol (Fukomys damarensis) and the naked mole-rat (Heterocephalus glaber) are considered to be the only two eusocial mammals. These species are characterized by having a single reproductively active male and female in a colony where the remaining animals are sterile.
+These animals prefer loose, sandy soils and are often associated with arid habitats. They rarely come to the surface, spending their entire life underground. Blesmols are herbivorous, and primarily eat roots, tubers, and bulbs. They are even able to pull smaller plants underground by their roots, without having to leave their burrows, enabling them to eat leaves, stems, and other parts of the plant that would otherwise be inaccessible. Blesmols burrow in search of food, and the great majority of their tunnel complex consists of these foraging burrows, surrounding a smaller number of storage areas, nests, and latrine chambers.
+Most species breed only once or twice during the year, although some breed all year round. They generally have small litters of two to five young, perhaps because their environment is sufficiently safe that they do not need to rapidly replace their population as many other rodents do. However, some species have much larger litters, averaging twelve young in the naked mole rat, and sometimes much larger.
+The Bathyergidae are monophyletic, with all taxa tracing back to a single common ancestor. Although there is some controversy, the closest living relatives of the blesmols appear to be other African hystricognaths in the families Thryonomyidae (cane rats) and Petromuridae (dassie rats). Together these three living families along with their fossil relatives represent the infraorder Phiomorpha.
+At present 22 species of blesmols from 6 genera are accepted, but this number is likely to increase. Like other fossorial rodents such as pocket gophers, tuco-tucos, and blind mole rats, blesmols appear to speciate rapidly. They become geographically isolated easily, leading to various chromosomal forms and genetically distinct races. Some studies have suggested that the genus Bathyergus represents the basal-most lineage, but most researchers accept that Heterocephalus holds that position, and more recent investigation suggests that that genus is sufficiently divergent that it should be placed in a new, separate family, Heterocephalidae.
+Family Bathyergidae
+Subfamily Bathyerginae
+Georychus - Cape Blesmol
+Georychus capensis - Cape mole-rat
+Cryptomys
+Cryptomys anomalus - no common name
+Cryptomys holosericeus - no common name
+Cryptomys hottentotus - Common mole-rat
+Cryptomys natalensis - no common name
+Cryptomys nimrodi - Matabeleland mole-rat
+Fukomys
+Fukomys amatus - Zambian mole-rat
+Fukomys anselli - Ansell's mole-rat
+Fukomys bocagei - Bocage's mole-rat
+Fukomys damarensis - Damaraland mole-rat
+Fukomys darlingi - Mashona mole-rat
+Fukomys foxi - Nigerian mole-rat
+Fukomys ilariae - Somali striped mole-rat
+Fukomys kafuensis - Kafue mole-rat
+Fukomys mechowii - Mechow's mole-rat
+Fukomys micklemi - Kataba mole-rat
+Fukomys occlusus - no common name
+Fukomys ochraceocinereus - Ochre mole-rat
+Fukomys whytei - Malawian mole-rat
+Fukomys zechi - Ghana mole-rat
+Heliophobius - Silvery mole-rat
+Heliophobius argenteocinereus - Silvery mole-rat
+Bathyergus - Dune blesmols
+Bathyergus janetta - Namaqua dune mole-rat
+Bathyergus suillus - Cape dune mole-rat
+Subfamily Heterocephalinae - Naked mole-rat
+Heterocephalus - Naked mole-rat
+Heterocephalus glaber - Naked mole-rat

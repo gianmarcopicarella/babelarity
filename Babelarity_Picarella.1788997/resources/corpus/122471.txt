@@ -1,0 +1,6 @@
+や, in hiragana, or ヤ in katakana, is one of the Japanese kana, each of which represents one mora. Hiragana is written in three strokes, while the katakana is written in two. Both represent [ja]. Their shapes have origins in the character 也.
+When small and preceded by an -i kana, this kana represents not a separate sound but a modification of that of another (see yōon).
+や can be used by itself as a grammatical particle to connect words in a nonexhaustive list (see Japanese particles#ya).
+Computer encodings
+Braille
+Japanese semaphore

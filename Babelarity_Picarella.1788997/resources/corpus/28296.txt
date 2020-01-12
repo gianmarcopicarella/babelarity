@@ -1,0 +1,99 @@
+The Bristol F.2 Fighter was a British two-seat biplane fighter and reconnaissance aircraft of the First World War developed by the Bristol Aeroplane Company. It is often simply called the Bristol Fighter or popularly the "Brisfit" or "Biff". Despite being a two-seater, the F.2B proved to be an agile aircraft that was able to hold its own against opposing single-seat fighters. Having overcome a disastrous start to its career, the F.2B's robust design ensured that it remained in military service into the 1930s, and surplus aircraft were popular in civil aviation.
+The aircraft's design came about as a result of Frank Barnwell's brief experience as a front-line pilot with the Royal Flying Corps. In March 1916 he started work on aircraft intended, like the R.E.8 and the F.K.8, as possible replacements for the B.E.2c. Barnwell's first proposal used the 120 hp Beardmore engine, and was designated the Type 9 R.2A. This was considered to be underpowered, so a second design, the Type 9A R.2B powered by the 150 hp Hispano Suiza, was proposed.
+Neither type was built, as the new 190 hp (142 kW) Rolls-Royce Falcon inline engine became available, and Barnwell designed a new aircraft around it, intended to be a replacement for the F.E.2d and Sopwith 1½ Strutter two-seat fighters. This, the Type 12 F.2A was a two-bay equal-span biplane, closely resembling the R.2A but slightly smaller. Like the previous designs, the fuselage was mounted between the wings, with a gap between the lower longerons and the wing, and the fuselage terminated in a horizontal knife-edge, with a substantial part of the vertical tail surfaces below the fuselage. These features were intended to optimize the field of fire for the observer; the positioning of the fuselage also resulted in the upper wing obscuring less of the pilot's field of view. Work was started on two prototypes in July 1916; on 28 August a contract was awarded for 50 production aircraft, and the first prototype flew on 9 September 1916. The F.2A was armed in what had by then become the standard manner for a British two-seater: one synchronised fixed, forward-firing .303 in (7.7 mm) Vickers machine gun, and one flexible .303 in (7.7 mm) Lewis Gun mounted on a Scarff ring in the observer's rear cockpit.
+Only 52 F.2As were produced before production switched to what became the definitive Bristol Fighter, the Bristol Type 14 F.2B which had first flown on 25 October 1916. The first 150 or so were powered by the Falcon I or Falcon II engine but the remainder were equipped with the 275 hp (205 kW) Falcon III engine and could reach a maximum speed of 123 mph (198 km/h). The F.2B was over 10 mph (16 km/h) faster than the F.2A and was three minutes faster at reaching 10,000 ft (3,000 m).
+F.2Bs often carried a second Lewis gun on the rear cockpit mounting, although observers found the weight of the twin Lewis gun mounting difficult to handle in the high altitudes at which combat increasingly took place in the last year of the war. A number of attempts were made to add forward firing Lewis guns on a Foster mounting or similar on the upper wing - either instead of, or in addition to the Vickers gun. Unfortunately this caused interference with the pilot's compass, which was mounted on the trailing edge of the upper wing. Some F.2Bs were fitted with a Lewis gun offset to starboard to minimise this effect.
+The Bristol M.R.1 is often described as an "all-metal version of the F.2b". In fact it was a totally new design – although it shared the characteristic of having the fuselage positioned between the upper and lower wing. Two prototypes were built, the first flying on 23 October 1917, but the M.R.1 never entered mass production.
+Rolls-Royce aero engines of all types were in chronic short supply at this time, and the Falcon was no exception. This frustrated plans to make the Bristol Fighter the standard British two-seater, replacing the R.E.8 and F.K.8; there simply were not enough Falcons available. Efforts to find an available powerplant that was sufficiently powerful and reliable failed.
+The Type 15 was fitted with a 200 hp (150 kW) Sunbeam Arab piston engine. This suffered from chronic vibration and the "Arab Bristol" was never a viable combination, in spite of prolonged development. A few Arab-engined Bristols were at the front very late in the war, but most British reconnaissance squadrons had to soldier on with the R.E.8 and F.K.8 until the end of hostilities.
+The Type 16 was fitted with a 200 hp (150 kW) Hispano-Suiza engine. This worked better than the Arab, but the Hispano-Suiza's availability was no better than of the Falcon, and those that were available were required for the S.E.5a and Sopwith Dolphin. The 300 hp (220 kW) version of the Hispano-Suiza, suggested for the Type 17, was not available in quantity before the end of the war.
+Other engines tried or suggested for the F.2B were the 200 hp (150 kW) RAF 4d, the 180 hp (130 kW) Wolseley Viper and the 230 hp (170 kW) Siddeley Puma.
+The Type 22 was a proposed version adapted for a radial or rotary engine; either a 200 hp (150 kW) Salmson radial, a 300 hp (220 kW) ABC Dragonfly radial (Type 22A), or a 230 hp (170 kW) Bentley B.R.2 rotary (Type 22B). The type number was eventually used for the Bristol F.2C Badger, a totally new design.
+The United States Army Engineering Division had plans to develop and build an American version of the Bristol Fighter. However, efforts to start production in the United States floundered due to the mistaken decision to power the type with the 400 hp (298 kW) Liberty L-12 engine. The Liberty was a totally unsuitable engine for the Bristol, as it was far too heavy and bulky, the resulting aircraft being nose heavy, and only 27 of the planned 2,000 were built. Efforts to change the powerplant of American Bristol Fighters to the more suitable Liberty 8 or the 300 hp (224 kW) Wright-Hisso came up against political as well as technical problems. Only one each of the Hispano-engined Engineering Division USB-1A and the Liberty L-8-engined Engineering Division USB-1B were built.
+When fitted with a new plywood monocoque fuselage designed by the Engineering Division of the US Army Air Service and powered by a Wright-Hispano engine, the US-built Bristol Fighter was known as the XB-1A. Three prototypes were built by the Engineering division at McCook Field, with a further 44 aircraft built by the Dayton-Wright Company.
+Postwar developments of the F.2B included the Type 14 F.2B Mk II, a two-seat army co-operation biplane, fitted with desert equipment and a tropical cooling system, which first flew in December 1919. 435 were built. The Type 96 Fighter Mk III and Type 96A Fighter Mk VI were structurally strengthened aircraft, of which 50 were built in 1926–1927.
+Surplus F.2Bs were modified for civilian use. The Bristol Tourer was an F.2B fitted with a Siddeley Puma engine in place of the Falcon and with the cockpits enclosed by canopies. The Tourer had a maximum speed of 128 mph (206 km/h).
+The arrival of the F.2A on the Western Front was deliberately timed for April 1917, as the British launched the Battle of Arras. In the event, this month became known as Bloody April: casualties were high throughout the RFC, and initially the Bristol fighter was no exception. At this period, contemporary two-seater aircraft were far less nimble than fighter aircraft, and many types lacked the structural strength to carry out the aggressive manoeuvres needed for dogfighting. The first "Brisfit" aircrews were accustomed to the standard doctrine of maintaining formation and using the crossfire of the observers' guns to counter enemy fighter aircraft.
+The very first F.2A patrol of six aircraft from No. 48 Squadron RFC, led by Victoria Cross recipient William Leefe Robinson, ran into five Albatros D.IIIs from Jasta 11 led by Manfred von Richthofen. Four out of the six F.2As were shot down – including Robinson's; he was captured – and a fifth was badly damaged.
+Pilots soon realised that the Bristol Fighter was a strong and agile aircraft, capable of manoeuvring with single-seat fighters. If its fixed forward-firing gun was used as the primary weapon, the observer could use his flexible, rear mounted gun to provide protection for the aircraft's tail. Flown in this manner, the Bristol Fighter proved a formidable opponent for German fighters.
+In September and October 1917, orders for 1,600 F.2Bs were placed, and by the end of the First World War the Royal Air Force had 1,583 F.2Bs in squadron service. A total of 5,329 aircraft were eventually built, mostly by Bristol but also by Standard Motors, Armstrong Whitworth and even the Cunard Steamship Company. After the war, F.2Bs continued to operate in army cooperation and light bombing roles throughout the British Empire, in particular the Middle East, India and China. The F.2B also served with the New Zealand Permanent Air Force and RAAF as well as with the air forces of Belgium, Canada, Ireland, Greece, Mexico, Norway, Peru, Spain and Sweden. It was not until 1932 that the F.2B was finally withdrawn from RAF service, the last "Brisfit" unit being No. 20 Squadron RAF stationed in India. The type lasted a further three years in New Zealand.
+In 1920 Poland bought 107 Bristol Fighters, thus becoming the second largest user of this type (105 with Hispano-Suiza 300 hp/220 kW engines, two with RR Falcon III). It was the most numerous Polish aircraft type at that time. Forty were used during the Polish-Soviet war from July 1920, among others in the Battle of Warsaw, for reconnaissance and close air support. The rest became operational only after hostilities. Two were shot down by ground fire, one was captured by the Soviets and several were lost in crashes. The survivors served in Poland for reconnaissance and training until 1932.
+ Afghanistan
+Afghan Air Force operated three aircraft from 1919 and retired them by 1929.
+ Argentina
+Argentine Air Force
+ Australia
+Australian Flying Corps operated the Bristol Fighter from 1917 to 1918.
+No. 1 Squadron in Palestine
+No. 6 (Training) Squadron in the United Kingdom
+ Belgium
+Belgian Air Force
+ Bolivia
+Bolivian Air Force
+ Canada
+Canadian Air Board
+Royal Canadian Air Force
+ Honduras
+Honduran Air Force
+ Ireland
+Irish Air Service
+Irish Air Corps
+ Greece
+Hellenic Air Force
+Hellenic Navy
+ Mexico
+Mexican Air Force
+ New Zealand
+New Zealand Permanent Air Force operated seven Bristol F.2B Fighters from 1919 to 1936. During its 16 years of service with the NZPAF, it was used as an Army Co-operation, aerial-survey and advanced training aircraft.
+ Norway
+Norwegian Army Air Service purchased five aircraft in 1922.
+ Peru
+Peruvian Air Force
+ Poland
+Polish Air Force operated 107 Bristol F.2B Fighters in 1920–1932.
+ Soviet Union
+Soviet Air Force - Two aircraft.
+ Kingdom of Spain
+Aeronáutica Militar
+ Sweden
+Royal Swedish Air Force – One aircraft only
+ Kingdom of Yugoslavia
+Royal Yugoslav Air Force – One aircraft only.
+ United Kingdom
+Royal Flying Corps / Royal Air Force
+Airworthy- There are three airworthy Bristol Fighters in 2007, (and several replicas):
+The Shuttleworth Collection contains one airworthy F.2B Fighter, identity D8096, that still flies during the English summer.
+The Canada Aviation and Space Museum, in Rockcliffe, Ontario, owns a second example, D-7889.
+The New Zealand film director Peter Jackson owns D-8084, which flies from the Hood Aerodrome, In Masterton, New Zealand. The Aviation Heritage Centre, In Omaka, N.Z., holds a second, original fuselage.
+On Static Display-
+Substantially original aircraft are on static display at the:
+Royal Air Force Museum London
+Imperial War Museum Duxford
+Museo del Aire, Madrid
+Ross Walton Family private collection, Bardstown, Kentucky, USA
+Musée Royal de l'Armée, Brussels
+Polish Aviation Museum, Kraków.
+Engineers at Rolls-Royce, Airbus and GKN Aerospace-Filton have also built a full-scale replica F.2B in celebration of 100 years of aircraft manufacture at Filton Bristol, where the original fighters were designed and built.
+Data from
+General characteristics
+Crew: 2 (pilot & observer/gunner)
+Length: 25 ft 10 in (7.87 m)
+Wingspan: 39 ft 3 in (11.96 m)
+Height: 9 ft 9 in (2.97 m)
+Wing area: 405 ft² (37.62 m²)
+Empty weight: 2,145 lb (975 kg)
+Max. takeoff weight: 3,243 lb (1,474 kg)
+Powerplant: 1 × Rolls-Royce Falcon III liquid-cooled V12 engine, 275 hp (205 kW)
+Performance
+Maximum speed: 123 mph (107 kn, 198 km/h) at 5,000 ft (1,500 m)
+Range: 369 mi (320 nmi, 593 km)
+Service ceiling: 18,000 ft (5,500 m)
+Rate of climb: 889 ft/min (4.5 m/s)
+Armament
+Guns:1× .303 in (7.7 mm) forward-firing Vickers machine gun in the upper fuselage
+1 or 2× .303 in Lewis Guns in the observer's cockpit
+Bombs: 240 lb (110 kg)
+Related development
+Bristol M.R.1
+Bristol Tourer
+AME VI

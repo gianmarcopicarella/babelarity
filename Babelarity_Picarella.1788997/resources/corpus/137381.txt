@@ -1,0 +1,31 @@
+Chondrosarcoma is a cancer composed of cells derived from transformed cells that produce cartilage. Chondrosarcoma is a member of a category of tumors of bone and soft tissue known as sarcomas. About 30% of skeletal system cancers are chondrosarcomas. It is resistant to chemotherapy and radiotherapy. Unlike other primary bone cancers that mainly affect children and adolescents, chondrosarcoma can present at any age. It more often affects the axial skeleton than the appendicular skeleton.
+Physicians grade chondrosarcoma using several criteria, but particularly on how abnormal the cancerous cells appear under the microscope, and the growth rate of the tumors themselves, both of which are directly linked to the propensity of the cancer to invade locally, and to spread widely to distant organs and sites in the body (called metastasis).
+Grade 1 chondrosarcoma grows relatively slowly, has cells whose histological appearance is quite similar to cells of normal cartilage, and have much less aggressive invasive and metastatic properties. Grades 2 and 3 are increasingly faster-growing cancers, with more varied and abnormal-looking cells, and are much more likely to infiltrate surrounding tissues, lymph nodes, and organs. Some, but not all, authorities and medical facilities assign a "Grade 4" to the most anaplastic, undifferentiated cartilage-derived tumors.
+The most common sites for chondrosarcoma to grow are the pelvis and shoulder, along with the superior metaphysial and diaphysial regions of the arms and legs. However, chondrosarcoma may occur in any bone, and are sometimes found in the skull, particularly at its base.
+ICD-O codes provide a more precise classification of chondrosarcoma. These "subtypes" are derived from, and reflect, both (a) the topographical location of the tumor, (b) the histological characteristics of the cancerous cartilage cells, and (c) the makeup of the surrounding matrix material associated with the tumor:
+9220 = Chondrosarcoma NOS ("Not Otherwise Specified")
+9221 = Juxtacortical chondrosarcoma
+9231 = Myxoid chondrosarcoma
+9240 = Mesenchymal chondrosarcoma
+9242 = Clear cell chondrosarcoma
+9243 = Dedifferentiated chondrosarcoma
+Back or thigh pain
+Sciatica
+Bladder Symptoms
+Unilateral edema
+Imaging studies - including radiographs ("x-rays"), computerized tomography (CT), and magnetic resonance imaging (MRI) - are often used to make a presumptive diagnosis of chondrosarcoma. However, a definitive diagnosis depends on the identification of malignant cancer cells producing cartilage in a biopsy specimen that has been examined by a pathologist. In a few cases, usually of highly anaplastic tumors, immunohistochemistry (IHC)is required.
+There are no blood tests currently available to enable an oncologist to render a diagnosis of chondrosarcoma. The most characteristic imaging findings are usually obtained with CT.
+Nearly all chondrosarcoma patients appear to be in good health. Often, patients are not aware of the growing tumor until there is a noticeable lump or pain. Earlier diagnosis is generally accidental, when a patient undergoes testing for another problem and physicians discover the cancer. Occasionally the first symptom will be a broken bone at the cancerous site. Any broken bone that occurs from mild trauma warrants further investigation, although there are many conditions that can lead to weak bones, and this form of cancer is not a common cause of such breaks.
+The cause is unknown. Patients may have a history of enchondroma or osteochondroma. A small minority of secondary chondrosarcomas occur in patients with Maffucci syndrome and Ollier disease.
+It has been associated with faulty isocitrate dehydrogenase 1 and 2 enzymes, which are also associated with gliomas and leukemias.
+Treatment depends on the location of the disease and the aggressiveness of the tumors. Because chondrosarcomas are rare, they are treated at specialist hospitals with Sarcoma Centers.
+Surgery is the main form of treatment for chondrosarcoma. Musculoskeletal tumor specialists or orthopedic oncologists are usually chosen to treat chondrosarcoma, unless it is located in the skull, spine, or chest cavity, in which case, a neurosurgeon or thoracic surgeon experienced with sarcomas is chosen. Often, a limb-sparing operation can be performed, however in some cases amputation is unavoidable. Amputation of the arm, leg, jaw, or half of the pelvis (called a hemipelvectomy) may be necessary in some cases.
+There are two kinds of hemipelvectomy (internal and external)
+External hemipelvectomy - is removal of that half of the pelvis with the amputation of the leg. It is also called the hindquarter amputation.
+Internal hemipelvectomy - is removal of that half of the pelvis, but the leg is left intact.
+Amputation at the hip is called hip disarticulation and amputees who have had this amputation are also called hip disartics.
+Chemotherapy or traditional radiotherapy are not very effective for most chondrosarcomas, although proton therapy is showing promise with local tumor control at over 80%.
+Complete surgical ablation is the most effective treatment, but sometimes this is difficult. Proton therapy radiation can be useful in awkward locations to make surgery more effective.
+Recent studies have shown that induction of apoptosis in high-grade chondrosarcoma, both directly and by enhancement of response to chemotherapy and radiation, is a valid therapeutic strategy.
+Prognosis depends on how early the cancer is discovered and treated. For the least aggressive grade, about 90% of patients survive more than five years after diagnosis. People usually have a good survival rate at the low grade volume of cancer. For the most aggressive grade, only 10% of patients will survive one year.
+Tumors may recur in the future. Follow up scans are extremely important for chondrosarcoma to make sure there has been no recurrence or metastasis, which usually occurs in the lungs.

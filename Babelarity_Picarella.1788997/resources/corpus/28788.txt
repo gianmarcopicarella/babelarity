@@ -1,0 +1,116 @@
+The Nakajima Ki-43 Hayabusa (隼, "Peregrine Falcon") was a single-engine land-based tactical fighter used by the Imperial Japanese Army Air Force in World War II. The Army designation was "Army Type 1 Fighter" (一式戦闘機); the Allied reporting name was "Oscar", but it was often called the "Army Zero" by American pilots because its certain resemblance to the Mitsubishi A6M Zero, the Imperial Japanese Navy's counterpart to the Ki-43. Both aircraft had generally similar layout and lines, and also used essentially the same Nakajima Sakae radial engine, with similar round cowlings and bubble-type canopies (the Oscar's being distinctly smaller and having much less framing than the A6M). While relatively easy for a trained eye to tell apart with the "finer" lines of the Ki-43's fuselage — especially towards the tail — and more tapered wing planform, in the heat of battle, and given the brief glimpses and distraction of combat, Allied aviators frequently mistakenly reported having fought "Zeros" in areas where there were no Navy fighters.
+Like the Mitsubishi-produced A6M Zero, the radial-engined Ki-43 was light and easy to fly and became legendary for its combat performance in East Asia in the early years of the war. It could outmaneuver any opponent, but did not have armor or self-sealing tanks, and its armament was poor until its final version, which was produced as late as 1945. Allied pilots often reported that the nimble Ki-43s were difficult targets but burned easily or broke apart with few hits. In spite of its drawbacks, the Ki-43 shot down more Allied aircraft than any other Japanese fighter and almost all the JAAF's aces achieved most of their kills in it.
+Total production amounted to 5,919 aircraft. Many of these were used during the last months of the war for kamikaze missions against the American fleet.
+The Ki-43 was designed by Hideo Itokawa, who would later become famous as a pioneer of Japanese rocketry. The Ki-43 prototype was produced in response to a December 1937 specification for a successor to the popular fixed-gear Nakajima Ki-27 Nate. The specification called for a top speed of 500 km/h (311 mph), a climb rate of 5,000 m (16,400 ft) in five minutes and a range of 800 km (500 mi). Maneuverability was to be at least as good as that of Ki-27.
+When first flown in early January 1939, the Ki-43 prototype was a disappointment. Japanese test pilots complained that it was less maneuverable than the Ki-27 Nate and not much faster. In order to solve these problems, Nakajima produced a series of progressively modified prototypes through 1939 and 1940. These changes involved a major weight saving program, a slimmer fuselage with the tail surfaces moved further aft and a new canopy. Crucially, the 11th prototype introduced the unique differential "butterfly" (or Fowler-type) maneuvering flaps, which dramatically improved performance in tight turns. The 13th prototype combined all these changes, and tests of this aircraft resulted in an instruction for Nakajima to place the Ki-43 into production, the Ki-27 jigs being transferred to the Mansyu factory at Harbin in Japanese occupied Manchukuo.
+The Ki-43 (Oscar) was initially produced in November 1939, given the designation Ki-43-I. Deliveries from Nakajima's Ota factory commenced in February 1941. In addition to outstanding maneuverability, the Ki-43-I had an impressive rate of climb due to its light weight. Power was provided by the Nakajima Ha-25 engine turning a two-bladed, two-position variable-pitch metal propeller. Top speed was 495 km/h (308 mph) at 4,000 m (13,160 ft). The Ki-43 was equipped with two synchronized cowling machine guns in various configurations, with either two 7.7 mm (.303 in) Type 89 machine guns, one 12.7 mm (.50 in) Ho-103 machine gun and one 7.7 mm (.303 in) gun, or two 12.7 mm (.50 in) Ho-103 guns; the aircraft was given various sub-designations to reflect these differences. The configuration that appears to have been most prevalent at the outset of the war was the first configuration with two 7.7 mm (.303 in) Type 89 machine guns, while as the war progressed the heavier combinations gained popularity and the version with the heaviest armament was sometimes given the designation Ki-43-Ic. The Ho-103 was often loaded with explosive ammunition to increase target effect; its penetrative effect against later Allied aircraft armor appears to have been marginal.
+Prototypes for the Ki-43-II flew in February 1942. The Ha-25 engine was upgraded with the 2-stage supercharger, thus becoming the more powerful Nakajima Ha-115 engine, which was installed in a longer-chord cowling. The new engine turned a three-bladed propeller. The wing structure, which had suffered failures in the Ki-43-I, was strengthened and equipped with racks for drop tanks or bombs. The Ki-43-II was also fitted with 13 mm armor plate for the pilot's head and back, and the aircraft's fuel tanks were coated in rubber to form a crude self-sealing tank. This was later replaced by 3-layer rubber bladder, 8mm core with 2mm oil-proof lamination. The bladder has proven to be highly resistant against 7.7mm bullets, but was not much effective against larger calibers. The pilot also enjoyed a slightly taller canopy and a reflector gunsight in place of the earlier telescopic gunsight. Nakajima commenced production of the Ki-43-II at its Ota factory in November 1942. Production was also started at the Tachikawa Hikoki KK and the 1st Army Air Arsenal (Tachikawa Dai-Ichi Rikugun Kokusho), also at Tachikawa. Although Tachikawa Hikoki successfully managed to enter into large-scale production of the Ki-43, the 1st Army Air Arsenal was less successful - hampered by a shortage of skilled workers, it was ordered to stop production after 49 Ki-43s were built. Nakajima eventually ceased production in mid-1944 in favor of the Ki-84, but the Tachikawa Hikoki continued to produce the Ki-43.
+Tachikawa also produced the Ki-43-III, which utilized the more powerful Nakajima Army Type 1 Ha-115-II engine. Maximum speed increased to 358 mph. Tachikawa produced 2124 Ki-43-II and -III aircraft between April 1944 and the end of the war. Total production of all versions amounted to 5,919 aircraft.
+The Ki-43 was the most widely used Army fighter, and equipped 30th sentai FR,(flight regiment) and 12th chutais IS,(independent squadrons). The first unit equipped with the Ki 43-I was the 59th FR at Hankow Airfield, during June–August 1941. Operational sorties over Hengyang on 29. October 1941. The second unit to re-equip with the new Aircraft was the 64th FR, from August to November 1941.
+The first version, Ki-43-I, entered service in 1941, the Ki-43-II in December 1942, the Ki-43-II-Kai in June 1943, and the Ki-43-IIIa in summer 1944. The aircraft fought in China, Burma, the Malay Peninsula, New Guinea, the Philippines, South Pacific islands and the Japanese home islands.
+Like the Zero, the Ki-43 initially enjoyed air superiority in the skies of Malaya, Netherlands East Indies, Burma and New Guinea. This was partly due to the better performance of the Oscar and partly due to the relatively small numbers of combat-ready Allied fighters, mostly the Curtiss P-36 Hawk, Curtiss P-40, Brewster Buffalo, Hawker Hurricane and Curtiss-Wright CW-21 in Asia and the Pacific during the first months of the war. As the war progressed, however, the fighter suffered from the same weaknesses as the Ki-27 "Nate" and the A6M Zero; light armor and less-than-effective self-sealing fuel tanks, which caused high casualties in combat. Its armament of two machine guns also proved inadequate against the more heavily armored Allied aircraft. As newer Allied aircraft were introduced, such as the Republic P-47 Thunderbolt, Lockheed P-38 Lightning, North American P-51 Mustang, Vought F4U Corsair, Grumman F6F Hellcat and late-model Supermarine Spitfire/Seafire, the Japanese were forced into a defensive war and most aircraft were flown by inexperienced pilots. However, even near the end, the Oscar's excellent maneuverability could still gain advantage over rash Allied pilots. From October to December 1944, 17 Ki-43s were shot down in air combat; their pilots claimed seven C-47s, five B-24 Liberators, two Spitfires, two Beaufighters, two Mosquitoes, two F4U Corsairs, two B-29 Superfortresses, one F6F Hellcat, one P-38, and one B-25. Like most Japanese combat types, many Hayabusas were at the end expended in kamikaze raids.
+The Ki-43 also served in an air defense role over Formosa, Okinawa and the Japanese home islands. Some examples were supplied to the pro-Japanese regimes of Thailand, Manchukuo and Wang Jingwei Government as well. The Thai units sometimes fought against the USAAF in southern China.
+Hayabusas were well liked in the JAAF because of the pleasant flight characteristics and excellent maneuverability, and almost all JAAF fighter aces claimed victories with Hayabusa in some part of their career. At the end of the war, most Hayabusa units received Ki-84 Hayate "Frank" fighters, but some units flew the Hayabusa to the end of the war. The top-scoring Hayabusa pilot was Sergeant Satoshi Anabuki with 39 confirmed victories, almost all scored with the Ki-43.
+After the war, some captured examples served in limited numbers in the French Air Force in Indochina against Viet Minh rebels.
+Ki-43
+Prototypes and operative prototypes.
+Ki-43-I "Ko" (Mark 1a)
+Variant armed with 2 × 7.7 mm (.303 in) Type 89 machine guns
+Hayabusa Fighter Type 1 of Army (Mark 1).
+Ki-43-I "Otsu" (Mark 1b)
+Variant armed with one 12.7 mm (.50 in) Ho-103 machine gun and 1 × 7.7 mm (.303 in) Type 89.
+Ki-43-I "Hei" (Mark 1c)
+Variant armed with 2 × 12.7 mm (.50 in) Ho-103, plus 2x30 kg bombs under wings. All earlier Ki-43-Ia "Ko" and Ki-43-Ib "Otsu" were gradually upgraded to this version as more Ho-103 have become available.
+Ki-43-II
+Prototypes and evaluative models. Introduce Ha-115 engine, self-sealing fuel tanks, shorter and stronger wings, reflex sight, improved canopy.
+Ki-43-II "Ko" (Mark 2a)
+Ability to carry up to 2x250 kg (1,100 lb) of bombs
+Ki-43-II "Ko" upgraded
+Improved oil radiator, landing light, 12 mm armoured back of pilot seat.
+Ki-43-IIb "Otsu" (Mark 2b)
+Radio equipment, armoured back of pilot seat and pilot restraints were added. Later production aircraft were capable to carry a drop tanks.
+Ki-43-II-KAI (Mark 2 improved)
+Fitted with ejector exhaust stacks (adding approximately 30 hp) and additional 151 liters fuel tank in fuselage.
+Ki-43-III
+Prototypes powered by Nakajima Ha-115-II engine of 920 kW (1,230 hp)
+2 × 170 L (45 gal) drop tanks (~3 hour full-throttle endurance)
+Ki-43-III "Ko" (Mark 3a)
+Series model, some fitted with skis for operations from snow
+Ki-43-III "Otsu" (Mark 3b)
+Variant with engine Ha-112-II and armed with 20 mm cannons Ho-5. (Prototype - Only 2 Built)
+Ki-62 Project
+Advanced interceptor version of Nakajima Ki-43 with a powerful engine and armed with 30 mm (1.18 in) or 40 mm (1.57 in) cannons.
+Not included:
+Ki-43-I's pre-production started with three prototypes completed in December 1938, as well as in February and March 1940. A further ten service trials aircraft were built from Nov. 1939 to Sept. 1940.
+Ki-43-II's pre-production started with five prototypes completed during Feb. to May 1942. A further three service trials aircraft were built from June to Aug. 1942.
+Ki-43-III's pre-production started with ten prototypes completed during May 1944 to August 1945.
+Not included:
+A further 49 Ki-43-II's were assembled from Oct. 1943 to Nov. 1944 at Tachikawa Dai-Ichi Rikugun Kokusho arsenal plant.
+ Japan
+Imperial Japanese Army Air Force
+ Manchukuo
+Manchukuo Air Force
+ Thailand
+Royal Thai Air Force
+ China
+Nationalist Chinese Air Force
+6th Group
+Two squadrons operated captured aircraft.
+ People's Republic of China
+Chinese Communist Air Force captured five aircraft in 1946 from nationalists. Aircraft were operated until their retirement in 1952.
+ France
+French Air Force Escadron de Chasse 1/7 operated captured aircraft in 1945-6 Indo-China.
+ Indonesia
+Indonesian Air Force - Indonesian People's Security Force operated derelict aircraft against Dutch colonial rule. On 29 July 1947, Indonesia intended to use a Ki-43 from Maguwo Air Force Base, Yogyakarta for bombing Dutch strategic positions in Ambarawa, Salatiga and Semarang. However, it failed to fly because of mechanical problems. It is currently on display in the Museum Dirgantara Udara Yogyakarta (near Adisucipto International Airport).
+ North Korea
+North Korean Air Force operated derelict aircraft after the war.
+750 – Ki-43-I on display at Flying Heritage Collection in Everett, Washington. Former ZK-OSC restored to flying condition by the Alpine Fighter Collection in the 1990s, not currently flying.
+5465 – Ki-43-II partially on display in unrestored condition at the Australian War Museum in Canberra, Australian Capital Territory. The nose and tail are in the main museum building, while the wings and center section are in storage in the museum's annex.
+6430 – Ki-43-IIb on display in Hangar 4 at the Pima Air & Space Museum in Tucson, Arizona. This aircraft was previously on display at the EAA AirVenture Museum and the Museum of Flight and is on loan from the National Air and Space Museum.
+Reproduction – Ki-43 on display at Chiran Peace Museum for Kamikaze Pilots in Kagoshima, Japan. It was built for the 2007 movie For Those We Love.
+Reproduction – Ki-43-IIIa on display at the Museum of Flight in Seattle, Washington. This aircraft contains parts from four different wrecks. The restoration was begun by the Texas Airplane Factory and completed by GossHawk Unlimited.
+Reproduction – Ki-43-IIIa at the Ericson Aircraft Collection in Madras, Oregon. This aircraft was previously at the Tillamook Air Museum in Tillamook, Oregon.
+Reproduction – Ki-43 originally under restoration/rebuild at Texas Airplane Factory, Meacham Field, Fort Worth, Texas. Now located at GossHawk Unlimited in Casa Grande, Arizona.
+Reproduction – Ki-43 originally under restoration/rebuild at Texas Airplane Factory, Meacham Field, Fort Worth, Texas. Now located at GossHawk Unlimited in Casa Grande, Arizona.
+Unknown msn – Ki-43 awaiting restoration at The Fighter Collection in Duxford, United Kingdom.
+Unknown msn – Ki-43 on display at the Central Indonesian Air Force Museum in Yogyakarta.
+Unknown msn – Ki-43 under restoration at the Kawaguchiko Car Museum in Kawaguchiko, Yamanashi.
+Data from Japanese Aircraft of the Pacific War
+General characteristics
+Crew: One
+Length: 8.92 m (29 ft 3⅜ in)
+Wingspan: 10.84 m (35 ft 6¾ in)
+Height: 3.27 m (10 ft 8¾in)
+Wing area: 21.4 m2 (230.4 ft2)
+Empty weight: 1,910 kg (4,211 lb)
+Loaded weight: 2,590 kg (5,710 lb)
+Max. takeoff weight: 2,925 kg (6,450 lb)
+Powerplant: 1 × Nakajima Ha-115 fourteen cylinder air-cooled radial engine, 858 kW (1,150 hp)
+Performance
+Maximum speed: 530 km/h (286 knots, 329 mph) at 4,000 m (13,125 ft)
+Cruise speed: 440 km/h (237 knots, 273 mph)
+Range: 1,760 km (952 nmi, 1095 mi)
+Ferry range: 3,200 km (1,730 nmi, 1,990 mi)
+Service ceiling: 11,200 m (36,750 ft)
+Wing loading: 121 kg/m2 (24.8 lb/sq ft)
+Power/mass: 331 W/kg (0.20 hp/lb)
+Armament
+Guns: 2× fixed, forward-firing 12.7 mm (.50 in) Ho-103 machine guns in the cowl with 270 rpg
+Bombs: 2× 250 kg (551 lb) bombs
+Related development
+Nakajima Ki-27
+Nakajima Ki-44
+Nakajima Ki-84
+Aircraft of comparable role, configuration and era
+Bloch MB.152
+Curtiss P-36 Hawk
+Curtiss-Wright CW-21
+IAR 80
+Macchi MC.200
+Mitsubishi A6M
+Polikarpov I-180
+Reggiane Re.2000
+Related lists
+List of aircraft of World War II
+List of aircraft of Japan, World War II
+List of military aircraft of Japan

@@ -1,0 +1,76 @@
+In computer networking, the Stream Control Transmission Protocol (SCTP) is a transport-layer protocol, serving in a similar role to the popular protocols TCP and UDP. It is standardized by IETF in RFC 4960.
+SCTP provides some of the same service features of both: it is message-oriented like UDP and ensures reliable, in-sequence transport of messages with congestion control like TCP; it differs from these in providing multi-homing and redundant paths to increase resilience and reliability.
+In the absence of native SCTP support in operating systems it is possible to tunnel SCTP over UDP, as well as mapping TCP API calls to SCTP ones. The reference implementation was released as part of FreeBSD version 7. It has subsequently been widely ported.
+The IETF Signaling Transport (SIGTRAN) working group defined the protocol (number 132)in 2000, and the IETF Transport Area (TSVWG) working group maintains it. RFC 4960 defines the protocol. RFC 3286 provides an introduction.
+SCTP applications submit their data to be transmitted in messages (groups of bytes) to the SCTP transport layer. SCTP places messages and control information into separate chunks (data chunks and control chunks), each identified by a chunk header. The protocol can fragment a message into a number of data chunks, but each data chunk contains data from only one user message. SCTP bundles the chunks into SCTP packets. The SCTP packet, which is submitted to the Internet Protocol, consists of a packet header, SCTP control chunks (when necessary), followed by SCTP data chunks (when available).
+One can characterize SCTP as message-oriented, meaning it transports a sequence of messages (each being a group of bytes), rather than transporting an unbroken stream of bytes as does TCP. As in UDP, in SCTP a sender sends a message in one operation, and that exact message is passed to the receiving application process in one operation. In contrast, TCP is a stream-oriented protocol, transporting streams of bytes reliably and in order. However TCP does not allow the receiver to know how many times the sender application called on the TCP transport passing it groups of bytes to be sent out. At the sender, TCP simply appends more bytes to a queue of bytes waiting to go out over the network, rather than having to keep a queue of individual separate outbound messages which must be preserved as such.
+The term multi-streaming refers to the capability of SCTP to transmit several independent streams of chunks in parallel, for example transmitting web page images together with the web page text. In essence, it involves bundling several connections into a single SCTP association, operating on messages (or chunks) rather than bytes.
+TCP preserves byte order in the stream by including a sequence number with each segment. SCTP, on the other hand, assigns a sequence number to each message sent in a stream. This allows independent ordering of messages in different streams. However, message ordering is optional in SCTP; a receiving application may choose to process messages in the order of receipt instead of in the order of sending.
+Features of SCTP include:
+Multihoming support in which one or both endpoints of a connection can consist of more than one IP address, enabling transparent fail-over between redundant network paths.
+Delivery of chunks within independent streams eliminate unnecessary head-of-line blocking, as opposed to TCP byte-stream delivery.
+Path selection and monitoring to select a primary data transmission path and test the connectivity of the transmission path.
+Validation and acknowledgment mechanisms protect against flooding attacks and provide notification of duplicated or missing data chunks.
+Improved error detection suitable for Ethernet jumbo frames.
+The designers of SCTP originally intended it for the transport of telephony (Signaling System 7) over Internet Protocol, with the goal of duplicating some of the reliability attributes of the SS7 signaling network in IP. This IETF effort is known as SIGTRAN. In the meantime, other uses have been proposed, for example, the Diameter protocol and Reliable server pooling (RSerPool).
+TCP has provided the primary means to transfer data reliably across the Internet. However, TCP has imposed limitations on several applications. From RFC 4960:
+TCP provides both reliable data transfer and strict order-of-transmission delivery of data. Some applications need reliable transfer without sequence maintenance, while others would be satisfied with partial ordering of the data. In both of these cases, the head-of-line blocking offered by TCP causes unnecessary delay.
+The stream-oriented nature of TCP is often an inconvenience. Applications must add their own record marking to delineate their messages, and must make explicit use of the push facility to ensure that a complete message is transferred in a reasonable time.
+The limited scope of TCP sockets complicates the task of providing highly-available data transfer capability using multi-homed hosts.
+TCP is relatively vulnerable to denial-of-service attacks, such as SYN attacks.
+SCTP provides redundant paths to increase reliability.
+Each SCTP end point needs to check reachability of the primary and redundant addresses of the remote end point using a heartbeat. Each SCTP end point needs to ack the heartbeats it receives from the remote end point.
+When SCTP sends a message to a remote address, the source interface will only be decided by the routing table of the host (and not by SCTP).
+In asymmetric multi homing, one of the two end points does not support multi homing.
+In Local multi homing and Remote single homing, if the remote primary address is not reachable, the SCTP association fails even if an alternate path is possible.
+SCTP packets have a simpler basic structure than TCP packets. Each consists of two basic sections:
+The common header, which occupies the first 12 bytes and is highlighted in blue, and
+The data chunks, which occupy the remaining portion of the packet. The first chunk is highlighted in green, and the last of N chunks (Chunk N) is highlighted in red.
+Each chunk starts with a one byte type identifier, with 15 chunk types currently defined by RFC 4960. Eight flag bits, a two byte length field and the data compose the remainder of the chunk. If the chunk does not form a multiple of 4 bytes (i.e., the length is not a multiple of 4) then it is padded with zeros which are not included in the chunk length. The two byte length field limits each chunk to a 65,535 byte length (including the type, flags and length fields).
+Although encryption was not part of the original SCTP design, SCTP was designed with features for improved security, such as 4-way handshake (compared to TCP 3-way handshake) to protect against SYN flooding attacks, and large "cookies" for association verification and authenticity.
+Reliability was also a key part of the security design of SCTP. Multihoming enables an association to stay open even when some routes and interfaces are down. This is of particular importance for SIGTRAN as it carries SS7 over an IP network using SCTP, and requires strong resilience during link outages to maintain telecommunication service even when enduring network anomalies.
+SCTP is sometimes a good fingerprinting candidate. Some operating systems ship with SCTP support enabled, and, as it is not as well known as TCP or UDP, it is sometimes overlooked in firewall and intrusion detection configurations, thus often permitting probing traffic.
+The SCTP reference implementation runs on FreeBSD, Mac OS X, Microsoft Windows, and Linux.
+The following operating systems implement SCTP:
+AIX Version 5 and newer
+Generic BSD with external patch at KAME project
+Cisco IOS 12
+DragonFly BSD since version 1.4, however support is being deprecated in version 4.2 
+FreeBSD, version 7 and above, contains the reference SCTP implementation
+HP-UX, 11i v2 and above
+Linux kernel-based 2.4 and newer
+QNX Neutrino Realtime OS, 6.3.0 to 6.3.2 but not 6.4.0 and above
+Sun Solaris 10 and above
+VxWorks versions 6.2.x to 6.4.x, and 6.7 and newer
+Third-party drivers:
+Microsoft Windows:
+The SctpDrv kernel driver is a port of the BSD SCTP stack to Windows
+Userspace library:
+The SCTP libraryWindows XP port
+Oracle Java SE 7
+The following applications implement SCTP:
+SSH - Secure Shell.
+WebRTC
+RFC 7053 SACK-IMMEDIATELY Extension for the Stream Control Transmission Protocol (updates RFC 4960)
+RFC 6951 UDP Encapsulation of Stream Control Transmission Protocol (SCTP) Packets for End-Host to End-Host Communication
+RFC 6525 Stream Control Transmission Protocol (SCTP) Stream Reconfiguration
+RFC 6458 Sockets API Extensions for the Stream Control Transmission Protocol (SCTP)
+RFC 6096 Stream Control Transmission Protocol (SCTP) Chunk Flags Registration (updates RFC 4960)
+RFC 5062 Security Attacks Found Against the Stream Control Transmission Protocol (SCTP) and Current Countermeasures
+RFC 5061 Stream Control Transmission Protocol (SCTP) Dynamic Address Reconfiguration
+RFC 5043 Stream Control Transmission Protocol (SCTP) Direct Data Placement (DDP) Adaptation
+RFC 4960 Stream Control Transmission Protocol
+RFC 4895 Authenticated Chunks for the Stream Control Transmission Protocol (SCTP)
+RFC 4820 Padding Chunk and Parameter for the Stream Control Transmission Protocol (SCTP)
+RFC 4460 Stream Control Transmission Protocol (SCTP) Specification Errata and Issues
+RFC 3873 Stream Control Transmission Protocol (SCTP) Management Information Base (MIB)
+RFC 3758 Stream Control Transmission Protocol (SCTP) Partial Reliability Extension
+RFC 3554 On the Use of Stream Control Transmission Protocol (SCTP) with IPsec
+RFC 3436 Transport Layer Security over Stream Control Transmission Protocol
+RFC 3309 Stream Control Transmission Protocol (SCTP) Checksum Change (obsoleted by RFC 4960)
+RFC 3286 An Introduction to the Stream Control Transmission Protocol
+RFC 3257 Stream Control Transmission Protocol Applicability Statement
+RFC 2960 Stream Control Transmission Protocol (updated by RFC 3309 and obsoleted by RFC 4960)
+Transport Layer § Comparison of transport layer protocols
+Session Initiation Protocol (SIP) – which may initiate multiple streams over SCTP, TCP or UDP
+Multipath TCP – which allows a TCP connection to use multiple paths to maximize resource usage and increase redundancy

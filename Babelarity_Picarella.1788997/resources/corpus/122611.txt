@@ -1,0 +1,30 @@
+Zhuyin fuhao, Zhuyin or Bopomofo (pinyin: bōpōmōfō; Jyutping: bo1 po1 mo1 fo1, Mandarin IPA: [pɔ́pʰɔ́mɔ́fɔ́]) is a system of phonetic notation for the transcription of spoken Chinese, particularly the Mandarin dialect. The first two are traditional terms, whereas Bopomofo is the colloquial term, also used by the ISO and Unicode. Consisting of 37 characters and four tone marks, it transcribes all possible sounds in Mandarin. Zhuyin was introduced in China by the Republican Government in the 1910s and used alongside the Wade-Giles system, which used a modified Latin alphabet. The Wade system was replaced by Hanyu Pinyin in 1958 by the Government of the People's Republic of China, and at the International Organization for Standardization (ISO) in 1982. Although Taiwan officially abandoned Wade-Giles in 2009, Bopomofo is still the official phonetic notation system of the country and remains widely used as an educational tool and electronic input method in Taiwan.
+The informal name "Bopomofo" is derived from the first four syllables in the conventional ordering of available syllables in Mandarin Chinese. The four Bopomofo characters (ㄅㄆㄇㄈ) that correspond to these syllables are usually placed first in a list of these characters. The same sequence is sometimes used by other speakers of Chinese to refer to other phonetic systems.
+The original formal name of the system was Guóyīn Zìmǔ (traditional 國音字母, simplified 国音字母, lit. "Phonetic Alphabet of the National Language") and Zhùyīn Zìmǔ (traditional 註音字母, simplified 注音字母, lit. "Phonetic Alphabet" or "Annotated Phonetic Letters"). It was later renamed Zhùyīn Fúhào (traditional 注音符號, simplified 注音符号), meaning "phonetic symbols".
+In official documents, Zhuyin is occasionally called "Mandarin Phonetic Symbols I" (國語注音符號第一式), abbreviated as "MPS I" (注音一式).
+In English translations, the system is often also called either Chu-yin or the Mandarin Phonetic Symbols. A romanized phonetic system was released in 1984 as Mandarin Phonetic Symbols II (MPS II).
+The Commission on the Unification of Pronunciation, led by Wu Zhihui from 1912 to 1913, created a system called Zhuyin Zimu, which was based on Zhang Binglin's shorthand. A draft was released on July 11, 1913, by the Republic of China National Ministry of Education, but it was not officially proclaimed until November 23, 1928. It was later renamed first Guoyin Zimu and then, in April 1930, Zhuyin Fuhao. The last renaming addressed fears that the alphabetic system might independently replace Chinese characters.
+Zhuyin remains the predominant phonetic system in teaching reading and writing in elementary school in Taiwan. It is also one of the most popular ways to enter Chinese characters into computers and to look up characters in a dictionary in Taiwan.
+In elementary school, particularly in the lower years, Chinese characters in textbooks are often annotated with Zhuyin as ruby characters as an aid to learning. Additionally, one children's newspaper in Taiwan, the Mandarin Daily News annotates all articles with Zhuyin ruby characters.
+In teaching Mandarin, Taiwan institutions and some overseas communities still use Zhuyin as a learning tool.
+The Zhuyin characters were created by Zhang Binglin, and taken mainly from "regularised" forms of ancient Chinese characters, the modern readings of which contain the sound that each letter represents. It is to be noted that the first consonants are articulated from the front of the mouth to the back, /b/, /p/, /m/, /f/, /d/, /t/, /n/, /l/ etc.
+The Zhuyin characters are encoded in Unicode in the "bopomofo" block, in the range U+3105 ... U+312D.
+Zhuyin is written in the same stroke order rule as Chinese characters. Note that ㄖ is written with three strokes, unlike the character from which it is derived (日, Hanyu Pinyin: rì), which has four strokes.
+The tone marks used in Zhuyin for the second, third, and fourth tones are the same as the ones used in Hanyu Pinyin. In Zhuyin, no marker is used for the first tone and a dot denotes the neutral tone, whereas in Pinyin, a dash (¯) represents the first tone and no marker is used for the neutral tone.
+Unlike Hanyu Pinyin, Zhuyin aligns well with the hanzi characters in books whose texts are printed vertically, making Zhuyin better suited for annotating the pronunciation of vertically oriented Chinese text.
+Zhuyin, when used in conjunction with Chinese characters, are typically placed to the right of the Chinese character vertically or to the top of the Chinese character in a horizontal print (see Ruby character).
+Below is an example for the word "bottle" (pinyin: píngzi):
+Zhuyin and pinyin are based on the same Mandarin pronunciations, hence there is a one-to-one correspondence between the two systems. The following table compares the two.
+1 Not written.2 ü is written as u after j, q, x, or y.3 ㄨㄛ/-uo are written as ㄛ/-o after b, p, m, or f.4 weng is pronounced [ʊŋ] (written as ong) when it follows an initial.
+Three letters formerly used in non-standard dialects of Mandarin are now also used to write other Chinese varieties. Some Zhuyin fonts do not contain these letters; see External links for PDF pictures.
+Zhuyin can be used as an input method for Chinese characters. It is one of the few input methods that can be found on most modern personal computers without the user having to download or install any additional software. It is also one of the few input methods that can be used for inputting Chinese characters on certain cell phones.
+Zhuyin was added to the Unicode Standard in October 1991 with the release of version 1.0.
+The Unicode block for Zhuyin, called Bopomofo, is U+3100–U+312F:
+Additional characters were added in September 1999 with the release of version 3.0.
+The Unicode block for these additional characters, called Bopomofo Extended, is U+31A0–U+31BF:
+Chinese input methods for computers
+Fanqie
+Furigana
+Ruby character
+Taiwanese Phonetic Symbols
+Zhuyin table

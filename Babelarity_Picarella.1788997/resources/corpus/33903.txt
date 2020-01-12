@@ -1,0 +1,5 @@
+A laminar flow cabinet or laminar flow closet or tissue culture hood is a carefully enclosed bench designed to prevent contamination of semiconductor wafers, biological samples, or any particle sensitive materials. Air is drawn through a HEPA filter and blown in a very smooth, laminar flow towards the user. The cabinet is usually made of stainless steel with no gaps or joints where spores might collect.
+Such hoods exist in both horizontal and vertical configurations, and there are many different types of cabinets with a variety of airflow patterns and acceptable uses.
+Laminar flow cabinets may have a UV-C germicidal lamp to sterilize the interior and contents before usage to prevent contamination of experiment. germicidal lamps are usually kept on for 15 minutes to sterilize the interior and no contact is to be made with a laminar flow hood during this time. During this time, scientists normally prepare other materials to maximize efficiency. (It is important to switch this light off during use, to limit exposure to skin and eyes as stray ultraviolet light emissions can cause cancer and cataracts.)
+Fume hood
+Biosafety cabinet

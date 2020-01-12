@@ -1,0 +1,38 @@
+Celtiberian or Northeastern Hispano-Celtic is an extinct Indo-European language of the Celtic branch spoken by the Celtiberians in an area of the Iberian Peninsula lying between the headwaters of the Duero, Tajo, Júcar and Turia rivers and the Ebro river. This language is directly attested in nearly 200 inscriptions dated in the 2nd century BC and the 1st century BC, mainly in Celtiberian script, a direct adaptation of the northeastern Iberian script, but also in Latin alphabet. The longest extant Celtiberian inscriptions are those on three Botorrita plaques, bronze plaques from Botorrita near Zaragoza, dating to the early 1st century BC, labelled Botorrita I, III and IV (Botorrita II is in the Latin language). In the northwest was another Celtic language, Northwestern Hispano-Celtic, that was somewhat related to Celtiberian.
+Celtiberian was a Celtic language that shows the characteristic sound changes of Celtic languages such as:
+loss of Proto-Indo-European (PIE) voiced aspiration, e.g. PIE *bʰr̥ǵʰ- meaning 'high' to Celtic *brig- as in the Celtiberian and Gaulish placename element -brigā.
+loss of PIE *p, e.g. ro- (Celtiberian, Old Irish and Old Breton) vs. Latin pro- and Sanskrit pra-.
+PIE *HR̥C changes to Celtic aRC (where H stands for a laryngeal, R̥ stands for a syllabic resonant, and C for a consonant), e.g. Celtiberian arKa(n)to-, Lepontic arkato-, Old Irish argat, Old Welsh argant meaning "silver, money" vs. Latin argentum, Sanskrit rajata.
+PIE *ē (and *eh₁) to Celtic *ī, e.g. IE *h3rēg'-s meaning "king, ruler" vs. Celtiberian -reiKis, Gaulish -rix, British RIX, Old Irish, Old Welsh, Old Breton ri meaning "king".
+PIE *ō (and *oH and *eh₃) to Celtic *ū in final syllables and *ā in non-final syllables, e.g. IE *dh3-tōd to Celtiberian TaTuz meaning 'he must give'.
+Enough has been preserved to show that the Celtiberian language could be called Q-Celtic (like Goidelic), and not P-Celtic like Gaulish. For some, this has served to confirm that the legendary invasion of Ireland by the Milesians, preserved in the Lebor Gabála Érenn, actually happened.
+Since Brythonic is P-Celtic too, but as an Insular Celtic language more closely related to Goidelic than to Gaulish, it follows that the P/Q division is polyphyletic: the change from kʷ to p occurred in Brythonic and Gaulish at a time when they were already separate languages, rather than constituting a division that marked a separate branch in the "family tree" of the Celtic languages. A change from PIE kʷ (q) to p also occurred in some Italic languages and Ancient Greek dialects: compare Oscan pis, pid ("who, what?") with Latin quis, quid; or Gaulish epos ("horse") and Attic Greek ἵππος hippos with Latin equus and Mycenaean Greek i-qo. Celtiberian and Gaulish are usually grouped together as the Continental Celtic languages, but this grouping is paraphyletic too: no evidence suggests the two shared any common innovation separately from Insular Celtic.
+Celtiberian exhibits a fully inflected relative pronoun ios (as does, e.g., Ancient Greek), not preserved in other Celtic languages, and the particles kue "and" (cf. Latin -que, Attic Greek τε te), nekue "nor" (cf. Latin neque and Attic Greek μήτε mēte < μή mē "not" + te "and" < IE *kʷe), ve "or" (cf. Latin enclitic -ve and Attic Greek ἤ ē < Proto-Greek *ē-we). As in Welsh, there is an s-subjunctive, gabiseti "he shall take" (Old Irish gabid), robiseti, auseti. Compare Umbrian ferest "he/she/it shall make" or Ancient Greek δείξῃ deiksēi (aorist subj.) / δείξει deiksei (future ind.) "(that) he/she/it shall show".
+First Botorrita plaque (A).
+A.1. tirikantam : berkunetakam : tokoitoskue : sarnikio (:) kue : sua : kombalkez : nelitom
+A.2. nekue [: to : u]ertaunei : litom : nekue : taunei : litom : nekue : masnai : tizaunei : litom : soz : auku
+A.3. aresta[lo] : tamai : uta : oskues : stena : uerzoniti : silabur : sleitom : konskilitom : kabizeti
+A.4. kantom [:] sankilistara : otanaum : tokoitei : eni : uta : oskuez : boustomue : koruinomue
+A.5. makasiamue : ailamue : ambitiseti : kamanom : usabituz : ozas : sues : sailo : kusta : bizetuz : iom
+A.6. asekati : [a]mbitinkounei : stena : es : uertai : entara : tiris : matus : tinbituz : neito : tirikantam
+A.7. eni : oisatuz : iomui : listas : titas : zizonti : somui : iom : arznas : bionti : iom : kustaikos
+A.8. arznas : kuati : ias : ozias : uertatosue : temeiue : robiseti : saum : tekametinas : tatuz : somei
+A.9. enitouzei : iste : ankios : iste : esankios : uze : areitena : sarnikiei : akainakubos
+A.10. nebintor : tokoitei : ios : uramtiomue : auzeti : aratimue : tekametam : tatuz : iom : tokoitoskue
+A.11. sarnikiokue : aiuizas : kombalkores : aleites : iste : ires : ruzimuz : abulu : ubokum
+(Transcription Jordán 2004)
+Great inscription from Peñalba de Villastar (Teruel).
+ENIOROSEI
+VTA TIGINO TIATVNEI
+TRECAIAS TO LVGVEI
+ARAIANOM COMEIMV
+ENIOROSEI EQVEISVIQVE
+OCRIS OLOCAS TOGIAS SISTAT LVGVEI TIASO
+TOGIAS
+(Transcription: Meid 1994)
+Celtiberian script
+Gallaecian language
+Iberian scripts
+Continental Celtic languages
+Pre-Roman peoples of the Iberian Peninsula
+Lusitanian language

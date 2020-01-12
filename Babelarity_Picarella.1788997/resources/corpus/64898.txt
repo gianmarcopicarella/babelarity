@@ -1,0 +1,1024 @@
+In mathematics, the unitary group of degree n, denoted U(n), is the group of n × n unitary matrices, with the group operation of matrix multiplication. The unitary group is a subgroup of the general linear group GL(n, C). Hyperorthogonal group is an archaic name for the unitary group, especially over finite fields.
+In the simple case n = 1, the group U(1) corresponds to the circle group, consisting of all complex numbers with absolute value 1 under multiplication. All the unitary groups contain copies of this group.
+The unitary group U(n) is a real Lie group of dimension n2. The Lie algebra of U(n) consists of n × n skew-Hermitian matrices, with the Lie bracket given by the commutator.
+The general unitary group (also called the group of unitary similitudes) consists of all matrices A such that A∗A is a nonzero multiple of the identity matrix, and is just the product of the unitary group with the group of all positive multiples of the identity matrix.
+Since the determinant of a unitary matrix is a complex number with norm 
+        1
+    {\displaystyle 1}
+  , the determinant gives a group homomorphism
+        det
+        :
+        U
+        ⁡
+        (
+        n
+        )
+        →
+        U
+        ⁡
+        (
+        1
+        )
+        .
+    {\displaystyle \det \colon \operatorname {U} (n)\to \operatorname {U} (1).}
+The kernel of this homomorphism is the set of unitary matrices with determinant 
+        1
+    {\displaystyle 1}
+  . This subgroup is called the special unitary group, denoted 
+        SU
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {SU} (n)}
+  . We then have a short exact sequence of Lie groups:
+        1
+        →
+        SU
+        ⁡
+        (
+        n
+        )
+        →
+        U
+        ⁡
+        (
+        n
+        )
+        →
+        U
+        ⁡
+        (
+        1
+        )
+        →
+        1.
+    {\displaystyle 1\to \operatorname {SU} (n)\to \operatorname {U} (n)\to \operatorname {U} (1)\to 1.}
+This short exact sequence splits so that 
+        U
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {U} (n)}
+   may be written as a semidirect product of 
+        SU
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {SU} (n)}
+   by 
+        U
+        ⁡
+        (
+        1
+        )
+    {\displaystyle \operatorname {U} (1)}
+  . Here the 
+        U
+        ⁡
+        (
+        1
+        )
+    {\displaystyle \operatorname {U} (1)}
+   subgroup of 
+        U
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {U} (n)}
+   can be taken to consist of matrices, which are diagonal, have 
+          e
+            i
+            θ
+    {\displaystyle e^{i\theta }}
+   in the upper left corner and 
+        1
+    {\displaystyle 1}
+   on the rest of the diagonal.
+The unitary group 
+        U
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {U} (n)}
+   is nonabelian for 
+        n
+        >
+        1
+    {\displaystyle n>1}
+  . The center of 
+        U
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {U} (n)}
+   is the set of scalar matrices 
+        λ
+        I
+    {\displaystyle \lambda I}
+   with 
+        λ
+        ∈
+        U
+        ⁡
+        (
+        1
+        )
+    {\displaystyle \lambda \in \operatorname {U} (1)}
+  . This follows from Schur's lemma. The center is then isomorphic to 
+        U
+        ⁡
+        (
+        1
+        )
+    {\displaystyle \operatorname {U} (1)}
+  . Since the center of 
+        U
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {U} (n)}
+   is a 
+        1
+    {\displaystyle 1}
+  -dimensional abelian normal subgroup of 
+        U
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {U} (n)}
+  , the unitary group is not semisimple but is reductive.
+The unitary group U(n) is endowed with the relative topology as a subset of M(n, C), the set of all n × n complex matrices, which is itself homeomorphic to a 2n2-dimensional Euclidean space.
+As a topological space, U(n) is both compact and connected. The compactness of U(n) follows from the Heine–Borel theorem and the fact that it is a closed and bounded subset of M(n, C). To show that U(n) is connected, recall that any unitary matrix A can be diagonalized by another unitary matrix S. Any diagonal unitary matrix must have complex numbers of absolute value 1 on the main diagonal. We can therefore write
+        A
+        =
+        S
+        diag
+        ⁡
+        (
+          e
+            i
+              θ
+                1
+        ,
+        …
+        ,
+          e
+            i
+              θ
+                n
+        )
+          S
+            −
+            1
+        .
+    {\displaystyle A=S\,\operatorname {diag} (e^{i\theta _{1}},\dots ,e^{i\theta _{n}})\,S^{-1}.}
+A path in U(n) from the identity to A is then given by
+        t
+        ↦
+        S
+        diag
+        ⁡
+        (
+          e
+            i
+            t
+              θ
+                1
+        ,
+        …
+        ,
+          e
+            i
+            t
+              θ
+                n
+        )
+          S
+            −
+            1
+        .
+    {\displaystyle t\mapsto S\,\operatorname {diag} (e^{it\theta _{1}},\dots ,e^{it\theta _{n}})\,S^{-1}.}
+The unitary group is not simply connected; the fundamental group of U(n) is infinite cyclic for all n:
+          π
+            1
+        (
+        U
+        ⁡
+        (
+        n
+        )
+        )
+        ≅
+          Z
+        .
+    {\displaystyle \pi _{1}(\operatorname {U} (n))\cong \mathbf {Z} .}
+To see this, note that the above splitting of U(n) as a semidirect product of SU(n) and U(1) induces a topological product structure on U(n), so that
+          π
+            1
+        (
+        U
+        ⁡
+        (
+        n
+        )
+        )
+        ≅
+          π
+            1
+        (
+        SU
+        ⁡
+        (
+        n
+        )
+        )
+        ×
+          π
+            1
+        (
+        U
+        ⁡
+        (
+        1
+        )
+        )
+        .
+    {\displaystyle \pi _{1}(\operatorname {U} (n))\cong \pi _{1}(\operatorname {SU} (n))\times \pi _{1}(\operatorname {U} (1)).}
+Now the first unitary group U(1) is topologically a circle, which is well known to have a fundamental group isomorphic to Z, and the inclusion map U(n) → U(n + 1) is an isomorphism on π1. (It has quotient the Stiefel manifold.)
+The determinant map det: U(n) → U(1) induces an isomorphism of fundamental groups, with the splitting U(1) → U(n) inducing the inverse.
+The Weyl group of U(n) is the symmetric group Sn, acting on the diagonal torus by permuting the entries:
+        diag
+        ⁡
+        (
+          e
+            i
+              θ
+                1
+        ,
+        …
+        ,
+          e
+            i
+              θ
+                n
+        )
+        ↦
+        diag
+        ⁡
+        (
+          e
+            i
+              θ
+                σ
+                (
+                1
+                )
+        ,
+        …
+        ,
+          e
+            i
+              θ
+                σ
+                (
+                n
+                )
+        )
+    {\displaystyle \operatorname {diag} (e^{i\theta _{1}},\dots ,e^{i\theta _{n}})\mapsto \operatorname {diag} (e^{i\theta _{\sigma (1)}},\dots ,e^{i\theta _{\sigma (n)}})}
+The unitary group is the 3-fold intersection of the orthogonal, symplectic, and complex groups:
+        U
+        ⁡
+        (
+        n
+        )
+        =
+        O
+        ⁡
+        (
+        2
+        n
+        )
+        ∩
+        Sp
+        ⁡
+        (
+        2
+        n
+        ,
+          R
+        )
+        ∩
+        GL
+        ⁡
+        (
+        n
+        ,
+          C
+        )
+        .
+    {\displaystyle \operatorname {U} (n)=\operatorname {O} (2n)\cap \operatorname {Sp} (2n,\mathbf {R} )\cap \operatorname {GL} (n,\mathbf {C} ).}
+Thus a unitary structure can be seen as an orthogonal structure, a complex structure, and a symplectic structure, which are required to be compatible (meaning that one uses the same J in the complex structure and the symplectic form, and that this J is orthogonal; writing all the groups as matrix groups fixes a J (which is orthogonal) and ensures compatibility).
+In fact, it is the intersection of any two of these three; thus a compatible orthogonal and complex structure induce a symplectic structure, and so forth.
+At the level of equations, this can be seen as follows:
+                  Symplectic
+                  A
+                      T
+                J
+                A
+                =
+                J
+                  Complex
+                  A
+                    −
+                    1
+                J
+                A
+                =
+                J
+                  Orthogonal
+                  A
+                      T
+                =
+                  A
+                    −
+                    1
+    {\displaystyle {\begin{array}{r|r}{\text{Symplectic}}&A^{\mathsf {T}}JA=J\\\hline {\text{Complex}}&A^{-1}JA=J\\\hline {\text{Orthogonal}}&A^{\mathsf {T}}=A^{-1}\end{array}}}
+Any two of these equations implies the third.
+At the level of forms, this can be seen by decomposing a Hermitian form into its real and imaginary parts: the real part is symmetric (orthogonal), and the imaginary part is skew-symmetric (symplectic)—and these are related by the complex structure (which is the compatibility). On an almost Kähler manifold, one can write this decomposition as h = g + iω, where h is the Hermitian form, g is the Riemannian metric, i is the almost complex structure, and ω is the almost symplectic structure.
+From the point of view of Lie groups, this can partly be explained as follows: O(2n) is the maximal compact subgroup of GL(2n, R), and U(n) is the maximal compact subgroup of both GL(n, C) and Sp(2n). Thus the intersection O(2n) ∩ GL(n, C) or O(2n) ∩ Sp(2n) is the maximal compact subgroup of both of these, so U(n). From this perspective, what is unexpected is the intersection GL(n, C) ∩ Sp(2n) = U(n).
+Just as the orthogonal group O(n) has the special orthogonal group SO(n) as subgroup and the projective orthogonal group PO(n) as quotient, and the projective special orthogonal group PSO(n) as subquotient, the unitary group U(n) has associated to it the special unitary group SU(n), the projective unitary group PU(n), and the projective special unitary group PSU(n). These are related as by the commutative diagram at right; notably, both projective groups are equal: PSU(n) = PU(n).
+The above is for the classical unitary group (over the complex numbers) – for unitary groups over finite fields, one similarly obtains special unitary and projective unitary groups, but in general 
+        PSU
+        ⁡
+        (
+        n
+        ,
+          q
+            2
+        )
+        ≠
+        PU
+        ⁡
+        (
+        n
+        ,
+          q
+            2
+        )
+    {\displaystyle \operatorname {PSU} (n,q^{2})\neq \operatorname {PU} (n,q^{2})}
+  .
+In the language of G-structures, a manifold with a U(n)-structure is an almost Hermitian manifold.
+From the point of view of Lie theory, the classical unitary group is a real form of the Steinberg group 
+            2
+          A
+            n
+    {\displaystyle {}^{2}\!A_{n}}
+  , which is an algebraic group that arises from the combination of the diagram automorphism of the general linear group (reversing the Dynkin diagram An, which corresponds to transpose inverse) and the field automorphism of the extension C/R (namely complex conjugation). Both these automorphisms are automorphisms of the algebraic group, have order 2, and commute, and the unitary group is the fixed points of the product automorphism, as an algebraic group. The classical unitary group is a real form of this group, corresponding to the standard Hermitian form Ψ, which is positive definite.
+This can be generalized in a number of ways:
+generalizing to other Hermitian forms yields indefinite unitary groups U(p,q);
+the field extension can be replaced by any degree 2 separable algebra, most notably a degree 2 extension of a finite field;
+generalizing to other diagrams yields other groups of Lie type, namely the other Steinberg groups 
+            2
+          D
+            n
+        ,
+            2
+          E
+            6
+        ,
+            3
+          D
+            4
+        ,
+    {\displaystyle {}^{2}\!D_{n},{}^{2}\!E_{6},{}^{3}\!D_{4},}
+   (in addition to 
+            2
+          A
+            n
+    {\displaystyle {}^{2}\!A_{n}}
+  ) and Suzuki-Ree groups
+            2
+          B
+            2
+          (
+            2
+              2
+              n
+              +
+              1
+          )
+        ,
+            2
+          F
+            4
+          (
+            2
+              2
+              n
+              +
+              1
+          )
+        ,
+            2
+          G
+            2
+          (
+            3
+              2
+              n
+              +
+              1
+          )
+        ;
+    {\displaystyle {}^{2}\!B_{2}\left(2^{2n+1}\right),{}^{2}\!F_{4}\left(2^{2n+1}\right),{}^{2}\!G_{2}\left(3^{2n+1}\right);}
+considering a generalized unitary group as an algebraic group, one can take its points over various algebras.
+Analogous to the indefinite orthogonal groups, one can define an indefinite unitary group, by considering the transforms that preserve a given Hermitian form, not necessarily positive definite (but generally taken to be non-degenerate). Here one is working with a vector space over the complex numbers.
+Given a Hermitian form Ψ on a complex vector space V, the unitary group U(Ψ) is the group of transforms that preserve the form: the transform M such that Ψ(Mv, Mw) = Ψ(v, w) for all v, w ∈ V. In terms of matrices, representing the form by a matrix denoted Φ, this says that M∗ΦM = Φ.
+Just as for symmetric forms over the reals, Hermitian forms are determined by signature, and are all unitarily congruent to a diagonal form with p entries of 1 on the diagonal and q entries of −1. The non-degenerate assumption is equivalent to p + q = n. In a standard basis, this is represented as a quadratic form as:
+        ∥
+        z
+          ∥
+            Ψ
+            2
+        =
+        ∥
+          z
+            1
+          ∥
+            2
+        +
+        ⋯
+        +
+        ∥
+          z
+            p
+          ∥
+            2
+        −
+        ∥
+          z
+            p
+            +
+            1
+          ∥
+            2
+        −
+        ⋯
+        −
+        ∥
+          z
+            n
+          ∥
+            2
+    {\displaystyle \lVert z\rVert _{\Psi }^{2}=\lVert z_{1}\rVert ^{2}+\dots +\lVert z_{p}\rVert ^{2}-\lVert z_{p+1}\rVert ^{2}-\dots -\lVert z_{n}\rVert ^{2}}
+and as a symmetric form as:
+        Ψ
+        (
+        w
+        ,
+        z
+        )
+        =
+                w
+                ¯
+            1
+          z
+            1
+        +
+        ⋯
+        +
+                w
+                ¯
+            p
+          z
+            p
+        −
+                w
+                ¯
+            p
+            +
+            1
+          z
+            p
+            +
+            1
+        −
+        ⋯
+        −
+                w
+                ¯
+            n
+          z
+            n
+        .
+    {\displaystyle \Psi (w,z)={\bar {w}}_{1}z_{1}+\cdots +{\bar {w}}_{p}z_{p}-{\bar {w}}_{p+1}z_{p+1}-\cdots -{\bar {w}}_{n}z_{n}.}
+The resulting group is denoted U(p,q).
+Over the finite field with q = pr elements, Fq, there is a unique quadratic extension field, Fq2, with order 2 automorphism 
+        α
+        :
+        x
+        ↦
+          x
+            q
+    {\displaystyle \alpha \colon x\mapsto x^{q}}
+   (the rth power of the Frobenius automorphism). This allows one to define a Hermitian form on an Fq2 vector space V, as an Fq-bilinear map 
+        Ψ
+        :
+        V
+        ×
+        V
+        →
+        K
+    {\displaystyle \Psi \colon V\times V\to K}
+   such that 
+        Ψ
+        (
+        w
+        ,
+        v
+        )
+        =
+        α
+          (
+          Ψ
+          (
+          v
+          ,
+          w
+          )
+          )
+    {\displaystyle \Psi (w,v)=\alpha \left(\Psi (v,w)\right)}
+   and 
+        Ψ
+        (
+        w
+        ,
+        c
+        v
+        )
+        =
+        c
+        Ψ
+        (
+        w
+        ,
+        v
+        )
+    {\displaystyle \Psi (w,cv)=c\Psi (w,v)}
+   for c ∈ Fq2. Further, all non-degenerate Hermitian forms on a vector space over a finite field are unitarily congruent to the standard one, represented by the identity matrix, that is, any Hermitian form is unitarily equivalent to
+        Ψ
+        (
+        w
+        ,
+        v
+        )
+        =
+          w
+            α
+        ⋅
+        v
+        =
+          ∑
+            i
+            =
+            1
+            n
+          w
+            i
+            q
+          v
+            i
+    {\displaystyle \Psi (w,v)=w^{\alpha }\cdot v=\sum _{i=1}^{n}w_{i}^{q}v_{i}}
+where 
+          w
+            i
+        ,
+          v
+            i
+    {\displaystyle w_{i},v_{i}}
+   represent the coordinates of w, v ∈ V in some particular Fq2-basis of the n-dimensional space V (Grove 2002, Thm. 10.3).
+Thus one can define a (unique) unitary group of dimension n for the extension Fq2/Fq, denoted either as U(n, q) or U(n, q2) depending on the author. The subgroup of the unitary group consisting of matrices of determinant 1 is called the special unitary group and denoted SU(n, q) or SU(n, q2). For convenience, this article will use the U(n, q2) convention. The center of U(n, q2) has order q + 1 and consists of the scalar matrices that are unitary, that is those matrices cIV with 
+          c
+            q
+            +
+            1
+        =
+        1
+    {\displaystyle c^{q+1}=1}
+  . The center of the special unitary group has order gcd(n, q + 1) and consists of those unitary scalars which also have order dividing n. The quotient of the unitary group by its center is called the projective unitary group, PU(n, q2), and the quotient of the special unitary group by its center is the projective special unitary group PSU(n, q2). In most cases (n > 1 and (n, q2) ∉ {(2, 22), (2, 32), (3, 22)}), SU(n, q2) is a perfect group and PSU(n, q2) is a finite simple group, (Grove 2002, Thm. 11.22 and 11.26).
+More generally, given a field k and a degree-2 separable k-algebra K (which may be a field extension but need not be), one can define unitary groups with respect to this extension.
+First, there is a unique k-automorphism of K 
+        a
+        ↦
+              a
+              ¯
+    {\displaystyle a\mapsto {\bar {a}}}
+   which is an involution and fixes exactly k (
+        a
+        =
+              a
+              ¯
+    {\displaystyle a={\bar {a}}}
+   if and only if a ∈ k). This generalizes complex conjugation and the conjugation of degree 2 finite field extensions, and allows one to define Hermitian forms and unitary groups as above.
+The equations defining a unitary group are polynomial equations over k (but not over K): for the standard form Φ = I the equations are given in matrices as A∗A = I, where 
+          A
+            ∗
+        =
+                A
+                ¯
+              T
+    {\displaystyle A^{*}={\bar {A}}^{\mathrm {T} }}
+   is the conjugate transpose. Given a different form, they are A∗ΦA = Φ. The unitary group is thus an algebraic group, whose points over a k-algebra R are given by:
+        U
+        ⁡
+        (
+        n
+        ,
+        K
+          /
+        k
+        ,
+        Φ
+        )
+        (
+        R
+        )
+        :=
+          {
+          A
+          ∈
+          GL
+          ⁡
+          (
+          n
+          ,
+          K
+            ⊗
+              k
+          R
+          )
+          :
+            A
+              ∗
+          Φ
+          A
+          =
+          Φ
+          }
+        .
+    {\displaystyle \operatorname {U} (n,K/k,\Phi )(R):=\left\{A\in \operatorname {GL} (n,K\otimes _{k}R):A^{*}\Phi A=\Phi \right\}.}
+For the field extension C/R and the standard (positive definite) Hermitian form, these yield an algebraic group with real and complex points given by:
+        U
+        ⁡
+        (
+        n
+        ,
+          C
+          /
+          R
+        )
+        (
+          R
+        )
+        =
+        U
+        ⁡
+        (
+        n
+        )
+    {\displaystyle \operatorname {U} (n,\mathbf {C} /\mathbf {R} )(\mathbf {R} )=\operatorname {U} (n)}
+        U
+        ⁡
+        (
+        n
+        ,
+          C
+          /
+          R
+        )
+        (
+          C
+        )
+        =
+        GL
+        ⁡
+        (
+        n
+        ,
+          C
+        )
+        .
+    {\displaystyle \operatorname {U} (n,\mathbf {C} /\mathbf {R} )(\mathbf {C} )=\operatorname {GL} (n,\mathbf {C} ).}
+In fact, the unitary group is a linear algebraic group.
+The unitary group of a quadratic module is a generalisation of the linear algebraic group U just defined, which incorporates as special cases many different classical algebraic groups. The definition goes back to Anthony Bak's thesis.
+To define it, one has to define quadratic modules first:
+Let R be a ring with anti-automorphism J, 
+        ε
+        ∈
+          R
+            ×
+    {\displaystyle \varepsilon \in R^{\times }}
+   such that 
+          r
+              J
+                2
+        =
+        ε
+        r
+          ε
+            −
+            1
+    {\displaystyle r^{J^{2}}=\varepsilon r\varepsilon ^{-1}}
+   for all r in R and 
+          ε
+            J
+        =
+          ε
+            −
+            1
+    {\displaystyle \varepsilon ^{J}=\varepsilon ^{-1}}
+  . Define
+          Λ
+            m
+            i
+            n
+        :=
+        {
+        r
+        ∈
+        R
+        :
+        r
+        −
+          r
+            J
+        ε
+        }
+        ,
+    {\displaystyle \Lambda _{min}:=\{r\in R\ :\ r-r^{J}\varepsilon \},}
+          Λ
+            m
+            a
+            x
+        :=
+        {
+        r
+        ∈
+        R
+        :
+          r
+            J
+        ε
+        =
+        −
+        r
+        }
+        .
+    {\displaystyle \Lambda _{max}:=\{r\in R\ :\ r^{J}\varepsilon =-r\}.}
+Let Λ ⊆ R be an additive subgroup of R, then Λ is called form parameter if 
+          Λ
+            m
+            i
+            n
+        ⊆
+        Λ
+        ⊆
+          Λ
+            m
+            a
+            x
+    {\displaystyle \Lambda _{min}\subseteq \Lambda \subseteq \Lambda _{max}}
+   and 
+          r
+            J
+        Λ
+        r
+        ⊆
+        Λ
+    {\displaystyle r^{J}\Lambda r\subseteq \Lambda }
+  . A pair (R, Λ) such that R is a ring and Λ a form parameter is called form ring.
+Let M be an R-module and f a J-sesquilinear form on M (i.e. 
+        f
+        (
+        x
+        r
+        ,
+        y
+        s
+        )
+        =
+          r
+            J
+        f
+        (
+        x
+        ,
+        y
+        )
+        s
+    {\displaystyle f(xr,ys)=r^{J}f(x,y)s}
+   for any 
+        x
+        ,
+        y
+        ∈
+        M
+    {\displaystyle x,y\in M}
+   and 
+        r
+        ,
+        s
+        ∈
+        R
+    {\displaystyle r,s\in R}
+  ). Define 
+        h
+        (
+        x
+        ,
+        y
+        )
+        :=
+        f
+        (
+        x
+        ,
+        y
+        )
+        +
+        f
+        (
+        y
+        ,
+        x
+          )
+            J
+        ε
+        ∈
+        R
+    {\displaystyle h(x,y):=f(x,y)+f(y,x)^{J}\varepsilon \in R}
+   and 
+        q
+        (
+        x
+        )
+        :=
+        f
+        (
+        x
+        ,
+        x
+        )
+        ∈
+        R
+          /
+        Λ
+    {\displaystyle q(x):=f(x,x)\in R/\Lambda }
+  , then f is said to define the Λ-quadratic form (h, q) on M. A quadratic module over (R, Λ) is a triple (M, h, q) such that M is an R-module and (h, q) is a Λ-quadratic form.
+To any quadratic module (M, h, q) defined by a J-sesquilinear form f on M over a form ring (R, Λ) one can associate the unitary group
+        U
+        (
+        M
+        )
+        :=
+        {
+        σ
+        ∈
+        G
+        L
+        (
+        M
+        )
+        :
+        ∀
+        x
+        ,
+        y
+        ∈
+        M
+        ,
+        h
+        (
+        σ
+        x
+        ,
+        σ
+        y
+        )
+        =
+        h
+        (
+        x
+        ,
+        y
+        )
+           and 
+        q
+        (
+        σ
+        x
+        )
+        =
+        q
+        (
+        x
+        )
+        }
+        .
+    {\displaystyle U(M):=\{\sigma \in GL(M)\ :\ \forall x,y\in M,h(\sigma x,\sigma y)=h(x,y){\text{ and }}q(\sigma x)=q(x)\}.}
+The special case where Λ = Λmax, with J any non-trivial involution (i.e. 
+        J
+        ≠
+        i
+          d
+            R
+        ,
+          J
+            2
+        =
+        i
+          d
+            R
+    {\displaystyle J\neq id_{R},J^{2}=id_{R}}
+   and ε = −1 gives back the "classical" unitary group (as an algebraic group).
+The unitary groups are the automorphisms of two polynomials in real non-commutative variables:
+          C
+            1
+        =
+        (
+          u
+            2
+        +
+          v
+            2
+        )
+        +
+        (
+          w
+            2
+        +
+          x
+            2
+        )
+        +
+        (
+          y
+            2
+        +
+          z
+            2
+        )
+        +
+        .
+        .
+        .
+    {\displaystyle C_{1}=(u^{2}+v^{2})+(w^{2}+x^{2})+(y^{2}+z^{2})+...}
+          C
+            2
+        =
+        (
+        u
+        v
+        −
+        v
+        u
+        )
+        +
+        (
+        w
+        x
+        −
+        x
+        w
+        )
+        +
+        (
+        y
+        z
+        −
+        z
+        y
+        )
+        +
+        .
+        .
+        .
+    {\displaystyle C_{2}=(uv-vu)+(wx-xw)+(yz-zy)+...}
+These are easily seen to be the real and imaginary parts of the complex form 
+        Z
+            Z
+            ¯
+    {\displaystyle Z{\overline {Z}}}
+  . The two invariants separately are invariants of O(2n) and Sp(2n, R). Combined they make the invariants of U(n) which is a subgroup of both these groups. The variables must be non-commutative in these invariants otherwise the second polynomial is identically zero.
+The classifying space for U(n) is described in the article classifying space for U(n).
+projective unitary group
+orthogonal group
+symplectic group

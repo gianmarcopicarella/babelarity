@@ -1,0 +1,11 @@
+Eosin is a name of several fluorescent acidic compounds which bind to and form salts with basic, or eosinophilic, compounds like proteins containing amino acid residues such as arginine and lysine, and stains them dark red or pink as a result of the actions of bromine on fluorescein. In addition to staining proteins in the cytoplasm, it can be used to stain collagen and muscle fibers for examination under the microscope. Structures that stain readily with eosin are termed eosinophilic.
+The name Eosin comes from Eos, the Ancient Greek word for 'dawn' and the name of the Ancient Greek goddess of the dawn.
+There are actually two very closely related compounds commonly referred to as eosin. Most often used is Eosin Y (also known as eosin Y ws, eosin yellowish, Acid Red 87, C.I. 45380, bromoeosine, bromofluoresceic acid, D&C Red No. 22); it has a very slightly yellowish cast. The other eosin compound is eosin B (eosin bluish, Acid Red 91, C.I. 45400, Saffrosine, Eosin Scarlet, or imperial red); it has a very faint bluish cast. The two dyes are interchangeable, and the use of one or the other is a matter of preference and tradition.
+Eosin Y is a tetrabromo derivative of fluorescein. Eosin B is a dibromo dinitro derivative of fluorescein.
+Eosin is most often used as a counterstain to hematoxylin in H&E (haematoxylin and eosin) staining. H&E staining is one of the most commonly used techniques in histology. Tissue stained with haematoxylin and eosin shows cytoplasm stained pink-orange and nuclei stained darkly, either blue or purple. Eosin also stains red blood cells intensely red.
+For staining, eosin Y is typically used in concentrations of 1 to 5 percent weight by volume, dissolved in water or ethanol. For prevention of mold growth in aqueous solutions, thymol is sometimes added. A small concentration (0.5 percent) of acetic acid usually gives a deeper red stain to the tissue.
+It is listed as an IARC class 3 carcinogen.
+Haematoxylin
+H&E stain
+Romanowsky stain
+Merbromin

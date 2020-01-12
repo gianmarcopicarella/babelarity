@@ -1,0 +1,248 @@
+In mathematics, the Wronskian (or Wrońskian) is a determinant introduced by Józef Hoene-Wroński (1812) and named by Thomas Muir (1882, Chapter XVIII). It is used in the study of differential equations, where it can sometimes show linear independence in a set of solutions.
+The Wronskian of two differentiable functions f  and g is W(f, g) = f g′ – g f ′.
+More generally, for n real- or complex-valued functions f1, . . . , fn, which are n – 1 times differentiable on an interval I, the Wronskian W(f1, . . . , fn) as a function on I is defined by
+        W
+        (
+          f
+            1
+        ,
+        …
+        ,
+          f
+            n
+        )
+        (
+        x
+        )
+        =
+            |
+                    f
+                      1
+                  (
+                  x
+                  )
+                    f
+                      2
+                  (
+                  x
+                  )
+                  ⋯
+                    f
+                      n
+                  (
+                  x
+                  )
+                    f
+                      1
+                    ′
+                  (
+                  x
+                  )
+                    f
+                      2
+                    ′
+                  (
+                  x
+                  )
+                  ⋯
+                    f
+                      n
+                    ′
+                  (
+                  x
+                  )
+                  ⋮
+                  ⋮
+                  ⋱
+                  ⋮
+                    f
+                      1
+                      (
+                      n
+                      −
+                      1
+                      )
+                  (
+                  x
+                  )
+                    f
+                      2
+                      (
+                      n
+                      −
+                      1
+                      )
+                  (
+                  x
+                  )
+                  ⋯
+                    f
+                      n
+                      (
+                      n
+                      −
+                      1
+                      )
+                  (
+                  x
+                  )
+            |
+        ,
+        x
+        ∈
+        I
+        .
+    {\displaystyle W(f_{1},\ldots ,f_{n})(x)={\begin{vmatrix}f_{1}(x)&f_{2}(x)&\cdots &f_{n}(x)\\f_{1}'(x)&f_{2}'(x)&\cdots &f_{n}'(x)\\\vdots &\vdots &\ddots &\vdots \\f_{1}^{(n-1)}(x)&f_{2}^{(n-1)}(x)&\cdots &f_{n}^{(n-1)}(x)\end{vmatrix}},\qquad x\in I.}
+That is, it is the determinant of the matrix constructed by placing the functions in the first row, the first derivative of each function in the second row, and so on through the (n – 1)th derivative, thus forming a square matrix sometimes called a fundamental matrix.
+When the functions fi are solutions of a linear differential equation, the Wronskian can be found explicitly using Abel's identity, even if the functions fi are not known explicitly.
+If the functions fi are linearly dependent, then so are the columns of the Wronskian as differentiation is a linear operation, so the Wronskian vanishes. Thus, the Wronskian can be used to show that a set of differentiable functions is linearly independent on an interval by showing that it does not vanish identically. It may, however, vanish at isolated points.
+A common misconception is that W = 0 everywhere implies linear dependence, but Peano (1889) pointed out that the functions x2 and |x|x have continuous derivatives and their Wronskian vanishes everywhere, yet they are not linearly dependent in any neighborhood of 0. There are several extra conditions which ensure that the vanishing of the Wronskian in an interval implies linear dependence. Peano (1889) observed that if the functions are analytic, then the vanishing of the Wronskian in an interval implies that they are linearly dependent. (Peano published his example twice, because the first time he published it an editor Paul Mansion, who had written a textbook incorrectly claiming that the vanishing of the Wronskian implies linear dependence, added a footnote to Peano's paper claiming that this result is correct as long as neither function is identically zero. Peano's second paper pointed out that this footnote was nonsense.) Bocher (1901) gave several other conditions for the vanishing of the Wronskian to imply linear dependence; for example, if the Wronskian of n functions is identically zero and the n Wronskians of n – 1 of them do not all vanish at any point then the functions are linearly dependent. Wolsson (1989a) gave a more general condition that together with the vanishing of the Wronskian implies linear dependence.
+Over fields of positive characteristic p the Wronskian may vanish even for linearly independent polynomials; for example, the Wronskian of xp and 1 is identically 0.
+In general, for a 
+        n
+    {\displaystyle n}
+  -th order linear differential equation, if 
+        (
+        n
+        −
+        1
+        )
+    {\displaystyle (n-1)}
+   solutions are known, the last one can be determined by using the Wronskian.
+Consider the second order differential equation
+          y
+          ″
+        =
+        a
+          y
+          ′
+        +
+        b
+        y
+    {\displaystyle y''=ay'+by}
+where 
+        a
+        (
+        x
+        )
+        ,
+        b
+        (
+        x
+        )
+    {\displaystyle a(x),b(x)}
+   are known functions of 
+        x
+    {\displaystyle x}
+   and 
+        y
+        (
+        x
+        )
+    {\displaystyle y(x)}
+   is the yet to be determined function. Let us call 
+          y
+            1
+        ,
+          y
+            2
+    {\displaystyle y_{1},y_{2}}
+   the two solutions of the equation and form their Wronskian
+        W
+        (
+        x
+        )
+        =
+          y
+            1
+          ′
+          y
+            2
+        −
+          y
+            2
+          ′
+          y
+            1
+    {\displaystyle W(x)=y'_{1}y_{2}-y'_{2}y_{1}}
+Then differentiating 
+        W
+        (
+        x
+        )
+    {\displaystyle W(x)}
+   and using the fact that 
+          y
+            i
+    {\displaystyle y_{i}}
+   obey the above differential equation shows that
+          W
+          ′
+        (
+        x
+        )
+        =
+        a
+        W
+        (
+        x
+        )
+    {\displaystyle W'(x)=aW(x)}
+Therefore, the Wronskian obeys a simple first order differential equation and can be exactly solved :
+        W
+        (
+        x
+        )
+        =
+          e
+            A
+            (
+            x
+            )
+    {\displaystyle W(x)=e^{A(x)}}
+   where 
+          A
+          ′
+        (
+        x
+        )
+        =
+        a
+        (
+        x
+        )
+    {\displaystyle A'(x)=a(x)}
+Now suppose that we know one of the solutions, say 
+          y
+            2
+    {\displaystyle y_{2}}
+  . Then, by the definition of the Wronskian, 
+          y
+            1
+    {\displaystyle y_{1}}
+   obeys a first order differential equation :
+          y
+            1
+          ′
+        −
+              y
+                2
+              ′
+              y
+                2
+          y
+            1
+        =
+        W
+        (
+        x
+        )
+          /
+          y
+            2
+    {\displaystyle y'_{1}-{\frac {y'_{2}}{y_{2}}}y_{1}=W(x)/y_{2}}
+and can be solved exactly (at least in theory).
+The method is easily generalized to higher order equations.
+For n functions of several variables, a generalized Wronskian is a determinant of an n by n matrix with entries Di(fj) (with 0 ≤ i < n), where each Di is some constant coefficient linear partial differential operator of order i. If the functions are linearly dependent then all generalized Wronskians vanish. As in the 1 variable case the converse is not true in general: if all generalized Wronskians vanish, this does not imply that the functions are linearly dependent. However, the converse is true in many special cases. For example, if the functions are polynomials and all generalized Wronskians vanish, then the functions are linearly dependent. Roth used this result about generalized Wronskians in his proof of Roth's theorem. For more general conditions under which the converse is valid see Wolsson (1989b).
+Moore matrix, analogous to the Wronskian with differentiation replaced by the Frobenius endomorphism over a finite field.
+Variation of parameters

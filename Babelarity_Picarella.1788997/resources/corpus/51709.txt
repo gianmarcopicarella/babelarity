@@ -1,0 +1,45 @@
+A page description language (PDL) is a language that describes the appearance of a printed page in a higher level than an actual output bitmap. An overlapping term is printer control language, which includes Hewlett-Packard's PCL. PostScript is one of the most noted page description languages. The markup language adaptation of the PDL is the page description markup language.
+Page description languages are textual or binary data streams. In principle, the same data stream could be rendered multiple times to generate multiple copies of the same image. They are distinct from graphics APIs such as GDI and OpenGL that can be called by software to generate graphical output.
+Various page description languages exist:
+AFP, Advanced Function Presentation (IBM)
+Canon GARO, Graphic Arts language with Raster Operations
+Common Ground page definition language
+CPCL, Comtec Printer Control Language (Zebra, Comtec)
+DPL, Datamax Printer Language
+DTPL, Datamax Ticket Printer Language
+DVI, Device Independent, output from TeX
+E411, Emulation 411, for Ticketing and Flight Strip (ATC) systems (by IER)
+EPL, Eltron Programming Language
+Envoy, a page description language created by WordPerfect Corporation
+ESC/P, Epson Standard Code for Printers, simple language mainly used in dot matrix printers
+ESC/P2, an expanded version of ESC/P
+ESC/Page, Epson Standard Code for Page Printer, a page description language (distinct from ESC/P) used in a number of Epson laser printers, especially Japanese models
+ESC/POS, Epson Standard Code for POS printers
+FGL, Friendly Ghost Language, used by Boca Systems printers
+HP-GL and HP-GL/2, geometric language introduced by Hewlett-Packard for pen plotters, still in use today for technical drawings
+Interpress (Xerox)
+IJPDS, Ink Jet Printer Data Stream (by Kodak)
+IPDS, Intelligent Printer Data Stream (by IBM)
+KPDL, Kyocera Page Description Language
+LCDS/Metacode, a Xerox print stream format used in their older high-speed printers
+MODCA, Mixed Object Document Content Architecture (IBM)
+MTPL, Mannesmann Tally Printer Language
+PCL, Printer Command Language (Hewlett-Packard)
+PDF*, Portable Document Format (Adobe Systems), now ISO 32000
+PostScript (Adobe Systems)
+PPDS, Personal Printer Data Stream by IBM
+RPCS, Refined Printing Command Stream by Ricoh
+Star Line Mode, variant of ESC/POS used by Star printers
+SPL, Samsung Printer Language, specifications are available at http://splix.sf.net/
+SVG, an XML-based graphics description language primarily developed for the World Wide Web
+TSPL, TSC Printers programming language
+TTP, print language for former Swecoin (now Zebra) kiosk printers
+UFR (Ultra Fast Rendering), a proprietary language used by Canon
+XES, Xerox Escape Sequence
+XPS, XML Paper Specification introduced in Windows Vista
+ZJS, Zenographics ZjStream Page Description Language
+ZPL, Zebra Programming Language
+IGP/PGL, Printronix Graphics Language
+Markup language
+List of vector graphics markup languages
+Printer Job Language

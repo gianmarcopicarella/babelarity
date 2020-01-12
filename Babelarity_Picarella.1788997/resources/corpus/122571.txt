@@ -1,0 +1,33 @@
+The Tai or Zhuang–Tai languages (Thai: ภาษาไท or ภาษาไต, transliteration: p̣hās̛̄āthay or p̣hās̛̄ātay) are a branch of the Tai–Kadai language family. The Tai languages include the most widely spoken of the Tai–Kadai languages, including standard Thai or Siamese, the national language of Thailand; Lao or Laotian, the national language of Laos; Burma's Shan language; and Zhuang, a major language in the southern Chinese province of Guangxi.
+Cognates with the name Tai (Thai, Dai, etc.) are used by speakers of many Tai languages. The term Tai is now well-established as the generic name in English. In his book The Tai-Kadai Languages Anthony Diller claims that Lao scholars he has met are not pleased with Lao being regarded as a Tai language. For some, Thai should instead be considered a member of the Lao language family. One or more Ancient Chinese characters for ‘Lao’ may be cited in support of this alternative appellation. Because Tai is homophonous with Thai, the national language of Thailand, some linguists such as Gedney and Li continue to use Siamese for the latter. Similarly, the terms Dai and Daic have fallen somewhat out of favor as the name for the entire family, with either Tai–Kadai or Kra–Dai being more common.
+Many of the languages are called Zhuang in China and Nung in Vietnam.
+Citing the fact that both the Zhuang and Thai peoples have the same exonym for the Vietnamese, kɛɛuA1, Jerold A. Edmondson of the University of Texas, Arlington posited that the split between Zhuang (a Central Tai language) and the Southwest Tai languages happened no earlier than the founding of Jiaozhi in Vietnam in 112 BCE but no later than the 5th–6th century. However, based on layers of Chinese loanwords in Proto-Southwestern Tai and other historical evidence, Pittayawat Pittayaporn (2014) suggests that the separation between Proto-Southwestern Tai and Proto-Tai must have taken place sometime between the 8th–10th centuries.
+Haudricourt emphasizes the specificity of Dioi (Zhuang) and proposes to make a two-way distinction between the following two sets. The language names used in Haudricourt's (1956) original are provided first, followed by currently more widespread ethnonyms in brackets.
+Characteristics of the Dioi group pointed out by Haudricourt are (i) a correspondence between r- in Dioi and the lateral l- in the other Tai languages, (ii) divergent characteristics of the vowel systems of the Dioi group: e.g. 'tail' has a /a/ vowel in Tai proper, as against /ə̄/ in Bo-ai, /iə/ in Tianzhou, and /ɯə/ in Tianzhou and Wuming, and (iii) the lack, in the Dioi group, of aspirated stops and affricates, which are found everywhere in Tai proper.
+As compared with Li Fang-kuei's classification, Haudricourt's classification amounts to consider Li's Southern Tai and Central Tai as forming a subgroup, of which Southwestern Tai is a sister: the three last languages in Haudricourt's list of 'Tai proper' languages are Tho (Tày), Longzhou, and Nung, which Li classifies as 'Central Tai'.
+Li Fang-Kuei divided Tai into Northern, Central, and Southwestern (Thai) branches. However, Central Tai does not appear to be a valid group. Li (1977) proposes a tripartite division of Tai into three sister branches. This classification scheme has long been accepted as the standard one in the field of comparative Tai linguistics.
+Gedney (1989) considers Central and Southwestern Tai to form a subgroup, of which Northern Tai is a sister.
+In a 2009 Ph.D. dissertation, Pittayawat Pittayaporn classifies the Tai languages based on clusters of shared innovations (which, individually, may be associated with more than one branch) (Pittayaporn 2009:298). In Pittayaporn's classification system, the Zhuang dialects of Chóngzuǒ in Guangxi have the most internal diversity. Only the Southwestern Tai branch remains unchanged from Fang-Kuei Li's 1977 classification system, and several of the Southern Zhuang languages allocated ISO codes are shown to be paraphyletic. The classification is as follows:
+Standard Zhuang is based on the dialect of Shuangqiao (双桥), Wuming County.
+The following phonological shifts occurred in the Q (Southwestern), N (Northern), B (Ningming), and C (Chongzuo) subgroups (Pittayaporn 2009:300–301).
+Furthermore, the following shifts occurred at various nodes leading up to node Q.
+E: *p.t- > *p.r-; *ɯm > *ɤm
+G: *k.r- > *qr-
+K: *e:, *o: > *ɛ:, *ɔ:
+O: *ɤn > *on
+Q: *kr- > *ʰr-
+Proto-Tai has been reconstructed in 1977 by Fang-Kuei Li and by Pittayawat Pittayaporn in 2009.
+Proto-Southwestern Tai has also been reconstructed in 1977 by Fang-Kuei Li and by Nanna L. Jonsson in 1991.
+Below is comparative table of Tai languages.
+Many Southwestern Tai languages are written using Brāhmī-derived alphabets. Zhuang languages are traditionally written with Chinese characters called Sawndip, and now officially written with a romanized alphabet, though the traditional writing system is still in use to this day.
+Thai alphabet [1]
+Lao alphabet [2]
+Sawndip
+Shan alphabet [3]
+Ahom alphabet [4]
+Tai Dam alphabet [5]
+Tai Le alphabet [6]
+New Tai Lue alphabet [7]
+Tai Tham alphabet [8]
+Miscellaneous Tai languages
+Zomia (geography)

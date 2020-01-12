@@ -1,0 +1,491 @@
+In real analysis, Bernoulli's inequality (named after Jacob Bernoulli) is an inequality that approximates exponentiations of 1 + x.
+The inequality states that
+        (
+        1
+        +
+        x
+          )
+            r
+        ≥
+        1
+        +
+        r
+        x
+    {\displaystyle (1+x)^{r}\geq 1+rx\!}
+for every integer r ≥ 0 and every real number x ≥ −1. If the exponent r is even, then the inequality is valid for all real numbers x. The strict version of the inequality reads
+        (
+        1
+        +
+        x
+          )
+            r
+        >
+        1
+        +
+        r
+        x
+    {\displaystyle (1+x)^{r}>1+rx\!}
+for every integer r ≥ 2 and every real number x ≥ −1 with x ≠ 0.
+There is also a generalized version that says for every real number r ≥ 1 and real number x ≥ -1,
+        (
+        1
+        +
+        x
+          )
+            r
+        ≥
+        1
+        +
+        r
+        x
+        ,
+    {\displaystyle (1+x)^{r}\geq 1+rx,\!}
+while for 0 ≤ r ≤ 1 and real number x ≥ -1,
+        (
+        1
+        +
+        x
+          )
+            r
+        ≤
+        1
+        +
+        r
+        x
+        .
+    {\displaystyle (1+x)^{r}\leq 1+rx.\!}
+Bernoulli's inequality is often used as the crucial step in the proof of other inequalities. It can itself be proved using mathematical induction, as shown below.
+Jacob Bernoulli first published the inequality in his treatise “Positiones Arithmeticae de Seriebus Infinitis” (Basel, 1689), where he used the inequality often.
+According to Joseph E. Hofmann, Über die Exercitatio Geometrica des M. A. Ricci (1963), p. 177, the inequality is actually due to Sluse in his Mesolabum (1668 edition), Chapter IV "De maximis & minimis".
+For r = 0,
+        (
+        1
+        +
+        x
+          )
+            0
+        ≥
+        1
+        +
+        0
+        x
+    {\displaystyle (1+x)^{0}\geq 1+0x\,}
+is equivalent to 1 ≥ 1 which is true as required.
+Now suppose the statement is true for r = k:
+        (
+        1
+        +
+        x
+          )
+            k
+        ≥
+        1
+        +
+        k
+        x
+        .
+    {\displaystyle (1+x)^{k}\geq 1+kx.\,}
+Then it follows that
+                (
+                1
+                +
+                x
+                )
+                (
+                1
+                +
+                x
+                  )
+                    k
+                ≥
+                (
+                1
+                +
+                x
+                )
+                (
+                1
+                +
+                k
+                x
+                )
+                  (by hypothesis, since 
+                (
+                1
+                +
+                x
+                )
+                ≥
+                0
+                )
+                ⟺
+                (
+                1
+                +
+                x
+                  )
+                    k
+                    +
+                    1
+                ≥
+                1
+                +
+                k
+                x
+                +
+                x
+                +
+                k
+                  x
+                    2
+                ,
+                ⟺
+                (
+                1
+                +
+                x
+                  )
+                    k
+                    +
+                    1
+                ≥
+                1
+                +
+                (
+                k
+                +
+                1
+                )
+                x
+                +
+                k
+                  x
+                    2
+                .
+                ⟺
+                (
+                1
+                +
+                x
+                  )
+                    k
+                    +
+                    1
+                ≥
+                1
+                +
+                (
+                k
+                +
+                1
+                )
+                x
+    {\displaystyle {\begin{aligned}&{}\qquad (1+x)(1+x)^{k}\geq (1+x)(1+kx)\quad {\text{(by hypothesis, since }}(1+x)\geq 0)\\&\iff (1+x)^{k+1}\geq 1+kx+x+kx^{2},\\&\iff (1+x)^{k+1}\geq 1+(k+1)x+kx^{2}.\\&\iff (1+x)^{k+1}\geq 1+(k+1)x\\\end{aligned}}}
+By induction we conclude the statement is true for all r ≥ 0.
+The exponent r can be generalized to an arbitrary real number as follows: if x > −1, then
+        (
+        1
+        +
+        x
+          )
+            r
+        ≥
+        1
+        +
+        r
+        x
+    {\displaystyle (1+x)^{r}\geq 1+rx\!}
+for r ≤ 0 or r ≥ 1, and
+        (
+        1
+        +
+        x
+          )
+            r
+        ≤
+        1
+        +
+        r
+        x
+    {\displaystyle (1+x)^{r}\leq 1+rx\!}
+for 0 ≤ r ≤ 1.
+This generalization can be proved by comparing derivatives. Again, the strict versions of these inequalities require x ≠ 0 and r ≠ 0, 1.
+The following inequality estimates the r-th power of 1 + x from the other side. For any real numbers x, r > 0, one has
+        (
+        1
+        +
+        x
+          )
+            r
+        ≤
+          e
+            r
+            x
+        ,
+    {\displaystyle (1+x)^{r}\leq e^{rx},\!}
+where e = 2.718.... This may be proved using the inequality (1 + 1/k)k < e.
+An alternative form of Bernoulli's inequality for 
+        t
+        ≥
+        1
+    {\displaystyle t\geq 1}
+   and 
+        0
+        ≤
+        x
+        ≤
+        1
+    {\displaystyle 0\leq x\leq 1}
+   is:
+        (
+        1
+        −
+        x
+          )
+            t
+        ≥
+        1
+        −
+        x
+        t
+        .
+    {\displaystyle (1-x)^{t}\geq 1-xt.}
+This can be proved (for integer t) by using the formula for geometric series: (using y=1-x)
+        t
+        =
+        1
+        +
+        1
+        +
+        ⋯
+        +
+        1
+        ≥
+        1
+        +
+        y
+        +
+          y
+            2
+        +
+        …
+        +
+          y
+            t
+            −
+            1
+        =
+              1
+              −
+                y
+                  t
+              1
+              −
+              y
+    {\displaystyle t=1+1+\dots +1\geq 1+y+y^{2}+\ldots +y^{t-1}={\frac {1-y^{t}}{1-y}}}
+or equivalently 
+        x
+        t
+        ≥
+        1
+        −
+        (
+        1
+        −
+        x
+          )
+            t
+        .
+    {\displaystyle xt\geq 1-(1-x)^{t}.}
+An elementary proof for 
+        0
+        ≤
+        r
+        ≤
+        1
+    {\displaystyle 0\leq r\leq 1}
+   can be given using Weighted AM-GM.
+Let 
+          λ
+            1
+        ,
+          λ
+            2
+    {\displaystyle \lambda _{1},\lambda _{2}}
+   be two non-negative real constants. By Weighted AM-GM on 
+        1
+        ,
+        1
+        +
+        x
+    {\displaystyle 1,1+x}
+   with weights 
+          λ
+            1
+        ,
+          λ
+            2
+    {\displaystyle \lambda _{1},\lambda _{2}}
+   respectively, we get
+                  λ
+                    1
+                ⋅
+                1
+                +
+                  λ
+                    2
+                ⋅
+                (
+                1
+                +
+                x
+                )
+                  λ
+                    1
+                +
+                  λ
+                    2
+        ≥
+              (
+              1
+              +
+              x
+                )
+                    λ
+                      2
+                λ
+                  1
+              +
+                λ
+                  2
+    {\displaystyle {\dfrac {\lambda _{1}\cdot 1+\lambda _{2}\cdot (1+x)}{\lambda _{1}+\lambda _{2}}}\geq {\sqrt[{\lambda _{1}+\lambda _{2}}]{(1+x)^{\lambda _{2}}}}}
+Note that
+                  λ
+                    1
+                ⋅
+                1
+                +
+                  λ
+                    2
+                ⋅
+                (
+                1
+                +
+                x
+                )
+                  λ
+                    1
+                +
+                  λ
+                    2
+        =
+                  λ
+                    1
+                +
+                  λ
+                    2
+                +
+                  λ
+                    2
+                x
+                  λ
+                    1
+                +
+                  λ
+                    2
+        =
+        1
+        +
+                λ
+                  2
+                  λ
+                    1
+                +
+                  λ
+                    2
+        x
+    {\displaystyle {\dfrac {\lambda _{1}\cdot 1+\lambda _{2}\cdot (1+x)}{\lambda _{1}+\lambda _{2}}}={\dfrac {\lambda _{1}+\lambda _{2}+\lambda _{2}x}{\lambda _{1}+\lambda _{2}}}=1+{\dfrac {\lambda _{2}}{\lambda _{1}+\lambda _{2}}}x}
+and
+              (
+              1
+              +
+              x
+                )
+                    λ
+                      2
+                λ
+                  1
+              +
+                λ
+                  2
+        =
+        (
+        1
+        +
+        x
+          )
+                λ
+                  2
+                  λ
+                    1
+                +
+                  λ
+                    2
+    {\displaystyle {\sqrt[{\lambda _{1}+\lambda _{2}}]{(1+x)^{\lambda _{2}}}}=(1+x)^{\frac {\lambda _{2}}{\lambda _{1}+\lambda _{2}}}}
+so our inequality is equivalent to
+        1
+        +
+                λ
+                  2
+                  λ
+                    1
+                +
+                  λ
+                    2
+        x
+        ≥
+        (
+        1
+        +
+        x
+          )
+                λ
+                  2
+                  λ
+                    1
+                +
+                  λ
+                    2
+    {\displaystyle 1+{\dfrac {\lambda _{2}}{\lambda _{1}+\lambda _{2}}}x\geq (1+x)^{\frac {\lambda _{2}}{\lambda _{1}+\lambda _{2}}}}
+After substituting 
+        r
+        =
+                λ
+                  2
+                  λ
+                    1
+                +
+                  λ
+                    2
+    {\displaystyle r={\dfrac {\lambda _{2}}{\lambda _{1}+\lambda _{2}}}}
+   (bearing in mind that this implies 
+        0
+        ≤
+        r
+        ≤
+        1
+    {\displaystyle 0\leq r\leq 1}
+  ) our inequality turns into
+        1
+        +
+        r
+        x
+        ≥
+        (
+        1
+        +
+        x
+          )
+            r
+    {\displaystyle 1+rx\geq (1+x)^{r}}
+   which is Bernoulli's inequality.

@@ -1,0 +1,5 @@
+Carl Wilhelm Borchardt (22 February 1817 – 27 June 1880) was a German mathematician.
+Borchardt was born to a Jewish family in Berlin. His father, Moritz, was a respected merchant, and his mother was Emma Heilborn. Borchardt studied under a number of tutors, including Julius Plücker and Jakob Steiner. He studied at the University of Berlin under Lejeune Dirichlet in 1836 and at the University of Königsberg in 1839. In 1848 he began teaching at the University of Berlin.
+He did research in the area of arithmetic-geometric mean, continuing work by Gauss and Lagrange. He generalised the results of Kummer diagonalising symmetric matrices, using determinants and Sturm functions. He was also an editor of Crelle's Journal from 1856–80, during which time it was known as Borchardt's Journal.
+He died in Rüdersdorf, Germany. His grave is preserved in the Protestant Friedhof III der Jerusalems- und Neuen Kirchengemeinde (Cemetery No. III of the congregations of Jerusalem's Church and New Church) in Berlin-Kreuzberg, south of Hallesches Tor.
+Cayley's formula

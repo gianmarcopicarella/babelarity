@@ -1,0 +1,153 @@
+Good Will Hunting is a 1997 American drama film, directed by Gus Van Sant and starring Robin Williams, Matt Damon, Ben Affleck, Minnie Driver and Stellan Skarsgård. Written by Affleck and Damon (and with Damon in the title role), the film follows 20-year-old South Boston laborer Will Hunting, an unrecognized genius who, as part of a deferred prosecution agreement after assaulting a police officer, becomes a client of a therapist and studies advanced mathematics with a renowned professor. Through his therapy sessions, Will re-evaluates his relationships with his best friend, his girlfriend and himself, facing the significant task of confronting his past and thinking about his future.
+The film received universal critical acclaim and was a financial success. It grossed over US$225 million during its theatrical run with only a modest $10 million budget. It was nominated for nine Academy Awards, including the Academy Award for Best Picture, and won two: Best Supporting Actor for Williams and Best Original Screenplay for Damon and Affleck.
+After Williams' death in 2014, it was ranked at number 53 in The Hollywood Reporter's 100 Favorite Films list.
+Twenty-year-old Will Hunting (Matt Damon) of South Boston is a self-taught, genius-level intellect, though he works as a janitor at the Massachusetts Institute of Technology and spends his free time drinking with his friends, Chuckie (Ben Affleck), Billy (Cole Hauser) and Morgan (Casey Affleck). When Professor Gerald Lambeau (Stellan Skarsgård) posts a difficult mathematics problem as a challenge for his graduate students, Will solves the problem anonymously, stunning both the graduate students and Lambeau himself. As a challenge to the unknown genius, Lambeau posts an even more difficult problem. Lambeau chances upon Will solving the problem but Will flees the scene. That night at a bar, Will meets Skylar (Minnie Driver), a British student about to graduate from Harvard, who plans on attending medical school at Stanford and gives Will her phone number before leaving.
+The next day, Will and his friends fight a gang at the basketball court. Police arrive and arrest Will. Lambeau visits his court appearance, and notices Will's intellect in defending himself. He arranges for him to forgo jail time if he agrees to study mathematics under Lambeau's supervision and participate in therapy sessions. Will tentatively agrees, but treats his first few therapists with contempt and mockery. His refusal to open up is met with staunch defiance by the various therapists, who each refuse to deal with Will further. In desperation, Lambeau calls on Dr. Sean Maguire (Robin Williams), his estranged and much more grounded college roommate, who now teaches psychology at Bunker Hill Community College. Unlike other therapists, Sean actually challenges Will's defense mechanisms, and after a few unproductive sessions, Will begins to open up.
+Will is particularly struck by Sean's story of how he met his wife by giving up his ticket to the historic game six of the 1975 World Series, after falling in love at first sight. Sean neither regrets his decision, nor does he regret the final years of his marriage, after which his wife died of cancer. This encourages Will to build a relationship with Skylar, though he lies to her about his past and is reluctant to introduce her to his friends or show her his rundown neighborhood. Will also challenges Sean to take an objective look at his own life, since Sean cannot move on from his wife's death.
+Lambeau sets up a number of job interviews for Will, but Will scorns them by sending Chuckie as his "chief negotiator", and by turning down a position at the National Security Agency with a scathing critique of the agency's moral position. Skylar asks Will to move to California with her, but he refuses and tells her he is an orphan, and that his foster father physically abused him. Will breaks up with Skylar, and later storms out on Lambeau, dismissing the mathematical research he has been doing. Sean points out that Will is so adept at anticipating future failure in his interpersonal relationships that he deliberately sabotages them in order to avoid emotional pain. When Will refuses to give an honest reply about what he wants to do with his life, Sean shows him the door. Will tells Chuckie he wants to be a laborer for the rest of his life. Chuckie responds that it would be an insult to his friends for Will to waste his potential and that his fondest wish is that Will should leave to pursue something greater.
+Will walks in on a heated argument between Sean and Lambeau over his potential. Sean and Will share and find out that they were both victims of child abuse. Sean helps Will to see that he is a victim of his own inner demons and to accept that it is not his fault. Sean comforts Will as he cries over twenty years of trauma. Will decides to accept one of the job offers arranged by Lambeau. Having helped Will overcome his problems, Sean reconciles with Lambeau and decides to take a sabbatical to travel the world. When Will's friends present him with a rebuilt Chevrolet Nova for his twenty-first birthday, he decides to pass on his job offers and drive to California to reunite with Skylar. Sometime later, Chuckie goes to Will's house to pick him up, only to find that he is not there, much to his happiness. Sean comes out of his house and finds a letter from Will in his mailbox, which, much to his pleasure, tells him that Will is going to see Skylar. During the ending credits, Will's car is seen driving on the highway to California.
+Matt Damon as William "Will" Hunting
+Robin Williams as Sean Maguire
+Ben Affleck as Charles "Chuckie" Sullivan
+Stellan Skarsgård as Professor Gerald Lambeau
+Minnie Driver as Skylar
+Casey Affleck as Morgan O'Mally
+Cole Hauser as William "Billy" McBride
+Colleen McCauley as Cathy
+John Mighton as Tom
+Rachel Majorowski as Krystyn
+Richard Fitzpatrick as Timmy
+Scott William Winters as Clark
+Rob Lyons as Carmine Scarpaglia
+Steven Kozlowski as Carmine Friend #1
+Jimmy Flynn as Judge George H. Malone
+Kevin Rushton as Courtroom Guard
+Christopher Britton as Executive #2
+Alison Folland as MIT Student
+George Plimpton as Henry Lipkin
+Patrick O'Donnell, professor of physics at University of Toronto, served as mathematical consultant for the film production.
+A turning point in the plot occurs when Will chalks up the adjacency matrix
+            (
+                  0
+                  1
+                  0
+                  1
+                  1
+                  0
+                  2
+                  1
+                  0
+                  2
+                  0
+                  0
+                  1
+                  1
+                  0
+                  0
+            )
+    {\displaystyle {\begin{pmatrix}0&1&0&1\\1&0&2&1\\0&2&0&0\\1&1&0&0\end{pmatrix}}}
+   and its cube
+            (
+                  2
+                  7
+                  2
+                  3
+                  7
+                  2
+                  12
+                  7
+                  2
+                  12
+                  0
+                  2
+                  3
+                  7
+                  2
+                  2
+            )
+    {\displaystyle {\begin{pmatrix}2&7&2&3\\7&2&12&7\\2&12&0&2\\3&7&2&2\end{pmatrix}}}
+as the answer to a challenging problem based on a graph posted by Professor Lambeau.
+Matt Damon originally started writing the film as a final assignment for a playwriting class he was taking at Harvard University. He then approached Ben Affleck and the two finished the screenplay together. At first, it was written as a thriller about a young man in the rough-and-tumble streets of South Boston who possesses a superior intelligence and is targeted by the FBI to become a G-Man. Castle Rock Entertainment president Rob Reiner later urged them to drop the thriller aspect of the story and to focus on the relationship between Will Hunting (Damon) and his psychologist (Robin Williams). At Reiner's request, screenwriter William Goldman read the script and further suggested that the film's climax ought to be Will's decision to follow his girlfriend Skylar to California. Goldman has consistently denied the persistent rumor that he wrote Good Will Hunting or acted as a script doctor. In his book Which Lie Did I Tell?, Goldman jokingly writes, "I did not just doctor it. I wrote the whole thing from scratch," before dismissing the rumor as false.
+Castle Rock bought the script for $675,000 against $775,000, meaning that Damon and Affleck would stand to earn an additional $100,000 if the film was produced and they retained sole writing credit. However, studios balked at the idea of Affleck and Damon in the lead roles, with many studio executives stating that they wanted Brad Pitt and Leonardo DiCaprio. At the time, Damon and Affleck were meeting at Castle Rock, Kevin Smith was working with Affleck on Mallrats and with both Damon and Affleck on Chasing Amy. Castle Rock put the script in turnaround, and gave Damon and Affleck 30 days to find another buyer for the script who would reimburse Castle Rock the money paid, otherwise the script reverted to the studio, and Damon and Affleck would be out. All the studios that were involved in the original bidding war for the screenplay now each turned the pair down, taking meetings with Affleck and Damon only to tell them this to their face. As a last resort, Affleck passed the script to his Chasing Amy director Kevin Smith, who read it and promised to walk the script directly into Harvey Weinstein's office at Miramax. Weinstein read the script, loved it, and paid Castle Rock their due, while also agreeing to let Damon and Affleck star in the film. In his recollection of the meeting, Weinstein asked about an out-of-place, mid-script oral sex scene, which Damon and Affleck explained was a test to see which studio executives had actually read the script.
+After buying the rights from Castle Rock, Miramax gave the green light to put the film into production. Several well-known filmmakers were originally considered to direct, including Mel Gibson, Michael Mann, and Steven Soderbergh. Originally, Affleck asked Kevin Smith if he was interested in directing. He declined, saying they needed a "good director" and that he only directs things he writes and is not much of a visual director. Damon and Affleck later chose Gus Van Sant for the job, whose work on previous films like Drugstore Cowboy (1989) had left a favorable impression on the fledgling screenwriters. Miramax was persuaded and hired Van Sant to direct the film.
+Filming took place between April and June 1997. Although the story is set in Boston, and many of the scenes were done on location in the Greater Boston area, much of the filming was done at locations in Toronto, Ontario, Canada, with the University of Toronto standing in for the interiors of MIT and Harvard University. The classroom scenes were filmed at McLennan Physical Laboratories (of the University of Toronto) and Central Technical School. Harvard normally disallows filming on its property, but permitted limited filming by the project after intervention by Harvard alumnus John Lithgow. Likewise, only the exterior shots of Bunker Hill Community College were filmed in Boston; however, Sean's office was built in Toronto as an exact replica of one at the college.
+The restaurant to which Lambeau took Sean was Locke-Ober on Winter Place. It closed in 2012.
+The interior bar scenes set in "Southie" were shot on location at Woody's L St. Tavern. Meanwhile, the homes of Will (fronting at 190 West 6th Street) and Sean (Joe Keating's three-decker apartment at 259 E Street, which was two-way at time of filming), while some distance apart in the movie, actually back up to each other on Bowen Street, the narrow street Chuckie drives down on a couple of occasions to walk up to Will's back door.
+The Bow and Arrow Pub, which was located at the corner of Bow Street and Massachusetts Avenue in Cambridge, doubled as the Harvard bar in which Will met Skylar for the first time. The Baskin-Robbins/Dunkin' Donuts featured in the "How'd you like them apples?" scene was next door to the pub (now Grafton Street) at the time of the film's release, but it later moved two doors down, after One Bow Street opened up between the two the following year.
+The Tasty, which is the present-day Citizens Bank at the corner of JFK and Brattle Streets, was the scene of Will and Skylar's first kiss. The Au Bon Pain, where Will and Skylar discuss the former's photographic memory, is at the corner of Dunster Street and Mass Ave.
+The Boston Public Garden bench on which Will and Sean sat for a scene in the film became a temporary shrine after Williams' death in 2014.
+Director Gus Van Sant says in the DVD commentary that, had he known just how successful the film was going to be, he would have left at least a couple of edited scenes intact that were cut purely for considerations of length. One of these involves Skylar's visit to Chuckie in hopes of shedding light on some of Will's eccentricities that Will himself is unwilling to discuss.
+The film is dedicated to the memory of poet Allen Ginsberg and writer William S. Burroughs, both of whom died in 1997.
+In the film's opening weekend in limited release, it earned $272,912. In its January 1998 wide-release opening weekend, it earned $10,261,471. It went on to gross $138,433,435 in North America for a total worldwide gross of $225,900,000.
+Good Will Hunting received critical acclaim. Review aggregation website Rotten Tomatoes gives the film a rating of 97%, based on 70 reviews, with an average rating of 8/10. The site's critical consensus reads, "It follows a predictable narrative arc, but Good Will Hunting adds enough quirks to the journey -- and is loaded with enough powerful performances -- that it remains an entertaining, emotionally rich drama." At Metacritic, the film has a score of 70 out of 100, based on 28 critics, indicating "generally favorable reviews".
+Roger Ebert gave the film three out of four stars, writing that while the story is "predictable", it is "the individual moments, not the payoff, that make it so effective."
+Several scholars have examined the film as a portrayal of residual Catholic–Protestant tensions in Boston, as Irish Catholics from Southie are aligned against ostensibly Protestant characters who are affiliated with Harvard and MIT.
+70th Academy Awards
+Won: Academy Award for Best Supporting Actor – Robin Williams
+Won: Academy Award for Best Writing (Original Screenplay) – Ben Affleck & Matt Damon
+Nominated: Academy Award for Best Picture
+Nominated: Academy Award for Best Director – Gus Van Sant
+Nominated: Academy Award for Best Actor – Matt Damon
+Nominated: Academy Award for Best Supporting Actress – Minnie Driver
+Nominated: Academy Award for Film Editing – Pietro Scalia
+Nominated: Academy Award for Original Music Score – Danny Elfman
+Nominated: Academy Award for Best Song – Elliott Smith (song "Miss Misery")
+55th Golden Globe Awards
+Won: Golden Globe Award for Best Screenplay – Ben Affleck & Matt Damon
+Nominated: Golden Globe Award for Best Motion Picture – Drama
+Nominated: Golden Globe Award for Best Actor – Motion Picture Drama – Matt Damon
+Nominated: Golden Globe Award for Best Supporting Actor – Motion Picture – Robin Williams
+Other Major Awards / Nominations
+Won: Silver Bear for Outstanding Single Achievement – Matt Damon
+Nominated: Directors Guild of America Award for Outstanding Directorial Achievement in Motion Pictures – Gus Van Sant
+Nominated: Writers Guild of America Award for Best Screenplay Written Directly for the Screen – Ben Affleck & Matt Damon
+AFI's 100 Years...100 Songs:
+Miss Misery by Elliott Smith – Nominated
+AFI's 100 Years... 100 Cheers – Nominated
+AFI's 100 Years... 100 Movies (10th Anniversary Edition) – Nominated
+The musical score for Good Will Hunting was composed by Danny Elfman, who had previously collaborated with Gus Van Sant on To Die For and would go on to score many of the director's other films. The film also features many songs written and recorded by singer-songwriter Elliott Smith. His song "Miss Misery" was nominated for the Academy Award for Best Original Song, but lost to "My Heart Will Go On" from Titanic. Elfman's score was also nominated for an Oscar, but lost to Titanic as well. On September 11, 2006, The Today Show used Elfman's song "Weepy Donuts" while Matt Lauer spoke during the opening credits.
+A soundtrack album for the film was released by Capitol Records on November 18, 1997, though only two of Elfman's cues appear on the release.
+Elliott Smith – "Between the Bars" (Orchestral)
+Jeb Loy Nichols – "As the Rain"
+Elliott Smith – "Angeles"
+Elliott Smith – "No Name #3"
+The Waterboys – "Fisherman's Blues"
+Luscious Jackson – "Why Do I Lie?"
+Danny Elfman – "Will Hunting" (Main Titles)
+Elliott Smith – "Between the Bars"
+Elliott Smith – "Say Yes"
+Gerry Rafferty – "Baker Street"
+Andru Donalds – "Somebody's Baby"
+The Dandy Warhols – "Boys Better"
+Al Green – "How Can You Mend a Broken Heart?"
+Elliott Smith – "Miss Misery"
+Danny Elfman – "Weepy Donuts"
+"Afternoon Delight" by the Starland Vocal Band was featured in the film, but did not appear on the soundtrack album.
+A limited edition soundtrack album featuring Elfman's complete score from the film was released by Music Box Records on March 3, 2014. The soundtrack, issued in 1500 copies, includes all of Elfman's cues (including music not featured on the rare Miramax Academy promo) and also contains the songs by Elliott Smith. One of the tracks is Smith's songs with Elfman's arrangements added into the mix.
+Main Title (2:44)
+Genie Mopper (0:37)
+First Calculation (1:08)
+Theorem (0:42)
+Kick Ass Choir (0:59)
+Mystery Math (2:28)
+Them Apples (0:57)
+Jail (1:13)
+Second Shrink (1:14)
+Any Port (1:25)
+Times Up (1:14)
+Oliver Twist (1:58)
+Staring Contest (0:49)
+Secret Weapon (0:57)
+Retainer (Part A) (0:58)
+Retainer (Part B) (0:20)
+Tell You Something (0:48)
+No Love Me (0:47)
+Fire Music (1:11)
+Whose Fault (2:34)
+End Titles (3:50)
+Between the Bars (Orchestral) (1:09) - Performed by Elliott Smith / Arr. by Elfman
+No Name #3 (3:04) - Performed by Elliott Smith
+Say Yes (2:15) - Performed by Elliott Smith
+Between the Bars (2:21) - Performed by Elliott Smith
+Angeles (2:55) - Performed by Elliott Smith
+Miss Misery (3:12) - Performed by Elliott Smith

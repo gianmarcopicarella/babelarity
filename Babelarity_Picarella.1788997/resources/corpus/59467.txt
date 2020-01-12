@@ -1,0 +1,17 @@
+Sulfur tetrafluoride is the chemical compound with the formula SF4. This species exists as a gas at standard conditions. It is a corrosive species that releases dangerous HF upon exposure to water or moisture. Despite these unwelcome characteristics, this compound is a useful reagent for the preparation of organofluorine compounds, some of which are important in the pharmaceutical and specialty chemical industries.
+Sulfur in SF4 is in the formal +4 oxidation state. Of sulfur's total of six valence electrons, two form a lone pair. The structure of SF4 can therefore be anticipated using the principles of VSEPR theory: it is a see-saw shape, with S at the center. One of the three equatorial positions is occupied by a nonbonding lone pair of electrons. Consequently, the molecule has two distinct types of F ligands, two axial and two equatorial. The relevant bond distances are S–Fax = 164.3 pm and S–Feq = 154.2 pm. It is typical for the axial ligands in hypervalent molecules to be bonded less strongly. In contrast to SF4, the related molecule SF6 has sulfur in the 6+ state, no valence electrons remain nonbonding on sulfur, hence the molecule adopts a highly symmetrical octahedral structure. Further contrasting with SF4, SF6 is extraordinarily inert chemically.
+The 19F NMR spectrum of SF4 reveals only one signal, which indicates that the axial and equatorial F atom positions rapidly interconvert via pseudorotation.
+SF4 is produced by the reaction of SCl2, Cl2, and NaF:
+SCl2 + Cl2 + 4 NaF → SF4 + 4 NaCl
+Treatment of SCl2 with NaF also affords SF4, not SF2. SF2 is unstable, it condenses with itself to form SF4 and SSF2.
+In organic synthesis, SF4 is used to convert COH and C=O groups into CF and CF2 groups, respectively. Certain alcohols readily give the corresponding fluorocarbon. Ketones and aldehydes give geminal difluorides. The presence of protons alpha to the carbonyl leads to side reactions and diminished (30–40%) yield. Also diols can give cyclic sulfite esters, (RO)2SO. Carboxylic acids convert to trifluoromethyl derivatives. For example treatment of heptanoic acid with SF4 at 100-130 °C produces 1,1,1-trifluoroheptane. Hexafluoro-2-butyne can be similarly produced from acetylenedicarboxylic acid. The coproducts from these fluorinations, including unreacted SF4 together with SOF2 and SO2, are toxic but can be neutralized by their treatment with aqueous KOH.
+The use of SF4 is being superseded in recent years by the more conveniently handled diethylaminosulfur trifluoride, Et2NSF3, "DAST", where Et = CH3CH2. This reagent is prepared from SF4:
+SF4 + Me3SiNEt2 → Et2NSF3 + Me3SiF
+Sulfur chloride pentafluoride (SF
+5Cl), a useful source of the SF5 group, is prepared from SF4.
+Hydrolysis of SF4 gives sulfur dioxide:
+SF4 + 2 H2O → SO2 + 4 HF
+This reaction proceeds via the intermediacy of thionyl fluoride, which usually does not interfere with the use of SF4 as a reagent.
+SF
+4 reacts inside the lungs with moisture:
+SF4 + 2 H2O → SO2 + 4 HF

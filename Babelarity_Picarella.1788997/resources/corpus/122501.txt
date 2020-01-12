@@ -1,0 +1,33 @@
+In general usage, a thesaurus is a reference work that lists words grouped together according to similarity of meaning (containing synonyms and sometimes antonyms), in contrast to a dictionary, which provides definitions for words, and generally lists them in alphabetical order. The main purpose of such reference works is to help the user "to find the word, or words, by which [an] idea may be most fitly and aptly expressed" – to quote Peter Mark Roget, architect of the best known thesaurus in the English language.
+Although including synonyms, a thesaurus should not be taken as a complete list of all the synonyms for a particular word. The entries are also designed for drawing distinctions between similar words and assisting in choosing exactly the right word. Unlike a dictionary, a thesaurus entry does not give the definition of words.
+In library science and information science thesauri have been widely used to specify domain models. Recently, thesauri have been implemented with Simple Knowledge Organization System (SKOS).
+The word "thesaurus" is derived from 16th-century New Latin, in turn from Latin thēsaurus, which is the Latinisation of the Greek θησαυρός (thēsauros), "treasure, treasury, storehouse". The word thēsauros is of uncertain etymology. Douglas Harper derives it from the root of the Greek verb τιθέναι tithenai, "to put, to place." Robert Beekes rejected an Indo-European derivation and suggested a Pre-Greek suffix *-arwo-.
+From the 16th to the 19th centuries, the term "thesaurus" was applied to any dictionary or encylopedia, as in the Thesaurus linguae latinae (1532), and the Thesaurus linguae graecae (1572). The meaning "collection of words arranged according to sense" is first attested in 1852 in Roget's title and thesaurer is attested in Middle English for "treasurer".
+In antiquity, Philo of Byblos authored the first text that could now be called a thesaurus. In Sanskrit, the Amarakosha is a thesaurus in verse form, written in the 4th century.
+The first modern thesaurus was Roget's Thesaurus, first compiled in 1805 by Peter Mark Roget, and published in 1852. Since its publication it has never been out of print and is still a widely used work across the English-speaking world. Entries in Roget's Thesaurus are listed conceptually rather than alphabetically. Roget described his thesaurus in the foreword to the first edition:
+It is now nearly fifty years since I first projected a system of verbal classification similar to that on which the present work is founded. Conceiving that such a compilation might help to supply my own deficiencies, I had, in the year 1805, completed a classed catalogue of words on a small scale, but on the same principle, and nearly in the same form, as the Thesaurus now published.
+Thesaurus of English Words & Phrases (ed. P. Roget); ISBN 0-06-272037-6, see: Roget's Thesaurus.
+World Thesaurus (ed. C. Laird); ISBN 0-671-51983-2. This edition has been used in successive editions since 1971 by Webster's:
+Charlton Laird. Webster's New World Thesaurus. Macmillan USA; 1999 (4th edition). ISBN 978-0-02-863122-6. p. 894.
+Oxford American Desk Thesaurus (ed. C. Lindberg); ISBN 0-19-512674-2
+Oxford Paperback Thesaurus: Fourth Edition; ISBN 978-0-19-964095-9
+Random House Word Menu by Stephen Glazier; ISBN 0-679-40030-3
+Hartrampf's Vocabularies (First published USA, June 1929. Pre ISBN.)
+Historical Thesaurus of English (HTE)
+WordNet
+Moby Thesaurus
+OpenThesaurus
+Legal Thesaurus
+The Well-Spoken Thesaurus by Tom Heehler; ISBN 978-1-4022-4305-9
+Eurovoc, multilingual, multidisciplinary thesaurus covering the activities of the EU
+Shesaurus - Dictionary-thesaurus by Keshia Kola; An online gender-based thesaurus.
+Power Thesaurus
+CAB Thesaurus, covering agriculture, pure and applied life sciences, technology and social sciences.
+Enlighten Jobs Thesaurus - an online thesaurus of job titles.
+AGRIS
+Controlled vocabulary
+Knowledge Organization Systems
+Ontology (computer science)
+Simple Knowledge Organisation System
+Thesaurus (information retrieval)
+ISO 25964

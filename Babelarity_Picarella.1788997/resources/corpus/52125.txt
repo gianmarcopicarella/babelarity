@@ -1,0 +1,13 @@
+In telecommunication and information theory, broadcasting is a method of transferring a message to all recipients simultaneously. Broadcasting can be performed as a high level operation in a program, for example broadcasting Message Passing Interface, or it may be a low level networking operation, for example broadcasting on Ethernet.
+All-to-all communication is a computer communication method in which each sender transmits messages to all receivers within a group. This contrasts with the point-to-point method in which each sender communicates with one receiver.
+In computer networking, broadcasting refers to transmitting a packet that will be received by every device on the network. In practice, the scope of the broadcast is limited to a broadcast domain. Broadcasting a message is in contrast to unicast addressing in which a host sends datagrams to another single host identified by a unique IP address.
+Broadcasting is the most general communication method, and is also the most intensive in the sense that a large number of messages are required.
+Broadcasting may be performed as "all scatter" in which each sender performs its own scatter in which the messages are distinct for each receiver, or "all broadcast" in which they are the same.
+The MPI message passing method which is the de facto standard on large computer clusters includes the MPI_Alltoall method.
+Not all network technologies support broadcast addressing; for example, neither X.25 nor frame relay have broadcast capability, nor is there any form of Internet-wide broadcast. Broadcasting is largely confined to local area network (LAN) technologies, most notably Ethernet and token ring, where the performance impact of broadcasting is not as large as it would be in a wide area network.
+The successor to Internet Protocol Version 4 (IPv4), IPv6 also does not implement the broadcast method, so as to prevent disturbing all nodes in a network when only a few may be interested in a particular service. Instead it relies on multicast addressing - a conceptually similar one-to-many routing methodology. However, multicasting limits the pool of receivers to those that join a specific multicast receiver group.
+Both Ethernet and IPv4 use an all-ones broadcast address to indicate a broadcast packet. Token Ring uses a special value in the IEEE 802.2 control field.
+Broadcasting may be abused to perform a type of DoS-attack known as a Smurf attack. The attacker sends fake ping requests with the source IP-address of the victim computer. The victim computer is flooded by the replies from all computers in the domain.
+Broadcast radiation
+Point-to-multipoint communication
+Unicast

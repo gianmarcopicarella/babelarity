@@ -1,0 +1,50 @@
+Java Card refers to a software technology that allows Java-based applications (applets) to be run securely on smart cards and similar small memory footprint devices. Java Card is the tiniest of Java platforms targeted for embedded devices. Java Card gives the user the ability to program the devices and make them application specific. It is widely used in SIM cards (used in GSM mobile phones) and ATM cards. The first Java Card was introduced in 1996 by Schlumberger's card division which later merged with Gemplus to form Gemalto. Java Card products are based on the Java Card Platform specifications developed by Sun Microsystems (later a subsidiary of Oracle Corporation). Many Java card products also rely on the GlobalPlatform specifications for the secure management of applications on the card (download, installation, personalization, deletion).
+The main design goals of the Java Card technology are portability and security.
+Java Card aims at defining a standard smart card computing environment allowing the same Java Card applet to run on different smart cards, much like a Java applet runs on different computers. As in Java, this is accomplished using the combination of a virtual machine (the Java Card Virtual Machine), and a well-defined runtime library, which largely abstracts the applet from differences between smart cards. Portability remains mitigated by issues of memory size, performance, and runtime support (e.g. for communication protocols or cryptographic algorithms).
+Java Card technology was originally developed for the purpose of securing sensitive information stored on smart cards. Security is determined by various aspects of this technology:
+Data encapsulation
+Data is stored within the application, and Java Card applications are executed in an isolated environment (the Java Card VM), separate from the underlying operating system and hardware.
+Applet Firewall
+Unlike other Java VMs, a Java Card VM usually manages several applications, each one controlling sensitive data. Different applications are therefore separated from each other by an applet firewall which restricts and checks access of data elements of one applet to another.
+Cryptography
+Commonly used symmetric key algorithms like DES, Triple DES, AES, and asymmetric key algorithms such as RSA, elliptic curve cryptography are supported as well as other cryptographic services like signing, key generation and key exchange.
+Applet
+The applet is a state machine which processes only incoming command requests and responds by sending data or response status words back to the interface device.
+At the language level, Java Card is a precise subset of Java: all language constructs of Java Card exist in Java and behave identically. This goes to the point that as part of a standard build cycle, a Java Card program is compiled into a Java class file by a Java compiler; the class file is post-processed by tools specific to the Java Card platform.
+However, many Java language features are not supported by Java Card (in particular types char, double, float and long; the transient qualifier; enums; arrays of more than one dimension; finalization; object cloning; threads). Further, some common features of Java are not provided at runtime by many actual smart cards (in particular type int, which is the default type of a Java expression; and garbage collection of objects).
+Java Card bytecode run by the Java Card Virtual Machine is a functional subset of Java 2 bytecode run by a standard Java Virtual Machine but with a different encoding to optimize for size. A Java Card applet thus typically uses less bytecode than the hypothetical Java applet obtained by compiling the same Java source code. This conserves memory, a necessity in resource constrained devices like smart cards. As a design tradeoff, there is no support for some Java language features (as mentioned above), and size limitations. Techniques exist for overcoming the size limitations, such as dividing the application's code into packages below the 64 KiB limit.
+Standard Java Card class library and runtime support differs a lot from that in Java, and the common subset is minimal. For example, the Java Security Manager class is not supported in Java Card, where security policies are implemented by the Java Card Virtual Machine; and transients (non-persistent, fast RAM variables that can be class members) are supported via a Java Card class library, while they have native language support in Java.
+The Java Card runtime and virtual machine also support features that are specific to the Java Card platform:
+Persistence
+With Java Card, objects are by default stored in persistent memory (RAM is very scarce on smart cards, and it is only used for temporary or security-sensitive objects). The runtime environment as well as the bytecode have therefore been adapted to manage persistent objects.
+Atomicity
+As smart cards are externally powered and rely on persistent memory, persistent updates must be atomic. The individual write operations performed by individual bytecode instructions and API methods are therefore guaranteed atomic, and the Java Card Runtime includes a limited transaction mechanism.
+Applet isolation
+The Java Card firewall is a mechanism that isolates the different applets present on a card from each other. It also includes a sharing mechanism that allows an applet to explicitly make an object available to other applets.
+Coding techniques used in a practical Java Card program differ significantly from that used in a Java program. Still, that Java Card uses a precise subset of the Java language speeds up the learning curve, and enables using a Java environment to develop and debug a Java Card program (caveat: even if debugging occurs with Java bytecode, make sure that the class file fits the limitation of Java Card language by converting it to Java Card bytecode; and test in a real Java Card smart card early on to get an idea of the performance); further, one can run and debug both the Java Card code for the application to be embedded in a smart card, and a Java application that will be in the host using the smart card, all working jointly in the same environment.
+Oracle has released several Java Card platform specifications and is providing SDK tools for application development. Usually smart card vendors implement just a subset of algorithms specified in Java Card platform target and the only way to discover what subset of specification is implemented is to test the card.
+Version 3.0.5 (03.06.2015)
+Oracle SDK: Java Card Classic Development Kit 3.0.5u1 (03.06.2015)
+Added support for Diffie-Hellman modular exponentiation, Domain Data Conservation for Diffie-Hellman, Elliptic Curve and DSA keys, RSA-3072, SHA3, plain ECDSA, AES CMAC, AES CTR.
+Version 3.0.4 (06.08.2011)
+Oracle SDK: Java Card Classic Development Kit 3.0.4 (06.11.2011)
+Added support for DES MAC8 ISO9797.
+Version 3.0.1 (15.06.2009)
+Oracle SDK: Java Card Development Kit 3.0.3 RR (11.11.2010)
+Added support for SHA-224, SHA-2 for all signature algorithms.
+Version 2.2.2 (03.2006)
+Oracle SDK: Java Card Development Kit 2.2.2 (03.2006)
+Added support for SHA-256, SHA-384, SHA-512, ISO9796-2, HMAC, Korean SEED MAC NOPAD, Korean SEED NOPAD.
+Version 2.2.1 (10.2003)
+Oracle SDK: Java Card Development Kit 2.2.1 (10.2003)
+Version 2.2 (11.2002)
+Added support for AES cryptography key encapsulation, CRC algorithms, Elliptic Curve Cryptography key encapsulation,Diffie-Hellman key exchange using ECC, ECC keys for binary polynomial curves and for prime integer curves, AES, ECC and RSA with variable key lengths.
+Version 2.1.1 (18.05.2000)
+Oracle SDK: Java Card Development Kit 2.1.2 (05.04.2001)
+Added support for RSA without padding.
+Version 2.1 (07.06.1999)
+The version 3.0 of the Java Card specification (draft released in March 2008) is separated in two editions: the Classic Edition and the Connected Edition.
+The Classic Edition (currently at version 3.0.5 released in June 2015) is an evolution of the Java Card Platform version 2 (which last version 2.2.2 was released in March 2006), which supports traditional card applets on resource-constrained devices such as Smart Cards. Older applets are generally compatible with newer Classic Edition devices, and applets for these newer devices can be compatible with older devices if not referring to new library functions. Smart Cards implementing Java Card Classic Edition have been security-certified by multiple vendors, and are commercially available.
+The Connected Edition (currently at version 3.0.2 released in December 2009) aims to provide a new virtual machine and an enhanced execution environment with network-oriented features. Applications can be developed as classic card applets requested by APDU commands or as servlets using HTTP to support web-based schemes of communication (HTML, REST, SOAP ...) with the card. The runtime uses a subset of the Java (1.)6 bytecode, without Floating Point; it supports volatile objects (garbage collection), multithreading, inter-application communications facilities, persistence, transactions, card management facilities ... As of 2014 there has been little adoption in commercially available Smart Cards, so much that reference to Java Card (including in the present Wikipedia page) often implicitly excludes the Connected Edition.
+GlobalPlatform
+Java Card OpenPlatform

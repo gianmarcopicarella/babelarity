@@ -1,0 +1,16 @@
+The charm quark or c quark (from its symbol, c) is the third most massive of all quarks, a type of elementary particle. Charm quarks are found in hadrons, which are subatomic particles made of quarks. Example of hadrons containing charm quarks include the J/ψ meson (J/ψ), D mesons (D), charmed Sigma baryons (Σ
+c), and other charmed particles.
+It, along with the strange quark is part of the second generation of matter, and has an electric charge of +2/3 e and a bare mass of 7000129000000000000♠1.29+0.05
+−0.11 GeV/c2. Like all quarks, the charm quark is an elementary fermion with spin-1/2, and experiences all four fundamental interactions: gravitation, electromagnetism, weak interactions, and strong interactions. The antiparticle of the charm quark is the charm antiquark (sometimes called anticharm quark or simply anticharm), which differs from it only in that some of its properties have equal magnitude but opposite sign.
+The existence of a fourth quark had been speculated by a number of authors around 1964 (for instance by James Bjorken and Sheldon Glashow), but its prediction is usually credited to Sheldon Glashow, John Iliopoulos and Luciano Maiani in 1970 (see GIM mechanism). The first charmed particle (a particle containing a charm quark) to be discovered was the J/ψ meson. It was discovered by a team at the Stanford Linear Accelerator Center (SLAC), led by Burton Richter, and one at the Brookhaven National Laboratory (BNL), led by Samuel Ting.
+The 1974 discovery of the J/ψ (and thus the charm quark) ushered in a series of breakthroughs which are collectively known as the November Revolution.
+Some of the hadrons containing charm quarks include:
+D mesons contain a charm quark (or its antiparticle) and an up or down quark.
+D
+s mesons contain a charm quark and a strange quark.
+There are many charmonium states, for example the J/ψ particle. These consist of a charm quark and its antiparticle.
+Charmed baryons have been observed, and are named in analogy with strange baryons (e.g. Λ+
+c).
+Quark model
+R. Nave. "Quarks". HyperPhysics. Georgia State University, Department of Physics and Astronomy. Retrieved 2008-06-29. 
+A. Pickering (1984). Constructing Quarks. University of Chicago Press. pp. 114–125. ISBN 0-226-66799-5.

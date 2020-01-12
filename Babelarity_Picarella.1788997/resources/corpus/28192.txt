@@ -1,0 +1,42 @@
+A semi-submersible (semisubmerged ship) is a specialised marine vessel used in a number of specific offshore roles such as offshore drilling rigs, safety vessels, oil production platforms, and heavy lift cranes. They are designed with good stability and seakeeping characteristics. Other terms include semisubmersible, semi-sub, or simply semi.
+Offshore drilling in water depth greater than around 520 meters requires that operations be carried out from a floating vessel, as fixed structures are not practical. Initially in the early 1950s monohull ships such as CUSS I were used, but these were found to have significant heave, pitch and yaw motions in large waves, and the industry needed more stable drilling platforms.
+A semi-submersible obtains most of its buoyancy from ballasted, watertight pontoons located below the ocean surface and wave action. Structural columns connect the pontoons and operating deck. The operating deck can be located high above the sea level owing to the good stability of the design, and therefore is kept well away from the waves.
+With its hull structure submerged at a deep draft, the semi-submersible is less affected by wave loadings than a normal ship. With a small water-plane area, however, the semi-submersible is sensitive to load changes, and therefore must be carefully trimmed to maintain stability. Unlike a submersible, a semi-submersible vessel is not supported by resting on the seabed.
+Semi-submersible vessels are able to transform from a deep to a shallow draft by deballasting (removing ballast water from the hull), thereby becoming surface vessels. Usually they are moved from location to location in this configuration. The heavy lift vessels use this capability to submerge the majority of their structure, locate beneath another floating vessel, and then deballast to pick up the other vessel as a cargo.
+The semi-submersible design was first developed for offshore drilling activities. Bruce Collipp of Shell is regarded as the inventor. But Edward Robert Armstrong may have paved the way with his idea of "seadrome" landing strips for airplanes in the late 1920s, since his idea involved the same use of columns on ballast tanks below the surface and anchored to the ocean floor by steel cables.
+When oil drilling moved into offshore waters, fixed platform rigs and submersible rigs were built, but were limited to shallow waters. When demands for drilling equipment was needed in water depths greater than 100 feet (30 m) in the Gulf of Mexico, the first jackup rigs were built.
+The first semisubmersible arrived by accident in 1961. Blue Water Drilling Company owned and operated the four column submersible drilling rig Blue Water Rig No.1 in the Gulf of Mexico for Shell Oil Company. As the pontoons were not sufficiently buoyant to support the weight of the rig and its consumables, it was towed between locations at a draught mid way between the top of the pontoons and the underside of the deck. It was observed that the motions at this draught were very small, and Blue Water Drilling and Shell jointly decided that the rig could be operated in the floating mode.
+The first purpose built drilling semi-submersible Ocean Driller was launched in 1963. Since then, many semi-submersibles have been purpose-designed for the drilling industry mobile offshore fleet.
+The industry quickly accepted the semi-submersible concept and the fleet increased rapidly to 30 units by 1972.
+Drilling rig construction has historically occurred in boom periods and therefore "batches" of drilling rigs have been built. Offshore drilling rigs have been loosely classified in nominal "generations" depending upon the year built and water depth capability as follows:
+Semi-submersible rigs make stable platforms for drilling for offshore oil and gas. They can be towed into position by a tugboat and anchored, or moved by and kept in position by their own azimuth thrusters with dynamic positioning.
+The IMO MODU Code is an accredited design and operational guideline for mobile offshore drilling units of the semi-submersible type.
+The advantages of the semi-submersible vessel stability were soon recognized for offshore construction when in 1978 Heerema Marine Contractors constructed the two sister crane vessels called Balder and Hermod. These semi-submersible crane vessels (SSCV) consist of two lower hulls (pontoons), three columns on each pontoon and an upper hull. Shortly after J. Ray McDermott and Saipem also introduced SSCVs, resulting in two new enormous vessels DB-102 (now Thialf) and Saipem 7000, capable of lifting respectively 14,200 and 14,000 tons.
+During transit an SSCV is de-ballasted to a draught where only part of the lower hull is submerged. During lifting operations, the vessel is ballasted down. This way, the lower hull is well submerged. This reduces the effect of waves and swell. High stability is obtained by placing the columns far apart. The high stability allows them to lift extremely high loads safely.
+Semi-submersibles are particularly suited to a number of offshore support vessel roles because of their good stability, large deck areas, and variable deck load (VDL). Some of the most prominent vessels are;
+Uncle John – Diving and construction support vessel, built for Houlder Offshore in 1977
+Seaway Swan – Diving support vessel built in 1977
+Tharos – Offshore safety support vessel, built in 1979 and since converted into a drilling vessel, and rechristened Transocean Marianas
+Stadive – DSV built for Shell in 1982
+Iolair – Offshore safety support vessel, built for BP in 1982, Sedco/Phillips SS was the first built to Red Adair's recommendations. Iolair followed.
+Safe Karinia – Offshore operations vessel, built in 1982
+Polyconfidence – Offshore accommodation platform, built in 1988
+Q4000 – Offshore multiservice vessel, built for Caldive in 2002
+Ocean Odyssey – Converted semi-submersible drilling rig used as a rocket launch pad
+When oil fields were first developed in offshore locations, drilling semi-submersibles were converted for use as combined drilling and production platforms. These vessels offered very stable and cost effective platforms. The first semi-submersible floating production platform was the Argyll FPF converted from the Transworld 58 drilling semi-submersible in 1975 for the Hamilton Brothers North Sea Argyll oil field.
+As the oil industry progressed into deeper water and harsh environments, purpose-built production semi-submersible platforms were designed. The first purpose-built semi-submersible production platform was for the Balmoral field, UK North Sea in 1986.
+A summary of offshore semi-submersible oil production platforms is given in the following table derived from industry data.
+Project 1231
+SMX-25
+SeaOrbiter
+Drydock – facility used to repair and maintain ships; some are floating and can be submerged to load vessels.
+Heavy lift ship – semi-submerging vessel for transportation of very large loads.
+Narco submarine – low profile vessels used to smuggle cocaine from South America to the United States.
+RP FLIP (FLoating Instrument Platform) – a tilting craft designed to form a stable platform for scientific data collection.
+Sea Shadow (IX-529) – a craft designed and built by Lockheed Corporation with the superstructure joined to the hulls with continuous members.
+Small waterplane area twin hull – a "SWATH" vessel consists of two submarine-like structures supported on streamlined pylons.
+Submersible or Midget submarine – for small submarine craft.
+Submersible drilling rig – for submersible drilling vessels.
+USS Monitor – the U.S. Civil War warship considered to be the earliest semi-submerged ship.
+USS Spuyten Duyvil – another U.S. Civil War semi-submerged ship, capable of flooding down to a lower profile.
+Welfreighter – a submersible designed by Britain during the second World War to carry combat swimmers.

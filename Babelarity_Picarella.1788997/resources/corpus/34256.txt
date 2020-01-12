@@ -1,0 +1,19 @@
+Heterocysts are specialized nitrogen-fixing cells formed during nitrogen starvation by some filamentous cyanobacteria, such as Nostoc punctiforme, Cylindrospermum stagnale, and Anabaena sphaerica. They fix nitrogen from dinitrogen (N2) in the air using the enzyme nitrogenase, in order to provide the cells in the filament with nitrogen for biosynthesis. Nitrogenase is inactivated by oxygen, so the heterocyst must create a microanaerobic environment. The heterocysts' unique structure and physiology require a global change in gene expression. For example, heterocysts:
+produce three additional cell walls, including one of glycolipid that forms a hydrophobic barrier to oxygen
+produce nitrogenase and other proteins involved in nitrogen fixation
+degrade photosystem II, which produces oxygen
+up-regulate glycolytic enzymes
+produce proteins that scavenge any remaining oxygen
+contain polar plugs composed of cyanophycin which slows down cell-to-cell diffusion
+Cyanobacteria usually obtain a fixed carbon (carbohydrate) by photosynthesis. The lack of photosystem II prevents heterocysts from photosynthesizing, so the vegetative cells provide them with carbohydrates, which is thought to be sucrose. The fixed carbon and nitrogen sources are exchanged through channels between the cells in the filament. Heterocysts maintain photosystem I, allowing them to generate ATP by cyclic photophosphorylation.
+Single heterocysts develop about every 9-15 cells, producing a one-dimensional pattern along the filament. The interval between heterocysts remains approximately constant even though the cells in the filament are dividing. The bacterial filament can be seen as a multicellular organism with two distinct yet interdependent cell types. Such behavior is highly unusual in prokaryotes and may have been the first example of multicellular patterning in evolution. Once a heterocyst has formed it cannot revert to a vegetative cell. Certain heterocyst-forming bacteria can differentiate into spore-like cells called akinetes or motile cells called hormogonia, making them the most phenotyptically versatile of all prokaryotes.
+The mechanism of controlling heterocysts is thought to involve the diffusion of an inhibitor of differentiation called patS. Heterocyst formation is inhibited in the presence of a fixed nitrogen source, such as ammonium or nitrate. Heterocyst maintenance is dependent on an enzyme called hetN. The bacteria may also enter a symbiotic relationship with certain plants. In such a relationship, the bacteria do not respond to the availability of nitrogen, but to signals produced by the plant. Up to 60% of the cells can become heterocysts, providing fixed nitrogen to the plant in return for fixed carbon.
+The following sequences take place in formation of heterocysts from a vegetative cell:
+The cell enlarges.
+Granular inclusions decrease.
+Photosynthetic lammele reorients.
+The wall finally becomes triple-layered. These three layers develop outside the cell's outer layer.
+The middle layer is homogeneous.
+The inner layer is laminated.
+The senescent heterocyst undergoes vacuolation and finally breaks off from the filament causing fragmentation. These fragments are called hormogonia and undergo asexual reproduction.
+The cyanobacteria that form heterocysts are divided into the orders Nostocales and Stigonematales, which form simple and branching filaments respectively. Together they form a monophyletic group, with very low genetic variability.

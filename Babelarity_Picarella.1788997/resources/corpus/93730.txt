@@ -1,0 +1,35 @@
+The Plecoptera are an order of insects, commonly known as stoneflies. Some 3,500 species are described worldwide, with new species still being discovered. Stoneflies are found worldwide, except Antarctica. Stoneflies are believed to be one of the most primitive groups of Neoptera, with close relatives identified from the Carboniferous and Lower Permian geological periods, while true stoneflies are known from fossils only a bit younger. The modern diversity, however, apparently is of Mesozoic origin.
+Plecoptera are found in both the Southern and Northern Hemispheres, and the populations are quite distinct, although the evolutionary evidence suggests species may have crossed the equator on a number of occasions before once again becoming geographically isolated.
+All species of Plecoptera are intolerant of water pollution, and their presence in a stream or still water is usually an indicator of good or excellent water quality.
+Stoneflies have a generalised anatomy, with few specialised features compared to other insects. They have simple mouthparts with chewing mandibles, long, multiple-segmented antennae, large compound eyes, and two or three ocelli. The legs are robust, with each ending in two claws. The abdomen is relatively soft, and may include remnants of the nymphal gills even in the adult. Both nymphs and adults have long, paired cerci projecting from the tip of their abdomens.
+The name "Plecoptera" literally means "braided-wings", from the Ancient Greek plekein (πλέκειν, "to braid") and pteryx (πτέρυξ, "wing"). This refers to the complex venation of their two pairs of wings, which are membranous and fold flat over their backs. Stoneflies are generally not strong fliers, and some species are entirely wingless.
+A few wingless species, such as the Lake Tahoe benthic stonefly ("Capnia" lacustra) or Baikaloperla, are the only known insects, perhaps with the exception of Halobates, that are exclusively aquatic from birth to death. Some true water bugs (Nepomorpha) may also be fully aquatic for their entire lives, but can leave the water to travel.
+The nymphs (technically, "naiads") are aquatic and live in the benthic zone of well-oxygenated lakes and streams. A few species found in New Zealand and nearby islands have terrestrial nymphs, but even these inhabit only very moist environments. The nymphs physically resemble wingless adults, but often have external gills, which may be present on almost any part of the body. Nymphs can acquire oxygen via diffusing through the exoskeleton, or through gills located on behind the head, on the thorax, or around the anus. Due to their nymph's requirement for well oxygenated water, the species is very sensitive to water pollution. This makes them important indicators for water quality. Most species are herbivorous as nymphs, feeding on submerged leaves and benthic algae, but many are hunters of other aquatic arthropods.
+The female can lay up to one thousand eggs. It will fly over the water and drop the eggs in the water it also may hang on a rock or branch. Eggs are covered in a sticky coating which allows them to adhere to rocks without being swept away my swifting moving currents. The eggs typically take two to three weeks to hatch, but some species undergo diapause, with the eggs remaining dormant throughout a dry season, and hatching only when conditions are suitable.
+The insects remain in the nymphal form for one to four years, depending on species, and undergo from 12 to 36 molts before emerging and becoming terrestrial as adults. Before becoming adults, nymphs will leave the water, attach to a fixed surface and molt one last time.
+The adults generally only survive for a few weeks, and emerge only during specific times of the year when resources are optimal. Some do not feed at all, but those that do are herbivorous. Adults are not strong fliers and generally stay near the stream or lake they hatched from.
+Traditionally, the stoneflies were divided into two suborders, the "Antarctoperlaria" (or "Archiperlaria") and the Arctoperlaria. However, the former simply consists of the two most basal superfamilies of stoneflies, which do not seem to be each other's closest relatives. Thus, the "Antarctoperlaria" are not considered a natural group (despite some claims to the contrary).
+The Arctoperlaria, though, have been divided into two infraorders, the Euholognatha (or Filipalpia) and the Systellognatha (also called Setipalpia or Subulipalpia). This corresponds to the phylogeny with one exception: the Scopuridae must be considered a basal family in the Arctoperlaria, not assignable to any of the infraorders. Alternatively, the Scopuridae were placed in an unranked clade "Holognatha" together with the Euholognatha (meaning roughly "advanced Holognatha"), but the Scopuridae do not appear significantly closer to the Euholognatha than to the Systellognatha.
+In addition, not adopting the clades Antarctoperlaria and Holognatha allows for a systematic layout of the Plecoptera that adequately reproduces phylogeny, while retaining the traditional ranked taxa.
+Basal lineages ("Antarctoperlaria")
+Superfamily Eusthenioidea
+Family Diamphipnoidae
+Family Eustheniidae
+Superfamily Leptoperloidea
+Family Austroperlidae
+Family Gripopterygidae
+Suborder Arctoperlaria
+Basal family Scopuridae
+Infraorder Euholognatha
+Family Capniidae (about 300 species) - small winter stoneflies
+Family Leuctridae (300+ species) - rolled-winged stoneflies
+Family Nemouridae (600+ species) - spring stoneflies
+Family Notonemouridae
+Family Taeniopterygidae (about 75 species) - winter stoneflies
+Infraorder Systellognatha
+Family Chloroperlidae (100+ species) - green stoneflies
+Family Perlidae (about 400 species) - common stoneflies
+Family Perlodidae (250+ species)
+Family Peltoperlidae (about 68 species) - roachlike stoneflies
+Family Styloperlidae (about 10 species)
+Family Pteronarcyidae (about 12 species) - salmonflies, giant stoneflies

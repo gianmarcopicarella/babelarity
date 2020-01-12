@@ -1,0 +1,11 @@
+Benzenesulfonic acid (conjugate base benzenesulfonate) is an organosulfur compound with the formula C6H5SO3H. It is the simplest aromatic sulfonic acid. It forms white deliquescent sheet crystals or a white waxy solid that is soluble in water and ethanol, slightly soluble in benzene and insoluble in nonpolar solvents like diethyl ether. It is often stored in the form of alkali metal salts. Its aqueous solution is strongly acidic.
+Benzenesulfonic acid is prepared from the sulfonation of benzene using concentrated sulfuric acid:
+This conversion illustrates aromatic sulfonation, which has been called "one of the most important reactions in industrial organic chemistry."
+Benzenesulfonic acid exhibits the reactions typical of other aromatic sulfonic acids, forming sulfonamides, sulfonyl chloride, and esters. The sulfonation is reversed above 220 °C. Dehydration with phosphorus pentoxide gives benzenesulfonic acid anhydride ((C6H5SO2)2O). Conversion to the corresponding benzenesulfonyl chloride (C6H5SO2Cl) is effected with phosphorus pentachloride.
+It is a strong acid, being almost fully dissociated in water.
+Benzenesulfonic acid is mainly consumed by conversion to other specialty chemicals.
+A variety of pharmaceutical drugs are prepared as benzenesulfonate salts and are known as besilates (INN) or besylates (USAN).
+The alkali metal salt of benzenesulfonic acid was once widely used in the production of phenol:
+C6H5SO3Na + 2 NaOH → C6H5ONa + Na2SO3
+C6H5ONa + HCl → C6H5OH + NaCl
+The process has been largely displaced by the Hock process, which generates less waste.

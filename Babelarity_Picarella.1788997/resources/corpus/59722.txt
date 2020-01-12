@@ -1,0 +1,75 @@
+Ionic radius, rion, is the radius of an atom's ion. Although neither atoms nor ions have sharp boundaries, they are sometimes treated as if they were hard spheres with radii such that the sum of ionic radii of the cation and anion gives the distance between the ions in a crystal lattice. Ionic radii are typically given in units of either picometers (pm) or angstroms (Å), with 1 Å = 100 pm. Typical values range from 30 pm (0.3 Å) to over 200 pm (2 Å).
+Ions may be larger or smaller than the neutral atom, depending on the ion's electric charge. When an atom loses an electron to form a cation, the other electrons are more strongly attracted to the nucleus, and the radius of the atom gets smaller. Similarly, when an electron is added to an atom, forming an anion, the added electron increases the size of the electron cloud.
+The ionic radius is not a fixed property of a given ion, but varies with coordination number, spin state and other parameters. Nevertheless, ionic radius values are sufficiently transferable to allow periodic trends to be recognized. As with other types of atomic radius, ionic radii increase on descending a group. Ionic size (for the same ion) also increases with increasing coordination number, and an ion in a high-spin state will be larger than the same ion in a low-spin state. In general, ionic radius decreases with increasing positive charge and increases with increasing negative charge.
+An "anomalous" ionic radius in a crystal is often a sign of significant covalent character in the bonding. No bond is completely ionic, and some supposedly "ionic" compounds, especially of the transition metals, are particularly covalent in character. This is illustrated by the unit cell parameters for sodium and silver halides in the table. On the basis of the fluorides, one would say that Ag+ is larger than Na+, but on the basis of the chlorides and bromides the opposite appears to be true. This is because the greater covalent character of the bonds in AgCl and AgBr reduces the bond length and hence the apparent ionic radius of Ag+, an effect which is not present in the halides of the more electropositive sodium, nor in silver fluoride in which the fluoride ion is relatively unpolarizable.
+The distance between two ions in an ionic crystal can be determined by X-ray crystallography, which gives the lengths of the sides of the unit cell of a crystal. For example, the length of each edge of the unit cell of sodium chloride is found to be 564.02 pm. Each edge of the unit cell of sodium chloride may be considered to have the atoms arranged as Na+∙∙∙Cl−∙∙∙Na+, so the edge is twice the Na-Cl separation. Therefore, the distance between the Na+ and Cl− ions is half of 564.02 pm, which is 282.01 pm. However, although X-ray crystallography gives the distance between ions, it doesn't indicate where the boundary is between those ions, so it doesn't directly give ionic radii.
+Landé estimated ionic radii by considering crystals in which the anion and cation have a large difference in size, such as LiI. The lithium ions are so much smaller than the iodide ions that the lithium fits into holes within the crystal lattice, allowing the iodide ions to touch. That is, the distance between two neighboring iodides in the crystal is assumed to be twice the radius of the iodide ion, which was deduced to be 214 pm. This value can be used to determine other radii. For example, the inter-ionic distance in RbI is 356 pm, giving 142 pm for the ionic radius of Rb+. In this way values for the radii of 8 ions were determined.
+Wasastjerna estimated ionic radii by considering the relative volumes of ions as determined from electrical polarizability as determined by measurements of refractive index. These results were extended by Victor Goldschmidt. Both Wasastjerna and Goldschmidt used a value of 132 pm for the O2− ion.
+Pauling used effective nuclear charge to proportion the distance between ions into anionic and a cationic radii. His data gives the O2− ion a radius of 140 pm.
+A major review of crystallographic data led to the publication of revised ionic radii by Shannon. Shannon gives different radii for different coordination numbers, and for high and low spin states of the ions. To be consistent with Pauling's radii, Shannon has used a value of rion(O2−) = 140 pm; data using that value are referred to as "effective" ionic radii. However, Shannon also includes data based on rion(O2−) = 126 pm; data using that value are referred to as "Crystal" ionic radii. Shannon states that "it is felt that crystal radii correspond more closely to the physical size of ions in a solid." The two sets of data are listed in the two tables below.
+For many compounds, the model of ions as hard spheres does not reproduce the distance between ions, 
+            d
+              m
+              x
+    {\displaystyle {d_{mx}}}
+  , to the accuracy with which it can be measured in crystals. One approach to improving the calculated accuracy is to model ions as "soft spheres" that overlap in the crystal. Because the ions overlap, their separation in the crystal will be less than the sum of their soft-sphere radii.
+The relation between soft-sphere ionic radii, 
+            r
+              m
+    {\displaystyle {r_{m}}}
+   and 
+            r
+              x
+    {\displaystyle {r_{x}}}
+  , and 
+            d
+              m
+              x
+    {\displaystyle {d_{mx}}}
+  , is given by
+              d
+                m
+                x
+            k
+        =
+              r
+                m
+            k
+        +
+              r
+                x
+            k
+    {\displaystyle {d_{mx}}^{k}={r_{m}}^{k}+{r_{x}}^{k}}
+  ,
+where 
+        k
+    {\displaystyle k}
+   is an exponent that varies with the type of crystal structure. In the hard-sphere model, 
+        k
+    {\displaystyle k}
+   would be 1, giving 
+            d
+              m
+              x
+        =
+            r
+              m
+        +
+            r
+              x
+    {\displaystyle {d_{mx}}={r_{m}}+{r_{x}}}
+  . In the soft-sphere model, 
+        k
+    {\displaystyle k}
+   has a value between 1 and 2. For example, for crystals of group 1 halides with the sodium chloride structure, a value of 1.6667 gives good agreement with experiment. Some soft-sphere ionic radii are in the table. These radii are larger than the crystal radii given above (Li+, 90 pm; Cl−, 167 pm).
+Inter-ionic separations calculated with these radii give remarkably good agreement with experimental values. Some data are given in the table. Curiously, no theoretical justification for the equation containing 
+        k
+    {\displaystyle k}
+   has been given.
+The concept of ionic radii is based on the assumption of a spherical ion shape. However, from a group-theoretical point of view the assumption is only justified for ions that reside on high-symmetry crystal lattice sites like Na and Cl in halite or Zn and S in sphalerite. A clear distinction can be made, when the point symmetry group of the respective lattice site is considered, which are the cubic groups Oh and Td in NaCl and ZnS. For ions on lower-symmetry sites significant deviations of their electron density from a spherical shape may occur. This holds in particular for ions on lattice sites of polar symmetry, which are the crystallographic point groups C1, C1h, Cn or Cnv, n = 2, 3, 4 or 6. A thorough analysis of the bonding geometry was recently carried out for pyrite-type compounds, where monovalent chalcogen ions reside on C3 lattice sites. It was found that chalcogen ions have to be modeled by ellipsoidal charge distributions with different radii along the symmetry axis and perpendicular to it. Remarkably, it turned out in this case that it is not the ionic radius, but the ionic volume that remains constant in different crystalline compounds.
+Atomic radii of the elements
+Covalent radius
+Ionic potential
+Ionic radius ratio
+Electride
+Pauling's rules

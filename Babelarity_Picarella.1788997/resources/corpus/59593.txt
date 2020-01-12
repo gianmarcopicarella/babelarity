@@ -1,0 +1,28 @@
+Hapticity is the coordination of a ligand to a metal center via an uninterrupted and contiguous series of atoms. The hapticity of a ligand is described with the Greek letter η ('eta'). For example, η2 describes a ligand that coordinates through 2 contiguous atoms. In general the η-notation only applies when multiple atoms are coordinated (otherwise the κ-notation is used). In addition, if the ligand coordinates through multiple atoms that are not contiguous then this is considered denticity  (not hapticity), and the κ-notation is used once again. When naming complexes care should be taken not to confuse η with μ ('mu'), which relates to bridging ligands.
+The need for additional nomenclature for organometallic compounds became apparent in the mid-1950s when Dunitz, Orgel, and Rich described the structure of the "sandwich complex" ferrocene by X-ray crystallography where an iron atom is "sandwiched" between two parallel cyclopentadienyl rings. Cotton later proposed the term hapticity derived from the adjectival prefix hapto (from the Greek haptein, to fasten, denoting contact or combination) placed before the name of the olefin, where the Greek letter η (eta) is used to denote the number of contiguous atoms of a ligand that bind to a metal center. The term is usually employed to refer to ligands containing extended π-systems or where agostic bonding is not obvious from the formula.
+Ferrocene - bis(η5-cyclopentadienyl)iron
+Uranocene - bis(η8-1,3,5,7-cyclooctatetraene)uranium
+W(CO)3(PPri3)2(η2-H2 ) - the first compound to be synthesized with a dihydrogen ligand.
+IrCl(CO)[P(C6H5)3]2(η2-O2) - the dioxygen derivative which forms reversibly upon oxygenation of Vaska's complex.
+The η-notation is encountered in many co-ordination compounds:
+Side-on bonding of molecules containing σ-bonds like H2:
+W(CO)3(PiPr3)2(η2-H2)
+Side-on bonded ligands containing multiple bonded atoms, e.g. ethylene in Zeise's salt or with fullerene, which is bonded through donation of the π-bonding electrons:
+K[PtCl3(η2-C2H4)].H2O
+Related complexes containing bridging π-ligands:
+(μ-η2:η2-C2H2)Co2(CO)6 and (Cp*2Sm)2(μ-η2:η2- N2)
+Dioxygen in bis{(trispyrazolylborato)copper(II)}(μ-η2:η2-O2),
+Note that with some bridging ligands, an alternative bridging mode is observed, e.g. κ1,κ1, like in (Me3SiCH2)3V(μ-N2-κ1(N),κ1(N'))V(CH2SiMe3)3 contains a bridging dinitrogen molecule, where the molecule is end-on coordinated to the two metal centers (see hapticity vs. denticity).
+The bonding of π-bonded species can be extended over several atoms, e.g. in allyl, butadiene ligands, but also in cyclopentadienyl or benzene rings can share their electrons.
+Apparent violations of the 18-electron rule sometimes are explicable in compounds with unusual hapticities:
+The 18-VE complex (η5-C5H5)Fe(η1-C5H5)(CO)2 contains one η5 bonded cyclopentadienyl, and one η1 bonded cyclopentadienyl.
+Reduction of the 18-VE compound [Ru(η6-C6Me6)2]2+ (where both aromatic rings are bonded in an η6-coordination), results in another 18VE compound: [Ru(η6-C6Me6)(η4-C6Me6)].
+Examples of polyhapto coordinated heterocyclic and inorganic rings: Cr(η5-C4H4S)(CO)3 contains the sulfur heterocycle thiophene and Cr(η6-B3N3Me6)(CO)3 contains a coordinated inorganic ring (B3N3 ring).
+The hapticity of a ligand can change in the course of a reaction. E.g. in a redox reaction:
+Here one of the η6-benzene rings changes to a η4-benzene.
+Similarly hapticity can change during a substitution reaction:
+Here the η5-cyclopentadienyl changes to an η3-cyclopentadienyl, giving room on the metal for an extra 2-electron donating ligand 'L'. Removal of one molecule of CO and again donation of two more electrons by the cyclopentadienyl ligand restores the η5-cyclopentadienyl. The so-called indenyl effect also describes changes in hapticity in a substitution reaction.
+Hapticity must be distinguished from denticity. Polydentate ligands coordinate via multiple coordination sites within the ligand. In this case the coordinating atoms are identified using the κ-notation, as for example seen in coordination of 1,2-bis(diphenylphosphino)ethane (Ph2PCH2CH2PPh2), to NiCl2 as dichloro[ethane-1,2-diylbis(diphenylphosphane)-κ2P]nickel(II). If the coordinating atoms are contiguous (connected to each other), the η-notation is used, as e.g. in titanocene dichloride: dichlorobis(η5-2,4-cyclopentadien-1-yl)titanium.
+Molecules with polyhapto ligands are often fluxional, also known as stereochemically non-rigid. Two classes of fluxionality are prevalent for organometallic complexes of polyhapto ligands:
+Case 1, typically: when the hapticity value is less than the number of sp2 carbon atoms. In such situations, the metal will often migrate from carbon to carbon, maintaining the same net hapticity. The η1-C5H5 ligand in (η5-C5H5)Fe( η1-C5H5)(CO)2 rearranges rapidly in solution such that Fe binds alternatingly to each carbon atom in the η1-C5H5 ligand. This reaction is degenerate and, in the jargon of organic chemistry, it is an example of a sigmatropic rearrangement. A related example is Bis(cyclooctatetraene)iron, in which the η4- and η6-C8H8 rings interconvert.
+Case 2, typically: complexes containing cyclic polyhapto ligands with maximized hapticity. Such ligands tend to rotate. A famous example is ferrocene, Fe(η5-C5H5)2, wherein the Cp rings rotate with a low energy barrier about the principal axis of the molecule that "skewers" each ring (see rotational symmetry). This "ring whizzing" explains, inter alia, why only one isomer can be isolated for Fe(η5-C5H4Br)2. In this case, the rotamers are not necessarily degenerate, but the rotational barriers have low energies of activation.

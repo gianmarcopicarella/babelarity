@@ -1,0 +1,178 @@
+In physics and engineering, in particular fluid dynamics and hydrometry, the volumetric flow rate, (also known as volume flow rate, rate of fluid flow or volume velocity) is the volume of fluid which passes per unit time; usually represented by the symbol Q (sometimes V̇). The SI unit is m3/s (cubic metres per second). Another unit used is sccm (standard cubic centimeters per minute).
+In US Customary Units and British Imperial Units, volumetric flow rate is often expressed as ft3/s (cubic feet per second) or gallons per minute (either U.S. or imperial definitions).
+Volumetric flow rate should not be confused with volumetric flux, as defined by Darcy's law and represented by the symbol q, with units of m3/(m2·s), that is, m·s−1. The integration of a flux over an area gives the volumetric flow rate.
+Volumetric flow rate is defined by the limit:
+        Q
+        =
+              V
+              ˙
+        =
+          lim
+            Δ
+            t
+            →
+            0
+              Δ
+              V
+              Δ
+              t
+        =
+                  d
+              V
+                  d
+              t
+    {\displaystyle Q={\dot {V}}=\lim \limits _{\Delta t\rightarrow 0}{\frac {\Delta V}{\Delta t}}={\frac {{\rm {d}}V}{{\rm {d}}t}}}
+I.e., the flow of volume of fluid V through a surface per unit time t.
+Since this is only the time derivative of volume, a scalar quantity, the volumetric flow rate is also a scalar quantity. The change in volume is the amount that flows after crossing the boundary for some time duration, not simply the initial amount of volume at the boundary minus the final amount at the boundary, since the change in volume flowing through the area would be zero for steady flow.
+Volumetric flow rate can also be defined by:
+        Q
+        =
+            v
+        ⋅
+            A
+    {\displaystyle Q={\mathbf {v}}\cdot {\mathbf {A}}}
+where:
+            v
+    {\displaystyle {\mathbf {v}}}
+   = flow velocity
+            A
+    {\displaystyle {\mathbf {A}}}
+   = cross-sectional vector area/surface
+The above equation is only true for flat, plane cross-sections. In general, including curved surfaces, the equation becomes a surface integral:
+        Q
+        =
+          ∬
+            A
+            v
+        ⋅
+            d
+            A
+    {\displaystyle Q=\iint _{A}{\mathbf {v}}\cdot {\rm {d}}{\mathbf {A}}}
+This is the definition used in practice. The area required to calculate the volumetric flow rate is real or imaginary, flat or curved, either as a cross-sectional area or a surface. The vector area is a combination of the magnitude of the area through which the volume passes through, A, and a unit vector normal to the area, 
+                n
+                ^
+    {\displaystyle {\mathbf {\hat {n}}}}
+  . The relation is 
+            A
+        =
+        A
+                n
+                ^
+    {\displaystyle {\mathbf {A}}=A{\mathbf {\hat {n}}}}
+  .
+The reason for the dot product is as follows. The only volume flowing through the cross-section is the amount normal to the area; i.e., parallel to the unit normal. This amount is:
+        Q
+        =
+        v
+        A
+        cos
+        ⁡
+        θ
+    {\displaystyle Q=vA\cos \theta }
+where θ is the angle between the unit normal 
+                n
+                ^
+    {\displaystyle {\mathbf {\hat {n}}}}
+   and the velocity vector v of the substance elements. The amount passing through the cross-section is reduced by the factor 
+        cos
+        ⁡
+        θ
+    {\displaystyle \cos \theta }
+  . As θ increases less volume passes through. Substance which passes tangential to the area, that is perpendicular to the unit normal, does not pass through the area. This occurs when θ = π⁄2 and so this amount of the volumetric flow rate is zero:
+        Q
+        =
+        v
+        A
+        cos
+        ⁡
+          (
+              π
+              2
+          )
+        =
+        0
+    {\displaystyle Q=vA\cos \left({\frac {\pi }{2}}\right)=0}
+These results are equivalent to the dot product between velocity and the normal direction to the area.
+When the mass flow rate is known, and the density can be assumed constant, this is an easy way to get 
+        Q
+    {\displaystyle Q}
+  .
+        Q
+        =
+                m
+                ˙
+            ρ
+    {\displaystyle Q={\frac {\dot {m}}{\rho }}}
+Where:
+              m
+              ˙
+    {\displaystyle {\dot {m}}}
+   = mass flow rate (kg/s).
+        ρ
+    {\displaystyle \rho }
+   = density (kg/m3).
+In internal combustion engines, the time area integral is considered over the range of valve opening. The time lift integral is given by:
+        ∫
+        L
+          d
+        θ
+        =
+              R
+              T
+              2
+              π
+        (
+        cos
+        ⁡
+            θ
+              2
+        −
+        cos
+        ⁡
+            θ
+              1
+        )
+        +
+              r
+              T
+              2
+              π
+        (
+          θ
+            2
+        −
+          θ
+            1
+        )
+    {\displaystyle \int \!L\,\mathrm {d} \theta ={\frac {RT}{2\pi }}(\cos {\theta _{2}}-\cos {\theta _{1}})+{\frac {rT}{2\pi }}(\theta _{2}-\theta _{1})}
+where 
+        T
+    {\displaystyle T}
+   is time per revolution, 
+        R
+    {\displaystyle R}
+   is distance from camshaft centreline to cam tip, 
+        r
+    {\displaystyle r}
+   is radius of camshaft (that is, 
+        R
+        −
+        r
+    {\displaystyle R-r}
+   is the maximum lift), 
+          θ
+            1
+    {\displaystyle \theta _{1}}
+   is the angle where opening begins, and 
+          θ
+            2
+    {\displaystyle \theta _{2}}
+   is where valve closes (secs, mm, radians). This has to be factored by the width (circumference) of the valve throat. The answer is usually related to the cylinder swept volume.
+Air to cloth ratio
+Discharge (hydrology)
+Flow measurement
+Flowmeter
+Orifice plate
+Poiseuille's law
+Stokes flow
+Units of flow

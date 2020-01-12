@@ -1,0 +1,80 @@
+Melissus of Samos (/məˈlɪsəs/; Greek: Μέλισσος; fl. 5th century BC) was the third and last member of the ancient school of Eleatic philosophy, whose other members included Zeno and Parmenides. Little is known about his life except that he was the commander of the Samian fleet shortly before the Peloponnesian War. Melissus’ contribution to philosophy was a treatise of systematic arguments supporting Eleatic philosophy. Like Parmenides, he argued that reality is ungenerated, indestructible, indivisible, changeless, and motionless. In addition, he sought to show that reality is wholly unlimited, and infinitely extended in all directions; and since existence is unlimited, it must also be one.
+Not much information remains regarding the life of Melissus. He may have been born around 500 BC; the date of his death is unknown. The little which is known about him is mostly gleaned from a small passage in Plutarch’s Life of Pericles. He was the commander of the Samian fleet not long before the Peloponnesian War, and defeated Pericles and the Athenian fleet in 441 BC. Plutarch claims that Aristotle says that Melissus had also defeated Pericles in an earlier battle. In his Life of Themistocles, Plutarch denies Stesimbrotus’ claim that Melissus was held in high regard by Themistocles, claiming that he is confusing Themistocles and Pericles. Melissus was reputed to have been the pupil of Parmenides, and the teacher of Leucippus, though one must regard such claims with a fair amount of skepticism.
+Much of what remains of Melissus’ philosophical treatise, On Nature, has been preserved by Simplicius in his commentaries on Aristotle’s Physics and On the Heavens, and several summaries of his philosophy have come down to us. Most of the remaining fragments can be found in Diels–Kranz. Unlike Parmenides, Melissus wrote his treatise in prose, not poetry, consequently making it easier to follow than that of his teacher. Like Parmenides, he claims that Being is one, ungenerated, indestructible, indivisible, changeless, motionless and the same. Melissus’ philosophy differs from that of Parmenides in two respects: (1) Parmenides claims that Being is limited, while Melissus claims that it is wholly unlimited; and (2) for Parmenides, Being existed in a timeless Present, while for Melissus Being is eternal. McKirahan claims that Parmenides argues for Being as spatially limited, but this is a contentious point.
+Melissus argues that since The One neither came to be nor is subject to destruction, it is therefore eternal. While fragment 1 is merely a summary of Parmenides’ arguments against coming to be and perishing (8.5-21), fragment 2 provides Melissus’ argument. Melissus’ argument is twofold, addressing the temporal aspect of The One somewhat as a timeline: granting the reality of the present moment, he argues that The One has existed eternally into the past and will exist eternally into the future.
+His argument is as follows:
+Whatever comes to be must have a beginning.
+According to fragment 1, The One did not come to be.
+Therefore, The One does not have a beginning.
+Therefore, The One is eternal (has always existed in the past).
+in addition:
+Whatever has a beginning must also end.
+According to fragment 1, The One did not have a beginning.
+Therefore, The One will not end.
+Therefore, The One is eternal (will always exist in the future).
+He restates his argument for The One as eternal in fragments 6 and 9.1.
+It is in this respect that Melissus differs from Parmenides, although some argue that the difference is not as important as it might seem. Parmenides’ view is that there is only one moment (the eternal present), while Melissus argues for an infinite number of moments. The existence of a changeless, motionless, eternal present is an arguable position (after all, change and motion depend on time); however, the existence of a changeless, motionless, infinite succession of moments is a much more difficult position to defend (after all, if there is no other change, there is still temporal change, the change from one moment to the next).
+There are several problems with Melissus’ reasoning. His second argument is based on a faulty premise (i.e., that whatever comes to be must also end at some point). Furthermore, both arguments, which can be reduced to “If A, then B; but not-A, therefore not-B”, are logically flawed.
+Melissus contends that The One is unlimited. Fragments 7 and 8 apparently indicate that Melissus is speaking in terms of spatial infinity, although regarding fragment 3, which first argues this point, Simplicius explicitly denies this: “But by ‘magnitude’ he does not mean what is extended in space.” Simplicius undoubtedly had more of Melissus’ treatise at his disposal, as well as other commentaries and notes which have not survived to the present day.
+In any case, Melissus’ argument for this claim is unclear, and it is possible that it has not been preserved for us. Alternatively, he may intend for this argument to follow from the arguments of fragments 1 and 2, either directly or indirectly. In the former case, unless the argument is based on a now lost theory on the relationship between time and space, it is, as McKirahan says, “grossly fallacious”. In the latter case, granting the “beginning” and “end” of fragment 2 spatial as well as temporal qualities leaves Melissus open to the charge of equivocation.
+In fragment 6 Melissus connects an eternal existence and the quality of being unlimited. Melissus may have argued for this quality due to certain issues arising in Parmenides’ thesis (8.42-9). The argument is as follows:
+Whatever has a beginning and end is neither eternal nor unlimited.
+Being has no beginning or end.
+Therefore, it is eternal and unlimited.
+This argument, as fragment 3, is logically flawed, being basically: “If not-A, then not-B”.
+Melissus’ argument for the oneness of what-is, given mainly in fragments 7 and 8, is undoubtedly his best. His argument is clearer and more concise than the one provided by Parmenides. Melissus argues that, because what-is is unlimited, it must also be one, because if it were more than one it would have limits (namely, the boundaries between what-is and the other existing objects). His argument is founded on the premises that what-is is both spatially and temporally unlimited and is as follows:
+What-is is temporally unlimited.
+Therefore, nothing else spatially unlimited could exist at a different time.
+What-is is spatially unlimited.
+Therefore, nothing else temporally unlimited could exist at the same time.
+Therefore, what-is is one.
+In On Melissus, Xenophanes and Gorgias, Pseudo-Aristotle states that Melissus made a claim that The One is qualitatively the same. The validity of the argument depends on the nature of unity intended by Melissus. It is possible for one, single thing to have different parts: a human has a head, a body, two arms and two legs, but it is still one human. In most respects, Melissus is following in Parmenides’ footsteps, and so it is likely that Melissus is arguing for the same type of unity as Parmenides, namely, that The One is completely unified, with no parts to subdivide it. His argument is as follows:
+If what-is has qualitative differences, it is plural.
+What-is is one.
+What-is is whole in and of itself.
+Therefore, what-is has no qualitative differences (i.e., is the same).
+This is not provided in the second-hand report by Pseudo-Aristotle; however, the quality of wholeness is a major claim in Parmenides’ thesis, and it is likely that Melissus either made the argument for this point in a fragment that has not come down to us or expected it to be understood or inferred from his other arguments.
+Melissus argues that The One cannot undergo any change. He specifically states that The One cannot be rearranged, become greater or smaller, or undergo any kind of distress, but we may safely expand his argument to include all kinds of change. If The One underwent any kind of change whatsoever, it would become different and thus no long unified or whole. His argument is as follows:
+Whatever undergoes change is altered.
+Whatever is altered is not unified or whole.
+The One is unified and whole.
+Therefore, The One does not undergo any type of change.
+In fragment 9.7-10 Melissus makes the argument for motionless with the qualities of full and empty. He states that The One is full, because if it were empty it would be nothing, and what is nothing doesn’t exist. He then states that because The One is full, it can’t move. The argument is as follows:
+To be empty is to be nothing.
+What is nothing does not exist.
+The One exists.
+Therefore, The One is not empty.
+What is not empty must be full.
+Therefore, The One is full.
+and further:
+Whatever has motion is not full.
+Whatever is full (i.e., has no empty spaces) must be motionless.
+The One is full.
+Therefore, The One is motionless.
+In fragment 5, Melissus makes the remarkable claim that The One is incorporeal. Just as his insistence that The One is unlimited, this claim may also be his attempt to address a potential problem inherent in Parmenides’ philosophy (8.42-9). His argument is as follows:
+The One is whole in and of itself.
+Therefore, The One has no parts.
+Therefore, The One has no thickness.
+Therefore, The One does not have a body.
+This argument, on the surface, does not coincide with Melissus’ claim that The One is extended and full. After all, why can something that is extended not have any parts, and how can something that is full have no thickness? McKirahan offers an interesting interpretation for what Melissus may have been arguing. A body not only has extension, but also limits, and something infinitely large, such as The One, is unlimited; an object, then, with no limits, is not a body. Furthermore, thickness is simply the measure of the distance between a body’s limits. Since The One is unlimited, it cannot have thickness.
+While not as influential as his fellow Eleatics, Melissus' treatise did have an important impact on philosophy. Whether or not Leucippus was his student, it is clear that his treatise was as influential on atomism as were those of the other Eleatics. Furthermore, because of its clear and concise nature, Melissus' version of Eleatic philosophy was the chief source for its presentation in the works of Plato and Aristotle.
+Aristotle never hesitated to insult Melissus, whom he viewed as quite inferior to his predecessors, stating that his work was "a bit crude" and that he made "invalid arguments starting from false assumptions". Aristocles, as well, had little admiration for Melissus, calling several of his arguments "absurd".
+Melissus has fared somewhat better in the eyes of modern philosophers. He was an inventive philosopher and had the good quality of offering clear and direct arguments. Although he follows Parmenides in his general views and the framework of Eleaticism, he made original contributions and innovations to the substance of Eleatic philosophy.
+On Melissus, Xenophanes, and Gorgias
+Aetius, Fragments
+Aristocles, Fragments
+ Laërtius, Diogenes (1925). "Others: Melissus". Lives of the Eminent Philosophers 2:9. Translated by Hicks, Robert Drew (Two volume ed.). Loeb Classical Library. 
+John Philoponus, Commentary on Aristotle’s Physics
+Tzetzes, Chiliades
+Plutarch, Life of Pericles
+Plutarch, Life of Themistocles
+Pseudo-Aristotle, On Melissus, Xenophanes and Gorgias
+Simplicius, Commentary on Aristotle's On Heaven
+Simplicius, Commentary on Aristotle’s Physics
+Baird, Forrest E. and Walter Kaufmann, Ancient Philosophy, 4th Ed., Philosophic Classics, Volume I. Prentice Hall, 2003.
+Barnes, Jonathan, The Presocratic Philosophers. Routledge, New York, 1982.
+Diels, Hermann and Walther Kranz, Die Fragmente Der Vorsokratiker, 3rd Ed, 7th Ed. Berlin: Weidmann, 1954.
+Kirk, G.S., J.E. Raven and M. Schofield, The Presocratic Philosophers, 2nd Ed. Cambridge University Press, 2004.
+Makin, Stephen, "Melissus and his opponents : the argument of DK 30 B 8", Phronesis 2005 50 (4), pp. 263–288.
+McKirahan, Richard D., Philosophy before Socrates, Hackett Publishing Company, Inc., 1994.
+Rapp, Christof, "Zeno and the Eleatic anti-pluralism", in Maria Michela Sassi (ed.), La costruzione del discorso filosofico nell'età dei Presocratici / The Construction of Philosophical Discourse in the Age of the Presocratics, Pisa: Edizioni della Normale, 2006, pp. 161–182.

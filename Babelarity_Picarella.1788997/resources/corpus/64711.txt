@@ -1,0 +1,308 @@
+In mathematics, an almost complex manifold is a smooth manifold equipped with a smooth linear complex structure on each tangent space. The existence of this structure is a necessary, but not sufficient, condition for a manifold to be a complex manifold. That is, every complex manifold is an almost complex manifold, but not vice versa. Almost complex structures have important applications in symplectic geometry.
+The concept is due to Ehresmann and Hopf in the 1940s.
+Let M be a smooth manifold. An almost complex structure J on M is a linear complex structure (that is, a linear map which squares to −1) on each tangent space of the manifold, which varies smoothly on the manifold. In other words, we have a smooth tensor field J of degree (1, 1) such that J 2 = −1 when regarded as a vector bundle isomorphism J : TM → TM on the tangent bundle. A manifold equipped with an almost complex structure is called an almost complex manifold.
+If M admits an almost complex structure, it must be even-dimensional. This can be seen as follows. Suppose M is n-dimensional, and let J : TM → TM be an almost complex structure. If J 2 = −1 then det(J)2 = (−1)n. But if M is a real manifold, then det(J) is a real number- thus n must be even if M has an almost complex structure. One can show that it must be orientable as well.
+An easy exercise in linear algebra shows that any even dimensional vector space admits a linear complex structure. Therefore an even dimensional manifold always admits a (1, 1) rank tensor pointwise (which is just a linear transformation on each tangent space) such that Jp2 = −1 at each point p. Only when this local tensor can be patched together to be defined globally does the pointwise linear complex structure yield an almost complex structure, which is then uniquely determined. The possibility of this patching, and therefore existence of an almost complex structure on a manifold M is equivalent to a reduction of the structure group of the tangent bundle from GL(2n, R) to GL(n, C). The existence question is then a purely algebraic topological one and is fairly well understood.
+For every integer n, the flat space R2n admits an almost complex structure. An example for such an almost complex structure is (1 ≤ i, j ≤ 2n): 
+          J
+            i
+            j
+        =
+        −
+          δ
+            i
+            ,
+            j
+            −
+            1
+    {\displaystyle J_{ij}=-\delta _{i,j-1}}
+   for odd i, 
+          J
+            i
+            j
+        =
+          δ
+            i
+            ,
+            j
+            +
+            1
+    {\displaystyle J_{ij}=\delta _{i,j+1}}
+   for even i.
+The only spheres which admit almost complex structures are S2 and S6 (Borel-Serre, 1953). In particular, S4 cannot be given an almost complex structure (Ehresmann and Hopf). In the case of S2, the almost complex structure comes from an honest complex structure on the Riemann sphere. The 6-sphere, S6, when considered as the set of unit norm imaginary octonions, inherits an almost complex structure from the octonion multiplication; whether it has a complex structure is an open question (despite several published attempts to show that it has none, and also that it has one).
+Just as a complex structure on a vector space V allows a decomposition of VC into V+ and V− (the eigenspaces of J corresponding to +i and −i, respectively), so an almost complex structure on M allows a decomposition of the complexified tangent bundle TMC (which is the vector bundle of complexified tangent spaces at each point) into TM+ and TM−. A section of TM+ is called a vector field of type (1, 0), while a section of TM− is a vector field of type (0, 1). Thus J corresponds to multiplication by i on the (1, 0)-vector fields of the complexified tangent bundle, and multiplication by −i on the (0, 1)-vector fields.
+Just as we build differential forms out of exterior powers of the cotangent bundle, we can build exterior powers of the complexified cotangent bundle (which is canonically isomorphic to the bundle of dual spaces of the complexified tangent bundle). The almost complex structure induces the decomposition of each space of r-forms
+          Ω
+            r
+        (
+        M
+          )
+              C
+        =
+          ⨁
+            p
+            +
+            q
+            =
+            r
+          Ω
+            (
+            p
+            ,
+            q
+            )
+        (
+        M
+        )
+        .
+    {\displaystyle \Omega ^{r}(M)^{\mathbf {C} }=\bigoplus _{p+q=r}\Omega ^{(p,q)}(M).\,}
+In other words, each Ωr(M)C admits a decomposition into a sum of Ω(p, q)(M), with r = p + q.
+As with any direct sum, there is a canonical projection πp,q from Ωr(M)C to Ω(p,q). We also have the exterior derivative d which maps Ωr(M)C to Ωr+1(M)C. Thus we may use the almost complex structure to refine the action of the exterior derivative to the forms of definite type
+        ∂
+        =
+          π
+            p
+            +
+            1
+            ,
+            q
+        ∘
+        d
+    {\displaystyle \partial =\pi _{p+1,q}\circ d}
+            ∂
+            ¯
+        =
+          π
+            p
+            ,
+            q
+            +
+            1
+        ∘
+        d
+    {\displaystyle {\overline {\partial }}=\pi _{p,q+1}\circ d}
+so that 
+        ∂
+    {\displaystyle \partial }
+   is a map which increases the holomorphic part of the type by one (takes forms of type (p, q) to forms of type (p+1, q)), and 
+            ∂
+            ¯
+    {\displaystyle {\overline {\partial }}}
+   is a map which increases the antiholomorphic part of the type by one. These operators are called the Dolbeault operators.
+Since the sum of all the projections must be the identity map, we note that the exterior derivative can be written
+        d
+        =
+          ∑
+            r
+            +
+            s
+            =
+            p
+            +
+            q
+            +
+            1
+          π
+            r
+            ,
+            s
+        ∘
+        d
+        =
+        ∂
+        +
+            ∂
+            ¯
+        +
+        ⋯
+        .
+    {\displaystyle d=\sum _{r+s=p+q+1}\pi _{r,s}\circ d=\partial +{\overline {\partial }}+\dotsb .}
+Every complex manifold is itself an almost complex manifold. In local holomorphic coordinates 
+          z
+            μ
+        =
+          x
+            μ
+        +
+        i
+          y
+            μ
+    {\displaystyle z^{\mu }=x^{\mu }+iy^{\mu }}
+   one can define the maps
+        J
+            ∂
+              ∂
+                x
+                  μ
+        =
+            ∂
+              ∂
+                y
+                  μ
+        J
+            ∂
+              ∂
+                y
+                  μ
+        =
+        −
+            ∂
+              ∂
+                x
+                  μ
+    {\displaystyle J{\frac {\partial }{\partial x^{\mu }}}={\frac {\partial }{\partial y^{\mu }}}\qquad J{\frac {\partial }{\partial y^{\mu }}}=-{\frac {\partial }{\partial x^{\mu }}}}
+(just like a counterclockwise rotation of π/2) or
+        J
+            ∂
+              ∂
+                z
+                  μ
+        =
+        i
+            ∂
+              ∂
+                z
+                  μ
+        J
+            ∂
+              ∂
+                      z
+                      ¯
+                  μ
+        =
+        −
+        i
+            ∂
+              ∂
+                      z
+                      ¯
+                  μ
+        .
+    {\displaystyle J{\frac {\partial }{\partial z^{\mu }}}=i{\frac {\partial }{\partial z^{\mu }}}\qquad J{\frac {\partial }{\partial {\bar {z}}^{\mu }}}=-i{\frac {\partial }{\partial {\bar {z}}^{\mu }}}.}
+One easily checks that this map defines an almost complex structure. Thus any complex structure on a manifold yields an almost complex structure, which is said to be 'induced' by the complex structure, and the complex structure is said to be 'compatible with' the almost complex structure.
+The converse question, whether the almost complex structure implies the existence of a complex structure is much less trivial, and not true in general. On an arbitrary almost complex manifold one can always find coordinates for which the almost complex structure takes the above canonical form at any given point p. In general, however, it is not possible to find coordinates so that J takes the canonical form on an entire neighborhood of p. Such coordinates, if they exist, are called 'local holomorphic coordinates for J'. If M admits local holomorphic coordinates for J around every point then these patch together to form a holomorphic atlas for M giving it a complex structure, which moreover induces J. J is then said to be 'integrable'. If J is induced by a complex structure, then it is induced by a unique complex structure.
+Given any linear map A on each tangent space of M; i.e., A is a tensor field of rank (1, 1), then the Nijenhuis tensor is a tensor field of rank (1,2) given by
+          N
+            A
+        (
+        X
+        ,
+        Y
+        )
+        =
+        −
+          A
+            2
+        [
+        X
+        ,
+        Y
+        ]
+        +
+        A
+        (
+        [
+        A
+        X
+        ,
+        Y
+        ]
+        +
+        [
+        X
+        ,
+        A
+        Y
+        ]
+        )
+        −
+        [
+        A
+        X
+        ,
+        A
+        Y
+        ]
+        .
+    {\displaystyle N_{A}(X,Y)=-A^{2}[X,Y]+A([AX,Y]+[X,AY])-[AX,AY].\,}
+The individual expressions on the right depend on the choice of the smooth vector fields X and Y, but the left side actually depends only on the pointwise values of X and Y, which is why NA is a tensor. This is also clear from the component formula
+        −
+        (
+          N
+            A
+          )
+            i
+            j
+            k
+        =
+          A
+            i
+            m
+          ∂
+            m
+          A
+            j
+            k
+        −
+          A
+            j
+            m
+          ∂
+            m
+          A
+            i
+            k
+        −
+          A
+            m
+            k
+        (
+          ∂
+            i
+          A
+            j
+            m
+        −
+          ∂
+            j
+          A
+            i
+            m
+        )
+        .
+    {\displaystyle -(N_{A})_{ij}^{k}=A_{i}^{m}\partial _{m}A_{j}^{k}-A_{j}^{m}\partial _{m}A_{i}^{k}-A_{m}^{k}(\partial _{i}A_{j}^{m}-\partial _{j}A_{i}^{m}).}
+In terms of the Frölicher–Nijenhuis bracket, which generalizes the Lie bracket of vector fields, the Nijenhuis tensor NA is just one-half of [A, A].
+The Newlander–Nirenberg theorem states that an almost complex structure J is integrable if and only if NJ = 0. The compatible complex structure is unique, as discussed above. Since the existence of an integrable almost complex structure is equivalent to the existence of a complex structure, this is sometimes taken as the definition of a complex structure.
+There are several other criteria which are equivalent to the vanishing of the Nijenhuis tensor, and which therefore furnish methods for checking the integrability of an almost complex structure (and in fact each of these can be found in the literature):
+The Lie bracket of two (1, 0)-vector fields is again of type (1, 0)
+        d
+        =
+        ∂
+        +
+              ∂
+              ¯
+    {\displaystyle d=\partial +{\bar {\partial }}}
+                ∂
+                ¯
+            2
+        =
+        0.
+    {\displaystyle {\bar {\partial }}^{2}=0.}
+Any of these conditions implies the existence of a unique compatible complex structure.
+The existence of an almost complex structure is a topological question and is relatively easy to answer, as discussed above. The existence of an integrable almost complex structure, on the other hand, is a much more difficult analytic question. For example, it has long been known that S6 admits an almost complex structure, but it is still an open question as to whether or not it admits an integrable almost complex structure. Smoothness issues are important. For real-analytic J, the Newlander–Nirenberg theorem follows from the Frobenius theorem; for C∞ (and less smooth) J, analysis is required (with more difficult techniques as the regularity hypothesis weakens).
+Suppose M is equipped with a symplectic form ω, a Riemannian metric g, and an almost complex structure J. Since ω and g are nondegenerate, each induces a bundle isomorphism TM → T*M, where the first map, denoted φω, is given by the interior product φω(u) = iuω = ω(u, •) and the other, denoted φg, is given by the analogous operation for g. With this understood, the three structures (g, ω, J) form a compatible triple when each structure can be specified by the two others as follows:
+g(u, v) = ω(u, Jv)
+ω(u, v) = g(Ju, v)
+J(u) = (φg)−1(φω(u)).
+In each of these equations, the two structures on the right hand side are called compatible when the corresponding construction yields a structure of the type specified. For example, ω and J are compatible iff ω(•, J•) is a Riemannian metric. The bundle on M whose sections are the almost complex structures compatible to ω has contractible fibres: the complex structures on the tangent fibres compatible with the restriction to the symplectic forms.
+Using elementary properties of the symplectic form ω, one can show that a compatible almost complex structure J is an almost Kähler structure for the Riemannian metric ω(u, Jv). Also, if J is integrable, then (M, ω, J) is a Kähler manifold.
+These triples are related to the 2 out of 3 property of the unitary group.
+Nigel Hitchin introduced the notion of a generalized almost complex structure on the manifold M, which was elaborated in the doctoral dissertations of his students Marco Gualtieri and Gil Cavalcanti. An ordinary almost complex structure is a choice of a half-dimensional subspace of each fiber of the complexified tangent bundle TM. A generalized almost complex structure is a choice of a half-dimensional isotropic subspace of each fiber of the direct sum of the complexified tangent and cotangent bundles. In both cases one demands that the direct sum of the subbundle and its complex conjugate yield the original bundle.
+An almost complex structure integrates to a complex structure if the half-dimensional subspace is closed under the Lie bracket. A generalized almost complex structure integrates to a generalized complex structure if the subspace is closed under the Courant bracket. If furthermore this half-dimensional space is the annihilator of a nowhere vanishing pure spinor then M is a generalized Calabi–Yau manifold.
+Almost quaternionic manifold
+Chern class
+Frölicher–Nijenhuis bracket
+Kähler manifold
+Poisson manifold
+Rizza manifold
+Symplectic manifold

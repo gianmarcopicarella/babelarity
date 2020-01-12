@@ -1,0 +1,24 @@
+Quanta Plus, originally called Quanta, is a web Integrated development environment (IDE) for HTML, XHTML, CSS, XML, PHP and any other XML-based languages or scripting languages. Quanta was licensed under GPL before the release of version 2.0 final.
+Quanta is capable of both WYSIWYG design and handcoding. It features tag completion on the fly, tag editing through a dialog interface, script language variable auto-completion, project management, live preview, PHP debugger, CVS support, Subversion support (through external plugin).
+Quanta is not being actively developed anymore, but some of its features have been merged to its sister project KDevelop.
+Project management, including support for local and remote (through the network) projects. Project files can be uploaded to many servers using various protocols. CVS support is integrated, Subversion support is possible through external plugins. Advanced project features, like actions assigned to various project events and assigning roles in a team are also available.
+Uses KDE KIO slaves for FTP, SSH (through FISH) and other protocol support.
+HTML and XML support: by default support for various (X)HTML versions and some XML based languages are available. This support can be extended either by the user (by importing an XML DTD) or via the "hotstuff" interface, by downloading XML support packages. XML support means autocompletion of tags and attributes, visual editing of tags, document structure viewing, validation/problem reporting, context help.
+script language support: by default PHP support is included, other languages can be supported by creating a language description package. PHP debugger interface is included for the Gubed and XDebug debuggers. Autocompletion for built in and user functions/variables is possible.
+CSS support: visual CSS editor, autocompletion for CSS.
+templates: full site, one document or snippet templates are possible. Templates can be shared via hotstuff.
+user toolbars and actions: toolbars can be freely created with stock or actions created by the user on it. The toolbars can be assigned to a language or to a project. The toolbars are also shareable via hotstuff.
+extensibility: any type of scripts/executables can be assigned to actions or project events. Users can exchange toolbars through the hotstuff system.
+plugins: general KPart plugin support. Any KDE KPart can be used inside Quanta, by default Konsole, KImageMapEditor, KLinkStatus, Cervisia (CVS) and KFileReplace are configured.
+integrated preview: documents can be previewed inside the application using the KHTML engine. Preprocessing the documents through a web server before previewing is possible.
+context help: context help for many languages can be downloaded via hotstuff. New help packages can be created by the user.
+lots of settings: the application is highly configurable, so everyone can adapt it to their needs.
+Built in rendering with KHTML.
+Display the source code, WYSIWYG Mode (called VPL (Visual Page Layout) in Quanta) or both.
+List of HTML editors
+Comparison of HTML editors
+The People Behind Quanta Plus: German, English (translated)
+Review of Quanta+ and Quanta Gold
+Interview with Quanta: Eric Laffoon
+OSDir.com Project of the Week: Quanta+
+Quanta 2.0 Press Release contains info on Quanta Gold

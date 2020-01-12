@@ -1,0 +1,24 @@
+Lithium oxide (Li
+2O) or lithia is an inorganic chemical compound. Lithium oxide is formed along with small amounts of lithium peroxide when lithium metal is burned in the air and combines with oxygen:
+4Li + O
+2 → 2Li
+2O.
+Pure Li
+2O can be produced by the thermal decomposition of lithium peroxide, Li
+2O
+2, at 450 °C
+2Li
+2O
+2 → 2Li
+2O + O
+2
+In the solid state lithium oxide adopts an antifluorite structure which is related to the CaF
+2, fluorite structure with Li cations substituted for fluoride anions and oxide anions substituted for calcium cations. The ground state gas phase Li
+2O molecule is linear with a bond length consistent with strong ionic bonding. VSEPR theory would predict a bent shape similar to H
+2O.
+Lithium oxide is used as a flux in ceramic glazes; and creates blues with copper and pinks with cobalt. Lithium oxide reacts with water and steam, forming lithium hydroxide and should be isolated from them.
+Its usage is also being investigated for non-destructive emission spectroscopy evaluation and degradation monitoring within thermal barrier coating systems. It can be added as a co-dopant with yttria in the zirconia ceramic top coat, without a large decrease in expected service life of the coating. At high heat, lithium oxide emits a very detectable spectral pattern, which increases in intensity along with degradation of the coating. Implementation would allow in situ monitoring of such systems, enabling an efficient means to predict lifetime until failure or necessary maintenance.
+Lithium metal might be obtained from lithium oxide by electrolysis, releasing oxygen as by-product.
+Lithium
+Lithium peroxide
+Lithium cobalt oxide

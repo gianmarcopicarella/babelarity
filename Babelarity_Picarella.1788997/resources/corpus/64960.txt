@@ -1,0 +1,29 @@
+Saharon Shelah (Hebrew: שהרן שלח‎‎) is an Israeli mathematician. He is a professor of mathematics at the Hebrew University of Jerusalem and Rutgers University in New Jersey.
+Shelah was born in Jerusalem on July 3, 1945. He is the son of the Israeli poet and political activist Yonatan Ratosh. He received his PhD for his work on stable theories in 1969 from the Hebrew University.
+Shelah is married to Yael, and has three children.
+Shelah wanted to be a scientist while at primary school, but initially was attracted to physics and biology, not mathematics. Later he found mathematical beauty in studying geometry: He said, "But when I reached the ninth grade I began studying geometry and my eyes opened to that beauty—a system of demonstration and theorems based on a very small number of axioms which impressed me and captivated me." At the age of 15, he decided to become a mathematician, a choice cemented after reading Abraham Halevy Fraenkel's book "An Introduction to Mathematics".
+He received a B.Sc. from Tel Aviv University in 1964, served in the Israel Defense Forces Army between 1964 and 1967, and obtained a M.Sc. from Tel Aviv University in 1967. He then worked as a Teaching Assistant at the Institute of Mathematics of the Hebrew University of Jerusalem while completing a Ph.D. there under the supervision of Michael Oser Rabin, on a study of stable theories.
+Shelah was a Lecturer at Princeton University during 1969-70, and then worked as an Assistant Professor at the University of California, Los Angeles during 1970-71. He became a professor at Hebrew University in 1974, a position he continues to hold.
+He has been a Visiting Professor at the following Universities: the university of Wisconsin (1977–78), the University of California, Berkeley (1978 and 1982), the University of Michigan (1984–85), at Simon Fraser University, Burnaby, British Columbia (1985), and Rutgers University, New Jersey (1985).
+He has been a Distinguished Visiting Professor at Rutgers University since 1986.
+According to the list of Shelah's papers, he had published 1044 mathematical papers up to 2014 (including joint papers with over 220 co-authors). His main interests lie in mathematical logic, model theory in particular, and in axiomatic set theory.
+In model theory, he developed classification theory, which led him to a solution of Morley's problem. In set theory, he discovered the notion of proper forcing, an important tool in iterated forcing arguments. With PCF theory, he showed that in spite of the undecidability of the most basic questions of cardinal arithmetic (such as the continuum hypothesis), there are still highly nontrivial ZFC theorems about cardinal exponentiation. Shelah constructed a Kurosh monster, an uncountable group for which every proper subgroup is countable. He showed that Whitehead's problem is independent of ZFC. He gave the first primitive recursive upper bound to van der Waerden's numbers V(C,N). He extended Arrow's impossibility theorem on voting systems.
+The first recipient of the Erdős Prize, in 1977;
+The Karp Prize of the Association for Symbolic Logic in 1983
+The Israel Prize, for mathematics, in 1998;
+The Bolyai Prize in 2000;
+The Wolf Prize in Mathematics in 2001.
+The EMET prize in 2011.
+The Leroy P. Steele Prize, for Seminal Contribution to Research, in 2013
+Honorary member of the Hungarian Academy of Sciences, in 2013.
+Advanced Grant of the European Research Council (2013).
+Proper forcing, Springer 1982
+Proper and improper forcing (2nd edition of Proper forcing), Springer 1998
+Around classification theory of models, Springer 1986
+Classification theory and the number of non-isomorphic models, Studies in Logic and the Foundations of Mathematics, 1978, 2nd edition 1990, Elsevier
+Classification Theory for Abstract Elementary Classes, College Publications 2009.
+Classification Theory for Abstract Elementary Classes, Volume 2, College Publications 2009.
+Cardinal Arithmetic, Oxford University Press 1994
+List of Israel Prize recipients
+Sauer–Shelah lemma
+Shelah cardinal

@@ -1,0 +1,19 @@
+The n-gonal trapezohedron, antidipyramid, antibipyramid or deltohedron is the dual polyhedron of an n-gonal antiprism. Its 2n faces are congruent kites (also called trapezia or deltoids). The faces are symmetrically staggered.
+The n-gon part of the name does not reference the faces here but arrangement of vertices around an axis of symmetry. The dual n-gonal antiprism has two actual n-gon faces.
+An n-gonal trapezohedron can be decomposed into two equal n-gonal pyramids and an n-gonal antiprism.
+These figures, sometimes called deltohedra, must not be confused with deltahedra, whose faces are equilateral triangles.
+In texts describing the crystal habits of minerals, the word trapezohedron is often used for the polyhedron properly known as a deltoidal icositetrahedron.
+In the case of the dual of a triangular antiprism the kites are rhombi (or squares), hence these trapezohedra are also zonohedra. They are called rhombohedra. They are cubes scaled in the direction of a body diagonal. Also they are the parallelepipeds with congruent rhombic faces.
+A special case of a rhombohedron is one in the which the rhombi which form the faces have angles of 60° and 120°. It can be decomposed into two equal regular tetrahedra and a regular octahedron. Since parallelepipeds can fill space, so can a combination of regular tetrahedra and regular octahedra.
+A degenerate form, n = 2, form a geometric tetrahedron with 6 vertices, 8 edges, and 4 degenerate kite faces that are degenerated into triangles. Its dual is a degenerate form of antiprism, also a tetrahedron.
+The symmetry group of an n-gonal trapezohedron is Dnd of order 4n, except in the case of a cube, which has the larger symmetry group Od of order 48, which has four versions of D3d as subgroups.
+The rotation group is Dn of order 2n, except in the case of a cube, which has the larger rotation group O of order 24, which has four versions of D3 as subgroups.
+If the kites surrounding the two peaks are of different shapes, it can only have Cnv symmetry, order 2n.
+Crystal arrangements of atoms can repeat in space with trapezohedral cells.
+The pentagonal trapezohedron is the only polyhedron other than the Platonic solids commonly used as a die in roleplaying games such as Dungeons & Dragons. Having 10 sides, it can be used in repetition to generate any decimal-based uniform probability desired. Two dice of different colors are typically used for the two digits to represent numbers from 00 to 99.
+Self-intersecting trapezohedron exist with a star polygon central figure, defined by kite faces connecting each polygon edge to these two points. A {p/q} trapezohedron has Coxeter-Dynkin diagram .
+Diminished trapezohedron
+Rhombic dodecahedron
+Rhombic triacontahedron
+Bipyramid
+Conway polyhedron notation

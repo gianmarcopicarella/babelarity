@@ -1,0 +1,75 @@
+Internet Information Services (IIS, formerly Internet Information Server) is an extensible web server created by Microsoft for use with Windows NT family. IIS supports HTTP, HTTPS, FTP, FTPS, SMTP and NNTP. It has been an integral part of the Windows NT family since Windows NT 4.0, though it may be absent from some editions (e.g. Windows XP Home edition), and is not active by default.
+The first Microsoft web server was a research project at the European Microsoft Windows NT Academic Centre (EMWAC), part of the University of Edinburgh in Scotland, and was distributed as freeware. However, since the EMWAC server was unable to handle the volume of traffic going to Microsoft.com, Microsoft was forced to develop its own web server, IIS.
+Almost every version of IIS was released either alongside or with a version of Microsoft Windows:
+IIS 1.0 was initially released as a free add-on for Windows NT 3.51.
+IIS 2.0 was included with Windows NT 4.0.
+IIS 3.0, which was included with Service Pack 2 of Windows NT 4.0, introduced the Active Server Pages dynamic scripting environment.
+IIS 4.0 was released as part of the "Option Pack" for Windows NT 4.0. It introduced the new MMC-based administration application.
+IIS 5.0 shipped with Windows 2000 and introduced additional authentication methods, support for the WebDAV protocol, and enhancements to ASP. IIS 5.0 also dropped support for the Gopher protocol
+IIS 5.1 was shipped with Windows XP Professional, and was nearly identical to IIS 5.0 on Windows 2000.
+IIS 6.0, included with Windows Server 2003 and Windows XP Professional x64 Edition, added support for IPv6 and included a new worker process model that increased security as well as reliability.
+IIS 7.0 was a complete redesign and rewrite of IIS, and was shipped with Windows Vista and Windows Server 2008. IIS 7.0 included a new modular design that allowed for a reduced attack surface and increased performance. It also introduced a hierarchical configuration system allowing for simpler site deploys, a new Windows Forms-based management application, new command-line management options and increased support for the .NET Framework. IIS 7.0 on Vista does not limit the number of allowed connections as IIS on XP did, but limits concurrent requests to 10 (Windows Vista Ultimate, Business, and Enterprise Editions) or 3 (Vista Home Premium). Additional requests are queued, which hampers performance, but they are not rejected as with XP.
+IIS 7.5 was included in Windows 7 (but it must be turned on in the side panel of Programs and Features) and Windows Server 2008 R2. IIS 7.5 improved WebDAV and FTP modules as well as command-line administration in PowerShell. It also introduced TLS 1.1 and TLS 1.2 support and the Best Practices Analyzer tool and process isolation for application pools.
+IIS 8.0 is only available in Windows Server 2012 and Windows 8. IIS 8.0 includes SNI (binding SSL to hostnames rather than IP addresses), Application Initialization, centralized SSL certificate support, and multicore scaling on NUMA hardware, among other new features.
+IIS 8.5 is included in Windows Server 2012 R2 and Windows 8.1. This version includes Idle worker-Process page-out, Dynamic Site Activation, Enhanced Logging, ETW logging, and Automatic Certificate Rebind.
+IIS 10 is included in Windows Server 2016 and Windows 10. This version includes support for HTTP/2.
+All versions of IIS prior to 7.0 running on client operating systems supported only 10 simultaneous connections and a single website.
+Microsoft was criticized by vendors of other web server software, including O'Reilly & Associates and Netscape Communications Corp., for its licensing of early versions of Windows NT; the "Workstation" edition of the OS permitted only ten simultaneous TCP/IP connections, whereas the more expensive "Server" edition, which otherwise had few additional features, permitted unlimited connections but bundled IIS. It was inferred that this was intended to discourage consumers from running alternative web server packages on the cheaper edition. Netscape wrote an open letter to the Antitrust Division of the U.S. Department of Justice regarding this distinction in product licensing, which it asserted had no technical merit.
+IIS 6.0 and higher support the following authentication mechanisms:
+Anonymous authentication
+Basic access authentication
+Digest access authentication
+Integrated Windows Authentication
+UNC authentication
+.NET Passport Authentication (Removed in Windows Server 2008 and IIS 7.0)
+Certificate authentication
+IIS 7.0 has a modular architecture. Modules, also called extensions, can be added or removed individually so that only modules required for specific functionality have to be installed. IIS 7 includes native modules as part of the full installation. These modules are individual features that the server uses to process requests and include the following:
+Security modules: Used to perform many tasks related to security in the request-processing pipeline, such as specifying authentication schemes, performing URL authorization, and filtering requests.
+Content modules: Used to perform tasks related to content in the request-processing pipeline, such as processing requests for static files, returning a default page when a client does not specify a resource in a request, and listing the contents of a directory.
+Compression modules: Used to perform tasks related to compression in the request-processing pipeline, such as compressing responses, applying Gzip compression transfer coding to responses, and performing pre-compression of static content.
+Caching modules: Used to perform tasks related to caching in the request-processing pipeline, such as storing processed information in memory on the server and using cached content in subsequent requests for the same resource.
+Logging and Diagnostics modules: Used to perform tasks related to logging and diagnostics in the request-processing pipeline, such as passing information and processing status to HTTP. sys for logging, reporting events, and tracking requests currently executing in worker processes.
+IIS 7.5 includes the following additional or enhanced security features:
+Client certificate mapping
+IP security
+Request filtering
+URL authorization
+Authentication changed slightly between IIS 6.0 and IIS 7, most notably in that the anonymous user which was named "IUSR_{machinename}" is a built-in account in Vista and future operating systems and named "IUSR". Notably, in IIS 7, each authentication mechanism is isolated into its own module and can be installed or uninstalled.
+IIS 8.0 offers new features targeted at performance and easier administration. The new features are:
+Application Initialization: a feature that allows an administrator to configure certain applications to start automatically with server startup. This reduces the wait time experienced by users who access the site for the first time after a server reboot.
+Splash page during application initialization: the administrator can configure a splash page to be displayed to the site visitor during an application initialization.
+ASP.net 4.5 support: With IIS 8.0, ASP.net 4.5 is included by default, and IIS also offers several configuration options for running it side-by-side with ASP.net 3.5.
+Centralized SSL certificate support: a feature that makes managing certificates easier by allowing the administrator to store and access the certificates on a file share.
+Multicore scaling on NUMA hardware: IIS 8.0 provides several configuration options that optimize performance on systems that run NUMA, such as running several worker processes under one application pool, using soft or hard affinity and more.
+WebSocket Protocol Support
+Server Name Indication (SNI): SNI is an extension to Transport Layer Security, which allows binding of multiple websites with different hostnames to one IP address (similar to how Host Headers are used for non-SSL sites).
+Dynamic IP Address Restrictions: a feature that enables an administrator to dynamically block IPs or IP ranges that hit the server with a large number of requests
+CPU Throttling: a set of controls that allow the server administrator to control CPU usage by each application pool in order to optimize performance in a multi-tenant environment
+IIS 8.5 has several improvements related to performance in large-scale scenarios, such as those used by commercial hosting providers and Microsoft's own cloud offerings. It also has several added features related to logging and troubleshooting. The new features are:
+Idle worker-Process page-out: a function to suspend idle site to reduce the memory footprint of idle sites
+Dynamic Site Activation: a feature that registers listening queues only to sites that have received requests
+Enhanced Logging: a feature to allow collection of Server variables, request headers and response headers in the IIS logs
+ETW logging: an ETW provider which allows collecting real-time logs using various Event-tracing tool
+Automatic Certificate Rebind: a feature that detects when a site certificate has been renewed, and automatically rebinds the site to it
+IIS Express, a lightweight (4.5–6.6 MB) version of IIS, is available as a standalone freeware server and may be installed on Windows XP with Service Pack 3 and subsequent versions of Microsoft Windows. IIS 7.5 Express supports only the HTTP and HTTPS protocols. It is portable, stores its configuration on a per-user basis, does not require administrative privileges and attempts to avoid conflicting with existing web servers on the same machine. IIS Express can be downloaded separately or as a part of WebMatrix or Visual Studio 2012 and later. (In Visual Studio 2010 and earlier, web developers developing ASP.NET apps used ASP.NET Development Server, codenamed "Cassini".) By default, IIS Express only serves local traffic.
+IIS releases new feature modules between major version releases to add new functionality. The following extensions are available for IIS 7.5:
+FTP Publishing Service: Lets Web content creators publish content securely to IIS 7 Web servers with SSL-based authentication and data transfer.
+Administration Pack: Adds administration UI support for management features in IIS 7, including ASP.NET authorization, custom errors, FastCGI configuration, and request filtering.
+Application Request Routing: Provides a proxy-based routing module that forwards HTTP requests to content servers based on HTTP headers, server variables, and load balance algorithms.
+Database Manager: Allows easy management of local and remote databases from within IIS Manager.
+Media Services: Integrates a media delivery platform with IIS to manage and administer delivery of rich media and other Web content.
+URL Rewrite Module: Provides a rule-based rewriting mechanism for changing request URLs before they are processed by the Web server.
+WebDAV: Lets Web authors publish content securely to IIS 7 Web servers, and lets Web administrators and hosters manage WebDAV settings using IIS 7 management and configuration tools.
+Web Deployment Tool: Synchronizes IIS 6.0 and IIS 7 servers, migrates an IIS 6.0 server to IIS 7, and deploys Web applications to an IIS 7 server.
+According to Netcraft, on 13 February 2014, IIS had a market share of 32.80%, making it the second most popular web server in the world, behind Apache HTTP Server at 38.2%. Netcraft showed a rising trend in market share for IIS, since 2012. A day later, however, the W3Techs shows different results. According to W3Techs, IIS is the third most used web server behind Apache HTTP Server (1st place) and Nginx. Furthermore, it shows a consistently falling trend for IIS use since February 2013.
+IIS 4 and IIS 5 were affected by the CA-2001-13 security vulnerability which led to the infamous Code Red attack; however, both versions 6.0 and 7.0 have no reported issues with this specific vulnerability. In IIS 6.0 Microsoft opted to change the behaviour of pre-installed ISAPI handlers, many of which were culprits in the vulnerabilities of 4.0 and 5.0, thus reducing the attack surface of IIS. In addition, IIS 6.0 added a feature called "Web Service Extensions" that prevents IIS from launching any program without explicit permission by an administrator.
+By default IIS 5.1 and earlier run websites in a single process running the context of the System account, a Windows account with administrative rights. Under 6.0 all request handling processes run in the context of the Network Service account, which has significantly fewer privileges, so that should there be a vulnerability in a feature or in custom code it won't necessarily compromise the entire system given the sandboxed environment these worker processes run in. IIS 6.0 also contained a new kernel HTTP stack (http.sys) with a stricter HTTP request parser and response cache for both static and dynamic content.
+According to Secunia, as of June 2011, IIS 7 had a total of six resolved vulnerabilities while IIS 6 had a total of eleven vulnerabilities, out of which one was still unpatched. The unpatched security advisory has a severity rating of 2 out of 5.
+In June 2007, a Google study of 80 million domains concluded that while the IIS market share was 23% at the time, IIS servers hosted 49% of the world's malware, the same as Apache servers whose market share was 66%. The study also observed the geographical location of these dirty servers and suggested that the cause of this could be the use of unlicensed copies of Windows that could not obtain security updates from Microsoft. In a blog post on 28 April 2009, Microsoft noted that it supplies security updates to everyone without genuine verification.
+The 2013 mass surveillance disclosures made it more widely known that IIS is particularly bad in supporting perfect forward secrecy (PFS), especially when used in conjunction with Internet Explorer. Possessing one of the long term asymmetric secret keys used to establish a HTTPS session should not make it easier to derive the short term session key to then decrypt the conversation, even at a later time. Diffie–Hellman key exchange (DHE) and elliptic curve Diffie–Hellman key exchange (ECDHE) are in 2013 the only ones known to have that property. Only 30% of Firefox, Opera, and Chromium Browser sessions use it, and nearly 0% of Apple's Safari and Microsoft Internet Explorer sessions.
+IIS Metabase
+Logparser
+Microsoft Personal Web Server
+Windows Activation Services
+Comparison of web servers
+List of mail servers

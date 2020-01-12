@@ -1,0 +1,26 @@
+Argonaut Games plc was a British video game developer, founded in 1982 and liquidated in 2004. It was most notable for the development of the Star Fox Super NES game and its supporting Super FX hardware.
+Founded as Argonaut Software by teenager Jez San in 1982, the company name is a play on his name (J. San) and the mythological story of Jason and the Argonauts.
+Its head offices were in Colindale, London, and later in the Argonaut House in Edgware, London. Its U.S. head office was in Woodside, California in the San Francisco Bay Area.
+The company produced its first game, Skyline Attack, for the Commodore 64. It later produced the 3D Starglider games for the Amiga and Atari ST platforms.
+In 1993, Argonaut collaborated with Nintendo during the early years of the NES and SNES. The combined efforts from both Nintendo and Argonaut yielded a prototype of the game Star Fox, initially codenamed "NesGlider" and inspired by their earlier Atari ST and Amiga game Starglider, that they had running on the NES and then some weeks later on a prototype of the SNES. Jez San told Nintendo that his team could only improve performance or functionality of the demonstration if Nintendo allowed Argonaut to design custom hardware to extend the SNES to have true 3D capability. Nintendo agreed, so San hired chip designers and made the Super FX chip. They originally codenamed it the Mathematical Argonaut Rotation I/O, or “MARIO”, as is printed on the chip's surface. So powerful was the Super FX chip used to create the graphics and gameplay, that they joked that the Super NES was just a box to hold the chip.
+After building the Super FX, Argonaut designed several different chips for other companies' video game machines, which were never released. This includes the following: the machines codenamed GreenPiece and CD-I 2 at Philips; the platform codenamed VeggieMagic at Apple Inc.; and Hasbro's "virtual reality" game system, codenamed MatriArc.
+In 1996, Argonaut Software was split into Argonaut Technologies Limited (ATL) and Argonaut Software Limited (ASL). With space being a premium at the office on Colindale Avenue, ATL was relocated to an office in the top floor of a separate building. The building was called Capitol House on Capitol Way, just around the corner. There, they continued the design of CPU and GPU products and maintained "BRender", Argonaut's proprietary software 3D engine.
+In 1997, the two arms of the company once again shared an office as the entire company was moved to a new building in Edgware.
+In 1998, ATL was rebranded ARC after the name of their main product, the Argonaut RISC Core, and became an embedded IP provider.
+Argonaut Software Limited became Argonaut Games and was floated in 1999.
+In late October 2004, Argonaut Games called in receivers David Rubin & Partners, laid off 100 employees, and was put up for sale. Lack of a constant stream of deals with publishers had led to cashflow issues and a profit warning earlier in the year.
+In 2005, the company was placed into liquidation and in 2006 was dissolved.
+BRender (abbreviation of "Blazing Renderer") is a development toolkit and a realtime 3D graphics engine for computer games, simulators, and graphic tools. It was developed and licensed by Argonaut Software. The engine had support for Intel's MMX instruction set and it supported Microsoft Windows, MS-DOS and Sony PlayStation platforms. Support for 3D hardware graphics accelerator cards was added. Well-known software made with BRender include Carmageddon, Croc: Legend of the Gobbos, FX Fighter, I-War (Independence War), and 3D Movie Maker.
+The following is a notable selection from Argonaut's gameography.
+The following games were developed by Argonaut but canceled prior to release.
+Reactor, 1991 (SNES)
+Star Fox 2, 1995 (SNES)
+FX Fighter, 1995 (SNES)
+Croc 2, 1999 (Dreamcast, N64, Saturn)
+Alien: Resurrection, 2000 (Dreamcast, Nintendo 64, Sega Saturn)
+Bionicle: City of Legends, 2004 (Xbox, PS2)
+I-Ninja 2, 2004 (PS2, Xbox, Gamecube)
+Zero Hour, 2004 (PS2, PSP)
+Croc 3, 2005 (PS2, Gamecube, Xbox)
+Cash on Delivery, (PS2)
+Kannan, (PC)

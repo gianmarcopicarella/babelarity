@@ -1,0 +1,786 @@
+In geometry, a spherical cap, spherical dome, or spherical segment of one base is a portion of a sphere cut off by a plane. If the plane passes through the center of the sphere, so that the height of the cap is equal to the radius of the sphere, the spherical cap is called a hemisphere.
+If the radius of the base of the cap is 
+        a
+    {\displaystyle a}
+  , and the height of the cap is 
+        h
+    {\displaystyle h}
+  , then the volume of the spherical cap is
+        V
+        =
+              π
+              h
+            6
+        (
+        3
+          a
+            2
+        +
+          h
+            2
+        )
+    {\displaystyle V={\frac {\pi h}{6}}(3a^{2}+h^{2})}
+and the curved surface area of the spherical cap is
+        A
+        =
+        2
+        π
+        r
+        h
+    {\displaystyle A=2\pi rh}
+or
+        A
+        =
+        2
+        π
+          r
+            2
+        (
+        1
+        −
+        cos
+        ⁡
+        θ
+        )
+    {\displaystyle A=2\pi r^{2}(1-\cos \theta )}
+The relationship between 
+        h
+    {\displaystyle h}
+   and 
+        r
+    {\displaystyle r}
+   is irrelevant as long as 0 ≤ 
+        h
+    {\displaystyle h}
+   ≤ 
+        2
+        r
+    {\displaystyle 2r}
+  . The red section of the illustration is also a spherical cap.
+The parameters 
+        a
+    {\displaystyle a}
+  , 
+        h
+    {\displaystyle h}
+   and 
+        r
+    {\displaystyle r}
+   are not independent:
+          r
+            2
+        =
+        (
+        r
+        −
+        h
+          )
+            2
+        +
+          a
+            2
+        =
+          r
+            2
+        +
+          h
+            2
+        −
+        2
+        r
+        h
+        +
+          a
+            2
+    {\displaystyle r^{2}=(r-h)^{2}+a^{2}=r^{2}+h^{2}-2rh+a^{2}}
+  ,
+        r
+        =
+                a
+                  2
+              +
+                h
+                  2
+              2
+              h
+    {\displaystyle r={\frac {a^{2}+h^{2}}{2h}}}
+  .
+Substituting this into the area formula gives:
+        A
+        =
+        2
+        π
+              (
+                a
+                  2
+              +
+                h
+                  2
+              )
+              2
+              h
+        h
+        =
+        π
+        (
+          a
+            2
+        +
+          h
+            2
+        )
+    {\displaystyle A=2\pi {\frac {(a^{2}+h^{2})}{2h}}h=\pi (a^{2}+h^{2})}
+  .
+Note also that in the upper hemisphere of the diagram, 
+          h
+          =
+          r
+          −
+                r
+                  2
+              −
+                a
+                  2
+    {\displaystyle \scriptstyle h=r-{\sqrt {r^{2}-a^{2}}}}
+  , and in the lower hemisphere 
+          h
+          =
+          r
+          +
+                r
+                  2
+              −
+                a
+                  2
+    {\displaystyle \scriptstyle h=r+{\sqrt {r^{2}-a^{2}}}}
+  ; hence in either hemisphere 
+          a
+          =
+              h
+              (
+              2
+              r
+              −
+              h
+              )
+    {\displaystyle \scriptstyle a={\sqrt {h(2r-h)}}}
+   and so an alternative expression for the volume is
+        V
+        =
+              π
+                h
+                  2
+            3
+        (
+        3
+        r
+        −
+        h
+        )
+    {\displaystyle V={\frac {\pi h^{2}}{3}}(3r-h)}
+  .
+The volume may also be found by integrating under a surface of rotation, using 
+          x
+          =
+          r
+          cos
+          ⁡
+          (
+          θ
+          )
+    {\displaystyle \scriptstyle x=r\cos(\theta )}
+   and factorizing.
+        V
+        =
+          ∫
+            x
+            r
+        π
+          (
+            r
+              2
+          −
+            x
+              2
+          )
+        d
+        x
+        =
+        π
+          (
+              2
+              3
+            r
+              3
+          −
+            r
+              2
+          x
+          +
+              1
+              3
+            x
+              3
+          )
+        =
+            π
+            3
+          r
+            3
+        (
+        cos
+        ⁡
+        (
+        θ
+        )
+        +
+        2
+        )
+        (
+        cos
+        ⁡
+        (
+        θ
+        )
+        −
+        1
+          )
+            2
+    {\displaystyle V=\int _{x}^{r}\pi \left(r^{2}-x^{2}\right)dx=\pi \left({\frac {2}{3}}r^{3}-r^{2}x+{\frac {1}{3}}x^{3}\right)={\frac {\pi }{3}}r^{3}(\cos(\theta )+2)(\cos(\theta )-1)^{2}}
+  .
+The volume of the union of two intersecting spheres of radii r1 and r2 is 
+        V
+        =
+          V
+            (
+            1
+            )
+        −
+          V
+            (
+            2
+            )
+    {\displaystyle V=V^{(1)}-V^{(2)}}
+  ,
+where
+          V
+            (
+            1
+            )
+        =
+              4
+              π
+            3
+          r
+            1
+            3
+        +
+              4
+              π
+            3
+          r
+            2
+            3
+    {\displaystyle V^{(1)}={\frac {4\pi }{3}}r_{1}^{3}+{\frac {4\pi }{3}}r_{2}^{3}}
+is the sum of the volumes of the two isolated spheres, and
+          V
+            (
+            2
+            )
+        =
+              π
+                h
+                  1
+                  2
+            3
+        (
+        3
+          r
+            1
+        −
+          h
+            1
+        )
+        +
+              π
+                h
+                  2
+                  2
+            3
+        (
+        3
+          r
+            2
+        −
+          h
+            2
+        )
+    {\displaystyle V^{(2)}={\frac {\pi h_{1}^{2}}{3}}(3r_{1}-h_{1})+{\frac {\pi h_{2}^{2}}{3}}(3r_{2}-h_{2})}
+the sum of the volumes of the two spherical caps forming their intersection. If d < r1 + r2 is the distance between the two sphere centers, elimination of the variables h1 and h2 leads to
+          V
+            (
+            2
+            )
+        =
+            π
+              12
+              d
+        (
+          r
+            1
+        +
+          r
+            2
+        −
+        d
+          )
+            2
+          (
+            d
+              2
+          +
+          2
+          d
+          (
+            r
+              1
+          +
+            r
+              2
+          )
+          −
+          3
+          (
+            r
+              1
+          −
+            r
+              2
+            )
+              2
+          )
+    {\displaystyle V^{(2)}={\frac {\pi }{12d}}(r_{1}+r_{2}-d)^{2}\left(d^{2}+2d(r_{1}+r_{2})-3(r_{1}-r_{2})^{2}\right)}
+   .
+The spheroidal dome is obtained by sectioning off a portion of a spheroid so that the resulting dome is circularly symmetric (having an axis of rotation), and likewise the ellipsoidal dome is derived from the ellipsoid.
+Generally, the 
+        n
+    {\displaystyle n}
+  -dimensional volume of a hyperspherical cap of height 
+        h
+    {\displaystyle h}
+   and radius 
+        r
+    {\displaystyle r}
+   in 
+        n
+    {\displaystyle n}
+  -dimensional Euclidean space is given by 
+        V
+        =
+                π
+                      n
+                      −
+                      1
+                    2
+                r
+                  n
+              Γ
+                (
+                      n
+                      +
+                      1
+                    2
+                )
+          ∫
+            0
+            arccos
+            ⁡
+              (
+                    r
+                    −
+                    h
+                  r
+              )
+          sin
+            n
+        ⁡
+        (
+        t
+        )
+          d
+        t
+    {\displaystyle V={\frac {\pi ^{\frac {n-1}{2}}\,r^{n}}{\,\Gamma \left({\frac {n+1}{2}}\right)}}\int \limits _{0}^{\arccos \left({\frac {r-h}{r}}\right)}\sin ^{n}(t)\,\mathrm {d} t}
+where 
+        Γ
+    {\displaystyle \Gamma }
+   (the gamma function) is given by 
+        Γ
+        (
+        z
+        )
+        =
+          ∫
+            0
+            ∞
+          t
+            z
+            −
+            1
+            e
+            −
+            t
+          d
+        t
+    {\displaystyle \Gamma (z)=\int _{0}^{\infty }t^{z-1}\mathrm {e} ^{-t}\,\mathrm {d} t}
+  .
+The formula for 
+        V
+    {\displaystyle V}
+   can be expressed in terms of the volume of the unit n-ball 
+          C
+            n
+        =
+              π
+                n
+                  /
+                2
+              /
+            Γ
+            [
+            1
+            +
+                n
+                2
+            ]
+    {\displaystyle C_{n}={\scriptstyle \pi ^{n/2}/\Gamma [1+{\frac {n}{2}}]}}
+   and the hypergeometric function 
+            2
+          F
+            1
+    {\displaystyle {}_{2}F_{1}}
+   or the regularized incomplete beta function 
+          I
+            x
+        (
+        a
+        ,
+        b
+        )
+    {\displaystyle I_{x}(a,b)}
+   as
+        V
+        =
+          C
+            n
+          r
+            n
+          (
+              1
+              2
+          −
+                r
+                −
+                h
+              r
+                Γ
+                [
+                1
+                +
+                    n
+                    2
+                ]
+                    π
+                Γ
+                [
+                      n
+                      +
+                      1
+                    2
+                ]
+              2
+            F
+              1
+            (
+                  1
+                  2
+            ,
+                    1
+                    −
+                    n
+                  2
+            ;
+                  3
+                  2
+            ;
+                (
+                        r
+                        −
+                        h
+                      r
+                )
+                2
+            )
+          )
+        =
+            1
+            2
+          C
+            n
+          r
+            n
+          I
+            (
+            2
+            r
+            h
+            −
+              h
+                2
+            )
+              /
+              r
+                2
+          (
+                n
+                +
+                1
+              2
+          ,
+              1
+              2
+          )
+    {\displaystyle V=C_{n}\,r^{n}\left({\frac {1}{2}}\,-\,{\frac {r-h}{r}}\,{\frac {\Gamma [1+{\frac {n}{2}}]}{{\sqrt {\pi }}\,\Gamma [{\frac {n+1}{2}}]}}{\,\,}_{2}F_{1}\left({\tfrac {1}{2}},{\tfrac {1-n}{2}};{\tfrac {3}{2}};\left({\tfrac {r-h}{r}}\right)^{2}\right)\right)={\frac {1}{2}}C_{n}\,r^{n}I_{(2rh-h^{2})/r^{2}}\left({\frac {n+1}{2}},{\frac {1}{2}}\right)}
+   ,
+and the area formula 
+        A
+    {\displaystyle A}
+   can be expressed in terms of the area of the unit n-ball 
+          A
+            n
+        =
+            2
+              π
+                n
+                  /
+                2
+              /
+            Γ
+            [
+                n
+                2
+            ]
+    {\displaystyle A_{n}={\scriptstyle 2\pi ^{n/2}/\Gamma [{\frac {n}{2}}]}}
+   as
+        A
+        =
+            1
+            2
+          A
+            n
+          r
+            n
+            −
+            1
+          I
+            (
+            2
+            r
+            h
+            −
+              h
+                2
+            )
+              /
+              r
+                2
+          (
+                n
+                −
+                1
+              2
+          ,
+              1
+              2
+          )
+    {\displaystyle A={\frac {1}{2}}A_{n}\,r^{n-1}I_{(2rh-h^{2})/r^{2}}\left({\frac {n-1}{2}},{\frac {1}{2}}\right)}
+   ,
+where 
+          0
+          ≤
+          h
+          ≤
+          r
+    {\displaystyle \scriptstyle 0\leq h\leq r}
+  .
+Earlier in  (1986, USSR Academ. Press) the formulas were received: 
+        A
+        =
+          A
+            n
+          p
+            n
+            −
+            2
+        (
+        q
+        )
+        ,
+        V
+        =
+          V
+            n
+          p
+            n
+        (
+        q
+        )
+    {\displaystyle A=A_{n}p_{n-2}(q),V=V_{n}p_{n}(q)}
+  , where 
+        q
+        =
+        1
+        −
+        h
+          /
+        r
+        (
+        0
+        ≤
+        q
+        ≤
+        1
+        )
+        ,
+          p
+            n
+        (
+        q
+        )
+        =
+        (
+        1
+        −
+          G
+            n
+        (
+        q
+        )
+          /
+          G
+            n
+        (
+        1
+        )
+        )
+          /
+        2
+    {\displaystyle q=1-h/r(0\leq q\leq 1),p_{n}(q)=(1-G_{n}(q)/G_{n}(1))/2}
+  ,
+          G
+            n
+        (
+        q
+        )
+        =
+          ∫
+            0
+            q
+        (
+        1
+        −
+          t
+            2
+          )
+            (
+            n
+            −
+            1
+            )
+              /
+            2
+        d
+        t
+    {\displaystyle G_{n}(q)=\int \limits _{0}^{q}(1-t^{2})^{(n-1)/2}dt}
+  .
+For odd 
+        n
+        =
+        2
+        k
+        +
+        1
+        :
+    {\displaystyle n=2k+1:}
+          G
+            n
+        (
+        q
+        )
+        =
+          ∑
+            i
+            =
+            0
+            k
+        (
+        −
+        1
+          )
+            i
+              (
+              k
+              i
+              )
+              q
+                2
+                i
+                +
+                1
+              2
+              i
+              +
+              1
+    {\displaystyle G_{n}(q)=\sum _{i=0}^{k}(-1)^{i}{\binom {k}{i}}{\frac {q^{2i+1}}{2i+1}}}
+  .
+It is shown in  that, if 
+        n
+        →
+        ∞
+    {\displaystyle n\to \infty }
+   and 
+        q
+            n
+        =
+        c
+        o
+        n
+        s
+        t
+        .
+    {\displaystyle q{\sqrt {n}}=const.}
+  , then 
+          p
+            n
+        (
+        q
+        )
+        →
+        1
+        −
+        F
+        (
+          q
+              n
+        )
+    {\displaystyle p_{n}(q)\to 1-F({q{\sqrt {n}}})}
+   where 
+        F
+        (
+        )
+    {\displaystyle F()}
+   is the integral of the standard normal distribution.
+Circular segment — the analogous 2D object
+Solid angle — contains formula for n-sphere caps
+Spherical segment
+Spherical sector
+Spherical wedge

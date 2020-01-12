@@ -1,0 +1,1995 @@
+In mathematics, a Sobolev space is a vector space of functions equipped with a norm that is a combination of Lp-norms of the function itself and its derivatives up to a given order. The derivatives are understood in a suitable weak sense to make the space complete, thus a Banach space. Intuitively, a Sobolev space is a space of functions with sufficiently many derivatives for some application domain, such as partial differential equations, and equipped with a norm that measures both the size and regularity of a function.
+Sobolev spaces are named after the Russian mathematician Sergei Sobolev. Their importance comes from the fact that solutions of partial differential equations are naturally found in Sobolev spaces, rather than in spaces of continuous functions and with the derivatives understood in the classical sense.
+In this section and throughout the article 
+        Ω
+    {\displaystyle \Omega }
+   is an open subset of 
+            R
+            n
+        .
+    {\displaystyle \mathbb {R} ^{n}.}
+There are many criteria for smoothness of mathematical functions. The most basic criterion may be that of continuity. A stronger notion of smoothness is that of differentiability (because functions that are differentiable are also continuous) and a yet stronger notion of smoothness is that the derivative also be continuous (these functions are said to be of class C1 — see Differentiability class). Differentiable functions are important in many areas, and in particular for differential equations. In the twentieth century, however, it was observed that the space C1 (or C2, etc.) was not exactly the right space to study solutions of differential equations. The Sobolev spaces are the modern replacement for these spaces in which to look for solutions of partial differential equations.
+Quantities or properties of the underlying model of the differential equation are usually expressed in terms of integral norms, rather than the uniform norm. A typical example is measuring the energy of a temperature or velocity distribution by an L2-norm. It is therefore important to develop a tool for differentiating Lebesgue space functions.
+The integration by parts formula yields that for every u ∈ Ck(Ω), where k is a natural number, and for all infinitely differentiable functions with compact support 
+        φ
+        ∈
+          C
+            c
+            ∞
+        (
+        Ω
+        )
+        ,
+    {\displaystyle \varphi \in C_{c}^{\infty }(\Omega ),}
+          ∫
+            Ω
+        u
+          D
+            α
+        φ
+        d
+        x
+        =
+        (
+        −
+        1
+          )
+              |
+            α
+              |
+          ∫
+            Ω
+        φ
+          D
+            α
+        u
+        d
+        x
+        ,
+    {\displaystyle \int _{\Omega }uD^{\alpha }\varphi \;dx=(-1)^{|\alpha |}\int _{\Omega }\varphi D^{\alpha }u\;dx,}
+where α a multi-index of order |α| = k and we are using the notation:
+          D
+            α
+        f
+        =
+                ∂
+                    |
+                  α
+                    |
+              f
+              ∂
+                x
+                  1
+                    α
+                      1
+              …
+              ∂
+                x
+                  n
+                    α
+                      n
+        .
+    {\displaystyle D^{\alpha }f={\frac {\partial ^{|\alpha |}f}{\partial x_{1}^{\alpha _{1}}\dots \partial x_{n}^{\alpha _{n}}}}.}
+The left-hand side of this equation still makes sense if we only assume u to be locally integrable. If there exists a locally integrable function v, such that
+          ∫
+            Ω
+        u
+          D
+            α
+        φ
+        d
+        x
+        =
+        (
+        −
+        1
+          )
+              |
+            α
+              |
+          ∫
+            Ω
+        φ
+        v
+        d
+        x
+        ,
+        φ
+        ∈
+          C
+            c
+            ∞
+        (
+        Ω
+        )
+        ,
+    {\displaystyle \int _{\Omega }uD^{\alpha }\varphi \;dx=(-1)^{|\alpha |}\int _{\Omega }\varphi v\;dx,\qquad \varphi \in C_{c}^{\infty }(\Omega ),}
+we call v the weak α-th partial derivative of u. If there exists a weak α-th partial derivative of u, then it is uniquely defined almost everywhere. On the other hand, if u ∈ Ck(Ω), then the classical and the weak derivative coincide. Thus, if v is a weak α-th partial derivative of u, we may denote it by Dαu := v.
+For example, the function
+        u
+        (
+        x
+        )
+        =
+            {
+                  1
+                  +
+                  x
+                  −
+                  1
+                  <
+                  x
+                  <
+                  0
+                  10
+                  x
+                  =
+                  0
+                  1
+                  −
+                  x
+                  0
+                  <
+                  x
+                  <
+                  1
+                  0
+                    else
+    {\displaystyle u(x)={\begin{cases}1+x&-1<x<0\\10&x=0\\1-x&0<x<1\\0&{\text{else}}\end{cases}}}
+is not continuous at zero, and not differentiable at −1, 0, or 1. Yet the function
+        v
+        (
+        x
+        )
+        =
+            {
+                  1
+                  −
+                  1
+                  <
+                  x
+                  <
+                  0
+                  −
+                  1
+                  0
+                  <
+                  x
+                  <
+                  1
+                  0
+                    else
+    {\displaystyle v(x)={\begin{cases}1&-1<x<0\\-1&0<x<1\\0&{\text{else}}\end{cases}}}
+satisfies the definition for being the weak derivative of 
+        u
+        (
+        x
+        )
+    {\displaystyle u(x)}
+  , which then qualifies as being in the Sobolev space 
+          W
+            1
+            ,
+            p
+    {\displaystyle W^{1,p}}
+   (for any allowed p, see definition below).
+The Sobolev spaces Wk,p(Ω) combine the concepts of weak differentiability and Lebesgue norms.
+In the one-dimensional case (functions on 
+          R
+    {\displaystyle \mathbb {R} }
+  ) the Sobolev space W k,p is defined to be the subset of functions f in 
+          L
+            p
+        (
+          R
+        )
+    {\displaystyle L^{p}(\mathbb {R} )}
+   such that the function f and its weak derivatives up to some order k have a finite Lp norm, for given p (1 ≤ p ≤ +∞). As mentioned above, some care must be taken to define derivatives in the proper sense. In the one-dimensional problem it is enough to assume that f (k−1), the (k − 1)-th derivative of the function f, is differentiable almost everywhere and is equal almost everywhere to the Lebesgue integral of its derivative (this gets rid of examples such as Cantor's function which are irrelevant to what the definition is trying to accomplish).
+With this definition, the Sobolev spaces admit a natural norm,
+        ∥
+        f
+          ∥
+            k
+            ,
+            p
+        =
+            (
+              ∑
+                i
+                =
+                0
+                k
+                ∥
+                  f
+                    (
+                    i
+                    )
+                ∥
+                p
+                p
+            )
+              1
+              p
+        =
+            (
+              ∑
+                i
+                =
+                0
+                k
+            ∫
+                |
+                  f
+                    (
+                    i
+                    )
+                (
+                t
+                )
+                |
+                p
+            d
+            t
+            )
+              1
+              p
+        .
+    {\displaystyle \|f\|_{k,p}=\left(\sum _{i=0}^{k}\left\|f^{(i)}\right\|_{p}^{p}\right)^{\frac {1}{p}}=\left(\sum _{i=0}^{k}\int \left|f^{(i)}(t)\right|^{p}\,dt\right)^{\frac {1}{p}}.}
+Equipped with the norm || ⋅ ||k,p, W k,p becomes a Banach space. It turns out that it is enough to take only the first and last in the sequence, i.e., the norm defined by
+            ∥
+              f
+                (
+                k
+                )
+            ∥
+            p
+        +
+        ∥
+        f
+          ∥
+            p
+    {\displaystyle \left\|f^{(k)}\right\|_{p}+\|f\|_{p}}
+is equivalent to the norm above (i.e. the induced topologies of the norms are the same).
+Sobolev spaces with p = 2 (at least on a one-dimensional finite interval) are especially important because of their connection with Fourier series and because they form a Hilbert space. A special notation has arisen to cover this case, since the space is a Hilbert space:
+H k = W k,2.
+The space H k can be defined naturally in terms of Fourier series whose coefficients decay sufficiently rapidly, namely,
+          H
+            k
+        (
+            T
+        )
+        =
+          {
+          f
+          ∈
+            L
+              2
+          (
+              T
+          )
+          :
+            ∑
+              n
+              =
+              −
+              ∞
+              ∞
+            (
+            1
+            +
+              n
+                2
+            +
+              n
+                4
+            +
+            ⋯
+            +
+              n
+                2
+                k
+            )
+              |
+                    f
+                    ^
+              (
+              n
+              )
+              |
+              2
+          <
+          ∞
+          }
+    {\displaystyle H^{k}({\mathbb {T} })=\left\{f\in L^{2}({\mathbb {T} }):\sum _{n=-\infty }^{\infty }\left(1+n^{2}+n^{4}+\dots +n^{2k}\right)\left|{\widehat {f}}(n)\right|^{2}<\infty \right\}}
+where 
+              f
+              ^
+    {\displaystyle {\widehat {f}}}
+   is the Fourier series of f, and 
+            T
+    {\displaystyle {\mathbb {T} }}
+   denotes the torus. As above, one can use the equivalent norm
+        ∥
+        f
+          ∥
+            k
+            ,
+            2
+            2
+        =
+          ∑
+            n
+            =
+            −
+            ∞
+            ∞
+            (
+            1
+            +
+              |
+            n
+                |
+                2
+            )
+            k
+            |
+                  f
+                  ^
+            (
+            n
+            )
+            |
+            2
+        .
+    {\displaystyle \|f\|_{k,2}^{2}=\sum _{n=-\infty }^{\infty }\left(1+|n|^{2}\right)^{k}\left|{\widehat {f}}(n)\right|^{2}.}
+Both representations follow easily from Parseval's theorem and the fact that differentiation is equivalent to multiplying the Fourier coefficient by in.
+Furthermore, the space H k admits an inner product, like the space H 0 = L2. In fact, the H k inner product is defined in terms of the L2 inner product:
+        ⟨
+        u
+        ,
+        v
+          ⟩
+              H
+                k
+        =
+          ∑
+            i
+            =
+            0
+            k
+            ⟨
+              D
+                i
+            u
+            ,
+              D
+                i
+            v
+            ⟩
+              L
+                2
+        .
+    {\displaystyle \langle u,v\rangle _{H^{k}}=\sum _{i=0}^{k}\left\langle D^{i}u,D^{i}v\right\rangle _{L^{2}}.}
+The space H k becomes a Hilbert space with this inner product.
+Some other Sobolev spaces permit a simpler description. For example, W 1,1(0, 1) is the space of absolutely continuous functions on (0, 1) (or rather, equivalence classes of functions that are equal almost everywhere to such), while W 1,∞(I) is the space of Lipschitz functions on I, for every interval I. All spaces W k,∞ are (normed) algebras, i.e. the product of two elements is once again a function of this Sobolev space, which is not the case for p < +∞. (E.g., functions behaving like |x|−1/3 at the origin are in L2, but the product of two such functions is not in L2).
+The transition to multiple dimensions brings more difficulties, starting from the very definition. The requirement that f (k−1) be the integral of f (k) does not generalize, and the simplest solution is to consider derivatives in the sense of distribution theory.
+A formal definition now follows. Let 
+        k
+        ∈
+          N
+        ,
+        p
+        ∈
+        [
+        1
+        ,
+        ∞
+        ]
+        .
+    {\displaystyle k\in \mathbb {N} ,p\in [1,\infty ].}
+   The Sobolev space W k,p(Ω) is defined to be the set of all functions f defined on Ω such that for every multi-index α with |α| ≤ k, the mixed partial derivative
+          f
+            (
+            α
+            )
+        =
+                ∂
+                    |
+                  α
+                    |
+              f
+              ∂
+                x
+                  1
+                    α
+                      1
+              …
+              ∂
+                x
+                  n
+                    α
+                      n
+    {\displaystyle f^{(\alpha )}={\frac {\partial ^{|\alpha |}f}{\partial x_{1}^{\alpha _{1}}\dots \partial x_{n}^{\alpha _{n}}}}}
+exists in the weak sense and is in Lp(Ω), i.e.
+            ∥
+              f
+                (
+                α
+                )
+            ∥
+              L
+                p
+        <
+        ∞
+        .
+    {\displaystyle \left\|f^{(\alpha )}\right\|_{L^{p}}<\infty .}
+That is, the Sobolev space W k,p(Ω) is defined as
+          W
+            k
+            ,
+            p
+        (
+        Ω
+        )
+        =
+          {
+          u
+          ∈
+            L
+              p
+          (
+          Ω
+          )
+          :
+            D
+              α
+          u
+          ∈
+            L
+              p
+          (
+          Ω
+          )
+          ∀
+            |
+          α
+            |
+          ⩽
+          k
+          }
+        .
+    {\displaystyle W^{k,p}(\Omega )=\left\{u\in L^{p}(\Omega ):D^{\alpha }u\in L^{p}(\Omega )\,\,\forall |\alpha |\leqslant k\right\}.}
+The natural number k is called the order of the Sobolev space W k,p(Ω).
+There are several choices for a norm for W k,p(Ω). The following two are common and are equivalent in the sense of equivalence of norms:
+        ∥
+        u
+          ∥
+              W
+                k
+                ,
+                p
+            (
+            Ω
+            )
+        :=
+            {
+                      (
+                        ∑
+                            |
+                          α
+                            |
+                          ⩽
+                          k
+                          ∥
+                            D
+                              α
+                          u
+                          ∥
+                            L
+                              p
+                          (
+                          Ω
+                          )
+                          p
+                      )
+                        1
+                        p
+                  1
+                  ⩽
+                  p
+                  <
+                  +
+                  ∞
+                  ;
+                    max
+                        |
+                      α
+                        |
+                      ⩽
+                      k
+                      ∥
+                        D
+                          α
+                      u
+                      ∥
+                        L
+                          ∞
+                      (
+                      Ω
+                      )
+                  p
+                  =
+                  +
+                  ∞
+                  ;
+    {\displaystyle \|u\|_{W^{k,p}(\Omega )}:={\begin{cases}\left(\sum _{|\alpha |\leqslant k}\left\|D^{\alpha }u\right\|_{L^{p}(\Omega )}^{p}\right)^{\frac {1}{p}}&1\leqslant p<+\infty ;\\\max _{|\alpha |\leqslant k}\left\|D^{\alpha }u\right\|_{L^{\infty }(\Omega )}&p=+\infty ;\end{cases}}}
+and
+        ∥
+        u
+          ∥
+              W
+                k
+                ,
+                p
+            (
+            Ω
+            )
+          ′
+        :=
+            {
+                    ∑
+                        |
+                      α
+                        |
+                      ⩽
+                      k
+                      ∥
+                        D
+                          α
+                      u
+                      ∥
+                        L
+                          p
+                      (
+                      Ω
+                      )
+                  1
+                  ⩽
+                  p
+                  <
+                  +
+                  ∞
+                  ;
+                    ∑
+                        |
+                      α
+                        |
+                      ⩽
+                      k
+                      ∥
+                        D
+                          α
+                      u
+                      ∥
+                        L
+                          ∞
+                      (
+                      Ω
+                      )
+                  p
+                  =
+                  +
+                  ∞
+                  .
+    {\displaystyle \|u\|'_{W^{k,p}(\Omega )}:={\begin{cases}\sum _{|\alpha |\leqslant k}\left\|D^{\alpha }u\right\|_{L^{p}(\Omega )}&1\leqslant p<+\infty ;\\\sum _{|\alpha |\leqslant k}\left\|D^{\alpha }u\right\|_{L^{\infty }(\Omega )}&p=+\infty .\end{cases}}}
+With respect to either of these norms, W k,p(Ω) is a Banach space. For p < +∞, W k,p(Ω) is also a separable space. It is conventional to denote W k,2(Ω) by H k(Ω) for it is a Hilbert space with the norm 
+        ∥
+        ⋅
+          ∥
+              W
+                k
+                ,
+                2
+            (
+            Ω
+            )
+    {\displaystyle \|\cdot \|_{W^{k,2}(\Omega )}}
+  .
+Many of the properties of the Sobolev spaces cannot be seen directly from the definition. It is therefore interesting to investigate under which conditions a function u ∈ W k,p(Ω) can be approximated by smooth functions. If p is finite and Ω is bounded with Lipschitz boundary, then for any u ∈ W k,p(Ω) there exists an approximating sequence of functions um ∈ C∞(Ω), smooth up to the boundary such that:
+            ∥
+              u
+                m
+            −
+            u
+            ∥
+              W
+                k
+                ,
+                p
+            (
+            Ω
+            )
+        →
+        0.
+    {\displaystyle \left\|u_{m}-u\right\|_{W^{k,p}(\Omega )}\to 0.}
+In higher dimensions, it is no longer true that, for example, W1,1 contains only continuous functions. For example, 1/|x| belongs to 
+          W
+            1
+            ,
+            1
+        (
+            B
+            3
+        )
+    {\displaystyle W^{1,1}(\mathbb {B} ^{3})}
+   where 
+            B
+            3
+    {\displaystyle \mathbb {B} ^{3}}
+   is the unit ball in three dimensions. For k > n/p the space Wk,p(Ω) will contain only continuous functions, but for which k this is already true depends both on p and on the dimension. For example, as can be easily checked using spherical polar coordinates for the function 
+        f
+        :
+            B
+            n
+        →
+          R
+        ∪
+        {
+        ∞
+        }
+    {\displaystyle f:\mathbb {B} ^{n}\to \mathbb {R} \cup \{\infty \}}
+   defined on the n-dimensional ball we have:
+        f
+        (
+        x
+        )
+        =
+          |
+        x
+            |
+            −
+            α
+        ∈
+          W
+            k
+            ,
+            p
+        (
+            B
+            n
+        )
+        ⇔
+        α
+        <
+              n
+              p
+        −
+        k
+        .
+    {\displaystyle f(x)=|x|^{-\alpha }\in W^{k,p}(\mathbb {B} ^{n})\ \Leftrightarrow \ \alpha <{\tfrac {n}{p}}-k.}
+Intuitively, the blow-up of f at 0 "counts for less" when n is large since the unit ball has "more outside and less inside" in higher dimensions.
+Let 1 ≤ p ≤ +∞. If a function is in W 1,p(Ω), then, possibly after modifying the function on a set of measure zero, the restriction to almost every line parallel to the coordinate directions in 
+            R
+            n
+    {\displaystyle \mathbb {R} ^{n}}
+   is absolutely continuous; what's more, the classical derivative along the lines that are parallel to the coordinate directions are in Lp(Ω). Conversely, if the restriction of f to almost every line parallel to the coordinate directions is absolutely continuous, then the pointwise gradient ∇f exists almost everywhere, and f is in W 1,p(Ω) provided f and |∇f | are both in Lp(Ω). In particular, in this case the weak partial derivatives of f and pointwise partial derivatives of f agree almost everywhere. The ACL characterization of the Sobolev spaces was established by Otto M. Nikodym (1933); see (Maz'ya 1985, §1.1.3).
+A stronger result holds in the case p > n. A function in W 1,p(Ω) is, after modifying on a set of measure zero, Hölder continuous of exponent γ = 1 − n/p, by Morrey's inequality. In particular, if p = +∞, then the function is Lipschitz continuous.
+The Sobolev space W 1,2(Ω) is also denoted by H1(Ω). It is a Hilbert space, with an important subspace 
+          H
+            0
+            1
+        (
+        Ω
+        )
+    {\displaystyle H_{0}^{1}(\Omega )}
+   defined to be the closure in H1(Ω) of the infinitely differentiable functions compactly supported in Ω. The Sobolev norm defined above reduces here to
+        ∥
+        f
+          ∥
+              H
+                1
+        =
+            (
+              ∫
+                Ω
+              (
+                |
+              f
+                  |
+                  2
+              +
+                |
+              ∇
+              f
+                  |
+                  2
+              )
+            )
+              1
+              2
+        .
+    {\displaystyle \|f\|_{H^{1}}=\left(\int _{\Omega }\left(|f|^{2}+|\nabla f|^{2}\right)\right)^{\frac {1}{2}}.}
+When Ω has a regular boundary, H1
+0(Ω) can be described as the space of functions in H1(Ω) that vanish at the boundary, in the sense of traces (see below). When n = 1, if Ω = (a, b) is a bounded interval, then H1
+0(a, b) consists of continuous functions on [a, b] of the form
+        f
+        (
+        x
+        )
+        =
+          ∫
+            a
+            x
+          f
+          ′
+        (
+        t
+        )
+          d
+        t
+        ,
+        x
+        ∈
+        [
+        a
+        ,
+        b
+        ]
+    {\displaystyle f(x)=\int _{a}^{x}f'(t)\,\mathrm {d} t,\qquad x\in [a,b]}
+where the generalized derivative f′ is in L2(a, b) and has 0 integral, so that f (b) = f (a) = 0.
+When Ω is bounded, the Poincaré inequality states that there is a constant C = C(Ω) such that
+          ∫
+            Ω
+          |
+        f
+            |
+            2
+        ⩽
+          C
+            2
+          ∫
+            Ω
+          |
+        ∇
+        f
+            |
+            2
+        ,
+        f
+        ∈
+          H
+            0
+            1
+        (
+        Ω
+        )
+        .
+    {\displaystyle \int _{\Omega }|f|^{2}\leqslant C^{2}\,\int _{\Omega }|\nabla f|^{2},\quad f\in H_{0}^{1}(\Omega ).}
+When Ω is bounded, the injection from H1
+0(Ω) to L2(Ω) is compact. This fact plays a role in the study of the Dirichlet problem, and in the fact that there exists an orthonormal basis of L2(Ω) consisting of eigenvectors of the Laplace operator (with Dirichlet boundary condition).
+Sobolev spaces are often considered when investigating partial differential equations. It is essential to consider boundary values of Sobolev functions. If u ∈ C(Ω), those boundary values are described by the restriction 
+        u
+            |
+            ∂
+            Ω
+    {\displaystyle u|_{\partial \Omega }}
+  . However, it is not clear how to describe values at the boundary for u ∈ Wk,p(Ω), as the n-dimensional measure of the boundary is zero. The following theorem resolves the problem:
+Trace Theorem. Assume Ω is bounded with Lipschitz boundary. Then there exists a bounded linear operator 
+        T
+        :
+          W
+            1
+            ,
+            p
+        (
+        Ω
+        )
+        →
+          L
+            p
+        (
+        ∂
+        Ω
+        )
+    {\displaystyle T:W^{1,p}(\Omega )\to L^{p}(\partial \Omega )}
+   such that
+                T
+                u
+                =
+                u
+                    |
+                    ∂
+                    Ω
+                u
+                ∈
+                  W
+                    1
+                    ,
+                    p
+                (
+                Ω
+                )
+                ∩
+                C
+                (
+                    Ω
+                    ¯
+                )
+                ∥
+                T
+                u
+                  ∥
+                      L
+                        p
+                    (
+                    ∂
+                    Ω
+                    )
+                ⩽
+                c
+                (
+                p
+                ,
+                Ω
+                )
+                ∥
+                u
+                  ∥
+                      W
+                        1
+                        ,
+                        p
+                    (
+                    Ω
+                    )
+                u
+                ∈
+                  W
+                    1
+                    ,
+                    p
+                (
+                Ω
+                )
+                .
+    {\displaystyle {\begin{aligned}Tu&=u|_{\partial \Omega }&&u\in W^{1,p}(\Omega )\cap C({\overline {\Omega }})\\\|Tu\|_{L^{p}(\partial \Omega )}&\leqslant c(p,\Omega )\|u\|_{W^{1,p}(\Omega )}&&u\in W^{1,p}(\Omega ).\end{aligned}}}
+Tu is called the trace of u. Roughly speaking, this theorem extends the restriction operator to the Sobolev space W1,p(Ω) for well-behaved Ω. Note that the trace operator T is in general not surjective, but for 1 < p < ∞ it maps onto the Sobolev-Slobodeckij space 
+          W
+            1
+            −
+                1
+                p
+            ,
+            p
+        (
+        ∂
+        Ω
+        )
+        .
+    {\displaystyle W^{1-{\frac {1}{p}},p}(\partial \Omega ).}
+Intuitively, taking the trace costs 1/p of a derivative. The functions u in W1,p(Ω) with zero trace, i.e. Tu = 0, can be characterized by the equality
+          W
+            0
+            1
+            ,
+            p
+        (
+        Ω
+        )
+        =
+          {
+          u
+          ∈
+            W
+              1
+              ,
+              p
+          (
+          Ω
+          )
+          :
+          T
+          u
+          =
+          0
+          }
+        ,
+    {\displaystyle W_{0}^{1,p}(\Omega )=\left\{u\in W^{1,p}(\Omega ):Tu=0\right\},}
+where
+          W
+            0
+            1
+            ,
+            p
+        (
+        Ω
+        )
+        :=
+          {
+          u
+          ∈
+            W
+              1
+              ,
+              p
+          (
+          Ω
+          )
+          :
+          ∃
+          {
+            u
+              m
+            }
+              m
+              =
+              1
+              ∞
+          ⊂
+            C
+              c
+              ∞
+          (
+          Ω
+          )
+          ,
+            such that
+            u
+              m
+          →
+          u
+              in
+            W
+              1
+              ,
+              p
+          (
+          Ω
+          )
+          }
+        .
+    {\displaystyle W_{0}^{1,p}(\Omega ):=\left\{u\in W^{1,p}(\Omega ):\exists \{u_{m}\}_{m=1}^{\infty }\subset C_{c}^{\infty }(\Omega ),\ {\text{such that}}\ u_{m}\to u\ {\textrm {in}}\ W^{1,p}(\Omega )\right\}.}
+In other words, for Ω bounded with Lipschitz boundary, trace-zero functions in W1,p(Ω) can be approximated by smooth functions with compact support.
+For a natural number k and 1 < p < ∞ one can show (by using Fourier multipliers) that the space 
+          W
+            k
+            ,
+            p
+        (
+            R
+            n
+        )
+    {\displaystyle W^{k,p}(\mathbb {R} ^{n})}
+   can equivalently be defined as
+          W
+            k
+            ,
+            p
+        (
+            R
+            n
+        )
+        =
+          H
+            k
+            ,
+            p
+        (
+            R
+            n
+        )
+        :=
+          {
+          f
+          ∈
+            L
+              p
+          (
+              R
+              n
+          )
+          :
+                F
+              −
+              1
+            [
+            (
+            1
+            +
+              |
+            ξ
+                |
+                2
+              )
+                  k
+                  2
+                F
+            f
+            ]
+          ∈
+            L
+              p
+          (
+              R
+              n
+          )
+          }
+    {\displaystyle W^{k,p}(\mathbb {R} ^{n})=H^{k,p}(\mathbb {R} ^{n}):=\left\{f\in L^{p}(\mathbb {R} ^{n}):{\mathcal {F}}^{-1}\left[(1+|\xi |^{2})^{\frac {k}{2}}{\mathcal {F}}f\right]\in L^{p}(\mathbb {R} ^{n})\right\}}
+with the norm
+        ∥
+        f
+          ∥
+              H
+                k
+                ,
+                p
+            (
+                R
+                n
+            )
+        :=
+            ∥
+                  F
+                −
+                1
+              [
+                  (
+                  1
+                  +
+                    |
+                  ξ
+                      |
+                      2
+                  )
+                    k
+                    2
+                  F
+              f
+              ]
+            ∥
+              L
+                p
+            (
+                R
+                n
+            )
+    {\displaystyle \|f\|_{H^{k,p}(\mathbb {R} ^{n})}:=\left\|{\mathcal {F}}^{-1}\left[\left(1+|\xi |^{2}\right)^{\frac {k}{2}}{\mathcal {F}}f\right]\right\|_{L^{p}(\mathbb {R} ^{n})}}
+  .
+This motivates Sobolev spaces with non-integer order since in the above definition we can replace k by any real number s. The resulting spaces
+          H
+            s
+            ,
+            p
+        (
+            R
+            n
+        )
+        :=
+          {
+          f
+          ∈
+            L
+              p
+          (
+              R
+              n
+          )
+          :
+                F
+              −
+              1
+            [
+                (
+                1
+                +
+                  |
+                ξ
+                    |
+                    2
+                )
+                  s
+                  2
+                F
+            f
+            ]
+          ∈
+            L
+              p
+          (
+              R
+              n
+          )
+          }
+    {\displaystyle H^{s,p}(\mathbb {R} ^{n}):=\left\{f\in L^{p}(\mathbb {R} ^{n}):{\mathcal {F}}^{-1}\left[\left(1+|\xi |^{2}\right)^{\frac {s}{2}}{\mathcal {F}}f\right]\in L^{p}(\mathbb {R} ^{n})\right\}}
+are called Bessel potential spaces (named after Friedrich Bessel). They are Banach spaces in general and Hilbert spaces in the special case p = 2.
+          H
+            s
+            ,
+            p
+        (
+        Ω
+        )
+    {\displaystyle H^{s,p}(\Omega )}
+   is the set of restrictions of functions from 
+          H
+            s
+            ,
+            p
+        (
+            R
+            n
+        )
+    {\displaystyle H^{s,p}(\mathbb {R} ^{n})}
+   to Ω equipped with the norm
+        ∥
+        f
+          ∥
+              H
+                s
+                ,
+                p
+            (
+            Ω
+            )
+        :=
+        inf
+          {
+          ∥
+          g
+            ∥
+                H
+                  s
+                  ,
+                  p
+              (
+                  R
+                  n
+              )
+          :
+          g
+          ∈
+            H
+              s
+              ,
+              p
+          (
+              R
+              n
+          )
+          ,
+          g
+              |
+              Ω
+          =
+          f
+          }
+    {\displaystyle \|f\|_{H^{s,p}(\Omega )}:=\inf \left\{\|g\|_{H^{s,p}(\mathbb {R} ^{n})}:g\in H^{s,p}(\mathbb {R} ^{n}),g|_{\Omega }=f\right\}}
+  .
+Again, Hs,p(Ω) is a Banach space and in the case p = 2 a Hilbert space.
+Using extension theorems for Sobolev spaces, it can be shown that also Wk,p(Ω) = Hk,p(Ω) holds in the sense of equivalent norms, if Ω is domain with uniform Ck-boundary, k a natural number and 1 < p < ∞. By the embeddings
+          H
+            k
+            +
+            1
+            ,
+            p
+        (
+            R
+            n
+        )
+        ↪
+          H
+              s
+              ′
+            ,
+            p
+        (
+            R
+            n
+        )
+        ↪
+          H
+            s
+            ,
+            p
+        (
+            R
+            n
+        )
+        ↪
+          H
+            k
+            ,
+            p
+        (
+            R
+            n
+        )
+        ,
+        k
+        ⩽
+        s
+        ⩽
+          s
+          ′
+        ⩽
+        k
+        +
+        1
+    {\displaystyle H^{k+1,p}(\mathbb {R} ^{n})\hookrightarrow H^{s',p}(\mathbb {R} ^{n})\hookrightarrow H^{s,p}(\mathbb {R} ^{n})\hookrightarrow H^{k,p}(\mathbb {R} ^{n}),\quad k\leqslant s\leqslant s'\leqslant k+1}
+the Bessel potential spaces 
+          H
+            s
+            ,
+            p
+        (
+            R
+            n
+        )
+    {\displaystyle H^{s,p}(\mathbb {R} ^{n})}
+   form a continuous scale between the Sobolev spaces 
+          W
+            k
+            ,
+            p
+        (
+            R
+            n
+        )
+        .
+    {\displaystyle W^{k,p}(\mathbb {R} ^{n}).}
+   From an abstract point of view, the Bessel potential spaces occur as complex interpolation spaces of Sobolev spaces, i.e. in the sense of equivalent norms it holds that
+            [
+              W
+                k
+                ,
+                p
+            (
+                R
+                n
+            )
+            ,
+              W
+                k
+                +
+                1
+                ,
+                p
+            (
+                R
+                n
+            )
+            ]
+            θ
+        =
+          H
+            s
+            ,
+            p
+        (
+            R
+            n
+        )
+        ,
+    {\displaystyle \left[W^{k,p}(\mathbb {R} ^{n}),W^{k+1,p}(\mathbb {R} ^{n})\right]_{\theta }=H^{s,p}(\mathbb {R} ^{n}),}
+where:
+        1
+        ⩽
+        p
+        ⩽
+        ∞
+        ,
+        0
+        <
+        θ
+        <
+        1
+        ,
+        s
+        =
+        (
+        1
+        −
+        θ
+        )
+        k
+        +
+        θ
+        (
+        k
+        +
+        1
+        )
+        =
+        k
+        +
+        θ
+        .
+    {\displaystyle 1\leqslant p\leqslant \infty ,\ 0<\theta <1,\ s=(1-\theta )k+\theta (k+1)=k+\theta .}
+Another approach to define fractional order Sobolev spaces arises from the idea to generalize the Hölder condition to the Lp-setting. For 
+        1
+        ⩽
+        p
+        <
+        ∞
+        ,
+        θ
+        ∈
+        (
+        0
+        ,
+        1
+        )
+    {\displaystyle 1\leqslant p<\infty ,\theta \in (0,1)}
+   and 
+        f
+        ∈
+          L
+            p
+        (
+        Ω
+        )
+        ,
+    {\displaystyle f\in L^{p}(\Omega ),}
+   the Slobodeckij seminorm (roughly analogous to the Hölder seminorm) is defined by
+        [
+        f
+          ]
+            θ
+            ,
+            p
+            ,
+            Ω
+        :=
+            (
+              ∫
+                Ω
+              ∫
+                Ω
+                    |
+                  f
+                  (
+                  x
+                  )
+                  −
+                  f
+                  (
+                  y
+                  )
+                      |
+                      p
+                    |
+                  x
+                  −
+                  y
+                      |
+                      θ
+                      p
+                      +
+                      n
+            d
+            x
+            d
+            y
+            )
+              1
+              p
+    {\displaystyle [f]_{\theta ,p,\Omega }:=\left(\int _{\Omega }\int _{\Omega }{\frac {|f(x)-f(y)|^{p}}{|x-y|^{\theta p+n}}}\;dx\;dy\right)^{\frac {1}{p}}}
+  .
+Let s > 0 be not an integer and set 
+        θ
+        =
+        s
+        −
+        ⌊
+        s
+        ⌋
+        ∈
+        (
+        0
+        ,
+        1
+        )
+    {\displaystyle \theta =s-\lfloor s\rfloor \in (0,1)}
+  . Using the same idea as for the Hölder spaces, the Sobolev–Slobodeckij space Ws,p(Ω) is defined as
+          W
+            s
+            ,
+            p
+        (
+        Ω
+        )
+        :=
+          {
+          f
+          ∈
+            W
+              ⌊
+              s
+              ⌋
+              ,
+              p
+          (
+          Ω
+          )
+          :
+            sup
+                |
+              α
+                |
+              =
+              ⌊
+              s
+              ⌋
+          [
+            D
+              α
+          f
+            ]
+              θ
+              ,
+              p
+              ,
+              Ω
+          <
+          ∞
+          }
+        .
+    {\displaystyle W^{s,p}(\Omega ):=\left\{f\in W^{\lfloor s\rfloor ,p}(\Omega ):\sup _{|\alpha |=\lfloor s\rfloor }[D^{\alpha }f]_{\theta ,p,\Omega }<\infty \right\}.}
+It is a Banach space for the norm
+        ∥
+        f
+          ∥
+              W
+                s
+                ,
+                p
+            (
+            Ω
+            )
+        :=
+        ∥
+        f
+          ∥
+              W
+                ⌊
+                s
+                ⌋
+                ,
+                p
+            (
+            Ω
+            )
+        +
+          sup
+              |
+            α
+              |
+            =
+            ⌊
+            s
+            ⌋
+        [
+          D
+            α
+        f
+          ]
+            θ
+            ,
+            p
+            ,
+            Ω
+        .
+    {\displaystyle \|f\|_{W^{s,p}(\Omega )}:=\|f\|_{W^{\lfloor s\rfloor ,p}(\Omega )}+\sup _{|\alpha |=\lfloor s\rfloor }[D^{\alpha }f]_{\theta ,p,\Omega }.}
+If 
+        Ω
+    {\displaystyle \Omega }
+   is suitably regular in the sense that there exist certain extension operators, then also the Sobolev–Slobodeckij spaces form a scale of Banach spaces, i.e. one has the continuous injections or embeddings
+          W
+            k
+            +
+            1
+            ,
+            p
+        (
+        Ω
+        )
+        ↪
+          W
+              s
+              ′
+            ,
+            p
+        (
+        Ω
+        )
+        ↪
+          W
+            s
+            ,
+            p
+        (
+        Ω
+        )
+        ↪
+          W
+            k
+            ,
+            p
+        (
+        Ω
+        )
+        ,
+        k
+        ⩽
+        s
+        ⩽
+          s
+          ′
+        ⩽
+        k
+        +
+        1.
+    {\displaystyle W^{k+1,p}(\Omega )\hookrightarrow W^{s',p}(\Omega )\hookrightarrow W^{s,p}(\Omega )\hookrightarrow W^{k,p}(\Omega ),\quad k\leqslant s\leqslant s'\leqslant k+1.}
+There are examples of irregular Ω such that W1,p(Ω) is not even a vector subspace of Ws,p(Ω) for 0 < s < 1.
+From an abstract point of view, the spaces Ws,p(Ω) coincide with the real interpolation spaces of Sobolev spaces, i.e. in the sense of equivalent norms the following holds:
+          W
+            s
+            ,
+            p
+        (
+        Ω
+        )
+        =
+            (
+              W
+                k
+                ,
+                p
+            (
+            Ω
+            )
+            ,
+              W
+                k
+                +
+                1
+                ,
+                p
+            (
+            Ω
+            )
+            )
+            θ
+            ,
+            p
+        ,
+        k
+        ∈
+          N
+        ,
+        s
+        ∈
+        (
+        k
+        ,
+        k
+        +
+        1
+        )
+        ,
+        θ
+        =
+        s
+        −
+        ⌊
+        s
+        ⌋
+    {\displaystyle W^{s,p}(\Omega )=\left(W^{k,p}(\Omega ),W^{k+1,p}(\Omega )\right)_{\theta ,p},\quad k\in \mathbb {N} ,s\in (k,k+1),\theta =s-\lfloor s\rfloor }
+  .
+Sobolev–Slobodeckij spaces play an important role in the study of traces of Sobolev functions. They are special cases of Besov spaces.
+If 
+        Ω
+    {\displaystyle \Omega }
+   is a domain whose boundary is not too poorly behaved (e.g., if its boundary is a manifold, or satisfies the more permissive "cone condition") then there is an operator A mapping functions of 
+        Ω
+    {\displaystyle \Omega }
+   to functions of 
+            R
+            n
+    {\displaystyle \mathbb {R} ^{n}}
+   such that:
+Au(x) = u(x) for almost every x in 
+        Ω
+    {\displaystyle \Omega }
+   and
+        A
+        :
+          W
+            k
+            ,
+            p
+        (
+        Ω
+        )
+        →
+          W
+            k
+            ,
+            p
+        (
+              R
+            n
+        )
+    {\displaystyle A:W^{k,p}(\Omega )\to W^{k,p}({\mathbb {R} }^{n})}
+   is continuous for any 1 ≤ p ≤ ∞ and integer k.
+We will call such an operator A an extension operator for 
+        Ω
+        .
+    {\displaystyle \Omega .}
+Extension operators are the most natural way to define 
+          H
+            s
+        (
+        Ω
+        )
+    {\displaystyle H^{s}(\Omega )}
+   for non-integer s (we cannot work directly on 
+        Ω
+    {\displaystyle \Omega }
+   since taking Fourier transform is a global operation). We define 
+          H
+            s
+        (
+        Ω
+        )
+    {\displaystyle H^{s}(\Omega )}
+   by saying that 
+        u
+        ∈
+          H
+            s
+        (
+        Ω
+        )
+    {\displaystyle u\in H^{s}(\Omega )}
+   if and only if 
+        A
+        u
+        ∈
+          H
+            s
+        (
+            R
+            n
+        )
+        .
+    {\displaystyle Au\in H^{s}(\mathbb {R} ^{n}).}
+   Equivalently, complex interpolation yields the same 
+          H
+            s
+        (
+        Ω
+        )
+    {\displaystyle H^{s}(\Omega )}
+   spaces so long as 
+        Ω
+    {\displaystyle \Omega }
+   has an extension operator. If 
+        Ω
+    {\displaystyle \Omega }
+   does not have an extension operator, complex interpolation is the only way to obtain the 
+          H
+            s
+        (
+        Ω
+        )
+    {\displaystyle H^{s}(\Omega )}
+   spaces.
+As a result, the interpolation inequality still holds.
+Like above, we define 
+          H
+            0
+            s
+        (
+        Ω
+        )
+    {\displaystyle H_{0}^{s}(\Omega )}
+   to be the closure in 
+          H
+            s
+        (
+        Ω
+        )
+    {\displaystyle H^{s}(\Omega )}
+   of the space 
+          C
+            c
+            ∞
+        (
+        Ω
+        )
+    {\displaystyle C_{c}^{\infty }(\Omega )}
+   of infinitely differentiable compactly supported functions. Given the definition of a trace, above, we may state the following
+Theorem. Let 
+        Ω
+    {\displaystyle \Omega }
+   be uniformly Cm regular, m ≥ s and let P be the linear map sending u in 
+          H
+            s
+        (
+        Ω
+        )
+    {\displaystyle H^{s}(\Omega )}
+   to
+            (
+            u
+            ,
+                  d
+                  u
+                  d
+                  n
+            ,
+            …
+            ,
+                    d
+                      k
+                  u
+                  d
+                    n
+                      k
+            )
+            |
+            G
+    {\displaystyle \left.\left(u,{\frac {du}{dn}},\dots ,{\frac {d^{k}u}{dn^{k}}}\right)\right|_{G}}
+where d/dn is the derivative normal to G, and k is the largest integer less than s. Then 
+          H
+            0
+            s
+    {\displaystyle H_{0}^{s}}
+   is precisely the kernel of P.
+If 
+        u
+        ∈
+          H
+            0
+            s
+        (
+        Ω
+        )
+    {\displaystyle u\in H_{0}^{s}(\Omega )}
+   we may define its extension by zero 
+              u
+              ~
+        ∈
+          L
+            2
+        (
+              R
+            n
+        )
+    {\displaystyle {\tilde {u}}\in L^{2}({\mathbb {R} }^{n})}
+   in the natural way, namely
+              u
+              ~
+        (
+        x
+        )
+        =
+            {
+                  u
+                  (
+                  x
+                  )
+                  x
+                  ∈
+                  Ω
+                  0
+                    else
+    {\displaystyle {\tilde {u}}(x)={\begin{cases}u(x)&x\in \Omega \\0&{\text{else}}\end{cases}}}
+Theorem. Let 
+        s
+        >
+              1
+              2
+        .
+    {\displaystyle s>{\tfrac {1}{2}}.}
+   The map 
+        u
+        ↦
+              u
+              ~
+    {\displaystyle u\mapsto {\tilde {u}}}
+   is continuous into 
+          H
+            s
+        (
+              R
+            n
+        )
+    {\displaystyle H^{s}({\mathbb {R} }^{n})}
+   if and only if s is not of the form 
+        n
+        +
+              1
+              2
+    {\displaystyle n+{\tfrac {1}{2}}}
+   for n an integer.
+For f ∈ Lp(Ω) its extension by zero,
+        E
+        f
+        :=
+            {
+                  f
+                      on
+                  Ω
+                  ,
+                  0
+                      otherwise
+    {\displaystyle Ef:={\begin{cases}f&{\textrm {on}}\ \Omega ,\\0&{\textrm {otherwise}}\end{cases}}}
+is an element of 
+          L
+            p
+        (
+            R
+            n
+        )
+        .
+    {\displaystyle L^{p}(\mathbb {R} ^{n}).}
+   Furthermore,
+        ∥
+        E
+        f
+          ∥
+              L
+                p
+            (
+                R
+                n
+            )
+        =
+        ∥
+        f
+          ∥
+              L
+                p
+            (
+            Ω
+            )
+        .
+    {\displaystyle \|Ef\|_{L^{p}(\mathbb {R} ^{n})}=\|f\|_{L^{p}(\Omega )}.}
+In the case of the Sobolev space W1,p(Ω) for 1 ≤ p ≤ ∞, extending a function u by zero will not necessarily yield an element of 
+          W
+            1
+            ,
+            p
+        (
+            R
+            n
+        )
+        .
+    {\displaystyle W^{1,p}(\mathbb {R} ^{n}).}
+   But if Ω is bounded with Lipschitz boundary (e.g. ∂Ω is C1), then for any bounded open set O such that Ω⊂⊂O (i.e. Ω is compactly contained in O), there exists a bounded linear operator
+        E
+        :
+          W
+            1
+            ,
+            p
+        (
+        Ω
+        )
+        →
+          W
+            1
+            ,
+            p
+        (
+            R
+            n
+        )
+        ,
+    {\displaystyle E:W^{1,p}(\Omega )\to W^{1,p}(\mathbb {R} ^{n}),}
+such that for each u ∈ W1,p(Ω): Eu = u a.e. on Ω, Eu has compact support within O, and there exists a constant C depending only on p, Ω, O and the dimension n, such that
+        ∥
+        E
+        u
+          ∥
+              W
+                1
+                ,
+                p
+            (
+                R
+                n
+            )
+        ⩽
+        C
+        ∥
+        u
+          ∥
+              W
+                1
+                ,
+                p
+            (
+            Ω
+            )
+        .
+    {\displaystyle \|Eu\|_{W^{1,p}(\mathbb {R} ^{n})}\leqslant C\|u\|_{W^{1,p}(\Omega )}.}
+We call Eu an extension of u to 
+            R
+            n
+    {\displaystyle \mathbb {R} ^{n}}
+It is a natural question to ask if a Sobolev function is continuous or even continuously differentiable. Roughly speaking, sufficiently many weak derivatives or large p result in a classical derivative. This idea is generalized and made precise in the Sobolev embedding theorem.
+Write 
+          W
+            k
+            ,
+            p
+    {\displaystyle W^{k,p}}
+   for the Sobolev space of some compact Riemannian manifold of dimension n. Here k can be any real number, and 1 ≤ p ≤ ∞. (For p = ∞ the Sobolev space 
+          W
+            k
+            ,
+            ∞
+    {\displaystyle W^{k,\infty }}
+   is defined to be the Hölder space Cn,α where k = n + α and 0 < α ≤ 1.) The Sobolev embedding theorem states that if 
+        k
+        ⩾
+        m
+    {\displaystyle k\geqslant m}
+   and 
+        k
+        −
+              n
+              p
+        ⩾
+        m
+        −
+              n
+              q
+    {\displaystyle k-{\tfrac {n}{p}}\geqslant m-{\tfrac {n}{q}}}
+   then
+          W
+            k
+            ,
+            p
+        ⊆
+          W
+            m
+            ,
+            q
+    {\displaystyle W^{k,p}\subseteq W^{m,q}}
+and the embedding is continuous. Moreover, if 
+        k
+        >
+        m
+    {\displaystyle k>m}
+   and 
+        k
+        −
+              n
+              p
+        >
+        m
+        −
+              n
+              q
+    {\displaystyle k-{\tfrac {n}{p}}>m-{\tfrac {n}{q}}}
+   then the embedding is completely continuous (this is sometimes called Kondrachov's theorem or the Rellich-Kondrachov theorem). Functions in 
+          W
+            m
+            ,
+            ∞
+    {\displaystyle W^{m,\infty }}
+   have all derivatives of order less than m are continuous, so in particular this gives conditions on Sobolev spaces for various derivatives to be continuous. Informally these embeddings say that to convert an Lp estimate to a boundedness estimate costs 1/p derivatives per dimension.
+There are similar variations of the embedding theorem for non-compact manifolds such as 
+            R
+            n
+    {\displaystyle \mathbb {R} ^{n}}
+   (Stein 1970). Sobolev embeddings on 
+            R
+            n
+    {\displaystyle \mathbb {R} ^{n}}
+   that are not compact often have a related, but weaker, property of cocompactness.

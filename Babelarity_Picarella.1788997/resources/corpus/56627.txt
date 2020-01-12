@@ -1,0 +1,682 @@
+In thermodynamics, an isentropic process is an idealized thermodynamic process that is adiabatic and in which the work transfers of the system are frictionless; there is no transfer of heat or of matter and the process is reversible. Such an idealized process is useful in engineering as a model of and basis of comparison for real processes.
+The word 'isentropic' is occasionally, though not customarily, interpreted in another way, reading it as if its meaning were deducible from its etymology. This is contrary to its original and customarily used definition. In this occasional reading, it means a process in which the entropy of the system remains unchanged, for example because work done on the system includes friction internal to the system, and heat is withdrawn from the system, in just the right amount to compensate for the internal friction, so as to leave the entropy unchanged.
+The second law of thermodynamics states that,
+        T
+        d
+        S
+        ≥
+        δ
+        Q
+    {\displaystyle TdS\geq \delta Q}
+where 
+        δ
+        Q
+    {\displaystyle \delta Q}
+   is the amount of energy the system gains by heating, 
+        T
+    {\displaystyle T}
+   is the temperature of the system, and 
+        d
+        S
+    {\displaystyle dS}
+   is the change in entropy. The equal sign refers to a reversible process, which is an imagined idealized theoretical limit, never actually occurring in physical reality. For an isentropic process, which by definition is reversible, there is no transfer of energy as heat because the process is adiabatic. In an irreversible process of transfer of energy as work, entropy is produced within the system; consequently, in order to maintain constant entropy within the system, energy must be removed from the system as heat during the process.
+For reversible processes, an isentropic transformation is carried out by thermally "insulating" the system from its surroundings. Temperature is the thermodynamic conjugate variable to entropy, thus the conjugate process would be an isothermal process in which the system is thermally "connected" to a constant-temperature heat bath.
+The entropy of a given mass does not change during a process that is internally reversible and adiabatic. A process during which the entropy remains constant is called an isentropic process, written 
+        △
+        s
+        =
+        0
+    {\displaystyle \bigtriangleup s=0}
+   or 
+          s
+            1
+        =
+          s
+            2
+    {\displaystyle s_{1}=s_{2}}
+  .  Some isentropic thermodynamic devices include: pumps, gas compressors, turbines, nozzles, and diffusers.
+Most steady-flow devices operate under adiabatic conditions, and the ideal process for these devices is the isentropic process.The parameter that describes how efficiently a device approximates a corresponding isentropic device is called isentropic or adiabatic efficiency.
+Isentropic efficiency of Turbines:
+          η
+            T
+        =
+            Actual Turbine Work
+            Isentropic Turbine Work
+        =
+              W
+                a
+              W
+                s
+        ≅
+                h
+                  1
+              −
+                h
+                  2
+                  a
+                h
+                  1
+              −
+                h
+                  2
+                  s
+    {\displaystyle \eta _{T}={\frac {\text{Actual Turbine Work}}{\text{Isentropic Turbine Work}}}={\frac {W_{a}}{W_{s}}}\cong {\frac {h_{1}-h_{2a}}{h_{1}-h_{2s}}}}
+Isentropic efficiency of Compressors
+          η
+            C
+        =
+            Isentropic Compressor Work
+            Actual Compressor Work
+        =
+              W
+                s
+              W
+                a
+        ≅
+                h
+                  2
+                  s
+              −
+                h
+                  1
+                h
+                  2
+                  a
+              −
+                h
+                  1
+    {\displaystyle \eta _{C}={\frac {\text{Isentropic Compressor Work}}{\text{Actual Compressor Work}}}={\frac {W_{s}}{W_{a}}}\cong {\frac {h_{2s}-h_{1}}{h_{2a}-h_{1}}}}
+Isentropic efficiency of Nozzles
+          η
+            N
+        =
+            Actual KE at Nozzle Exit
+            Isentropic KE at Nozzle Exit
+        =
+              V
+                2
+                a
+                2
+              V
+                2
+                s
+                2
+        ≅
+                h
+                  1
+              −
+                h
+                  2
+                  a
+                h
+                  1
+              −
+                h
+                  2
+                  s
+    {\displaystyle \eta _{N}={\frac {\text{Actual KE at Nozzle Exit}}{\text{Isentropic KE at Nozzle Exit}}}={\frac {V_{2a}^{2}}{V_{2s}^{2}}}\cong {\frac {h_{1}-h_{2a}}{h_{1}-h_{2s}}}}
+For all the above equations:
+          h
+            1
+    {\displaystyle h_{1}}
+   is the enthalpy at the entrance state
+          h
+            2
+            a
+    {\displaystyle h_{2a}}
+   is the enthalpy at the exit state for the actual process
+          h
+            2
+            s
+    {\displaystyle h_{2s}}
+   is the enthalpy at the exit state for the isentropic process
+Ideal Rankine Cycle 1->2 Isentropic compression in a pump
+Ideal Rankine Cycle 3->4 Isentropic expansion in a turbine
+Ideal Carnot Cycle 2->3 Isentropic expansion
+Ideal Carnot Cycle 4->1 Isentropic compression
+Ideal Otto Cycle 1->2 Isentropic compression
+Ideal Otto Cycle 3->4 Isentropic expansion
+Ideal Diesel Cycle 1->2 Isentropic compression
+Ideal Diesel Cycle 3->4 Isentropic expansion
+Ideal Brayton Cycle 1->2 Isentropic compression in a compressor
+Ideal Brayton Cycle 3->4 Isentropic expansion in a turbine
+Ideal Vapor-compression refrigeration Cycle 1->2 Isentropic compression in a compressor
+NOTE: The isentropic assumptions are only applicable with ideal cycles. Real world cycles have inherent losses due to inefficient compressors and turbines. The real world system are not truly isentropic but are rather idealized as isentropic for calculation purposes.
+In fluid dynamics, an isentropic flow is a fluid flow that is both adiabatic and reversible. That is, no heat is added to the flow, and no energy transformations occur due to friction or dissipative effects. For an isentropic flow of a perfect gas, several relations can be derived to define the pressure, density and temperature along a streamline.
+Note that energy can be exchanged with the flow in an isentropic transformation, as long as it doesn't happen as heat exchange. An example of such an exchange would be an isentropic expansion or compression that entails work done on or by the flow.
+For an isentropic flow, entropy density can vary between different streamlines. If the entropy density is the same everywhere, then flow is said to be homentropic.
+For a closed system, the total change in energy of a system is the sum of the work done and the heat added,
+        d
+        U
+        =
+        δ
+        W
+        +
+        δ
+        Q
+    {\displaystyle dU=\delta W+\delta Q\,\!}
+The reversible work done on a system by changing the volume is,
+        d
+        W
+        =
+        −
+        p
+        d
+        V
+    {\displaystyle dW=-pdV\,\!}
+where 
+        p
+    {\displaystyle p}
+   is the pressure and 
+        V
+    {\displaystyle V}
+   is the volume. The change in enthalpy (
+        H
+        =
+        U
+        +
+        p
+        V
+    {\displaystyle H=U+pV\,\!}
+  ) is given by,
+        d
+        H
+        =
+        d
+        U
+        +
+        p
+        d
+        V
+        +
+        V
+        d
+        p
+    {\displaystyle dH=dU+pdV+Vdp\,\!}
+Then for a process that is both reversible and adiabatic (i.e. no heat transfer occurs), 
+        δ
+          Q
+            r
+            e
+            v
+        =
+        0
+    {\displaystyle \delta Q_{rev}=0\,\!}
+  , and so 
+        d
+        S
+        =
+        δ
+          Q
+            r
+            e
+            v
+          /
+        T
+        =
+        0
+    {\displaystyle dS=\delta Q_{rev}/T=0\,\!}
+  . All reversible adiabatic processes are isentropic. This leads to two important observations,
+        d
+        U
+        =
+        δ
+        W
+        +
+        δ
+        Q
+        =
+        −
+        p
+        d
+        V
+        +
+        0
+    {\displaystyle dU=\delta W+\delta Q=-pdV+0\,\!}
+   , and
+        d
+        H
+        =
+        δ
+        W
+        +
+        δ
+        Q
+        +
+        p
+        d
+        V
+        +
+        V
+        d
+        p
+        =
+        −
+        p
+        d
+        V
+        +
+        0
+        +
+        p
+        d
+        V
+        +
+        V
+        d
+        p
+        =
+        V
+        d
+        p
+    {\displaystyle dH=\delta W+\delta Q+pdV+Vdp=-pdV+0+pdV+Vdp=Vdp\,\!}
+Next, a great deal can be computed for isentropic processes of an ideal gas. For any transformation of an ideal gas, it is always true that
+        d
+        U
+        =
+        n
+          C
+            v
+        d
+        T
+    {\displaystyle dU=nC_{v}dT\,\!}
+  , and 
+        d
+        H
+        =
+        n
+          C
+            p
+        d
+        T
+    {\displaystyle dH=nC_{p}dT\,\!}
+  .
+Using the general results derived above for 
+        d
+        U
+    {\displaystyle dU}
+   and 
+        d
+        H
+    {\displaystyle dH}
+  , then
+        d
+        U
+        =
+        n
+          C
+            v
+        d
+        T
+        =
+        −
+        p
+        d
+        V
+    {\displaystyle dU=nC_{v}dT=-pdV\,\!}
+  , and
+        d
+        H
+        =
+        n
+          C
+            p
+        d
+        T
+        =
+        V
+        d
+        p
+    {\displaystyle dH=nC_{p}dT=Vdp\,\!}
+  .
+So for an ideal gas, the heat capacity ratio can be written as,
+        γ
+        =
+              C
+                p
+              C
+                V
+        =
+        −
+              d
+              p
+                /
+              p
+              d
+              V
+                /
+              V
+    {\displaystyle \gamma ={\frac {C_{p}}{C_{V}}}=-{\frac {dp/p}{dV/V}}\,\!}
+For an ideal gas 
+        γ
+    {\displaystyle \gamma \,\!}
+   is constant. Hence on integrating the above equation, assuming a perfect gas, we get
+        p
+          V
+            γ
+        =
+          constant
+    {\displaystyle pV^{\gamma }={\mbox{constant}}\,}
+   i.e.
+              p
+                2
+              p
+                1
+        =
+            (
+                  V
+                    1
+                  V
+                    2
+            )
+            γ
+    {\displaystyle {\frac {p_{2}}{p_{1}}}=\left({\frac {V_{1}}{V_{2}}}\right)^{\gamma }}
+Using the equation of state for an ideal gas, 
+        p
+        V
+        =
+        n
+        R
+        T
+    {\displaystyle pV=nRT\,\!}
+  ,
+        T
+          V
+            γ
+            −
+            1
+        =
+          constant
+    {\displaystyle TV^{\gamma -1}={\mbox{constant}}\,}
+proof: 
+        P
+          V
+            γ
+        =
+        c
+        o
+        n
+        s
+        t
+        a
+        n
+        t
+        ⇒
+        P
+        V
+          V
+            γ
+            −
+            1
+        =
+        c
+        o
+        n
+        s
+        t
+        a
+        n
+        t
+        ⇒
+        n
+        R
+        T
+          V
+            γ
+            −
+            1
+        =
+        c
+        o
+        n
+        s
+        t
+        a
+        n
+        t
+    {\displaystyle PV^{\gamma }=constant\Rightarrow PVV^{\gamma -1}=constant\Rightarrow nRTV^{\gamma -1}=constant}
+as nR= constant itself so we can divide both sides by "nR" and still have constant term in the R.H.S.
+Ultimate result, 
+        T
+          V
+            γ
+            −
+            1
+        =
+        c
+        o
+        n
+        s
+        t
+        a
+        n
+        t
+    {\displaystyle TV^{\gamma -1}=constant}
+              p
+                γ
+                −
+                1
+              T
+                γ
+        =
+          constant
+    {\displaystyle {\frac {p^{\gamma -1}}{T^{\gamma }}}={\mbox{constant}}}
+also, for constant 
+          C
+            p
+        =
+          C
+            v
+        +
+        R
+    {\displaystyle C_{p}=C_{v}+R}
+   (per mole),
+            V
+            T
+        =
+              n
+              R
+            p
+    {\displaystyle {\frac {V}{T}}={\frac {nR}{p}}}
+   and 
+        p
+        =
+              n
+              R
+              T
+            V
+    {\displaystyle p={\frac {nRT}{V}}}
+          S
+            2
+        −
+          S
+            1
+        =
+        n
+          C
+            p
+        ln
+        ⁡
+          (
+                T
+                  2
+                T
+                  1
+          )
+        −
+        n
+        R
+        ln
+        ⁡
+          (
+                p
+                  2
+                p
+                  1
+          )
+    {\displaystyle S_{2}-S_{1}=nC_{p}\ln \left({\frac {T_{2}}{T_{1}}}\right)-nR\ln \left({\frac {p_{2}}{p_{1}}}\right)}
+                S
+                  2
+              −
+                S
+                  1
+            n
+        =
+          C
+            p
+        ln
+        ⁡
+          (
+                T
+                  2
+                T
+                  1
+          )
+        −
+        R
+        ln
+        ⁡
+          (
+                  T
+                    2
+                  V
+                    1
+                  T
+                    1
+                  V
+                    2
+          )
+        =
+          C
+            v
+        ln
+        ⁡
+          (
+                T
+                  2
+                T
+                  1
+          )
+        +
+        R
+        ln
+        ⁡
+          (
+                V
+                  2
+                V
+                  1
+          )
+    {\displaystyle {\frac {S_{2}-S_{1}}{n}}=C_{p}\ln \left({\frac {T_{2}}{T_{1}}}\right)-R\ln \left({\frac {T_{2}V_{1}}{T_{1}V_{2}}}\right)=C_{v}\ln \left({\frac {T_{2}}{T_{1}}}\right)+R\ln \left({\frac {V_{2}}{V_{1}}}\right)}
+Thus for isentropic processes with an ideal gas,
+          T
+            2
+        =
+          T
+            1
+            (
+                  V
+                    1
+                  V
+                    2
+            )
+            (
+            R
+              /
+              C
+                v
+            )
+    {\displaystyle T_{2}=T_{1}\left({\frac {V_{1}}{V_{2}}}\right)^{(R/C_{v})}}
+   or 
+          V
+            2
+        =
+          V
+            1
+            (
+                  T
+                    1
+                  T
+                    2
+            )
+            (
+              C
+                v
+              /
+            R
+            )
+    {\displaystyle V_{2}=V_{1}\left({\frac {T_{1}}{T_{2}}}\right)^{(C_{v}/R)}}
+Derived from:
+        p
+          V
+            γ
+        =
+          constant
+    {\displaystyle pV^{\gamma }={\text{constant}}\,\!}
+        p
+        V
+        =
+        m
+          R
+            s
+        T
+    {\displaystyle pV=mR_{s}T\,\!}
+        p
+        =
+        ρ
+          R
+            s
+        T
+    {\displaystyle p=\rho R_{s}T\,\!\,\!}
+Where:
+        p
+    {\displaystyle p\,\!}
+   = Pressure
+        V
+    {\displaystyle V\,\!}
+   = Volume
+        γ
+    {\displaystyle \gamma \,\!}
+   = Ratio of specific heats = 
+          C
+            p
+          /
+          C
+            v
+    {\displaystyle C_{p}/C_{v}\,\!}
+        T
+    {\displaystyle T\,\!}
+   = Temperature
+        m
+    {\displaystyle m\,\!}
+   = Mass
+          R
+            s
+    {\displaystyle R_{s}\,\!}
+   = Gas constant for the specific gas = 
+        R
+          /
+        M
+    {\displaystyle R/M\,\!}
+        R
+    {\displaystyle R\,\!}
+   = Universal gas constant
+        M
+    {\displaystyle M\,\!}
+   = Molecular weight of the specific gas
+        ρ
+    {\displaystyle \rho \,\!}
+   = Density
+          C
+            p
+    {\displaystyle C_{p}\,\!}
+   = Specific heat at constant pressure
+          C
+            v
+    {\displaystyle C_{v}\,\!}
+   = Specific heat at constant volume
+Gas laws
+Adiabatic process
+Isenthalpic process
+Isentropic analysis
+Polytropic process

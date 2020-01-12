@@ -1,0 +1,43 @@
+The P-800 Oniks (Russian: П-800 Оникс; English: Onyx), also known in export markets as Yakhont (Russian: Яхонт; English: ruby), is a Soviet/Russian supersonic anti-ship cruise missile developed by NPO Mashinostroyeniya as a ramjet version of P-80 Zubr. Its GRAU designation is 3M55, the air launched Kh-61 variant also exists. Development officially started in 1983, and by 2001 allowed the launch of the missile from land, sea, air and submarine. The missile has the NATO reporting codename SS-N-26 "Strobile". It is reportedly a replacement for the P-270 Moskit, but possibly also for the P-700 Granit. The P-800 was reportedly used as the basis for the joint Russian-Indian supersonic missile BrahMos.
+The missile is carried in flight by aerodynamic lift. The solid-propellant booster is located in the ramjet's combustion chamber and is ejected by the airflow after it has burned out.
+Standard batteries of the K-300 Bastion-P (Бастион-П-Подвижный):
+4 self-propelled launchers K-340P with 2 missiles "Yakhont" (crew of 3 persons)
+1–2 Command and Control vehicles (ASBU) PBRK (crew of 5 persons)
+1 security alert car (MOBD)
+4 Transportation and loading vehicles (TLV K342P)
+Over-the-horizon firing range, full autonomy of combat use ("fire and forget"), a set of flexible ("low", "high-low") trajectories, high supersonic speed on all phases of flight, full harmonization for a wide range of platforms (surface ships of all major classes, submarines and land-based launchers), low profile flight (sea-skimming), possible use of the missile in electronic countermeasures environment and under enemy fire.
+In 2010 Sergei Prikhodko, senior adviser to the Russian President, has said that Russia intends to deliver P-800 to Syria based on the contracts signed in 2007. Syria received 2 Bastion missile systems with 36 missiles each (72 in total). The missiles' test was broadcast by Syrian state TV.
+In May 2013, Russia continued the contract delivery to the Syrian government supplying missiles with an advanced radar to make them more effective to counter any future foreign military invasion. The warehouse containing the Bastion Missile was destroyed in an Israeli air strike on Latakia on 5 July 2013, but US intelligence analysts believe that some missiles had been removed before the attack.
+Length: 8.9 m
+Diameter: 0.7 m
+Wingspan: 1.7 m
+Weight: 3,100 kg
+Speed at altitude: 750 m/s (Mach 2.6)
+Surface speed: Mach 2
+Engine: ramjet, weight 200 kg, 4 tons of thrust
+Range: 120–300 km / 600km for Russian non-export model
+for the combined trajectory (hi-lo) – 300 km
+for low-altitude trajectory (lo-lo) – 120 km
+Flight altitude of 10,000–14,000 m
+Warhead: 250 kg
+Period of storage: 7 years
+Fuel: kerosene T-6
+Radar homing head
+all-weather monopulse active-passive, with frequency hopping
+Immunity: high, from active spoofing, dipole clouds
+Range: 50 km active
+Launchable sea state – up to 7 points
+Warm-up time from power on: no more than 2 min
+Current consumption at 27 V circuit: up to 38 A
+Maximum angle of the target search: ± 45 °
+Homing weight: 85 kg
+Oniks – Base version for Russia.
+Yakhont – Export version of Oniks.
+Brahmos – Co-developed by Russia and India, based on Oniks, produced by BrahMos Aerospace Private Limited in India. BrahMos-II, a hypersonic version is also being developed.
+Bastion-P – Coast mobile missile system. Officially it was entered service in 2015.
+Kh-61 - Air launched ASM AGM version.
+Hezbollah – with diverse launching platforms.
+ Indonesia – 4 VLS (vertical launching system) mounted on Ahmad Yani class frigate KRI Oswald Siahaan (354), 50 missiles.
+ Russia – 3 "Bastion-P" complexes delivered in 2010, all the complexes taken into service with the Russian Black Sea Fleet's 11th Independent Coastal Missile-Artillery Brigade stationed near Anapa and the Project 1234.7 Nakat, a one-off Nanuchka IV-class corvette commissioned in 1987 with 2x6 Oniks. In the 1990s the antiship missile Onyx was tested on the ship. In 2002 the missile passed the whole range of trials and was commissioned. "Bastion-P" is deployed by Russian forces in Crimea.  One more Bastion-P was delivered in 2015. 2 Bastion systems are in service with the Northern Fleet. Newest class of Russian nuclear-powered attack submarines, Yasen-class submarine, can also launch the missile.
+ Syria – 2 "Bastion-P" complexes delivered in 2011, 72 missiles,
+ Vietnam – 2 "Bastion-P" land-based coastal defense systems delivered, 40 missiles.

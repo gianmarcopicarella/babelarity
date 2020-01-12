@@ -1,0 +1,59 @@
+Fujitsu Siemens Computers GmbH was a Japanese and German IT vendor. The company was founded in 1999 as a 50/50 joint venture between Fujitsu Limited of Japan and Siemens of Germany. On April 1, 2009, the company became Fujitsu Technology Solutions as a result of Fujitsu buying out Siemens' share of the company.
+The offerings of Fujitsu Siemens Computers extended from handheld and notebook PCs through desktops, server and storage, to enterprise-class IT infrastructure solutions and services. Fujitsu Siemens Computers had a presence in key markets across Europe, the Middle East and Africa, while products marketed elsewhere were sold under the Fujitsu brand, with the services division extending coverage up to 170 countries worldwide.
+Fujitsu Siemens Computers placed a focus on "green" computers, and was considered a leader or innovator in Green IT, across a wide variety of ecological and environmental markings such as Energy Star and Nordic swan.
+Fujitsu Siemens sponsored McLaren Mercedes Formula-1 team in 1999 and 2000.
+On the Fujitsu side, the origins of the company could be traced back to the mid-1980s merger of the PC-divisions of Finnish Nokia and Swedish Ericsson, when Ericsson PCs were known for their ergonomics and bright colors. In 1991, Nokia Data was sold to the British International Computers Limited (ICL). Later ICL was absorbed by Fujitsu. Ironically, Fujitsu was originally the data division of Fuji Electric, whose name was derived from its founders; "Fu" from the Furukawa Electric zaibatsu, and "Ji" from jiimensu, the Japanese transliteration for Siemens.
+The Nokia MikroMikko line of compact desktop computers continued to be produced at the Kilo factories in Espoo, Finland. Components, including motherboards and Ethernet network adapters were manufactured locally, until production was moved to Taiwan. Internationally the MikroMikko line was marketed by Fujitsu as the ErgoPro.
+Also on the Fujitsu side, the company fully acquired Amdahl corporation in 1997 which was a manufacturer of IBM compatible mainframes. The mainframe market was an area where Siemens also had a strong presence in, especially in Europe. The mainframe strategy of Siemens was different however as it produced its own line of mainframes that were not IBM compatible. Before the acquisition of Amdahl, Fujitsu also already had its own division that produced IBM compatible mainframes so the Amdahl acquisition was part of a market consolidation effort.
+The German half of the company, Siemens Nixdorf Informationssysteme, was the result of the merger of Nixdorf Computer with Siemens' data and information technology branch.
+In 2003, the company won the Wharton Infosys Business Transformation Award for their use of information technology in an industry-transforming way.
+It was announced in November 2008 that Fujitsu would buy out Siemens' stake in the joint venture for approximately EUR450m with effect from April 1, 2009. Fujitsu Siemens was the last major European computer manufacturer.
+The Fujitsu takeover went ahead as planned on April 1, 2009 — with the company renamed as Fujitsu Technology Solutions. The old FSC website is no longer available.
+Fujitsu Siemens Computers' products included:
+Media Center
+ACTIVY
+Notebooks
+AMILO
+AMILO PRO
+CELSIUS Mobile
+ESPRIMO Mobile
+LIFEBOOK
+Liteline
+PCD
+SCENIC Mobile
+Desktop PC
+SCALEO
+SCENIC
+ESPRIMO
+AMILO DESKTOP
+Workstation
+CELSIUS
+Tablet PC
+STYLISTIC
+Convertible PC
+LIFEBOOK
+Handheld
+Pocket LOOX
+Industry Standard Servers
+PRIMERGY
+PRIMERGY BladeFrame
+Mission critical IA64 servers
+PRIMEQUEST
+UNIX system based servers
+SPARC Enterprise Servers
+PRIMEPOWER 250, 450, 900, 1500, 2500
+S/390-compatible Mainframes
+S- series, SX- series
+Flat panel displays
+Myrica
+Liquid crystal display televisions
+Plasma display televisions
+SCALEOVIEW
+Liquid crystal display computer monitors
+SCENICVIEW
+Liquid crystal display computer monitors
+Operating systems
+SINIX - Unix variant, later renamed Reliant UNIX, available for RISC and S/390-compatible platforms
+BS2000 - EBCDIC-based operating system for SPARC, x86 and S/390-compatible systems
+VM2000 - EBCDIC-based hypervisor for S/390-compatible platform, capable of running multiple BS2000 and SINIX virtual machines
+List of computer system manufacturers

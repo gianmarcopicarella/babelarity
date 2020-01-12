@@ -1,0 +1,155 @@
+The Billboard 200 is a record chart ranking the 200 most popular music albums and EPs in the United States, published weekly by Billboard magazine. It is frequently used to convey the popularity of an artist or groups of artists. Often, a recording act will be remembered by its "number ones", those of their albums that outperformed all others during at least one week.
+The chart is based mostly on sales (both at retail and digitally) of albums in the United States. The weekly sales period was originally Monday to Sunday when Nielsen started tracking sales in 1991, but since July 2015, tracking week begins on Friday (to coincide with the Global Release Date of the music industry) and ends on Thursday. A new chart is published the following Tuesday with an issue post-dated to the Saturday of the following week. The chart's streaming schedule is also tracked from Friday to Thursday.
+Example:
+Friday January 1 – sales tracking week begins
+Thursday January 7 – sales tracking week ends
+Tuesday January 12 – new chart published, with issue date of Saturday January 23.
+New product is released to the American market on Fridays. Digital downloads of albums are also included in Billboard 200 tabulation. Albums that are not licensed for retail sale in the United States (yet purchased in the U.S. as imports) are not eligible to chart. A long-standing policy which made titles that are sold exclusively by specific retail outlets (such as Walmart and Starbucks) ineligible for charting, was reversed on November 7, 2007, and took effect in the issue dated November 17.
+Beginning with the December 13, 2014 issue, Billboard updated the methodology of their album chart to also include on-demand streaming and digital track sales (as measured by Nielsen SoundScan) by way of a new algorithm, utilizing data from all of the major on-demand audio subscription services in the United States.
+As of the issue dated July 30, 2016, the number-one album on the Billboard 200 is Views by Drake.
+Billboard began an album chart in 1945. Initially only five positions long, the album chart was not published on a weekly basis, sometimes three to seven weeks passing before it was updated. A biweekly (though with a few gaps), 15-position Best-Selling Popular Albums chart appeared in 1955. With the increase in album sales as the early 1950s format wars stabilized into market dominance by 45 RPM singles and long-playing twelve-inch albums, with 78 RPM record and long-playing ten-inch album sales decreasing dramatically, Billboard premiered a weekly Best-Selling Popular Albums chart on March 24, 1956. The position count varied anywhere from 10 to 30 albums. The first number-one album on the new weekly list was Belafonte by Harry Belafonte. The chart was renamed to Best-Selling Pop Albums later in 1956, and then to Best-Selling Pop LPs in 1957.
+Beginning on May 25, 1959, Billboard split the ranking into two charts Best-Selling Stereophonic LPs for stereo albums (30 positions) and Best-Selling Monophonic LPs for mono albums (50 positions). These were renamed to Stereo Action Charts (30 positions) and Mono Action Charts (40 positions) in 1960. In January 1961, they became Action Albums—Stereophonic (15 positions) and Action Albums—Monophonic (25 positions). Three months later, they became Top LPs—Stereo (50 positions) and Top LPs—Monaural (150 positions).
+On August 17, 1963 the stereo and mono charts were combined into a 150-position chart called Top LPs. On April 1, 1967, the chart was expanded to 175 positions, then finally to 200 positions on May 13, 1967. In February 1972, the album chart's title was changed to Top LPs & Tape; in 1984 it was retitled Top 200 Albums; in 1985 it was retitled again to Top Pop Albums; in 1991 it became The Billboard 200 Top Albums; and it was given its current title of The Billboard 200 on March 14, 1992.
+In 1960, Billboard began concurrently publishing album charts which ranked sales of older or mid-priced titles. These Essential Inventory charts were divided by stereo and mono albums, and featured titles that had already appeared on the main stereo and mono album charts. Mono albums were moved to the Essential Inventory—Mono chart (25 positions) after spending 40 weeks on the Mono Action Chart, and stereo albums were moved to the Essential Inventory—Stereo chart (20 positions) after 20 weeks on the Stereo Action Chart.
+In January 1961, the Action Charts became Action Albums—Monophonic (24 positions), and Action Albums—Stereophonic (15 positions). Albums appeared on either chart for up to nine weeks, then were moved to an Essential Inventory list of approximately 200 titles, with no numerical ranking. This list continued to be published until the consolidated Top LPs chart debuted in 1963.
+In 1982, Billboard began publishing a Midline Albums chart (alternatively titled Midline LPs) which ranked older or mid-priced titles. The chart held 50 positions and was published on a bi-weekly (and later tri-weekly) basis.
+On May 25, 1991, Billboard premiered the Top Pop Catalog Albums chart. The criteria for this chart were albums that were more than 18 months old and had fallen below position 100 on the Billboard 200. An album needed not have charted on the Billboard 200 at all to qualify for catalog status.
+Starting with the issue dated December 5, 2009, however, the catalog limitations which removed albums over 18 months old, that have dropped below position 100 and have no currently-running single, from the Billboard 200 was lifted, turning the chart into an all-inclusive list of the 200 highest-selling albums in the country (essentially changing Top Comprehensive Albums into the Billboard 200). A new chart that keeps the previous criteria for the Billboard 200 (dubbed Top Current Albums) was also introduced in the same issue.
+Billboard has adjusted its policies for Christmas and holiday albums several times. The albums were eligible for the main album charts until 1963, when a Christmas Albums list was created. Albums appearing here were not listed on the Top LPs chart. In 1974, this rule was reverted and holiday albums again appeared within the main list.
+In 1983, the Christmas Albums chart was resurrected, but a title's appearance here did not disqualify it from appearing on the Top Pop Albums chart. In 1994 the chart was retitled Top Holiday Albums. As of 2009 the chart holds 50 positions and is run for several weeks during the end-of-calendar-year holiday season. Its current policy allows holiday albums to concurrently chart on the Top Holiday Albums list and the Billboard 200.
+Beginning with the December 13, 2014 issue, Billboard updated the methodology of its album chart again, changing from a "pure sales-based ranking" to one measuring "multi-metric consumption". With this overhaul, the Billboard 200 includes on-demand streaming and digital track sales (as measured by Nielsen SoundScan) by way of a new algorithm, utilizing data from all of the major on-demand audio subscription services including Spotify, Beats Music, Google Play and Xbox Music. Under the new methodology, ten track sales or 1,500 song streams from an album are treated as equivalent to one purchase of the album. Billboard will continue to publish a pure album sales chart, called Top Album Sales, that maintains the traditional Billboard 200 methodology, based exclusively on SoundScan's sales data.
+Since May 25, 1991, the Billboard 200's positions have been derived from Nielsen SoundScan sales data, as of 2008 contributed by approximately 14,000 music sellers. Because these numbers are supplied by a subset of sellers rather than record labels, it is common for these numbers to be substantially lower than those reported by the Recording Industry Association of America when Gold, Platinum and Diamond album awards are announced (RIAA awards reflect wholesale shipments, not retail sales).
+Billboard's "chart year" runs from the first week of December to the final week in November. This altered calendar allows for Billboard to calculate year-end charts and release them in time for its final print issue in the last week of December. Prior to Nielsen SoundScan, year-end charts were calculated by an inverse-point system based solely on an album's performance on the Billboard 200 (for example, an album would be given one point for a week spent at position 200, two points for a week spent at position 199... up to 200 points for each week spent at number one). Other factors including the total weeks on the chart and at its peak position were calculated into an album's year-end total.
+After Billboard began obtaining sales information from Nielsen SoundScan, the year-end charts are now calculated by a very straightforward cumulative total of yearlong sales. This gives a more accurate picture of any given year's best-selling albums, as a title that hypothetically spent nine weeks at number one in March could possibly have sold fewer copies than one spending six weeks at number three in January. Interestingly, albums at the peak of their popularity at the time of the November/December chart-year cutoff many times end up ranked lower than one would expect on a year-end tally, yet are ranked on the following year's chart as well, as their cumulative points are split between the two chart-years.
+The Billboard 200 can be helpful to radio stations as an indication of the types of music listeners are interested in hearing. Retailers can also find it useful as a way to determine which recordings should be given the most prominent display in a store. Other outlets, such as airline music services, also employ the Billboard charts to determine their programming.
+The chart omits unit sales for listed albums and total recorded sales, making it impossible to determine, for example, if the number-one album this week sold as well as the number-one from the same period in the prior year. It is also impossible to determine the relative success of albums on a single chart; there is no indication of whether the number-one album sold thousands more copies than number 50, or only dozens more. All music genres are combined, but there are separate Billboard charts for individual market segments. The complete sales data broken down by location is made available, but only in the form of separate SoundScan subscriptions.
+Source:
+The Rolling Stones (36)
+Frank Sinatra (33)
+Barbra Streisand (33)
+The Beatles (30)
+Elvis Presley (27)
+Source:
+The Beatles (19)
+Jay Z (13)
+Bruce Springsteen (10) (tie)
+Elvis Presley (10) (tie)
+Barbra Streisand (10) (tie)
+Garth Brooks (9) (tie)
+The Rolling Stones (9) (tie)
+Madonna (8)
+Source:
+The Beatles (8) (tie)
+The Rolling Stones (8) (tie)
+Elton John (7) (tie)
+Eminem (7) (tie)
+Kanye West (7) (tie)
+Beyoncé (6) (tie)
+Dave Matthews Band (6) (tie)
+Source: 
+Kanye West (7)
+Beyoncé (6) (tie)
+Dave Matthews Band (6) (tie)
+Eminem (6) (tie)
+Metallica (5) (tie)
+Madonna (5) (tie)
+U2 (5) (tie)
+Disturbed (5) (tie)
+The Beatles (132)
+Elvis Presley (67)
+Michael Jackson (51) (tie)
+Garth Brooks (51) (tie)
+Whitney Houston (46) (tie)
+The Kingston Trio (46) (tie)
+Source:
+Prince (5) 2016
+The Kingston Trio (4 for 5 consecutive weeks) 1959 
+Herb Alpert & the Tijuana Brass (4) 1966
+Peter, Paul & Mary (3)
+Whitney Houston (3) 2012
+Led Zeppelin (3) 2014
+Source:
+Prince (19)
+The Beatles (13)
+Whitney Houston (10)
+David Bowie (10) 
+Led Zeppelin (9)
+The Monkees (7)
+U2 (7)
+Pearl Jam (7)
+(54 weeks) West Side Story – Soundtrack (1962–63)
+(37 weeks) Thriller – Michael Jackson (1983–84)
+(31 weeks) Rumours – Fleetwood Mac (1977–78)
+(31 weeks) South Pacific – Soundtrack (1958–59)
+(31 weeks) Calypso – Harry Belafonte (1956–57)
+(24 weeks) 21 – Adele (2011–12)
+(24 weeks) Purple Rain – Prince and the Revolution/Soundtrack (1984–85)
+(24 weeks) Saturday Night Fever: The Original Movie Sound Track – Bee Gees/Soundtrack (1978)
+(21 weeks) Please Hammer, Don't Hurt 'Em – MC Hammer (1990)
+(20 weeks) The Bodyguard: Original Soundtrack Album – Whitney Houston/Soundtrack (1992–93)
+(20 weeks) Blue Hawaii – Elvis Presley/Soundtrack (1961–62)
+Note that totals are for the main albums chart only, catalog chart totals are not factored in.
+(923 weeks) The Dark Side of the Moon – Pink Floyd
+(490 weeks) Johnny's Greatest Hits – Johnny Mathis
+(480 weeks) My Fair Lady – Original Cast Recording
+(422 weeks) Legend – Bob Marley and the Wailers
+(413 weeks) Journey's Greatest Hits – Journey
+(383 weeks) Metallica – Metallica
+(357 weeks) Greatest Hits – Guns N' Roses
+(331 weeks) Highlights from the Phantom of the Opera – Original Cast Recording
+(324 weeks) Nevermind – Nirvana
+(318 weeks) Tapestry – Carole King
+(305 weeks) Oklahoma! – Soundtrack
+(295 weeks) Heavenly – Johnny Mathis
+(294 weeks) Curtain Call: The Hits – Eminem
+(289 weeks) Led Zeppelin IV – Led Zeppelin
+(288 weeks) The Foundation – Zac Brown Band
+(176-1) Life After Death – The Notorious B.I.G. (April 12, 1997)
+(173-1) Vitalogy – Pearl Jam (December 24, 1994)
+(156-1) In Rainbows – Radiohead (January 19, 2008)
+(137-1) Ghetto D – Master P (September 20, 1997)
+(122-1) More of The Monkees – The Monkees (February 11, 1967)
+(112-1) MP da Last Don – Master P (June 20, 1998)
+(98-1) Beatles '65 – The Beatles (January 9, 1965)
+(61-1) Help! – The Beatles (September 11, 1965)
+(60-1) Rubber Soul – The Beatles (January 8, 1966)
+(53-1) Ballad of the Green Berets – Barry Sadler (March 12, 1966)
+(1-37) Light Grenades – Incubus (December 23, 2006)
+(1-26) Mission Bell – Amos Lee (February 19, 2011)
+(1-26) I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It – The 1975 (March 26, 2016)
+(1-25) Showroom of Compassion – Cake (February 5, 2011)
+(1-24) Christmas – Michael Bublé (January 14, 2012)
+(1-24) Blue Slide Park – Mac Miller (December 3, 2011)
+(1-22) Burning Lights – Chris Tomlin (February 2, 2013)
+(1-21) The Golden Age of Grotesque – Marilyn Manson (June 7, 2003)
+(1-19) The Circle – Bon Jovi (December 5, 2009)
+(1-19) 1000 Forms of Fear - Sia (August 2, 2014)
+(1-19) Drones — Muse (July 4, 2015)
+Barbra Streisand is the only artist to have number 1 albums in 6 decades. Her first was the 1964 album People and her most recent was the 2014 album Partners a few weeks of 50 years between both.
+The first album to debut at number one was Captain Fantastic and the Brown Dirt Cowboy by Elton John. John repeated the same feat with the album Rock of the Westies – the second album to debut at number one – making John the first artist to have two consecutive studio albums debut at number one. Whitney Houston's second album Whitney was the first album by a female artist to debut at number one.
+In the early 1960s, Bob Newhart had the accomplishment of having the number-one and number-two albums simultaneously on the Billboard albums chart, with The Button-Down Mind of Bob Newhart and The Button-Down Mind Strikes Back! This feat was equaled by The Beatles multiple times. They did this twice in 1964 with Meet The Beatles! and Introducing... The Beatles, and then with A Hard Day's Night and Something New, followed in 1969 with the album The Beatles (commonly known as The White Album) and the soundtrack for the film Yellow Submarine. In 1991, Guns N' Roses held the top two with Use Your Illusion I and Use Your Illusion II, and in 2004, Nelly's Suit and Sweat.
+As a musician, Paul McCartney has the most number-one albums, with 26. This includes 19 albums from his work with The Beatles (referenced earlier in this article), 2 solo albums, and 5 albums as a part of his 1970s group Wings. John Lennon is in second place with 22, including 19 albums with The Beatles, 2 solo albums, and 1 album credited to him and his wife Yoko Ono.
+McCartney also has the most top 10 albums, with 48. This includes 30 with The Beatles (referenced earlier in this article), 8 albums with the group Wings, 1 album credited to him and his first wife Linda McCartney, and 9 solo albums.
+As of 2008, Pink Floyd's The Dark Side of the Moon has been on the charts for over 1,630 weeks, or approximately 31 years. Consecutively, the album spent a record 773 weeks on the Billboard 200. The other weeks were spent on the Top Pop Catalog Albums chart. Its closest rival is Bob Marley's Legend, checking in at over 975 weeks (Billboard 200 and Top Pop Catalog Albums combined).
+Tapestry by Carole King holds the record for the longest time for an album by a female solo artist to remain on the Billboard albums chart, with nearly six years. King also holds the record for most consecutive weeks at number one on the Billboard 200 for any one album by a female solo artist with 15 weeks, also by Tapestry.
+Forever Your Girl by Paula Abdul spent 64 consecutive weeks on the Billboard 200 before hitting number one, making it the longest time for an album to reach the number-one spot, while the soundtrack to O Brother, Where Art Thou took 63 weeks to reach number one in 2001 making it the longest run since Nielsen SoundScan began tracking sales.
+The only EPs to reach number one on the chart are Alice in Chains's Jar of Flies in 1994, Linkin Park and Jay-Z's collaboration EP, Collision Course in 2004, the cast of the television series Glee with Glee: The Music, The Power of Madonna and Glee: The Music, Journey to Regionals in 2010, and Bad Meets Evil's Hell: The Sequel.
+The Monkees are the only band to have had four number-one albums in the same year. Elvis Presley, The Kingston Trio, The Beatles, and the cast of the television series Glee had three different albums hit number one in the same year. Fourteen artists have had two different albums hit number one in the same year: The Kingston Trio in 1959, Beyoncé, Led Zeppelin, DMX, Jay-Z, Garth Brooks, 2Pac, System of a Down, Eminem, Susan Boyle, One Direction, Justin Timberlake, Drake and Future.
+The Kingston Trio is the only artist to have four albums simultaneously in the top ten, which occurred for five consecutive weeks in November and December 1959.
+In 2001, Britney Spears became the first female artist in the chart's history to have her first three albums debut at number one. She broke this record two years later with a fourth number-one debut. With the number-one debut of her Circus album in 2008, Spears also became the youngest female artist in history to have five number-one albums. She later beat the record when her 7th studio album, Femme Fatale debuted at number one on April, 2011.
+The first UK solo artist to debut at number one with a debut album is Leona Lewis on April 26, 2008 with the album Spirit. The first UK group to debut at number one with a debut album is One Direction on March 31, 2012 with the album Up All Night.
+Oldest male to debut at number one: Tony Bennett on October 8, 2011 (7009268809840000000♠85 years, 66 days old) with the album Duets II. He was born August 3, 1926. Later, he surpassed his own record when his collaborative album with Lady Gaga, Cheek to Cheek debuted at number one on October 11, 2014 (7009278303040000000♠88 years, 69 days old).
+Oldest female to debut at number one: Barbra Streisand on September 24, 2014 (7009228536640000000♠72 years, 153 days old) with the album Partners. She was born April 24, 1942.
+The issue dated July 11, 2009 was the first time any catalog album outsold the number-one album on the Billboard 200. Three of Michael Jackson's albums (Number Ones, The Essential Michael Jackson and Thriller) claimed positions 1-3 respectively on Top Pop Catalog Albums and Top Comprehensive Albums in the week following Jackson's death.
+With 24 weeks at number one for her album, Adele holds the record for the longest time for a solo album by a female to remain at the top of the Billboard 200. This run was concurrent with her three number-one singles on the Hot 100.
+In 2012, Adam Lambert became the first openly gay musician to debut at No. 1 with his album Trespassing.
+There have been 23 albums released on an independent label to reach No. 1 on the Billboard 200.
+As of September 27, 2015, only fourteen artists had topped the Billboard 200 without having had any singles appear on the Hot 100: Van Cliburn, Bob Newhart, Judy Garland (who had hit singles which predated the Hot 100), Vaughn Meader, Frank Fontaine, Blind Faith, Pantera, Bob Carlisle (whose hit song "Butterfly Kisses" was ineligible for the Hot 100 but charted on radio airplay charts), Il Divo, Slipknot, Vampire Weekend, The Decemberists, Amos Lee and Lecrae. Jackie Gleason, at least for a time, held the record for the most albums to top the Billboard 200 without charting any songs in the top 40 of the Hot 100; three of Gleason's mood music albums topped the Billboard 200 in the mid-1950s.
+As of December 18, 2013, Beyoncé became the only female artist to have her first 5 studio albums debut at No. 1 on the Billboard 200 chart, following the release of her self-titled album Beyoncé.
+One Direction became the first group in history to debut at No. 1 with its first three albums when Midnight Memories debuted at number one on the Billboard 200 dated December 14, 2013. They later became the first group to debut at No. 1 with their first four albums when Four debuted atop the chart on November 26, 2014.
+Led Zeppelin hold the record for the longest gap between an album returning to the Top 10. Led Zeppelin first hit the Top 10 on the Billboard Top LP's chart for the week ending 17 May 1969 and returned 45 years and 35 days later at No.7, on the Billboard 200, for the week ending 21 June 2014.
+On May 1, 2016, Beyoncé broke the record she previously set in 2013, by becoming the only female artist to have her first 6 studio albums debut at No. 1 on the Billboard 200 chart, following the release of her sixth studio album Lemonade. Beyoncé also becomes the first and only artist in Billboard chart history to have all of her studio albums debut at No. 1, breaking a tied record with DMX.
+List of Billboard 200 number-one albums
+Joel Whitburn Presents the Billboard Albums, 6th edition, ISBN 0-89820-166-7
+Whitburn, Joel (1991). The Billboard Book of Top 40 Albums (Revised and enlarged 2nd ed.). Billboard Books. ISBN 0-8230-7534-6. 
+Additional information obtained can be verified within Billboard's online archive services and print editions of the magazine.

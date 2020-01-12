@@ -1,0 +1,42 @@
+The Atari Falcon030 Computer System was Atari Corporation's final computer product. Codenamed Sparrow, the machine was based on a Motorola 68030 main CPU, and had a Motorola 56000 digital signal processor, a feature which distinguished it from most other microcomputers of the era.
+The Falcon was released in late 1992 and subsequently cancelled in late 1993 as Atari Corp restructured itself to focus completely on the release and support of its newest product, the Atari Jaguar video game console. The Falcon sold in relatively small numbers, chiefly to hobbyists.
+Atari Corp. created a number of prototypes of the Falcon040 (based on the more capable fully pipelined, integrated-FPU, Motorola 68040, and using a "microbox" case), but canceled it. The microbox case resembled the later Sony PlayStation 2, right down to the ability to run it vertically or horizontally. It is even referenced in the PS2 patent applications.
+Shortly after release Atari Corp. bundled the MultiTOS Operating system in addition to TOS. TOS remained in ROM, and MultiTOS was supplied on floppy disk and could be installed to boot from hard disk.
+In 1995, the music company C-Lab bought the rights to the Falcon hardware design and began producing their own versions. The Falcon Mk I was a direct continuation of Atari Corp.'s Falcon030 with TOS 4.04. The Falcon Mk II addressed a number of shortcomings in the original design, making it more suitable to use in a recording studio (these were unofficially termed 'Cubase modifications') such as accepting Line-level audio in without the need for a pre-amp or mixer. The Falcon Mk X was mounted in a 19" 1U rack case, with external keyboard and space for internal SCSI hard disk drives.
+Today, the Falcon is one of Atari Corp.'s most popular machines for hardware modding. Due to its expansion capabilities, several accelerators have been produced. Some of them overclock the CPU and/or the bus, while others upgrade the CPU to a Motorola 68060.
+Processor: Motorola 68030 at 16 MHz with MMU and 256 byte instruction and data caches.
+FPU: optional Motorola 68881 or Motorola 68882, PLCC socket
+DSP: Motorola 56001 DSP chip at 32 MHz (16 MIPS).
+Graphics: "VIDEL" fully programmable video controller.
+Palette of 262,144 possible colours (18 bit), 256 new color registers
+Bitplane modes of 2, 4, 16 or 256 colors (1, 2, 4 or 8 bit)
+Chunky 16-bit truecolor mode
+RGB output can feed either 15 kHz RGB monitor or TV, old Atari SM124 monitor or a VGA monitor
+Despite the capabilities of the Videl, the plain TOS allows the user the choice of only a few resolutions up to 640×480 (or even less in the case of 16-bit mode and VGA). In order to achieve the full potential of the Videl one has to use one of the numerous existing alternative utilities, such as "Videlity", "Videl Inside", "Blow UP" etc..
+BLiTTER graphics co-processor at 16 MHz (mainly for the backward compatibility with STE)
+Backwards compatible with all ST resolutions.
+Character set: Atari ST character set, based on codepage 437.
+Audio:
+16-bit audio input and output up to 50 kHz - 8 stereo channels
+SDMA sound/DMA Co-processor
+Yamaha Y3439-F 3 Channel PSG (for the backward compatibility with ST)
+Memory: 1, 4, or 14 MB of RAM with 512 kB ROM.
+Bus Speed: 16 MHz, Bus width: 16 bit
+Drives and I/O
+2.5 inch IDE - internal
+1.44 MB 3.5 inch PC compatible Floppy disk - internal
+External SCSI-II connector
+MIDI IN and OUT
+2x serial ports
+Bidirectional LPT port
+DSP port with I²S buses for external expansions as ADCs/DACs, S/PDIF or ADAT interfaces
+2× 9-pin mouse/joystick ports
+2× analog joystick (compatible with STE and Jaguar)
+ROM/Cartridge port used mainly by dongles and some expansion cards
+LocalTalk compatible Local area network port
+The heart of the system is the 32-bit Motorola 68030 clocked at 16 MHz. It runs at about 5.76 MIPS while displaying video modes with the fewest colors. Despite its 32-bit CPU, the Falcon does not have 32-bit architecture throughout its design, as it has a 16-bit data bus and a 24-bit address bus. This reduces the 68030's performance when not operating inside its tiny cache and limits the maximum system memory to ~14 MB.
+The microprocessor is supported by a Motorola 56001 DSP clocked at 32 MHz and performing ca. 16 million instructions per second. Although it is oriented to sound processing (it is directly connected to the RAM and codec via an interconnection matrix), it is also capable of graphics processing (for example, calculation of fractals, deformations, 3D projections, and JPEG decompression). It can even, jointly with the 68030, play MP3 files in real time.
+Another innovation (for its time) is the VIDEL video controller. The possibilities offered by the graphics processor are limited only by its frequency (25/32 MHz core, adjustable to 50 MHz with a hardware accelerator) and the slowness of the RAM, as the graphics memory is shared with system memory which can degrade performance significantly when using high resolutions or video modes requiring many bit planes. The parameters are numerous; each timing of a video line (start, end, number of pixels, etc.) is adjustable, the image may be interlaced or not, and the vertical frequency can go down to 50 Hz interlaced to display on a television. The number of colors is also adjustable when VIDEL operates in bit plane mode. This mode is available for compatibility with the previous generation, but is quite complex to manage. There is also a true color 16-bit mode in which bits defining each pixel are grouped together to display 65,536 colors simultaneously, though CPU performance is degraded while displaying this mode.
+In addition, Atari adopted the IDE bus in addition to the SCSI bus for connecting hard drives and CD-ROM drives. This allows for less expensive disk and CD-ROM devices, as SCSI interfaced devices remained relatively expensive. However, the IDE connector is internal and requires case modification to connect two hard disks or a single CD-ROM. The other drawback is that this early IDE port uses only programmed I/O unlike a SCSI drive that can directly access the RAM (DMA).
+Hatari is able to emulate an Atari Falcon on a variety of different OSs using the SDL library.
+Aranym is able to emulate generic Atari hardware on multiple hardware.

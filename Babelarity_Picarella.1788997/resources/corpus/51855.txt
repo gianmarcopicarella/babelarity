@@ -1,0 +1,40 @@
+Symfony is a PHP web application framework for MVC applications. Symfony is free software and released under the MIT license. The symfony-project.com website launched on October 18, 2005.
+Symfony aims to speed up the creation and maintenance of web applications and to replace repetitive coding tasks.
+Symfony has a low performance overhead used with a bytecode cache.
+Symfony is aimed at building robust applications in an enterprise context, and aims to give developers full control over the configuration: from the directory structure to the foreign libraries, almost everything can be customized. To match enterprise development guidelines, Symfony is bundled with additional tools to help developers test, debug and document projects.
+Symfony was heavily inspired by other web application frameworks such as Ruby on Rails, Django, and Spring.
+Symfony makes heavy use of existing PHP open-source projects as part of the framework, including:
+Propel or Doctrine as object-relational mapping layers
+PDO database abstraction layer (1.1, with Doctrine and Propel 1.3)
+PHPUnit, a unit testing framework
+Twig, a templating engine
+Swift Mailer, an e-mail library
+Symfony also makes use of its own components, which are freely available on the Symfony Components site for various other projects:
+Symfony YAML, a YAML parser based upon Spyc
+Symfony Event Dispatcher
+Symfony Dependency Injector, a dependency injector
+Symfony Templating, a templating engine
+Using plugins, Symfony is able to support JavaScript frameworks and many more PHP projects, such as:
+Prototype or jQuery
+script.aculo.us, for visual effects
+lessphp, a Less-to-CSS converter
+TinyMCE or CKEditor, for rich text editing
+TCPDF, a PHP library for generating PDF documents
+The inclusion and implementation of a JavaScript library is left to the user.
+Symfony is sponsored by SensioLabs, a French software developer and professional services provider. The first name was Sensio Framework, and all classes were prefixed with sf. Later on when it was decided to launch it as open source framework, the brainstorming resulted in the name symfony (being renamed to Symfony from version 2 and on), the name which depicts the theme and class name prefixes.
+Symfony is used by the open-source Q&A service Askeet and many more applications, including Delicious.
+At one time it was used for 20 million users of Yahoo! Bookmarks.
+As of February 2009, Dailymotion.com has ported part of its code to use Symfony, and is continuing the transition.
+Symfony2 is used by OpenSky, a social shopping platform, and the Symfony framework is also used by the massively multiplayer online browser game eRepublik, and by the content management framework eZ Publish in version 5.
+Drupal 8, phpBB and a number of other large applications have incorporated components of Symfony.
+Symfony2 is also used by Meetic, one of the largest online dating platforms in the world, on most of its websites for implementing its business logic in the backend.
+Symfony components are also used in other web application frameworks including Laravel, which is another full stack framework, and Silex, which is a microframework.
+As of February 12, 2013 the massive wiki-database video game website GiantBomb.com converted from Django to Symfony following an acquisition.
+Vogue France's website is also built on the Symfony framework
+Symfony's own website has a comprehensive showcase of sites: http://symfony.com/showcase/
+Symfony manages its releases through a time-based model; a new Symfony release comes out every six months: one in May and one in November.
+This release process has been adopted as of Symfony 2.2, and all the "rules" explained in this document must be strictly followed as of Symfony 2.4.
+The standard version of Symfony is maintained for eight months, whereas long-term support (LTS) versions are supported for three years. A new LTS release is published biennially.
+Comparison of web frameworks
+Lime
+Zend Framework

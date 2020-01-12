@@ -1,0 +1,51 @@
+In chemistry, boranes comprise a large group of compounds with the generic formula of BxHy. These compounds do not occur in nature. Many of the boranes readily oxidise on contact with air, some violently. The class is named after the parent chemical called "borane" itself, chemical formula BH3. This compound is only known to exist as a transient intermediate since it dimerises to form diborane, B2H6. The larger boranes all consist of boron clusters that are polyhedral. In addition to the charge-neutral boranes, a large number of anionic boron hydrides are known. The most important boranes are diborane B2H6 and two of its pyrolysis products, pentaborane B5H9 and decaborane B10H14. The development of the chemistry of boron hydrides led to new experimental techniques and theoretical concepts. Boron hydrides have been studied as potential fuels, for rockets and for automotive uses, but the only commercial applications involve derivatives of borane.
+The four series of single-cluster boranes have the following general formulae, where "n" is the number of boron atoms:
+There also exists a series of substituted neutral hypercloso-boranes that have the theoretical formulae BnHn. Examples include B12(OCH2Ph)12, a derivative of the unstable hypercloso-B12H12.
+The naming of neutral boranes is illustrated by the following examples, where the Greek prefix shows the number of boron atoms and the number of hydrogen atoms is in brackets:
+B5H9 pentaborane(9)
+B6H12 hexaborane(12)
+The naming of anions is illustrated by the following, where the hydrogen count is specified first followed by the boron count, and finally the overall charge in brackets:
+B5H8− octahydropentaborate(1−)
+Optionally closo− nido− etc. (see above) can be added:
+B5H9, nido−pentaborane(9)
+B4H10, arachno−tetraborane(10)
+B6H62−, hexahydro−closo−hexaborate(2−)
+Understandably many of the compounds have abbreviated common names.
+The geometries of boron clusters are related. Generally they are described as (i) deltahedra, polyhedra with triangular faces or (ii) those same deltahedra with one or more vertices missing. Common deltahedra that are found in boron-hydride clusters are shown below.
+One feature of these deltahedra is that boron atoms at the vertices may have different numbers of boron atoms as near neighbours. For example, in the pentagonal bipyramid, 2 borons have 3 neighbors, 3 have 4 neighbours, whereas in the octahedral cluster all vertices are the same, each boron having 4 neighbours. These differences between the boron atoms in different positions are important in determining structure, as they have different chemical shifts in the 11B NMR spectra.
+B6H10 is a typical example. Its geometry is, in essence, a 7-boron framework (pentagonal bipyramid), missing a vertex that had the highest number of near neighbours, e.g., a vertex with 5 neighbours. The extra hydrogen atoms bridge around the open face. A notable exception to this general scheme is that of B8H12, which would be expected to have a nido- geometry (based on B9H92− missing 1 vertex), but is similar in geometry to B8H14, which is based on B10H102−.
+The names for the series of boranes are derived from this general scheme for the cluster geometries:-
+hypercloso- (from the Greek for "over cage") a closed complete cluster, e.g., B8Cl8 is a slightly distorted dodecahedron.
+closo- (from the Greek for "cage") a closed deltahedron cluster, with 2n+2 framework electrons e.g., icosahedral B12H122−
+nido- (from the Latin for "nest") B occupies n vertices of an n+1 deltahedron with 2n+4 framework electrons, e.g., B5H9 an octahedron missing 1 vertex
+arachno- (from the Greek for "spiders web") B occupies n vertices of an n+3 deltahedron with 2n+6 framework electrons e.g. B4H10 an octahedron missing 2 vertices
+hypho- (from the Greek for "net") B occupies n vertices of an n+2 deltahedron, e.g., B8H16 which is trigonal prismatic
+conjuncto- 2 or more of the above are fused together, e.g., the edge or two vertex fused B19H221−, face or three vertex fused B21H181−, and four vertex fused B20H16
+Boranes are electron-deficient and pose a problem for conventional descriptions of covalent bonding that involves shared electron pairs. BH3 is a trigonal planar molecule (D3h molecular symmetry). Diborane has a hydrogen-bridged structure, see the diborane article. The description of the bonding in the larger boranes formulated by William Lipscomb involved:
+3-center 2-electron B-H-B hydrogen bridges
+3-center 2-electron B-B-B bonds
+2-center 2-electron bonds (in B-B, B-H and BH2)
+The styx number was introduced to aid in electron counting where s = count of 3-center B-H-B bonds; t = count of 3-center B-B-B bonds; y = count of 2-center B-B bonds and x = count of BH2 groups.
+Lipscomb's methodology has largely been superseded by a molecular orbital approach, although it still affords insights. The results of this have been summarised in a simple but powerful rule, PSEPT, often known as Wade's rules, that can be used to predict the cluster type, closo-, nido-, etc. The power of this rule is its ease of use and general applicability to many different cluster types other than boranes. There are continuing efforts by theoretical chemists to improve the treatment of the bonding in boranes — an example is Stone's tensor surface harmonic treatment of cluster bonding. A recent development is four-center two-electron bond.
+Diborane is made industrially by the reduction of BF3, and is the starting point for preparing the higher boranes. It has been studied extensively. The higher (larger) boranes are all derived from diborane. Heating this compound generates the reactive monomer BH3, which combines with diborane to produce higher boranes.
+Boranes are all colourless and diamagnetic. They are reactive compounds and some are pyrophoric. The majority are highly poisonous and require special handling precautions.
+closo−
+There is no known neutral closo borane. Salts of the closo anions, BnHn2− are stable in neutral aqueous solution, and their stabilities increase with size. The salt K2B12H12 is stable up to 700 °C.
+nido−
+Pentaborane(9) and decaborane(14) are the most stable nido−boranes, in contrast to nido−B8H12 that decomposes above -35o.
+arachno−
+Generally these are more reactive than nido−boranes and again larger compounds tend to be more stable.
+Typical reactions of boranes are
+electrophilic substitution
+nucleophilic substitution by Lewis bases
+deprotonation by strong bases
+cluster building reactions by pyrolysis and by condensation with borohydrides, which serves as a Lewis base.
+reaction of a nido-borane with an alkyne to give a carborane cluster
+Boranes can function as ligands in coordination compounds. Hapticities of η1 to η6 have been found, with electron donation involving bridging H atoms or donation from B-B bonds. For example, nido-B6H10 can replace ethene in Zeise's salt to produce Fe(η2-B6H10)(CO)4.
+Boranes can react to form hetero-boranes, e.g., carboranes or metalloboranes (clusters that contain boron and metal atoms).
+The development of the chemistry of boranes posed two challenges to chemists. First, new laboratory techniques had to be developed to handle these very reactive compounds; second, the structures of the compounds challenged the accepted theories of chemical bonding.
+The German chemist Alfred Stock first characterized the series of boron-hydrogen compounds. His group developed the glass vacuum line and techniques for handling the compounds. However, exposure to mercury (used in mercury diffusion pumps and float valves) caused Stock to develop mercury poisoning, which he documented in the first scientific papers on the subject. The chemical bonding of the borane clusters was investigated by Lipscomb and his co-workers. Lipscomb was awarded the Nobel prize in Chemistry in 1976 for this work. PSEPT (Wades rules) can be used to predict the structures of boranes.
+Interest in boranes increased during World War II due to the potential of uranium borohydride for enrichment of the uranium isotopes. In the US, a team led by Schlesinger developed the basic chemistry of the boron hydrides and the related aluminium hydrides. Although uranium borohydride was not utilized for isotopic separations, Schlesinger's work laid the foundation for a host of boron hydride reagents for organic synthesis, most of which were developed by his student Herbert C. Brown. Borane-based reagents are now widely used in organic synthesis. For example, sodium borohydride is the standard reagent for converting aldehydes and ketones to alcohols. Brown was awarded the Nobel prize in Chemistry in 1979 for this work. In the 1950s and early 1960s, the US and USSR investigated boron hydrides as high energy density jet fuel ("zip fuel") (ethylboranes, for example) for high speed aircraft, such as the XB-70 Valkyrie. The development of advanced surface-to-air missiles made the fast aircraft redundant, and the fuel programs were terminated, although triethylborane (TEB) was later used to ignite the engines of the SR-71 Blackbird.
+Fox, Mark A.; Wade, Ken (2003). "Evolving patterns in boron cluster chemistry". Pure Appl. Chem. 75 (9): 1315–1323. doi:10.1351/pac200375091315. 
+Greenwood, Norman N.; Earnshaw, Alan (1997). Chemistry of the Elements (2nd ed.). Butterworth-Heinemann. ISBN 0-08-037941-9. 
+Cotton, F. Albert; Wilkinson, Geoffrey; Murillo, Carlos A.; Bochmann, Manfred (1999), Advanced Inorganic Chemistry (6th ed.), New York: Wiley-Interscience, ISBN 0-471-19957-5 

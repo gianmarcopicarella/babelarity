@@ -1,0 +1,16 @@
+An illegal prime is a prime number that represents information whose possession or distribution is forbidden in some legal jurisdiction. One of the first illegal primes was found in 2001. When interpreted in a particular way, it describes a computer program that bypasses the digital rights management scheme used on DVDs. Distribution of such a program in the United States is illegal under the Digital Millennium Copyright Act. An illegal prime is a kind of illegal number.
+One of the earliest illegal prime numbers was generated in March 2001 by Phil Carmody. Its binary representation corresponds to a compressed version of the C source code of a computer program implementing the DeCSS decryption algorithm, which can be used by a computer to circumvent a DVD's copy protection.
+Protests against the indictment of DeCSS author Jon Lech Johansen and legislation prohibiting publication of DeCSS code took many forms. One of them was the representation of the illegal code in a form that had an intrinsically archivable quality. Since the bits making up a computer program also represent a number, the plan was for the number to have some special property that would make it archivable and publishable (one method was to print it on a T-shirt). The primality of a number is a fundamental property of number theory and is therefore not dependent on legal definitions of any particular jurisdiction.
+The large prime database of The Prime Pages website records the top 20 primes of various special forms; one of them is proof of primality using the elliptic curve primality proving (ECPP) algorithm. Thus, if the number were large enough and proved prime using ECPP, it would be published.
+Specifically, Carmody applied Dirichlet's theorem to several prime candidates of the form k·256n + b, where k was the decimal representation of the original compressed file. Multiplying by a power of 256 adds as many trailing null characters to the gzip file as indicated in the exponent which would still result in the DeCSS C code when unzipped.
+Of those prime candidates, several were identified as probable prime using the open source program OpenPFGW, and one of them was proved prime using the ECPP algorithm implemented by the Titanix software. Even at the time of discovery in 2001, this 1401-digit number, of the form k·2562 + 2083, was too small to be mentioned, so Carmody created a 1905-digit prime, of the form k·256211 + 99, that was the tenth largest prime found using ECPP, a remarkable achievement by itself and worthy of being published on the lists of the highest prime numbers. In a way, by having this number independently published for a completely unrelated reason to the DeCSS code, he had been able to evade legal responsibility for the original software.
+Following this, Carmody also discovered another prime, this one being directly executable machine language for Linux i386, implementing the same functionality.
+AACS encryption key controversy
+HDCP master key release
+Illegal number
+The Library of Babel
+Normal number
+PlayStation 3 private key compromised
+Prior art
+Streisand effect
+Texas Instruments signing key controversy

@@ -1,0 +1,41 @@
+In linguistics, a suffix (also sometimes termed postfix or ending) is an affix which is placed after the stem of a word. Common examples are case endings, which indicate the grammatical case of nouns or adjectives, and verb endings, which form the conjugation of verbs. Particularly in the study of Semitic languages, a suffix is called an afformative, as they can alter the form of the words. In Indo-European studies, a distinction is made between suffixes and endings (see Proto-Indo-European root). A word-final segment that is somewhere between a free morpheme and a bound morpheme is known as a suffixoid or a semi-suffix (e.g. English -like or German -freundlich 'friendly').
+Suffixes can carry grammatical information (inflectional suffixes) or lexical information (derivational/lexical suffixes). An inflectional suffix is sometimes called a desinence or a grammatical suffix.
+Some examples in European languages:
+Girls, where the suffix -s marks the plural.
+He makes, where suffix -s marks the third person singular present tense.
+It closed, where the suffix -ed marks the past tense.
+De beaux jours, where the suffix -x marks the plural.
+Elle est passablement jolie, where the suffix -e marks the feminine form of the adjective.
+Many synthetic languages—Czech, German, Finnish, Latin, Hungarian, Russian, Turkish, etc.—use a large number of endings.
+Suffixes used in English frequently have Greek, French, or Latin origins.
+Inflection changes the grammatical properties of a word within its syntactic category. In the example:
+I was hoping the cloth wouldn't fade, but it has faded quite a bit.
+the suffix -ed inflects the root-word fade to indicate past tense.
+Inflectional suffixes do not change the word class of the word after inflection. Inflectional suffixes in modern English include:
+-s third person singular present
+-ed past tense
+-t past tense
+-ing progressive/continuous
+-en past participle
+-s plural
+-en plural (irregular)
+-er comparative
+-est superlative
+-n't negative
+Derivational suffixes can be divided into two categories, namely class-changing derivation and class-maintaining derivation. Derivational suffixes in modern English include:
+-ise/-ize (usually changes nouns into verbs)
+-fy (usually changes nouns into verbs)
+-ly (usually changes adjectives into adverbs)
+-ful (usually changes nouns into adjectives)
+-able/-ible (usually changes verbs into adjectives)
+-hood (usually class-maintaining, with the word class remaining a noun)
+-ess (usually class-maintaining, with the word class remaining a noun)
+-ness (usually changes adjectives into nouns)
+-less (usually changes nouns into adjectives)
+-ism (usually class-maintaining, with the word class remaining a noun)
+-ment (usually changes verbs into nouns)
+-ist (usually class-maintaining, with the word class remaining a noun)
+-al (usually changes nouns into adjectives)
+-ish (usually changes nouns into adjectives/ class-maintaining, with the word class remaining an adjective)
+-tion (usually changes verbs into noun)
+-logy/-ology (usually class-maintaining, with the word class remaining a noun)

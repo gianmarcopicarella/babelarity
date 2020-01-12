@@ -1,0 +1,49 @@
+The English-language neologism omics informally refers to a field of study in biology ending in -omics, such as genomics, proteomics or metabolomics. The related suffix -ome is used to address the objects of study of such fields, such as the genome, proteome or metabolome respectively. Omics aims at the collective characterization and quantification of pools of biological molecules that translate into the structure, function, and dynamics of an organism or organisms.
+Functional genomics aims at identifying the functions of as many genes as possible of a given organism. It combines different -omics techniques such as transcriptomics and proteomics with saturated mutant collections.
+The suffix -ome as used in molecular biology refers to a totality of some sort; it is an example of a "neo-suffix" formed by abstraction from various Greek terms in -ωμα, a sequence that does not form an identifiable suffix in Greek.
+The Oxford English Dictionary (OED) distinguishes three different fields of application for the -ome suffix:
+in medicine, forming nouns with the sense "swelling, tumour"
+in botany or zoology, forming nouns in the sense "a part of an animal or plant with a specified structure"
+in cellular and molecular biology, forming nouns with the sense "all constituents considered collectively"
+The -ome suffix originated as a variant of -oma, and became productive in the last quarter of the 19th century. It originally appeared in terms like sclerome or rhizome. All of these terms derive from Greek words in -ωμα, a sequence that is not a single suffix, but analyzable as -ω-μα, the -ω- belonging to the word stem (usually a verb) and the -μα being a genuine Greek suffix forming abstract nouns.
+The OED suggests that its third definition originated as a back-formation from mitome, Early attestations include biome (1916) and genome (first coined as German Genom in 1920).
+The association with chromosome in molecular biology is by false etymology. The word chromosome derives from the Greek stems χρωμ(ατ)- "colour" and σωμ(ατ)- "body". While σωμα "body" genuinely contains the -μα suffix, the preceding -ω- is not a stem-forming suffix but part of the word's root. Because genome refers to the complete genetic makeup of an organism, a neo-suffix -ome suggested itself as referring to "wholeness" or "completion".
+Bioinformaticians and molecular biologists figured amongst the first scientists to apply the "-ome" suffix widely. Early advocates included bioinformaticians in Cambridge, UK, where there were many early bioinformatics labs such as the MRC centre, Sanger centre, and EBI (European Bioinformatics Institute). For example, the MRC centre carried out the first genome and proteome projects.
+Genomics: Study of the genomes of organisms.
+Cognitive genomics examines the changes in cognitive processes associated with genetic profiles.
+Comparative genomics: Study of the relationship of genome structure and function across different biological species or strains.
+Functional genomics: Describes gene and protein functions and interactions (often uses transcriptomics).
+Metagenomics: Study of metagenomes, i.e., genetic material recovered directly from environmental samples.
+Personal genomics: Branch of genomics concerned with the sequencing and analysis of the genome of an individual. Once the genotypes are known, the individual's genotype can be compared with the published literature to determine likelihood of trait expression and disease risk. Helps in Personalized Medicine
+Epigenomics: Study of the complete set of epigenetic modifications on the genetic material of a cell, known as the epigenome. ChIP-Chip and ChIP-Seq technologies used.
+Lipidome is the entire complement of cellular lipids, including the modifications made to a particular set of lipids, produced by an organism or system.
+Lipidomics: Large-scale study of pathways and networks of lipids. Mass spectrometry techniques are used.
+Proteome is the entire complement of proteins, including the modifications made to a particular set of proteins, produced by an organism or system.
+Proteomics: Large-scale study of proteins, particularly their structures and functions. Mass spectrometry techniques are used.
+Immunoproteomics: study of large sets of proteins (proteomics) involved in the immune response
+Nutriproteomics: Identifying the molecular targets of nutritive and non-nutritive components of the diet. Uses proteomics mass spectrometry data for protein expression studies
+Proteogenomics: An emerging field of biological research at the intersection of proteomics and genomics. Proteomics data used for gene annotations.
+Structural genomics: Study of 3-dimensional structure of every protein encoded by a given genome using a combination of experimental and modeling approaches.
+Foodomics was defined in 2009 as "a discipline that studies the Food and Nutrition domains through the application and integration of advanced -omics technologies to improve consumer's well-being, health, and knowledge"
+Transcriptome is the set of all RNA molecules, including mRNA, rRNA, tRNA, and other non-coding RNA, produced in one or a population of cells.
+Transcriptomics: Study of transcriptomes, their structures and functions.
+Metabolomics: Scientific study of chemical processes involving metabolites. It is a "systematic study of the unique chemical fingerprints that specific cellular processes leave behind", the study of their small-molecule metabolite profiles
+Metabonomics: The quantitative measurement of the dynamic multiparametric metabolic response of living systems to pathophysiological stimuli or genetic modification
+Nutritional genomics: A science studying the relationship between human genome, nutrition and health.
+Nutrigenetics studies the effect of genetic variations on the interaction between diet and health with implications to susceptible subgroups
+Nutrigenomics: Study of the effects of foods and food constituents on gene expression. Studies the effect of nutrients on the genome, proteome, and metabolome
+Pharmacogenomics investigates the effect of the sum of variations within the human genome on drugs;
+Pharmacomicrobiomics investigates the effect of variations within the human microbiome on drugs.
+Toxicogenomics: a field of science that deals with the collection, interpretation, and storage of information about gene and protein activity within particular cell or tissue of an organism in response to toxic substances.
+Mitointeractome
+Psychogenomics: Process of applying the powerful tools of genomics and proteomics to achieve a better understanding of the biological substrates of normal behavior and of diseases of the brain that manifest themselves as behavioral abnormalities. Applying psychogenomics to the study of drug addiction, the ultimate goal is to develop more effective treatments for these disorders as well as objective diagnostic tools, preventive measures, and eventually cures.
+Stem cell genomics: Helps in stem cell biology. Aim is to establish stem cells as a leading model system for understanding human biology and disease states and ultimately to accelerate progress toward clinical translation.
+Connectomics: The study of the connectome, the totality of the neural connections in the brain.
+Microbiomics: the study of the genomes of the communities of microorganisms that live in the digestive tracts of animals.
+The word “comic” does not use the "omics" suffix; it derives from Greek “κωμ(ο)-” (merriment) + “-ικ(ο)-” (an adjectival suffix), rather than presenting a truncation of “σωμ(ατ)-”.
+Similarly, the word “economy” is assembled from Greek “οικ(ο)-” (household) + “νομ(ο)-” (law or custom), and “economic(s)” from “οικ(ο)-” + “νομ(ο)-” + “-ικ(ο)-”. The suffix -omics is sometimes used to create portmanteau words to refer to schools of economics such as Reaganomics.
+Many “omes” beyond the original “genome” have become useful and have been widely adopted by research scientists. “Proteomics” has become well-established as a term for studying proteins at a large scale. "Omes" can provide an easy shorthand to encapsulate a field; for example, an interactomics study is clearly recognisable as relating to large-scale analyses of gene-gene, protein-protein, or protein-ligand interactions. Researchers are rapidly taking up omes and omics, as shown by the explosion of the use of these terms in PubMed since the mid '90s.
+Systems biology
+Panomics
+Lederberg, Joshua; McCray, Alexa T. (April 2, 2001). "Commentary: 'Ome Sweet 'Omics — A Genealogical Treasury of Words". The Scientist 15 (7): 8. Retrieved 1 June 2014. 
+Hotz, Robert Lee (13 August 2012). "Here's an Omical Tale: Scientists Discover Spreading Suffix". The Wall Street Journal. 

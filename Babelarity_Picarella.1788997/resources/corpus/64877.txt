@@ -1,0 +1,687 @@
+In mathematics, the limit of a sequence is the value that the terms of a sequence "tend to". If such a limit exists, the sequence is called convergent. A sequence which does not converge is said to be divergent. The limit of a sequence is said to be the fundamental notion on which the whole of analysis ultimately rests.
+Limits can be defined in any metric or topological space, but are usually first encountered in the real numbers.
+The Greek philosopher Zeno of Elea is famous for formulating paradoxes that involve limiting processes.
+Leucippus, Democritus, Antiphon, Eudoxus and Archimedes developed the method of exhaustion, which uses an infinite sequence of approximations to determine an area or a volume. Archimedes succeeded in summing what is now called a geometric series.
+Newton dealt with series in his works on Analysis with infinite series (written in 1669, circulated in manuscript, published in 1711), Method of fluxions and infinite series (written in 1671, published in English translation in 1736, Latin original published much later) and Tractatus de Quadratura Curvarum (written in 1693, published in 1704 as an Appendix to his Optiks). In the latter work, Newton considers the binomial expansion of (x+o)n which he then linearizes by taking limits (letting o→0).
+In the 18th century, mathematicians such as Euler succeeded in summing some divergent series by stopping at the right moment; they did not much care whether a limit existed, as long as it could be calculated. At the end of the century, Lagrange in his Théorie des fonctions analytiques (1797) opined that the lack of rigour precluded further development in calculus. Gauss in his etude of hypergeometric series (1813) for the first time rigorously investigated under which conditions a series converged to a limit.
+The modern definition of a limit (for any ε there exists an index N so that ...) was given by Bernhard Bolzano (Der binomische Lehrsatz, Prague 1816, little noticed at the time) and by Karl Weierstrass in the 1870s.
+In the real numbers, a number 
+        L
+    {\displaystyle L}
+   is the limit of the sequence 
+        (
+          x
+            n
+        )
+    {\displaystyle (x_{n})}
+   if the numbers in the sequence become closer and closer to 
+        L
+    {\displaystyle L}
+   and not to any other number.
+If 
+          x
+            n
+        =
+        c
+    {\displaystyle x_{n}=c}
+   for some constant c, then 
+          x
+            n
+        →
+        c
+    {\displaystyle x_{n}\to c}
+  .
+If 
+          x
+            n
+        =
+            1
+            n
+    {\displaystyle x_{n}={\frac {1}{n}}}
+  , then 
+          x
+            n
+        →
+        0
+    {\displaystyle x_{n}\to 0}
+  .
+If 
+          x
+            n
+        =
+        1
+          /
+        n
+    {\displaystyle x_{n}=1/n}
+   when 
+        n
+    {\displaystyle n}
+   is even, and 
+          x
+            n
+        =
+            1
+              n
+                2
+    {\displaystyle x_{n}={\frac {1}{n^{2}}}}
+   when 
+        n
+    {\displaystyle n}
+   is odd, then 
+          x
+            n
+        →
+        0
+    {\displaystyle x_{n}\to 0}
+  . (The fact that 
+          x
+            n
+            +
+            1
+        >
+          x
+            n
+    {\displaystyle x_{n+1}>x_{n}}
+   whenever 
+        n
+    {\displaystyle n}
+   is odd is irrelevant.)
+Given any real number, one may easily construct a sequence that converges to that number by taking decimal approximations. For example, the sequence 
+        0.3
+        ,
+        0.33
+        ,
+        0.333
+        ,
+        0.3333
+        ,
+        .
+        .
+        .
+    {\displaystyle 0.3,0.33,0.333,0.3333,...}
+   converges to 
+        1
+          /
+        3
+    {\displaystyle 1/3}
+  . Note that the decimal representation 
+        0.3333...
+    {\displaystyle 0.3333...}
+   is the limit of the previous sequence, defined by
+        0.3333...
+        ≜
+          lim
+            n
+            →
+            ∞
+          ∑
+            i
+            =
+            1
+            n
+            3
+              10
+                i
+    {\displaystyle 0.3333...\triangleq \lim _{n\to \infty }\sum _{i=1}^{n}{\frac {3}{10^{i}}}}
+  .
+Finding the limit of a sequence is not always obvious. Two examples are 
+          lim
+            n
+            →
+            ∞
+            (
+            1
+            +
+                1
+                n
+            )
+            n
+    {\displaystyle \lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}}
+   (the limit of which is the number e) and the Arithmetic–geometric mean. The squeeze theorem is often useful in such cases.
+We call 
+        x
+    {\displaystyle x}
+   the limit of the sequence 
+        (
+          x
+            n
+        )
+    {\displaystyle (x_{n})}
+   if the following condition holds:
+For each real number 
+        ϵ
+        >
+        0
+    {\displaystyle \epsilon >0}
+  , there exists a natural number 
+        N
+    {\displaystyle N}
+   such that, for every natural number 
+        n
+        >
+        N
+    {\displaystyle n>N}
+  , we have 
+          |
+          x
+            n
+        −
+        x
+          |
+        <
+        ϵ
+    {\displaystyle |x_{n}-x|<\epsilon }
+  .
+In other words, for every measure of closeness 
+        ϵ
+    {\displaystyle \epsilon }
+  , the sequence's terms are eventually that close to the limit. The sequence 
+        (
+          x
+            n
+        )
+    {\displaystyle (x_{n})}
+   is said to converge to or tend to the limit 
+        x
+    {\displaystyle x}
+  , written 
+          x
+            n
+        →
+        x
+    {\displaystyle x_{n}\to x}
+   or 
+          lim
+            n
+            →
+            ∞
+          x
+            n
+        =
+        x
+    {\displaystyle \lim _{n\to \infty }x_{n}=x}
+  .
+If a sequence converges to some limit, then it is convergent; otherwise it is divergent.
+Limits of sequences behave well with respect to the usual arithmetic operations. If 
+          a
+            n
+        →
+        a
+    {\displaystyle a_{n}\to a}
+   and 
+          b
+            n
+        →
+        b
+    {\displaystyle b_{n}\to b}
+  , then 
+          a
+            n
+        +
+          b
+            n
+        →
+        a
+        +
+        b
+    {\displaystyle a_{n}+b_{n}\to a+b}
+  , 
+          a
+            n
+        ⋅
+          b
+            n
+        →
+        a
+        b
+    {\displaystyle a_{n}\cdot b_{n}\to ab}
+   and, if neither b nor any 
+          b
+            n
+    {\displaystyle b_{n}}
+   is zero, 
+              a
+                n
+              b
+                n
+        →
+            a
+            b
+    {\displaystyle {\frac {a_{n}}{b_{n}}}\to {\frac {a}{b}}}
+  .
+For any continuous function f, if 
+          x
+            n
+        →
+        x
+    {\displaystyle x_{n}\to x}
+   then 
+        f
+        (
+          x
+            n
+        )
+        →
+        f
+        (
+        x
+        )
+    {\displaystyle f(x_{n})\to f(x)}
+  . In fact, any real-valued function f is continuous if and only if it preserves the limits of sequences (though this is not necessarily true when using more general notions of continuity).
+Some other important properties of limits of real sequences include the following.
+The limit of a sequence is unique.
+          lim
+            n
+            →
+            ∞
+        (
+          a
+            n
+        ±
+          b
+            n
+        )
+        =
+          lim
+            n
+            →
+            ∞
+          a
+            n
+        ±
+          lim
+            n
+            →
+            ∞
+          b
+            n
+    {\displaystyle \lim _{n\to \infty }(a_{n}\pm b_{n})=\lim _{n\to \infty }a_{n}\pm \lim _{n\to \infty }b_{n}}
+          lim
+            n
+            →
+            ∞
+        c
+          a
+            n
+        =
+        c
+        ⋅
+          lim
+            n
+            →
+            ∞
+          a
+            n
+    {\displaystyle \lim _{n\to \infty }ca_{n}=c\cdot \lim _{n\to \infty }a_{n}}
+          lim
+            n
+            →
+            ∞
+        (
+          a
+            n
+        ⋅
+          b
+            n
+        )
+        =
+        (
+          lim
+            n
+            →
+            ∞
+          a
+            n
+        )
+        ⋅
+        (
+          lim
+            n
+            →
+            ∞
+          b
+            n
+        )
+    {\displaystyle \lim _{n\to \infty }(a_{n}\cdot b_{n})=(\lim _{n\to \infty }a_{n})\cdot (\lim _{n\to \infty }b_{n})}
+          lim
+            n
+            →
+            ∞
+          (
+                a
+                  n
+                b
+                  n
+          )
+        =
+                lim
+                  n
+                  →
+                  ∞
+                a
+                  n
+                lim
+                  n
+                  →
+                  ∞
+                b
+                  n
+    {\displaystyle \lim _{n\to \infty }\left({\frac {a_{n}}{b_{n}}}\right)={\frac {\lim \limits _{n\to \infty }a_{n}}{\lim \limits _{n\to \infty }b_{n}}}}
+   provided 
+          lim
+            n
+            →
+            ∞
+          b
+            n
+        ≠
+        0
+    {\displaystyle \lim _{n\to \infty }b_{n}\neq 0}
+          lim
+            n
+            →
+            ∞
+          a
+            n
+            p
+        =
+            [
+              lim
+                n
+                →
+                ∞
+              a
+                n
+            ]
+            p
+    {\displaystyle \lim _{n\to \infty }a_{n}^{p}=\left[\lim _{n\to \infty }a_{n}\right]^{p}}
+If 
+          a
+            n
+        ≤
+          b
+            n
+    {\displaystyle a_{n}\leq b_{n}}
+   for all 
+        n
+    {\displaystyle n}
+   greater than some 
+        N
+    {\displaystyle N}
+  , then 
+          lim
+            n
+            →
+            ∞
+          a
+            n
+        ≤
+          lim
+            n
+            →
+            ∞
+          b
+            n
+    {\displaystyle \lim _{n\to \infty }a_{n}\leq \lim _{n\to \infty }b_{n}}
+(Squeeze theorem) If 
+          a
+            n
+        ≤
+          c
+            n
+        ≤
+          b
+            n
+    {\displaystyle a_{n}\leq c_{n}\leq b_{n}}
+   for all 
+        n
+        >
+        N
+    {\displaystyle n>N}
+  , and 
+          lim
+            n
+            →
+            ∞
+          a
+            n
+        =
+          lim
+            n
+            →
+            ∞
+          b
+            n
+        =
+        L
+    {\displaystyle \lim _{n\to \infty }a_{n}=\lim _{n\to \infty }b_{n}=L}
+  ,   then 
+          lim
+            n
+            →
+            ∞
+          c
+            n
+        =
+        L
+    {\displaystyle \lim _{n\to \infty }c_{n}=L}
+  .
+If a sequence is bounded and monotonic then it is convergent.
+A sequence is convergent if and only if every subsequence is convergent.
+These properties are extensively used to prove limits without the need to directly use the cumbersome formal definition. Once proven that 
+            1
+            n
+        →
+        0
+    {\displaystyle {\frac {1}{n}}\to 0}
+   it becomes easy to show that 
+            a
+              b
+              +
+                  c
+                  n
+        →
+            a
+            b
+    {\displaystyle {\frac {a}{b+{\frac {c}{n}}}}\to {\frac {a}{b}}}
+  , (
+        b
+        ≠
+        0
+    {\displaystyle b\neq 0}
+  ), using the properties above.
+A sequence 
+        (
+          x
+            n
+        )
+    {\displaystyle (x_{n})}
+   is said to tend to infinity, written 
+          x
+            n
+        →
+        ∞
+    {\displaystyle x_{n}\to \infty }
+   or 
+          lim
+            n
+            →
+            ∞
+          x
+            n
+        =
+        ∞
+    {\displaystyle \lim _{n\to \infty }x_{n}=\infty }
+   if, for every K, there is an N such that, for every 
+        n
+        ≥
+        N
+    {\displaystyle n\geq N}
+  , 
+          x
+            n
+        >
+        K
+    {\displaystyle x_{n}>K}
+  ; that is, the sequence terms are eventually larger than any fixed K. Similarly, 
+          x
+            n
+        →
+        −
+        ∞
+    {\displaystyle x_{n}\to -\infty }
+   if, for every K, there is an N such that, for every 
+        n
+        ≥
+        N
+    {\displaystyle n\geq N}
+  , 
+          x
+            n
+        <
+        K
+    {\displaystyle x_{n}<K}
+  . If a sequence tends to infinity, or to minus infinity, then it is divergent (however, a divergent sequence need not tend to plus or minus infinity).
+A point x of the metric space (X, d) is the limit of the sequence (xn) if, for all ε > 0, there is an N such that, for every 
+        n
+        ≥
+        N
+    {\displaystyle n\geq N}
+  , 
+        d
+        (
+          x
+            n
+        ,
+        x
+        )
+        <
+        ϵ
+    {\displaystyle d(x_{n},x)<\epsilon }
+  . This coincides with the definition given for real numbers when 
+        X
+        =
+          R
+    {\displaystyle X=\mathbb {R} }
+   and 
+        d
+        (
+        x
+        ,
+        y
+        )
+        =
+          |
+        x
+        −
+        y
+          |
+    {\displaystyle d(x,y)=|x-y|}
+  .
+For any continuous function f, if 
+          x
+            n
+        →
+        x
+    {\displaystyle x_{n}\to x}
+   then 
+        f
+        (
+          x
+            n
+        )
+        →
+        f
+        (
+        x
+        )
+    {\displaystyle f(x_{n})\to f(x)}
+  . In fact, a function f is continuous if and only if it preserves the limits of sequences.
+Limits of sequences are unique when they exist, as distinct points are separated by some positive distance, so for 
+        ϵ
+    {\displaystyle \epsilon }
+   less than half this distance, sequence terms cannot be within a distance 
+        ϵ
+    {\displaystyle \epsilon }
+   of both points.
+A point x of the topological space (X, τ) is the limit of the sequence (xn) if, for every neighbourhood U of x, there is an N such that, for every 
+        n
+        ≥
+        N
+    {\displaystyle n\geq N}
+  , 
+          x
+            n
+        ∈
+        U
+    {\displaystyle x_{n}\in U}
+  . This coincides with the definition given for metric spaces if (X,d) is a metric space and 
+        τ
+    {\displaystyle \tau }
+   is the topology generated by d.
+The limit of a sequence of points 
+          (
+            x
+              n
+          :
+          n
+          ∈
+            N
+          )
+    {\displaystyle \left(x_{n}:n\in \mathbb {N} \right)\;}
+   in a topological space T is a special case of the limit of a function: the domain is 
+          N
+    {\displaystyle \mathbb {N} }
+   in the space 
+          N
+        ∪
+        {
+        +
+        ∞
+        }
+    {\displaystyle \mathbb {N} \cup \lbrace +\infty \rbrace }
+   with the induced topology of the affinely extended real number system, the range is T, and the function argument n tends to +∞, which in this space is a limit point of 
+          N
+    {\displaystyle \mathbb {N} }
+  .
+If X is a Hausdorff space then limits of sequences are unique where they exist. Note that this need not be the case in general; in particular, if two points x and y are topologically indistinguishable, any sequence that converges to x must converge to y and vice versa.
+A Cauchy sequence is a sequence whose terms ultimately become arbitrarily close together, after sufficiently many initial terms have been discarded. The notion of a Cauchy sequence is important in the study of sequences in metric spaces, and, in particular, in real analysis. One particularly important result in real analysis is Cauchy characterization of convergence for sequences:
+A sequence is convergent if and only if it is Cauchy.
+The definition of the limit using the hyperreal numbers formalizes the intuition that for a "very large" value of the index, the corresponding term is "very close" to the limit. More precisely, a real sequence 
+        (
+          x
+            n
+        )
+    {\displaystyle (x_{n})}
+   tends to L if for every infinite hypernatural H, the term xH is infinitely close to L, i.e., the difference xH - L is infinitesimal. Equivalently, L is the standard part of xH
+        L
+        =
+            s
+            t
+        (
+          x
+            H
+        )
+    {\displaystyle L={\rm {st}}(x_{H})\,}
+  .
+Thus, the limit can be defined by the formula
+          lim
+            n
+            →
+            ∞
+          x
+            n
+        =
+            s
+            t
+        (
+          x
+            H
+        )
+        ,
+    {\displaystyle \lim _{n\to \infty }x_{n}={\rm {st}}(x_{H}),}
+where the limit exists if and only if the righthand side is independent of the choice of an infinite H.
+Limit of a function
+Limit of a net — A net is a topological generalization of a sequence.
+Modes of convergence
+Shift rule

@@ -1,0 +1,7 @@
+Xpdf is an open-source PDF viewer for the X Window System and Motif. Xpdf runs on nearly any Unix-like operating system. Xpdf can decode LZW and read encrypted PDFs. The official version obeys the DRM restrictions of PDF files, which can prevent copying, printing, or converting some PDF files. There are patches that make Xpdf ignore these DRM restrictions, and these restrictions are patched out by the Debian distribution.
+Xpdf includes several programs that don't need an X Window System, including some that extract images from PDF files or convert PDF to PostScript or text. These programs run on DOS, Windows, Linux and Unix.
+Xpdf is also used as a back-end for other PDF readers frontends such as KPDF and GPDF, and its engine, without the X11 display components, is used for PDF viewers including BePDF on BeOS, '!PDF' on RISC OS, on PalmPDF on Palm OS and on Windows Phones.
+Two versions exist for AmigaOS. Xpdf needs a limited version of an X11 engine called Cygnix on the host system. AmigaOS 4 included AmiPDF, a PDF viewer based on 3.01 version of the Xpdf. However both Apdf and AmiPDF are native and need no X11.
+The associated package xpdf-utils contains tools such as pdftotext and pdfimages.
+Poppler, a GPL-licensed fork of the xpdf-3.0 rendering library designed for easier reuse in other programs
+List of PDF software

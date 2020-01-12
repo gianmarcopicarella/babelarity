@@ -1,0 +1,4 @@
+Zhe with diaeresis (Ӝ ӝ; italics: Ӝ ӝ) is a letter of the Cyrillic script. Its form is derived from the Cyrillic letter Zhe (Ж ж Ж ж).
+Zhe with diaeresis is used only in the alphabet of the Udmurt language, where it represents the voiced postalveolar affricate /d͡ʒ/, like the pronunciation of 〈j〉 in "jam".
+Zhe with diaeresis corresponds in other Cyrillic alphabets to the digraphs 〈дж〉 or 〈чж〉, or to the letters Che with descender (Ҷ ҷ), Che with vertical stroke (Ҹ ҹ), Dzhe (Џ џ), Khakassian Che (Ӌ ӌ), Zhe with breve (Ӂ ӂ), or Zhje (Җ җ).
+Cyrillic characters in Unicode

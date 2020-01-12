@@ -1,0 +1,4721 @@
+Kalman filtering, also known as linear quadratic estimation (LQE), is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more precise than those based on a single measurement alone, by using Bayesian inference and estimating a joint probability distribution over the variables for each timeframe. The filter is named after Rudolf E. Kálmán, one of the primary developers of its theory.
+The Kalman filter has numerous applications in technology. A common application is for guidance, navigation and control of vehicles, particularly aircraft and spacecraft. Furthermore, the Kalman filter is a widely applied concept in time series analysis used in fields such as signal processing and econometrics. Kalman filters also are one of the main topics in the field of robotic motion planning and control, and they are sometimes included in trajectory optimization. The Kalman filter has also found use in modeling the central nervous system's control of movement. Due to the time delay between issuing motor commands and receiving sensory feedback, use of the Kalman filter provides the needed model for making estimates of the current state of the motor system and issuing updated commands.
+The algorithm works in a two-step process. In the prediction step, the Kalman filter produces estimates of the current state variables, along with their uncertainties. Once the outcome of the next measurement (necessarily corrupted with some amount of error, including random noise) is observed, these estimates are updated using a weighted average, with more weight being given to estimates with higher certainty. The algorithm is recursive. It can run in real time, using only the present input measurements and the previously calculated state and its uncertainty matrix; no additional past information is required.
+The Kalman filter does not require any assumption that the errors are Gaussian. However, the filter yields the exact conditional probability estimate in the special case that all errors are Gaussian-distributed.
+Extensions and generalizations to the method have also been developed, such as the extended Kalman filter and the unscented Kalman filter which work on nonlinear systems. The underlying model is a Bayesian model similar to a hidden Markov model but where the state space of the latent variables is continuous and where all latent and observed variables have Gaussian distributions.
+The filter is named after Hungarian émigré Rudolf E. Kálmán, although Thorvald Nicolai Thiele and Peter Swerling developed a similar algorithm earlier. Richard S. Bucy of the University of Southern California contributed to the theory, leading to it often being called the Kalman–Bucy filter. Stanley F. Schmidt is generally credited with developing the first implementation of a Kalman filter. He realized that the filter could be divided into two distinct parts, with one part for time periods between sensor outputs and another part for incorporating measurements. It was during a visit by Kálmán to the NASA Ames Research Center that Schmidt saw the applicability of Kálmán's ideas to the nonlinear problem of trajectory estimation for the Apollo program leading to its incorporation in the Apollo navigation computer. This Kalman filter was first described and partially developed in technical papers by Swerling (1958), Kalman (1960) and Kalman and Bucy (1961).
+Kalman filters have been vital in the implementation of the navigation systems of U.S. Navy nuclear ballistic missile submarines, and in the guidance and navigation systems of cruise missiles such as the U.S. Navy's Tomahawk missile and the U.S. Air Force's Air Launched Cruise Missile. It is also used in the guidance and navigation systems of the NASA Space Shuttle and the attitude control and navigation systems of the International Space Station.
+This digital filter is sometimes called the Stratonovich–Kalman–Bucy filter because it is a special case of a more general, non-linear filter developed somewhat earlier by the Soviet mathematician Ruslan Stratonovich. In fact, some of the special case linear filter's equations appeared in these papers by Stratonovich that were published before summer 1960, when Kalman met with Stratonovich during a conference in Moscow.
+The Kalman filter uses a system's dynamics model (e.g., physical laws of motion), known control inputs to that system, and multiple sequential measurements (such as from sensors) to form an estimate of the system's varying quantities (its state) that is better than the estimate obtained by using any one measurement alone. As such, it is a common sensor fusion and data fusion algorithm.
+All measurements and calculations based on models are estimated to some degree. Noisy sensor data, approximations in the equations that describe how a system changes, and external factors that are not accounted for introduce some uncertainty about the inferred values for a system's state. The Kalman filter averages a prediction of a system's state with a new measurement using a weighted average. The purpose of the weights is that values with better (i.e., smaller) estimated uncertainty are "trusted" more. The weights are calculated from the covariance, a measure of the estimated uncertainty of the prediction of the system's state. The result of the weighted average is a new state estimate that lies between the predicted and measured state, and has a better estimated uncertainty than either alone. This process is repeated every time step, with the new estimate and its covariance informing the prediction used in the following iteration. This means that the Kalman filter works recursively and requires only the last "best guess", rather than the entire history, of a system's state to calculate a new state.
+Because the certainty of the measurements is often difficult to measure precisely, it is common to discuss the filter's behavior in terms of gain. The Kalman gain is a function of the relative certainty of the measurements and current state estimate, and can be "tuned" to achieve particular performance. With a high gain, the filter places more weight on the measurements, and thus follows them more closely. With a low gain, the filter follows the model predictions more closely, smoothing out noise but decreasing the responsiveness. At the extremes, a gain of one causes the filter to ignore the state estimate entirely, while a gain of zero causes the measurements to be ignored.
+When performing the actual calculations for the filter (as discussed below), the state estimate and covariances are coded into matrices to handle the multiple dimensions involved in a single set of calculations. This allows for a representation of linear relationships between different state variables (such as position, velocity, and acceleration) in any of the transition models or covariances.
+As an example application, consider the problem of determining the precise location of a truck. The truck can be equipped with a GPS unit that provides an estimate of the position within a few meters. The GPS estimate is likely to be noisy; readings 'jump around' rapidly, though always remaining within a few meters of the real position. In addition, since the truck is expected to follow the laws of physics, its position can also be estimated by integrating its velocity over time, determined by keeping track of wheel revolutions and the angle of the steering wheel. This is a technique known as dead reckoning. Typically, the dead reckoning will provide a very smooth estimate of the truck's position, but it will drift over time as small errors accumulate.
+In this example, the Kalman filter can be thought of as operating in two distinct phases: predict and update. In the prediction phase, the truck's old position will be modified according to the physical laws of motion (the dynamic or "state transition" model) plus any changes produced by the accelerator pedal and steering wheel. Not only will a new position estimate be calculated, but a new covariance will be calculated as well. Perhaps the covariance is proportional to the speed of the truck because we are more uncertain about the accuracy of the dead reckoning position estimate at high speeds but very certain about the position estimate when moving slowly. Next, in the update phase, a measurement of the truck's position is taken from the GPS unit. Along with this measurement comes some amount of uncertainty, and its covariance relative to that of the prediction from the previous phase determines how much the new measurement will affect the updated prediction. Ideally, if the dead reckoning estimates tend to drift away from the real position, the GPS measurement should pull the position estimate back towards the real position but not disturb it to the point of becoming rapidly changing and noisy.
+The Kalman filter is an efficient recursive filter that estimates the internal state of a linear dynamic system from a series of noisy measurements. It is used in a wide range of engineering and econometric applications from radar and computer vision to estimation of structural macroeconomic models, and is an important topic in control theory and control systems engineering. Together with the linear-quadratic regulator (LQR), the Kalman filter solves the linear-quadratic-Gaussian control problem (LQG). The Kalman filter, the linear-quadratic regulator and the linear-quadratic-Gaussian controller are solutions to what arguably are the most fundamental problems in control theory.
+In most applications, the internal state is much larger (more degrees of freedom) than the few "observable" parameters which are measured. However, by combining a series of measurements, the Kalman filter can estimate the entire internal state.
+In Dempster–Shafer theory, each state equation or observation is considered a special case of a linear belief function and the Kalman filter is a special case of combining linear belief functions on a join-tree or Markov tree. Additional approaches include belief filters which use Bayes or evidential updates to the state equations.
+A wide variety of Kalman filters have now been developed, from Kalman's original formulation, now called the "simple" Kalman filter, the Kalman–Bucy filter, Schmidt's "extended" filter, the information filter, and a variety of "square-root" filters that were developed by Bierman, Thornton and many others. Perhaps the most commonly used type of very simple Kalman filter is the phase-locked loop, which is now ubiquitous in radios, especially frequency modulation (FM) radios, television sets, satellite communications receivers, outer space communications systems, and nearly any other electronic communications equipment.
+The Kalman filters are based on linear dynamic systems discretized in the time domain. They are modelled on a Markov chain built on linear operators perturbed by errors that may include Gaussian noise. The state of the system is represented as a vector of real numbers. At each discrete time increment, a linear operator is applied to the state to generate the new state, with some noise mixed in, and optionally some information from the controls on the system if they are known. Then, another linear operator mixed with more noise generates the observed outputs from the true ("hidden") state. The Kalman filter may be regarded as analogous to the hidden Markov model, with the key difference that the hidden state variables take values in a continuous space (as opposed to a discrete state space as in the hidden Markov model). There is a strong duality between the equations of the Kalman Filter and those of the hidden Markov model. A review of this and other models is given in Roweis and Ghahramani (1999), and Hamilton (1994), Chapter 13.
+In order to use the Kalman filter to estimate the internal state of a process given only a sequence of noisy observations, one must model the process in accordance with the framework of the Kalman filter. This means specifying the following matrices: Fk, the state-transition model; Hk, the observation model; Qk, the covariance of the process noise; Rk, the covariance of the observation noise; and sometimes Bk, the control-input model, for each time-step, k, as described below.
+The Kalman filter model assumes the true state at time k is evolved from the state at (k − 1) according to
+            x
+            k
+        =
+            F
+            k
+            x
+            k
+            −
+            1
+        +
+            B
+            k
+            u
+            k
+        +
+            w
+            k
+    {\displaystyle \mathbf {x} _{k}=\mathbf {F} _{k}\mathbf {x} _{k-1}+\mathbf {B} _{k}\mathbf {u} _{k}+\mathbf {w} _{k}}
+where
+Fk is the state transition model which is applied to the previous state xk−1;
+Bk is the control-input model which is applied to the control vector uk;
+wk is the process noise which is assumed to be drawn from a zero mean multivariate normal distribution with covariance Qk.
+            w
+            k
+        ∼
+            N
+        (
+        0
+        ,
+            Q
+            k
+        )
+    {\displaystyle \mathbf {w} _{k}\sim {\mathcal {N}}(0,\mathbf {Q} _{k})}
+At time k an observation (or measurement) zk of the true state xk is made according to
+            z
+            k
+        =
+            H
+            k
+            x
+            k
+        +
+            v
+            k
+    {\displaystyle \mathbf {z} _{k}=\mathbf {H} _{k}\mathbf {x} _{k}+\mathbf {v} _{k}}
+where Hk is the observation model which maps the true state space into the observed space and vk is the observation noise which is assumed to be zero mean Gaussian white noise with covariance Rk.
+            v
+            k
+        ∼
+            N
+        (
+        0
+        ,
+            R
+            k
+        )
+    {\displaystyle \mathbf {v} _{k}\sim {\mathcal {N}}(0,\mathbf {R} _{k})}
+The initial state, and the noise vectors at each step {x0, w1, …, wk, v1 … vk} are all assumed to be mutually independent.
+Many real dynamical systems do not exactly fit this model. In fact, unmodelled dynamics can seriously degrade the filter performance, even when it was supposed to work with unknown stochastic signals as inputs. The reason for this is that the effect of unmodelled dynamics depends on the input, and, therefore, can bring the estimation algorithm to instability (it diverges). On the other hand, independent white noise signals will not make the algorithm diverge. The problem of distinguishing between measurement noise and unmodelled dynamics is a difficult one and is treated in control theory under the framework of robust control.
+The Kalman filter is a recursive estimator. This means that only the estimated state from the previous time step and the current measurement are needed to compute the estimate for the current state. In contrast to batch estimation techniques, no history of observations and/or estimates is required. In what follows, the notation 
+                  x
+                ^
+            n
+            ∣
+            m
+    {\displaystyle {\hat {\mathbf {x} }}_{n\mid m}}
+   represents the estimate of 
+          x
+    {\displaystyle \mathbf {x} }
+   at time n given observations up to and including at time m ≤ n.
+The state of the filter is represented by two variables:
+                  x
+                ^
+            k
+            ∣
+            k
+    {\displaystyle {\hat {\mathbf {x} }}_{k\mid k}}
+  , the a posteriori state estimate at time k given observations up to and including at time k;
+            P
+            k
+            ∣
+            k
+    {\displaystyle \mathbf {P} _{k\mid k}}
+  , the a posteriori error covariance matrix (a measure of the estimated accuracy of the state estimate).
+The Kalman filter can be written as a single equation, however it is most often conceptualized as two distinct phases: "Predict" and "Update". The predict phase uses the state estimate from the previous timestep to produce an estimate of the state at the current timestep. This predicted state estimate is also known as the a priori state estimate because, although it is an estimate of the state at the current timestep, it does not include observation information from the current timestep. In the update phase, the current a priori prediction is combined with current observation information to refine the state estimate. This improved estimate is termed the a posteriori state estimate.
+Typically, the two phases alternate, with the prediction advancing the state until the next scheduled observation, and the update incorporating the observation. However, this is not necessary; if an observation is unavailable for some reason, the update may be skipped and multiple prediction steps performed. Likewise, if multiple independent observations are available at the same time, multiple update steps may be performed (typically with different observation matrices Hk).
+The formula for the updated estimate covariance above is only valid for the optimal Kalman gain. Usage of other gain values requires a more complex formula found in the derivations section.
+If the model is accurate, and the values for 
+                  x
+                ^
+            0
+            ∣
+            0
+    {\displaystyle {\hat {\mathbf {x} }}_{0\mid 0}}
+   and 
+            P
+            0
+            ∣
+            0
+    {\displaystyle \mathbf {P} _{0\mid 0}}
+   accurately reflect the distribution of the initial state values, then the following invariants are preserved:
+        E
+        ⁡
+        [
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+        ]
+        =
+        E
+        ⁡
+        [
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        ]
+        =
+        0
+    {\displaystyle \operatorname {E} [\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k}]=\operatorname {E} [\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k-1}]=0}
+        E
+        ⁡
+        [
+                  y
+                ~
+            k
+        ]
+        =
+        0
+    {\displaystyle \operatorname {E} [{\tilde {\mathbf {y} }}_{k}]=0}
+where 
+        E
+        ⁡
+        [
+        ξ
+        ]
+    {\displaystyle \operatorname {E} [\xi ]}
+   is the expected value of 
+        ξ
+    {\displaystyle \xi }
+  . That is, all estimates have a mean error of zero.
+Also:
+            P
+            k
+            ∣
+            k
+        =
+        cov
+        ⁡
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+        )
+    {\displaystyle \mathbf {P} _{k\mid k}=\operatorname {cov} (\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k})}
+            P
+            k
+            ∣
+            k
+            −
+            1
+        =
+        cov
+        ⁡
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        )
+    {\displaystyle \mathbf {P} _{k\mid k-1}=\operatorname {cov} (\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k-1})}
+            S
+            k
+        =
+        cov
+        ⁡
+        (
+                  y
+                ~
+            k
+        )
+    {\displaystyle \mathbf {S} _{k}=\operatorname {cov} ({\tilde {\mathbf {y} }}_{k})}
+so covariance matrices accurately reflect the covariance of estimates.
+Practical implementation of the Kalman Filter is often difficult due to the difficulty of getting a good estimate of the noise covariance matrices Qk and Rk. Extensive research has been done in this field to estimate these covariances from data. One of the more promising and practical approaches to do this is the autocovariance least-squares (ALS) technique that uses the time-lagged autocovariances of routine operating data to estimate the covariances. The GNU Octave and Matlab code used to calculate the noise covariance matrices using the ALS technique is available online under the GNU General Public License license.
+It follows from theory that the Kalman filter is optimal in cases where a) the model perfectly matches the real system, b) the entering noise is white and Gaussian and c) the covariances of the noise are exactly known. Several methods for the noise covariance estimation have been proposed during past decades, including ALS, mentioned in the section above. After the covariances are estimated, it is useful to evaluate the performance of the filter, i.e. whether it is possible to improve the state estimation quality. If the Kalman filter works optimally, the innovation sequence (the output prediction error) is a white noise, therefore the whiteness property of the innovations measures filter performance. Several different methods can be used for this purpose. If the noise terms are non-Gaussian distributed, methods for assessing performance of the filter estimate, which use probability inequalities or large-sample theory, are given in  and.
+Consider a truck on frictionless, straight rails. Initially, the truck is stationary at position 0, but it is buffeted this way and that by random uncontrolled forces. We measure the position of the truck every Δt seconds, but these measurements are imprecise; we want to maintain a model of where the truck is and what its velocity is. We show here how we derive the model from which we create our Kalman filter.
+Since 
+          F
+        ,
+          H
+        ,
+          R
+        ,
+          Q
+    {\displaystyle \mathbf {F} ,\mathbf {H} ,\mathbf {R} ,\mathbf {Q} }
+   are constant, their time indices are dropped.
+The position and velocity of the truck are described by the linear state space
+            x
+            k
+        =
+            [
+                  x
+                        x
+                        ˙
+            ]
+    {\displaystyle \mathbf {x} _{k}={\begin{bmatrix}x\\{\dot {x}}\end{bmatrix}}}
+where 
+              x
+              ˙
+    {\displaystyle {\dot {x}}}
+   is the velocity, that is, the derivative of position with respect to time.
+We assume that between the (k − 1) and k timestep uncontrolled forces cause a constant acceleration of ak that is normally distributed, with mean 0 and standard deviation σa. From Newton's laws of motion we conclude that
+            x
+            k
+        =
+          F
+            x
+            k
+            −
+            1
+        +
+          G
+          a
+            k
+    {\displaystyle \mathbf {x} _{k}=\mathbf {F} \mathbf {x} _{k-1}+\mathbf {G} a_{k}}
+(note that there is no 
+          B
+        u
+    {\displaystyle \mathbf {B} u}
+   term since we have no known control inputs. Instead, we assume that ak is the effect of an unknown input and 
+          G
+    {\displaystyle \mathbf {G} }
+   applies that effect to the state vector) where
+          F
+        =
+            [
+                  1
+                  Δ
+                  t
+                  0
+                  1
+            ]
+    {\displaystyle \mathbf {F} ={\begin{bmatrix}1&\Delta t\\0&1\end{bmatrix}}}
+and
+          G
+        =
+            [
+                        Δ
+                          t
+                            2
+                      2
+                  Δ
+                  t
+            ]
+    {\displaystyle \mathbf {G} ={\begin{bmatrix}{\frac {\Delta t^{2}}{2}}\\[6pt]\Delta t\end{bmatrix}}}
+so that
+            x
+            k
+        =
+          F
+            x
+            k
+            −
+            1
+        +
+            w
+            k
+    {\displaystyle \mathbf {x} _{k}=\mathbf {F} \mathbf {x} _{k-1}+\mathbf {w} _{k}}
+where 
+            w
+            k
+        ∼
+        N
+        (
+        0
+        ,
+          Q
+        )
+    {\displaystyle \mathbf {w} _{k}\sim N(0,\mathbf {Q} )}
+   and
+          Q
+        =
+          G
+            G
+            T
+          σ
+            a
+            2
+        =
+            [
+                        Δ
+                          t
+                            4
+                      4
+                        Δ
+                          t
+                            3
+                      2
+                        Δ
+                          t
+                            3
+                      2
+                  Δ
+                    t
+                      2
+            ]
+          σ
+            a
+            2
+        .
+    {\displaystyle \mathbf {Q} =\mathbf {G} \mathbf {G} ^{\text{T}}\sigma _{a}^{2}={\begin{bmatrix}{\frac {\Delta t^{4}}{4}}&{\frac {\Delta t^{3}}{2}}\\[6pt]{\frac {\Delta t^{3}}{2}}&\Delta t^{2}\end{bmatrix}}\sigma _{a}^{2}.}
+Please note that the matrix 
+          Q
+    {\displaystyle \mathbf {Q} }
+   is not full rank (it is of rank one iff 
+        Δ
+        t
+        ≠
+        0
+    {\displaystyle \Delta t\neq 0}
+  ). Hence, the distribution 
+        N
+        (
+        0
+        ,
+          Q
+        )
+    {\displaystyle N(0,\mathbf {Q} )}
+   is not absolutely continuous and has no probability density function. It is more rigorous to write that
+            w
+            k
+        ∼
+          G
+        ⋅
+        N
+        (
+        0
+        ,
+          σ
+            a
+        )
+    {\displaystyle \mathbf {w} _{k}\sim \mathbf {G} \cdot N(0,\sigma _{a})}
+  .
+At each time step, a noisy measurement of the true position of the truck is made. Let us suppose the measurement noise vk is also normally distributed, with mean 0 and standard deviation σz.
+            z
+            k
+        =
+            H
+            x
+            k
+        +
+            v
+            k
+    {\displaystyle \mathbf {z} _{k}=\mathbf {Hx} _{k}+\mathbf {v} _{k}}
+where
+          H
+        =
+            [
+                  1
+                  0
+            ]
+    {\displaystyle \mathbf {H} ={\begin{bmatrix}1&0\end{bmatrix}}}
+and
+          R
+        =
+            E
+        [
+            v
+            k
+            v
+            k
+            T
+        ]
+        =
+            [
+                    σ
+                      z
+                      2
+            ]
+    {\displaystyle \mathbf {R} ={\textrm {E}}[\mathbf {v} _{k}\mathbf {v} _{k}^{\text{T}}]={\begin{bmatrix}\sigma _{z}^{2}\end{bmatrix}}}
+We know the initial starting state of the truck with perfect precision, so we initialize
+                  x
+                ^
+            0
+            ∣
+            0
+        =
+            [
+                  0
+                  0
+            ]
+    {\displaystyle {\hat {\mathbf {x} }}_{0\mid 0}={\begin{bmatrix}0\\0\end{bmatrix}}}
+and to tell the filter that we know the exact position and velocity, we give it a zero covariance matrix:
+            P
+            0
+            ∣
+            0
+        =
+            [
+                  0
+                  0
+                  0
+                  0
+            ]
+    {\displaystyle \mathbf {P} _{0\mid 0}={\begin{bmatrix}0&0\\0&0\end{bmatrix}}}
+If the initial position and velocity are not known perfectly, the covariance matrix should be initialized with suitable variances on its diagonal:
+            P
+            0
+            ∣
+            0
+        =
+            [
+                    σ
+                      x
+                      2
+                  0
+                  0
+                    σ
+                          x
+                          ˙
+                      2
+            ]
+    {\displaystyle \mathbf {P} _{0\mid 0}={\begin{bmatrix}\sigma _{x}^{2}&0\\0&\sigma _{\dot {x}}^{2}\end{bmatrix}}}
+The filter will then prefer the information from the first measurements over the information already in the model.
+Starting with our invariant on the error covariance Pk | k as above
+            P
+            k
+            ∣
+            k
+        =
+          c
+          o
+          v
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+        )
+    {\displaystyle \mathbf {P} _{k\mid k}=\mathrm {cov} (\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k})}
+substitute in the definition of 
+                  x
+                ^
+            k
+            ∣
+            k
+    {\displaystyle {\hat {\mathbf {x} }}_{k\mid k}}
+            P
+            k
+            ∣
+            k
+        =
+            cov
+        (
+            x
+            k
+        −
+        (
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+            K
+            k
+                  y
+                ~
+            k
+        )
+        )
+    {\displaystyle \mathbf {P} _{k\mid k}={\textrm {cov}}(\mathbf {x} _{k}-({\hat {\mathbf {x} }}_{k\mid k-1}+\mathbf {K} _{k}{\tilde {\mathbf {y} }}_{k}))}
+and substitute 
+                  y
+                ~
+            k
+    {\displaystyle {\tilde {\mathbf {y} }}_{k}}
+            P
+            k
+            ∣
+            k
+        =
+            cov
+        (
+            x
+            k
+        −
+        (
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+            K
+            k
+        (
+            z
+            k
+        −
+            H
+            k
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        )
+        )
+        )
+    {\displaystyle \mathbf {P} _{k\mid k}={\textrm {cov}}(\mathbf {x} _{k}-({\hat {\mathbf {x} }}_{k\mid k-1}+\mathbf {K} _{k}(\mathbf {z} _{k}-\mathbf {H} _{k}{\hat {\mathbf {x} }}_{k\mid k-1})))}
+and 
+            z
+            k
+    {\displaystyle \mathbf {z} _{k}}
+            P
+            k
+            ∣
+            k
+        =
+            cov
+        (
+            x
+            k
+        −
+        (
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+            K
+            k
+        (
+            H
+            k
+            x
+            k
+        +
+            v
+            k
+        −
+            H
+            k
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        )
+        )
+        )
+    {\displaystyle \mathbf {P} _{k\mid k}={\textrm {cov}}(\mathbf {x} _{k}-({\hat {\mathbf {x} }}_{k\mid k-1}+\mathbf {K} _{k}(\mathbf {H} _{k}\mathbf {x} _{k}+\mathbf {v} _{k}-\mathbf {H} _{k}{\hat {\mathbf {x} }}_{k\mid k-1})))}
+and by collecting the error vectors we get
+            P
+            k
+              |
+            k
+        =
+            cov
+        (
+        (
+        I
+        −
+            K
+            k
+            H
+            k
+        )
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        )
+        −
+            K
+            k
+            v
+            k
+        )
+    {\displaystyle \mathbf {P} _{k|k}={\textrm {cov}}((I-\mathbf {K} _{k}\mathbf {H} _{k})(\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k-1})-\mathbf {K} _{k}\mathbf {v} _{k})}
+Since the measurement error vk is uncorrelated with the other terms, this becomes
+            P
+            k
+              |
+            k
+        =
+            cov
+        (
+        (
+        I
+        −
+            K
+            k
+            H
+            k
+        )
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        )
+        )
+        +
+            cov
+        (
+            K
+            k
+            v
+            k
+        )
+    {\displaystyle \mathbf {P} _{k|k}={\textrm {cov}}((I-\mathbf {K} _{k}\mathbf {H} _{k})(\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k-1}))+{\textrm {cov}}(\mathbf {K} _{k}\mathbf {v} _{k})}
+by the properties of vector covariance this becomes
+            P
+            k
+            ∣
+            k
+        =
+        (
+        I
+        −
+            K
+            k
+            H
+            k
+        )
+            cov
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        )
+        (
+        I
+        −
+            K
+            k
+            H
+            k
+          )
+            T
+        +
+            K
+            k
+            cov
+        (
+            v
+            k
+        )
+            K
+            k
+            T
+    {\displaystyle \mathbf {P} _{k\mid k}=(I-\mathbf {K} _{k}\mathbf {H} _{k}){\textrm {cov}}(\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k-1})(I-\mathbf {K} _{k}\mathbf {H} _{k})^{\text{T}}+\mathbf {K} _{k}{\textrm {cov}}(\mathbf {v} _{k})\mathbf {K} _{k}^{\text{T}}}
+which, using our invariant on Pk | k−1 and the definition of Rk becomes
+            P
+            k
+            ∣
+            k
+        =
+        (
+        I
+        −
+            K
+            k
+            H
+            k
+        )
+            P
+            k
+            ∣
+            k
+            −
+            1
+        (
+        I
+        −
+            K
+            k
+            H
+            k
+          )
+            T
+        +
+            K
+            k
+            R
+            k
+            K
+            k
+            T
+    {\displaystyle \mathbf {P} _{k\mid k}=(I-\mathbf {K} _{k}\mathbf {H} _{k})\mathbf {P} _{k\mid k-1}(I-\mathbf {K} _{k}\mathbf {H} _{k})^{\text{T}}+\mathbf {K} _{k}\mathbf {R} _{k}\mathbf {K} _{k}^{\text{T}}}
+This formula (sometimes known as the "Joseph form" of the covariance update equation) is valid for any value of Kk. It turns out that if Kk is the optimal Kalman gain, this can be simplified further as shown below.
+The Kalman filter is a minimum mean-square error estimator. The error in the a posteriori state estimation is
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+    {\displaystyle \mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k}}
+We seek to minimize the expected value of the square of the magnitude of this vector, 
+            E
+        [
+        ∥
+            x
+            k
+        −
+                  x
+                ^
+            k
+              |
+            k
+          ∥
+            2
+        ]
+    {\displaystyle {\textrm {E}}[\|\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k|k}\|^{2}]}
+  . This is equivalent to minimizing the trace of the a posteriori estimate covariance matrix 
+            P
+            k
+              |
+            k
+    {\displaystyle \mathbf {P} _{k|k}}
+  . By expanding out the terms in the equation above and collecting, we get:
+                    P
+                    k
+                    ∣
+                    k
+                =
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                −
+                    K
+                    k
+                    H
+                    k
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                −
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    H
+                    k
+                    T
+                    K
+                    k
+                    T
+                +
+                    K
+                    k
+                (
+                    H
+                    k
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    H
+                    k
+                    T
+                +
+                    R
+                    k
+                )
+                    K
+                    k
+                    T
+                =
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                −
+                    K
+                    k
+                    H
+                    k
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                −
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    H
+                    k
+                    T
+                    K
+                    k
+                    T
+                +
+                    K
+                    k
+                    S
+                    k
+                    K
+                    k
+                    T
+    {\displaystyle {\begin{aligned}\mathbf {P} _{k\mid k}&=\mathbf {P} _{k\mid k-1}-\mathbf {K} _{k}\mathbf {H} _{k}\mathbf {P} _{k\mid k-1}-\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{\text{T}}\mathbf {K} _{k}^{\text{T}}+\mathbf {K} _{k}(\mathbf {H} _{k}\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{\text{T}}+\mathbf {R} _{k})\mathbf {K} _{k}^{\text{T}}\\[6pt]&=\mathbf {P} _{k\mid k-1}-\mathbf {K} _{k}\mathbf {H} _{k}\mathbf {P} _{k\mid k-1}-\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{\text{T}}\mathbf {K} _{k}^{\text{T}}+\mathbf {K} _{k}\mathbf {S} _{k}\mathbf {K} _{k}^{\text{T}}\end{aligned}}}
+The trace is minimized when its matrix derivative with respect to the gain matrix is zero. Using the gradient matrix rules and the symmetry of the matrices involved we find that
+              ∂
+                t
+                r
+              (
+                  P
+                  k
+                  ∣
+                  k
+              )
+              ∂
+                  K
+                  k
+        =
+        −
+        2
+        (
+            H
+            k
+            P
+            k
+            ∣
+            k
+            −
+            1
+          )
+            T
+        +
+        2
+            K
+            k
+            S
+            k
+        =
+        0.
+    {\displaystyle {\frac {\partial \;\mathrm {tr} (\mathbf {P} _{k\mid k})}{\partial \;\mathbf {K} _{k}}}=-2(\mathbf {H} _{k}\mathbf {P} _{k\mid k-1})^{\text{T}}+2\mathbf {K} _{k}\mathbf {S} _{k}=0.}
+Solving this for Kk yields the Kalman gain:
+            K
+            k
+            S
+            k
+        =
+        (
+            H
+            k
+            P
+            k
+            ∣
+            k
+            −
+            1
+          )
+            T
+        =
+            P
+            k
+            ∣
+            k
+            −
+            1
+            H
+            k
+            T
+    {\displaystyle \mathbf {K} _{k}\mathbf {S} _{k}=(\mathbf {H} _{k}\mathbf {P} _{k\mid k-1})^{\text{T}}=\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{\text{T}}}
+            K
+            k
+        =
+            P
+            k
+            ∣
+            k
+            −
+            1
+            H
+            k
+            T
+            S
+            k
+            −
+            1
+    {\displaystyle \mathbf {K} _{k}=\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{\text{T}}\mathbf {S} _{k}^{-1}}
+This gain, which is known as the optimal Kalman gain, is the one that yields MMSE estimates when used.
+The formula used to calculate the a posteriori error covariance can be simplified when the Kalman gain equals the optimal value derived above. Multiplying both sides of our Kalman gain formula on the right by SkKkT, it follows that
+            K
+            k
+            S
+            k
+            K
+            k
+              T
+        =
+            P
+            k
+            ∣
+            k
+            −
+            1
+            H
+            k
+              T
+            K
+            k
+              T
+    {\displaystyle \mathbf {K} _{k}\mathbf {S} _{k}\mathbf {K} _{k}^{\mathrm {T} }=\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{\mathrm {T} }\mathbf {K} _{k}^{\mathrm {T} }}
+Referring back to our expanded formula for the a posteriori error covariance,
+            P
+            k
+            ∣
+            k
+        =
+            P
+            k
+            ∣
+            k
+            −
+            1
+        −
+            K
+            k
+            H
+            k
+            P
+            k
+            ∣
+            k
+            −
+            1
+        −
+            P
+            k
+            ∣
+            k
+            −
+            1
+            H
+            k
+              T
+            K
+            k
+              T
+        +
+            K
+            k
+            S
+            k
+            K
+            k
+              T
+    {\displaystyle \mathbf {P} _{k\mid k}=\mathbf {P} _{k\mid k-1}-\mathbf {K} _{k}\mathbf {H} _{k}\mathbf {P} _{k\mid k-1}-\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{\mathrm {T} }\mathbf {K} _{k}^{\mathrm {T} }+\mathbf {K} _{k}\mathbf {S} _{k}\mathbf {K} _{k}^{\mathrm {T} }}
+we find the last two terms cancel out, giving
+            P
+            k
+            ∣
+            k
+        =
+            P
+            k
+            ∣
+            k
+            −
+            1
+        −
+            K
+            k
+            H
+            k
+            P
+            k
+            ∣
+            k
+            −
+            1
+        =
+        (
+        I
+        −
+            K
+            k
+            H
+            k
+        )
+            P
+            k
+            ∣
+            k
+            −
+            1
+        .
+    {\displaystyle \mathbf {P} _{k\mid k}=\mathbf {P} _{k\mid k-1}-\mathbf {K} _{k}\mathbf {H} _{k}\mathbf {P} _{k\mid k-1}=(I-\mathbf {K} _{k}\mathbf {H} _{k})\mathbf {P} _{k\mid k-1}.}
+This formula is computationally cheaper and thus nearly always used in practice, but is only correct for the optimal gain. If arithmetic precision is unusually low causing problems with numerical stability, or if a non-optimal Kalman gain is deliberately used, this simplification cannot be applied; the a posteriori error covariance formula as derived above (Joseph form) must be used.
+The Kalman filtering equations provide an estimate of the state 
+                  x
+                ^
+            k
+            ∣
+            k
+    {\displaystyle {\hat {\mathbf {x} }}_{k\mid k}}
+   and its error covariance 
+            P
+            k
+            ∣
+            k
+    {\displaystyle \mathbf {P} _{k\mid k}}
+   recursively. The estimate and its quality depend on the system parameters and the noise statistics fed as inputs to the estimator. This section analyzes the effect of uncertainties in the statistical inputs to the filter. In the absence of reliable statistics or the true values of noise covariance matrices 
+            Q
+            k
+    {\displaystyle \mathbf {Q} _{k}}
+   and 
+            R
+            k
+    {\displaystyle \mathbf {R} _{k}}
+  , the expression
+            P
+            k
+            ∣
+            k
+        =
+        (
+          I
+        −
+            K
+            k
+            H
+            k
+        )
+            P
+            k
+            ∣
+            k
+            −
+            1
+        (
+          I
+        −
+            K
+            k
+            H
+            k
+          )
+              T
+        +
+            K
+            k
+            R
+            k
+            K
+            k
+              T
+    {\displaystyle \mathbf {P} _{k\mid k}=(\mathbf {I} -\mathbf {K} _{k}\mathbf {H} _{k})\mathbf {P} _{k\mid k-1}(\mathbf {I} -\mathbf {K} _{k}\mathbf {H} _{k})^{\mathrm {T} }+\mathbf {K} _{k}\mathbf {R} _{k}\mathbf {K} _{k}^{\mathrm {T} }}
+no longer provides the actual error covariance. In other words, 
+            P
+            k
+            ∣
+            k
+        ≠
+        E
+        [
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+        )
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+          )
+              T
+        ]
+    {\displaystyle \mathbf {P} _{k\mid k}\neq E[(\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k})(\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k})^{\mathrm {T} }]}
+  . In most real-time applications, the covariance matrices that are used in designing the Kalman filter are different from the actual (true) noise covariances matrices. This sensitivity analysis describes the behavior of the estimation error covariance when the noise covariances as well as the system matrices 
+            F
+            k
+    {\displaystyle \mathbf {F} _{k}}
+   and 
+            H
+            k
+    {\displaystyle \mathbf {H} _{k}}
+   that are fed as inputs to the filter are incorrect. Thus, the sensitivity analysis describes the robustness (or sensitivity) of the estimator to misspecified statistical and parametric inputs to the estimator.
+This discussion is limited to the error sensitivity analysis for the case of statistical uncertainties. Here the actual noise covariances are denoted by 
+            Q
+            k
+            a
+    {\displaystyle \mathbf {Q} _{k}^{a}}
+   and 
+            R
+            k
+            a
+    {\displaystyle \mathbf {R} _{k}^{a}}
+   respectively, whereas the design values used in the estimator are 
+            Q
+            k
+    {\displaystyle \mathbf {Q} _{k}}
+   and 
+            R
+            k
+    {\displaystyle \mathbf {R} _{k}}
+   respectively. The actual error covariance is denoted by 
+            P
+            k
+            ∣
+            k
+            a
+    {\displaystyle \mathbf {P} _{k\mid k}^{a}}
+   and 
+            P
+            k
+            ∣
+            k
+    {\displaystyle \mathbf {P} _{k\mid k}}
+   as computed by the Kalman filter is referred to as the Riccati variable. When 
+            Q
+            k
+        ≡
+            Q
+            k
+            a
+    {\displaystyle \mathbf {Q} _{k}\equiv \mathbf {Q} _{k}^{a}}
+   and 
+            R
+            k
+        ≡
+            R
+            k
+            a
+    {\displaystyle \mathbf {R} _{k}\equiv \mathbf {R} _{k}^{a}}
+  , this means that 
+            P
+            k
+            ∣
+            k
+        =
+            P
+            k
+            ∣
+            k
+            a
+    {\displaystyle \mathbf {P} _{k\mid k}=\mathbf {P} _{k\mid k}^{a}}
+  . While computing the actual error covariance using 
+            P
+            k
+            ∣
+            k
+            a
+        =
+        E
+        [
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+        )
+        (
+            x
+            k
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+          )
+              T
+        ]
+    {\displaystyle \mathbf {P} _{k\mid k}^{a}=E[(\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k})(\mathbf {x} _{k}-{\hat {\mathbf {x} }}_{k\mid k})^{\mathrm {T} }]}
+  , substituting for 
+                  x
+                ^
+            k
+            ∣
+            k
+    {\displaystyle {\widehat {\mathbf {x} }}_{k\mid k}}
+   and using the fact that 
+        E
+        [
+            w
+            k
+            w
+            k
+              T
+        ]
+        =
+            Q
+            k
+            a
+    {\displaystyle E[\mathbf {w} _{k}\mathbf {w} _{k}^{\mathrm {T} }]=\mathbf {Q} _{k}^{a}}
+   and 
+        E
+        [
+            v
+            k
+            v
+            k
+              T
+        ]
+        =
+            R
+            k
+            a
+    {\displaystyle E[\mathbf {v} _{k}\mathbf {v} _{k}^{\mathrm {T} }]=\mathbf {R} _{k}^{a}}
+  , results in the following recursive equations for 
+            P
+            k
+            ∣
+            k
+            a
+    {\displaystyle \mathbf {P} _{k\mid k}^{a}}
+   :
+            P
+            k
+            ∣
+            k
+            −
+            1
+            a
+        =
+            F
+            k
+            P
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            a
+            F
+            k
+              T
+        +
+            Q
+            k
+            a
+    {\displaystyle \mathbf {P} _{k\mid k-1}^{a}=\mathbf {F} _{k}\mathbf {P} _{k-1\mid k-1}^{a}\mathbf {F} _{k}^{\mathrm {T} }+\mathbf {Q} _{k}^{a}}
+and
+            P
+            k
+            ∣
+            k
+            a
+        =
+        (
+          I
+        −
+            K
+            k
+            H
+            k
+        )
+            P
+            k
+            ∣
+            k
+            −
+            1
+            a
+        (
+          I
+        −
+            K
+            k
+            H
+            k
+          )
+              T
+        +
+            K
+            k
+            R
+            k
+            a
+            K
+            k
+              T
+    {\displaystyle \mathbf {P} _{k\mid k}^{a}=(\mathbf {I} -\mathbf {K} _{k}\mathbf {H} _{k})\mathbf {P} _{k\mid k-1}^{a}(\mathbf {I} -\mathbf {K} _{k}\mathbf {H} _{k})^{\mathrm {T} }+\mathbf {K} _{k}\mathbf {R} _{k}^{a}\mathbf {K} _{k}^{\mathrm {T} }}
+While computing 
+            P
+            k
+            ∣
+            k
+    {\displaystyle \mathbf {P} _{k\mid k}}
+  , by design the filter implicitly assumes that 
+        E
+        [
+            w
+            k
+            w
+            k
+              T
+        ]
+        =
+            Q
+            k
+    {\displaystyle E[\mathbf {w} _{k}\mathbf {w} _{k}^{\mathrm {T} }]=\mathbf {Q} _{k}}
+   and 
+        E
+        [
+            v
+            k
+            v
+            k
+              T
+        ]
+        =
+            R
+            k
+    {\displaystyle E[\mathbf {v} _{k}\mathbf {v} _{k}^{\mathrm {T} }]=\mathbf {R} _{k}}
+  . Note that the recursive expressions for 
+            P
+            k
+            ∣
+            k
+            a
+    {\displaystyle \mathbf {P} _{k\mid k}^{a}}
+   and 
+            P
+            k
+            ∣
+            k
+    {\displaystyle \mathbf {P} _{k\mid k}}
+   are identical except for the presence of 
+            Q
+            k
+            a
+    {\displaystyle \mathbf {Q} _{k}^{a}}
+   and 
+            R
+            k
+            a
+    {\displaystyle \mathbf {R} _{k}^{a}}
+   in place of the design values 
+            Q
+            k
+    {\displaystyle \mathbf {Q} _{k}}
+   and 
+            R
+            k
+    {\displaystyle \mathbf {R} _{k}}
+   respectively.
+One problem with the Kalman filter is its numerical stability. If the process noise covariance Qk is small, round-off error often causes a small positive eigenvalue to be computed as a negative number. This renders the numerical representation of the state covariance matrix P indefinite, while its true form is positive-definite.
+Positive definite matrices have the property that they have a triangular matrix square root P = S·ST. This can be computed efficiently using the Cholesky factorization algorithm, but more importantly, if the covariance is kept in this form, it can never have a negative diagonal or become asymmetric. An equivalent form, which avoids many of the square root operations required by the matrix square root yet preserves the desirable numerical properties, is the U-D decomposition form, P = U·D·UT, where U is a unit triangular matrix (with unit diagonal), and D is a diagonal matrix.
+Between the two, the U-D factorization uses the same amount of storage, and somewhat less computation, and is the most commonly used square root form. (Early literature on the relative efficiency is somewhat misleading, as it assumed that square roots were much more time-consuming than divisions, while on 21-st century computers they are only slightly more expensive.)
+Efficient algorithms for the Kalman prediction and update steps in the square root form were developed by G. J. Bierman and C. L. Thornton.
+The L·D·LT decomposition of the innovation covariance matrix Sk is the basis for another type of numerically efficient and robust square root filter. The algorithm starts with the LU decomposition as implemented in the Linear Algebra PACKage (LAPACK). These results are further factored into the L·D·LT structure with methods given by Golub and Van Loan (algorithm 4.1.2) for a symmetric nonsingular matrix. Any singular covariance matrix is pivoted so that the first diagonal partition is nonsingular and well-conditioned. The pivoting algorithm must retain any portion of the innovation covariance matrix directly corresponding to observed state-variables Hk·xk|k-1 that are associated with auxiliary observations in yk. The l·d·lt square-root filter requires orthogonalization of the observation vector. This may be done with the inverse square-root of the covariance matrix for the auxiliary variables using Method 2 in Higham (2002, p. 263).
+The Kalman filter can be presented as one of the simplest dynamic Bayesian networks. The Kalman filter calculates estimates of the true values of states recursively over time using incoming measurements and a mathematical process model. Similarly, recursive Bayesian estimation calculates estimates of an unknown probability density function (PDF) recursively over time using incoming measurements and a mathematical process model.
+In recursive Bayesian estimation, the true state is assumed to be an unobserved Markov process, and the measurements are the observed states of a hidden Markov model (HMM).
+because of the Markov assumption, the true state is conditionally independent of all earlier states given the immediately previous state.
+        p
+        (
+              x
+            k
+        ∣
+              x
+            0
+        ,
+        …
+        ,
+              x
+            k
+            −
+            1
+        )
+        =
+        p
+        (
+              x
+            k
+        ∣
+              x
+            k
+            −
+            1
+        )
+    {\displaystyle p({\textbf {x}}_{k}\mid {\textbf {x}}_{0},\dots ,{\textbf {x}}_{k-1})=p({\textbf {x}}_{k}\mid {\textbf {x}}_{k-1})}
+Similarly, the measurement at the k-th timestep is dependent only upon the current state and is conditionally independent of all other states given the current state.
+        p
+        (
+              z
+            k
+        ∣
+              x
+            0
+        ,
+        …
+        ,
+              x
+            k
+        )
+        =
+        p
+        (
+              z
+            k
+        ∣
+              x
+            k
+        )
+    {\displaystyle p({\textbf {z}}_{k}\mid {\textbf {x}}_{0},\dots ,{\textbf {x}}_{k})=p({\textbf {z}}_{k}\mid {\textbf {x}}_{k})}
+Using these assumptions the probability distribution over all states of the hidden Markov model can be written simply as:
+        p
+        (
+              x
+            0
+        ,
+        …
+        ,
+              x
+            k
+        ,
+              z
+            1
+        ,
+        …
+        ,
+              z
+            k
+        )
+        =
+        p
+        (
+              x
+            0
+        )
+          ∏
+            i
+            =
+            1
+            k
+        p
+        (
+              z
+            i
+        ∣
+              x
+            i
+        )
+        p
+        (
+              x
+            i
+        ∣
+              x
+            i
+            −
+            1
+        )
+    {\displaystyle p({\textbf {x}}_{0},\dots ,{\textbf {x}}_{k},{\textbf {z}}_{1},\dots ,{\textbf {z}}_{k})=p({\textbf {x}}_{0})\prod _{i=1}^{k}p({\textbf {z}}_{i}\mid {\textbf {x}}_{i})p({\textbf {x}}_{i}\mid {\textbf {x}}_{i-1})}
+However, when the Kalman filter is used to estimate the state x, the probability distribution of interest is that associated with the current states conditioned on the measurements up to the current timestep. This is achieved by marginalizing out the previous states and dividing by the probability of the measurement set.
+This leads to the predict and update steps of the Kalman filter written probabilistically. The probability distribution associated with the predicted state is the sum (integral) of the products of the probability distribution associated with the transition from the (k − 1)-th timestep to the k-th and the probability distribution associated with the previous state, over all possible 
+          x
+            k
+            −
+            1
+    {\displaystyle x_{k-1}}
+  .
+        p
+        (
+              x
+            k
+        ∣
+              Z
+            k
+            −
+            1
+        )
+        =
+        ∫
+        p
+        (
+              x
+            k
+        ∣
+              x
+            k
+            −
+            1
+        )
+        p
+        (
+              x
+            k
+            −
+            1
+        ∣
+              Z
+            k
+            −
+            1
+        )
+        d
+              x
+            k
+            −
+            1
+    {\displaystyle p({\textbf {x}}_{k}\mid {\textbf {Z}}_{k-1})=\int p({\textbf {x}}_{k}\mid {\textbf {x}}_{k-1})p({\textbf {x}}_{k-1}\mid {\textbf {Z}}_{k-1})\,d{\textbf {x}}_{k-1}}
+The measurement set up to time t is
+              Z
+            t
+        =
+          {
+                z
+              1
+          ,
+          …
+          ,
+                z
+              t
+          }
+    {\displaystyle {\textbf {Z}}_{t}=\left\{{\textbf {z}}_{1},\dots ,{\textbf {z}}_{t}\right\}}
+The probability distribution of the update is proportional to the product of the measurement likelihood and the predicted state.
+        p
+        (
+              x
+            k
+        ∣
+              Z
+            k
+        )
+        =
+              p
+              (
+                    z
+                  k
+              ∣
+                    x
+                  k
+              )
+              p
+              (
+                    x
+                  k
+              ∣
+                    Z
+                  k
+                  −
+                  1
+              )
+              p
+              (
+                    z
+                  k
+              ∣
+                    Z
+                  k
+                  −
+                  1
+              )
+    {\displaystyle p({\textbf {x}}_{k}\mid {\textbf {Z}}_{k})={\frac {p({\textbf {z}}_{k}\mid {\textbf {x}}_{k})p({\textbf {x}}_{k}\mid {\textbf {Z}}_{k-1})}{p({\textbf {z}}_{k}\mid {\textbf {Z}}_{k-1})}}}
+The denominator
+        p
+        (
+              z
+            k
+        ∣
+              Z
+            k
+            −
+            1
+        )
+        =
+        ∫
+        p
+        (
+              z
+            k
+        ∣
+              x
+            k
+        )
+        p
+        (
+              x
+            k
+        ∣
+              Z
+            k
+            −
+            1
+        )
+        d
+              x
+            k
+    {\displaystyle p({\textbf {z}}_{k}\mid {\textbf {Z}}_{k-1})=\int p({\textbf {z}}_{k}\mid {\textbf {x}}_{k})p({\textbf {x}}_{k}\mid {\textbf {Z}}_{k-1})\,d{\textbf {x}}_{k}}
+is a normalization term.
+The remaining probability density functions are
+        p
+        (
+              x
+            k
+        ∣
+              x
+            k
+            −
+            1
+        )
+        =
+            N
+        (
+              F
+            k
+              x
+            k
+            −
+            1
+        ,
+              Q
+            k
+        )
+    {\displaystyle p({\textbf {x}}_{k}\mid {\textbf {x}}_{k-1})={\mathcal {N}}({\textbf {F}}_{k}{\textbf {x}}_{k-1},{\textbf {Q}}_{k})}
+        p
+        (
+              z
+            k
+        ∣
+              x
+            k
+        )
+        =
+            N
+        (
+              H
+            k
+              x
+            k
+        ,
+              R
+            k
+        )
+    {\displaystyle p({\textbf {z}}_{k}\mid {\textbf {x}}_{k})={\mathcal {N}}({\textbf {H}}_{k}{\textbf {x}}_{k},{\textbf {R}}_{k})}
+        p
+        (
+              x
+            k
+            −
+            1
+        ∣
+              Z
+            k
+            −
+            1
+        )
+        =
+            N
+        (
+                  x
+                ^
+            k
+            −
+            1
+        ,
+              P
+            k
+            −
+            1
+        )
+    {\displaystyle p({\textbf {x}}_{k-1}\mid {\textbf {Z}}_{k-1})={\mathcal {N}}({\hat {\textbf {x}}}_{k-1},{\textbf {P}}_{k-1})}
+Note that the PDF at the previous timestep is inductively assumed to be the estimated state and covariance. This is justified because, as an optimal estimator, the Kalman filter makes best use of the measurements, therefore the PDF for 
+            x
+            k
+    {\displaystyle \mathbf {x} _{k}}
+   given the measurements 
+            Z
+            k
+    {\displaystyle \mathbf {Z} _{k}}
+   is the Kalman filter estimate.
+Related to the recursive Bayesian interpretation described above, the Kalman filter can be viewed as a generative model, i.e., a process for generating a stream of random observations z = (z0, z1, z2, …). Specifically, the process is
+Sample a hidden state 
+            x
+            0
+    {\displaystyle \mathbf {x} _{0}}
+   from the Gaussian prior distribution 
+        p
+        (
+            x
+            0
+        )
+        =
+            N
+        (
+                  x
+                ^
+            0
+            ∣
+            0
+        ,
+            P
+            0
+            ∣
+            0
+        )
+    {\displaystyle p(\mathbf {x} _{0})={\mathcal {N}}({\hat {\mathbf {x} }}_{0\mid 0},\mathbf {P} _{0\mid 0})}
+  .
+Sample an observation 
+            z
+            0
+    {\displaystyle \mathbf {z} _{0}}
+   from the observation model 
+        p
+        (
+            z
+            0
+        ∣
+            x
+            0
+        )
+        =
+            N
+        (
+            H
+            0
+            x
+            0
+        ,
+            R
+            0
+        )
+    {\displaystyle p(\mathbf {z} _{0}\mid \mathbf {x} _{0})={\mathcal {N}}(\mathbf {H} _{0}\mathbf {x} _{0},\mathbf {R} _{0})}
+  .
+For 
+        k
+        =
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        …
+    {\displaystyle k=1,2,3,\ldots }
+  , do
+Sample the next hidden state 
+            x
+            k
+    {\displaystyle \mathbf {x} _{k}}
+   from the transition model 
+        p
+        (
+            x
+            k
+        ∣
+            x
+            k
+            −
+            1
+        )
+        =
+            N
+        (
+            F
+            k
+            x
+            k
+            −
+            1
+        +
+            B
+            k
+            u
+            k
+        ,
+            Q
+            k
+        )
+        .
+    {\displaystyle p(\mathbf {x} _{k}\mid \mathbf {x} _{k-1})={\mathcal {N}}(\mathbf {F} _{k}\mathbf {x} _{k-1}+\mathbf {B} _{k}\mathbf {u} _{k},\mathbf {Q} _{k}).}
+Sample an observation 
+            z
+            k
+    {\displaystyle \mathbf {z} _{k}}
+   from the observation model 
+        p
+        (
+            z
+            k
+        ∣
+            x
+            k
+        )
+        =
+            N
+        (
+            H
+            k
+            x
+            k
+        ,
+            R
+            k
+        )
+        .
+    {\displaystyle p(\mathbf {z} _{k}\mid \mathbf {x} _{k})={\mathcal {N}}(\mathbf {H} _{k}\mathbf {x} _{k},\mathbf {R} _{k}).}
+Note that this process has identical structure to the hidden Markov model, except that the discrete state and observations are replaced with continuous variables sampled from Gaussian distributions.
+In some applications, it is useful to compute the probability that a Kalman filter with a given set of parameters (prior distribution, transition and observation models, and control inputs) would generate a particular observed signal. This probability is known as the marginal likelihood because it integrates over ("marginalizes out") the values of the hidden state variables, so it can be computed using only the observed signal. The marginal likelihood can be useful to evaluate different parameter choices, or to compare the Kalman filter against other models using Bayesian model comparison.
+It is straightforward to compute the marginal likelihood as a side effect of the recursive filtering computation. By the chain rule, the likelihood can be factored as the product of the probability of each observation given previous observations,
+        p
+        (
+          z
+        )
+        =
+          ∏
+            k
+            =
+            0
+            T
+        p
+        (
+            z
+            k
+        ∣
+            z
+            k
+            −
+            1
+        ,
+        …
+        ,
+            z
+            0
+        )
+    {\displaystyle p(\mathbf {z} )=\prod _{k=0}^{T}p(\mathbf {z} _{k}\mid \mathbf {z} _{k-1},\ldots ,\mathbf {z} _{0})}
+  ,
+and because the Kalman filter describes a Markov process, all relevant information from previous observations is contained in the current state estimate 
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        ,
+            P
+            k
+            ∣
+            k
+            −
+            1
+        .
+    {\displaystyle {\hat {\mathbf {x} }}_{k\mid k-1},\mathbf {P} _{k\mid k-1}.}
+   Thus the marginal likelihood is given by
+                p
+                (
+                  z
+                )
+                =
+                  ∏
+                    k
+                    =
+                    0
+                    T
+                ∫
+                p
+                (
+                    z
+                    k
+                ∣
+                    x
+                    k
+                )
+                p
+                (
+                    x
+                    k
+                ∣
+                    z
+                    k
+                    −
+                    1
+                ,
+                …
+                ,
+                    z
+                    0
+                )
+                d
+                    x
+                    k
+                =
+                  ∏
+                    k
+                    =
+                    0
+                    T
+                ∫
+                    N
+                (
+                    z
+                    k
+                ;
+                    H
+                    k
+                    x
+                    k
+                ,
+                    R
+                    k
+                )
+                    N
+                (
+                    x
+                    k
+                ;
+                          x
+                        ^
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                ,
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                )
+                d
+                    x
+                    k
+                =
+                  ∏
+                    k
+                    =
+                    0
+                    T
+                    N
+                (
+                    z
+                    k
+                ;
+                    H
+                    k
+                          x
+                        ^
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                ,
+                    R
+                    k
+                +
+                    H
+                    k
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    H
+                    k
+                    T
+                )
+                =
+                  ∏
+                    k
+                    =
+                    0
+                    T
+                    N
+                (
+                    z
+                    k
+                ;
+                    H
+                    k
+                          x
+                        ^
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                ,
+                    S
+                    k
+                )
+                ,
+    {\displaystyle {\begin{aligned}p(\mathbf {z} )&=\prod _{k=0}^{T}\int p(\mathbf {z} _{k}\mid \mathbf {x} _{k})p(\mathbf {x} _{k}\mid \mathbf {z} _{k-1},\ldots ,\mathbf {z} _{0})d\mathbf {x} _{k}\\&=\prod _{k=0}^{T}\int {\mathcal {N}}(\mathbf {z} _{k};\mathbf {H} _{k}\mathbf {x} _{k},\mathbf {R} _{k}){\mathcal {N}}(\mathbf {x} _{k};{\hat {\mathbf {x} }}_{k\mid k-1},\mathbf {P} _{k\mid k-1})d\mathbf {x} _{k}\\&=\prod _{k=0}^{T}{\mathcal {N}}(\mathbf {z} _{k};\mathbf {H} _{k}{\hat {\mathbf {x} }}_{k\mid k-1},\mathbf {R} _{k}+\mathbf {H} _{k}\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{T})\\&=\prod _{k=0}^{T}{\mathcal {N}}(\mathbf {z} _{k};\mathbf {H} _{k}{\hat {\mathbf {x} }}_{k\mid k-1},\mathbf {S} _{k}),\end{aligned}}}
+i.e., a product of Gaussian densities, each corresponding to the density of one observation zk under the current filtering distribution 
+            H
+            k
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        ,
+            S
+            k
+    {\displaystyle \mathbf {H} _{k}{\hat {\mathbf {x} }}_{k\mid k-1},\mathbf {S} _{k}}
+  . This can easily be computed as a simple recursive update; however, to avoid numeric underflow, in a practical implementation it is usually desirable to compute the log marginal likelihood 
+        ℓ
+        =
+        log
+        ⁡
+        p
+        (
+          z
+        )
+    {\displaystyle \ell =\log p(\mathbf {z} )}
+   instead. Adopting the convention 
+          ℓ
+            (
+            −
+            1
+            )
+        =
+        0
+    {\displaystyle \ell ^{(-1)}=0}
+  , this can be done via the recursive update rule
+          ℓ
+            (
+            k
+            )
+        =
+          ℓ
+            (
+            k
+            −
+            1
+            )
+        −
+            1
+            2
+          (
+                    y
+                  ~
+              k
+              T
+              S
+              k
+              −
+              1
+                    y
+                  ~
+              k
+          +
+          log
+          ⁡
+            |
+                S
+                k
+            |
+          +
+            d
+              y
+          log
+          ⁡
+          2
+          π
+          )
+        ,
+    {\displaystyle \ell ^{(k)}=\ell ^{(k-1)}-{\frac {1}{2}}\left({\tilde {\mathbf {y} }}_{k}^{T}\mathbf {S} _{k}^{-1}{\tilde {\mathbf {y} }}_{k}+\log \left|\mathbf {S} _{k}\right|+d_{y}\log 2\pi \right),}
+where 
+          d
+            y
+    {\displaystyle d_{y}}
+   is the dimension of the measurement vector. 
+An important application where such a (log) likelihood of the observations (given the filter parameters) is used is multi-target tracking. For example, consider an object tracking scenario where a stream of observations is the input, however, it is unknown how many objects are in the scene (or, the number of objects is known but is greater than one). In such a scenario, it can be unknown apriori which observations/measurements were generated by which object. A multiple hypothesis tracker (MHT) typically will form different track association hypotheses, where each hypothesis can be viewed as a Kalman filter (in the linear Gaussian case) with a specific set of parameters associated with the hypothesized object. Thus, it is important to compute the likelihood of the observations for the different hypotheses under consideration, such that the most-likely one can be found.
+In the information filter, or inverse covariance filter, the estimated covariance and estimated state are replaced by the information matrix and information vector respectively. These are defined as:
+              Y
+            k
+            ∣
+            k
+        =
+              P
+            k
+            ∣
+            k
+            −
+            1
+    {\displaystyle {\textbf {Y}}_{k\mid k}={\textbf {P}}_{k\mid k}^{-1}}
+                  y
+                ^
+            k
+            ∣
+            k
+        =
+              P
+            k
+            ∣
+            k
+            −
+            1
+                  x
+                ^
+            k
+            ∣
+            k
+    {\displaystyle {\hat {\textbf {y}}}_{k\mid k}={\textbf {P}}_{k\mid k}^{-1}{\hat {\textbf {x}}}_{k\mid k}}
+Similarly the predicted covariance and state have equivalent information forms, defined as:
+              Y
+            k
+            ∣
+            k
+            −
+            1
+        =
+              P
+            k
+            ∣
+            k
+            −
+            1
+            −
+            1
+    {\displaystyle {\textbf {Y}}_{k\mid k-1}={\textbf {P}}_{k\mid k-1}^{-1}}
+                  y
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        =
+              P
+            k
+            ∣
+            k
+            −
+            1
+            −
+            1
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+    {\displaystyle {\hat {\textbf {y}}}_{k\mid k-1}={\textbf {P}}_{k\mid k-1}^{-1}{\hat {\textbf {x}}}_{k\mid k-1}}
+as have the measurement covariance and measurement vector, which are defined as:
+              I
+            k
+        =
+              H
+            k
+            T
+              R
+            k
+            −
+            1
+              H
+            k
+    {\displaystyle {\textbf {I}}_{k}={\textbf {H}}_{k}^{\text{T}}{\textbf {R}}_{k}^{-1}{\textbf {H}}_{k}}
+              i
+            k
+        =
+              H
+            k
+            T
+              R
+            k
+            −
+            1
+              z
+            k
+    {\displaystyle {\textbf {i}}_{k}={\textbf {H}}_{k}^{\text{T}}{\textbf {R}}_{k}^{-1}{\textbf {z}}_{k}}
+The information update now becomes a trivial sum.
+              Y
+            k
+            ∣
+            k
+        =
+              Y
+            k
+            ∣
+            k
+            −
+            1
+        +
+              I
+            k
+    {\displaystyle {\textbf {Y}}_{k\mid k}={\textbf {Y}}_{k\mid k-1}+{\textbf {I}}_{k}}
+                  y
+                ^
+            k
+            ∣
+            k
+        =
+                  y
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+              i
+            k
+    {\displaystyle {\hat {\textbf {y}}}_{k\mid k}={\hat {\textbf {y}}}_{k\mid k-1}+{\textbf {i}}_{k}}
+The main advantage of the information filter is that N measurements can be filtered at each timestep simply by summing their information matrices and vectors.
+              Y
+            k
+            ∣
+            k
+        =
+              Y
+            k
+            ∣
+            k
+            −
+            1
+        +
+          ∑
+            j
+            =
+            1
+            N
+              I
+            k
+            ,
+            j
+    {\displaystyle {\textbf {Y}}_{k\mid k}={\textbf {Y}}_{k\mid k-1}+\sum _{j=1}^{N}{\textbf {I}}_{k,j}}
+                  y
+                ^
+            k
+            ∣
+            k
+        =
+                  y
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+          ∑
+            j
+            =
+            1
+            N
+              i
+            k
+            ,
+            j
+    {\displaystyle {\hat {\textbf {y}}}_{k\mid k}={\hat {\textbf {y}}}_{k\mid k-1}+\sum _{j=1}^{N}{\textbf {i}}_{k,j}}
+To predict the information filter the information matrix and vector can be converted back to their state space equivalents, or alternatively the information space prediction can be used.
+              M
+            k
+        =
+        [
+              F
+            k
+            −
+            1
+          ]
+            T
+              Y
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+              F
+            k
+            −
+            1
+    {\displaystyle {\textbf {M}}_{k}=[{\textbf {F}}_{k}^{-1}]^{\text{T}}{\textbf {Y}}_{k-1\mid k-1}{\textbf {F}}_{k}^{-1}}
+              C
+            k
+        =
+              M
+            k
+        [
+              M
+            k
+        +
+              Q
+            k
+            −
+            1
+          ]
+            −
+            1
+    {\displaystyle {\textbf {C}}_{k}={\textbf {M}}_{k}[{\textbf {M}}_{k}+{\textbf {Q}}_{k}^{-1}]^{-1}}
+              L
+            k
+        =
+        I
+        −
+              C
+            k
+    {\displaystyle {\textbf {L}}_{k}=I-{\textbf {C}}_{k}}
+              Y
+            k
+            ∣
+            k
+            −
+            1
+        =
+              L
+            k
+              M
+            k
+              L
+            k
+            T
+        +
+              C
+            k
+              Q
+            k
+            −
+            1
+              C
+            k
+            T
+    {\displaystyle {\textbf {Y}}_{k\mid k-1}={\textbf {L}}_{k}{\textbf {M}}_{k}{\textbf {L}}_{k}^{\text{T}}+{\textbf {C}}_{k}{\textbf {Q}}_{k}^{-1}{\textbf {C}}_{k}^{\text{T}}}
+                  y
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        =
+              L
+            k
+        [
+              F
+            k
+            −
+            1
+          ]
+            T
+                  y
+                ^
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+    {\displaystyle {\hat {\textbf {y}}}_{k\mid k-1}={\textbf {L}}_{k}[{\textbf {F}}_{k}^{-1}]^{\text{T}}{\hat {\textbf {y}}}_{k-1\mid k-1}}
+Note that if F and Q are time invariant these values can be cached. Note also that F and Q need to be invertible.
+The optimal fixed-lag smoother provides the optimal estimate of 
+                  x
+                ^
+            k
+            −
+            N
+            ∣
+            k
+    {\displaystyle {\hat {\textbf {x}}}_{k-N\mid k}}
+   for a given fixed-lag 
+        N
+    {\displaystyle N}
+   using the measurements from 
+              z
+            1
+    {\displaystyle {\textbf {z}}_{1}}
+   to 
+              z
+            k
+    {\displaystyle {\textbf {z}}_{k}}
+  . It can be derived using the previous theory via an augmented state, and the main equation of the filter is the following:
+            [
+                            x
+                          ^
+                      t
+                      ∣
+                      t
+                            x
+                          ^
+                      t
+                      −
+                      1
+                      ∣
+                      t
+                  ⋮
+                            x
+                          ^
+                      t
+                      −
+                      N
+                      +
+                      1
+                      ∣
+                      t
+            ]
+        =
+            [
+                      I
+                  0
+                  ⋮
+                  0
+            ]
+                  x
+                ^
+            t
+            ∣
+            t
+            −
+            1
+        +
+            [
+                  0
+                  …
+                  0
+                      I
+                  0
+                  ⋮
+                  ⋮
+                  ⋱
+                  ⋮
+                  0
+                  …
+                  I
+            ]
+            [
+                            x
+                          ^
+                      t
+                      −
+                      1
+                      ∣
+                      t
+                      −
+                      1
+                            x
+                          ^
+                      t
+                      −
+                      2
+                      ∣
+                      t
+                      −
+                      1
+                  ⋮
+                            x
+                          ^
+                      t
+                      −
+                      N
+                      +
+                      1
+                      ∣
+                      t
+                      −
+                      1
+            ]
+        +
+            [
+                        K
+                      (
+                      0
+                      )
+                        K
+                      (
+                      1
+                      )
+                  ⋮
+                        K
+                      (
+                      N
+                      −
+                      1
+                      )
+            ]
+              y
+            t
+            ∣
+            t
+            −
+            1
+    {\displaystyle {\begin{bmatrix}{\hat {\textbf {x}}}_{t\mid t}\\{\hat {\textbf {x}}}_{t-1\mid t}\\\vdots \\{\hat {\textbf {x}}}_{t-N+1\mid t}\\\end{bmatrix}}={\begin{bmatrix}{\textbf {I}}\\0\\\vdots \\0\\\end{bmatrix}}{\hat {\textbf {x}}}_{t\mid t-1}+{\begin{bmatrix}0&\ldots &0\\{\textbf {I}}&0&\vdots \\\vdots &\ddots &\vdots \\0&\ldots &I\\\end{bmatrix}}{\begin{bmatrix}{\hat {\textbf {x}}}_{t-1\mid t-1}\\{\hat {\textbf {x}}}_{t-2\mid t-1}\\\vdots \\{\hat {\textbf {x}}}_{t-N+1\mid t-1}\\\end{bmatrix}}+{\begin{bmatrix}{\textbf {K}}^{(0)}\\{\textbf {K}}^{(1)}\\\vdots \\{\textbf {K}}^{(N-1)}\\\end{bmatrix}}{\textbf {y}}_{t\mid t-1}}
+where:
+                  x
+                ^
+            t
+            ∣
+            t
+            −
+            1
+    {\displaystyle {\hat {\textbf {x}}}_{t\mid t-1}}
+   is estimated via a standard Kalman filter;
+              y
+            t
+            ∣
+            t
+            −
+            1
+        =
+              z
+            t
+        −
+            H
+                  x
+                ^
+            t
+            ∣
+            t
+            −
+            1
+    {\displaystyle {\textbf {y}}_{t\mid t-1}={\textbf {z}}_{t}-{\textbf {H}}{\hat {\textbf {x}}}_{t\mid t-1}}
+   is the innovation produced considering the estimate of the standard Kalman filter;
+the various 
+                  x
+                ^
+            t
+            −
+            i
+            ∣
+            t
+    {\displaystyle {\hat {\textbf {x}}}_{t-i\mid t}}
+   with 
+        i
+        =
+        1
+        ,
+        …
+        ,
+        N
+        −
+        1
+    {\displaystyle i=1,\ldots ,N-1}
+   are new variables, i.e. they do not appear in the standard Kalman filter;
+the gains are computed via the following scheme:
+              K
+            (
+            i
+            )
+        =
+              P
+            (
+            i
+            )
+              H
+            T
+            [
+                H
+                P
+                  H
+                  T
+            +
+                R
+            ]
+            −
+            1
+    {\displaystyle {\textbf {K}}^{(i)}={\textbf {P}}^{(i)}{\textbf {H}}^{T}\left[{\textbf {H}}{\textbf {P}}{\textbf {H}}^{\mathrm {T} }+{\textbf {R}}\right]^{-1}}
+and
+              P
+            (
+            i
+            )
+        =
+            P
+            [
+                [
+                    F
+                −
+                    K
+                    H
+                ]
+                T
+            ]
+            i
+    {\displaystyle {\textbf {P}}^{(i)}={\textbf {P}}\left[\left[{\textbf {F}}-{\textbf {K}}{\textbf {H}}\right]^{T}\right]^{i}}
+where 
+            P
+    {\displaystyle {\textbf {P}}}
+   and 
+            K
+    {\displaystyle {\textbf {K}}}
+   are the prediction error covariance and the gains of the standard Kalman filter (i.e., 
+              P
+            t
+            ∣
+            t
+            −
+            1
+    {\displaystyle {\textbf {P}}_{t\mid t-1}}
+  ).
+If the estimation error covariance is defined so that
+              P
+            i
+        :=
+        E
+          [
+              (
+                    x
+                  t
+                  −
+                  i
+              −
+                        x
+                      ^
+                  t
+                  −
+                  i
+                  ∣
+                  t
+              )
+              ∗
+            (
+                  x
+                t
+                −
+                i
+            −
+                      x
+                    ^
+                t
+                −
+                i
+                ∣
+                t
+            )
+          ∣
+            z
+              1
+          …
+            z
+              t
+          ]
+        ,
+    {\displaystyle {\textbf {P}}_{i}:=E\left[\left({\textbf {x}}_{t-i}-{\hat {\textbf {x}}}_{t-i\mid t}\right)^{*}\left({\textbf {x}}_{t-i}-{\hat {\textbf {x}}}_{t-i\mid t}\right)\mid z_{1}\ldots z_{t}\right],}
+then we have that the improvement on the estimation of 
+              x
+            t
+            −
+            i
+    {\displaystyle {\textbf {x}}_{t-i}}
+   is given by:
+            P
+        −
+              P
+            i
+        =
+          ∑
+            j
+            =
+            0
+            i
+          [
+                P
+              (
+              j
+              )
+                H
+              T
+              [
+                  H
+                  P
+                    H
+                    T
+              +
+                  R
+              ]
+              −
+              1
+              H
+              (
+                    P
+                  (
+                  i
+                  )
+              )
+                T
+          ]
+    {\displaystyle {\textbf {P}}-{\textbf {P}}_{i}=\sum _{j=0}^{i}\left[{\textbf {P}}^{(j)}{\textbf {H}}^{T}\left[{\textbf {H}}{\textbf {P}}{\textbf {H}}^{\mathrm {T} }+{\textbf {R}}\right]^{-1}{\textbf {H}}\left({\textbf {P}}^{(i)}\right)^{\mathrm {T} }\right]}
+The optimal fixed-interval smoother provides the optimal estimate of 
+                  x
+                ^
+            k
+            ∣
+            n
+    {\displaystyle {\hat {\textbf {x}}}_{k\mid n}}
+   (
+        k
+        <
+        n
+    {\displaystyle k<n}
+  ) using the measurements from a fixed interval 
+              z
+            1
+    {\displaystyle {\textbf {z}}_{1}}
+   to 
+              z
+            n
+    {\displaystyle {\textbf {z}}_{n}}
+  . This is also called "Kalman Smoothing". There are several smoothing algorithms in common use.
+The Rauch–Tung–Striebel (RTS) smoother is an efficient two-pass algorithm for fixed interval smoothing.
+The forward pass is the same as the regular Kalman filter algorithm. These filtered a-priori and a-posteriori state estimates 
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+    {\displaystyle {\hat {\textbf {x}}}_{k\mid k-1}}
+  , 
+                  x
+                ^
+            k
+            ∣
+            k
+    {\displaystyle {\hat {\textbf {x}}}_{k\mid k}}
+   and covariances 
+              P
+            k
+            ∣
+            k
+            −
+            1
+    {\displaystyle {\textbf {P}}_{k\mid k-1}}
+  , 
+              P
+            k
+            ∣
+            k
+    {\displaystyle {\textbf {P}}_{k\mid k}}
+   are saved for use in the backwards pass.
+In the backwards pass, we compute the smoothed state estimates 
+                  x
+                ^
+            k
+            ∣
+            n
+    {\displaystyle {\hat {\textbf {x}}}_{k\mid n}}
+   and covariances 
+              P
+            k
+            ∣
+            n
+    {\displaystyle {\textbf {P}}_{k\mid n}}
+  . We start at the last time step and proceed backwards in time using the following recursive equations:
+                  x
+                ^
+            k
+            ∣
+            n
+        =
+                  x
+                ^
+            k
+            ∣
+            k
+        +
+              C
+            k
+        (
+                  x
+                ^
+            k
+            +
+            1
+            ∣
+            n
+        −
+                  x
+                ^
+            k
+            +
+            1
+            ∣
+            k
+        )
+    {\displaystyle {\hat {\textbf {x}}}_{k\mid n}={\hat {\textbf {x}}}_{k\mid k}+{\textbf {C}}_{k}({\hat {\textbf {x}}}_{k+1\mid n}-{\hat {\textbf {x}}}_{k+1\mid k})}
+              P
+            k
+            ∣
+            n
+        =
+              P
+            k
+            ∣
+            k
+        +
+              C
+            k
+        (
+              P
+            k
+            +
+            1
+            ∣
+            n
+        −
+              P
+            k
+            +
+            1
+            ∣
+            k
+        )
+              C
+            k
+              T
+    {\displaystyle {\textbf {P}}_{k\mid n}={\textbf {P}}_{k\mid k}+{\textbf {C}}_{k}({\textbf {P}}_{k+1\mid n}-{\textbf {P}}_{k+1\mid k}){\textbf {C}}_{k}^{\mathrm {T} }}
+where
+              C
+            k
+        =
+              P
+            k
+            ∣
+            k
+              F
+            k
+            +
+            1
+              T
+              P
+            k
+            +
+            1
+            ∣
+            k
+            −
+            1
+    {\displaystyle {\textbf {C}}_{k}={\textbf {P}}_{k\mid k}{\textbf {F}}_{k+1}^{\mathrm {T} }{\textbf {P}}_{k+1\mid k}^{-1}}
+  .
+Note that 
+              x
+            k
+            ∣
+            k
+    {\displaystyle {\textbf {x}}_{k\mid k}}
+   is the a-posteriori state estimate of timestep 
+        k
+    {\displaystyle k}
+   and 
+            x
+            k
+            +
+            1
+            ∣
+            k
+    {\displaystyle \mathbf {x} _{k+1\mid k}}
+   is the a-priori state estimate of timestep 
+        k
+        +
+        1
+    {\displaystyle k+1}
+  . The same notation applies to the covariance.
+An alternative to the RTS algorithm is the modified Bryson–Frazier (MBF) fixed interval smoother developed by Bierman. This also uses a backward pass that processes data saved from the Kalman filter forward pass. The equations for the backward pass involve the recursive computation of data which are used at each observation time to compute the smoothed state and covariance.
+The recursive equations are
+                Λ
+                ~
+            k
+        =
+              H
+            k
+            T
+              S
+            k
+            −
+            1
+              H
+            k
+        +
+                  C
+                ^
+            k
+            T
+                Λ
+                ^
+            k
+                  C
+                ^
+            k
+    {\displaystyle {\tilde {\Lambda }}_{k}={\textbf {H}}_{k}^{T}{\textbf {S}}_{k}^{-1}{\textbf {H}}_{k}+{\hat {\textbf {C}}}_{k}^{T}{\hat {\Lambda }}_{k}{\hat {\textbf {C}}}_{k}}
+                Λ
+                ^
+            k
+            −
+            1
+        =
+              F
+            k
+            T
+                Λ
+                ~
+            k
+              F
+            k
+    {\displaystyle {\hat {\Lambda }}_{k-1}={\textbf {F}}_{k}^{T}{\tilde {\Lambda }}_{k}{\textbf {F}}_{k}}
+                Λ
+                ^
+            n
+        =
+        0
+    {\displaystyle {\hat {\Lambda }}_{n}=0}
+                λ
+                ~
+            k
+        =
+        −
+              H
+            k
+            T
+              S
+            k
+            −
+            1
+              y
+            k
+        +
+                  C
+                ^
+            k
+            T
+                λ
+                ^
+            k
+    {\displaystyle {\tilde {\lambda }}_{k}=-{\textbf {H}}_{k}^{T}{\textbf {S}}_{k}^{-1}{\textbf {y}}_{k}+{\hat {\textbf {C}}}_{k}^{T}{\hat {\lambda }}_{k}}
+                λ
+                ^
+            k
+            −
+            1
+        =
+              F
+            k
+            T
+                λ
+                ~
+            k
+    {\displaystyle {\hat {\lambda }}_{k-1}={\textbf {F}}_{k}^{T}{\tilde {\lambda }}_{k}}
+                λ
+                ^
+            n
+        =
+        0
+    {\displaystyle {\hat {\lambda }}_{n}=0}
+where 
+              S
+            k
+    {\displaystyle {\textbf {S}}_{k}}
+   is the residual covariance and 
+                  C
+                ^
+            k
+        =
+            I
+        −
+              K
+            k
+              H
+            k
+    {\displaystyle {\hat {\textbf {C}}}_{k}={\textbf {I}}-{\textbf {K}}_{k}{\textbf {H}}_{k}}
+  . The smoothed state and covariance can then be found by substitution in the equations
+              P
+            k
+            ∣
+            n
+        =
+              P
+            k
+            ∣
+            k
+        −
+              P
+            k
+            ∣
+            k
+                Λ
+                ^
+            k
+              P
+            k
+            ∣
+            k
+    {\displaystyle {\textbf {P}}_{k\mid n}={\textbf {P}}_{k\mid k}-{\textbf {P}}_{k\mid k}{\hat {\Lambda }}_{k}{\textbf {P}}_{k\mid k}}
+              x
+            k
+            ∣
+            n
+        =
+              x
+            k
+            ∣
+            k
+        −
+              P
+            k
+            ∣
+            k
+                λ
+                ^
+            k
+    {\displaystyle {\textbf {x}}_{k\mid n}={\textbf {x}}_{k\mid k}-{\textbf {P}}_{k\mid k}{\hat {\lambda }}_{k}}
+or
+              P
+            k
+            ∣
+            n
+        =
+              P
+            k
+            ∣
+            k
+            −
+            1
+        −
+              P
+            k
+            ∣
+            k
+            −
+            1
+                Λ
+                ~
+            k
+              P
+            k
+            ∣
+            k
+            −
+            1
+    {\displaystyle {\textbf {P}}_{k\mid n}={\textbf {P}}_{k\mid k-1}-{\textbf {P}}_{k\mid k-1}{\tilde {\Lambda }}_{k}{\textbf {P}}_{k\mid k-1}}
+              x
+            k
+            ∣
+            n
+        =
+              x
+            k
+            ∣
+            k
+            −
+            1
+        −
+              P
+            k
+            ∣
+            k
+            −
+            1
+                λ
+                ~
+            k
+        .
+    {\displaystyle {\textbf {x}}_{k\mid n}={\textbf {x}}_{k\mid k-1}-{\textbf {P}}_{k\mid k-1}{\tilde {\lambda }}_{k}.}
+An important advantage of the MBF is that it does not require finding the inverse of the covariance matrix.
+The minimum-variance smoother can attain the best-possible error performance, provided that the models are linear, their parameters and the noise statistics are known precisely. This smoother is a time-varying state-space generalization of the optimal non-causal Wiener filter.
+The smoother calculations are done in two passes. The forward calculations involve a one-step-ahead predictor and are given by
+                  x
+                ^
+            k
+            +
+            1
+            ∣
+            k
+        =
+              (F
+            k
+        −
+              K
+            k
+              H
+            k
+        )
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+              K
+            k
+              z
+            k
+    {\displaystyle {\hat {\textbf {x}}}_{k+1\mid k}={\textbf {(F}}_{k}-{\textbf {K}}_{k}{\textbf {H}}_{k}){\hat {\textbf {x}}}_{k\mid k-1}+{\textbf {K}}_{k}{\textbf {z}}_{k}}
+            α
+            k
+        =
+        −
+              S
+            k
+            −
+            1
+              /
+            2
+              H
+            k
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+              S
+            k
+            −
+            1
+              /
+            2
+              z
+            k
+    {\displaystyle {\alpha }_{k}=-{\textbf {S}}_{k}^{-1/2}{\textbf {H}}_{k}{\hat {\textbf {x}}}_{k\mid k-1}+{\textbf {S}}_{k}^{-1/2}{\textbf {z}}_{k}}
+The above system is known as the inverse Wiener-Hopf factor. The backward recursion is the adjoint of the above forward system. The result of the backward pass 
+          β
+            k
+    {\displaystyle \beta _{k}}
+   may be calculated by operating the forward equations on the time-reversed 
+          α
+            k
+    {\displaystyle \alpha _{k}}
+   and time reversing the result. In the case of output estimation, the smoothed estimate is given by
+                  y
+                ^
+            k
+            ∣
+            N
+        =
+              z
+            k
+        −
+              R
+            k
+          β
+            k
+    {\displaystyle {\hat {\textbf {y}}}_{k\mid N}={\textbf {z}}_{k}-{\textbf {R}}_{k}\beta _{k}}
+Taking the causal part of this minimum-variance smoother yields
+                  y
+                ^
+            k
+            ∣
+            k
+        =
+              z
+            k
+        −
+              R
+            k
+              S
+            k
+            −
+            1
+              /
+            2
+          α
+            k
+    {\displaystyle {\hat {\textbf {y}}}_{k\mid k}={\textbf {z}}_{k}-{\textbf {R}}_{k}{\textbf {S}}_{k}^{-1/2}\alpha _{k}}
+which is identical to the minimum-variance Kalman filter. The above solutions minimize the variance of the output estimation error. Note that the Rauch–Tung–Striebel smoother derivation assumes that the underlying distributions are Gaussian, whereas the minimum-variance solutions do not. Optimal smoothers for state estimation and input estimation can be constructed similarly.
+A continuous-time version of the above smoother is described in.
+Expectation-maximization algorithms may be employed to calculate approximate maximum likelihood estimates of unknown state-space parameters within minimum-variance filters and smoothers. Often uncertainties remain within problem assumptions. A smoother that accommodates uncertainties can be designed by adding a positive definite term to the Riccati equation.
+In cases where the models are nonlinear, step-wise linearizations may be within the minimum-variance filter and smoother recursions (extended Kalman filtering).
+Pioneering research on the perception of sounds at different frequencies was conducted by Fletcher and Munson in the 1930s. Their work led to a standard way of weighting measured sound levels within investigations of industrial noise and hearing loss. Frequency weightings have since been used within filter and controller designs to manage performance within bands of interest.
+Typically, a frequency shaping function is used to weight the average power of the error spectral density in a specified frequency band. Let 
+            y
+    {\displaystyle {\textbf {y}}}
+   - 
+                y
+              ^
+    {\displaystyle {\hat {\textbf {y}}}}
+   denote the output estimation error exhibited by a conventional Kalman filter. Also, let 
+            W
+    {\displaystyle {\textbf {W}}}
+   denote a causal frequency weighting transfer function. The optimum solution which minimizes the variance of 
+            W
+    {\displaystyle {\textbf {W}}}
+   ( 
+            y
+    {\displaystyle {\textbf {y}}}
+   - 
+                y
+              ^
+    {\displaystyle {\hat {\textbf {y}}}}
+   ) arises by simply constructing 
+              W
+            −
+            1
+                y
+              ^
+    {\displaystyle {\textbf {W}}^{-1}{\hat {\textbf {y}}}}
+  .
+The design of 
+            W
+    {\displaystyle {\textbf {W}}}
+   remains an open question. One way of proceeding is to identify a system which generates the estimation error and setting 
+            W
+    {\displaystyle {\textbf {W}}}
+   equal to the inverse of that system. This procedure may be iterated to obtain mean-square error improvement at the cost of increased filter order. The same technique can be applied to smoothers.
+The basic Kalman filter is limited to a linear assumption. More complex systems, however, can be nonlinear. The non-linearity can be associated either with the process model or with the observation model or with both.
+In the extended Kalman filter (EKF), the state transition and observation models need not be linear functions of the state but may instead be non-linear functions. These functions are of differentiable type.
+              x
+            k
+        =
+        f
+        (
+              x
+            k
+            −
+            1
+        ,
+              u
+            k
+        )
+        +
+              w
+            k
+    {\displaystyle {\textbf {x}}_{k}=f({\textbf {x}}_{k-1},{\textbf {u}}_{k})+{\textbf {w}}_{k}}
+              z
+            k
+        =
+        h
+        (
+              x
+            k
+        )
+        +
+              v
+            k
+    {\displaystyle {\textbf {z}}_{k}=h({\textbf {x}}_{k})+{\textbf {v}}_{k}}
+The function f can be used to compute the predicted state from the previous estimate and similarly the function h can be used to compute the predicted measurement from the predicted state. However, f and h cannot be applied to the covariance directly. Instead a matrix of partial derivatives (the Jacobian) is computed.
+At each timestep the Jacobian is evaluated with current predicted states. These matrices can be used in the Kalman filter equations. This process essentially linearizes the non-linear function around the current estimate.
+When the state transition and observation models—that is, the predict and update functions 
+        f
+    {\displaystyle f}
+   and 
+        h
+    {\displaystyle h}
+  —are highly non-linear, the extended Kalman filter can give particularly poor performance. This is because the covariance is propagated through linearization of the underlying non-linear model. The unscented Kalman filter (UKF)  uses a deterministic sampling technique known as the unscented transform to pick a minimal set of sample points (called sigma points) around the mean. These sigma points are then propagated through the non-linear functions, from which a new mean and covariance estimate are then formed. The result is a filter which, for certain systems, more accurately estimates the true mean and covariance. This can be verified with Monte Carlo sampling or Taylor series expansion of the posterior statistics. In addition, this technique removes the requirement to explicitly calculate Jacobians, which for complex functions can be a difficult task in itself (i.e., requiring complicated derivatives if done analytically or being computationally costly if done numerically), if not impossible (if those functions are not differentiable).
+Predict
+As with the EKF, the UKF prediction can be used independently from the UKF update, in combination with a linear (or indeed EKF) update, or vice versa.
+The estimated state and covariance are augmented with the mean and covariance of the process noise.
+              x
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            a
+        =
+        [
+                  x
+                ^
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+              T
+        E
+        [
+              w
+            k
+              T
+        ]
+          ]
+              T
+    {\displaystyle {\textbf {x}}_{k-1\mid k-1}^{a}=[{\hat {\textbf {x}}}_{k-1\mid k-1}^{\mathrm {T} }\quad E[{\textbf {w}}_{k}^{\mathrm {T} }]\ ]^{\mathrm {T} }}
+              P
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            a
+        =
+            [
+                        P
+                      k
+                      −
+                      1
+                      ∣
+                      k
+                      −
+                      1
+                  0
+                  0
+                        Q
+                      k
+            ]
+    {\displaystyle {\textbf {P}}_{k-1\mid k-1}^{a}={\begin{bmatrix}&{\textbf {P}}_{k-1\mid k-1}&&0&\\&0&&{\textbf {Q}}_{k}&\end{bmatrix}}}
+A set of 2L + 1 sigma points is derived from the augmented state and covariance where L is the dimension of the augmented state.
+          χ
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            0
+        =
+              x
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            a
+    {\displaystyle \chi _{k-1\mid k-1}^{0}={\textbf {x}}_{k-1\mid k-1}^{a}}
+          χ
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            i
+        =
+              x
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            a
+        +
+            (
+                (
+                L
+                +
+                λ
+                )
+                      P
+                    k
+                    −
+                    1
+                    ∣
+                    k
+                    −
+                    1
+                    a
+            )
+            i
+        ,
+        i
+        =
+        1
+        ,
+        …
+        ,
+        L
+    {\displaystyle \chi _{k-1\mid k-1}^{i}={\textbf {x}}_{k-1\mid k-1}^{a}+\left({\sqrt {(L+\lambda ){\textbf {P}}_{k-1\mid k-1}^{a}}}\right)_{i},\qquad i=1,\ldots ,L}
+          χ
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            i
+        =
+              x
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            a
+        −
+            (
+                (
+                L
+                +
+                λ
+                )
+                      P
+                    k
+                    −
+                    1
+                    ∣
+                    k
+                    −
+                    1
+                    a
+            )
+            i
+            −
+            L
+        ,
+        i
+        =
+        L
+        +
+        1
+        ,
+        …
+        ,
+        2
+        L
+    {\displaystyle \chi _{k-1\mid k-1}^{i}={\textbf {x}}_{k-1\mid k-1}^{a}-\left({\sqrt {(L+\lambda ){\textbf {P}}_{k-1\mid k-1}^{a}}}\right)_{i-L},\qquad i=L+1,\dots {},2L}
+where
+            (
+                (
+                L
+                +
+                λ
+                )
+                      P
+                    k
+                    −
+                    1
+                    ∣
+                    k
+                    −
+                    1
+                    a
+            )
+            i
+    {\displaystyle \left({\sqrt {(L+\lambda ){\textbf {P}}_{k-1\mid k-1}^{a}}}\right)_{i}}
+is the ith column of the matrix square root of
+        (
+        L
+        +
+        λ
+        )
+              P
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            a
+    {\displaystyle (L+\lambda ){\textbf {P}}_{k-1\mid k-1}^{a}}
+using the definition: square root 
+            A
+    {\displaystyle {\textbf {A}}}
+   of matrix 
+            B
+    {\displaystyle {\textbf {B}}}
+   satisfies
+            B
+        ≜
+            A
+              A
+              T
+        .
+    {\displaystyle {\textbf {B}}\triangleq {\textbf {A}}{\textbf {A}}^{\mathrm {T} }.\,}
+The matrix square root should be calculated using numerically efficient and stable methods such as the Cholesky decomposition.
+The sigma points are propagated through the transition function f.
+          χ
+            k
+            ∣
+            k
+            −
+            1
+            i
+        =
+        f
+        (
+          χ
+            k
+            −
+            1
+            ∣
+            k
+            −
+            1
+            i
+        )
+        i
+        =
+        0
+        ,
+        …
+        ,
+        2
+        L
+    {\displaystyle \chi _{k\mid k-1}^{i}=f(\chi _{k-1\mid k-1}^{i})\quad i=0,\dots ,2L}
+where 
+        f
+        :
+          R
+            L
+        →
+          R
+              |
+                x
+              |
+    {\displaystyle f:R^{L}\rightarrow R^{|{\textbf {x}}|}}
+  . The weighted sigma points are recombined to produce the predicted state and covariance.
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        =
+          ∑
+            i
+            =
+            0
+            2
+            L
+          W
+            s
+            i
+          χ
+            k
+            ∣
+            k
+            −
+            1
+            i
+    {\displaystyle {\hat {\textbf {x}}}_{k\mid k-1}=\sum _{i=0}^{2L}W_{s}^{i}\chi _{k\mid k-1}^{i}}
+              P
+            k
+            ∣
+            k
+            −
+            1
+        =
+          ∑
+            i
+            =
+            0
+            2
+            L
+          W
+            c
+            i
+        [
+          χ
+            k
+            ∣
+            k
+            −
+            1
+            i
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        ]
+        [
+          χ
+            k
+            ∣
+            k
+            −
+            1
+            i
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+          ]
+              T
+    {\displaystyle {\textbf {P}}_{k\mid k-1}=\sum _{i=0}^{2L}W_{c}^{i}\ [\chi _{k\mid k-1}^{i}-{\hat {\textbf {x}}}_{k\mid k-1}][\chi _{k\mid k-1}^{i}-{\hat {\textbf {x}}}_{k\mid k-1}]^{\mathrm {T} }}
+where the weights for the state and covariance are given by:
+          W
+            s
+            0
+        =
+            λ
+              L
+              +
+              λ
+    {\displaystyle W_{s}^{0}={\frac {\lambda }{L+\lambda }}}
+          W
+            c
+            0
+        =
+            λ
+              L
+              +
+              λ
+        +
+        (
+        1
+        −
+          α
+            2
+        +
+        β
+        )
+    {\displaystyle W_{c}^{0}={\frac {\lambda }{L+\lambda }}+(1-\alpha ^{2}+\beta )}
+          W
+            s
+            i
+        =
+          W
+            c
+            i
+        =
+            1
+              2
+              (
+              L
+              +
+              λ
+              )
+    {\displaystyle W_{s}^{i}=W_{c}^{i}={\frac {1}{2(L+\lambda )}}}
+        λ
+        =
+          α
+            2
+        (
+        L
+        +
+        κ
+        )
+        −
+        L
+    {\displaystyle \lambda =\alpha ^{2}(L+\kappa )-L\,\!}
+        α
+    {\displaystyle \alpha }
+   and 
+        κ
+    {\displaystyle \kappa }
+   control the spread of the sigma points. 
+        β
+    {\displaystyle \beta }
+   is related to the distribution of 
+        x
+    {\displaystyle x}
+  . Normal values are 
+        α
+        =
+          10
+            −
+            3
+    {\displaystyle \alpha =10^{-3}}
+  , 
+        κ
+        =
+        0
+    {\displaystyle \kappa =0}
+   and 
+        β
+        =
+        2
+    {\displaystyle \beta =2}
+  . If the true distribution of 
+        x
+    {\displaystyle x}
+   is Gaussian, 
+        β
+        =
+        2
+    {\displaystyle \beta =2}
+   is optimal.
+Update
+The predicted state and covariance are augmented as before, except now with the mean and covariance of the measurement noise.
+              x
+            k
+            ∣
+            k
+            −
+            1
+            a
+        =
+        [
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+              T
+        E
+        [
+              v
+            k
+              T
+        ]
+          ]
+              T
+    {\displaystyle {\textbf {x}}_{k\mid k-1}^{a}=[{\hat {\textbf {x}}}_{k\mid k-1}^{\mathrm {T} }\quad E[{\textbf {v}}_{k}^{\mathrm {T} }]\ ]^{\mathrm {T} }}
+              P
+            k
+            ∣
+            k
+            −
+            1
+            a
+        =
+            [
+                        P
+                      k
+                      ∣
+                      k
+                      −
+                      1
+                  0
+                  0
+                        R
+                      k
+            ]
+    {\displaystyle {\textbf {P}}_{k\mid k-1}^{a}={\begin{bmatrix}&{\textbf {P}}_{k\mid k-1}&&0&\\&0&&{\textbf {R}}_{k}&\end{bmatrix}}}
+As before, a set of 2L + 1 sigma points is derived from the augmented state and covariance where L is the dimension of the augmented state.
+                  χ
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    0
+                =
+                      x
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    a
+                  χ
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    i
+                =
+                      x
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    a
+                +
+                    (
+                        (
+                        L
+                        +
+                        λ
+                        )
+                              P
+                            k
+                            ∣
+                            k
+                            −
+                            1
+                            a
+                    )
+                    i
+                ,
+                i
+                =
+                1
+                ,
+                …
+                ,
+                L
+                  χ
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    i
+                =
+                      x
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                    a
+                −
+                    (
+                        (
+                        L
+                        +
+                        λ
+                        )
+                              P
+                            k
+                            ∣
+                            k
+                            −
+                            1
+                            a
+                    )
+                    i
+                    −
+                    L
+                ,
+                i
+                =
+                L
+                +
+                1
+                ,
+                …
+                ,
+                2
+                L
+    {\displaystyle {\begin{aligned}\chi _{k\mid k-1}^{0}&={\textbf {x}}_{k\mid k-1}^{a}\\[6pt]\chi _{k\mid k-1}^{i}&={\textbf {x}}_{k\mid k-1}^{a}+\left({\sqrt {(L+\lambda ){\textbf {P}}_{k\mid k-1}^{a}}}\right)_{i},\qquad i=1,\dots ,L\\[6pt]\chi _{k\mid k-1}^{i}&={\textbf {x}}_{k\mid k-1}^{a}-\left({\sqrt {(L+\lambda ){\textbf {P}}_{k\mid k-1}^{a}}}\right)_{i-L},\qquad i=L+1,\dots ,2L\end{aligned}}}
+Alternatively if the UKF prediction has been used the sigma points themselves can be augmented along the following lines
+          χ
+            k
+            ∣
+            k
+            −
+            1
+        :=
+        [
+          χ
+            k
+            ∣
+            k
+            −
+            1
+              T
+        E
+        [
+              v
+            k
+              T
+        ]
+          ]
+              T
+        ±
+            (
+            L
+            +
+            λ
+            )
+                  R
+                k
+                a
+    {\displaystyle \chi _{k\mid k-1}:=[\chi _{k\mid k-1}^{\mathrm {T} }\quad E[{\textbf {v}}_{k}^{\mathrm {T} }]\ ]^{\mathrm {T} }\pm {\sqrt {(L+\lambda ){\textbf {R}}_{k}^{a}}}}
+where
+              R
+            k
+            a
+        =
+            [
+                  0
+                  0
+                  0
+                        R
+                      k
+            ]
+    {\displaystyle {\textbf {R}}_{k}^{a}={\begin{bmatrix}&0&&0&\\&0&&{\textbf {R}}_{k}&\end{bmatrix}}}
+The sigma points are projected through the observation function h.
+          γ
+            k
+            i
+        =
+        h
+        (
+          χ
+            k
+            ∣
+            k
+            −
+            1
+            i
+        )
+        i
+        =
+        0..2
+        L
+    {\displaystyle \gamma _{k}^{i}=h(\chi _{k\mid k-1}^{i})\quad i=0..2L}
+The weighted sigma points are recombined to produce the predicted measurement and predicted measurement covariance.
+                  z
+                ^
+            k
+        =
+          ∑
+            i
+            =
+            0
+            2
+            L
+          W
+            s
+            i
+          γ
+            k
+            i
+    {\displaystyle {\hat {\textbf {z}}}_{k}=\sum _{i=0}^{2L}W_{s}^{i}\gamma _{k}^{i}}
+              P
+              z
+                k
+              z
+                k
+        =
+          ∑
+            i
+            =
+            0
+            2
+            L
+          W
+            c
+            i
+        [
+          γ
+            k
+            i
+        −
+                  z
+                ^
+            k
+        ]
+        [
+          γ
+            k
+            i
+        −
+                  z
+                ^
+            k
+          ]
+              T
+    {\displaystyle {\textbf {P}}_{z_{k}z_{k}}=\sum _{i=0}^{2L}W_{c}^{i}\ [\gamma _{k}^{i}-{\hat {\textbf {z}}}_{k}][\gamma _{k}^{i}-{\hat {\textbf {z}}}_{k}]^{\mathrm {T} }}
+The state-measurement cross-covariance matrix,
+              P
+              x
+                k
+              z
+                k
+        =
+          ∑
+            i
+            =
+            0
+            2
+            L
+          W
+            c
+            i
+        [
+          χ
+            k
+            ∣
+            k
+            −
+            1
+            i
+        −
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        ]
+        [
+          γ
+            k
+            i
+        −
+                  z
+                ^
+            k
+          ]
+              T
+    {\displaystyle {\textbf {P}}_{x_{k}z_{k}}=\sum _{i=0}^{2L}W_{c}^{i}\ [\chi _{k\mid k-1}^{i}-{\hat {\textbf {x}}}_{k\mid k-1}][\gamma _{k}^{i}-{\hat {\textbf {z}}}_{k}]^{\mathrm {T} }}
+is used to compute the UKF Kalman gain.
+          K
+            k
+        =
+              P
+              x
+                k
+              z
+                k
+              P
+              z
+                k
+              z
+                k
+            −
+            1
+    {\displaystyle K_{k}={\textbf {P}}_{x_{k}z_{k}}{\textbf {P}}_{z_{k}z_{k}}^{-1}}
+As with the Kalman filter, the updated state is the predicted state plus the innovation weighted by the Kalman gain,
+                  x
+                ^
+            k
+            ∣
+            k
+        =
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+          K
+            k
+        (
+              z
+            k
+        −
+                  z
+                ^
+            k
+        )
+    {\displaystyle {\hat {\textbf {x}}}_{k\mid k}={\hat {\textbf {x}}}_{k\mid k-1}+K_{k}({\textbf {z}}_{k}-{\hat {\textbf {z}}}_{k})}
+And the updated covariance is the predicted covariance, minus the predicted measurement covariance, weighted by the Kalman gain.
+              P
+            k
+            ∣
+            k
+        =
+              P
+            k
+            ∣
+            k
+            −
+            1
+        −
+          K
+            k
+              P
+              z
+                k
+              z
+                k
+          K
+            k
+              T
+    {\displaystyle {\textbf {P}}_{k\mid k}={\textbf {P}}_{k\mid k-1}-K_{k}{\textbf {P}}_{z_{k}z_{k}}K_{k}^{\mathrm {T} }}
+The Kalman–Bucy filter (named after Richard Snowden Bucy) is a continuous time version of the Kalman filter.
+It is based on the state space model
+            d
+              d
+              t
+          x
+        (
+        t
+        )
+        =
+          F
+        (
+        t
+        )
+          x
+        (
+        t
+        )
+        +
+          B
+        (
+        t
+        )
+          u
+        (
+        t
+        )
+        +
+          w
+        (
+        t
+        )
+    {\displaystyle {\frac {d}{dt}}\mathbf {x} (t)=\mathbf {F} (t)\mathbf {x} (t)+\mathbf {B} (t)\mathbf {u} (t)+\mathbf {w} (t)}
+          z
+        (
+        t
+        )
+        =
+          H
+        (
+        t
+        )
+          x
+        (
+        t
+        )
+        +
+          v
+        (
+        t
+        )
+    {\displaystyle \mathbf {z} (t)=\mathbf {H} (t)\mathbf {x} (t)+\mathbf {v} (t)}
+where 
+          Q
+        (
+        t
+        )
+    {\displaystyle \mathbf {Q} (t)}
+   and 
+          R
+        (
+        t
+        )
+    {\displaystyle \mathbf {R} (t)}
+   represent the intensities of the two white noise terms 
+          w
+        (
+        t
+        )
+    {\displaystyle \mathbf {w} (t)}
+   and 
+          v
+        (
+        t
+        )
+    {\displaystyle \mathbf {v} (t)}
+  , respectively.
+The filter consists of two differential equations, one for the state estimate and one for the covariance:
+            d
+              d
+              t
+                x
+              ^
+        (
+        t
+        )
+        =
+          F
+        (
+        t
+        )
+                x
+              ^
+        (
+        t
+        )
+        +
+          B
+        (
+        t
+        )
+          u
+        (
+        t
+        )
+        +
+          K
+        (
+        t
+        )
+        (
+          z
+        (
+        t
+        )
+        −
+          H
+        (
+        t
+        )
+                x
+              ^
+        (
+        t
+        )
+        )
+    {\displaystyle {\frac {d}{dt}}{\hat {\mathbf {x} }}(t)=\mathbf {F} (t){\hat {\mathbf {x} }}(t)+\mathbf {B} (t)\mathbf {u} (t)+\mathbf {K} (t)(\mathbf {z} (t)-\mathbf {H} (t){\hat {\mathbf {x} }}(t))}
+            d
+              d
+              t
+          P
+        (
+        t
+        )
+        =
+          F
+        (
+        t
+        )
+          P
+        (
+        t
+        )
+        +
+          P
+        (
+        t
+        )
+            F
+            T
+        (
+        t
+        )
+        +
+          Q
+        (
+        t
+        )
+        −
+          K
+        (
+        t
+        )
+          R
+        (
+        t
+        )
+            K
+            T
+        (
+        t
+        )
+    {\displaystyle {\frac {d}{dt}}\mathbf {P} (t)=\mathbf {F} (t)\mathbf {P} (t)+\mathbf {P} (t)\mathbf {F} ^{T}(t)+\mathbf {Q} (t)-\mathbf {K} (t)\mathbf {R} (t)\mathbf {K} ^{T}(t)}
+where the Kalman gain is given by
+          K
+        (
+        t
+        )
+        =
+          P
+        (
+        t
+        )
+            H
+            T
+        (
+        t
+        )
+            R
+            −
+            1
+        (
+        t
+        )
+    {\displaystyle \mathbf {K} (t)=\mathbf {P} (t)\mathbf {H} ^{T}(t)\mathbf {R} ^{-1}(t)}
+Note that in this expression for 
+          K
+        (
+        t
+        )
+    {\displaystyle \mathbf {K} (t)}
+   the covariance of the observation noise 
+          R
+        (
+        t
+        )
+    {\displaystyle \mathbf {R} (t)}
+   represents at the same time the covariance of the prediction error (or innovation) 
+                y
+              ~
+        (
+        t
+        )
+        =
+          z
+        (
+        t
+        )
+        −
+          H
+        (
+        t
+        )
+                x
+              ^
+        (
+        t
+        )
+    {\displaystyle {\tilde {\mathbf {y} }}(t)=\mathbf {z} (t)-\mathbf {H} (t){\hat {\mathbf {x} }}(t)}
+  ; these covariances are equal only in the case of continuous time.
+The distinction between the prediction and update steps of discrete-time Kalman filtering does not exist in continuous time.
+The second differential equation, for the covariance, is an example of a Riccati equation.
+Most physical systems are represented as continuous-time models while discrete-time measurements are frequently taken for state estimation via a digital processor. Therefore, the system model and measurement model are given by
+                        x
+                      ˙
+                (
+                t
+                )
+                =
+                  F
+                (
+                t
+                )
+                  x
+                (
+                t
+                )
+                +
+                  B
+                (
+                t
+                )
+                  u
+                (
+                t
+                )
+                +
+                  w
+                (
+                t
+                )
+                ,
+                  w
+                (
+                t
+                )
+                ∼
+                N
+                    (
+                  0
+                ,
+                  Q
+                (
+                t
+                )
+                    )
+                    z
+                    k
+                =
+                    H
+                    k
+                    x
+                    k
+                +
+                    v
+                    k
+                ,
+                    v
+                    k
+                ∼
+                N
+                (
+                  0
+                ,
+                    R
+                    k
+                )
+    {\displaystyle {\begin{aligned}{\dot {\mathbf {x} }}(t)&=\mathbf {F} (t)\mathbf {x} (t)+\mathbf {B} (t)\mathbf {u} (t)+\mathbf {w} (t),&\mathbf {w} (t)&\sim N{\bigl (}\mathbf {0} ,\mathbf {Q} (t){\bigr )}\\\mathbf {z} _{k}&=\mathbf {H} _{k}\mathbf {x} _{k}+\mathbf {v} _{k},&\mathbf {v} _{k}&\sim N(\mathbf {0} ,\mathbf {R} _{k})\end{aligned}}}
+where
+            x
+            k
+        =
+          x
+        (
+          t
+            k
+        )
+    {\displaystyle \mathbf {x} _{k}=\mathbf {x} (t_{k})}
+  .
+Initialize
+                  x
+                ^
+            0
+            ∣
+            0
+        =
+        E
+            [
+          x
+        (
+          t
+            0
+        )
+            ]
+        ,
+            P
+            0
+            ∣
+            0
+        =
+        V
+        a
+        r
+            [
+          x
+        (
+          t
+            0
+        )
+            ]
+    {\displaystyle {\hat {\mathbf {x} }}_{0\mid 0}=E{\bigl [}\mathbf {x} (t_{0}){\bigr ]},\mathbf {P} _{0\mid 0}=Var{\bigl [}\mathbf {x} (t_{0}){\bigr ]}}
+Predict
+                            x
+                          ^
+                      ˙
+                (
+                t
+                )
+                =
+                  F
+                (
+                t
+                )
+                        x
+                      ^
+                (
+                t
+                )
+                +
+                  B
+                (
+                t
+                )
+                  u
+                (
+                t
+                )
+                  , with 
+                        x
+                      ^
+                (
+                  t
+                    k
+                    −
+                    1
+                )
+                =
+                          x
+                        ^
+                    k
+                    −
+                    1
+                    ∣
+                    k
+                    −
+                    1
+                ⇒
+                          x
+                        ^
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                =
+                        x
+                      ^
+                (
+                  t
+                    k
+                )
+                        P
+                      ˙
+                (
+                t
+                )
+                =
+                  F
+                (
+                t
+                )
+                  P
+                (
+                t
+                )
+                +
+                  P
+                (
+                t
+                )
+                  F
+                (
+                t
+                  )
+                    T
+                +
+                  Q
+                (
+                t
+                )
+                  , with 
+                  P
+                (
+                  t
+                    k
+                    −
+                    1
+                )
+                =
+                    P
+                    k
+                    −
+                    1
+                    ∣
+                    k
+                    −
+                    1
+                ⇒
+                    P
+                    k
+                    ∣
+                    k
+                    −
+                    1
+                =
+                  P
+                (
+                  t
+                    k
+                )
+    {\displaystyle {\begin{aligned}&{\dot {\hat {\mathbf {x} }}}(t)=\mathbf {F} (t){\hat {\mathbf {x} }}(t)+\mathbf {B} (t)\mathbf {u} (t){\text{, with }}{\hat {\mathbf {x} }}(t_{k-1})={\hat {\mathbf {x} }}_{k-1\mid k-1}\\\Rightarrow &{\hat {\mathbf {x} }}_{k\mid k-1}={\hat {\mathbf {x} }}(t_{k})\\&{\dot {\mathbf {P} }}(t)=\mathbf {F} (t)\mathbf {P} (t)+\mathbf {P} (t)\mathbf {F} (t)^{T}+\mathbf {Q} (t){\text{, with }}\mathbf {P} (t_{k-1})=\mathbf {P} _{k-1\mid k-1}\\\Rightarrow &\mathbf {P} _{k\mid k-1}=\mathbf {P} (t_{k})\end{aligned}}}
+The prediction equations are derived from those of continuous-time Kalman filter without update from measurements, i.e., 
+          K
+        (
+        t
+        )
+        =
+        0
+    {\displaystyle \mathbf {K} (t)=0}
+  . The predicted state and covariance are calculated respectively by solving a set of differential equations with the initial value equal to the estimate at the previous step.
+Update
+            K
+            k
+        =
+            P
+            k
+            ∣
+            k
+            −
+            1
+            H
+            k
+            T
+            (
+            H
+            k
+            P
+            k
+            ∣
+            k
+            −
+            1
+            H
+            k
+            T
+        +
+            R
+            k
+              )
+            −
+            1
+    {\displaystyle \mathbf {K} _{k}=\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{T}{\bigl (}\mathbf {H} _{k}\mathbf {P} _{k\mid k-1}\mathbf {H} _{k}^{T}+\mathbf {R} _{k}{\bigr )}^{-1}}
+                  x
+                ^
+            k
+            ∣
+            k
+        =
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        +
+            K
+            k
+        (
+            z
+            k
+        −
+            H
+            k
+                  x
+                ^
+            k
+            ∣
+            k
+            −
+            1
+        )
+    {\displaystyle {\hat {\mathbf {x} }}_{k\mid k}={\hat {\mathbf {x} }}_{k\mid k-1}+\mathbf {K} _{k}(\mathbf {z} _{k}-\mathbf {H} _{k}{\hat {\mathbf {x} }}_{k\mid k-1})}
+            P
+            k
+            ∣
+            k
+        =
+        (
+          I
+        −
+            K
+            k
+            H
+            k
+        )
+            P
+            k
+            ∣
+            k
+            −
+            1
+    {\displaystyle \mathbf {P} _{k\mid k}=(\mathbf {I} -\mathbf {K} _{k}\mathbf {H} _{k})\mathbf {P} _{k\mid k-1}}
+The update equations are identical to those of the discrete-time Kalman filter.
+The traditional Kalman filter has also been employed for the recovery of sparse, possibly dynamic, signals from noisy observations. Recent works utilize notions from the theory of compressed sensing/sampling, such as the restricted isometry property and related probabilistic recovery arguments, for sequentially estimating the sparse state in intrinsically low-dimensional systems.

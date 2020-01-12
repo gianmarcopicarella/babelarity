@@ -1,0 +1,90 @@
+Commercial paper, in the global financial market, is an unsecured promissory note with a fixed maturity of no more than 270 days.
+Commercial paper is a money-market security issued (sold) by large corporations to obtain funds to meet short-term debt obligations (for example, payroll), and is backed only by an issuing bank or company promise to pay the face amount on the maturity date specified on the note. Since it is not backed by collateral, only firms with excellent credit ratings from a recognized credit rating agency will be able to sell their commercial paper at a reasonable price. Commercial paper is usually sold at a discount from face value, and generally carries lower interest repayment rates than bonds due to the shorter maturities of commercial paper. Typically, the longer the maturity on a note, the higher the interest rate the issuing institution pays. Interest rates fluctuate with market conditions, but are typically lower than banks' rates.
+Commercial paper – though a short-term obligation – is issued as part of a continuous rolling program, which is either a number of years long (as in Europe), or open-ended (as in the U.S.).
+The use of commercial paper has been adopted by every state in the United States except Louisiana.
+At the end of 2009, more than 1,700 companies in the United States issued commercial paper. As of October 31, 2008, the U.S. Federal Reserve reported seasonally adjusted figures for the end of 2007: there was $1.7807 trillion (short-scale, or 1,780,700,000,000) in total outstanding commercial paper; $801.3 billion was "asset backed" and $979.4 billion was not; $162.7 billion of the latter was issued by non-financial corporations, and $816.7 billion was issued by financial corporations.
+Outside of the United States the international Euro-Commercial Paper Market has over $500 billion in outstandings, made up of instruments denominated predominately in euros, dollars and sterling.
+Commercial credit, in the form of promissory notes issued by corporations, has existed since at least the 19th century. For instance, Marcus Goldman, founder of Goldman Sachs got his start trading commercial paper in New York in 1869.
+Commercial paper – though a short-term obligation – is issued as part of a continuous significantly longer rolling program, which is either a number of years long (as in Europe), or open-ended (as in the U.S.). Because the continuous commercial paper program is much longer than the individual commercial paper in the program (which cannot be longer than 270 days), as commercial paper matures it is replaced with newly issued commercial paper for the remaining amount of the obligation. If the maturity is less than 270 days, the issuer does not have to file a registrations statement with the SEC, which would mean delay and increased cost.
+There are two methods of issuing credit. The issuer can market the securities directly to a buy and hold investor such as most money market funds. Alternatively, it can sell the paper to a dealer, who then sells the paper in the market. The dealer market for commercial paper involves large securities firms and subsidiaries of bank holding companies. Most of these firms also are dealers in US Treasury securities. Direct issuers of commercial paper usually are financial companies that have frequent and sizable borrowing needs and find it more economical to sell paper without the use of an intermediary. In the United States, direct issuers save a dealer fee of approximately 5 basis points, or 0.05% annualized, which translates to $50,000 on every $100 million outstanding. This saving compensates for the cost of maintaining a permanent sales staff to market the paper. Dealer fees tend to be lower outside the United States.
+Commercial paper is a lower-cost alternative to a line of credit with a bank. Once a business becomes established, and builds a high credit rating, it is often cheaper to draw on a commercial paper than on a bank line of credit. Nevertheless, many companies still maintain bank lines of credit as a "backup". Banks often charge fees for the amount of the line of the credit that does not have a balance, because under the capital regulatory regimes set out by the Basel Accords, banks must anticipate that such unused lines of credit will be drawn upon if a company gets into financial distress. They must therefore put aside equity capital to account for potential loan losses also on the currently unused part of lines of credit, and will usually charge a fee for the cost of this equity capital.
+Advantage of commercial paper:
+High credit ratings fetch a lower cost of capital.
+Wide range of maturity provide more flexibility.
+It does not create any lien on asset of the company.
+Tradability of Commercial Paper provides investors with exit options.
+Disadvantages of commercial paper:
+Its usage is limited to only blue chip companies.
+Issuances of commercial paper bring down the bank credit limits.
+A high degree of control is exercised on issue of Commercial Paper.
+Stand-by credit may become necessary
+Like treasury bills, yields on commercial paper are quoted on a discount basis—the discount return to commercial paper holders is the annualized percentage difference between the price paid for the paper and the face value using a 360-day year. Specifically, where 
+        d
+          y
+            C
+            P
+    {\displaystyle dy_{CP}}
+   is the discount yield, 
+          P
+            f
+    {\displaystyle P_{f}}
+   is the face value, 
+          P
+            0
+    {\displaystyle P_{0}}
+   is the price paid, and 
+        t
+    {\displaystyle t}
+   is the term length of the paper in days:
+        d
+          y
+            C
+            P
+        =
+        (
+                P
+                  f
+              −
+                P
+                  0
+              P
+                f
+        )
+        .
+            360
+            t
+    {\displaystyle dy_{CP}=({\frac {P_{f}-P_{0}}{P_{f}}}).{\frac {360}{t}}}
+and when converted to a bond equivalent yield (
+        b
+        e
+          y
+            C
+            P
+    {\displaystyle bey_{CP}}
+  ):
+        b
+        e
+          y
+            C
+            P
+        =
+        (
+                P
+                  f
+              −
+                P
+                  0
+              P
+                0
+        )
+        .
+            365
+            t
+    {\displaystyle bey_{CP}=({\frac {P_{f}-P_{0}}{P_{0}}}).{\frac {365}{t}}}
+Defaults on high quality commercial paper are rare, and cause concern when they occur. Notable examples include:
+On June 21, 1970, Penn Central filed for bankruptcy under Chapter 7 of the U.S. Bankruptcy Code and defaulted on approximately $77.1 million of commercial paper. This sparked a runoff in the commercial paper market of approximately $3 billion, causing the Federal Reserve to intervene by permitting commercial banks to borrow at the discount window. This placed a substantial burden on clients of the issuing dealer for Penn Central’s commercial paper, Goldman Sachs.
+On January 31, 1997, Mercury Finance, a major automotive lender, defaulted on a debt of $17 million, rising to $315 million. Effects were small, partly because default occurred during a robust economy.
+On September 15, 2008, Lehman Brothers caused two money funds to break the buck, and led to Fed intervention in money market funds.
+Asset-backed commercial paper
+Negotiable instrument
+Financial data vendor

@@ -1,0 +1,822 @@
+Positional notation or place-value notation is a method of representing or encoding numbers. Positional notation is distinguished from other notations (such as Roman numerals) for its use of the same symbol for the different orders of magnitude (for example, the "ones place", "tens place", "hundreds place"). This greatly simplified arithmetic, leading to the rapid spread of the notation across the world.
+With the use of a radix point (decimal point in base-10), the notation can be extended to include fractions and the numeric expansions of real numbers.
+The Babylonian numeral system, base-60, was the first positional system developed, and is still used today to count time and angles. The Hindu–Arabic numeral system, base-10, is the most commonly used system in the world today for most calculations.
+Today, the base-10 (decimal) system, which is likely motivated by counting with the ten fingers, is ubiquitous. Other bases have been used in the past however, and some continue to be used today. For example, the Babylonian numeral system, credited as the first positional numeral system, was base-60, but it lacked a real 0 value. Zero was indicated by a space between sexagesimal numerals. By 300 BC, a punctuation symbol (two slanted wedges) was co-opted as a placeholder in the same Babylonian system. In a tablet unearthed at Kish (dating from about 700 BC), the scribe Bêl-bân-aplu wrote his zeros with three hooks, rather than two slanted wedges. The Babylonian placeholder was not a true zero because it was not used alone. Nor was it used at the end of a number. Thus numbers like 2 and 120 (2×60), 3 and 180 (3×60), 4 and 240 (4×60), looked the same because the larger numbers lacked a final sexagesimal placeholder. Only context could differentiate them.
+The polymath Archimedes (ca. 287–212 BC) invented a decimal positional system in his Sand Reckoner which was based on 108 and later led the German mathematician Carl Friedrich Gauss to lament what heights science would have already reached in his days if Archimedes had fully realized the potential of his ingenious discovery.
+Before positional notation became standard, simple additive systems (sign-value notation) such as Roman numerals were used, and accountants in ancient Rome and during the Middle Ages used the abacus or stone counters to do arithmetic.
+Counting rods and most abacuses have been used to represent numbers in a positional numeral system. With counting rods or abacus to perform arithmetic operations, the writing of the starting, intermediate and final values of a calculation could easily be done with a simple additive system in each position or column. This approach required no memorization of tables (as does positional notation) and could produce practical results quickly. For four centuries (from the 13th to the 16th) there was strong disagreement between those who believed in adopting the positional system in writing numbers and those who wanted to stay with the additive-system-plus-abacus. Although electronic calculators have largely replaced the abacus, the latter continues to be used in Japan and other Asian countries.
+After the French Revolution (1789-1799), the new French government promoted the extension of the decimal system. Some of those pro-decimal efforts—such as decimal time and the decimal calendar—were unsuccessful. Other French pro-decimal efforts—currency decimalisation and the metrication of weights and measures—spread widely out of France to almost the whole world.
+According to Joseph Needham and Lam Lay Yong, decimal fractions were first developed and used by the Chinese in the 1st century BC, and then spread to the Middle East and from there to Europe. The written Chinese decimal fractions were non-positional. However, counting rod fractions were positional.
+Qin Jiushao in his book Mathematical Treatise in Nine Sections (1247) denoted 0.96644 by
+寸
+, meaning
+寸
+096644
+J. Lennart Berggren notes that positional decimal fractions for the first time by Arab mathematician Abu'l-Hasan al-Uqlidisi as early as the 10th century. The Jewish mathematician Immanuel Bonfils used decimal fractions around 1350, anticipating Simon Stevin, but did not develop any notation to represent them. The Persian mathematician Jamshīd al-Kāshī claimed to have discovered decimal fractions himself in the 15th century.Al Khwarizmi introduced fraction to Islamic countries in the early 9th century, his fraction presentation was an exact copy of traditional Chinese mathematical fraction from The Mathematical Classic of Sunzi. This form of fraction with numerator on top and denominator at bottom without a horizontal bar was also used by 10th century Abu'l-Hasan al-Uqlidisi and 15th century Jamshīd al-Kāshī's work "Arithmetic Key".
+A forerunner of modern European decimal notation was introduced by Simon Stevin in the 16th century.
+A key argument against the positional system was its susceptibility to easy fraud by simply putting a number at the beginning or end of a quantity, thereby changing (e.g.) 100 into 5100, or 100 into 1000. Modern cheques require a natural language spelling of an amount, as well as the decimal amount itself, to prevent such fraud. For the same reason the Chinese also use natural language numerals, for example 100 is written as 壹佰, which can never be forged into 壹仟(1000) or 伍仟壹佰(5100).
+Many of the advantages claimed for the metric system could be realized by any consistent positional notation. Dozenal advocates say dozenal has several advantages over decimal, although the switching cost appears to be high.
+In mathematical numeral systems the base or radix is usually the number of unique digits, including zero, that a positional numeral system uses to represent numbers. For example, for the decimal system the radix is 10, because it uses the 10 digits from 0 through 9. When a number "hits" 9, the next number will not be another different symbol, but a "1" followed by a "0". In binary, the radix is 2, since after it hits "1", instead of "2" or another written symbol, it jumps straight to "10", followed by "11" and "100".
+The highest symbol of a positional numeral system usually has the value one less than the value of the base of that numeral system. The standard positional numeral systems differ from one another only in the base they use.
+The base is an integer that is greater than 1 (or less than negative 1), since a radix of zero would not have any digits, and a radix of 1 would only have the zero digit. Negative bases are rarely used. In a system with a negative radix, numbers may have many different possible representations.
+(In certain non-standard positional numeral systems, including bijective numeration, the definition of the base or the allowed digits deviates from the above.)
+In base-10 (decimal) positional notation, there are 10 decimal digits and the number
+        2506
+        =
+        2
+        ×
+          10
+            3
+        +
+        5
+        ×
+          10
+            2
+        +
+        0
+        ×
+          10
+            1
+        +
+        6
+        ×
+          10
+            0
+    {\displaystyle 2506=2\times 10^{3}+5\times 10^{2}+0\times 10^{1}+6\times 10^{0}}
+  .
+In base-16 (hexadecimal), there are 16 hexadecimal digits (0–9 and A–F) and the number
+        171
+          B
+        =
+        1
+        ×
+          16
+            3
+        +
+        7
+        ×
+          16
+            2
+        +
+        1
+        ×
+          16
+            1
+        +
+          B
+        ×
+          16
+            0
+    {\displaystyle 171\mathrm {B} =1\times 16^{3}+7\times 16^{2}+1\times 16^{1}+\mathrm {B} \times 16^{0}}
+   (where B represents the number eleven as a single symbol)
+In general, in base-b, there are b digits and the number
+          a
+            3
+          a
+            2
+          a
+            1
+          a
+            0
+        =
+          a
+            3
+        ×
+          b
+            3
+        +
+          a
+            2
+        ×
+          b
+            2
+        +
+          a
+            1
+        ×
+          b
+            1
+        +
+          a
+            0
+        ×
+          b
+            0
+    {\displaystyle a_{3}a_{2}a_{1}a_{0}=a_{3}\times b^{3}+a_{2}\times b^{2}+a_{1}\times b^{1}+a_{0}\times b^{0}}
+   (Note that 
+          a
+            3
+          a
+            2
+          a
+            1
+          a
+            0
+    {\displaystyle a_{3}a_{2}a_{1}a_{0}}
+   represents a sequence of digits, not multiplication)
+Sometimes the base number is written in subscript after the number represented. For example, 238 indicates that the number 23 is expressed in base 8 (and is therefore equivalent in value to the decimal number 19). This notation will be used in this article.
+When describing base in mathematical notation, the letter b is generally used as a symbol for this concept, so, for a binary system, b equals 2. Another common way of expressing the base is writing it as a decimal subscript after the number that is being represented. 11110112 implies that the number 1111011 is a base-2 number, equal to 12310 (a decimal notation representation), 1738 (octal) and 7B16 (hexadecimal). In books and articles, when using initially the written abbreviations of number bases, the base is not subsequently printed: it is assumed that binary 1111011 is the same as 11110112.
+The base b may also be indicated by the phrase "base-b". So binary numbers are "base-2"; octal numbers are "base-8"; decimal numbers are "base-10"; and so on.
+To a given radix b the set of digits {0, 1, ..., b−2, b−1} is called the standard set of digits. Thus, binary numbers have digits {0, 1}; decimal numbers have digits {0, 1, 2, ..., 8, 9}; and so on. Therefore, the following are notational errors: 522, 22, 1A9. (In all cases, one or more digits is not in the set of allowed digits for the given base.)
+Positional numeral systems work using exponentiation of the base. A digit's value is the digit multiplied by the value of its place. Place values are the number of the base raised to the nth power, where n is the number of other digits between a given digit and the radix point. If a given digit is on the left hand side of the radix point (i.e. its value is an integer) then n is positive or zero; if the digit is on the right hand side of the radix point (i.e., its value is fractional) then n is negative.
+As an example of usage, the number 465 in its respective base b (which must be at least base 7 because the highest digit in it is 6) is equal to:
+        4
+        ×
+          b
+            2
+        +
+        6
+        ×
+          b
+            1
+        +
+        5
+        ×
+          b
+            0
+    {\displaystyle 4\times b^{2}+6\times b^{1}+5\times b^{0}}
+If the number 465 was in base-10, then it would equal:
+        4
+        ×
+          10
+            2
+        +
+        6
+        ×
+          10
+            1
+        +
+        5
+        ×
+          10
+            0
+        =
+        4
+        ×
+        100
+        +
+        6
+        ×
+        10
+        +
+        5
+        ×
+        1
+        =
+        465
+    {\displaystyle 4\times 10^{2}+6\times 10^{1}+5\times 10^{0}=4\times 100+6\times 10+5\times 1=465}
+(46510 = 46510)
+If however, the number were in base 7, then it would equal:
+        4
+        ×
+          7
+            2
+        +
+        6
+        ×
+          7
+            1
+        +
+        5
+        ×
+          7
+            0
+        =
+        4
+        ×
+        49
+        +
+        6
+        ×
+        7
+        +
+        5
+        ×
+        1
+        =
+        243
+    {\displaystyle 4\times 7^{2}+6\times 7^{1}+5\times 7^{0}=4\times 49+6\times 7+5\times 1=243}
+(4657 = 24310)
+10b = b for any base b, since 10b = 1×b1 + 0×b0. For example, 102 = 2; 103 = 3; 1016 = 1610. Note that the last "16" is indicated to be in base 10. The base makes no difference for one-digit numerals.
+This concept can be demonstrated using a diagram. One object represents one unit. When the number of objects is equal to or greater than the base b, then a group of objects is created with b objects. When the number of these groups exceeds b, then a group of these groups of objects is created with b groups of b objects; and so on. Thus the same number in different bases will have different values:
+241 in base 5:
+   2 groups of 52 (25)           4 groups of 5          1 group of 1
+   ooooo    ooooo
+   ooooo    ooooo                ooooo   ooooo
+   ooooo    ooooo         +                         +         o
+   ooooo    ooooo                ooooo   ooooo
+   ooooo    ooooo
+241 in base 8:
+   2 groups of 82 (64)          4 groups of 8          1 group of 1
+ oooooooo  oooooooo
+ oooooooo  oooooooo
+ oooooooo  oooooooo         oooooooo   oooooooo
+ oooooooo  oooooooo    +                            +        o
+ oooooooo  oooooooo
+ oooooooo  oooooooo         oooooooo   oooooooo
+ oooooooo  oooooooo
+ oooooooo  oooooooo
+The notation can be further augmented by allowing a leading minus sign. This allows the representation of negative numbers. For a given base, every representation corresponds to exactly one real number and every real number has at least one representation. The representations of rational numbers are those representations that are finite, use the bar notation, or end with an infinitely repeating cycle of digits.
+A digit is what is used as a position in place-value notation, and a numeral is one or more digits. Today's most common digits are the decimal digits "0", "1", "2", "3", "4", "5", "6", "7", "8", and "9". The distinction between a digit and a numeral is most pronounced in the context of a number base.
+A non-zero numeral with more than one digit position will mean a different number in a different number base, but in general, the digits will mean the same. The base-8 numeral 238 contains two digits, "2" and "3", and with a base number (subscripted) "8", means 19. In our notation here, the subscript "8" of the numeral 238 is part of the numeral, but this may not always be the case. Imagine the numeral "23" as having an ambiguous base number. Then "23" could likely be any base, base-4 through base-60. In base-4 "23" means 11, and in base-60 it means the number 123. The numeral "23" then, in this case, corresponds to the set of numbers {11, 13, 15, 17, 19, 21, 23, ..., 121, 123} while its digits "2" and "3" always retain their original meaning: the "2" means "two of", and the "3" three.
+In certain applications when a numeral with a fixed number of positions needs to represent a greater number, a higher number-base with more digits per position can be used. A three-digit, decimal numeral can represent only up to 999. But if the number-base is increased to 11, say, by adding the digit "A", then the same three positions, maximized to "AAA", can represent a number as great as 1330. We could increase the number base again and assign "B" to 11, and so on (but there is also a possible encryption between number and digit in the number-digit-numeral hierarchy). A three-digit numeral "ZZZ" in base-60 could mean 7005215999000000000♠215999. If we use the entire collection of our alphanumerics we could ultimately serve a base-62 numeral system, but we remove two digits, uppercase "I" and uppercase "O", to reduce confusion with digits "1" and "0". We are left with a base-60, or sexagesimal numeral system utilizing 60 of the 62 standard alphanumerics. (But see Sexagesimal system below.) In general, the number of possible values that can be represented by a 
+        d
+    {\displaystyle d}
+   digit number in base 
+        r
+    {\displaystyle r}
+   is 
+          r
+            d
+    {\displaystyle r^{d}}
+  .
+The common numeral systems in computer science are binary (radix 2), octal (radix 8), and hexadecimal (radix 16). In binary only digits "0" and "1" are in the numerals. In the octal numerals, are the eight digits 0–7. Hex is 0–9 A–F, where the ten numerics retain their usual meaning, and the alphabetics correspond to values 10–15, for a total of sixteen digits. The numeral "10" is binary numeral "2", octal numeral "8", or hexadecimal numeral "16".
+Bases can be converted between each other by drawing the diagram above and rearranging the objects to conform to the new base, for example:
+241 in base 5:
+   2 groups of 52           4 groups of 5          1 group of 1
+   ooooo    ooooo
+   ooooo    ooooo           ooooo   ooooo
+   ooooo    ooooo     +                        +         o
+   ooooo    ooooo           ooooo   ooooo
+   ooooo    ooooo
+is equal to 107 in base 8:
+    1 group of 82           0 groups of 8          7 groups of 1
+      oooooooo
+      oooooooo                                       
+      oooooooo
+      oooooooo        +                        +      ooooooo             
+      oooooooo
+      oooooooo                                       
+      oooooooo
+      oooooooo
+There is, however, a shorter method which is basically the above method calculated mathematically. Because we work in base-10 normally, it is easier to think of numbers in this way and therefore easier to convert them to base-10 first, though it is possible (but difficult if one is not used to the base the conversion is being performed in) to convert straight between non-decimal bases without using this intermediate step. (However, conversion from bases like 8, 16 or 256 to base-2 can be achieved by writing each digit in binary notation, and subsequently, conversion from base-2 to e.g. base-16 can be achieved by writing each group of four binary digits as one hexadecimal digit.)
+A number anan−1...a2a1a0 where a0, a1 ... an are all digits in a base b (note that here, the subscript does not refer to the base number; it refers to different objects), the number can be represented in any other base, including decimal, by:
+          ∑
+            i
+            =
+            0
+            n
+          (
+            a
+              i
+          ×
+            b
+              i
+          )
+    {\displaystyle \sum _{i=0}^{n}\left(a_{i}\times b^{i}\right)}
+Thus, in the example above:
+          241
+            5
+        =
+        2
+        ×
+          5
+            2
+        +
+        4
+        ×
+          5
+            1
+        +
+        1
+        ×
+          5
+            0
+        =
+        50
+        +
+        20
+        +
+        1
+        =
+          71
+            10
+    {\displaystyle 241_{5}=2\times 5^{2}+4\times 5^{1}+1\times 5^{0}=50+20+1=71_{10}}
+To convert from decimal to another base one must simply start dividing by the value of the other base, then dividing the result of the first division and overlooking the remainder, and so on until the base is larger than the result (so the result of the division would be a zero). Then the number in the desired base is the remainders, the most significant value being the one corresponding to the last division and the least significant value being the remainder of the first division.
+Example #1 decimal to septenary:
+                  123
+                    10
+                =
+                123
+                  /
+                7
+                =
+                17
+                   with a remainder of 
+                (
+                4
+                )
+                17
+                  /
+                7
+                =
+                2
+                   with a remainder of 
+                (
+                3
+                )
+                2
+                  /
+                7
+                =
+                0
+                   with a remainder of 
+                (
+                2
+                )
+                =
+                  234
+                    7
+    {\displaystyle {\begin{aligned}123_{10}=123/7=17{\text{ with a remainder of }}(4)\\17/7=2{\text{ with a remainder of }}(3)\\2/7=0{\text{ with a remainder of }}(2)\\&=234_{7}\end{aligned}}}
+Example #2 decimal to octal:
+                  456
+                    10
+                =
+                456
+                  /
+                8
+                =
+                57
+                   with a remainder of 
+                (
+                0
+                )
+                57
+                  /
+                8
+                =
+                7
+                   with a remainder of 
+                (
+                1
+                )
+                7
+                  /
+                8
+                =
+                0
+                   with a remainder of 
+                (
+                7
+                )
+                =
+                  710
+                    8
+    {\displaystyle {\begin{aligned}456_{10}=456/8=57{\text{ with a remainder of }}(0)\\57/8=7{\text{ with a remainder of }}(1)\\7/8=0{\text{ with a remainder of }}(7)\\&=710_{8}\end{aligned}}}
+The most common example is that of changing from decimal to binary.
+The notation can be extended into the negative exponents of the base b. Thereby the so-called radix point, mostly ».«, is used as separator of the positions with non-negative from those with negative exponent.
+Numbers that are not integers use places beyond the radix point. For every position behind this point (and thus after the units digit), the exponent n of the power bn decreases by 1 and the power approaches 0. For example, the number 2.35 is equal to:
+        2
+        ×
+          10
+            0
+        +
+        3
+        ×
+          10
+            −
+            1
+        +
+        5
+        ×
+          10
+            −
+            2
+    {\displaystyle 2\times 10^{0}+3\times 10^{-1}+5\times 10^{-2}}
+If the base and all the digits in the set of digits are non-negative, negative numbers cannot be expressed. To overcome this, a minus sign, here »-«, is added to the numeral system. In the usual notation it is prepended to the string of digits representing the otherwise non-negative number.
+The numbers which have a finite representation form the semiring
+                N
+                0
+              b
+                    N
+                    0
+        :=
+          {
+          m
+            b
+              −
+              ν
+          ∣
+          m
+          ∈
+              N
+              0
+          ∧
+          ν
+          ∈
+              N
+              0
+          }
+        .
+    {\displaystyle {\frac {\mathbb {N} _{0}}{b^{\mathbb {N} _{0}}}}:=\left\{mb^{-\nu }\mid m\in \mathbb {N} _{0}\wedge \nu \in \mathbb {N} _{0}\right\}.}
+More explicitly, if 
+          p
+            1
+              ν
+                1
+        ⋅
+        …
+        ⋅
+          p
+            n
+              ν
+                n
+        :=
+        b
+    {\displaystyle p_{1}^{\nu _{1}}\cdot \ldots \cdot p_{n}^{\nu _{n}}:=b}
+   is a factorization of 
+        b
+    {\displaystyle b}
+   into the primes 
+          p
+            1
+        ,
+        …
+        ,
+          p
+            n
+        ∈
+          P
+    {\displaystyle p_{1},\ldots ,p_{n}\in \mathbb {P} }
+   with exponents 
+          ν
+            1
+        ,
+        …
+        ,
+          ν
+            n
+        ∈
+          N
+    {\displaystyle \nu _{1},\ldots ,\nu _{n}\in \mathbb {N} }
+  , then with the non-empty set of denominators 
+        S
+        :=
+        {
+          p
+            1
+        ,
+        …
+        ,
+          p
+            n
+        }
+    {\displaystyle S:=\{p_{1},\ldots ,p_{n}\}}
+   we have
+            Z
+            S
+        :=
+          {
+          x
+          ∈
+            Q
+            |
+            ∃
+              μ
+                i
+            ∈
+              Z
+            :
+            x
+              ∏
+                i
+                =
+                1
+                n
+                  p
+                    i
+                  μ
+                    i
+            ∈
+              Z
+          }
+        =
+          b
+              Z
+          Z
+        =
+            ⟨
+            S
+            ⟩
+            −
+            1
+          Z
+    {\displaystyle \mathbb {Z} _{S}:=\left\{x\in \mathbb {Q} \left|\,\exists \mu _{i}\in \mathbb {Z} :x\prod _{i=1}^{n}{p_{i}}^{\mu _{i}}\in \mathbb {Z} \right.\right\}=b^{\mathbb {Z} }\,\mathbb {Z} ={\langle S\rangle }^{-1}\mathbb {Z} }
+where 
+        ⟨
+        S
+        ⟩
+    {\displaystyle \langle S\rangle }
+   is the group generated by the 
+        p
+        ∈
+        S
+    {\displaystyle p\in S}
+   and 
+            ⟨
+            S
+            ⟩
+            −
+            1
+          Z
+    {\displaystyle {\langle S\rangle }^{-1}\mathbb {Z} }
+   is the so-called localization of 
+          Z
+    {\displaystyle \mathbb {Z} }
+   with respect to 
+        S
+    {\displaystyle S}
+  .
+The denominator of an element of 
+            Z
+            S
+    {\displaystyle \mathbb {Z} _{S}}
+   contains if reduced to lowest terms only prime factors out of 
+        S
+    {\displaystyle S}
+  . This ring of all terminating fractions to base 
+        b
+    {\displaystyle b}
+   is dense in the field of rational numbers 
+          Q
+    {\displaystyle \mathbb {Q} }
+  . Its completion for the usual (Archimedean) metric is the same as for 
+          Q
+    {\displaystyle \mathbb {Q} }
+  , namely the real numbers 
+          R
+    {\displaystyle \mathbb {R} }
+  . So, if 
+        S
+        =
+        {
+        p
+        }
+    {\displaystyle S=\{p\}}
+   then 
+            Z
+            {
+            p
+            }
+    {\displaystyle \mathbb {Z} _{\{p\}}}
+   has not to be confused with 
+            Z
+            (
+            p
+            )
+    {\displaystyle \mathbb {Z} _{(p)}}
+  , the discrete valuation ring for the prime 
+        p
+    {\displaystyle p}
+  , which is equal to 
+            Z
+            T
+    {\displaystyle \mathbb {Z} _{T}}
+   with 
+        T
+        =
+          P
+        ∖
+        {
+        p
+        }
+    {\displaystyle T=\mathbb {P} \setminus \{p\}}
+  .
+If 
+        b
+    {\displaystyle b}
+   divides 
+        c
+    {\displaystyle c}
+  , we have 
+          b
+              Z
+          Z
+        ⊆
+          c
+              Z
+          Z
+        .
+    {\displaystyle b^{\mathbb {Z} }\,\mathbb {Z} \subseteq c^{\mathbb {Z} }\,\mathbb {Z} .}
+The representation of non-integers can be extended to allow an infinite string of digits beyond the point. For example, 1.12112111211112 ... base-3 represents the sum of the infinite series:
+        1
+        ×
+          3
+            0
+        +
+    {\displaystyle 1\times 3^{0\,\,\,}+{}}
+        1
+        ×
+          3
+            −
+            1
+        +
+        2
+        ×
+          3
+            −
+            2
+        +
+    {\displaystyle 1\times 3^{-1\,\,}+2\times 3^{-2\,\,\,}+{}}
+        1
+        ×
+          3
+            −
+            3
+        +
+        1
+        ×
+          3
+            −
+            4
+        +
+        2
+        ×
+          3
+            −
+            5
+        +
+    {\displaystyle 1\times 3^{-3\,\,}+1\times 3^{-4\,\,\,}+2\times 3^{-5\,\,\,}+{}}
+        1
+        ×
+          3
+            −
+            6
+        +
+        1
+        ×
+          3
+            −
+            7
+        +
+        1
+        ×
+          3
+            −
+            8
+        +
+        2
+        ×
+          3
+            −
+            9
+        +
+    {\displaystyle 1\times 3^{-6\,\,}+1\times 3^{-7\,\,\,}+1\times 3^{-8\,\,\,}+2\times 3^{-9\,\,\,}+{}}
+        1
+        ×
+          3
+            −
+            10
+        +
+        1
+        ×
+          3
+            −
+            11
+        +
+        1
+        ×
+          3
+            −
+            12
+        +
+        1
+        ×
+          3
+            −
+            13
+        +
+        2
+        ×
+          3
+            −
+            14
+        +
+        ⋯
+    {\displaystyle 1\times 3^{-10}+1\times 3^{-11}+1\times 3^{-12}+1\times 3^{-13}+2\times 3^{-14}+\cdots }
+Since a complete infinite string of digits cannot be explicitly written, the trailing ellipsis (...) designates the omitted digits, which may or may not follow a pattern of some kind. One common pattern is when a finite sequence of digits repeats infinitely. This is designated by drawing a vinculum across the repeating block:
+        2.42
+              314
+              ¯
+            5
+        =
+        2.42314314314314314
+        …
+            5
+    {\displaystyle 2.42{\overline {314}}_{5}=2.42314314314314314\dots _{5}}
+For base-10 it is called a recurring decimal or repeating decimal.
+An irrational number has an infinite non-repeating representation in all integer bases. Whether a rational number has a finite representation or requires an infinite repeating representation depends on the base. For example, one third can be represented by:
+          0.1
+            3
+    {\displaystyle 0.1_{3}\,}
+        0.
+              3
+              ¯
+            10
+        =
+        0.3333333
+        …
+            10
+    {\displaystyle 0.{\overline {3}}_{10}=0.3333333\dots _{10}}
+or, with the base implied:
+        0.
+            3
+            ¯
+        =
+        0.3333333
+        …
+    {\displaystyle 0.{\overline {3}}=0.3333333\dots }
+        0.
+              01
+              ¯
+            2
+        =
+        0.010101
+        …
+            2
+    {\displaystyle 0.{\overline {01}}_{2}=0.010101\dots _{2}}
+          0.2
+            6
+    {\displaystyle 0.2_{6}\,}
+For integers p and q with gcd(p, q) = 1, the fraction p/q has a finite representation in base b if and only if each prime factor of q is also a prime factor of b.
+For a given base, any number that can be represented by a finite number of digits (without using the bar notation) will have multiple representations, including one or two infinite representations:
+1. A finite or infinite number of zeroes can be appended:
+          3.46
+            7
+        =
+          3.460
+            7
+        =
+          3.460000
+            7
+        =
+        3.46
+              0
+              ¯
+            7
+    {\displaystyle 3.46_{7}=3.460_{7}=3.460000_{7}=3.46{\overline {0}}_{7}}
+2. The last non-zero digit can be reduced by one and an infinite string of digits, each corresponding to one less than the base, are appended (or replace any following zero digits):
+          3.46
+            7
+        =
+        3.45
+              6
+              ¯
+            7
+    {\displaystyle 3.46_{7}=3.45{\overline {6}}_{7}}
+          1
+            10
+        =
+        0.
+              9
+              ¯
+            10
+    {\displaystyle 1_{10}=0.{\overline {9}}_{10}}
+          220
+            5
+        =
+        214.
+              4
+              ¯
+            5
+    {\displaystyle 220_{5}=214.{\overline {4}}_{5}}
+In the decimal (base-10) Hindu–Arabic numeral system, each position starting from the right is a higher power of 10. The first position represents 100 (1), the second position 101 (10), the third position 102 (10 × 10 or 100), the fourth position 103 (10 × 10 × 10 or 1000), and so on.
+Fractional values are indicated by a separator, which can vary in different locations. Usually this separator is a period or full stop, or a comma. Digits to the right of it are multiplied by 10 raised to a negative power or exponent. The first position to the right of the separator indicates 10−1 (0.1), the second position 10−2 (0.01), and so on for each successive position.
+As an example, the number 2674 in a base-10 numeral system is:
+(2 × 103) + (6 × 102) + (7 × 101) + (4 × 100)
+or
+(2 × 1000) + (6 × 100) + (7 × 10) + (4 × 1).
+The sexagesimal or base-60 system was used for the integral and fractional portions of Babylonian numerals and other mesopotamian systems, by Hellenistic astronomers using Greek numerals for the fractional portion only, and is still used for modern time and angles, but only for minutes and seconds. However, not all of these uses were positional.
+Modern time separates each position by a colon or point. For example, the time might be 10:25:59 (10 hours 25 minutes 59 seconds). Angles use similar notation. For example, an angle might be 10°25'59" (10 degrees 25 minutes 59 seconds). In both cases, only minutes and seconds use sexagesimal notation—angular degrees can be larger than 59 (one rotation around a circle is 360°, two rotations are 720°, etc.), and both time and angles use decimal fractions of a second. This contrasts with the numbers used by Hellenistic and Renaissance astronomers, who used thirds, fourths, etc. for finer increments. Where we might write 10°25'59.392", they would have written 10°25′59″23‴31⁗12''''' or 10°25I59II23III31IV12V.
+Using a digit set of digits with upper and lowercase letters allows short notation for sexagesimal numbers, e.g. 10:25:59 becomes 'ARz' (by omitting I and O, but not i and o), which is useful for use in URLs, etc., but it is not very intelligible to humans.
+In the 1930s, Otto Neugebauer introduced a modern notational system for Babylonian and Hellenistic numbers that substitutes modern decimal notation from 0 to 59 in each position, while using a semicolon (;) to separate the integral and fractional portions of the number and using a comma (,) to separate the positions within each portion. For example, the mean synodic month used by both Babylonian and Hellenistic astronomers and still used in the Hebrew calendar is 29;31,50,8,20 days, and the angle used in the example above would be written 10;25,59,23,31,12 degrees.
+In computing, the binary (base-2), octal (base-8) and hexadecimal (base-16) bases are most commonly used. Computers, at the most basic level, deal only with sequences of conventional zeroes and ones, thus it is easier in this sense to deal with powers of two. The hexadecimal system is used as "shorthand" for binary—every 4 binary digits (bits) relate to one and only one hexadecimal digit. In hexadecimal, the six digits after 9 are denoted by A, B, C, D, E, and F (and sometimes a, b, c, d, e, and f).
+The octal numbering system is also used as another way to represent binary numbers. In this case the base is 8 and therefore only digits 0, 1, 2, 3, 4, 5, 6, and 7 are used. When converting from binary to octal every 3 bits relate to one and only one octal digit.
+Base-12 systems (duodecimal or dozenal) have been popular because multiplication and division are easier than in base-10, with addition and subtraction being just as easy. Twelve is a useful base because it has many factors. It is the smallest common multiple of one, two, three, four and six. There is still a special word for "dozen" in English, and by analogy with the word for 102, hundred, commerce developed a word for 122, gross. The standard 12-hour clock and common use of 12 in English units emphasize the utility of the base. In addition, prior to its conversion to decimal, the old British currency Pound Sterling (GBP) partially used base-12; there were 12 pence (d) in a shilling (s), 20 shillings in a pound (£), and therefore 240 pence in a pound. Hence the term LSD or, more properly, £sd.
+The Maya civilization and other civilizations of pre-Columbian Mesoamerica used base-20 (vigesimal), as did several North American tribes (two being in southern California). Evidence of base-20 counting systems is also found in the languages of central and western Africa.
+Remnants of a Gaulish base-20 system also exist in French, as seen today in the names of the numbers from 60 through 99. For example, sixty-five is soixante-cinq (literally, "sixty [and] five"), while seventy-five is soixante-quinze (literally, "sixty [and] fifteen"). Furthermore, for any number between 80 and 99, the "tens-column" number is expressed as a multiple of twenty (somewhat similar to the archaic English manner of speaking of "scores", probably originating from the same underlying Celtic system). For example, eighty-two is quatre-vingt-deux (literally, four twenty[s] [and] two), while ninety-two is quatre-vingt-douze (literally, four twenty[s] [and] twelve). In Old French, forty was expressed as two twenties and sixty was three twenties, so that fifty-three was expressed as two twenties [and] thirteen, and so on.
+The Irish language also used base-20 in the past, twenty being fichid, forty dhá fhichid, sixty trí fhichid and eighty ceithre fhichid. A remnant of this system may be seen in the modern word for 40, daoichead.
+The Welsh language continues to use a base-20 counting system, particularly for the age of people, dates and in common phrases. 15 is also important, with 16–19 being "one on 15", "two on 15" etc. 18 is normally "two nines". A decimal system is commonly used.
+Danish numerals display a similar base-20 structure.
+The Maori language of New Zealand also has evidence of an underlying base-20 system as seen in the terms Te Hokowhitu a Tu referring to a war party (literally "the seven 20s of Tu") and Tama-hokotahi, referring to a great warrior ("the one man equal to 20").
+The binary system was used in the Egyptian Old Kingdom, 3000 BC to 2050 BC. It was cursive by rounding off rational numbers smaller than 1 to 1/2 + 1/4 + 1/8 + 1/16 + 1/32 + 1/64, with a 1/64 term thrown away (the system was called the Eye of Horus).
+A number of Australian Aboriginal languages employ binary or binary-like counting systems. For example, in Kala Lagaw Ya, the numbers one through six are urapon, ukasar, ukasar-urapon, ukasar-ukasar, ukasar-ukasar-urapon, ukasar-ukasar-ukasar.
+North and Central American natives used base-4 (quaternary) to represent the four cardinal directions. Mesoamericans tended to add a second base-5 system to create a modified base-20 system.
+A base-5 system (quinary) has been used in many cultures for counting. Plainly it is based on the number of digits on a human hand. It may also be regarded as a sub-base of other bases, such as base-10, base-20, and base-60.
+A base-8 system (octal) was devised by the Yuki tribe of Northern California, who used the spaces between the fingers to count, corresponding to the digits one through eight. There is also linguistic evidence which suggests that the Bronze Age Proto-Indo Europeans (from whom most European and Indic languages descend) might have replaced a base-8 system (or a system which could only count up to 8) with a base-10 system. The evidence is that the word for 9, newm, is suggested by some to derive from the word for "new", newo-, suggesting that the number 9 had been recently invented and called the "new number".
+Many ancient counting systems use five as a primary base, almost surely coming from the number of fingers on a person's hand. Often these systems are supplemented with a secondary base, sometimes ten, sometimes twenty. In some African languages the word for five is the same as "hand" or "fist" (Dyola language of Guinea-Bissau, Banda language of Central Africa). Counting continues by adding 1, 2, 3, or 4 to combinations of 5, until the secondary base is reached. In the case of twenty, this word often means "man complete". This system is referred to as quinquavigesimal. It is found in many languages of the Sudan region.
+The Telefol language, spoken in Papua New Guinea, is notable for possessing a base-27 numeral system.
+Interesting properties exist when the base is not fixed or positive and when the digit symbol sets denote negative values. There are many more variations. These systems are of practical and theoretic value to computer scientists.
+Balanced ternary uses a base of 3 but the digit set is {1,0,1} instead of {0,1,2}. The "1" has an equivalent value of −1. The negation of a number is easily formed by switching the    on the 1s. This system can be used to solve the balance problem, which requires finding a minimal set of known counter-weights to determine an unknown weight. Weights of 1, 3, 9, ... 3n known units can be used to determine any unknown weight up to 1 + 3 + ... + 3n units. A weight can be used on either side of the balance or not at all. Weights used on the balance pan with the unknown weight are designated with 1, with 1 if used on the empty pan, and with 0 if not used. If an unknown weight W is balanced with 3 (31) on its pan and 1 and 27 (30 and 33) on the other, then its weight in decimal is 25 or 1011 in balanced base-3. (10113 = 1 × 33 + 0 × 32 − 1 × 31 + 1 × 30 = 25).
+The factorial number system uses a varying radix, giving factorials as place values; they are related to Chinese remainder theorem and residue number system enumerations. This system effectively enumerates permutations. A derivative of this uses the Towers of Hanoi puzzle configuration as a counting system. The configuration of the towers can be put into 1-to-1 correspondence with the decimal count of the step at which the configuration occurs and vice versa.
+Each position does not need to be positional itself. Babylonian sexagesimal numerals were positional, but in each position were groups of two kinds of wedges representing ones and tens (a narrow vertical wedge ( | ) and an open left pointing wedge (<))—up to 14 symbols per position (5 tens (<<<<<) and 9 ones ( ||||||||| ) grouped into one or two near squares containing up to three tiers of symbols, or a place holder (\\) for the lack of a position). Hellenistic astronomers used one or two alphabetic Greek numerals for each position (one chosen from 5 letters representing 10–50 and/or one chosen from 9 letters representing 1–9, or a zero symbol).
+Examples:
+List of numeral systems
+Category:Positional numeral systems
+Related topics:
+Numeral system
+Hindu-Arabic numeral system
+Non-standard positional numeral systems
+Mixed radix
+Algorism
+Subtractive notation

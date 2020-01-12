@@ -1,0 +1,77 @@
+Oracle Grid Engine, previously known as Sun Grid Engine (SGE), CODINE (Computing in Distributed Networked Environments) or GRD (Global Resource Director), was a grid computing computer cluster software system (otherwise known as batch-queuing system), acquired as part of a purchase of Terraspring, then improved and supported by Sun Microsystems and later Oracle. There have been open source versions and multiple commercial versions of this technology, initially from Sun, later from Oracle and then from Univa Corporation.
+This technology forked from the same codebase as HP's UDC, and IBM's eLiza in 2002.
+On October 22, 2013 Univa announced it acquired the intellectual property and trademarks for the Grid Engine technology and that Univa will take over support.
+The original Grid Engine open-source project website closed in 2010, but versions of the technology are still available under its original Sun Industry Standards Source License. Those projects were forked from the original project code and are known as Son of Grid Engine and Open Grid Scheduler.
+Grid Engine is typically used on a computer farm or high-performance computing (HPC) cluster and is responsible for accepting, scheduling, dispatching, and managing the remote and distributed execution of large numbers of standalone, parallel or interactive user jobs. It also manages and schedules the allocation of distributed resources such as processors, memory, disk space, and software licenses.
+Grid Engine used to be the foundation of the Sun Grid utility computing system, made available over the Internet in the United States in 2006, later becoming available in many other countries and having been an early version of a public Cloud Computing facility predating Amazon AWS, for instance.
+The below feature sets date from the last Sun releases in 2009 or earlier. More current feature information can be found on the web sites of the open source forks or for Univa Grid Engine.
+Features in 6.2:
+Advance reservation
+Array job interdependencies
+Rule-based Resource Quota control
+Enhanced remote execution (without using external rshd/rlogind/sshd processes)
+Multi-clustering
+Daemons managed by the Service Management Facility on Solaris
+Pseudo TTY (pty) support for interactive jobs
+Job Submission Verifier (client-side and server-side job verification)
+GUI Installer and SGE Inspect
+Topology-aware scheduling and thread binding
+Hadoop integration, Amazon EC2 integration for cloud computing
+Other features of SGE include:
+Multiple advanced scheduling algorithms allow powerful policy-based resource allocation
+Cluster queues
+Job and scheduler fault tolerance - Grid Engine continues to operate as long as there is one or more hosts available
+Job checkpointing
+Job arrays and job tasks
+DRMAA (Job API)
+Resource reservation
+XML status reporting (qstat and qhost), and the xml-qstat web interface
+Parallel jobs (MPI, PVM, OpenMP), and scalable parallel job startup with qrsh
+Usage accounting
+Accounting and Reporting COnsole (ARCO)
+parallel make: distmake, dmake (Sun Studio), and SGE's own qmake
+FLEXlm integration and multi-cluster software license management with LicenseJuggler
+Grid Engine runs on multiple platforms, including:
+AIX
+BSD - FreeBSD, NetBSD, OpenBSD
+HP-UX
+IRIX
+Linux
+Mac OS X
+Solaris
+SUPER-UX
+Tru64
+Windows via SFU (Interix) or SUA (Microsoft Windows Services for UNIX) (as execution hosts only)
+Z/OS (in progress)
+A typical Grid Engine cluster consists of a master host and one or more execution hosts. Multiple shadow masters can also be configured as hot spares, which take over the role of the master when the original master host crashes.
+Univa is providing commercial support and training for Univa Grid Engine and Oracle Grid Engine. Below is a description of some of the historic options.
+Sun provided support contracts for the commercial version of Grid Engine on most UNIX platforms and Windows. Professional services, consulting, training, and support were provided by Sun Partners. Sun partners with Georgetown University to deliver Grid Engine administration classes. The Bioteam runs short SGE training workshops that are 1 or 2 days long.
+Users obtained community support on the Grid Engine mailing lists. Grid Engine Workshops were held in 2002, 2003, 2007, 2009, and 2012 in Regensburg, Germany.
+Again, the below contains historic information. More recent deplyoment information, specifically regarding commercial users, is available from Univa.
+Notable deployments of SGE include:
+Sun Grid
+TSUBAME supercomputer at the Tokyo Institute of Technology, which was number 7 on June 2006 TOP500 list.
+Ranger at the Texas Advanced Computing Center (TACC). Ranger has 62,976 processor cores in 3,936 nodes and a peak performance of 504TFlops. Ranger was the 4th most powerful TOP500 supercomputer in 2008.
+San Diego Supercomputer Center (SDSC)
+Geophysical Fluid Dynamics Laboratory (NOAA GFDL)
+In 2000, Sun acquired Gridware, Inc. a privately owned commercial vendor of advanced computing resource management software with offices in San Jose, Calif., and Regensburg, Germany. Later that year, Sun offered a free version of Gridware for Solaris and Linux, and renamed the product Sun Grid Engine.
+In 2001, Sun made the source code available, and adopted the open source development model. Ports for Mac OS X and *BSD were contributed by the non-Sun open source developers.
+In 2010, after the purchase of Sun by Oracle, the Grid Engine 6.2 update 6 source code was not included with the binaries, and changes were not put back to the project's source repository. In response to this, the Grid Engine community started the Open Grid Scheduler project to continue to develop and maintain a free implementation of Grid Engine.
+On January 18, 2011, it was announced that Univa had recruited several principal engineers from the former Sun Grid Engine team and that Univa would be developing their own forked version of Grid Engine. The newly announced Univa Grid Engine did include commercial support and would compete with the official version of Oracle Grid Engine.
+On Oct 22, 2013 Univa has announced that it had acquired the intellectual property and trademarks pertaining to the Grid Engine technology and that Univa will take over support for Oracle Grid Engine customers.
+Sun Constellation System
+Sun Visualization System
+Sun Compute Cluster
+ClusterVisionOS Distribution
+Rocks Cluster Distribution
+Univa's UniCluster Express
+Univa Grid Engine
+BioTeam's iNquiry
+Nimbus - uses Grid Engine as a virtual machine scheduler in a cloud computing environment
+A number of SGE add-ons are available:
+Solaris Cluster integration
+Service Domain Manager module in order to meet service level objectives
+Transfer-queue Over Globus (TOG). Globus added support for Grid Engine in Globus Toolkit 5.0.0
+JOb Scheduling Hierarchically (JOSH)
+Sun Ops Center - Sun's datacenter automation tool
+Open Grid Forum

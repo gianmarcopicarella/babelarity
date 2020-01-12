@@ -1,0 +1,180 @@
+In mathematics, the term ergodic is used to describe a dynamical system which, broadly speaking, has the same behavior averaged over time as averaged over the space of all the system's states (phase space). In physics the term is used to imply that a system satisfies the ergodic hypothesis of thermodynamics.
+In statistics, the term describes a random process for which the time average of one sequence of events is the same as the ensemble average. In other words, for a Markov chain, as one increases the steps, there exists a positive probability measure at step 
+        n
+    {\displaystyle n}
+   that is independent of the probability distribution at initial step 0 (Feller, 1971, p. 271).
+The term "ergodic" was derived from the Greek words έργον (ergon: "work") and οδός (odos: "path" or "way"). It was chosen by Boltzmann while he was working on a problem in statistical mechanics.
+Let 
+        (
+        X
+        ,
+        Σ
+        ,
+        μ
+        )
+    {\displaystyle (X,\;\Sigma ,\;\mu \,)}
+   be a probability space, and 
+        T
+        :
+        X
+        →
+        X
+    {\displaystyle T:X\to X}
+   be a measure-preserving transformation. We say that T is ergodic with respect to 
+        μ
+    {\displaystyle \mu }
+   (or alternatively that 
+        μ
+    {\displaystyle \mu }
+   is ergodic with respect to T) if one of the following equivalent statements is true:
+for every 
+        E
+        ∈
+        Σ
+    {\displaystyle E\in \Sigma }
+   with 
+          T
+            −
+            1
+        (
+        E
+        )
+        =
+        E
+    {\displaystyle T^{-1}(E)=E\,}
+   either 
+        μ
+        (
+        E
+        )
+        =
+        0
+    {\displaystyle \mu (E)=0\,}
+   or 
+        μ
+        (
+        E
+        )
+        =
+        1
+    {\displaystyle \mu (E)=1\,}
+  .
+for every 
+        E
+        ∈
+        Σ
+    {\displaystyle E\in \Sigma }
+   with 
+        μ
+        (
+          T
+            −
+            1
+        (
+        E
+        )
+        △
+        E
+        )
+        =
+        0
+    {\displaystyle \mu (T^{-1}(E)\bigtriangleup E)=0}
+   we have 
+        μ
+        (
+        E
+        )
+        =
+        0
+    {\displaystyle \mu (E)=0}
+   or 
+        μ
+        (
+        E
+        )
+        =
+        1
+    {\displaystyle \mu (E)=1\,}
+   (where 
+        △
+    {\displaystyle \bigtriangleup }
+   denotes the symmetric difference).
+for every 
+        E
+        ∈
+        Σ
+    {\displaystyle E\in \Sigma }
+   with positive measure we have 
+        μ
+        (
+          ⋃
+            n
+            =
+            1
+            ∞
+          T
+            −
+            n
+        E
+        )
+        =
+        1
+    {\displaystyle \mu (\bigcup _{n=1}^{\infty }T^{-n}E)=1}
+  .
+for every two sets E and H of positive measure, there exists an n > 0 such that 
+        μ
+        (
+        (
+          T
+            −
+            n
+        E
+        )
+        ∩
+        H
+        )
+        >
+        0
+    {\displaystyle \mu ((T^{-n}E)\cap H)>0}
+  .
+Every measurable function 
+        f
+        :
+        X
+        →
+          R
+    {\displaystyle f:X\to \mathbb {R} }
+   with 
+        f
+        ∘
+        T
+        =
+        f
+    {\displaystyle f\circ T=f}
+   is almost surely constant.
+These definitions have natural analogues for the case of measurable flows and, more generally, measure-preserving semigroup actions. Let {Tt} be a measurable flow on (X, Σ, μ). An element A of Σ is invariant mod 0 under {Tt} if
+        μ
+        (
+          T
+            t
+        (
+        A
+        )
+        △
+        A
+        )
+        =
+        0
+    {\displaystyle \mu (T^{t}(A)\bigtriangleup A)=0}
+for each t ∈ R. Measurable sets invariant mod 0 under a flow or a semigroup action form the invariant subalgebra of Σ, and the corresponding measure-preserving dynamical system is ergodic if the invariant subalgebra is the trivial σ-algebra consisting of the sets of measure 0 and their complements in X.
+In a Markov chain, a state 
+        i
+    {\displaystyle i}
+   is said to be ergodic if it is aperiodic and positive recurrent (a state is recurrent if there is a nonzero probability of exiting the state and the probability of an eventual return to it is 1; if the former condition is not true the state is "absorbing"). If all states in a Markov chain are ergodic, then the chain is said to be ergodic.
+Markov's theorem: a Markov chain is ergodic if there is a positive probability to pass from any state to any other state in one step.
+There is a simple test for ergodicity using eigenvalues of the transition matrix (which are always less or equal to one in absolute value). One is always an eigenvalue. If all other eigenvalues are less than one in absolute value then the chain is ergodic. This follows from the spectral decomposition of a non-symmetrical matrix.
+Ergodicity is where the ensemble average equals the time average. Each resistor has thermal noise associated with it and it depends on the temperature. Take N resistors (N should be very large) and plot the voltage across those resistors for a long period. For each resistor you will have a waveform. Calculate the average value of that waveform. This gives you the time average. You should also note that you have N waveforms as we have N resistors. These N plots are known as an ensemble. Now take a particular instant of time in all those plots and find the average value of the voltage. That gives you the ensemble average for each plot. If both ensemble average and time average are the same then it is ergodic.
+Conceptually, ergodicity of a dynamical system is a certain irreducibility property, akin to the notions of irreducibility in the theory of Markov chains, irreducible representation in algebra and prime number in arithmetic. A general measure-preserving transformation or flow on a Lebesgue space admits a canonical decomposition into its ergodic components, each of which is ergodic.
+Measure-preserving dynamical system
+Ergodic theory
+Mixing (mathematics)

@@ -1,0 +1,26 @@
+The ongoing Lunar Laser Ranging Experiment measures the distance between Earth and the Moon using laser ranging. Lasers on Earth are aimed at retroreflectors planted on the Moon during the Apollo program (11, 14, and 15) and the two Lunokhod missions. The time for the reflected light to return is measured.
+The first successful tests were carried out in 1962 when a team from the Massachusetts Institute of Technology succeeded in observing laser pulses reflected from moon's surface using a laser with a millisecond pulse length. Similar measurements were obtained later the same year by a Soviet team at the Crimean Astrophysical Observatory using a Q-switched ruby laser. Greater accuracy was achieved following the installation of a retroreflector array on July 21, 1969, by the crew of Apollo 11, and two more retroreflector arrays left by the Apollo 14 and Apollo 15 missions have also contributed to the experiment. Successful lunar laser range measurements to the retroreflectors were first reported by the 3.1 m telescope at Lick Observatory, Air Force Cambridge Research Laboratories Lunar Ranging Observatory in Arizona, the Pic du Midi Observatory in France, the Tokyo Astronomical Observatory, and McDonald Observatory in Texas.
+The unmanned Soviet Lunokhod 1 and Lunokhod 2 rovers carried smaller arrays. Reflected signals were initially received from Lunokhod 1, but no return signals were detected after 1971 until a team from University of California rediscovered the array in April 2010 using images from NASA's Lunar Reconnaissance Orbiter. Lunokhod 2's array continues to return signals to Earth. The Lunokhod arrays suffer from decreased performance in direct sunlight, a factor which was considered in the reflectors placed during the Apollo missions.
+The Apollo 15 array is three times the size of the arrays left by the two earlier Apollo missions. Its size made it the target of three-quarters of the sample measurements taken in the first 25 years of the experiment. Improvements in technology since then have resulted in greater use of the smaller arrays, by sites such as the Côte d'Azur Observatory in Grasse, France; and the Apache Point Observatory Lunar Laser-ranging Operation (APOLLO) at the Apache Point Observatory in New Mexico.
+The distance to the Moon is calculated approximately using this equation:
+distance = (speed of light × time taken for light to reflect) / 2
+In actuality, the round-trip time of about 2.5 seconds is affected by the location of the Moon in the sky, the relative motion of Earth and the Moon, Earth's rotation, lunar libration, weather, polar motion, propagation delay through Earth's atmosphere, the motion of the observing station due to crustal motion and tides, velocity of light in various parts of air and relativistic effects. Nonetheless, the Earth–Moon distance has been measured with increasing accuracy for more than 35 years. The distance continually changes for a number of reasons, but averages 385,000.6 km (239,228.3 mi).
+At the Moon's surface, the beam is about 6.5 kilometers wide and scientists liken the task of aiming the beam to using a rifle to hit a moving dime 3 kilometers away. The reflected light is too weak to be seen with the human eye: out of 1017 photons aimed at the reflector, only one will be received back on Earth every few seconds, even under good conditions. They can be identified as originating from the laser because the laser is highly monochromatic. This is one of the most precise distance measurements ever made, and is equivalent in accuracy to determining the distance between Los Angeles and New York to 0.25 mm. As of 2002, work is progressing on increasing the accuracy of the Earth–Moon measurements to near millimeter accuracy, though the performance of the reflectors continues to degrade with age.
+Lunar laser ranging measurement data is available from the Paris Observatory Lunar Analysis Center, and the active stations. Some of the findings of this long-term experiment are:
+The Moon is spiraling away from Earth at a rate of 3.8 cm per year. This rate has been described as anomalously high.
+The Moon probably has a liquid core of about 20% of the Moon's radius.
+The universal force of gravity is very stable. The experiments have constrained the change in Newton's gravitational constant G to (2±7)×10−13 per year.
+The likelihood of any "Nordtvedt effect" (a differential acceleration of the Moon and Earth towards the Sun caused by their different degrees of compactness) has been ruled out to high precision, strongly supporting the validity of the Strong Equivalence Principle.
+Einstein's theory of gravity (the general theory of relativity) predicts the Moon's orbit to within the accuracy of the laser ranging measurements.
+Gauge freedom plays a major role in a correct physical interpretation of the relativistic effects in the Earth-Moon system observed with LLR technique
+Apache Point Observatory Lunar Laser-ranging Operation
+Apollo Lunar Surface Experiments Package
+Tom Murphy (Physicist) (principal investigator of Apollo's reflector experiment)
+Carroll Alley (previous principal investigator of Apollo's reflector experiment)
+EME (communications)
+Lidar
+Lunar distance (astronomy)
+Lunokhod programme
+Satellite laser ranging
+Space geodesy
+Third-party evidence for Apollo Moon landings

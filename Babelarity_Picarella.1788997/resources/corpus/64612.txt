@@ -1,0 +1,16 @@
+Edmund Georg Hermann Landau (14 February 1877 – 19 February 1938) was a German mathematician who worked in the fields of number theory and complex analysis.
+Edmund Landau was born in Berlin. His father was Leopold Landau, a gynecologist and his mother was Johanna Jacoby. Landau studied mathematics at the University of Berlin, receiving his doctorate in 1899 and his habilitation (the post-doctoral qualification required in German universities) in 1901. His doctoral thesis was 14 pages long. He taught at the University of Berlin from 1899 to 1909, after which he held a chair at the University of Göttingen. He married Marianne Ehrlich, the daughter of the Nobel Prize-winning biologist Paul Ehrlich, in 1905.
+During the 1920s, Landau was instrumental in establishing the Mathematics Institute at the nascent Hebrew University of Jerusalem. Intent on eventually settling in Jerusalem, he taught himself Hebrew and delivered a lecture entitled Solved and unsolved problems in elementary number theory in Hebrew on April 2, 1925 during the University's groundbreaking ceremonies. He negotiated with the University's president, Judah Magnes, regarding a position at the University and the building that was to house the Mathematics Institute.
+Landau and his family emigrated to Palestine in 1927 and he began teaching at the Hebrew University. The family had difficulty adjusting to the primitive living standards then available in Jerusalem. In addition, Landau became a pawn in a struggle for control of the University between Magnes and Chaim Weizmann and Albert Einstein. Magnes suggested that Landau be appointed Rector of the University, but Einstein and Weizmann supported Selig Brodetsky. Landau was disgusted by the dispute and decided to return to Göttingen, remaining there until he was forced out by the Nazi regime after the Machtergreifung in 1933. Thereafter, he lectured only outside Germany. He moved to Berlin in 1934, where he died in early 1938 of natural causes.
+In 1903, Landau gave a much simpler proof than was then known of the prime number theorem and later presented the first systematic treatment of analytic number theory in the Handbuch der Lehre von der Verteilung der Primzahlen (the "Handbuch"). He also made important contributions to complex analysis.
+G. H. Hardy wrote that no one was ever more passionately devoted to mathematics than Landau.
+Foundations of Analysis, Chelsea Pub Co. ISBN 0-8218-2693-X.
+Differential and Integral Calculus, American Mathematical Society. ISBN 0-8218-2830-4.
+Elementary Number Theory, American Mathematical Society. ISBN 0-8218-2004-4.
+Landau's function
+Landau prime ideal theorem
+Landau's problems
+Landau's symbol (Big O notation)
+Landau–Kolmogorov inequality
+Landau–Ramanujan constant
+Landau's problem on the Dirichlet eta function

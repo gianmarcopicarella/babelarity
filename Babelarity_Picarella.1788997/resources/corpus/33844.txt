@@ -1,0 +1,27 @@
+Violales is a botanical name of an order of flowering plants and takes its name from the included family Violaceae. The name has been used in several systems, although some systems used the name Parietales for similar groupings. In the 1981 version of the influential Cronquist system, order Violales was placed in subclass Dilleniidae with a circumscription consisting of the families listed below. Some classifications such as that of Dahlgren placed the Violales in the superorder Violiflorae (also called Violanae).
+The Angiosperm Phylogeny Group system does not recognize order Violales; Violaceae is placed in order Malpighiales and the other families are reassigned to various orders as indicated.
+order Violales
+family Achariaceae → order Malpighiales
+family Ancistrocladaceae → order Caryophyllales
+family Begoniaceae → order Cucurbitales
+family Bixaceae → order Malvales
+family Caricaceae → order Brassicales
+family Cistaceae → order Malvales
+family Cucurbitaceae → order Cucurbitales
+family Datiscaceae → order Cucurbitales
+family Dioncophyllaceae → order Caryophyllales
+family Flacourtiaceae → included in family Salicaceae, in order Malpighiales
+family Fouquieriaceae → order Ericales
+family Frankeniaceae → order Caryophyllales
+family Hoplestigmataceae → uncertain position
+family Huaceae → eurosids I (direct placement)
+family Lacistemataceae → order Malpighiales
+family Loasaceae → order Cornales
+family Malesherbiaceae → order Malpighiales (optionally inside Passifloraceae)
+family Passifloraceae → order Malpighiales
+family Peridiscaceae → order Malpighiales
+family Scyphostegiaceae → included in family Salicaceae, in order Malpighiales
+family Stachyuraceae → order Crossosomatales
+family Tamaricaceae → order Caryophyllales
+family Turneraceae → order Malpighiales (optionally inside Passifloraceae)
+family Violaceae → order Malpighiales

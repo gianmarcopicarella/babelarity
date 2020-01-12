@@ -1,0 +1,11 @@
+A pentose is a monosaccharide with five carbon atoms. Pentoses are organized into two groups. Aldopentoses have an aldehyde functional group at position 1. Ketopentoses have a ketone functional group in position 2 or 3.
+The aldopentoses have three chiral centers and therefore eight different (2^3) stereoisomers are possible.
+The 2-ketopentoses have two chiral centers, and therefore four different stereoisomers are possible (2^2). The 3-ketopentoses are rare.
+The aldehyde and ketone functional groups in these carbohydrates react with neighbouring hydroxyl functional groups to form intramolecular hemiacetals and hemiketals, respectively. The resulting ring structure is related to furan, and is termed a furanose. The ring spontaneously opens and closes, allowing rotation to occur about the bond between the carbonyl group and the neighbouring carbon atom — yielding two distinct configurations (α and β). This process is termed mutarotation.
+Ribose is a constituent of RNA, and the related deoxyribose of DNA.
+A polymer composed of pentose sugars is called a pentosan.
+The Tollens’ test for pentoses relies on reaction of the furfural with phloroglucinol to produce a colored compound with high molar absorptivity.
+Aniline acetate test, for distinguishing pentoses from other carbohydrates
+Pentose phosphate pathway
+Bial's test
+Ribose

@@ -1,0 +1,44 @@
+An organic acid is an organic compound with acidic properties. The most common organic acids are the carboxylic acids, whose acidity is associated with their carboxyl group –COOH. Sulfonic acids, containing the group –SO2OH, are relatively stronger acids. Alcohols, with –OH, can act as acids but they are usually very weak. The relative stability of the conjugate base of the acid determines its acidity. Other groups can also confer acidity, usually weakly: the thiol group –SH, the enol group, and the phenol group. In biological systems, organic compounds containing these groups are generally referred to as organic acids.
+In general, organic acids are weak acids and do not dissociate completely in water, whereas the strong mineral acids do. Lower molecular mass organic acids such as formic and lactic acids are miscible in water, but higher molecular mass organic acids, such as benzoic acid, are insoluble in molecular (neutral) form.
+On the other hand, most organic acids are very soluble in organic solvents. p-Toluenesulfonic acid is a comparatively strong acid used in organic chemistry often because it is able to dissolve in the organic reaction solvent.
+Exceptions to these solubility characteristics exist in the presence of other substituents that affect the polarity of the compound.
+The pKa a logarithmic measure of the acid dissociation constant, categorizes the strength of an acid; the lower or more negative the number, the stronger and more dissociable the acid. It should not be confused with pH, the logarithmic measure of actual hydrogen ion concentration, and thus strength of a particular acid solution. A few examples include: (COOH is the carboxyl group)
+Formic acid (methanoic acid) HCOOH (pKa=3.8)
+Acetic acid (ethanoic acid ) CH3COOH (pKa=4.7)
+Propionic acid (propanoic acid) CH3CH2COOH (pKa=4.9)
+Butyric acid (butanoic acid) CH3CH2CH2COOH (pKa=4.8)
+Valeric acid (pentanoic acid) CH3CH2CH2CH2COOH (pKa=4.8)
+Caproic acid (hexanoic acid) CH3CH2CH2CH2CH2COOH (pKa=4.9)
+Oxalic acid (ethanedioic acid) (COOH)(COOH) (pKa=1.2)
+Lactic acid (2-hydroxypropanoic acid) CH3CHOHCOOH (pKa=3.9)
+Malic acid (2-hydroxybutanedioic acid) (COOH)CH2CHOH(COOH) (pKa=3.4)
+Citric acid (2-hydroxypropane-1,2,3-tricarboxylic acid) CH2(COOH)COH(COOH)CH2(COOH) (pKa=3.1)
+Benzoic acid (Benzenecarboxylic acid [IUPAC ] or phenylmethanoic acid, not IUPAC name) C6H5COOH (pKa=4.2)
+Carbonic acid (hydroxymethanoic acid, not an IUPAC name) OHCOOH or H2CO3 (pKa=3.6)
+Carbonic acid, a weak acid formed by CO2 gas dissolving in water, is considered inorganic for historical reasons as its dissociation products are carbonate and bicarbonate ions.
+Phenol (carbolic acid or hydroxybenzene, not IUPAC names) C6H5OH (pKa=9.9)
+The 19th century name carbolic acid came from the original German name karbolsäure, or coal-oil-acid. It is a weak, non-carboxylic acid, but is corrosive and causes chemical burns on the skin due to a protein-degenerating effect.
+Uric acid (7,9-Dihydro-1H-purine-2,6,8(3H)-trione) C5H4N4O3 (pKa=-1.1)
+Uric acid is a heterocyclic purine derivative which is a diprotic acid but not a carboxylic one; it loses a hydrogen ion at the location of a nitrogen atom.
+Taurine (2-aminoethanesulfonic acid) C2H7NO3S (pKa=9.0)
+One of the few natural sulfonic acids, discovered in bile.
+p-Toluenesulfonic acid (4-methylbenzenesulfonic acid) CH3C6H4SO3H (pKa=-2.8)
+A strong acid that, unlike some strong mineral acids, is non-oxidizing.
+Trifluoromethanesulfonic acid (aka triflic acid) CF3SO3H (pka=-12)
+One of the strongest acids in existence, organic or inorganic, about a thousand times stronger than sulfuric acid; a superacid. First synthesized in 1954, it also resists oxidation/reduction reactions and does not sulfonate substrates like sulfuric or chlorosulfonic acid.
+Aminomethylphosphonic acid (pKa=0.4)
+A strong phosphonic acid
+Simple organic acids like formic or acetic acids are used for oil and gas well stimulation treatments. These organic acids are much less reactive with metals than are strong mineral acids like hydrochloric acid (HCl) or mixtures of HCl and hydrofluoric acid (HF). For this reason, organic acids are used at high temperatures or when long contact times between acid and pipe are needed.
+The conjugate bases of organic acids such as citrate and lactate are often used in biologically-compatible buffer solutions.
+Citric and oxalic acids are used as rust removal. As acids, they can dissolve the iron oxides, but without damaging the base metal as do stronger mineral acids. In the dissociated form, they may be able to chelate the metal ions, helping to speed removal.
+Biological systems create many and more complex organic acids such as L-lactic, citric, and D-glucuronic acids that contain hydroxyl or carboxyl groups. Human blood and urine contain these plus organic acid degradation products of amino acids, neurotransmitters, and intestinal bacterial action on food components. Examples of these categories are alpha-ketoisocaproic, vanilmandelic, and D-lactic acids, derived from catabolism of L-leucine and epinephrine (adrenaline) by human tissues and catabolism of dietary carbohydrate by intestinal bacteria, respectively.
+Organic acids are used in food preservation because of their effects on bacteria. The key basic principle on the mode of action of organic acids on bacteria is that non-dissociated (non-ionized) organic acids can penetrate the bacteria cell wall and disrupt the normal physiology of certain types of bacteria that we call pH-sensitive, meaning that they cannot tolerate a wide internal and external pH gradient. Among those bacteria are Escherichia coli, Salmonella spp., C. perfringens, Listeria monocytogenes, and Campylobacter species.
+Upon passive diffusion of organic acids into the bacteria, where the pH is near or above neutrality, the acids will dissociate and lower the bacteria internal pH, leading to situations that will impair or stop the growth of bacteria. Thereafter, the anionic part of the organic acids, which cannot escape the bacteria in its dissociated form, will accumulate within the bacteria and disrupt many metabolic functions, leading to osmotic pressure increase, incompatible with the survival of the bacteria.
+It has been well demonstrated that the state of the organic acids (undissociated or dissociated) is extremely important in determining their capacity to inhibit the growth of bacteria.
+Lactic acid and its salts sodium lactate and potassium lactate are widely used as antimicrobials in food products, in particular, meat and poultry such as ham and sausages.
+Organic acids have been used successfully in pig production for more than 25 years. Although less research has been done in poultry, organic acids have also been found to be effective in poultry production.
+Organic acids (C1–C7) are widely distributed in nature as normal constituents of plants or animal tissues. They are also formed through microbial fermentation of carbohydrates mainly in the large intestine. They are sometimes found in their sodium, potassium, or calcium salts, or even stronger double salts.
+Organic acids added to feeds should be protected to avoid their dissociation in the crop and in the intestine (high pH segments) and reach far into the gastrointestinal tract, where the bulk of the bacteria population is located.
+From the use of organic acids in poultry and pigs, one can expect an improvement in performance similar to or better than that of antibiotic growth promoters, without the public health concern, a preventive effect on the intestinal problems like necrotic enteritis in chickens and Escherichia coli infection in young pigs. Also one can expect a reduction of the carrier state for Salmonella species and Campylobacter species.
+Acid-base extraction
+Organic base

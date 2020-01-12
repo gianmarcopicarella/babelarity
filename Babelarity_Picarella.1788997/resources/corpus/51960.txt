@@ -1,0 +1,35 @@
+Zabbix is enterprise open source monitoring software for networks and applications, created by Alexei Vladishev. It is designed to monitor and track the status of various network services, servers, and other network hardware.
+Zabbix uses MySQL, PostgreSQL, SQLite, Oracle or IBM DB2 to store data. Its backend is written in C and the web frontend is written in PHP. Zabbix offers several monitoring options:
+Simple checks can verify the availability and responsiveness of standard services such as SMTP or HTTP without installing any software on the monitored host.
+A Zabbix agent can also be installed on UNIX and Windows hosts to monitor statistics such as CPU load, network utilization, disk space, etc.
+As an alternative to installing an agent on hosts, Zabbix includes support for monitoring via SNMP, TCP and ICMP checks, as well as over IPMI, JMX, SSH, Telnet and using custom parameters. Zabbix supports a variety of near-real-time notification mechanisms, including XMPP.
+Released under the terms of GNU General Public License version 2, Zabbix is free software.
+Zabbix started as an internal software project in 1998. After three years, in 2001, it was released to the public under GPL. It took three more years until the first stable version, 1.0, was released in 2004.
+High performance, high capacity (able to monitor hundreds of thousands of devices)
+Auto-discovery of servers and network devices
+Low-level discovery
+Distributed monitoring with centralized web administration
+Support for both polling and trapping mechanisms
+Native high performance agents (client software for Linux, Solaris, HP-UX, AIX, FreeBSD, OpenBSD, OS X, Tru64/OSF1, Windows 2000, Windows Server 2003, Windows XP, Windows Vista, Windows Server 2008, Windows 7)
+Agent-less monitoring
+JMX monitoring
+Web monitoring
+Secure user authentication
+Flexible user permissions
+Web-based interface
+SLA, and ITIL KPI metrics on reporting
+Flexible e-mail notification on predefined events
+High-level (business) view of monitored resources through user-defined visual console screens and dashboards
+Audit log
+Today, Zabbix is primarily developed by a dedicated company, also called Zabbix.
+Zabbix consists of several separate modules:
+Server
+Agents
+Frontend
+Proxy
+While the server, proxy and agents are written in C, the frontend is implemented in PHP and Javascript.
+Java gateway, available since Zabbix 2.0, is written in Java.
+Since the first stable version was released as 1.0, Zabbix versioning has only increased minor version numbers. Each minor release actually implements many new features, while change level releases mostly introduce bugfixes.
+Zabbix version numbering scheme has changed. While the first two stable branches were 1.0 and 1.1, after 1.1 it was decided to use odd numbers for development versions and even numbers for stable versions. As a result, 1.3 followed 1.1 as a development release to be released as 1.4.
+Note: this chart excludes release candidates in stable branches.
+Comparison of network monitoring systems

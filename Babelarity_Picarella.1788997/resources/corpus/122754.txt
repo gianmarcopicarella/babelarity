@@ -1,0 +1,96 @@
+Jamaican Patois, known locally as Patois (Patwa or Patwah) and called Jamaican Creole by linguists, is an English-based creole language with West African influences (a majority of loan words of Akan origin) spoken primarily in Jamaica and the Jamaican diaspora. The language developed in the 17th century, when slaves from West and Central Africa were exposed to, learned and nativized the vernacular and dialectal forms of English spoken by the slaveholders: British English, Scots and Hiberno-English. It exhibits a gradation between more conservative creole forms and forms virtually identical to Standard English (i.e. metropolitan Standard English).
+Some Jamaicans refer to their language as patois. The term patois comes from Old French, patois "local or regional dialect" (earlier "rough, clumsy, or uncultivated speech"), possibly from the verb patoier, "to treat roughly", from pate "paw", from Old Low Franconian *patta "paw, sole of the foot" + -ois, a pejorative suffix. The term may have arisen from the notion of a clumsy or rough manner of speaking.
+Jamaican pronunciation and vocabulary are significantly different from English, despite heavy use of English words or derivatives. Jamaican Patois displays similarities to the pidgin and creole languages of West Africa, due to their common descent from the blending of African substrate languages with European languages.
+Significant Jamaican-speaking communities exist among Jamaican expatriates in Miami, New York City, Toronto, Hartford, Washington, D.C., Nicaragua, Costa Rica, and Panama (in the Caribbean coast), also London, Birmingham, Manchester, and Nottingham. A mutually intelligible variety is found in San Andrés y Providencia Islands, Colombia, brought to the island by descendants of Jamaican Maroons (escaped slaves) in the 18th century. Mesolectal forms are similar to very basilectal Belizean Kriol.
+Jamaican Patois exists mostly as a spoken language. Although standard British English is used for most writing in Jamaica, Jamaican Patois has been gaining ground as a literary language for almost a hundred years. Claude McKay published his book of Jamaican poems Songs of Jamaica in 1912. Patois and English are frequently used for stylistic contrast (codeswitching) in new forms of internet writing.
+Accounts of basilectal Jamaican Patois postulate around 21 phonemic consonants and between 9 and 16 vowels.
+^1 The status of /h/ as a phoneme is dialectal: in western varieties, it is a full phoneme and there are minimal pairs (/hiit/ 'hit' and /iit/ 'eat'); in central and eastern varieties, the presence of [h] in a word is in free variation with no consonant so that the words for 'hand' and 'and' (both underlyingly /an/) may be pronounced [han] or [an].
+^2 The palatal stops [c], [ɟ] and [ɲ] are considered phonemic by some accounts and phonetic by others. For the latter interpretation, their appearance is included in the larger phenomenon of phonetic palatalization.
+Examples of palatalization include:
+/kiuu/ → [ciuː] → [cuː] ('a quarter quart (of rum)')
+/ɡiaad/ → [ɟiaːd] → [ɟaːd] ('guard')
+/piaa + piaa/ → [pʲiãːpʲiãː] → [pʲãːpʲãː] ('weak')
+Voiced stops are implosive whenever in the onset of prominent syllables (especially word-initially) so that /biit/ ('beat') is pronounced [ɓiːt] and /ɡuud/ ('good') as [ɠuːd].
+Before a syllabic /l/, the contrast between alveolar and velar consonants has been historically neutralized with alveolar consonants becoming velar so that the word for 'bottle' is /bakl̩/ and the word for 'idle' is /aiɡl̩/.
+Jamaican Patois exhibits two types of vowel harmony; peripheral vowel harmony, wherein only sequences of peripheral vowels (that is, /i/, /u/, and /a/) can occur within a syllable; and back harmony, wherein /i/ and /u/ cannot occur within a syllable together (that is, /uu/ and /ii/ are allowed but * /ui/ and * /iu/ are not). These two phenomena account for three long vowels and four diphthongs:
+Jamaican Patois features a creole continuum (or a linguistic continuum): the variety of the language closest to the lexifier language (the acrolect) cannot be distinguished systematically from intermediate varieties (collectively referred to as the mesolect) or even from the most divergent rural varieties (collectively referred to as the basilect). This situation came about with contact between speakers of a number of Niger–Congo languages and various dialects of English, the latter of which were all perceived as prestigious and the use of which carried socio-economic rewards. The span of a speaker's command of the continuum generally corresponds to the variety of social situations he encounters.
+The tense/aspect system of Jamaican Patois is fundamentally unlike that of English. There are no morphological marked past tense forms corresponding to English -ed -t. There are two preverbial particles: en and a. These are not verbs but simply invariant particles that cannot stand alone like the English to be. Their function also differs from the English.
+According to Bailey (1966), the progressive category is marked by /a~da~de/. Alleyne (1980) claims that /a~da/ marks the progressive and that the habitual aspect is unmarked but by its accompaniment with words such as "always", "usually", etc. (i.e. is absent as a grammatical category). Mufwene (1984) and Gibson and Levy (1984) propose a past-only habitual category marked by /juusta/ as in /weɹ wi juusta liv iz not az kuol az iiɹ/ ('where we used to live is not as cold as here')
+For the present tense, an uninflected verb combining with an iterative adverb marks habitual meaning as in /tam aawez nuo kieti tel pan im/ ('Tom always knows when Katy tells/has told about him').
+en is a tense indicator
+a is an aspect marker
+(a) go is used to indicate the future
+/mi ɹon/
+I run (habitually); I ran
+/mi a ɹon/ or /mi de ɹon/
+I am running
+/a ɹon mi dida ɹon/ or /a ɹon mi ben(w)en a ɹon/
+I was running
+/mi did ɹon/ or /mi ben(w)en ɹon/
+I have run; I had run
+/mi a ɡo ɹon/
+I am going to run; I will run
+Like other Caribbean Creoles (that is, Guyanese Creole and San Andrés-Providencia Creole; Sranan Tongo is excluded) /fi/ has a number of functions, including:
+Directional, dative, or benefactive preposition
+/dem a fait fi wi/ ('They are fighting for us')
+Genitive preposition (that is, marker of possession)
+/dat a fi mi buk/ ('that's my book')
+Modal auxiliary expressing obligation or futurity
+/im fi kom op ja/ ('he ought to come up here')
+Pre-infinitive complementizer
+/unu hafi kiip samtiŋ faɹ de ɡini piipl-dem fi biit dem miuzik/ ('you have to contribute something to the Guinean People for playing their music')
+The pronominal system of Standard English has a four-way distinction of person, number, gender and case. Some varieties of Jamaican Patois do not have the gender or case distinction, but all varieties distinguish between the second person singular and plural (you).
+I, me = /mi/
+you, you (singular) = /ju/
+he, him = /im/ (pronounced [ĩ] in the basilect varieties)
+she, her = /ʃi/ or /im/ (no gender distinction in basilect varieties)
+we, us, our = /wi/
+you (plural) = /unu/
+they, them, their = /dem/
+the Jamaican Patois equative verb is also a
+e.g. /mi a di tiitʃa/ ('I am the teacher')
+Jamaican Patois has a separate locative verb deh
+e.g. /wi de a london/ or /wi de ina london/ ('we are in London')
+with true adjectives in Jamaican Patois, no copula is needed
+e.g. /mi ole nau/ ('I am old now')
+/no/ is used as a present tense negator:
+/if kau no did nuo au im tɹuotuol tan im udn tʃaans pieɹsiid/ ('If the cow knew that his throat wasn't capable of swallowing a pear seed, he wouldn't have swallowed it')
+/kiaan/ is used in the same way as English can't
+/it a puoɹ tiŋ dat kiaan maʃ ant/ ('It is a poor thing that can't mash an ant')
+/neva/ is a negative past participle./dʒan neva tiif di moni/ ('John did not steal the money')
+Patois has long been written with various respellings compared to English so that, for example, the word "there" might be written 〈de〉, 〈deh〉, or 〈dere〉, and the word "three" as 〈tree〉, 〈tri〉, or 〈trii〉. Standard English spelling is often used and a nonstandard spelling sometimes becomes widespread even though it is neither phonetic nor standard (e.g. 〈pickney〉 for /pikni/, 'child'). In 2002, the Jamaican Language Unit was set up at the University of the West Indies at Mona to begin standardizing the language, with the aim of supporting non-English-speaking Jamaicans according to their constitutional guarantees of equal rights.The point was made that many citizens of Jamaica lack competence in English, the language in which services of the state are normally provided. The vast majority of such persons are speakers of Jamaican, widely referred to as Patwa. It was argued that failure to provide services of the state in a language in such general use or discriminatory treatment by officers of the state based on the inability of a citizen to use English, was a violation of the rights of citizens so affected. The proposal was made that freedom from discrimination on the ground of language be inserted into the Charter of Rights. They standardized the Jamaican alphabet as follows:
+Nasal vowels are written with -hn, as in kyaahn (can't) and iihn (isn't it?)
+h is written according to local pronunciation, so that hen (hen) and en (end) are distinguished in writing for speakers of western Jamaican, but not for those of central Jamaican.
+Jamaican Patois contains many loanwords, most of which are African in origin. The largest portion contributed to Patois is from the Akan language of Twi(pronounced: 'chwee').
+Primarily these come from English, but are also borrowed from Spanish, Portuguese, Hindi, Arawak and African languages as well as Scottish and Irish dialects.
+Examples from African languages include /se/ meaning that (in the sense of "he told me that..." = /im tel mi se/), taken from Ashanti Twi, and Duppy meaning ghost, taken from the Twi word dupon ('cotton tree root'), because of the African belief of malicious spirits originating in the root of trees (in Jamaica and Ghana, particularly the cotton tree known in both places as "Odom"). The pronoun /unu/, used for the plural form of you, is taken from the Igbo language. Red eboe describes a fair-skinned black person because of the reported account of fair skin among the Igbo in the mid 1700s. De meaning to be(at a location) comes from Yoruba. From the Ashanti-Akan, comes the term Obeah which means witchcraft, from the Ashanti Twi word Ɔbayi which also means "witchcraft".
+Words from Hindi include ganja (marijuana), and janga (crawdad). Pickney or pickiney meaning child, taken from an earlier form (piccaninny) was ultimately borrowed from the Portuguese pequenino (the diminutive of pequeno, small) or Spanish pequeño ('small').
+There are many words referring to popular produce and food items—ackee, callaloo, guinep, bammy, roti, dal, kamranga. See Jamaican cuisine.
+Jamaican Patois has its own rich variety of swearwords. One of the strongest is blood claat (along with related forms raas claat, bomba claat, claat and others—compare with bloody in Australian English and British English, which is also considered a profanity).
+Homosexual men are referred to as /biips/ or batty boys.
+Three men swam.
+/tɹi man did a suim/
+I nearly hit him
+/a didn mek dʒuok fi lik im/
+He can't beat me, he simply got lucky and won.
+/im kiaan biit mi, a dʒos bokop im bokop an win/
+Those children are disobedient
+/dem pikni de aad iez/
+/siin/ - Affirmative particle
+/papiˈʃuo/ - Foolish exhibition, a person who makes a foolish exhibition of him or herself, or an exclamation of surprise.
+/uman/ woman
+/buai/ boy
+/ɡial/ Girl
+A rich body of literature has developed in Jamaican Patois. Notable among early authors and works are Thomas MacDermot's All Jamaica Library and Claude McKay's Songs of Jamaica (1909), and, more recently, Linton Kwesi Johnson and Mikey Smith. Subsequently, the life-work of Louise Bennett or Miss Lou (1919–2006) is particularly notable for her use of the rich colorful patois, despite being shunned by traditional literary groups. "The Jamaican Poetry League excluded her from its meetings, and editors failed to include her in anthologies." Nonetheless, she argued forcefully for the recognition of Jamaican as a full language, with the same pedigree as the dialect from which Standard English had sprung:
+Dah language weh yuh proud a,
+Weh yuh honour an respec –
+Po Mas Charlie, yuh no know se
+Dat it spring from dialec!
+After the 1960s, the status of Jamaican Patois rose as a number of respected linguistic studies were published, by Cassidy (1961, 1967), Bailey (1966) and others. Subsequently, it has gradually become mainstream to codemix or write complete pieces in Jamaican Patois; proponents include Kamau Brathwaite, who also analyses the position of Creole poetry in his History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry (1984). However, Standard English remains the more prestigious literary medium in Jamaican literature. Canadian-Caribbean science-fiction novelist Nalo Hopkinson often writes in Jamaican or other Caribbean Patois. Jean D'Costa penned a series of popular children's novels, including Sprat Morrison (1972; 1990), Escape to Last Man Peak (1976), and Voice in the Wind (1978), which draw liberally from Jamaican Patois for dialogue, while presenting narrative prose in Standard English.
+Jamaican Patois is also presented in some films and other media, for example, Tia Dalma's speech from Pirates of the Caribbean: Dead Man's Chest, and a few scenes in Meet Joe Black in which Brad Pitt's character converses with a Jamaican woman. In addition, early Jamaican films like The Harder They Come (1972), Rockers (1978), and many of the films produced by Palm Pictures in the mid-1990s (e.g. Dancehall Queen and Third World Cop) have most of their dialogue in Jamaican Patois; some of these films have even been subtitled in English.
+In December 2011, it was reported that the Bible was being translated into Jamaican Patois. The Gospel of St Luke has already appeared as: Jiizas: di Buk We Luuk Rait bout Im. While the Rev. Courtney Stewart, managing the translation as General Secretary of the West Indies Bible Society, believes this will help elevate the status of Jamaican Patois, others think that such a move would undermine efforts at promoting the use of English. The Patois New Testament was launched in Britain (where the Jamaican diaspora is significant) in October 2012 as "Di Jamiekan Nyuu Testiment", and with print and audio versions in Jamaica in December 2012.
+African American Vernacular English
+English-based creole languages
+Jamaican English
+Nation language
+Rastafarian vocabulary

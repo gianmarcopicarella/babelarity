@@ -1,0 +1,107 @@
+The Hawker Sea Hawk was a British single-seat jet fighter of the Fleet Air Arm (FAA), the air branch of the Royal Navy (RN), built by Hawker Aircraft and its sister company, Armstrong Whitworth Aircraft. Although its origins stemmed from earlier Hawker piston-engined fighters, the Sea Hawk became the company's first jet aircraft.
+Following the type's acceptance in the RN, the Sea Hawk proved to be a reliable and sturdy workhorse. A considerable number were also produced for the export market, and were operated from aircraft carriers in both Dutch and Indian service. The last operational Sea Hawks, operated by the Indian Navy, were retired in 1983.
+In the final years of the Second World War, Hawker's design team explored jet engine technology, initially looking at "stretching" and modifying the existing Hawker Fury/Sea Fury by fitting a mid-fuselage Rolls-Royce Nene jet engine and moving the cockpit to the extreme front of the fuselage, creating the P.1035. With encouragement from the Air Ministry, the design was altered substantially, with the wing losing the elliptical shape of the Fury and featuring wing-root air intakes and short bifurcated jet exhausts (which gained the name "trouser legs"). This redesign culminated in building the private venture P.1040.
+The unusual bifurcated jet pipe reduced jet pipe power loss and freed up space in the rear fuselage for fuel tanks, allowing the aircraft to have a longer range than many other early jets. The aircraft's fuselage fuel tanks were fore and aft of the engine giving a stable centre of gravity in flight. Initially, the P.1040 was intended for the Royal Air Force (RAF) as an interceptor, even though a top speed of only 600 mph was forecast. When in 1945 the RAF showed little interest in the project because it offered insufficient advance over jet fighters already in service such as the Gloster Meteor and de Havilland Vampire, the P.1040 was offered to the Admiralty as a fleet support fighter, the P.1046.
+The P.1040 prototype (VP401), sometimes called the Hawker N.7/46 after the naval specification flew on 2 September 1947, piloted by Bill Humble. Aerodynamic-related teething problems were encountered early on, such as airframe vibrations and tail buffeting, and thus led to a redesign of the rear jetpipe fairings and the addition of a bullet fairing on the tail. Other minor issues were addressed, including high stick forces and windshield distortion, while a long takeoff run was attributed to the low-powered Nene 1 that had been not rated for its full power settings.
+A fully navalised prototype, VP413 equipped with folding wings, catapult spools and full armament did not fly until 31 August 1948. A third prototype which flew in 1949 incorporated a number of modifications from the second prototype, including the fitting of a longer arrester hook when a number of "bolters" were experienced in the dummy deck trials. After the longer hook was incorporated, the modification was carried though the remaining production runs. The first carrier trials occurred aboard the fleet aircraft carrier HMS Illustrious that same year. VP401, the first prototype continued in the flight test programme and before being retired, was involved in two significant events. On 1 August 1949, the Royal Navy entered VP401 in the National Air Races, winning the SBAC Challenge Cup Race, beating a Vampire 3 and DH 108. The prototype was later converted into the Hawker P.1072 with the addition of an auxiliary rocket engine, becoming the first British rocket-powered aircraft. After a few flights were made in 1950, the rocket engine blew up during a test and although repaired, the airframe was scrapped.
+The third prototype joined a specially prepared Vampire Mk 21 in testing the feasibility of operating without an undercarriage utilizing a flexible deck. Flying from Farnborough, VP413 successfully completed both catapult launches and "rubber sheet" deck landings, with the undercarriage remaining retracted throughout the flights. Although the system was proved, the project was abandoned in 1950 when more powerful engines precluded the need to radically adapt the design to the concept of combat aircraft without undercarriages.
+Over 100 aircraft of a production model, named Sea Hawk, were subsequently ordered by the Royal Navy. The first production Sea Hawk F1 was WF143, which flew on 14 November 1951 with 39 ft (12 m) wingspan and a tailplane of increased area. Unlike its rival, the Supermarine Attacker, which had been the first jet to enter service with the FAA, the Sea Hawk had a tricycle undercarriage rather than a tail-wheel, making it easier to land on carriers. It was a fairly conventional design however, while other contemporary aircraft, e.g. the F-86 Sabre, had adopted swept wings, the Sea Hawk had straight wings. Swept wing versions (P.1052 and P.1081) were built and experience gained with the latter was instrumental in developing the Hawker Hunter design. The Sea Hawk was still a reliable and elegant aeroplane though its cautious design meant it would only have a brief career before being superseded by more advanced aircraft.
+The first production Sea Hawk was the F 1, which first flew in 1951, entered service two years later with 806 Squadron, first based at Brawdy, then transferred to the HMS Eagle. Just over 30 were actually built by Hawker. At that time, Hawker was also producing the Hawker Hunter for the RAF and so production and further development of the Sea Hawk was switched to Armstrong Whitworth Aircraft, part of the Hawker group. The F 1 was armed with four 20 mm (.79 in) Hispano Mk V cannons. It was powered by a single 5,000 lbf (22 kN) thrust Rolls-Royce Nene 101 turbojet. The F 1 had a maximum speed of 599 mph (964 km/h) at sea level and a range of 800 mi (1,287 km) on internal fuel. The second fighter variant was the F 2 which introduced power-boosted aileron controls as well as other modifications, including to its structure.
+The next variant of the Sea Hawk was developed into a fighter-bomber, the FB 3 - Fighter-Bomber Mark 3 -(over 100 built) and differed only slightly from its predecessors. Its structure was strengthened to allow it to carry a wide array of equipment and weaponry. Its new armament consisted of two 500 lb (227 kg) bombs and 16 unguided rockets. The fourth Sea Hawk was a fighter ground-attack variant, the FGA 4, with increased weapons capability. The fifth Sea Hawk was a fighter-bomber variant, the FB 5, basically FB 3 and FGA 4s re-engined with the new Rolls-Royce Nene 103. The final Sea Hawk was a fighter ground-attack variant, FGA 6, and was exactly the same as its immediate predecessor, though they were new builds rather than re-engined, with just under 90 built. All Sea Hawks were in service by the mid-1950s and eventually over 500 were built.
+Although Australia and Canada both initially expressed interest in the Sea Hawk, to the extent that examples were tested by each country's naval forces, the first export version was the Sea Hawk Mk 50, a ground-attack variant for the Royal Netherlands Navy; 22 aircraft were in service between 1957 and 1964. The next export variant was the Sea Hawk Mk 100, a strike fighter variant for the German Bundesmarine, the Navy of West Germany. The final German export version was the Sea Hawk Mk 101, a night fighter, reconnaissance variant for the Bundesmarine. The Sea Hawk served into the mid-1960s, until its replacement by the F-104 Starfighter. The last export customer was India who ordered a mix of 24 new-build Sea Hawks and 12 refurbished ex-FAA Mk 6s in 1959, following up with 30 additional airframes reconstructed from West German stocks, among others.
+The Sea Hawk, as part of the Fleet Air Arm, saw extensive service during the Suez Crisis, initiated by Egypt's nationalisation of the Suez Canal and naval blockade of southern Israeli ports in violation of the 1949 armistice and UN Security Council resolution denying passage the the Straits of Tiran to Israeli shipping. The United Kingdom, France and Israel conspired to provoke war, with the Anglo-French invasion being known as Operation Musketeer, beginning on 31 October 1956. Six Sea Hawk squadrons took part: two were aboard the fleet carrier HMS Eagle and two each aboard the light fleet carriers HMS Albion and HMS Bulwark. The Sea Hawks were used for ground-attack, causing damage to a variety of Egyptian targets. The military conduct of the Suez Campaign was successful, unlike the political disaster, and all invasion forces were withdrawn by 1957 though the waterway was reopened to Israeli ships.
+The Sea Hawk was a successful export aircraft. In the Royal Netherlands Navy, it served aboard the Dutch aircraft carrier HNLMS Karel Doorman, ex-HMS Venerable, including decolonization operations guarding against Indonesian threats in the area. From 1959 they were equipped with Sidewinder missiles significantly enhancing and extending their air-to-air combat capabilities. In 1961, the Sea Hawks that served on her were moved ashore when the NATO mission profile was changed to all ASW aircraft; by October 1964 they had been taken out of service.
+In Indian Navy service (beginning in 1960), Sea Hawks were used aboard the aircraft carrier INS Vikrant, ex-HMS Hercules and saw service during the Indo-Pakistani War of 1965 and the Indo-Pakistani War of 1971. The latter war saw Sea Hawks being used by the Indian Navy; these aircraft scored nearly a dozen "kills", mainly of Pakistan Navy gunboats and Merchant navy ships and cargo ships in East Pakistan (present day Bangladesh) without losing an aircraft in the war. Aided by Breguet Alize aircraft, the Sea Hawks emerged unscathed, achieving the highest kill ratio for any aircraft in the war. The Sea Hawk was withdrawn from Indian Navy service in 1983, being replaced by the far more capable BAE Sea Harrier.
+The Sea Hawks in Fleet Air Arm service began being phased out from first line service in 1958, the year in which the Supermarine Scimitar and de Havilland Sea Vixen entered service, both of which types would eventually replace the Sea Hawk. The last front line Sea Hawk squadron, No. 806, disbanded at RNAS Brawdy on 15 December 1960, ending a very brief operational career for the Sea Hawk. Most Sea Hawks in second line service were withdrawn by the mid-1960s. The last operational Royal Navy Sea Hawks were FGA.6 flown by the Airwork Limited managed "black" Fleet Requirements Unit based at Bournemouth (Hurn) Airport which retired the type in 1969.
+P.1040
+VP401 prototype first flown at Boscombe Down on 2 September 1947, later converted to a P.1072
+VP413 navalised prototype to specification N.7/46 first flown at Farnborough 3 September 1948.
+VP422 second-naval prototype first flown at Farnborough 17 October 1949.
+Sea Hawk F1
+Production fighters powered by a Rolls-Royce Nene Mk 101 engine; 95 built (35 by Hawker Aircraft at Kingston-upon-Thames, the remainder and all subsequent production by Armstrong Whitworth Aircraft at Baginton, Coventry)
+Sea Hawk F2
+Production fighter with powered ailerons; 40 built by Armstrong Whitworth.
+Sea Hawk FB 3
+Fighter-bomber variant with stronger wing for external stores; 116 built.
+Sea Hawk FGA 4
+Fighter/Ground attack variant; 97 built.
+Sea Hawk FB 5
+FB3 fitted with the Nene Mk 103; 50 conversions.
+Sea Hawk FGA 6
+FGA4 with the Nene Mk 103; total of 101 (86 new-build, the remainder converted from FB3 and FGA 4 examples).
+Sea Hawk Mk 50
+Export variant based on the FGA 6 for the Royal Netherland Navy; 22 built.
+Sea Hawk Mk 100
+Export variant for the West German Navy, similar to FGA 6 but fitted with taller fin and rudder; 32 built
+Sea Hawk Mk 101
+All-weather export variant for the West German Navy, as Mk 100 but fitted with a search radar in an underwing pod; 32 built.
+ Germany
+ India
+ Netherlands
+ United Kingdom
+36 complete Sea Hawks (plus eight cockpit sections) are known to survive as of 2011, mainly in a variety of locations in the United Kingdom, though others are located abroad, including in Germany, Malta, the Netherlands and India. One Sea Hawk, WV908, remains airworthy as part of the Royal Navy Historic Flight in the UK, although refurbishing the aircraft including fitting a Nene 103 took place in 2009.
+WF219 (Sea Hawk F 1) is stored at the Fleet Air Arm Museum, Yeovilton, England.
+WF225 (Sea Hawk F 1) is displayed as 'gate guardian' at RNAS Culdrose (HMS Seahawk), England.
+WF259 (Sea Hawk F 2) is stored at the National Museum of Flight, East Fortune, Scotland.
+WM913 (Sea Hawk FB 5) is displayed at the Newark Air Museum, Newark, England.
+WM961 (Sea Hawk FB 5) is displayed at Caernarfon Air World, Caernarfon, Wales.
+WM969 (Sea Hawk FB 5) is displayed in Hangar 3 at the Imperial War Museum, Duxford, England.
+WN108 (Sea Hawk FB 5) is displayed by the Ulster Aviation Society at Long Kesh, Northern Ireland.
+WV797 (Sea Hawk FGA 6) is displayed at the Midland Air Museum, Coventry, England.
+WV798 (Sea Hawk FGA 6) (displayed until late 2009 at Lasham, England), 2009-2013 stored with Parkhouse Aviation at Booker, England. 2013 obtained by Classic Air Force, Newquay, England. Currently under going full restoration.
+WV826 (Sea Hawk FGA 6) is displayed at the Malta Aviation Museum, Ta'qali, Malta.
+WV856 (Sea Hawk FGA 6) is displayed at Fleet Air Arm Museum, Yeovilton, England.
+WV865 (Sea Hawk FGA 6) is displayed at the Luftwaffe Museum, Gatow, Germany.
+WV908 (Sea Hawk FGA 6) is airworthy with the Royal Navy Historic Flight, Yeovilton, England.
+XE327 (Sea Hawk FGA 6) is displayed at Hermeskeil, Germany.
+XE340 (Sea Hawk FGA 6) (displayed until recently at the Montrose Air Station Museum, Scotland) returned to the FAA Museum, Yeovilton.
+XE489 (Sea Hawk FGA 6) is displayed at the Gatwick Aviation Museum, Charlwood, England.
+XE368 (Sea Hawk FGA 6) At the docks on Barrow Island, England.
+118 (Sea Hawk Mk 50) is displayed at De Kooy, Netherlands.
+131 (Sea Hawk Mk 50) is displayed at Kamp Zeist, Militaire Luchtvaart Museum(MLM) Netherlands.
+MS+001 (Sea Hawk Mk 100) is displayed at Internationales Luftfahrt-Museum, Villingen-Schwenningen, Germany.
+IN-174 (Sea Hawk FGA 6) is displayed at Jawahar Bal Bhavan, Museum Road, Trivandrum, Kerala, India.
+IN-240 Sea Hawk is displayed at the Victory at Sea Memorial, Beach Road, Visakhapatnam, Andhra Pradesh, India.
+"Unknown Serial" (Sea Hawk FGA 6) is displayed in the Aeronautical Engineering Dept at IIT Madras.
+Data from "The Sea Hawk ...Epitome of Elegance."
+General characteristics
+Crew: One
+Length: 39 ft 8 in (12.09 m)
+Wingspan: 39 ft 0 in (11.89 m)
+Height: 8 ft 8 in (2.64 m)
+Wing area: 278 ft² (25.83 m²)
+Empty weight: 9,278 lb (4,208 kg)
+Loaded weight: 13,220 lb (5,996 kg)
+Max. takeoff weight: 16,150 lb (7,325 kg)
+Powerplant: 1 × Rolls-Royce Nene 103 turbojet, 5,200 lbf (23.1 kN)
+Performance
+Maximum speed: 600 mph (965 km/h)
+Range: 480 mi (770 km)
+Service ceiling: 44,500 ft (13,564 m)
+Rate of climb: 5,700 ft/min (29.0 m/s)
+Wing loading: 48 lb/ft² (232 kg/m²)
+Thrust/weight: 0.38
+Armament
+Guns: 4 × 20 mm (.79 in) Hispano Mk V cannons (200 rpg)
+Hardpoints: 6 underwing  and provisions to carry combinations of:
+Rockets: 20 × "60 lb" (27 kg) unguided rockets or 16 × 5 in (127 mm) unguided rockets
+Bombs: 4 × 500 lb (227 kg) bombs
+Other:  or 2 × 90 Imp gal (410 l) drop tanks
+Related development
+Hawker P.1052
+Hawker P.1072
+Hawker P.1081
+Aircraft of comparable role, configuration and era
+de Havilland Vampire
+F-84 Thunderjet
+F2H Banshee
+F9F Panther
+Gloster Meteor
+MiG-15
+MiG-17
+Supermarine Attacker
+Dassault Ouragan
+North American FJ-1 Fury
+North American FJ-2/-3 Fury
+Related lists
+List of aircraft of the Fleet Air Arm

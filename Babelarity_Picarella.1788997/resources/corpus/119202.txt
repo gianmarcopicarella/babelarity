@@ -1,0 +1,75 @@
+Sir James Hopwood Jeans OM FRS MA DSc ScD LLD (11 September 1877 – 16 September 1946) was an English physicist, astronomer and mathematician.
+Born in Ormskirk, Lancashire, the son of William Tulloch Jeans, a parliamentary correspondent and author. Jeans was educated at Merchant Taylors' School, Northwood, Wilson's Grammar School, Camberwell and Trinity College, Cambridge. As a gifted student, Jeans was counselled to take an aggressive approach to the Cambridge Mathematical Tripos competition:
+Early in the Michaelmas term of 1896, Walker sent for Jeans and Hardy and advised them to take Part I of the Mathematical Tripos in two years. He told them that he could not guarantee that they would come out higher than fifteenth in the list of wranglers, but he understood that they would never regret it. They accepted his advice, and went to R. R. Webb, the most famous private coach of the period...At the end of his first year, [Jeans] told Walker that he had quarrelled with Webb, his coach. Walker accordingly took Jeans himself, and the result was a triumph:...Jeans was bracketed second wrangler with J. F. Cameron...R.W.H.T. Hudson was Senior Wrangler and G.H. Hardy fourth wrangler.
+Jeans was elected Fellow of Trinity College in October 1901, and taught at Cambridge, but went to Princeton University in 1904 as a professor of applied mathematics. He returned to Cambridge in 1910.
+He made important contributions in many areas of physics, including quantum theory, the theory of radiation and stellar evolution. His analysis of rotating bodies led him to conclude that Laplace's theory that the solar system formed from a single cloud of gas was incorrect, proposing instead that the planets condensed from material drawn out of the sun by a hypothetical catastrophic near-collision with a passing star. This theory is not accepted today.
+Jeans, along with Arthur Eddington, is a founder of British cosmology. In 1928 Jeans was the first to conjecture a steady state cosmology based on a hypothesized continuous creation of matter in the universe. In his 1928 book Astronomy and Cosmology he said: "The type of conjecture which presents itself, somewhat insistently, is that the centers of the nebulae are of the nature 'singular points' at which matter is poured into our universe from some other, and entirely extraneous spatial dimension, so that, to a denizen of our universe, they appear as points at which matter is being continually created." This theory was ruled out when the 1965 discovery of the cosmic microwave background was widely interpreted as the tell-tale signature of the Big Bang.
+His scientific reputation is grounded in the monographs The Dynamical Theory of Gases (1904), Theoretical Mechanics (1906), and Mathematical Theory of Electricity and Magnetism (1908). After retiring in 1929, he wrote a number of books for the lay public, including The Stars in Their Courses (1931), The Universe Around Us, Through Space and Time (1934), The New Background of Science (1933), and The Mysterious Universe. These books made Jeans fairly well known as an expositor of the revolutionary scientific discoveries of his day, especially in relativity and physical cosmology.
+In 1939, the Journal of the British Astronomical Association reported that Jeans was going to stand as a candidate for parliament for the Cambridge University constituency. The election, expected to take place in 1939 or 1940 did not take place until 1945, and without his involvement.
+He also wrote the book "Physics and Philosophy" (1943) where he explores the different views on reality from two different perspectives: science and philosophy. On his religious views, Jeans was an agnostic Freemason.
+Jeans married twice, first to the American poet Charlotte Tiffany Mitchell in 1907, then the Austrian organist and harpsichordist Suzanne Hock (better known as Susi Jeans) in 1935. He died in Dorking, Surrey.
+At Merchant Taylors' School there is a James Jeans Academic Scholarship for the candidate in the entrance exams who displays outstanding results across the spectrum of subjects, notably in mathematics and the sciences.
+One of Jeans' major discoveries, named Jeans length, is a critical radius of an interstellar cloud in space. It depends on the temperature, and density of the cloud, and the mass of the particles composing the cloud. A cloud that is smaller than its Jeans length will not have sufficient gravity to overcome the repulsive gas pressure forces and condense to form a star, whereas a cloud that is larger than its Jeans length will collapse.
+          λ
+            J
+        =
+                15
+                  k
+                    B
+                T
+                4
+                π
+                G
+                m
+                ρ
+    {\displaystyle \lambda _{J}={\sqrt {\frac {15k_{B}T}{4\pi Gm\rho }}}}
+Jeans came up with another version of this equation, called Jeans mass or Jeans instability, that solves for the critical mass a cloud must attain before being able to collapse.
+Jeans also helped to discover the Rayleigh–Jeans law, which relates the energy density of black-body radiation to the temperature of the emission source.
+        f
+        (
+        λ
+        )
+        =
+        8
+        π
+        c
+                k
+                  B
+              T
+              λ
+                4
+    {\displaystyle f(\lambda )=8\pi c{\frac {k_{B}T}{\lambda ^{4}}}}
+For an overview see Idealism.
+The stream of knowledge is heading towards a non-mechanical reality; the Universe begins to look more like a great thought than like a great machine. Mind no longer appears to be an accidental intruder into the realm of matter... we ought rather hail it as the creator and governor of the realm of matter.
+In an interview published in The Observer (London), when asked the question "Do you believe that life on this planet is the result of some sort of accident, or do you believe that it is a part of some great scheme?", he replied:
+I incline to the idealistic theory that consciousness is fundamental, and that the material universe is derivative from consciousness, not consciousness from the material universe... In general the universe seems to me to be nearer to a great thought than to a great machine. It may well be, it seems to me, that each individual consciousness ought to be compared to a brain-cell in a universal mind.
+What remains is in any case very different from the full-blooded matter and the forbidding materialism of the Victorian scientist. His objective and material universe is proved to consist of little more than constructs of our own minds. To this extent, then, modern physics has moved in the direction of philosophic idealism. Mind and matter, if not proved to be of similar nature, are at least found to be ingredients of one single system. There is no longer room for the kind of dualism which has haunted philosophy since the days of Descartes.
+Finite picture whose dimensions are a certain amount of space and a certain amount of time; the protons and electrons are the streaks of paint which define the picture against its space-time background. Traveling as far back in time as we can, brings us not to the creation of the picture, but to its edge; the creation of the picture lies as much outside the picture as the artist is outside his canvas. On this view, discussing the creation of the universe in terms of time and space is like trying to discover the artist and the action of painting, by going to the edge of the canvas. This brings us very near to those philosophical systems which regard the universe as a thought in the mind of its Creator, thereby reducing all discussion of material creation to futility.
+Fellow of the Royal Society in May, 1906
+Bakerian Lecture to Royal Society in 1917.
+Royal Medal of the Royal Society in 1919.
+Hopkins Prize of the Cambridge Philosophical Society 1921–1924.
+Gold Medal of the Royal Astronomical Society in 1922.
+He was knighted in 1928.
+Franklin Medal of the Franklin Institute in 1931.
+In 1933 Hopwood-Jeans was invited to deliver the Royal Institution Christmas Lecture on Through Space and Time.
+Mukerjee Medal of the Indian Association for the Cultivation of Science in 1937.
+President of the 25th session of the Indian Science Congress in 1938.
+Calcutta Medal of the Indian Science Congress Association in 1938.
+Member of the Order of Merit in 1939.
+The crater Jeans on the Moon is named after him, as is the crater Jeans on Mars.
+The String Quartet No.7 by Robert Simpson was written in tribute to him on the centenary of his birth, 1977.
+The Growth of Physical Science. Cambridge University Press. 2009 [1947]. ISBN 978-1-108-00565-4. 
+Physics and Philosophy. Courier Corporation. 1981 [1942]. ISBN 978-0-486-24117-3. 
+An Introduction to the Kinetic Theory of Gases. CUP Archive. 1982 [1940]. ISBN 978-0-521-09232-6. 
+Science and Music. Cambridge University Press. 2009 [1937]. ISBN 978-1-108-00569-2. 
+Through Space and Time. Cambridge University Press. 2009 [1934]. ISBN 978-1-108-00571-5. 
+The New Background of Science. CUP Archive. 1953 [1933]. GGKEY:HCUUR8F8EL0. 
+Stars in Their Courses. Cambridge University Press. 2009 [1931]. ISBN 978-1-108-00570-8. 
+The Mysterious Universe. CUP Archive. 1944 [1930]. GGKEY:LXRDCH5GSZR. 
+Astronomy and Cosmogony. Cambridge University Press. 2009 [1928]. ISBN 978-0-521-74470-6. 
+Mathematical Theory of Electricity and Magnetism. Cambridge University Press. 2009 [1925]. ISBN 978-1-108-00561-6. 
+Atomicity and Quanta. Cambridge University Press. 2009 [1926]. ISBN 978-1-108-00563-0. 
+Problems of Cosmology and Stellar Dynamics. Cambridge University Press. 2009 [1919]. ISBN 978-1-108-00568-5. 
+The Dynamical Theory of Gases. CUP Archive. 1925 [1904]. GGKEY:6UDJTT06BSL. 
+The Universe Around Us. Macmillan. 1929. 

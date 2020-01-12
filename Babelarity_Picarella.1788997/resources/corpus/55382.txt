@@ -1,0 +1,154 @@
+Niklas Luhmann (December 8, 1927 – November 6, 1998) was a German sociologist, and a prominent thinker in systems theory, who is increasingly recognized as one of the most important social theorists of the 20th century.
+Luhmann was born in Lüneburg, Lower Saxony, where his father's family had been running a brewery for several generations. After graduating from the Johanneum school in 1943, he was conscripted as a Luftwaffenhelfer in World War II and served for two years until, at the age of 17, he was taken prisoner of war by American troops in 1945. After the war Luhmann studied law at the University of Freiburg from 1946 to 1949, when he obtained a law degree, and then began a career in Lüneburg's public administration. During a sabbatical in 1961, he went to Harvard, where he met and studied under Talcott Parsons, then the world's most influential social systems theorist.
+In later years, Luhmann dismissed Parsons' theory, developing a rival approach of his own. Leaving the civil service in 1962, he lectured at the national Deutsche Hochschule für Verwaltungswissenschaften (University for Administrative Sciences) in Speyer, Germany, until 1965, when he was offered a position at the Sozialforschungsstelle (Social Research Centre) of the University of Münster, led by Helmut Schelsky. 1965/66 he studied one semester of sociology at the University of Münster.
+Two earlier books were retroactively accepted as a PhD thesis and habilitation at the University of Münster in 1966, qualifying him for a university professorship. In 1968/1969, he briefly served as a lecturer at Theodor Adorno's former chair at the University of Frankfurt and then was appointed full professor of sociology at the newly founded University of Bielefeld, Germany (until 1993). He continued to publish after his retirement, when he finally found the time to complete his magnum opus, Die Gesellschaft der Gesellschaft (literally, "The Society of Society"), which was published in 1997.
+Luhmann wrote prolifically, with more than 70 books and nearly 400 scholarly articles published on a variety of subjects, including law, economy, politics, art, religion, ecology, mass media, and love. While his theories have yet to make a major mark in American sociology, his theory is currently well known and popular in German sociology, and has also been rather intensively received in Japan and Eastern Europe, including Russia. His relatively low profile elsewhere is partly due to the fact that translating his work is a difficult task, since his writing presents a challenge even to readers of German, including many sociologists. (p. xxvii Social System 1995)
+Much of Luhmann's work directly deals with the operations of the legal system and his autopoietic theory of law is regarded as one of the more influential contributions to the sociology of law and socio-legal studies.
+Luhmann is probably best known to North Americans for his debate with the critical theorist Jürgen Habermas over the potential of social systems theory. Like his one-time mentor Talcott Parsons, Luhmann is an advocate of "grand theory," although neither in the sense of philosophical foundationalism nor in the sense of "meta-narrative" as often invoked in the critical works of post-modernist writers. Rather, Luhmann's work tracks closer to complexity theory broadly speaking, in that it aims to address any aspect of social life within a universal theoretical framework - of which the diversity of subjects he wrote about is an indication. Luhmann's theory is sometimes dismissed as highly abstract and complex, particularly within the Anglophone world, whereas his work has had a more lasting influence on scholars from German-speaking countries, Scandinavia and Italy.
+Luhmann himself described his theory as "labyrinth-like" or "non-linear" and claimed he was deliberately keeping his prose enigmatic to prevent it from being understood "too quickly", which would only produce simplistic misunderstandings.
+Luhmann's systems theory focuses on three topics, which are interconnected in his entire work.
+Systems theory as societal theory
+Communication theory and
+Evolution theory
+The core element of Luhmann's theory is communication. Social systems are systems of communication, and society is the most encompassing social system. Being the social system that comprises all (and only) communication, today's society is a world society. A system is defined by a boundary between itself and its environment, dividing it from an infinitely complex, or (colloquially) chaotic, exterior. The interior of the system is thus a zone of reduced complexity: Communication within a system operates by selecting only a limited amount of all information available outside. This process is also called "reduction of complexity". The criterion according to which information is selected and processed is meaning (in German, Sinn). Both social systems and psychic systems (see below for an explanation of this distinction) operate by processing meaning.
+Furthermore, each system has a distinctive identity that is constantly reproduced in its communication and depends on what is considered meaningful and what is not. If a system fails to maintain that identity, it ceases to exist as a system and dissolves back into the environment it emerged from. Luhmann called this process of reproduction from elements previously filtered from an over-complex environment autopoiesis (pronounced "auto-poy-E-sis"; literally: self-creation), using a term coined in cognitive biology by Chilean thinkers Humberto Maturana and Francisco Varela. Social systems are operationally closed in that while they use and rely on resources from their environment, those resources do not become part of the systems' operation. Both thought and digestion are important preconditions for communication, but neither appears in communication as such. Note, however, that Maturana argued very vocally that this appropriation of autopoietic theory was conceptually unsound, as it presupposes the autonomy of communications from actual persons. That is, by describing social systems as operationally closed networks of communications, Luhmann (according to Maturana) ignores the fact that communications presuppose human communicators. Autopoiesis only applies to networks of processes that reproduce themselves, but communications are reproduced by humans. For this reason, the analogy from biology to sociology does not, in this case, hold. On the other hand, Luhmann explicitly stressed that he does not refer to a "society without humans", but to the fact that communication is autopoietic, in the sense that communicative actions result to communicative actions, that is communication manifests itself only as communication (communication results in more communication, or the end of communication thereof).
+Luhmann likens the operation of autopoiesis (the filtering and processing of information from the environment) to a program, making a series of logical distinctions (in German, Unterscheidungen). Here, Luhmann refers to the British mathematician G. Spencer-Brown's logic of distinctions that Maturana and Varela had earlier identified as a model for the functioning of any cognitive process. The supreme criterion guiding the "self-creation" of any given system is a defining binary code. This binary code, is not to be confused with the computers operation: Luhmann (following Spencer-Brown and Gregory Bateson) assumes that auto-referential systems are continuously confronted with the dilemma of disintegration/continuation. This dilemma is framed with an ever-changing set of available choices; everyone of those potential choices can be the system's selection or not (a binary state, selected/rejected). The influence of Spencer-Brown's book, Laws of Form, on Luhmann can hardly be overestimated.
+Although Luhmann first developed his understanding of social systems theory under Parsons' influence, he soon moved away from the Parsonian concept. The most important difference is that Parsons used systems merely as an analytic tool to understand certain processes going on in society; Luhmann, in contrast, treats his vision of systems ontologically, saying that "systems exist". That is, Luhmann in fact suggests to substitute the paradigm of systems theory for the ontological paradigm: the difference system/environment (which also signifies a relationship).
+Another difference is that Parsons asks how certain subsystems contribute to the functioning of overall society. Luhmann starts with the differentiation of the systems themselves out of a nondescript environment. He does observe how certain systems fulfill functions that contribute to "society" as a whole, but this is happening more or less by chance, without an overarching vision of society. Finally, the systems' autopoietic closure is another fundamental difference from Parsons' concept. Each system works strictly according to its very own code and has no understanding at all of the way other systems perceive their environment. For example, the economy is all about money, so there is no independent role in the economic system for extraneous aspects such as morals. Upon Luhmann's attempt of defining the relationship value of environment/system we can see a reluctantly atheist approach denying the 'cause' of the creator.
+One seemingly peculiar, but within the overall framework strictly logical, axiom of Luhmann's theory is the human being's position outside any social system, initially developed by Parsons. Consisting of "pure communicative actions" (a reference to Jürgen Habermas) any social system requires human consciousnesses (personal or psychical systems) as an obviously necessary, but nevertheless environmental resource. In Luhmann's terms, human beings are neither part of society nor of any specific systems, just as they are not part of a conversation. Luhmann himself once said concisely that he was "not interested in people". That is not to say that people were not a matter for Luhmann, but rather, the communicative actions of people are constituted (but not defined) by society, and society is constituted (but not defined) by the communicative actions of people: society is people's environment, and people are society's environment. Thus, sociology can explain how persons can change society; the influence of the environment (the people) on the system (the society), the so-called "structural coupling". In fact Luhmann himself replied to the relevant criticism by stating that "In fact the theory of autopoietic systems could bear the title Taking Individuals Seriously, certainly more seriously than our humanistic tradition" (Niklas Luhmann, Operational Closure and Structural Coupling: The Differentiation of the Legal System, Cardozo Law Review, vol. 13: 1422). This approach has attracted criticism from those who argue that Luhmann has at no point demonstrated the operational closure of social systems, or in fact that autopoietic social systems actually exist. He has instead taken this as a premise or presupposition, resulting in the logical need to exclude humans from social systems, which prevents the social systems view from accounting for the individual behavior, action, motives, or indeed existence of any individual person.
+Luhmann was devoted to the ideal of non-normative science introduced to sociology in the early 20th century by Max Weber and later re-defined and defended against its critics by Karl Popper. However, in an academic environment that never strictly separated descriptive and normative theories of society, Luhmann's sociology has widely attracted criticism from various intellectuals, perhaps most notably from Jürgen Habermas.
+Luhmann's systems theory is not without its critics; his definitions of "autopoietic" and "social system" differ from others. At the same time his theory is being applied or used worldwide by sociologists and other scholars:
+In Europe
+In Germany: Gunther Teubner, Dirk Baecker, Peter Fuchs, Marie Theres Fögen, André Kieserling, Helmut Willke, Urs Stäheli, Lukas Scheiber, Harry Lehmann, Armin Nassehi, Jasmin Siri, Niels Werber, Rudolph Stichweh.
+In Switzerland: Cornelia Bohn, David Seidl, Nicolas Hayoz, Hanno Pahl, Patricia Wolf.
+In Denmark: Niels Åkerstrøm Andersen, Ole Bjerg, Susanne Holmström, Øjvind Larsen, Jens Rasmussen, Gorm Harste, Lars Qvortrup, Ole Thyssen, Jesper Tække, and Søren Brier (editor of the quarterly peer-reviewed academic journal, Cybernetics and Human Knowing)
+In Sweden: Dimitris Michailakis, Jan-Inge Jönhill, Vessela Misheva, Heike Graf.
+In Norway: Inger-Johanne Sand.
+In the Netherlands: Wil Martens, Willem Schinkel, Lyana Francot-Timmermans.
+In Belgium: Rudi Laermans, Ralf Wetzel, Raf Vanderstaete, Marta Lenartowicz.
+In France: Steffen Roth, Jean Clam, Estelle Ferrarese.
+In Italy: Mario Giuseppe Losano, Michele Infante, Claudio Baraldi, Giancarlo Corsi, Raffaele De Giorgi, Elena Esposito, Fedele Paolo, Giorgio Manfré.
+In Portugal: Pierre Guibentif; João Pissarra Esteves.
+In UK: Michael King, David Schiff, Richard Nobles, Christian Morgner, Allan Roberts, Jiri Priban, Anton Schütz.
+In Russia: Alexander Filippov.
+In Poland: Jan Winczorek.
+In Estonia: Raivo Palmaru.
+In Kosovo: Artan Muhaxhiri.
+In Croatia: Kiril Miladinov, Davor Rodin, Mario Kopić, Krešimir Žažar.
+In Slovenia: Jože Pučnik.
+In Armenia: Artur Mkrtchyan.
+In Georgia: Giga Zedania.
+In Turkey: Yunus Yoldaş
+In North and South America
+In Brazil: Marcelo da Costa Pinto Neves, Celso Fernandes Campilongo, Gabriel Cohn, Paulo A. de Menezes Albuquerque, Almiro Petry, Leonel Severo Rocha, Germano Schwartz, Orlando Villas Boas Filho, Guilherme Leite Gonçalves, Artur Stamford da Silva, Lucas Fucci Amato.
+In Canada: Peter Beyer, Stephen Schecter, David Connell.
+In Chile: Fernando Robles Salgado, Darío Rodriguez, Aldo Mascareño, Marcelo Arnold.
+In Colombia: Eliana Herrera-Vega.
+In Mexico: Javier Torres Nafarrete, Alfonso Mendiola Mejía.
+In United States: Harrison White, Cary Wolfe, Bruce Clarke, Stephan Fuchs, Ralf Michaels, Alex Viskovatoff., Peter Gilgen, David Wellbery, Nikolaus Wegmann, Brigitte Bedos-Rezak
+In the Asia-Pacific
+In Japan: Masachi Osawa, Daizaburo Hashizume, Toru Hijikata, Toshiki Sato.
+In Taiwan: Chih-Chieh Tang.
+In Macau: Hans-Georg Moeller.
+In Australia: Alex Ziegert.
+In Africa
+In Nigeria: Piyush Mathur.
+It is often being used in analyses dealing with corporate social responsibility, organisational legitimacy, governance structures as well as with sociology of law and of course general sociology.
+Luhmann also appears as a character in Paul Wühr's work of literature Das falsche Buch, together with - among others - Ulrich Sonnemann, Johann Georg Hamann and Richard Buckminster Fuller.
+Luhmann owned a pub ("Pons") in his parents' house in his native town of Lüneburg. The house, which also contained his father's brewery, had been in his family's hands since 1857.
+A certain number of original books and articles are available for download (see below: External Links).
+1963: (with Franz Becker): Verwaltungsfehler und Vertrauensschutz: Möglichkeiten gesetzlicher Regelung der Rücknehmbarkeit von Verwaltungsakten, Berlin: Duncker & Humblot
+1964: Funktionen und Folgen formaler Organisation, Berlin: Duncker & Humblot
+1965: Öffentlich-rechtliche Entschädigung rechtspolitisch betrachtet, Berlin: Duncker & Humblot
+1965: Grundrechte als Institution: Ein Beitrag zur politischen Soziologie, Berlin: Duncker & Humblot
+1966: Recht und Automation in der öffentlichen Verwaltung: Eine verwaltungswissenschaftliche Untersuchung, Berlin: Duncker & Humblot
+1966: Theorie der Verwaltungswissenschaft: Bestandsaufnahme und Entwurf, Köln-Berlin
+1968: Vertrauen: Ein Mechanismus der Reduktion sozialer Komplexität, Stuttgart: Enke
+(English translation: Trust and Power, Chichester: Wiley, 1979.)
+1968: Zweckbegriff und Systemrationalität: Über die Funktion von Zwecken in sozialen Systemen, Tübingen: J.C.B. Mohr, Paul Siebeck
+1969: Legitimation durch Verfahren, Neuwied/Berlin: Luchterhand
+1970: Soziologische Aufklärung: Aufsätze zur Theorie sozialer Systeme, Köln/Opladen: Westdeutscher Verlag
+(English translation of some of the articles: The Differentiation of Society, New York: Columbia University Press, 1982)
+1971 (with Jürgen Habermas): Theorie der Gesellschaft oder Sozialtechnologie - Was leistet die Systemforschung? Frankfurt: Suhrkamp
+1971: Politische Planung: Aufsätze zur Soziologie von Politik und Verwaltung, Opladen: Westdeutscher Verlag
+1972: Rechtssoziologie, 2 volumes, Reinbek: Rowohlt
+(English translation: A Sociological Theory of Law, London: Routledge, 1985)
+1973: (with Renate Mayntz): Personal im öffentlichen Dienst: Eintritt und Karrieren, Baden-Baden: Nomos
+1974: Rechtssystem und Rechtsdogmatik, Stuttgart: Kohlhammer
+1975: Macht, Stuttgart: Enke
+(English translation: Trust and Power, Chichester: Wiley, 1979.)
+1975: Soziologische Aufklärung 2: Aufsätze zur Theorie der Gesellschaft, Opladen: Westdeutscher Verlag, ISBN 978-3-531-61281-2
+(English translation of some of the articles: The Differentiation of Society, New York: Columbia University Press, 1982)
+1977: Funktion der Religion, Frankfurt: Suhrkamp
+(English translation of pp. 72–181: Religious Dogmatics and the Evolution of Societies, New York/Toronto: Edwin Mellen Press)
+1978: Organisation und Entscheidung (= Rheinisch-Westfälische Akademie der Wissenschaften, Vorträge G 232), Opladen: Westdeutscher Verlag
+1979 (with Karl Eberhard Schorr): Reflexionsprobleme im Erziehungssystem, Stuttgart: Klett-Cotta
+1980: Gesellschaftsstruktur und Semantik: Studien zur Wissenssoziologie der modernen Gesellschaft I, Frankfurt: Suhrkamp
+1981: Politische Theorie im Wohlfahrtsstaat, München: Olzog
+(English translation with essays from Soziologische Aufklärung 4: Political Theory in the Welfare State, Berlin: de Gruyter, 1990)
+1981: Gesellschaftsstruktur und Semantik: Studien zur Wissenssoziologie der modernen Gesellschaft II, Frankfurt: Suhrkamp
+1981: Ausdifferenzierung des Rechts: Beiträge zur Rechtssoziologie und Rechtstheorie, Frankfurt: Suhrkamp
+1981: Soziologische Aufklärung 3: Soziales System, Gesellschaft, Organisation, Opladen: Westdeutscher Verlag
+1982: Liebe als Passion: Zur Codierung von Intimität, Frankfurt: Suhrkamp
+(English translation: Love as Passion: The Codification of Intimacy, Cambridge: Polity Press, 1986, ISBN 978-0-8047-3253-6)
+1984: Soziale Systeme: Grundriß einer allgemeinen Theorie, Frankfurt: Suhrkamp
+(English translation: Social Systems, Stanford: Stanford University Press, 1995)
+1985: Kann die moderne Gesellschaft sich auf ökologische Gefährdungen einstellen? (= Rheinisch-Westfälische Akademie der Wissenschaften, Vorträge G 278), Opladen: Westdeutscher Verlag
+1986: Die soziologische Beobachtung des Rechts, Frankfurt: Metzner
+1986: Ökologische Kommunikation: Kann die moderne Gesellschaft sich auf ökologische Gefährdungen einstellen? Opladen: Westdeutscher Verlag
+(English translation: Ecological communication, Cambridge: Polity Press, 1989)
+1987: Soziologische Aufklärung 4: Beiträge zur funktionalen Differenzierung der Gesellschaft, Opladen: Westdeutscher Verlag
+1987 (edited by Dirk Baecker and Georg Stanitzek): Archimedes und wir: Interviews, Berlin: Merve
+1988: Die Wirtschaft der Gesellschaft, Frankfurt: Suhrkamp
+1988: Erkenntnis als Konstruktion, Bern: Benteli
+1989: Gesellschaftsstruktur und Semantik: Studien zur Wissenssoziologie der modernen Gesellschaft 3, Frankfurt: Suhrkamp
+1989 (with Peter Fuchs): Reden und Schweigen, Frankfurt: Suhrkamp
+(partial English translation: "Speaking and Silence", New German Critique 61 (1994), pp. 25–37)
+1990: Risiko und Gefahr (= Aulavorträge 48), St. Gallen
+1990: Paradigm lost: Über die ethische Reflexion der Moral, Frankfurt: Suhrkamp
+(partial English translation: "Paradigm Lost: On the Ethical Reflection of Morality: Speech on the Occasion of the Award of the Hegel Prize 1988", Thesis Eleven 29 (1991), pp. 82–94)
+1990: Essays on Self-Reference, New York: Columbia University Press
+1990: Soziologische Aufklärung 5: Konstruktivistische Perspektiven, Opladen: Westdeutscher Verlag
+1990: Die Wissenschaft der Gesellschaft, Frankfurt: Suhrkamp
+(English translation of chapter 10: "The Modernity of Science", New German Critique 61 (1994), pp. 9–23)
+1991: Soziologie des Risikos, Berlin: de Gruyter
+(English translation: Risk: A Sociological Theory, Berlin: de Gruyter)
+1992 (with Raffaele De Giorgi): Teoria della società, Milano: Franco Angeli
+1992: Beobachtungen der Moderne, Opladen: Westdeutscher Verlag
+1992 (edited by André Kieserling): Universität als Milieu, Bielefeld: Haux
+1993: Gibt es in unserer Gesellschaft noch unverzichtbare Normen?, Heidelberg: C.F. Müller
+1993: Das Recht der Gesellschaft, Frankfurt: Suhrkamp
+(English translation: Law as a Social System, Oxford: Oxford University Press, 2004, ISBN 0-19-826238-8)
+1994: Die Ausdifferenzierung des Kunstsystems, Bern: Benteli
+1995: Die Realität der Massenmedien (= Nordrhein-Westfälischen Akademie der Wissenschaften, Vorträge G 333), Opladen 1995; second, extended edition 1996.)
+(English translation: The Reality of the Mass Media, Stanford: Stanford University Press, ISBN 978-0-8047-4077-7)
+1995: Soziologische Aufklärung 6: Die Soziologie und der Mensch, Opladen: Westdeutscher Verlag
+1995: Gesellschaftsstruktur und Semantik: Studien zur Wissenssoziologie der modernen Gesellschaft 4, Frankfurt: Suhrkamp
+1995: Die Kunst der Gesellschaft, Frankfurt: Suhrkamp
+(English translation: Art as a Social System, Stanford: Stanford University Press, 2000.)
+1996: Die neuzeitlichen Wissenschaften und die Phänomenologie, Wien: Picus
+1996 (edited by Kai-Uwe Hellmann: Protest: Systemtheorie und soziale Bewegungen, Frankfurt: Suhrkamp
+1996: Modern Society Shocked by its Risks (= University of Hong Kong, Department of Sociology Occasional Papers 17), Hong Kong, available via HKU Scholars HUB
+1997: Die Gesellschaft der Gesellschaft, Frankfurt: Suhrkamp
+(English translation: Theory of Society, Stanford: Stanford University Press)
+1998: Die Politik der Gesellschaft, Frankfurt: Suhrkamp (Herausgegeben von André Kieserling, 2000)
+1998: Die Religion der Gesellschaft, Frankfurt: Suhrkamp (Herausgegeben von André Kieserling, 2000)
+1998: Das Erziehungssystem der Gesellschaft, Frankfurt: Suhrkamp (Herausgegeben von Dieter Lenzen, 2002)
+Articles
+2006, "System as Difference". Organization, Volume 13 (1) (January 2006), pp. 37–57
+Detlef Horster (1997), Niklas Luhmann, München.
+David Seidl and Kai Helge Becker: Niklas Luhmann and Organization Studies. Copenhagen Business School Press, Copenhagen 2005, ISBN 978-87-630-0162-5.
+Michele Infante (2012). Teoria sistemica dei media. Luhmann e la comunicazione, p. 1-262, Aracne Editrice, Roma, ISBN 978-88-548-4723-1
+Michele Infante (2013) : "Codification: signal, canal, noise, encoding and decoding", in New Atlantis. Nature and Human Sciences and Complexity Journal, Year 28th - n° 2 - Jul/Dec. 2013, p. 57-60, ISSN 2281-9495, ISBN 978-88-548-6611-9, DOI: 10.4399/97888548661198
+Michele Infante (2013), "Information", in New Atlantis, Nature and Human Sciences and Complexity Journal Year 28th - n° 2 - Jul / Dec 2013 p. 61-64, Aracne Editrice, DOI: 10.4399/97888548661199
+Michele Infante (2013), "Systemic Boundary" in New Atlantis, Nature and Human Sciences and Complexity Journal, Year 28th - n° 2 - Jul/Dec 2013, Aracne Editrice, ISSN 2281-9495, ISBN 978-88-548-6611-9, p. 65-68, DOI: 10.4399/978885486611910
+Michele Infante (2013). Media Construction of Fair and Social Risk in the Late-2000s Financial Crisis. NEW ATLANTIS, Nature and Human Sciences and Complexity Journal, Year 28th - n° 1- Dec/Jun 2013, Aracne Editrice vol. 1, p. 59-78, ISSN 2281-9495, doi DOI: 10.4399/97888548601559
+Ilana Gershon (2005) "Seeing Like a System: Luhmann for Anthropologists." Anthropological Theory 5(2): 99-116.
+Giorgio Manfré, "La società della società", QuattroVenti, Urbino, 2008.
+Giorgio Manfré, "Eros e società-mondo. Luhmann/Marx Freud", QuattroVenti, Urbino, 2004.
+Hans-Georg Moeller (2012). The Radical Luhmann, New York.
+Javier Torres Nafarrete y Darío Rodríguez Mansilla (2008): Introducción a la Teoría de la Sociedad de Niklas Luhmann. México: Editorial Herder.
+Oliver Jahraus, Armin Nassehi et al. (2012). Luhmann-Handbuch. Leben - Werk - Wirkung, Stuttgart.
+Georg Kneer and Armin Nassehi (2004). Niklas Luhmann. Eine Einführung, München.
+Alexander Riegler and Armin Scholl (eds.) (2012) Luhmann's Relation to and Relevance for Constructivist Approaches. Special issue. Constructivist Foundations 8(1): 1-116, freely available at the journal's web site
+Magdalena Tzaneva (ed.), Nachtflug der Eule. Gedenkbuch zum 15. Todestag von Niklas Luhmann, Berlin 2013.

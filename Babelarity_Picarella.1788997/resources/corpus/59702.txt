@@ -1,0 +1,11 @@
+Potassium ferrate is the chemical compound with the formula K2FeO4. This purple salt is paramagnetic, and is a rare example of an iron(VI) compound. In most of its compounds, iron has the oxidation state +2 or +3 (Fe2+ or Fe3+). Reflecting its high oxidation state, FeO42− is a powerful oxidizing agent.
+K2FeO4 has attracted interest for applications in "green chemistry" because the by-products of its use, iron oxides, are environmentally innocuous. In contrast, some related oxidants such as chromate are considered environmentally hazardous. However, the main difficulty with the use of K2FeO4 is that it is often too reactive, as indicated by the fact that it decomposes in contact with water.
+4 K2FeO4 + 4 H2O → 3 O2 + 2 Fe2O3 + 8 KOH
+Georg Ernst Stahl (1660 – 1734) first discovered that the residue formed by igniting a mixture of potassium nitrate (saltpetre) and iron powder dissolved in water to give a purple solution. Edmond Frémy (1814 – 1894) later discovered that fusion of potassium hydroxide and iron(III) oxide in air produced a compound that was soluble in water. The composition corresponded to that of potassium manganate. In the laboratory, K2FeO4 is prepared by oxidizing an alkaline solution of an iron(III) salt with concentrated chlorine bleach.
+The salt is isostructural with K2MnO4, K2SO4, and K2CrO4. The solid consists of K+ and the tetrahedral FeO42− anion, with Fe-O distances of 1.66 Å. The poorly soluble barium salt, BaFeO4, is also known.
+As a dry solid, K2FeO4 is stable. It decomposes with evolution of O2 in neutral water, and especially rapidly in acidic water. At high pH, aqueous solutions are stable. The deep purple solutions are similar in appearance to potassium permanganate (KMnO
+4). It is stronger oxidizing agent than the latter.
+Because the side products of its redox reactions are rust-like iron oxides, K2FeO4 has been described as a "green oxidant." It has been employed in waste-water treatment as an oxidant for organic contaminants and as a biocide. Conveniently, the resulting reaction product is iron(III) oxyhydroxide, an excellent flocculant.
+In organic synthesis, K2FeO4 oxidizes primary alcohols.
+K2FeO4 has also attracted attention as a potential cathode material in a "super iron battery."
+It is also used as bleeding stopper for fresh wounds.

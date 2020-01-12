@@ -1,0 +1,135 @@
+The Rhind Mathematical Papyrus (RMP; also designated as papyrus British Museum 10057 and pBM 10058) is the best example of Egyptian mathematics. It is named after Alexander Henry Rhind, a Scottish antiquarian, who purchased the papyrus in 1858 in Luxor, Egypt; it was apparently found during illegal excavations in or near the Ramesseum. It dates to around 1650 BC. The British Museum, where the majority of papyrus is now kept, acquired it in 1865 along with the Egyptian Mathematical Leather Roll, also owned by Henry Rhind; there are a few small fragments held by the Brooklyn Museum in New York and an 18 cm central section is missing. It is one of the two well-known Mathematical Papyri along with the Moscow Mathematical Papyrus. The Rhind Papyrus is larger than the Moscow Mathematical Papyrus, while the latter is older than the former.
+The Rhind Mathematical Papyrus dates to the Second Intermediate Period of Egypt. It was copied by the scribe Ahmes (i.e., Ahmose; Ahmes is an older transcription favoured by historians of mathematics), from a now-lost text from the reign of king Amenemhat III (12th dynasty). Written in the hieratic script, this Egyptian manuscript is 33 cm tall and consists of multiple parts which in total make it over 5m long. The papyrus began to be transliterated and mathematically translated in the late 19th century. The mathematical translation aspect remains incomplete in several respects. The document is dated to Year 33 of the Hyksos king Apophis and also contains a separate later historical note on its verso likely dating from the period ("Year 11") of his successor, Khamudi.
+In the opening paragraphs of the papyrus, Ahmes presents the papyrus as giving "Accurate reckoning for inquiring into things, and the knowledge of all things, mysteries...all secrets". He continues with:
+This book was copied in regnal year 33, month 4 of Akhet, under the majesty of the King of Upper and Lower Egypt, Awserre, given life, from an ancient copy made in the time of the King of Upper and Lower Egypt Nimaatre. The scribe Ahmose writes this copy.
+Several books and articles about the Rhind Mathematical Papyrus have been published, and a handful of these stand out. The Rhind Papyrus was published in 1923 by Peet and contains a discussion of the text that followed Griffith's Book I, II and III outline  Chace published a compendium in 1927/29 which included photographs of the text. A more recent overview of the Rhind Papyrus was published in 1987 by Robins and Shute.
+The first part of the Rhind papyrus consists of reference tables and a collection of 21 arithmetic and 20 algebraic problems. The problems start out with simple fractional expressions, followed by completion (sekhem) problems and more involved linear equations (aha problems).
+The first part of the papyrus is taken up by the 2/n table. The fractions 2/n for odd n ranging from 3 to 101 are expressed as sums of unit fractions. For example, 
+        2
+          /
+        15
+        =
+        1
+          /
+        10
+        +
+        1
+          /
+        30
+    {\displaystyle 2/15=1/10+1/30}
+  . The decomposition of 2/n into unit fractions is never more than 4 terms long as in for example 
+        2
+          /
+        101
+        =
+        1
+          /
+        101
+        +
+        1
+          /
+        202
+        +
+        1
+          /
+        303
+        +
+        1
+          /
+        606
+    {\displaystyle 2/101=1/101+1/202+1/303+1/606}
+  .
+This table is followed by a much smaller, tiny table of fractional expressions for the numbers 1 through 9 divided by 10. For instance the division of 7 by 10 is recorded as:
+7 divided by 10 yields 2/3 + 1/30
+After these two tables, the papyrus records 91 problems altogether, which have been designated by moderns as problems (or numbers) 1-87, including four other items which have been designated as problems 7B, 59B, 61B and 82B. Problems 1-7, 7B and 8-40 are concerned with arithmetic and elementary algebra.
+Problems 1–6 compute divisions of a certain number of loaves of bread by 10 men and record the outcome in unit fractions. Problems 7–20 show how to multiply the expressions 1 + 1/2 + 1/4 = 7/4 and 1 + 2/3 + 1/3 = 2 by different fractions. Problems 21–23 are problems in completion, which in modern notation are simply subtraction problems. Problems 24–34 are ‘’aha’’ problems; these are linear equations. Problem 32 for instance corresponds (in modern notation) to solving x + 1/3 x + 1/4 x = 2 for x. Problems 35–38 involve divisions of the heqat, which is an ancient Egyptian unit of volume. Beginning at this point, assorted units of measurement become much more important throughout the remainder of the papyrus, and indeed a major consideration throughout the rest of the papyrus is dimensional analysis . Problems 39 and 40 compute the division of loaves and use arithmetic progressions.
+The second part of the Rhind papyrus, being problems 41-59, 59B and 60, consists of geometry problems. Peet referred to these problems as "mensuration problems".
+Problems 41 – 46 show how to find the volume of both cylindrical and rectangular granaries. In problem 41 Ahmes computes the volume of a cylindrical granary. Given the diameter d and the height h, the volume V is given by:
+        V
+        =
+        [
+        (
+        1
+        −
+        1
+          /
+        9
+        )
+        d
+          ]
+            2
+        h
+    {\displaystyle V=[(1-1/9)d]^{2}h}
+In modern mathematical notation (and using d = 2r) this gives 
+        V
+        =
+        (
+        8
+          /
+        9
+          )
+            2
+          d
+            2
+        h
+        =
+        (
+        256
+          /
+        81
+        )
+          r
+            2
+        h
+    {\displaystyle V=(8/9)^{2}d^{2}h=(256/81)r^{2}h}
+  . The fractional term 256/81 approximates the value of π as being 3.1605..., an error of less than one percent.
+Problem 47 is a table with fractional equalities which represent the ten situations where the physical volume quantity of "100 quadruple heqats" is divided by each of the multiples of ten, from ten through one hundred. The quotients are expressed in terms of Horus eye fractions, sometimes also using a much smaller unit of volume known as a "quadruple ro". The quadruple heqat and the quadruple ro are units of volume derived from the simpler heqat and ro, such that these four units of volume satisfy the following relationships: 1 quadruple heqat = 4 heqat = 1280 ro = 320 quadruple ro. Thus,
+100/10 quadruple heqat = 10 quadruple heqat
+100/20 quadruple heqat = 5 quadruple heqat
+100/30 quadruple heqat = (3 + 1/4 + 1/16 + 1/64) quadruple heqat + (1 + 2/3) quadruple ro
+100/40 quadruple heqat = (2 + 1/2) quadruple heqat
+100/50 quadruple heqat = 2 quadruple heqat
+100/60 quadruple heqat = (1 + 1/2 + 1/8 + 1/32) quadruple heqat + (3 + 1/3) quadruple ro
+100/70 quadruple heqat = (1 + 1/4 + 1/8 + 1/32 + 1/64) quadruple heqat + (2 + 1/14 + 1/21 + 1/42) quadruple ro
+100/80 quadruple heqat = (1 + 1/4) quadruple heqat
+100/90 quadruple heqat = (1 + 1/16 + 1/32 + 1/64) quadruple heqat + (1/2 + 1/18) quadruple ro
+100/100 quadruple heqat = 1 quadruple heqat 
+Problems 48–55 show how to compute an assortment of areas. Problem 48 is notable in that it succinctly computes the area of a circle by approximating π. Specifically, problem 48 explicitly reinforces the convention (used throughout the geometry section) that "a circle's area stands to that of its circumscribing square in the ratio 64/81." Equivalently, the papyrus approximates π as 256/81, as was already noted above in the explanation of problem 41.
+Other problems show how to find the area of rectangles, triangles and trapezoids.
+The final five problems are related to the slopes of pyramids. A seked problem is reported by :
+If a pyramid is 250 cubits high and the side of its base 360 cubits long, what is its seked?"
+The solution to the problem is given as the ratio of half the side of the base of the pyramid to its height, or the run-to-rise ratio of its face. In other words, the quantity found for the seked is the cotangent of the angle to the base of the pyramid and its face.
+The third part of the Rhind papyrus consists of the remainder of the 91 problems, being 61, 61B, 62-82, 82B, 83-84, and "numbers" 85-87, which are items that are not mathematical in nature. This final section contains more complicated tables of data (which frequently involve Horus eye fractions), several pefsu problems which are elementary algebraic problems concerning food preparation, and even an amusing problem (79) which is suggestive of geometric progressions, geometric series, and certain later problems and riddles in history. The third part of the Rhind papyrus is therefore a kind of miscellany, building on what has already been presented. Problem 61 is concerned with multiplications of fractions. Problem 61B, meanwhile, gives a general expression for computing 2/3 of 1/n, where n is odd. In modern notation the formula given is
+            2
+              3
+              n
+        =
+            1
+              2
+              n
+        +
+            1
+              6
+              n
+    {\displaystyle {\frac {2}{3n}}={\frac {1}{2n}}+{\frac {1}{6n}}}
+The technique given in 61B is closely related to the derivation of the 2/n table.
+Problems 62–68 are general problems of an algebraic nature. Problems 69–78 are all pefsu problems in some form or another. They involve computations regarding the strength of bread and beer, with respect to certain raw materials used in their production.
+Problem 79 sums five terms in a geometric progression. Its language is strongly suggestive of the more modern riddle and nursery rhyme "As I was going to St Ives" . Problems 80 and 81 compute Horus eye fractions of hinu (or heqats). The last four mathematical items, problems 82, 82B and 83-84 compute the amount of feed necessary for various animals, such as fowl and oxen. However, these problems, especially 84, are plagued by pervasive ambiguity, confusion, and simple inaccuracy.
+The final three items on the Rhind papyrus are designated as "numbers" 85-87, as opposed to "problems", and they are scattered widely across the papyrus' back side, or verso. They are, respectively, a small phrase which ends the document (and has a few possibilities for translation, given below), a piece of scrap paper unrelated to the body of the document, used to hold it together (yet containing words and Egyptian fractions which are by now familiar to a reader of the document), and a small historical note which is thought to have been written some time after the completion of the body of the papyrus' writing. This note is thought to describe events during the "Hyksos domination", a period of external interruption in ancient Egyptian society which is closely related with its second intermediary period. With these non-mathematical yet historically and philologically intriguing errata, the papyrus' writing comes to an end.
+Since much of the more complex material in the Rhind papyrus is concerned with ancient Egyptian units of measurement , and especially the dimensional analysis which is used to convert between them, it can be helpful to a new reader, whether of the original document itself or of an exposition of it (which is what the present article also amounts to) to have a summarized account of exactly which units of measurement are used and mentioned at exactly which points in the papyrus. This is also a sensible item to present as an aid to a new reader who has no knowledge of ancient Egyptian units, to more rapidly make sense of the document (or of expositions of the document). Therefore, a concordance of the units of measurement which are used throughout the papyrus is immediatley forthcoming in this section. Detailed contextual explanations of the units as they are actually used throughout the papyrus is given in the below "Content" section.
+This table summarizes the content of the Rhind Papyrus by means of a concise modern paraphrase. It is based upon the two-volume exposition of the papyrus which was published by Arnold Buffum Chace in 1927, and in 1929. In general, the papyrus consists of four sections: a title page, the 2/n table, a tiny "1-9/10 table", and 91 problems, or "numbers". The latter are numbered from 1 through 87 and include four mathematical items which have been designated by moderns as problems 7B, 59B, 61B, and 82B. Numbers 85-87, meanwhile, are not mathematical items forming part of the body of the document, but instead are respectively: a small phrase ending the document, a piece of "scrap-paper" used to hold the document together (having already contained unrelated writing), and a historical note which is thought to describe a time period shortly after the completion of the body of the papyrus. These three latter items are written on disparate areas of the papyrus' verso (back side) , far away from the mathematical content. Chace therefore differentiates them by styling them as numbers as opposed to problems, like the other 88 numbered items.
+Ahmes
+Akhmim wooden tablet
+Ancient Egyptian units of measurement
+As I was going to St. Ives
+Berlin Papyrus 6619
+Arnold Buffum Chace
+Egyptian fraction
+Egyptian Mathematical Leather Roll
+Eye of Horus
+History of mathematics
+Lahun Mathematical Papyri
+Moscow Mathematical Papyrus
+Alexander Henry Rhind
+Rhind Mathematical Papyrus 2/n table
+Seked

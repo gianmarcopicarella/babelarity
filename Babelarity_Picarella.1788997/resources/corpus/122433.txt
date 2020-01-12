@@ -1,0 +1,120 @@
+Northern Thai (Thai: ภาษาถิ่นพายัพ; rtgs: Phasa Thin Phayap), Lanna (Thai: ล้านนา), or Kam Mueang (Northern Thai: ᨣᩴᩤᨾᩮᩥᩬᨦ [kam˧.mɯːəŋ˧], , Thai: คำเมือง  [kʰam˧ mɯːəŋ˧]) is the language of the Northern Thai people of Lanna, Thailand. It is a Tai language closely related to Lao. Northern Thai has approximately six million speakers, most of whom live in Thailand, with a few thousand in northwestern Laos.
+Speakers of this language generally consider the name "Tai Yuan" to be pejorative. They generally call themselves khon mueang (ฅนเมือง,  [xon˧ mɯːəŋ˧]), Lanna, or Northern Thai. The language is generally known by one of these terms or as Phayap.
+The term Yuan is still sometimes used for Northern Thai's distinctive Tai Tham alphabet, which is closely related to the old Tai Lue alphabet and the Lao religious alphabets. The use of the tua mueang, as the traditional alphabet is known, is now largely limited to Buddhist temples, where many old sermon manuscripts are still in active use. There is no active production of literature in the traditional alphabet. The modern spoken form is called Kammuang. There is a resurgence of interest in writing it in the traditional way, but the modern pronunciation differs from that prescribed in spelling rules.
+Most linguists consider Northern Thai to be more closely related to Thai and the other Chiang Saeng languages than to Lao and the Lao–Phutai languages, but the distinction is never easy to make, as the languages form a continuum with few sharp dividing lines.
+The Northern Thai language has various names in Northern Thai, Thai, and other Tai languages.
+In Northern Thai, it is commonly called kam mueang (ᨣᩴᩤᨾᩮᩥᩬᨦ, กำเมือง /kām.mɯ̄aŋ/, literally "the city language"; cf. Standard Thai: คำเมือง /kʰām.mɯ̄aŋ/), or phasa lanna (ᨽᩣᩇᩣᩃ᩶ᩣ᩠ᨶᨶᩣ, ภาษาล้านนา /pʰāː.sǎː.láːn.nāː/, literally "the language of Lanna").
+In Standard Thai, Northern Thai is known as phasa thin phayap (ภาษาถิ่นพายัพ /pʰāː.sǎː.tʰìn.pʰāː.jáp/, literally "the language of the northern region"), or phasa thai thin nuea (ภาษาไทยถิ่นเหนือ /pʰāː.sǎː.tʰāj.tʰìn.nɯ̌a/, literally "the Thai language of the northern region", or colloquially it is known as phasa nuea (ภาษาเหนือ /pʰāː.sǎː.nɯ̌a/, literally "the northern language").
+In Lao, it is known as phasa nyuan or phasa nyon (ພາສາຍວນ or ພາສາໂຍນ respectively, /pʰáː.sǎː.ɲúan/ or /pʰáː.sǎː.ɲóːn/ respectively, literally "the Tai Yuan language").
+In Tai Lü, it is known as kam yon (ᦅᧄᦍᦷᧃ kâm.jôn, literally "the Tai Yuan language").
+In Shan it is known as kwam yon (ၵႂၢမ်းယူၼ်း kwáːm.jón, literally "the Tai Yuan language").
+Currently, different scripts are used to write Northern Thai. Northern Thai is traditionally written with the Tai Tham script, which in Northern Thai is called tua mueang (ᨲᩫ᩠ᩅᨾᩮᩥ᩠ᩋᨦ ตั๋วเมือง /tǔa.mɯ̄aŋ/) or tua tham (ᨲᩫ᩠ᩅᨵᩢᨾ᩠ᨾ᩺ ตั๋วธัมม์ /tǔa.tʰām/). However, native speakers are presently illiterate in the traditional script; therefore, they instead use the Thai script to write the language. In Laos, the Lao script is commonly used to write Northern Thai.
+Some problems arise when the Thai script is used to write Northern Thai. In particular, Standard Thai script cannot transcribe all Northern Thai tones. The two falling tones in Northern Thai correspond to a single falling tone in Thai. Specifically, Northern Thai has two types of falling tones: high-falling tone (˥˧) and falling tone (˥˩). However, Thai lacks the distinction between the two falling tones; it lacks a high-falling tone (˥˧). Hence, when using Thai script is write Northern Thai tones, the distinction of the two falling tones is lost because Thai script can only be used to write one falling tone which is (˥˩). For example, the tonal distinction between /ka᷇ː/ (ก้า (ᨠᩖ᩶ᩣ กล้า) "to be brave") and /kâː/ (ก้า (ᨣ᩵ᩤ ค่า) "value") is lost when it is written in Thai since in this spelling only /kâː/ (ก้า) is permitted. Consequently, the meaning of ก้า is ambiguous as it can mean both "to be brave" and "value". Similarly, /pa᷇ːj/ (ป้าย (ᨸ᩶ᩣᩭ ป้าย) "sign") and /pâːj/ (ป้าย (ᨻ᩵ᩣᩭ พ่าย) "to lose") run into the same problem in that only /pâːj/ (ป้าย) is permitted. As a result, the spelling ป้าย is ambiguous because it can mean both "sign" or "to lose". Such tonal mergence ambiguity does not occur if the language is written with the Northern Thai script.
+Northern Thai consonant inventory is similar to that of Lao; both languages have the [ɲ] sound and lack [tɕʰ].
+* Implied before any vowel without an initial and after a short vowel without a final.
+** /kʰ/ and /t͡ɕʰ/ occur in loanwords from Standard Thai.
+There are two relatively common consonant clusters:
+/kw/
+/xw/
+There are also several other, less frequent clusters recorded, though apparently in the process of being lost:
+All plosive sounds are unreleased. Hence, final /p/, /t/, and /k/ sounds are pronounced as [p̚], [t̚], and [k̚] respectively.
+* The glottal stop appears at the end when no final follows a short vowel.
+The basic vowels of the Northern Thai language are similar to those of Standard Thai. They, from front to back and close to open, are given in the following table. The top entry in every cell is the symbol from the International Phonetic Alphabet, the second entry gives the spelling in the Thai alphabet, where a dash (–) indicates the position of the initial consonant after which the vowel is pronounced. A second dash indicates that a final consonant must follow.
+The vowels each exist in long-short pairs: these are distinct phonemes forming unrelated words in Northern Thai, but usually transliterated the same: เขา (khao) means "they/them", while ขาว (khao) means "white".
+The long-short pairs are as follows:
+The basic vowels can be combined into diphthongs. For purposes of determining tone, those marked with an asterisk are sometimes classified as long:
+Additionally, there are three triphthongs, all of which are long:
+The following section largely concerns the Nan dialect of Northern Thai.
+There are six phonemic tones in the Chiangmai dialect of Northern Thai: low-rising, mid-low, high-falling, mid-high, falling, and high rising-falling.
+The table below presents six phonemic tones in unchecked syllables, i.e. closed syllables ending in sonorant sounds such as [m], [n], [ŋ], [w], and [j] and open syllables.
+The table below presents four phonemic tones in checked syllables, i.e. closed syllables ending in a glottal stop [ʔ] and obstruent sounds such as [p], [t], and [k].
+The grammar of Northern Thai is similar to those of other Tai languages. The word order is subject–verb–object, although the subject is often omitted. Just as Standard Thai, Northern Thai pronouns are selected according to the gender and relative status of speaker and audience.
+There is no morphological distinction between adverbs and adjectives. Many words can be used in either function. They succeed the word which they modify, which may be a noun, verb, or another adjective or adverb.
+แม่ญิงเฒ่า (mae nying thao, /mɛ̂ː.ɲīŋ.tʰa᷇w/) an old woman
+แม่ญิงตี้เฒ่าโวย (mae nying ti thao woi, /mɛ̂ː.ɲīŋ.tîː.tʰa᷇w.wōːj/) a woman who became old quickly
+Because adjectives can be used as complete predicates, many words used to indicate tense in verbs (see Verbs:Aspect below) may be used to describe adjectives.
+ข้าหิว (kha hiw, [xa᷇ː hǐw]) I am hungry.
+ข้าจะหิว (kha cha hiw, [xa᷇ː t͡ɕa hǐw]) I will be hungry.
+ข้ากะลังหิว (kha kalang hiw, [xa᷇ː ka.lāŋ hǐw]) I am hungry right now.
+ข้าหิวแล้ว (kha hiu laew, [xa᷇ː hǐw lɛ́ːw]) I am already hungry.
+Verbs do not inflect. They do not change with person, tense, voice, mood, or number; nor are there any participles.
+ข้าตี๋เปิ้น (kha ti poen, [xa᷇ː tǐː pɤ̂n]), I hit him.
+เปิ้นตี๋ข้า (poen ti kha, [pɤ̂n tǐː xa᷇ː]), He hit me.
+The passive voice is indicated by the insertion of โดน (don, [dōːn]) before the verb. For example:
+เปิ้นโดนตี๋ (poen don ti, [pɤ̂n dōːn tǐː]), He is hit or He got hit. This describes an action that is out of the receiver's control and, thus, conveys suffering.
+To convey the opposite sense, a sense of having an opportunity arrive, ได้ (dai, [da᷇j], can) is used. For example:
+เปิ้นจะได้ไปแอ่วเมืองลาว (poen cha dai pai aew mueang lao, [pɤ̂n t͡ɕa da᷇j pāj ʔɛ̀w mɯ̄aŋ lāːw]), He gets to visit Laos.
+เปิ้นตี๋ได้ (poen ti dai, [pɤ̂n tǐː da᷇j]), He is/was allowed to hit or He is/was able to hit
+Negation is indicated by placing บ่ (bor,[bɔ̀] or [bà] not) before the verb.
+เปิ้นบ่ตี๋, (poen bor ti, [pɤ̂n bɔ̀ tǐː]) He is not hitting. or He not hit.
+Aspect is conveyed by aspect markers before or after the verb.
+Present can be indicated by กะลัง (kalang, [ka.lāŋ], currently) or กะลังหะ (kalangha, [ka.lāŋ.hà], currently) before the verb for ongoing action (like English -ing form), by อยู่ (yu, [jùː]) after the verb, or by both. For example:
+เปิ้นกะลังหะล่น (poen kalangha lon, [pɤ̂n ka.lāŋ.hà lôn]), or
+เปิ้นล่นอยู่ (poen lon yu, [pɤ̂n lôn jùː]), or
+เปิ้นกะลังหะล่นอยู่ (poen kalanɡha lon yu, [pɤ̂n ka.lāŋ.hà lôn jùː]), He is running.
+Future can be indicated by จะ (cha, [t͡ɕaʔ], will) before the verb or by a time expression indicating the future. For example:
+เปิ้นจะล่น (poen cha lon, [pɤ̂n t͡ɕaʔ lôn]), He will run or He is going to run.
+Past can be indicated by ได้ (dai, [da᷇j]) before the verb or by a time expression indicating the past. However, แล้ว (laew,  :[lɛ́ːw], already) is often used to indicate the past aspect by being placed behind the verb. Or, both ได้ and แล้ว are put together to form the past aspect expression. For example:
+เปิ้นได้กิ๋น (poen dai kin, [pɤ̂n da᷇j kǐn]), He ate.
+เปิ้นกิ๋นแล้ว (poen kin laew, [pɤ̂n kǐn lɛ́ːw], He has eaten.
+เปิ้นได้กิ๋นแล้ว (poen dai kin laew, [pɤ̂n da᷇j kǐn lɛ́ːw]), He's already eaten.
+Aspect markers are not required.
+ข้ากิ๋นตี้หั้น (kha kin tihan, [xa᷇ kǐn tîː.ha᷇n]), I eat there.
+ข้ากิ๋นตี้หั้นตะวา (kha kin tihan tawa, [xa᷇ kǐn tîː.ha᷇n ta.wāː]), I ate there yesterday.
+ข้ากิ๋นตี้หั้นวันพูก (kha kin tihan wanphuk, [xa᷇ kǐn tîː.ha᷇n wān.pʰûːk]), I'll eat there tomorrow.
+Words that indicate obligation include at cha (อาจจะ), na cha (น่าจะ), khuan cha (ควรจะ), and tong (ต้อง).
+at cha (อาจจะ, /ʔàːt.t͡ɕa/) Might
+เปิ้นอาจจะมา (poen at cha ma, /pɤ̂n ʔàːt.t͡ɕa māː/) He might come.
+na cha (น่าจะ, /na᷇ː.t͡ɕa/) Likely to
+เปิ้นน่าจะมา (poen na cha ma, /pɤ̂n na᷇ː.t͡ɕa māː/) He is likely to come.
+khuan cha (ควรจะ, /xūan.t͡ɕa/) Should
+เปิ้นควรจะมา (poen khuan cha ma, /pɤ̂n xūan.t͡ɕa māː/) He should come.
+tong (ต้อง, /tɔ᷇ːŋ/) Must
+เปิ้นต้องมา (poen tong ma, /pɤ̂n tɔ᷇ːŋ māː/) He must come.
+Actions that wherein one is busily engaged can be indicated by มัวก่า (mua ka, /mūa.kàː/).
+ก่อมัวก่ากิ๋นหั้นเนาะ (kor mua ka kin han nor, /kɔ̀ mūa kàː kǐn ha᷇n nɔ᷇ʔ/) (It's that you/he/she) just keeps on eating it like that, you know?
+Words that express one's desire to do something can by indicated by khai (ใค่) and kan (กั๊น).
+khai (ใค่, /xâj/, to want, to desire)
+ข้าเจ้าใค่กิ๋น (kha.chao khai kin, /xa᷇ː.t͡ɕa᷇w xâj kǐn/) I want to eat.
+kan (กั๊น, /kán/, to try)
+ข้าเจ้ากั๊นกิ๋น (kha.chao kan kin, /xa᷇ː.t͡ɕa᷇w kán kǐn/) I try to eat.
+Phor tha wa (ผ่อท่าว่า, /pʰɔ̀ː.tʰâː.wâː/) is used to give the impression or sensation of being something or having a particular quality.
+ผ่อท่าว่าเปิ้นปิ๊กมาแล้ว (phor tha wa poen pik ma laew, /pʰɔ̀ː tʰâː wâː pɤ̂n pi᷇k māː lɛ́ːw/) It seems that he has returned.
+Northern Thai has a number of final particles, which have different functions.
+Some of the most common interrogative particles are kor (ก่อ, /kɔ̀ː/) and ka (กา, /kāː/)
+kor (ก่อ, /kɔ̀ː/, denoting yes/no question)
+ม่วนก่อ (muan kor, /mûan kɔ̀ː/) Is it fun?
+ka (กา (and its variants: ก๋า, กา), /kāː/, denoting confirmative question)
+ม่วนกา (muan ka, /mûan kāː/) It is fun, right?
+Some imperative particles are แล่, จิ่ม, and เตอะ. lae (แล่, /lɛ̂ː/)
+กิ๋นแล่ (kin lae, /kǐn lɛ̂ː/) Eat! (Authoritative).
+chim (จิ่ม, /t͡ɕìm/)
+ขอกิ๋นจิ่ม (khor kin chim, /xɔ̌ː kǐn t͡ɕìm/) May I eat please?
+hia (เหีย, /hǐa/)
+กิ๋นเหีย (kin hia, /kǐn hǐa/) Eat! (because I know it will be beneficial to you).
+toe (เตอะ, /tɤ᷇ʔ/)
+กิ๋นเตอะ (kin toe, /kǐn tɤ᷇ʔ/) Eat, please.
+Polite particles include คับ and เจ้า.
+khap (คับ, /xa᷇p/, used by males)
+กิ๋นเข้าแล้วคับ (kin khaw laew khap, /kǐn xa᷇w lɛ́ːw xa᷇p/) I have eaten, sir/ma'am.
+chao (เจ้า, /t͡ɕa᷇w/, used by females)
+กิ๋นเข้าแล้วเจ้า (kin khaw laew chao, /kǐn xa᷇w lɛ́ːw t͡ɕa᷇w/) I have eaten, sir/ma'am.
+Nouns are uninflected and have no gender; there are no articles.
+Nouns are neither singular nor plural. Some specific nouns are reduplicated to form collectives: ละอ่อน (la-orn, [la.ʔɔ̀ːn], child) is often repeated as ละอ่อนๆ (la-orn la-orn, [la.ʔɔ̀ːn la.ʔɔ̀ːn],) to refer to a group of children.
+The word หมู่(mu, [mùː]) may be used as a prefix of a noun or pronoun as a collective to pluralize or emphasise the following word. (หมู่ผม, mu phom, [mùː pʰǒm], we (exclusive), masculine; หมู่เฮา mu hao, [mùː hāw], emphasised we; หมู่หมา mu ma, [mùː mǎː], (the) dogs).
+Plurals are expressed by adding classifiers, used as measure words (ลักษณนาม), in the form of noun-number-classifier (คูห้าคน, "teacher five person" for "five teachers").
+Pronouns may be omitted once they have already been established in the first sentence, unless the pronoun in the following sentences is different from the first sentence. The pronoun "you" may also be omitted if the speaker is speaking directly to a second person. Moreover, names may replace pronouns, and they can even replace the first person singular pronoun.
+Northern Thai shares much vocabulary with Standard Thai, especially scientific terms, which draw many prefixes and suffixes from Sanskrit and Pali, and it also has its own distinctive words. Just like Thai and Lao, Northern Thai has borrowed many loanwords from Khmer, Sanskrit, and Pali.
+The tables below present the differences between Northern Thai and Standard Thai.
+Unlike Northern Thai, Standard Thai lacks palatal nasal sound (/ɲ/). Thus, the palatal nasal sound (/ɲ/) and the palatal approximant sound (/j/) in Northern Thai both correspond to the palatal approximant sound in Standard Thai:
+Unlike Northern Thai, Standard Thai lacks a high-falling tone ([˥˧]). The high falling tone ([˥˧]) and falling tone ([˥˩]) in Northern Thai both correspond to the falling tone in Standard Thai ([˥˩]).
+Many words differ from Standard Thai greatly:
+There is not a straightforward correspondence between the tones of Northern and Standard Thai. It also depends on the initial consonant, as can be seen from the merged Gedney tone boxes for Standard Thai and the accent of Chiang Mai:
+Note that the commonalities between columns are features of the Chiang Mai accent. On the other hand, the relationships between rows are typical of Northern Thai, being found for at least for Chiang Mai, Chiang Rai, Phayao, Nan and Prae, and extending at least to Tak and the old 6-tone accent of Tai Khuen, except that the checked syllables of Chiang Rai are more complicated.
+The primary function of a tone box is etymological. However, it also serves as a summary of the rules for tone indication when the writing system is essentially etymological in that regard, as is the case with the major Tai-language writing systems using the Thai, Lanna, New Tai Lue, Lao and Tai Dam scripts.
+Some words differ only as a result of the regular tone correspondences:
+Other tone differences are irregular, such as:
+Some words differ in a single sound and associated tone. In many words, the initial ร (/r/) in Standard Thai corresponds to ฮ (/h/) in Northern Thai:
+Some aspirated consonants in the low-class consonant group (อักษรต่ำ /ʔàk.sɔ̌ːn.tàm/) in Standard Thai correspond to unaspirated sounds in Northern Thai. These sounds include ค, ช, ท, and พ (/kʰ/, /t͡ɕʰ/, /tʰ/, and /pʰ/ respectively), but sounds such as ฅ, คร, ฆ, ฒ, พร, ภ (/kʰ/, /kʰr/, /kʰ/, /tʰ/, /pʰr/, and /pʰ/ respectively) remain aspirated. Such aspirated consonants that are unaspirated in Northern Thai correspond to unaspirated voiced sounds in Proto-Tai which are *ɡ, *ɟ, *d, and *b (ค, ช, ท, and พ respectively).:
+But not:
+Though a number of aspirated consonants in Standard Thai often correspond to unaspirated sounds in Northern Thai, when an unaspirated consonant is followed by ร (/r/) the unaspirated consonant becomes aspirated:

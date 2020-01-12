@@ -1,0 +1,436 @@
+In probability theory, a Lévy process, named after the French mathematician Paul Lévy, is a stochastic process with independent, stationary increments: it represents the motion of a point whose successive displacements are random and independent, and statistically identical over different time intervals of the same length. A Lévy process may thus be viewed as the continuous-time analog of a random walk.
+The most well known examples of Lévy processes are Brownian motion and the Poisson process. Aside from Brownian motion with drift, all other proper Lévy processes have discontinuous paths.
+A stochastic process 
+        X
+        =
+        {
+          X
+            t
+        :
+        t
+        ≥
+        0
+        }
+    {\displaystyle X=\{X_{t}:t\geq 0\}}
+   is said to be a Lévy process if it satisfies the following properties:
+          X
+            0
+        =
+        0
+    {\displaystyle X_{0}=0\,}
+   almost surely
+Independence of increments: For any 
+        0
+        ≤
+          t
+            1
+        <
+          t
+            2
+        <
+        ⋯
+        <
+          t
+            n
+        <
+        ∞
+    {\displaystyle 0\leq t_{1}<t_{2}<\cdots <t_{n}<\infty }
+  , 
+          X
+              t
+                2
+        −
+          X
+              t
+                1
+        ,
+          X
+              t
+                3
+        −
+          X
+              t
+                2
+        ,
+        …
+        ,
+          X
+              t
+                n
+        −
+          X
+              t
+                n
+                −
+                1
+    {\displaystyle X_{t_{2}}-X_{t_{1}},X_{t_{3}}-X_{t_{2}},\dots ,X_{t_{n}}-X_{t_{n-1}}}
+   are independent
+Stationary increments: For any 
+        s
+        <
+        t
+    {\displaystyle s<t\,}
+  , 
+          X
+            t
+        −
+          X
+            s
+    {\displaystyle X_{t}-X_{s}\,}
+   is equal in distribution to 
+          X
+            t
+            −
+            s
+        .
+    {\displaystyle X_{t-s}.\,}
+Continuity in probability: For any 
+        ϵ
+        >
+        0
+    {\displaystyle \epsilon >0}
+   and 
+        t
+        ≥
+        0
+    {\displaystyle t\geq 0}
+   it holds that 
+          lim
+            h
+            →
+            0
+        P
+        (
+          |
+          X
+            t
+            +
+            h
+        −
+          X
+            t
+          |
+        >
+        ϵ
+        )
+        =
+        0
+    {\displaystyle \lim _{h\rightarrow 0}P(|X_{t+h}-X_{t}|>\epsilon )=0}
+If 
+        X
+    {\displaystyle X}
+   is a Lévy process then one may construct a version of 
+        X
+    {\displaystyle X}
+   such that 
+        t
+        ↦
+          X
+            t
+    {\displaystyle t\mapsto X_{t}}
+   is almost surely right continuous with left limits.
+A continuous-time stochastic process assigns a random variable Xt to each point t ≥ 0 in time. In effect it is a random function of t. The increments of such a process are the differences Xs − Xt between its values at different times t < s. To call the increments of a process independent means that increments Xs − Xt and Xu − Xv are independent random variables whenever the two time intervals do not overlap and, more generally, any finite number of increments assigned to pairwise non-overlapping time intervals are mutually (not just pairwise) independent.
+To call the increments stationary means that the probability distribution of any increment Xt − Xs depends only on the length t − s of the time interval; increments on equally long time intervals are identically distributed.
+If 
+        X
+    {\displaystyle X}
+   is a Wiener process, the probability distribution of Xt − Xs is normal with expected value 0 and variance t − s.
+If 
+        X
+    {\displaystyle X}
+   is the Poisson process, the probability distribution of Xt − Xs is a Poisson distribution with expected value λ(t − s), where λ > 0 is the "intensity" or "rate" of the process.
+The distribution of a Lévy process has the property of infinite divisibility: given any integer "n", the law of a Lévy process at time t can be represented as the law of n independent random variables, which are precisely the increments of the Lévy process over time intervals of length t/n, which are independent and identically distributed by assumption. Conversely, for each infinitely divisible probability distribution 
+        F
+    {\displaystyle F}
+  , there is a Lévy process 
+        X
+    {\displaystyle X}
+   such that the law of 
+          X
+            1
+    {\displaystyle X_{1}}
+   is given by 
+        F
+    {\displaystyle F}
+  .
+In any Lévy process with finite moments, the nth moment 
+          μ
+            n
+        (
+        t
+        )
+        =
+        E
+        (
+          X
+            t
+            n
+        )
+    {\displaystyle \mu _{n}(t)=E(X_{t}^{n})}
+  , is a polynomial function of t; these functions satisfy a binomial identity:
+          μ
+            n
+        (
+        t
+        +
+        s
+        )
+        =
+          ∑
+            k
+            =
+            0
+            n
+              (
+              n
+              k
+              )
+          μ
+            k
+        (
+        t
+        )
+          μ
+            n
+            −
+            k
+        (
+        s
+        )
+        .
+    {\displaystyle \mu _{n}(t+s)=\sum _{k=0}^{n}{n \choose k}\mu _{k}(t)\mu _{n-k}(s).}
+The distribution of a Lévy process is characterized by its characteristic function, which is given by the Lévy–Khintchine formula (general for all infinitely divisible distributions): If 
+        X
+        =
+        (
+          X
+            t
+          )
+            t
+            ≥
+            0
+    {\displaystyle X=(X_{t})_{t\geq 0}}
+   is a Lévy process, then its characteristic function 
+          ϕ
+            X
+        (
+        θ
+        )
+    {\displaystyle \phi _{X}(\theta )}
+   is given by
+          ϕ
+            X
+        (
+        θ
+        )
+        :=
+          E
+            [
+          e
+            i
+            θ
+            X
+            ]
+        =
+        exp
+        ⁡
+            (
+        a
+        i
+        θ
+        −
+            1
+            2
+          σ
+            2
+          θ
+            2
+        +
+          ∫
+              R
+            ∖
+            {
+            0
+            }
+            (
+          e
+            i
+            θ
+            x
+        −
+        1
+        −
+        i
+        θ
+        x
+            I
+              |
+            x
+              |
+            <
+            1
+            )
+        Π
+        (
+        d
+        x
+        )
+            )
+    {\displaystyle \phi _{X}(\theta ):=\mathbb {E} {\Big [}e^{i\theta X}{\Big ]}=\exp {\Bigg (}ai\theta -{\frac {1}{2}}\sigma ^{2}\theta ^{2}+\int _{\mathbb {R} \backslash \{0\}}{\big (}e^{i\theta x}-1-i\theta x\mathbf {I} _{|x|<1}{\big )}\,\Pi (dx){\Bigg )}}
+where 
+        a
+        ∈
+          R
+    {\displaystyle a\in \mathbb {R} }
+  , 
+        σ
+        ≥
+        0
+    {\displaystyle \sigma \geq 0}
+  , 
+          I
+    {\displaystyle \mathbf {I} }
+   is the indicator function and 
+        Π
+    {\displaystyle \Pi }
+   is a sigma-finite measure called the Lévy measure of 
+        X
+    {\displaystyle X}
+  , satisfying the property
+          ∫
+              R
+            ∖
+            {
+            0
+            }
+        1
+        ∧
+          x
+            2
+        Π
+        (
+        d
+        x
+        )
+        <
+        ∞
+        .
+    {\displaystyle \int _{\mathbb {R} \backslash \{0\}}1\wedge x^{2}\Pi (dx)<\infty .}
+A Lévy process can be seen as having three independent components: a linear drift, a Brownian motion and a superposition of independent (centered) Poisson processes with different jump sizes; 
+        Π
+        (
+        d
+        x
+        )
+    {\displaystyle \Pi (dx)}
+   represents the rate of arrival (intensity) of the Poisson process with jump of size 
+        x
+    {\displaystyle x}
+  . These three components, and thus the Lévy–Khintchine representation, are fully determined by the Lévy–Khintchine triplet 
+        (
+        a
+        ,
+          σ
+            2
+        ,
+        Π
+        )
+    {\displaystyle (a,\sigma ^{2},\Pi )}
+  . In particular, the only (nondeterministic) continuous Lévy process is a Brownian motion with drift.
+Any Lévy process may be decomposed into the sum of a Brownian motion, a linear drift and a pure jump process which captures all jumps of the original Lévy process. The latter can be thought of as a superposition of centered compound Poisson processes.This result is known as the Lévy–Itō decomposition.
+Given a Lévy triplet 
+        (
+        a
+        ,
+          σ
+            2
+        ,
+        Π
+        )
+    {\displaystyle (a,\sigma ^{2},\Pi )}
+   there exist three independent Lévy processes, which lie in the same probability space, 
+          X
+            (
+            1
+            )
+    {\displaystyle X^{(1)}}
+  , 
+          X
+            (
+            2
+            )
+    {\displaystyle X^{(2)}}
+  , 
+          X
+            (
+            3
+            )
+    {\displaystyle X^{(3)}}
+   such that:
+          X
+            (
+            1
+            )
+    {\displaystyle X^{(1)}}
+   is a Brownian motion with drift, corresponding to the absolutely continuous part of a measure and capturing the drift a and diffusion 
+          σ
+            2
+    {\displaystyle \sigma ^{2}}
+  ;
+          X
+            (
+            2
+            )
+    {\displaystyle X^{(2)}}
+   is a compound Poisson process, corresponding to the pure point part of the singular measure W;
+          X
+            (
+            3
+            )
+    {\displaystyle X^{(3)}}
+   is a square integrable pure jump martingale that almost surely has a countable number of jumps on a finite interval, corresponding to the singular continuous part of the singular measure W.
+The process defined by 
+        X
+        =
+          X
+            (
+            1
+            )
+        +
+          X
+            (
+            2
+            )
+        +
+          X
+            (
+            3
+            )
+    {\displaystyle X=X^{(1)}+X^{(2)}+X^{(3)}}
+   is then a Lévy process with triplet 
+        (
+        a
+        ,
+          σ
+            2
+        ,
+        Π
+        )
+    {\displaystyle (a,\sigma ^{2},\Pi )}
+  .
+The process 
+          X
+            (
+            3
+            )
+    {\displaystyle X^{(3)}}
+   can be further decomposed as a sum of two independent processes the first pure jump zero mean martingale of jumps less than 
+        1
+    {\displaystyle 1}
+   In absolute value and the second a compound Poisson process describing the jumps bigger than one in absolute value.
+Independent and identically distributed random variables
+Brownian motion
+Poisson process
+Markov process
+Lévy flight
+Gamma process

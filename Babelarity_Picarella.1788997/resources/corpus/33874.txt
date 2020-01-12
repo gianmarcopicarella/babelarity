@@ -1,0 +1,45 @@
+Pleurotus is a genus of gilled mushrooms which includes one of the most widely eaten mushrooms, P. ostreatus. Species of Pleurotus may be called oyster, abalone, or tree mushrooms, and are some of the most commonly cultivated edible mushrooms in the world. Pleurotus fungi have been used in mycoremediation of pollutants such as petroleum and polycyclic aromatic hydrocarbons.
+Pleurotus means "side ear", from Greek πλευρή (pleurē), "side" + ὠτός (ōtos), genitive of οὖς (ous), "ear".
+The caps may be laterally attached (with no stem). If there is a stem, it is normally eccentric and the gills are decurrent along it. The term pleurotoid is used for mushrooms having this general shape.
+The spores are smooth and elongated (described as "cylindrical"). Where hyphae meet, they are joined by clamp connections. Pleurotus is not considered to be a bracket fungus, and most of the species are monomitic (with a soft consistency). However, remarkably, Pleurotus dryinus can sometimes be dimitic, meaning that it has additional skeletal hyphae, which give it a tougher consistency like bracket fungi.
+Pleurotus fungi are found in both tropical and temperate climates throughout the world. Most species of Pleurotus are white-rot fungi on hardwood trees, although some also decay conifer wood. P. eryngii is unusual in its association with herbaceous plants, and P. tuber-regium produces underground sclerotia. In addition to being saprotrophic, all species of Pleurotus are also nematophagous, catching nematodes by paralyzing them with a toxin.
+Oyster mushrooms are popular for cooking, torn up instead of sliced, especially in stir fry or sauté, because they are consistently thin, and so will cook more evenly than uncut mushrooms of other types. Furthermore,It often appears in vegetarian cuisine.
+The classification of species within the genus Pleurotus is difficult due to high phenotypic variability across wide geographic ranges, geographic overlap of species, and on going evolution and speciation. Early taxonomic efforts placed the oyster mushrooms within Agaricus (Agaricus ostreatus Jacq. 1774). Paul Kummer defined the genus Pleurotus in 1871; since then, the genus has been narrowed with species moving to other genera such as Favolaschia, Hohenbuehelia, Lentinus, Marasmiellus, Omphalotus, Panellus, Pleurocybella, and Resupinatus. See Singer (1986) for an example of Pleurotus taxonomy based on morphological characteristics.
+More recently, molecular phylogenetics has been utilized to determine genetic and evolutionary relationships between groups within the genus, delineating discrete clades. Pleurotus, along with the closely related genus Hohenbuehelia, has been shown to be monophyletic. Tests of cross-breeding viability between groups have been used to further define which groups are deserving of species rank, as opposed to subspecies, variety, or synonymy. If two groups of morphologically distinct Pleurotus fungi are able to cross-breed and produce fertile offspring, they meet one definition of species. These reproductively discrete groups, referred to as intersterility groups, have begun to be defined in Pleurotus. Many binomial names used in literature are now being grouped together as species complexes using this technique, and may change.
+The following species list is organized according to 1. phylogenetic clade, 2. intersterility group (group number in Roman numerals) or sub-clade, and then 3. any older binomial names that have been found to be closely related, reproductively compatible, or synonymous, although they may no longer be taxonomically valid. This list is likely to be incomplete.
+P. ostreatus cladeI. P. ostreatus (oyster or pearl oyster mushroom) – North America and northern EurasiaP. florida
+II. P. pulmonarius (phoenix or Indian oyster mushroom) – North America, Eurasia, and AustralasiaP. columbinus
+P. sapidus
+III. P. populinus – North America
+VI. P. eryngii (king oyster mushroom) – Europe and the Middle EastP. ferulae
+P. fossulatus – Afghanistan
+P. nebrodensis
+XII. P. abieticola – Asia
+XIII. P. albidus – Caribbean, Central America, South America
+P. djamor-cornucopiae clade
+IV. P. cornucopiae (branched oyster mushroom) – Europe
+P. citrinopileatus (golden oyster mushroom) – eastern Asia
+P. euosmus (tarragon oyster mushroom)
+V. P. djamor (The pink oyster mushroom) – pantropical
+P. flabellatus
+P. salmoneo-stramineus
+P. salmonicolor
+XI. P. opuntiae – North America, New Zealand
+XVI. P. calyptratus
+P. cystidiosus clade
+VII. P. cystidiosus (abalone mushroom) – Global
+P. abalonus – Taiwan
+P. fuscosquamulosus – Africa, Europe
+P. smithii – Mexico
+IX. P. dryinus – North America, Europe, and New Zealand
+VIII. P. levis – subtropical to tropical
+X. P. tuber-regium (king tuber mushroom) – Africa, Asia, Australasia
+XIV. P. australis (brown oyster mushroom) – Australia and New Zealand
+XV. P. purpureo-olivaceus – Australia and New ZealandP. rattenburyi
+P. gardneri
+P. parsonsii
+P. velatus
+P. sajor-caju was moved to the genus Lentinus.
+P. nidiformis was moved to the genus Omphalotus in 1994.
+Antromycopsis – an anamorphic form of Pleurotus
+List of Pleurotus species

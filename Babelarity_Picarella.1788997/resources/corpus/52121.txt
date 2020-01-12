@@ -1,0 +1,42 @@
+Iterative and Incremental development is any combination of both iterative design or iterative method and incremental build model for software development. The combination is of long standing  and has been widely suggested for large development efforts. For example, the 1985 DOD-STD-2167 mentions (in section 4.1.2): "During software development, more than one iteration of the software development cycle may be in progress at the same time." and "This process may be described as an 'evolutionary acquisition' or 'incremental build' approach." The relationship between iterations and increments is determined by the overall software development methodology and software development process. The exact number and nature of the particular incremental builds and what is iterated will be specific to each individual development effort.
+Iterative and incremental development are essential parts of the Modified waterfall models, Rational Unified Process, Extreme Programming and generally the various agile software development frameworks.
+It follows a similar process to the plan-do-check-act cycle of business process improvement.
+The basic idea behind this method is to develop a system through repeated cycles (iterative) and in smaller portions at a time (incremental), allowing software developers to take advantage of what was learned during development of earlier parts or versions of the system. Learning comes from both the development and use of the system, where possible key steps in the process start with a simple implementation of a subset of the software requirements and iteratively enhance the evolving versions until the full system is implemented. At each iteration, design modifications are made and new functional capabilities are added.
+The procedure itself consists of the initialization step, the iteration step, and the Project Control List. The initialization step creates a base version of the system. The goal for this initial implementation is to create a product to which the user can react. It should offer a sampling of the key aspects of the problem and provide a solution that is simple enough to understand and implement easily. To guide the iteration process, a project control list is created that contains a record of all tasks that need to be performed. It includes such items as new features to be implemented and areas of redesign of the existing solution. The control list is constantly being revised as a result of the analysis phase.
+The iteration involves the redesign and implementation of iteration is to be simple, straightforward, and modular, supporting redesign at that stage or as a task added to the project control list. The level of design detail is not dictated by the iterative approach. In a light-weight iterative project the code may represent the major source of documentation of the system; however, in a critical iterative project a formal Software Design Document may be used. The analysis of an iteration is based upon user feedback, and the program analysis facilities available. It involves analysis of the structure, modularity, usability, reliability, efficiency, & achievement of goals. The project control list is modified in light of the analysis results.
+Incremental development slices the system functionality into increments (portions). In each increment, a slice of functionality is delivered through cross-discipline work, from the requirements to the deployment. The Unified Process groups increments/iterations into phases: inception, elaboration, construction, and transition.
+Inception identifies project scope, requirements (functional and non-functional) and risks at a high level but in enough detail that work can be estimated.
+Elaboration delivers a working architecture that mitigates the top risks and fulfills the non-functional requirements.
+Construction incrementally fills-in the architecture with production-ready code produced from analysis, design, implementation, and testing of the functional requirements.
+Transition delivers the system into the production operating environment.
+Each of the phases may be divided into 1 or more iterations, which are usually time-boxed rather than feature-boxed. Architects and analysts work one iteration ahead of developers and testers to keep their work-product backlog full.
+Many examples of early usage are provided in Craig Larman and Victor Basili's article "Iterative and Incremental Development: A Brief History", with one of the earliest being NASA's 1960s Project Mercury.
+Another is an "early and striking example of a major IID success is the very heart of NASA’s space shuttle software—the primary avionics software system, which FSD built from 1977 to 1980. The team applied IID in a series of 17 iterations over 31 months, averaging around eight weeks per iteration. Their motivation for avoiding the waterfall life cycle was that the shuttle program’s requirements changed during the software development process".
+Some organizations, such as the US Department of Defense, have a preference for iterative methodologies, starting with MIL-STD-498 "clearly encouraging evolutionary acquisition and IID".
+The current DoD Instruction 5000.2, released in 2000, states a clear preference for IID: "There are two approaches, evolutionary and single step [waterfall], to full capability. An evolutionary approach is preferred. … [In this] approach, the ultimate capability delivered to the user is divided into two or more blocks, with increasing increments of capability...software development shall follow an iterative spiral development process in which continually expanding software versions are based on learning from earlier development. It can also be done in phases .
+Waterfall development completes the project-wide work-products of each discipline in one step before moving on to the next discipline in the next step. Business value is delivered all at once, and only at the very end of the project. Backtracking is possible in an iterative approach.
+Guidelines that drive the implementation and analysis include:
+Any difficulty in design, coding and testing a modification should signal the need for redesign or re-coding.
+Modifications should fit easily into isolated and easy-to-find modules. If they do not, some redesign is possibly needed.
+Modifications to tables should be especially easy to make. If any table modification is not quickly and easily done, redesign is indicated.
+Modifications should become easier to make as the iterations progress. If they are not, there is a basic problem such as a design flaw or a proliferation of patches.
+Patches should normally be allowed to exist for only one or two iterations. Patches may be necessary to avoid redesigning during an implementation phase.
+The existing implementation should be analyzed frequently to determine how well it measures up to project goals.
+Program analysis facilities should be used whenever available to aid in the analysis of partial implementations.
+User reaction should be solicited and analyzed for indications of deficiencies in the current implementation.
+While the term iterative and incremental development got started in the software industry, many hardware and embedded software development efforts are using iterative and incremental techniques. For example, the large US launch service provider United Launch Alliance (ULA) has undertaken a decade-long project to restructure its launch business—reducing two launch vehicles to one—using an iterative and incremental approach to get to a partially-reusable and much lower-cost launch system over the next decade.
+Incremental build model
+Rapid application development
+Dynamic Systems Development Method
+Extreme Programming
+Continuous integration
+Kaizen
+Rational Unified Process
+Unified Process
+Microsoft Solutions Framework
+Interaction Design
+OpenUP/Basic
+Object-oriented analysis and design
+Goal-Driven Software Development Process
+Spiral model
+Incremental approach

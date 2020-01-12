@@ -1,0 +1,201 @@
+In mathematics, the nth taxicab number, typically denoted Ta(n) or Taxicab(n), is defined as the smallest number that can be expressed as a sum of two positive algebraic cubes in n distinct ways.
+The name is derived from a conversation in about 1919 involving mathematicians G. H. Hardy and Srinivasa Ramanujan. As told by Hardy:
+The concept was first mentioned in 1657 by Bernard Frénicle de Bessy, and was made famous in the early 20th century by a story involving Srinivasa Ramanujan. In 1938, G. H. Hardy and E. M. Wright proved that such numbers exist for all positive integers n, and their proof is easily converted into a program to generate such numbers. However, the proof makes no claims at all about whether the thus-generated numbers are the smallest possible and thus it cannot be used to find the actual value of Ta(n).
+The restriction of the summands to positive numbers is necessary, because allowing negative numbers allows for more (and smaller) instances of numbers that can be expressed as sums of cubes in n distinct ways. The concept of a cabtaxi number has been introduced to allow for alternative, less restrictive definitions of this nature. In a sense, the specification of two summands and powers of three is also restrictive; a generalized taxicab number allows for these values to be other than two and three, respectively.
+So far, the following six taxicab numbers are known (sequence A011541 in the OEIS):
+                Ta
+                ⁡
+                (
+                1
+                )
+                =
+                2
+                =
+                  1
+                    3
+                +
+                  1
+                    3
+    {\displaystyle {\begin{matrix}\operatorname {Ta} (1)&=&2&=&1^{3}+1^{3}\end{matrix}}}
+                Ta
+                ⁡
+                (
+                2
+                )
+                =
+                1729
+                =
+                  1
+                    3
+                +
+                  12
+                    3
+                =
+                  9
+                    3
+                +
+                  10
+                    3
+    {\displaystyle {\begin{matrix}\operatorname {Ta} (2)&=&1729&=&1^{3}&+&12^{3}\\&&&=&9^{3}&+&10^{3}\end{matrix}}}
+                Ta
+                ⁡
+                (
+                3
+                )
+                =
+                87539319
+                =
+                  167
+                    3
+                +
+                  436
+                    3
+                =
+                  228
+                    3
+                +
+                  423
+                    3
+                =
+                  255
+                    3
+                +
+                  414
+                    3
+    {\displaystyle {\begin{matrix}\operatorname {Ta} (3)&=&87539319&=&167^{3}&+&436^{3}\\&&&=&228^{3}&+&423^{3}\\&&&=&255^{3}&+&414^{3}\end{matrix}}}
+                Ta
+                ⁡
+                (
+                4
+                )
+                =
+                6963472309248
+                =
+                  2421
+                    3
+                +
+                  19083
+                    3
+                =
+                  5436
+                    3
+                +
+                  18948
+                    3
+                =
+                  10200
+                    3
+                +
+                  18072
+                    3
+                =
+                  13322
+                    3
+                +
+                  16630
+                    3
+    {\displaystyle {\begin{matrix}\operatorname {Ta} (4)&=&6963472309248&=&2421^{3}&+&19083^{3}\\&&&=&5436^{3}&+&18948^{3}\\&&&=&10200^{3}&+&18072^{3}\\&&&=&13322^{3}&+&16630^{3}\end{matrix}}}
+                Ta
+                ⁡
+                (
+                5
+                )
+                =
+                48988659276962496
+                =
+                  38787
+                    3
+                +
+                  365757
+                    3
+                =
+                  107839
+                    3
+                +
+                  362753
+                    3
+                =
+                  205292
+                    3
+                +
+                  342952
+                    3
+                =
+                  221424
+                    3
+                +
+                  336588
+                    3
+                =
+                  231518
+                    3
+                +
+                  331954
+                    3
+    {\displaystyle {\begin{matrix}\operatorname {Ta} (5)&=&48988659276962496&=&38787^{3}&+&365757^{3}\\&&&=&107839^{3}&+&362753^{3}\\&&&=&205292^{3}&+&342952^{3}\\&&&=&221424^{3}&+&336588^{3}\\&&&=&231518^{3}&+&331954^{3}\end{matrix}}}
+                Ta
+                ⁡
+                (
+                6
+                )
+                =
+                24153319581254312065344
+                =
+                  582162
+                    3
+                +
+                  28906206
+                    3
+                =
+                  3064173
+                    3
+                +
+                  28894803
+                    3
+                =
+                  8519281
+                    3
+                +
+                  28657487
+                    3
+                =
+                  16218068
+                    3
+                +
+                  27093208
+                    3
+                =
+                  17492496
+                    3
+                +
+                  26590452
+                    3
+                =
+                  18289922
+                    3
+                +
+                  26224366
+                    3
+    {\displaystyle {\begin{matrix}\operatorname {Ta} (6)&=&24153319581254312065344&=&582162^{3}&+&28906206^{3}\\&&&=&3064173^{3}&+&28894803^{3}\\&&&=&8519281^{3}&+&28657487^{3}\\&&&=&16218068^{3}&+&27093208^{3}\\&&&=&17492496^{3}&+&26590452^{3}\\&&&=&18289922^{3}&+&26224366^{3}\end{matrix}}}
+Ta(2), also known as the Hardy–Ramanujan number, was first published by Bernard Frénicle de Bessy in 1657.
+The subsequent taxicab numbers were found with the help of supercomputers. John Leech obtained Ta(3) in 1957. E. Rosenstiel, J. A. Dardis and C. R. Rosenstiel found Ta(4) in 1991. J. A. Dardis found Ta(5) in 1994 and it was confirmed by David W. Wilson in 1999. Ta(6) was announced by Uwe Hollerbach on the NMBRTHRY mailing list on March 9, 2008, following a 2003 paper by Calude et al. that gave a 99% probability that the number was actually Ta(6). Upper bounds for Ta(7) to Ta(12) were found by Christian Boyer in 2006.
+A more restrictive taxicab problem requires that the taxicab number be cubefree, which means that it is not divisible by any cube other than 13. When a cubefree taxicab number T is written as T = x3 + y3, the numbers x and y must be relatively prime. Among the taxicab numbers Ta(n) listed above, only Ta(1) and Ta(2) are cubefree taxicab numbers. The smallest cubefree taxicab number with three representations was discovered by Paul Vojta (unpublished) in 1981 while he was a graduate student. It is
+15170835645
+= 5173 + 24683
+= 7093 + 24563
+= 17333 + 21523.
+The smallest cubefree taxicab number with four representations was discovered by Stuart Gascoigne and independently by Duncan Moore in 2003. It is
+1801049058342701083
+= 922273 + 12165003
+= 1366353 + 12161023
+= 3419953 + 12076023
+= 6002593 + 11658843
+(sequence A080642 in the OEIS).
+Diophantine equation
+Euler's sum of powers conjecture
+Generalized taxicab number
+Beal's conjecture
+Jacobi–Madden equation
+Prouhet–Tarry–Escott problem
+Pythagorean quadruple
+Sums of powers, a list of related conjectures and theorems

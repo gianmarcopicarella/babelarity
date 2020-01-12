@@ -1,0 +1,2650 @@
+In quantum mechanics, the uncertainty principle, also known as Heisenberg's uncertainty principle, is any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a particle, known as complementary variables, such as position x and momentum p, can be known.
+Introduced first in 1927, by the German physicist Werner Heisenberg, it states that the more precisely the position of some particle is determined, the less precisely its momentum can be known, and vice versa. The formal inequality relating the standard deviation of position σx and the standard deviation of momentum σp was derived by Earle Hesse Kennard later that year and by Hermann Weyl in 1928:
+(ħ is the reduced Planck constant, h / 2π).
+Historically, the uncertainty principle has been confused with a somewhat similar effect in physics, called the observer effect, which notes that measurements of certain systems cannot be made without affecting the systems. Heisenberg offered such an observer effect at the quantum level (see below) as a physical "explanation" of quantum uncertainty. It has since become clear, however, that the uncertainty principle is inherent in the properties of all wave-like systems, and that it arises in quantum mechanics simply due to the matter wave nature of all quantum objects. Thus, the uncertainty principle actually states a fundamental property of quantum systems, and is not a statement about the observational success of current technology. It must be emphasized that measurement does not mean only a process in which a physicist-observer takes part, but rather any interaction between classical and quantum objects regardless of any observer. (N.B. on precision: If δx and δp are the precisions of position and momentum obtained in an individual measurement and 
+          σ
+            x
+    {\displaystyle \sigma _{x}}
+  , 
+          σ
+            p
+    {\displaystyle \sigma _{p}}
+   their standard deviations in an ensemble of individual measurements on similarly prepared systems, then "There are, in principle, no restrictions on the precisions of individual measurements 
+        δ
+        x
+    {\displaystyle \delta x}
+   and 
+        δ
+        p
+    {\displaystyle \delta p}
+  , but the standard deviations will always satisfy 
+          σ
+            x
+          σ
+            p
+        ≥
+        ℏ
+          /
+        2
+    {\displaystyle \sigma _{x}\sigma _{p}\geq \hbar /2}
+  ".)
+Since the uncertainty principle is such a basic result in quantum mechanics, typical experiments in quantum mechanics routinely observe aspects of it. Certain experiments, however, may deliberately test a particular form of the uncertainty principle as part of their main research program. These include, for example, tests of number–phase uncertainty relations in superconducting or quantum optics systems. Applications dependent on the uncertainty principle for their operation include extremely low noise technology such as that required in gravitational-wave interferometers.
+The uncertainty principle is not readily apparent on the macroscopic scales of everyday experience. So it is helpful to demonstrate how it applies to more easily understood physical situations. Two alternative frameworks for quantum physics offer different explanations for the uncertainty principle. The wave mechanics picture of the uncertainty principle is more visually intuitive, but the more abstract matrix mechanics picture formulates it in a way that generalizes more easily.
+Mathematically, in wave mechanics, the uncertainty relation between position and momentum arises because the expressions of the wavefunction in the two corresponding orthonormal bases in Hilbert space are Fourier transforms of one another (i.e., position and momentum are conjugate variables). A nonzero function and its Fourier transform cannot both be sharply localized. A similar tradeoff between the variances of Fourier conjugates arises in all systems underlain by Fourier analysis, for example in sound waves: A pure tone is a sharp spike at a single frequency, while its Fourier transform gives the shape of the sound wave in the time domain, which is a completely delocalized sine wave. In quantum mechanics, the two key points are that the position of the particle takes the form of a matter wave, and momentum is its Fourier conjugate, assured by the de Broglie relation p = ħk, where k is the wavenumber.
+In matrix mechanics, the mathematical formulation of quantum mechanics, any pair of non-commuting self-adjoint operators representing observables are subject to similar uncertainty limits. An eigenstate of an observable represents the state of the wavefunction for a certain measurement value (the eigenvalue). For example, if a measurement of an observable A is performed, then the system is in a particular eigenstate Ψ of that observable. However, the particular eigenstate of the observable A need not be an eigenstate of another observable B: If so, then it does not have a unique associated measurement for it, as the system is not in an eigenstate of that observable.
+(Ref )
+According to the de Broglie hypothesis, every object in the universe is a wave, a situation which gives rise to this phenomenon. The position of the particle is described by a wave function 
+        Ψ
+        (
+        x
+        ,
+        t
+        )
+    {\displaystyle \Psi (x,t)}
+  . The time-independent wave function of a single-moded plane wave of wavenumber k0 or momentum p0 is
+        ψ
+        (
+        x
+        )
+        ∝
+          e
+            i
+              k
+                0
+            x
+        =
+          e
+            i
+              p
+                0
+            x
+              /
+            ℏ
+        .
+    {\displaystyle \psi (x)\propto e^{ik_{0}x}=e^{ip_{0}x/\hbar }~.}
+The Born rule states that this should be interpreted as a probability density amplitude function in the sense that the probability of finding the particle between a and b is
+        P
+        ⁡
+        [
+        a
+        ≤
+        X
+        ≤
+        b
+        ]
+        =
+          ∫
+            a
+            b
+          |
+        ψ
+        (
+        x
+        )
+            |
+            2
+          d
+        x
+        .
+    {\displaystyle \operatorname {P} [a\leq X\leq b]=\int _{a}^{b}|\psi (x)|^{2}\,\mathrm {d} x~.}
+In the case of the single-moded plane wave, 
+          |
+        ψ
+        (
+        x
+        )
+            |
+            2
+    {\displaystyle |\psi (x)|^{2}}
+   is a uniform distribution. In other words, the particle position is extremely uncertain in the sense that it could be essentially anywhere along the wave packet. Consider a wave function that is a sum of many waves, however, we may write this as
+        ψ
+        (
+        x
+        )
+        ∝
+          ∑
+            n
+          A
+            n
+          e
+            i
+              p
+                n
+            x
+              /
+            ℏ
+        ,
+    {\displaystyle \psi (x)\propto \sum _{n}A_{n}e^{ip_{n}x/\hbar }~,}
+where An represents the relative contribution of the mode pn to the overall total. The figures to the right show how with the addition of many plane waves, the wave packet can become more localized. We may take this a step further to the continuum limit, where the wave function is an integral over all possible modes
+        ψ
+        (
+        x
+        )
+        =
+            1
+              2
+              π
+              ℏ
+          ∫
+            −
+            ∞
+            ∞
+        ϕ
+        (
+        p
+        )
+        ⋅
+          e
+            i
+            p
+            x
+              /
+            ℏ
+        d
+        p
+        ,
+    {\displaystyle \psi (x)={\frac {1}{\sqrt {2\pi \hbar }}}\int _{-\infty }^{\infty }\phi (p)\cdot e^{ipx/\hbar }\,dp~,}
+with 
+        ϕ
+        (
+        p
+        )
+    {\displaystyle \phi (p)}
+   representing the amplitude of these modes and is called the wave function in momentum space. In mathematical terms, we say that 
+        ϕ
+        (
+        p
+        )
+    {\displaystyle \phi (p)}
+   is the Fourier transform of 
+        ψ
+        (
+        x
+        )
+    {\displaystyle \psi (x)}
+   and that x and p are conjugate variables. Adding together all of these plane waves comes at a cost, namely the momentum has become less precise, having become a mixture of waves of many different momenta.
+One way to quantify the precision of the position and momentum is the standard deviation σ. Since 
+          |
+        ψ
+        (
+        x
+        )
+            |
+            2
+    {\displaystyle |\psi (x)|^{2}}
+   is a probability density function for position, we calculate its standard deviation.
+The precision of the position is improved, i.e. reduced σx, by using many plane waves, thereby weakening the precision of the momentum, i.e. increased σp. Another way of stating this is that σx and σp have an inverse relationship or are at least bounded from below. This is the uncertainty principle, the exact limit of which is the Kennard bound. Click the show button below to see a semi-formal derivation of the Kennard inequality using wave mechanics.
+(Ref )
+In matrix mechanics, observables such as position and momentum are represented by self-adjoint operators. When considering pairs of observables, an important quantity is the commutator. For a pair of operators Â and B̂, one defines their commutator as
+        [
+              A
+              ^
+        ,
+              B
+              ^
+        ]
+        =
+              A
+              ^
+              B
+              ^
+        −
+              B
+              ^
+              A
+              ^
+        .
+    {\displaystyle [{\hat {A}},{\hat {B}}]={\hat {A}}{\hat {B}}-{\hat {B}}{\hat {A}}.}
+In the case of position and momentum, the commutator is the canonical commutation relation
+        [
+              x
+              ^
+        ,
+              p
+              ^
+        ]
+        =
+        i
+        ℏ
+        .
+    {\displaystyle [{\hat {x}},{\hat {p}}]=i\hbar .}
+The physical meaning of the non-commutativity can be understood by considering the effect of the commutator on position and momentum eigenstates. Let 
+          |
+        ψ
+        ⟩
+    {\displaystyle |\psi \rangle }
+   be a right eigenstate of position with a constant eigenvalue x0. By definition, this means that 
+              x
+              ^
+          |
+        ψ
+        ⟩
+        =
+          x
+            0
+          |
+        ψ
+        ⟩
+        .
+    {\displaystyle {\hat {x}}|\psi \rangle =x_{0}|\psi \rangle .}
+   Applying the commutator to 
+          |
+        ψ
+        ⟩
+    {\displaystyle |\psi \rangle }
+   yields
+        [
+              x
+              ^
+        ,
+              p
+              ^
+        ]
+          |
+        ψ
+        ⟩
+        =
+        (
+              x
+              ^
+              p
+              ^
+        −
+              p
+              ^
+              x
+              ^
+        )
+          |
+        ψ
+        ⟩
+        =
+        (
+              x
+              ^
+        −
+          x
+            0
+              I
+              ^
+        )
+        ⋅
+              p
+              ^
+          |
+        ψ
+        ⟩
+        =
+        i
+        ℏ
+          |
+        ψ
+        ⟩
+        ,
+    {\displaystyle [{\hat {x}},{\hat {p}}]|\psi \rangle =({\hat {x}}{\hat {p}}-{\hat {p}}{\hat {x}})|\psi \rangle =({\hat {x}}-x_{0}{\hat {I}})\cdot {\hat {p}}\,|\psi \rangle =i\hbar |\psi \rangle ,}
+where Î is the identity operator.
+Suppose, for the sake of proof by contradiction, that 
+          |
+        ψ
+        ⟩
+    {\displaystyle |\psi \rangle }
+   is also a right eigenstate of momentum, with constant eigenvalue p0. If this were true, then one could write
+        (
+              x
+              ^
+        −
+          x
+            0
+              I
+              ^
+        )
+        ⋅
+              p
+              ^
+          |
+        ψ
+        ⟩
+        =
+        (
+              x
+              ^
+        −
+          x
+            0
+              I
+              ^
+        )
+        ⋅
+          p
+            0
+          |
+        ψ
+        ⟩
+        =
+        (
+          x
+            0
+              I
+              ^
+        −
+          x
+            0
+              I
+              ^
+        )
+        ⋅
+          p
+            0
+          |
+        ψ
+        ⟩
+        =
+        0.
+    {\displaystyle ({\hat {x}}-x_{0}{\hat {I}})\cdot {\hat {p}}\,|\psi \rangle =({\hat {x}}-x_{0}{\hat {I}})\cdot p_{0}\,|\psi \rangle =(x_{0}{\hat {I}}-x_{0}{\hat {I}})\cdot p_{0}\,|\psi \rangle =0.}
+On the other hand, the above canonical commutation relation requires that
+        [
+              x
+              ^
+        ,
+              p
+              ^
+        ]
+          |
+        ψ
+        ⟩
+        =
+        i
+        ℏ
+          |
+        ψ
+        ⟩
+        ≠
+        0.
+    {\displaystyle [{\hat {x}},{\hat {p}}]|\psi \rangle =i\hbar |\psi \rangle \neq 0.}
+This implies that no quantum state can simultaneously be both a position and a momentum eigenstate.
+When a state is measured, it is projected onto an eigenstate in the basis of the relevant observable. For example, if a particle's position is measured, then the state amounts to a position eigenstate. This means that the state is not a momentum eigenstate, however, but rather it can be represented as a sum of multiple momentum basis eigenstates. In other words, the momentum must be less precise. This precision may be quantified by the standard deviations,
+          σ
+            x
+        =
+            ⟨
+                    x
+                    ^
+                2
+            ⟩
+            −
+            ⟨
+                  x
+                  ^
+              ⟩
+                2
+    {\displaystyle \sigma _{x}={\sqrt {\langle {\hat {x}}^{2}\rangle -\langle {\hat {x}}\rangle ^{2}}}}
+          σ
+            p
+        =
+            ⟨
+                    p
+                    ^
+                2
+            ⟩
+            −
+            ⟨
+                  p
+                  ^
+              ⟩
+                2
+        .
+    {\displaystyle \sigma _{p}={\sqrt {\langle {\hat {p}}^{2}\rangle -\langle {\hat {p}}\rangle ^{2}}}.}
+As in the wave mechanics interpretation above, one sees a tradeoff between the respective precisions of the two, quantified by the uncertainty principle.
+The most common general form of the uncertainty principle is the Robertson uncertainty relation.
+For an arbitrary Hermitian operator 
+                O
+              ^
+    {\displaystyle {\hat {\mathcal {O}}}}
+   we can associate a standard deviation
+          σ
+              O
+        =
+            ⟨
+                      O
+                    ^
+                2
+            ⟩
+            −
+            ⟨
+                    O
+                  ^
+              ⟩
+                2
+        ,
+    {\displaystyle \sigma _{\mathcal {O}}={\sqrt {\langle {\hat {\mathcal {O}}}^{2}\rangle -\langle {\hat {\mathcal {O}}}\rangle ^{2}}},}
+where the brackets 
+        ⟨
+            O
+        ⟩
+    {\displaystyle \langle {\mathcal {O}}\rangle }
+   indicate an expectation value. For a pair of operators Â and B̂, we may define their commutator as
+        [
+              A
+              ^
+        ,
+              B
+              ^
+        ]
+        =
+              A
+              ^
+              B
+              ^
+        −
+              B
+              ^
+              A
+              ^
+        ,
+    {\displaystyle [{\hat {A}},{\hat {B}}]={\hat {A}}{\hat {B}}-{\hat {B}}{\hat {A}},}
+In this notation, the Robertson uncertainty relation is given by
+          σ
+            A
+          σ
+            B
+        ≥
+          |
+              1
+                2
+                i
+          ⟨
+          [
+                A
+                ^
+          ,
+                B
+                ^
+          ]
+          ⟩
+          |
+        =
+            1
+            2
+          |
+          ⟨
+          [
+                A
+                ^
+          ,
+                B
+                ^
+          ]
+          ⟩
+          |
+        ,
+    {\displaystyle \sigma _{A}\sigma _{B}\geq \left|{\frac {1}{2i}}\langle [{\hat {A}},{\hat {B}}]\rangle \right|={\frac {1}{2}}\left|\langle [{\hat {A}},{\hat {B}}]\rangle \right|,}
+The Robertson uncertainty relation immediately follows from a slightly stronger inequality, the Schrödinger uncertainty relation,
+where we have introduced the anticommutator,
+        {
+              A
+              ^
+        ,
+              B
+              ^
+        }
+        =
+              A
+              ^
+              B
+              ^
+        +
+              B
+              ^
+              A
+              ^
+        .
+    {\displaystyle \{{\hat {A}},{\hat {B}}\}={\hat {A}}{\hat {B}}+{\hat {B}}{\hat {A}}.}
+Since the Robertson and Schrödinger relations are for general operators, the relations can be applied to any two observables to obtain specific uncertainty relations. A few of the most common relations found in the literature are given below.
+For position and linear momentum, the canonical commutation relation 
+        [
+              x
+              ^
+        ,
+              p
+              ^
+        ]
+        =
+        i
+        ℏ
+    {\displaystyle [{\hat {x}},{\hat {p}}]=i\hbar }
+   implies the Kennard inequality from above:
+          σ
+            x
+          σ
+            p
+        ≥
+            ℏ
+            2
+    {\displaystyle \sigma _{x}\sigma _{p}\geq {\frac {\hbar }{2}}}
+For two orthogonal components of the total angular momentum operator of an object:
+          σ
+              J
+                i
+          σ
+              J
+                j
+        ≥
+              ℏ
+              2
+          |
+          ⟨
+            J
+              k
+          ⟩
+          |
+        ,
+    {\displaystyle \sigma _{J_{i}}\sigma _{J_{j}}\geq {\tfrac {\hbar }{2}}\left|\left\langle J_{k}\right\rangle \right|,~}
+where i, j, k are distinct and Ji denotes angular momentum along the xi axis. This relation implies that unless all three components vanish together, only a single component of a system's angular momentum can be defined with arbitrary precision, normally the component parallel to an external (magnetic or electric) field. Moreover, for 
+        [
+            J
+              x
+        ,
+            J
+              y
+        ]
+        =
+        i
+        ℏ
+          ϵ
+            x
+            y
+            z
+            J
+              z
+    {\displaystyle [{J_{x}},{J_{y}}]=i\hbar \epsilon _{xyz}{J_{z}}}
+  , a choice 
+              A
+              ^
+        =
+          J
+            x
+        ,
+              B
+              ^
+        =
+          J
+            y
+    {\displaystyle {\hat {A}}=J_{x},~~{\hat {B}}=J_{y}}
+  , in angular momentum multiplets, ψ = |j, m 〉, bounds the Casimir invariant (angular momentum squared, 
+        ⟨
+          J
+            x
+            2
+        +
+          J
+            y
+            2
+        +
+          J
+            z
+            2
+        ⟩
+    {\displaystyle \langle J_{x}^{2}+J_{y}^{2}+J_{z}^{2}\rangle }
+  ) from below and thus yields useful constraints such as j (j + 1) ≥ m (m + 1), and hence j ≥ m, among others.
+In non-relativistic mechanics, time is privileged as an independent variable. Nevertheless, in 1945, L. I. Mandelshtam and I. E. Tamm derived a non-relativistic time–energy uncertainty relation, as follows. For a quantum system in a non-stationary state ψ and an observable B represented by a self-adjoint operator 
+              B
+              ^
+    {\displaystyle {\hat {B}}}
+  , the following formula holds:
+          σ
+            E
+              σ
+                B
+              |
+                      d
+                    ⟨
+                          B
+                          ^
+                    ⟩
+                      d
+                    t
+              |
+        ≥
+            ℏ
+            2
+        .
+    {\displaystyle \sigma _{E}~{\frac {\sigma _{B}}{\left|{\frac {\mathrm {d} \langle {\hat {B}}\rangle }{\mathrm {d} t}}\right|}}\geq {\frac {\hbar }{2}}.}
+where σE is the standard deviation of the energy operator (Hamiltonian) in the state ψ, σB stands for the standard deviation of B. Although the second factor in the left-hand side has dimension of time, it is different from the time parameter that enters the Schrödinger equation. It is a lifetime of the state ψ with respect to the observable B: In other words, this is the time interval (Δt) after which the expectation value 
+        ⟨
+              B
+              ^
+        ⟩
+    {\displaystyle \langle {\hat {B}}\rangle }
+   changes appreciably.
+An informal, heuristic meaning of the principle is the following: A state that only exists for a short time cannot have a definite energy. To have a definite energy, the frequency of the state must be defined accurately, and this requires the state to hang around for many cycles, the reciprocal of the required accuracy. For example, in spectroscopy, excited states have a finite lifetime. By the time–energy uncertainty principle, they do not have a definite energy, and, each time they decay, the energy they release is slightly different. The average energy of the outgoing photon has a peak at the theoretical energy of the state, but the distribution has a finite width called the natural linewidth. Fast-decaying states have a broad linewidth, while slow decaying states have a narrow linewidth.
+The same linewidth effect also makes it difficult to specify the rest mass of unstable, fast-decaying particles in particle physics. The faster the particle decays (the shorter its lifetime), the less certain is its mass (the larger the particle's width).
+For the number of electrons in a superconductor and the phase of its Ginzburg–Landau order parameter
+        Δ
+        N
+        Δ
+        ϕ
+        ≥
+        1.
+    {\displaystyle \Delta N\Delta \phi \geq 1.~}
+(Refs )
+Consider a one-dimensional quantum harmonic oscillator (QHO). It is possible to express the position and momentum operators in terms of the creation and annihilation operators:
+              x
+              ^
+        =
+              ℏ
+                2
+                m
+                ω
+        (
+        a
+        +
+          a
+            †
+        )
+    {\displaystyle {\hat {x}}={\sqrt {\frac {\hbar }{2m\omega }}}(a+a^{\dagger })}
+              p
+              ^
+        =
+        i
+                m
+                ω
+                ℏ
+              2
+        (
+          a
+            †
+        −
+        a
+        )
+    {\displaystyle {\hat {p}}=i{\sqrt {\frac {m\omega \hbar }{2}}}(a^{\dagger }-a)}
+  .
+Using the standard rules for creation and annihilation operators on the eigenstates of the QHO,
+          a
+            †
+          |
+        n
+        ⟩
+        =
+            n
+            +
+            1
+          |
+        n
+        +
+        1
+        ⟩
+    {\displaystyle a^{\dagger }|n\rangle ={\sqrt {n+1}}|n+1\rangle }
+        a
+          |
+        n
+        ⟩
+        =
+            n
+          |
+        n
+        −
+        1
+        ⟩
+    {\displaystyle a|n\rangle ={\sqrt {n}}|n-1\rangle ~}
+   ,
+the variances may be computed directly,
+          σ
+            x
+            2
+        =
+            ℏ
+              m
+              ω
+          (
+          n
+          +
+              1
+              2
+          )
+    {\displaystyle \sigma _{x}^{2}={\frac {\hbar }{m\omega }}\left(n+{\frac {1}{2}}\right)}
+          σ
+            p
+            2
+        =
+        ℏ
+        m
+        ω
+          (
+          n
+          +
+              1
+              2
+          )
+        .
+    {\displaystyle \sigma _{p}^{2}=\hbar m\omega \left(n+{\frac {1}{2}}\right)\,.}
+The product of these standard deviations is then
+          σ
+            x
+          σ
+            p
+        =
+        ℏ
+          (
+          n
+          +
+              1
+              2
+          )
+        ≥
+            ℏ
+            2
+        .
+    {\displaystyle \sigma _{x}\sigma _{p}=\hbar \left(n+{\frac {1}{2}}\right)\geq {\frac {\hbar }{2}}.~}
+In particular, the above Kennard bound is saturated for the ground state n=0, for which the probability density is just the normal distribution.
+In a quantum harmonic oscillator of characteristic angular frequency ω, place a state that is offset from the bottom of the potential by some displacement x0 as
+        ψ
+        (
+        x
+        )
+        =
+            (
+                  m
+                  Ω
+                  π
+                  ℏ
+            )
+            1
+              /
+            4
+        exp
+        ⁡
+            (
+            −
+                  m
+                  Ω
+                  (
+                  x
+                  −
+                    x
+                      0
+                    )
+                      2
+                  2
+                  ℏ
+            )
+    {\displaystyle \psi (x)=\left({\frac {m\Omega }{\pi \hbar }}\right)^{1/4}\exp {\left(-{\frac {m\Omega (x-x_{0})^{2}}{2\hbar }}\right)}}
+  ,
+where Ω describes the width of the initial state but need not be the same as ω. Through integration over the propagator, we can solve for the full time-dependent solution. After many cancelations, the probability densities reduce to
+          |
+        Ψ
+        (
+        x
+        ,
+        t
+        )
+            |
+            2
+        ∼
+            N
+          (
+            x
+              0
+          cos
+          ⁡
+            (
+            ω
+            t
+            )
+          ,
+              ℏ
+                2
+                m
+                Ω
+            (
+              cos
+                2
+            ⁡
+              (
+              ω
+              t
+              )
+            +
+                  Ω
+                    2
+                  ω
+                    2
+              sin
+                2
+            ⁡
+              (
+              ω
+              t
+              )
+            )
+          )
+    {\displaystyle |\Psi (x,t)|^{2}\sim {\mathcal {N}}\left(x_{0}\cos {(\omega t)},{\frac {\hbar }{2m\Omega }}\left(\cos ^{2}{(\omega t)}+{\frac {\Omega ^{2}}{\omega ^{2}}}\sin ^{2}{(\omega t)}\right)\right)}
+          |
+        Φ
+        (
+        p
+        ,
+        t
+        )
+            |
+            2
+        ∼
+            N
+          (
+          −
+          m
+            x
+              0
+          ω
+          sin
+          ⁡
+            (
+            ω
+            t
+            )
+          ,
+                ℏ
+                m
+                Ω
+              2
+            (
+              cos
+                2
+            ⁡
+              (
+              ω
+              t
+              )
+            +
+                  ω
+                    2
+                  Ω
+                    2
+              sin
+                2
+            ⁡
+              (
+              ω
+              t
+              )
+            )
+          )
+    {\displaystyle |\Phi (p,t)|^{2}\sim {\mathcal {N}}\left(-mx_{0}\omega \sin {(\omega t)},{\frac {\hbar m\Omega }{2}}\left(\cos ^{2}{(\omega t)}+{\frac {\omega ^{2}}{\Omega ^{2}}}\sin ^{2}{(\omega t)}\right)\right)}
+  ,
+where we have used the notation 
+            N
+        (
+        μ
+        ,
+          σ
+            2
+        )
+    {\displaystyle {\mathcal {N}}(\mu ,\sigma ^{2})}
+   to denote a normal distribution of mean μ and variance σ2. Copying the variances above and applying trigonometric identities, we can write the product of the standard deviations as
+                  σ
+                    x
+                  σ
+                    p
+                =
+                    ℏ
+                    2
+                      (
+                        cos
+                          2
+                      ⁡
+                        (
+                        ω
+                        t
+                        )
+                      +
+                            Ω
+                              2
+                            ω
+                              2
+                        sin
+                          2
+                      ⁡
+                        (
+                        ω
+                        t
+                        )
+                      )
+                      (
+                        cos
+                          2
+                      ⁡
+                        (
+                        ω
+                        t
+                        )
+                      +
+                            ω
+                              2
+                            Ω
+                              2
+                        sin
+                          2
+                      ⁡
+                        (
+                        ω
+                        t
+                        )
+                      )
+                =
+                    ℏ
+                    4
+                    3
+                    +
+                        1
+                        2
+                      (
+                            Ω
+                              2
+                            ω
+                              2
+                      +
+                            ω
+                              2
+                            Ω
+                              2
+                      )
+                    −
+                      (
+                          1
+                          2
+                        (
+                              Ω
+                                2
+                              ω
+                                2
+                        +
+                              ω
+                                2
+                              Ω
+                                2
+                        )
+                      −
+                      1
+                      )
+                    cos
+                    ⁡
+                      (
+                      4
+                      ω
+                      t
+                      )
+    {\displaystyle {\begin{aligned}\sigma _{x}\sigma _{p}&={\frac {\hbar }{2}}{\sqrt {\left(\cos ^{2}{(\omega t)}+{\frac {\Omega ^{2}}{\omega ^{2}}}\sin ^{2}{(\omega t)}\right)\left(\cos ^{2}{(\omega t)}+{\frac {\omega ^{2}}{\Omega ^{2}}}\sin ^{2}{(\omega t)}\right)}}\\&={\frac {\hbar }{4}}{\sqrt {3+{\frac {1}{2}}\left({\frac {\Omega ^{2}}{\omega ^{2}}}+{\frac {\omega ^{2}}{\Omega ^{2}}}\right)-\left({\frac {1}{2}}\left({\frac {\Omega ^{2}}{\omega ^{2}}}+{\frac {\omega ^{2}}{\Omega ^{2}}}\right)-1\right)\cos {(4\omega t)}}}\end{aligned}}}
+From the relations
+              Ω
+                2
+              ω
+                2
+        +
+              ω
+                2
+              Ω
+                2
+        ≥
+        2
+        ,
+          |
+        cos
+        ⁡
+          (
+          4
+          ω
+          t
+          )
+          |
+        ≤
+        1
+    {\displaystyle {\frac {\Omega ^{2}}{\omega ^{2}}}+{\frac {\omega ^{2}}{\Omega ^{2}}}\geq 2,\,\,\,|\cos {(4\omega t)}|\leq 1}
+  ,
+we can conclude
+          σ
+            x
+          σ
+            p
+        ≥
+            ℏ
+            4
+            3
+            +
+                1
+                2
+              (
+                    Ω
+                      2
+                    ω
+                      2
+              +
+                    ω
+                      2
+                    Ω
+                      2
+              )
+            −
+              (
+                  1
+                  2
+                (
+                      Ω
+                        2
+                      ω
+                        2
+                +
+                      ω
+                        2
+                      Ω
+                        2
+                )
+              −
+              1
+              )
+        =
+            ℏ
+            2
+    {\displaystyle \sigma _{x}\sigma _{p}\geq {\frac {\hbar }{4}}{\sqrt {3+{\frac {1}{2}}\left({\frac {\Omega ^{2}}{\omega ^{2}}}+{\frac {\omega ^{2}}{\Omega ^{2}}}\right)-\left({\frac {1}{2}}\left({\frac {\Omega ^{2}}{\omega ^{2}}}+{\frac {\omega ^{2}}{\Omega ^{2}}}\right)-1\right)}}={\frac {\hbar }{2}}}
+  .
+A coherent state is a right eigenstate of the annihilation operator,
+              a
+              ^
+          |
+        α
+        ⟩
+        =
+        α
+          |
+        α
+        ⟩
+    {\displaystyle {\hat {a}}|\alpha \rangle =\alpha |\alpha \rangle }
+  ,
+which may be represented in terms of Fock states as
+          |
+        α
+        ⟩
+        =
+          e
+            −
+                    |
+                  α
+                      |
+                      2
+                2
+          ∑
+            n
+            =
+            0
+            ∞
+              α
+                n
+                n
+                !
+          |
+        n
+        ⟩
+    {\displaystyle |\alpha \rangle =e^{-{|\alpha |^{2} \over 2}}\sum _{n=0}^{\infty }{\alpha ^{n} \over {\sqrt {n!}}}|n\rangle }
+In the picture where the coherent state is a massive particle in a QHO, the position and momentum operators may be expressed in terms of the annihilation operators in the same formulas above and used to calculate the variances,
+          σ
+            x
+            2
+        =
+            ℏ
+              2
+              m
+              ω
+    {\displaystyle \sigma _{x}^{2}={\frac {\hbar }{2m\omega }}}
+          σ
+            p
+            2
+        =
+              ℏ
+              m
+              ω
+            2
+    {\displaystyle \sigma _{p}^{2}={\frac {\hbar m\omega }{2}}}
+  .
+Therefore, every coherent state saturates the Kennard bound
+          σ
+            x
+          σ
+            p
+        =
+              ℏ
+                2
+                m
+                ω
+                ℏ
+                m
+                ω
+              2
+        =
+            ℏ
+            2
+    {\displaystyle \sigma _{x}\sigma _{p}={\sqrt {\frac {\hbar }{2m\omega }}}\,{\sqrt {\frac {\hbar m\omega }{2}}}={\frac {\hbar }{2}}}
+  .
+with position and momentum each contributing an amount 
+            ℏ
+              /
+            2
+    {\displaystyle {\sqrt {\hbar /2}}}
+   in a "balanced" way. Moreover, every squeezed coherent state also saturates the Kennard bound although the individual contributions of position and momentum need not be balanced in general.
+Consider a particle in a one-dimensional box of length 
+        L
+    {\displaystyle L}
+  . The eigenfunctions in position and momentum space are
+          ψ
+            n
+        (
+        x
+        ,
+        t
+        )
+        =
+            {
+                  A
+                  sin
+                  ⁡
+                  (
+                    k
+                      n
+                  x
+                  )
+                      e
+                      −
+                        i
+                        ω
+                          n
+                      t
+                  ,
+                  0
+                  <
+                  x
+                  <
+                  L
+                  ,
+                  0
+                  ,
+                    otherwise,
+    {\displaystyle \psi _{n}(x,t)={\begin{cases}A\sin(k_{n}x)\mathrm {e} ^{-\mathrm {i} \omega _{n}t},&0<x<L,\\0,&{\text{otherwise,}}\end{cases}}}
+and
+          ϕ
+            n
+        (
+        p
+        ,
+        t
+        )
+        =
+                π
+                L
+              ℏ
+              n
+                (
+                1
+                −
+                (
+                −
+                1
+                  )
+                    n
+                  e
+                    −
+                    i
+                    k
+                    L
+                )
+                e
+                  −
+                  i
+                    ω
+                      n
+                  t
+                π
+                  2
+                n
+                  2
+              −
+                k
+                  2
+                L
+                  2
+    {\displaystyle \phi _{n}(p,t)={\sqrt {\frac {\pi L}{\hbar }}}\,\,{\frac {n\left(1-(-1)^{n}e^{-ikL}\right)e^{-i\omega _{n}t}}{\pi ^{2}n^{2}-k^{2}L^{2}}}}
+  ,
+where 
+          ω
+            n
+        =
+                π
+                  2
+              ℏ
+                n
+                  2
+              8
+                L
+                  2
+              m
+    {\displaystyle \omega _{n}={\frac {\pi ^{2}\hbar n^{2}}{8L^{2}m}}}
+   and we have used the de Broglie relation 
+        p
+        =
+        ℏ
+        k
+    {\displaystyle p=\hbar k}
+  . The variances of 
+        x
+    {\displaystyle x}
+   and 
+        p
+    {\displaystyle p}
+   can be calculated explicitly:
+          σ
+            x
+            2
+        =
+              L
+                2
+            12
+          (
+          1
+          −
+              6
+                  n
+                    2
+                  π
+                    2
+          )
+    {\displaystyle \sigma _{x}^{2}={\frac {L^{2}}{12}}\left(1-{\frac {6}{n^{2}\pi ^{2}}}\right)}
+          σ
+            p
+            2
+        =
+            (
+                  ℏ
+                  n
+                  π
+                L
+            )
+            2
+    {\displaystyle \sigma _{p}^{2}=\left({\frac {\hbar n\pi }{L}}\right)^{2}}
+  .
+The product of the standard deviations is therefore
+          σ
+            x
+          σ
+            p
+        =
+            ℏ
+            2
+                    n
+                      2
+                    π
+                      2
+                3
+            −
+            2
+        .
+    {\displaystyle \sigma _{x}\sigma _{p}={\frac {\hbar }{2}}{\sqrt {{\frac {n^{2}\pi ^{2}}{3}}-2}}.}
+For all 
+        n
+        =
+        1
+        ,
+        2
+        ,
+        3
+        .
+        .
+        .
+    {\displaystyle n=1,\,2,\,3\,...}
+  , the quantity 
+                    n
+                      2
+                    π
+                      2
+                3
+            −
+            2
+    {\displaystyle {\sqrt {{\frac {n^{2}\pi ^{2}}{3}}-2}}}
+   is greater than 1, so the uncertainty principle is never violated. For numerical concreteness, the smallest value occurs when 
+        n
+        =
+        1
+    {\displaystyle n=1}
+  , in which case
+          σ
+            x
+          σ
+            p
+        =
+            ℏ
+            2
+                  π
+                    2
+                3
+            −
+            2
+        ≈
+        0.568
+        ℏ
+        >
+            ℏ
+            2
+    {\displaystyle \sigma _{x}\sigma _{p}={\frac {\hbar }{2}}{\sqrt {{\frac {\pi ^{2}}{3}}-2}}\approx 0.568\hbar >{\frac {\hbar }{2}}}
+  .
+Assume a particle initially has a momentum space wave function described by a normal distribution around some constant momentum p0 according to
+        ϕ
+        (
+        p
+        )
+        =
+            (
+                  x
+                    0
+                  ℏ
+                      π
+            )
+            1
+              /
+            2
+        ⋅
+        exp
+        ⁡
+            (
+                  −
+                    x
+                      0
+                      2
+                  (
+                  p
+                  −
+                    p
+                      0
+                    )
+                      2
+                  2
+                    ℏ
+                      2
+            )
+        ,
+    {\displaystyle \phi (p)=\left({\frac {x_{0}}{\hbar {\sqrt {\pi }}}}\right)^{1/2}\cdot \exp {\left({\frac {-x_{0}^{2}(p-p_{0})^{2}}{2\hbar ^{2}}}\right)},}
+where we have introduced a reference scale 
+          x
+            0
+        =
+            ℏ
+              /
+            m
+              ω
+                0
+    {\displaystyle x_{0}={\sqrt {\hbar /m\omega _{0}}}}
+  , with 
+          ω
+            0
+        >
+        0
+    {\displaystyle \omega _{0}>0}
+   describing the width of the distribution−−cf. nondimensionalization. If the state is allowed to evolve in free space, then the time-dependent momentum and position space wave functions are
+        Φ
+        (
+        p
+        ,
+        t
+        )
+        =
+            (
+                  x
+                    0
+                  ℏ
+                      π
+            )
+            1
+              /
+            2
+        ⋅
+        exp
+        ⁡
+            (
+                  −
+                    x
+                      0
+                      2
+                  (
+                  p
+                  −
+                    p
+                      0
+                    )
+                      2
+                  2
+                    ℏ
+                      2
+            −
+                  i
+                    p
+                      2
+                  t
+                  2
+                  m
+                  ℏ
+            )
+        ,
+    {\displaystyle \Phi (p,t)=\left({\frac {x_{0}}{\hbar {\sqrt {\pi }}}}\right)^{1/2}\cdot \exp {\left({\frac {-x_{0}^{2}(p-p_{0})^{2}}{2\hbar ^{2}}}-{\frac {ip^{2}t}{2m\hbar }}\right)},}
+        Ψ
+        (
+        x
+        ,
+        t
+        )
+        =
+            (
+                1
+                    x
+                      0
+                      π
+            )
+            1
+              /
+            2
+        ⋅
+              e
+                −
+                  x
+                    0
+                    2
+                  p
+                    0
+                    2
+                  /
+                2
+                  ℏ
+                    2
+              1
+              +
+              i
+                ω
+                  0
+              t
+        ⋅
+        exp
+        ⁡
+            (
+            −
+                  (
+                  x
+                  −
+                  i
+                    x
+                      0
+                      2
+                    p
+                      0
+                    /
+                  ℏ
+                    )
+                      2
+                  2
+                    x
+                      0
+                      2
+                  (
+                  1
+                  +
+                  i
+                    ω
+                      0
+                  t
+                  )
+            )
+        .
+    {\displaystyle \Psi (x,t)=\left({\frac {1}{x_{0}{\sqrt {\pi }}}}\right)^{1/2}\cdot {\frac {e^{-x_{0}^{2}p_{0}^{2}/2\hbar ^{2}}}{\sqrt {1+i\omega _{0}t}}}\cdot \exp {\left(-{\frac {(x-ix_{0}^{2}p_{0}/\hbar )^{2}}{2x_{0}^{2}(1+i\omega _{0}t)}}\right)}.}
+Since 
+        ⟨
+        p
+        (
+        t
+        )
+        ⟩
+        =
+          p
+            0
+    {\displaystyle \langle p(t)\rangle =p_{0}}
+   and 
+          σ
+            p
+        (
+        t
+        )
+        =
+        ℏ
+          /
+          x
+            0
+            2
+        ,
+    {\displaystyle \sigma _{p}(t)=\hbar /x_{0}{\sqrt {2}},}
+   this can be interpreted as a particle moving along with constant momentum at arbitrarily high precision. On the other hand, the standard deviation of the position is
+          σ
+            x
+        =
+              x
+                0
+              2
+            1
+            +
+              ω
+                0
+                2
+              t
+                2
+    {\displaystyle \sigma _{x}={\frac {x_{0}}{\sqrt {2}}}{\sqrt {1+\omega _{0}^{2}t^{2}}}}
+such that the uncertainty product can only increase with time as
+          σ
+            x
+        (
+        t
+        )
+          σ
+            p
+        (
+        t
+        )
+        =
+            ℏ
+            2
+            1
+            +
+              ω
+                0
+                2
+              t
+                2
+    {\displaystyle \sigma _{x}(t)\sigma _{p}(t)={\frac {\hbar }{2}}{\sqrt {1+\omega _{0}^{2}t^{2}}}}
+The Robertson–Schrödinger uncertainty relation may be generalized in a straightforward way to describe mixed states.
+          σ
+            A
+            2
+          σ
+            B
+            2
+        ≥
+            (
+                1
+                2
+              t
+              r
+            (
+            ρ
+            {
+            A
+            ,
+            B
+            }
+            )
+            −
+            tr
+            ⁡
+            (
+            ρ
+            A
+            )
+              t
+              r
+            (
+            ρ
+            B
+            )
+            )
+            2
+        +
+            (
+                1
+                  2
+                  i
+              t
+              r
+            (
+            ρ
+            [
+            A
+            ,
+            B
+            ]
+            )
+            )
+            2
+    {\displaystyle \sigma _{A}^{2}\sigma _{B}^{2}\geq \left({\frac {1}{2}}\mathrm {tr} (\rho \{A,B\})-\operatorname {tr} (\rho A)\mathrm {tr} (\rho B)\right)^{2}+\left({\frac {1}{2i}}\mathrm {tr} (\rho [A,B])\right)^{2}}
+In the phase space formulation of quantum mechanics, the Robertson–Schrödinger relation follows from a positivity condition on a real star-square function. Given a Wigner function 
+        W
+        (
+        x
+        ,
+        p
+        )
+    {\displaystyle W(x,p)}
+   with star product ★ and a function f, the following is generally true:
+        ⟨
+          f
+            ∗
+        ⋆
+        f
+        ⟩
+        =
+        ∫
+        (
+          f
+            ∗
+        ⋆
+        f
+        )
+        W
+        (
+        x
+        ,
+        p
+        )
+        d
+        x
+        d
+        p
+        ≥
+        0.
+    {\displaystyle \langle f^{*}\star f\rangle =\int (f^{*}\star f)\,W(x,p)\,dxdp\geq 0.}
+Choosing 
+        f
+        =
+        a
+        +
+        b
+        x
+        +
+        c
+        p
+    {\displaystyle f=a+bx+cp}
+  , we arrive at
+        ⟨
+          f
+            ∗
+        ⋆
+        f
+        ⟩
+        =
+            [
+                    a
+                      ∗
+                    b
+                      ∗
+                    c
+                      ∗
+            ]
+            [
+                  1
+                  ⟨
+                  x
+                  ⟩
+                  ⟨
+                  p
+                  ⟩
+                  ⟨
+                  x
+                  ⟩
+                  ⟨
+                  x
+                  ⋆
+                  x
+                  ⟩
+                  ⟨
+                  x
+                  ⋆
+                  p
+                  ⟩
+                  ⟨
+                  p
+                  ⟩
+                  ⟨
+                  p
+                  ⋆
+                  x
+                  ⟩
+                  ⟨
+                  p
+                  ⋆
+                  p
+                  ⟩
+            ]
+            [
+                  a
+                  b
+                  c
+            ]
+        ≥
+        0.
+    {\displaystyle \langle f^{*}\star f\rangle ={\begin{bmatrix}a^{*}&b^{*}&c^{*}\end{bmatrix}}{\begin{bmatrix}1&\langle x\rangle &\langle p\rangle \\\langle x\rangle &\langle x\star x\rangle &\langle x\star p\rangle \\\langle p\rangle &\langle p\star x\rangle &\langle p\star p\rangle \end{bmatrix}}{\begin{bmatrix}a\\b\\c\end{bmatrix}}\geq 0.}
+Since this positivity condition is true for all a, b, and c, it follows that all the eigenvalues of the matrix are positive. The positive eigenvalues then imply a corresponding positivity condition on the determinant:
+        det
+            [
+                  1
+                  ⟨
+                  x
+                  ⟩
+                  ⟨
+                  p
+                  ⟩
+                  ⟨
+                  x
+                  ⟩
+                  ⟨
+                  x
+                  ⋆
+                  x
+                  ⟩
+                  ⟨
+                  x
+                  ⋆
+                  p
+                  ⟩
+                  ⟨
+                  p
+                  ⟩
+                  ⟨
+                  p
+                  ⋆
+                  x
+                  ⟩
+                  ⟨
+                  p
+                  ⋆
+                  p
+                  ⟩
+            ]
+        =
+        det
+            [
+                  1
+                  ⟨
+                  x
+                  ⟩
+                  ⟨
+                  p
+                  ⟩
+                  ⟨
+                  x
+                  ⟩
+                  ⟨
+                    x
+                      2
+                  ⟩
+                    ⟨
+                    x
+                    p
+                    +
+                          i
+                          ℏ
+                        2
+                    ⟩
+                  ⟨
+                  p
+                  ⟩
+                    ⟨
+                    x
+                    p
+                    −
+                          i
+                          ℏ
+                        2
+                    ⟩
+                  ⟨
+                    p
+                      2
+                  ⟩
+            ]
+        ≥
+        0
+        ,
+    {\displaystyle \det {\begin{bmatrix}1&\langle x\rangle &\langle p\rangle \\\langle x\rangle &\langle x\star x\rangle &\langle x\star p\rangle \\\langle p\rangle &\langle p\star x\rangle &\langle p\star p\rangle \end{bmatrix}}=\det {\begin{bmatrix}1&\langle x\rangle &\langle p\rangle \\\langle x\rangle &\langle x^{2}\rangle &\left\langle xp+{\frac {i\hbar }{2}}\right\rangle \\\langle p\rangle &\left\langle xp-{\frac {i\hbar }{2}}\right\rangle &\langle p^{2}\rangle \end{bmatrix}}\geq 0,}
+or, explicitly, after algebraic manipulation,
+          σ
+            x
+            2
+          σ
+            p
+            2
+        =
+          (
+          ⟨
+            x
+              2
+          ⟩
+          −
+          ⟨
+          x
+            ⟩
+              2
+          )
+          (
+          ⟨
+            p
+              2
+          ⟩
+          −
+          ⟨
+          p
+            ⟩
+              2
+          )
+        ≥
+            (
+            ⟨
+            x
+            p
+            ⟩
+            −
+            ⟨
+            x
+            ⟩
+            ⟨
+            p
+            ⟩
+            )
+            2
+        +
+              ℏ
+                2
+            4
+        .
+    {\displaystyle \sigma _{x}^{2}\sigma _{p}^{2}=\left(\langle x^{2}\rangle -\langle x\rangle ^{2}\right)\left(\langle p^{2}\rangle -\langle p\rangle ^{2}\right)\geq \left(\langle xp\rangle -\langle x\rangle \langle p\rangle \right)^{2}+{\frac {\hbar ^{2}}{4}}~.}
+The inequalities above focus on the statistical imprecision of observables as quantified by the standard deviation 
+        σ
+    {\displaystyle \sigma }
+  . Heisenberg's original version, however, was dealing with the systematic error, a disturbance of the quantum system produced by the measuring apparatus, i.e., an observer effect.
+If we let 
+          ϵ
+            A
+    {\displaystyle \epsilon _{A}}
+   represent the error (i.e., inaccuracy) of a measurement of an observable A and 
+          η
+            B
+    {\displaystyle \eta _{B}}
+   the disturbance produced on a subsequent measurement of the conjugate variable B by the former measurement of A, then the inequality proposed by Ozawa — encompassing both systematic and statistical errors — holds:
+Heisenberg uncertainty principle, as originally described in the 1927 formulation, mentions only the first term of Ozawa inequality, regarding the systematic error. Using the notation above to describe the error/disturbance effect of sequential measurements (first A, then B), it could be written as
+The formal derivation of Heisenberg relation is possible but far from intuitive. It was not proposed by Heisenberg, but formulated in a mathematically consistent way only in recent years. Also, it must be stressed that the Heisenberg formulation is not taking into account the intrinsic statistical errors 
+          σ
+            A
+    {\displaystyle \sigma _{A}}
+   and 
+          σ
+            B
+    {\displaystyle \sigma _{B}}
+  . There is increasing experimental evidence  that the total quantum uncertainty cannot be described by the Heisenberg term alone, but requires the presence of all the three terms of the Ozawa inequality.
+Using the same formalism, it is also possible to introduce the other kind of physical situation, often confused with the previous one, namely the case of simultaneous measurements (A and B at the same time):
+The two simultaneous measurements on A and B are necessarily unsharp or weak.
+It is also possible to derive an uncertainty relation that, as the Ozawa's one, combines both the statistical and systematic error components, but keeps a form very close to the Heisenberg original inequality. By adding Robertson
+and Ozawa relations we obtain
+          ϵ
+            A
+          η
+            B
+        +
+          ϵ
+            A
+          σ
+            B
+        +
+          σ
+            A
+          η
+            B
+        +
+          σ
+            A
+          σ
+            B
+        ≥
+          |
+          ⟨
+          [
+                A
+                ^
+          ,
+                B
+                ^
+          ]
+          ⟩
+          |
+        .
+    {\displaystyle \epsilon _{A}\,\eta _{B}+\epsilon _{A}\,\sigma _{B}+\sigma _{A}\,\eta _{B}+\sigma _{A}\,\sigma _{B}\,\geq \,\left|\langle [{\hat {A}},{\hat {B}}]\rangle \right|.}
+The four terms can be written as:
+        (
+          ϵ
+            A
+        +
+          σ
+            A
+        )
+        (
+          η
+            B
+        +
+          σ
+            B
+        )
+        ≥
+          |
+          ⟨
+          [
+                A
+                ^
+          ,
+                B
+                ^
+          ]
+          ⟩
+          |
+        .
+    {\displaystyle (\epsilon _{A}+\sigma _{A})\,(\eta _{B}+\sigma _{B})\,\geq \,\left|\langle [{\hat {A}},{\hat {B}}]\rangle \right|.}
+Defining:
+                ϵ
+                ¯
+            A
+        ≡
+        (
+          ϵ
+            A
+        +
+          σ
+            A
+        )
+    {\displaystyle {\bar {\epsilon }}_{A}\,\equiv \,(\epsilon _{A}+\sigma _{A})}
+as the inaccuracy in the measured values of the variable A and
+                η
+                ¯
+            B
+        ≡
+        (
+          η
+            B
+        +
+          σ
+            B
+        )
+    {\displaystyle {\bar {\eta }}_{B}\,\equiv \,(\eta _{B}+\sigma _{B})}
+as the resulting fluctuation in the conjugate variable B, Fujikawa established an uncertainty relation similar to the Heisenberg original one, but valid both for systematic and statistical errors:
+For many distributions, the standard deviation is not a particularly natural way of quantifying the structure. For example, uncertainty relations in which one of the observables is an angle has little physical meaning for fluctuations larger than one period. Other examples include highly bimodal distributions, or unimodal distributions with divergent variance.
+A solution that overcomes these issues is an uncertainty based on entropic uncertainty instead of the product of variances. While formulating the many-worlds interpretation of quantum mechanics in 1957, Hugh Everett III conjectured a stronger extension of the uncertainty principle based on entropic certainty. This conjecture, also studied by Hirschman and proven in 1975 by Beckner and by Iwo Bialynicki-Birula and Jerzy Mycielski is that, for two normalized, dimensionless Fourier transform pairs f(a) and g(b) where
+        f
+        (
+        a
+        )
+        =
+          ∫
+            −
+            ∞
+            ∞
+        g
+        (
+        b
+        )
+          e
+            2
+            π
+            i
+            a
+            b
+        d
+        x
+    {\displaystyle f(a)=\int _{-\infty }^{\infty }g(b)\ e^{2\pi iab}\,dx}
+      and     
+        g
+        (
+        b
+        )
+        =
+          ∫
+            −
+            ∞
+            ∞
+        f
+        (
+        a
+        )
+          e
+            −
+            2
+            π
+            i
+            a
+            b
+        d
+        x
+    {\displaystyle \,\,\,g(b)=\int _{-\infty }^{\infty }f(a)\ e^{-2\pi iab}\,dx}
+the Shannon information entropies
+          H
+            a
+        =
+          ∫
+            −
+            ∞
+            ∞
+        f
+        (
+        a
+        )
+        log
+        ⁡
+        (
+        f
+        (
+        a
+        )
+        )
+        d
+        x
+        ,
+    {\displaystyle H_{a}=\int _{-\infty }^{\infty }f(a)\log(f(a))\,dx,}
+and
+          H
+            b
+        =
+          ∫
+            −
+            ∞
+            ∞
+        g
+        (
+        b
+        )
+        log
+        ⁡
+        (
+        g
+        (
+        b
+        )
+        )
+        d
+        y
+    {\displaystyle H_{b}=\int _{-\infty }^{\infty }g(b)\log(g(b))\,dy}
+are subject to the following constraint,
+where the logarithms may be in any base.
+The probability distribution functions associated with the position wave function ψ(x) and the momentum wave function φ(x) have dimensions of inverse length and momentum respectively, but the entropies may be rendered dimensionless by
+          H
+            x
+        =
+        −
+        ∫
+          |
+        ψ
+        (
+        x
+        )
+            |
+            2
+        ln
+        ⁡
+        (
+          x
+            0
+          |
+        ψ
+        (
+        x
+        )
+            |
+            2
+        )
+        d
+        x
+        =
+        −
+          ⟨
+          ln
+          ⁡
+          (
+            x
+              0
+            |
+          ψ
+          (
+          x
+          )
+              |
+              2
+          )
+          ⟩
+    {\displaystyle H_{x}=-\int |\psi (x)|^{2}\ln(x_{0}\,|\psi (x)|^{2})\,dx=-\left\langle \ln(x_{0}\,|\psi (x)|^{2})\right\rangle }
+          H
+            p
+        =
+        −
+        ∫
+          |
+        ϕ
+        (
+        p
+        )
+            |
+            2
+        ln
+        ⁡
+        (
+          p
+            0
+          |
+        ϕ
+        (
+        p
+        )
+            |
+            2
+        )
+        d
+        p
+        =
+        −
+          ⟨
+          ln
+          ⁡
+          (
+            p
+              0
+            |
+          ϕ
+          (
+          p
+          )
+              |
+              2
+          )
+          ⟩
+    {\displaystyle H_{p}=-\int |\phi (p)|^{2}\ln(p_{0}\,|\phi (p)|^{2})\,dp=-\left\langle \ln(p_{0}\,|\phi (p)|^{2})\right\rangle }
+where x0 and p0 are some arbitrarily chosen length and momentum respectively, which render the arguments of the logarithms dimensionless. Note that the entropies will be functions of these chosen parameters. Due to the Fourier transform relation between the position wave function ψ(x) and the momentum wavefuction φ(p), the above constraint can be written for the corresponding entropies as
+where h is Planck's constant.
+Depending on one's choice of the x0 p0 product, the expression may be written in many ways. If x0 p0 is chosen to be h, then
+          H
+            x
+        +
+          H
+            p
+        ≥
+        log
+        ⁡
+          (
+              e
+              2
+          )
+    {\displaystyle H_{x}+H_{p}\geq \log \left({\frac {e}{2}}\right)}
+If, instead, x0 p0 is chosen to be ħ, then
+          H
+            x
+        +
+          H
+            p
+        ≥
+        log
+        ⁡
+        (
+        e
+        π
+        )
+    {\displaystyle H_{x}+H_{p}\geq \log(e\,\pi )}
+If x0 and p0 are chosen to be unity in whatever system of units are being used, then
+          H
+            x
+        +
+          H
+            p
+        ≥
+        log
+        ⁡
+          (
+                e
+                h
+              2
+          )
+    {\displaystyle H_{x}+H_{p}\geq \log \left({\frac {e\,h}{2}}\right)}
+where h is interpreted as a dimensionless number equal to the value of Planck's constant in the chosen system of units.
+The quantum entropic uncertainty principle is more restrictive than the Heisenberg uncertainty principle. From the inverse logarithmic Sobolev inequalities
+          H
+            x
+        ≤
+            1
+            2
+        log
+        ⁡
+        (
+        2
+        e
+        π
+          σ
+            x
+            2
+          /
+          x
+            0
+            2
+        )
+        ,
+    {\displaystyle H_{x}\leq {\frac {1}{2}}\log(2e\pi \sigma _{x}^{2}/x_{0}^{2})~,}
+          H
+            p
+        ≤
+            1
+            2
+        log
+        ⁡
+        (
+        2
+        e
+        π
+          σ
+            p
+            2
+          /
+          p
+            0
+            2
+        )
+        ,
+    {\displaystyle H_{p}\leq {\frac {1}{2}}\log(2e\pi \sigma _{p}^{2}/p_{0}^{2})~,}
+(equivalently, from the fact that normal distributions maximize the entropy of all such with a given variance), it readily follows that this entropic uncertainty principle is stronger than the one based on standard deviations, because
+          σ
+            x
+          σ
+            p
+        ≥
+            ℏ
+            2
+        exp
+        ⁡
+          (
+            H
+              x
+          +
+            H
+              p
+          −
+          log
+          ⁡
+            (
+                  e
+                  h
+                  2
+                    x
+                      0
+                    p
+                      0
+            )
+          )
+        ≥
+            ℏ
+            2
+        .
+    {\displaystyle \sigma _{x}\sigma _{p}\geq {\frac {\hbar }{2}}\exp \left(H_{x}+H_{p}-\log \left({\frac {e\,h}{2\,x_{0}\,p_{0}}}\right)\right)\geq {\frac {\hbar }{2}}~.}
+In other words, the Heisenberg uncertainty principle, is a consequence of the quantum entropic uncertainty principle, but not vice versa. A few remarks on these inequalities. First, the choice of base e is a matter of popular convention in physics. The logarithm can alternatively be in any base, provided that it be consistent on both sides of the inequality. Second, recall the Shannon entropy has been used, not the quantum von Neumann entropy. Finally, the normal distribution saturates the inequality, and it is the only distribution with this property, because it is the maximum entropy probability distribution among those with fixed variance (cf. here for proof).
+In the context of harmonic analysis, a branch of mathematics, the uncertainty principle implies that one cannot at the same time localize the value of a function and its Fourier transform. To wit, the following inequality holds,
+          (
+            ∫
+              −
+              ∞
+              ∞
+            x
+              2
+            |
+          f
+          (
+          x
+          )
+              |
+              2
+          d
+          x
+          )
+          (
+            ∫
+              −
+              ∞
+              ∞
+            ξ
+              2
+            |
+                f
+                ^
+          (
+          ξ
+          )
+              |
+              2
+          d
+          ξ
+          )
+        ≥
+              ∥
+              f
+                ∥
+                  2
+                  4
+              16
+                π
+                  2
+        .
+    {\displaystyle \left(\int _{-\infty }^{\infty }x^{2}|f(x)|^{2}\,dx\right)\left(\int _{-\infty }^{\infty }\xi ^{2}|{\hat {f}}(\xi )|^{2}\,d\xi \right)\geq {\frac {\|f\|_{2}^{4}}{16\pi ^{2}}}.}
+Further mathematical uncertainty inequalities, including the above entropic uncertainty, hold between a function f and its Fourier transform ƒ̂:
+          H
+            x
+        +
+          H
+            ξ
+        ≥
+        log
+        ⁡
+        (
+        e
+          /
+        2
+        )
+    {\displaystyle H_{x}+H_{\xi }\geq \log(e/2)}
+In the context of signal processing, and in particular time–frequency analysis, uncertainty principles are referred to as the Gabor limit, after Dennis Gabor, or sometimes the Heisenberg–Gabor limit. The basic result, which follows from "Benedicks's theorem", below, is that a function cannot be both time limited and band limited (a function and its Fourier transform cannot both have bounded domain)—see bandlimited versus timelimited.
+Stated alternatively, "One cannot simultaneously sharply localize a signal (function f ) in both the time domain and frequency domain ( ƒ̂, its Fourier transform)".
+When applied to filters, the result implies that one cannot achieve high temporal resolution and frequency resolution at the same time; a concrete example are the resolution issues of the short-time Fourier transform—if one uses a wide window, one achieves good frequency resolution at the cost of temporal resolution, while a narrow window has the opposite trade-off.
+Alternate theorems give more precise quantitative results, and, in time–frequency analysis, rather than interpreting the (1-dimensional) time and frequency domains separately, one instead interprets the limit as a lower limit on the support of a function in the (2-dimensional) time–frequency plane. In practice, the Gabor limit limits the simultaneous time–frequency resolution one can achieve without interference; it is possible to achieve higher resolution, but at the cost of different components of the signal interfering with each other.
+Amrein-Berthier and Benedicks's theorem intuitively says that the set of points where f is non-zero and the set of points where ƒ̂ is nonzero cannot both be small.
+Specifically, it is impossible for a function f in L2(R) and its Fourier transform ƒ̂ to both be supported on sets of finite Lebesgue measure. A more quantitative version is
+        ∥
+        f
+          ∥
+              L
+                2
+            (
+                R
+                d
+            )
+        ≤
+        C
+          e
+            C
+              |
+            S
+              |
+              |
+            Σ
+              |
+            (
+        ∥
+        f
+          ∥
+              L
+                2
+            (
+              S
+                c
+            )
+        +
+        ∥
+              f
+              ^
+          ∥
+              L
+                2
+            (
+              Σ
+                c
+            )
+            )
+        .
+    {\displaystyle \|f\|_{L^{2}(\mathbf {R} ^{d})}\leq Ce^{C|S||\Sigma |}{\bigl (}\|f\|_{L^{2}(S^{c})}+\|{\hat {f}}\|_{L^{2}(\Sigma ^{c})}{\bigr )}~.}
+One expects that the factor CeC|S||Σ| may be replaced by CeC(|S||Σ|)1/d, which is only known if either S or Σ is convex.
+The mathematician G. H. Hardy formulated the following uncertainty principle: it is not possible for f and ƒ̂ to both be "very rapidly decreasing." Specifically, if f in L2(R) is such that
+          |
+        f
+        (
+        x
+        )
+          |
+        ≤
+        C
+        (
+        1
+        +
+          |
+        x
+          |
+          )
+            N
+          e
+            −
+            a
+            π
+              x
+                2
+    {\displaystyle |f(x)|\leq C(1+|x|)^{N}e^{-a\pi x^{2}}}
+and
+          |
+              f
+              ^
+        (
+        ξ
+        )
+          |
+        ≤
+        C
+        (
+        1
+        +
+          |
+        ξ
+          |
+          )
+            N
+          e
+            −
+            b
+            π
+              ξ
+                2
+    {\displaystyle |{\hat {f}}(\xi )|\leq C(1+|\xi |)^{N}e^{-b\pi \xi ^{2}}}
+   (
+        C
+        >
+        0
+        ,
+        N
+    {\displaystyle C>0,N}
+   an integer),
+then, if ab > 1, f = 0, while if ab = 1, then there is a polynomial P of degree ≤ N such that
+        f
+        (
+        x
+        )
+        =
+        P
+        (
+        x
+        )
+          e
+            −
+            a
+            π
+              x
+                2
+        .
+    {\displaystyle f(x)=P(x)e^{-a\pi x^{2}}.\,}
+This was later improved as follows: if f ∈ L2(Rd) is such that
+          ∫
+                R
+                d
+          ∫
+                R
+                d
+          |
+        f
+        (
+        x
+        )
+          |
+          |
+              f
+              ^
+        (
+        ξ
+        )
+          |
+              e
+                π
+                  |
+                ⟨
+                x
+                ,
+                ξ
+                ⟩
+                  |
+              (
+              1
+              +
+                |
+              x
+                |
+              +
+                |
+              ξ
+                |
+                )
+                  N
+        d
+        x
+        d
+        ξ
+        <
+        +
+        ∞
+        ,
+    {\displaystyle \int _{\mathbf {R} ^{d}}\int _{\mathbf {R} ^{d}}|f(x)||{\hat {f}}(\xi )|{\frac {e^{\pi |\langle x,\xi \rangle |}}{(1+|x|+|\xi |)^{N}}}\,dx\,d\xi <+\infty ~,}
+then
+        f
+        (
+        x
+        )
+        =
+        P
+        (
+        x
+        )
+          e
+            −
+            π
+            ⟨
+            A
+            x
+            ,
+            x
+            ⟩
+        ,
+    {\displaystyle f(x)=P(x)e^{-\pi \langle Ax,x\rangle }~,}
+where P is a polynomial of degree (N − d)/2 and A is a real d×d positive definite matrix.
+This result was stated in Beurling's complete works without proof and proved in Hörmander (the case 
+        d
+        =
+        1
+        ,
+        N
+        =
+        0
+    {\displaystyle d=1,N=0}
+  ) and Bonami, Demange, and Jaming for the general case. Note that Hörmander–Beurling's version implies the case ab > 1 in Hardy's Theorem while the version by Bonami–Demange–Jaming covers the full strength of Hardy's Theorem. A different proof of Beurling's theorem based on Liouville's theorem appeared in ref.
+A full description of the case ab < 1 as well as the following extension to Schwartz class distributions appears in ref.
+Theorem. If a tempered distribution 
+        f
+        ∈
+              S
+          ′
+        (
+            R
+            d
+        )
+    {\displaystyle f\in {\mathcal {S}}'(\mathbb {R} ^{d})}
+   is such that
+          e
+            π
+              |
+            x
+                |
+                2
+        f
+        ∈
+              S
+          ′
+        (
+            R
+            d
+        )
+    {\displaystyle e^{\pi |x|^{2}}f\in {\mathcal {S}}'(\mathbb {R} ^{d})}
+and
+          e
+            π
+              |
+            ξ
+                |
+                2
+              f
+              ^
+        ∈
+              S
+          ′
+        (
+            R
+            d
+        )
+        ,
+    {\displaystyle e^{\pi |\xi |^{2}}{\hat {f}}\in {\mathcal {S}}'(\mathbb {R} ^{d})~,}
+then
+        f
+        (
+        x
+        )
+        =
+        P
+        (
+        x
+        )
+          e
+            −
+            π
+            ⟨
+            A
+            x
+            ,
+            x
+            ⟩
+        ,
+    {\displaystyle f(x)=P(x)e^{-\pi \langle Ax,x\rangle }~,}
+for some convenient polynomial P and real positive definite matrix A of type d × d.
+Werner Heisenberg formulated the Uncertainty Principle at Niels Bohr's institute in Copenhagen, while working on the mathematical foundations of quantum mechanics.
+In 1925, following pioneering work with Hendrik Kramers, Heisenberg developed matrix mechanics, which replaced the ad hoc old quantum theory with modern quantum mechanics. The central premise was that the classical concept of motion does not fit at the quantum level, as electrons in an atom do not travel on sharply defined orbits. Rather, their motion is smeared out in a strange way: the Fourier transform of its time dependence only involves those frequencies that could be observed in the quantum jumps of their radiation.
+Heisenberg's paper did not admit any unobservable quantities like the exact position of the electron in an orbit at any time; he only allowed the theorist to talk about the Fourier components of the motion. Since the Fourier components were not defined at the classical frequencies, they could not be used to construct an exact trajectory, so that the formalism could not answer certain overly precise questions about where the electron was or how fast it was going.
+In March 1926, working in Bohr's institute, Heisenberg realized that the non-commutativity implies the uncertainty principle. This implication provided a clear physical interpretation for the non-commutativity, and it laid the foundation for what became known as the Copenhagen interpretation of quantum mechanics. Heisenberg showed that the commutation relation implies an uncertainty, or in Bohr's language a complementarity. Any two variables that do not commute cannot be measured simultaneously—the more precisely one is known, the less precisely the other can be known. Heisenberg wrote:
+It can be expressed in its simplest form as follows: One can never know with perfect accuracy both of those two important factors which determine the movement of one of the smallest particles—its position and its velocity. It is impossible to determine accurately both the position and the direction and speed of a particle at the same instant.
+In his celebrated 1927 paper, "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik" ("On the Perceptual Content of Quantum Theoretical Kinematics and Mechanics"), Heisenberg established this expression as the minimum amount of unavoidable momentum disturbance caused by any position measurement, but he did not give a precise definition for the uncertainties Δx and Δp. Instead, he gave some plausible estimates in each case separately. In his Chicago lecture he refined his principle:
+Kennard in 1927 first proved the modern inequality:
+where ħ = h/2π, and σx, σp are the standard deviations of position and momentum. Heisenberg only proved relation (2) for the special case of Gaussian states.
+Throughout the main body of his original 1927 paper, written in German, Heisenberg used the word, "Ungenauigkeit" ("indeterminacy"), to describe the basic theoretical principle. Only in the endnote did he switch to the word, "Unsicherheit" ("uncertainty"). When the English-language version of Heisenberg's textbook, The Physical Principles of the Quantum Theory, was published in 1930, however, the translation "uncertainty" was used, and it became the more commonly used term in the English language thereafter.
+The principle is quite counter-intuitive, so the early students of quantum theory had to be reassured that naive measurements to violate it were bound always to be unworkable. One way in which Heisenberg originally illustrated the intrinsic impossibility of violating the uncertainty principle is by using an imaginary microscope as a measuring device.
+He imagines an experimenter trying to measure the position and momentum of an electron by shooting a photon at it.
+Problem 1 – If the photon has a short wavelength, and therefore, a large momentum, the position can be measured accurately. But the photon scatters in a random direction, transferring a large and uncertain amount of momentum to the electron. If the photon has a long wavelength and low momentum, the collision does not disturb the electron's momentum very much, but the scattering will reveal its position only vaguely.
+Problem 2 – If a large aperture is used for the microscope, the electron's location can be well resolved (see Rayleigh criterion); but by the principle of conservation of momentum, the transverse momentum of the incoming photon affects the electrons beamline momentum and hence, the new momentum of the electron resolves poorly. If a small aperture is used, the accuracy of both resolutions is the other way around.
+The combination of these trade-offs imply that no matter what photon wavelength and aperture size are used, the product of the uncertainty in measured position and measured momentum is greater than or equal to a lower limit, which is (up to a small numerical factor) equal to Planck's constant. Heisenberg did not care to formulate the uncertainty principle as an exact limit (which is elaborated below), and preferred to use it instead, as a heuristic quantitative statement, correct up to small numerical factors, which makes the radically new noncommutativity of quantum mechanics inevitable.
+The Copenhagen interpretation of quantum mechanics and Heisenberg's Uncertainty Principle were, in fact, seen as twin targets by detractors who believed in an underlying determinism and realism. According to the Copenhagen interpretation of quantum mechanics, there is no fundamental reality that the quantum state describes, just a prescription for calculating experimental results. There is no way to say what the state of a system fundamentally is, only what the result of observations might be.
+Albert Einstein believed that randomness is a reflection of our ignorance of some fundamental property of reality, while Niels Bohr believed that the probability distributions are fundamental and irreducible, and depend on which measurements we choose to perform. Einstein and Bohr debated the uncertainty principle for many years. Some experiments within the first decade of the twenty-first century have cast doubt on observer effect aspects of the uncertainty principle.
+The first of Einstein's thought experiments challenging the uncertainty principle went as follows:
+Consider a particle passing through a slit of width d. The slit introduces an uncertainty in momentum of approximately h/d because the particle passes through the wall. But let us determine the momentum of the particle by measuring the recoil of the wall. In doing so, we find the momentum of the particle to arbitrary accuracy by conservation of momentum.
+Bohr's response was that the wall is quantum mechanical as well, and that to measure the recoil to accuracy Δp, the momentum of the wall must be known to this accuracy before the particle passes through. This introduces an uncertainty in the position of the wall and therefore the position of the slit equal to h/Δp, and if the wall's momentum is known precisely enough to measure the recoil, the slit's position is uncertain enough to disallow a position measurement.
+A similar analysis with particles diffracting through multiple slits is given by Richard Feynman.
+Bohr was present when Einstein proposed the thought experiment which has become known as Einstein's box. Einstein argued that "Heisenberg's uncertainty equation implied that the uncertainty in time was related to the uncertainty in energy, the product of the two being related to Planck's constant." Consider, he said, an ideal box, lined with mirrors so that it can contain light indefinitely. The box could be weighed before a clockwork mechanism opened an ideal shutter at a chosen instant to allow one single photon to escape. "We now know, explained Einstein, precisely the time at which the photon left the box." "Now, weigh the box again. The change of mass tells the energy of the emitted light. In this manner, said Einstein, one could measure the energy emitted and the time it was released with any desired precision, in contradiction to the uncertainty principle."
+Bohr spent a sleepless night considering this argument, and eventually realized that it was flawed. He pointed out that if the box were to be weighed, say by a spring and a pointer on a scale, "since the box must move vertically with a change in its weight, there will be uncertainty in its vertical velocity and therefore an uncertainty in its height above the table. ... Furthermore, the uncertainty about the elevation above the earth's surface will result in an uncertainty in the rate of the clock," because of Einstein's own theory of gravity's effect on time. "Through this chain of uncertainties, Bohr showed that Einstein's light box experiment could not simultaneously measure exactly both the energy of the photon and the time of its escape."
+Bohr was compelled to modify his understanding of the uncertainty principle after another thought experiment by Einstein. In 1935, Einstein, Podolsky and Rosen (see EPR paradox) published an analysis of widely separated entangled particles. Measuring one particle, Einstein realized, would alter the probability distribution of the other, yet here the other particle could not possibly be disturbed. This example led Bohr to revise his understanding of the principle, concluding that the uncertainty was not caused by a direct interaction.
+But Einstein came to much more far-reaching conclusions from the same thought experiment. He believed the "natural basic assumption" that a complete description of reality, would have to predict the results of experiments from "locally changing deterministic quantities", and therefore, would have to include more information than the maximum possible allowed by the uncertainty principle.
+In 1964, John Bell showed that this assumption can be falsified, since it would imply a certain inequality between the probabilities of different experiments. Experimental results confirm the predictions of quantum mechanics, ruling out Einstein's basic assumption that led him to the suggestion of his hidden variables. Ironically this fact is one of the best pieces of evidence supporting Karl Popper's philosophy of invalidation of a theory by falsification-experiments. That is to say, here Einstein's "basic assumption" became falsified by experiments based on Bell's inequalities. For the objections of Karl Popper to the Heisenberg inequality itself, see below.
+While it is possible to assume that quantum mechanical predictions are due to nonlocal, hidden variables, and in fact David Bohm invented such a formulation, this resolution is not satisfactory to the vast majority of physicists. The question of whether a random outcome is predetermined by a nonlocal theory can be philosophical, and it can be potentially intractable. If the hidden variables are not constrained, they could just be a list of random digits that are used to produce the measurement outcomes. To make it sensible, the assumption of nonlocal hidden variables is sometimes augmented by a second assumption—that the size of the observable universe puts a limit on the computations that these variables can do. A nonlocal theory of this sort predicts that a quantum computer would encounter fundamental obstacles when attempting to factor numbers of approximately 10,000 digits or more; a potentially achievable task in quantum mechanics.
+Karl Popper approached the problem of indeterminacy as a logician and metaphysical realist. He disagreed with the application of the uncertainty relations to individual particles rather than to ensembles of identically prepared particles, referring to them as "statistical scatter relations". In this statistical interpretation, a particular measurement may be made to arbitrary precision without invalidating the quantum theory. This directly contrasts with the Copenhagen interpretation of quantum mechanics, which is non-deterministic but lacks local hidden variables.
+In 1934, Popper published Zur Kritik der Ungenauigkeitsrelationen (Critique of the Uncertainty Relations) in Naturwissenschaften, and in the same year Logik der Forschung (translated and updated by the author as The Logic of Scientific Discovery in 1959), outlining his arguments for the statistical interpretation. In 1982, he further developed his theory in Quantum theory and the schism in Physics, writing:
+[Heisenberg's] formulae are, beyond all doubt, derivable statistical formulae of the quantum theory. But they have been habitually misinterpreted by those quantum theorists who said that these formulae can be interpreted as determining some upper limit to the precision of our measurements.[original emphasis]
+Popper proposed an experiment to falsify the uncertainty relations, although he later withdrew his initial version after discussions with Weizsäcker, Heisenberg, and Einstein; this experiment may have influenced the formulation of the EPR experiment.
+The many-worlds interpretation originally outlined by Hugh Everett III in 1957 is partly meant to reconcile the differences between Einstein's and Bohr's views by replacing Bohr's wave function collapse with an ensemble of deterministic and independent universes whose distribution is governed by wave functions and the Schrödinger equation. Thus, uncertainty in the many-worlds interpretation follows from each observer within any universe having no knowledge of what goes on in the other universes.
+Some scientists including Arthur Compton and Martin Heisenberg have suggested that the uncertainty principle, or at least the general probabilistic nature of quantum mechanics, could be evidence for the two-stage model of free will. The standard view, however, is that apart from the basic role of quantum mechanics as a foundation for chemistry, nontrivial biological mechanisms requiring quantum mechanics are unlikely, due to the rapid decoherence time of quantum systems at room temperature.

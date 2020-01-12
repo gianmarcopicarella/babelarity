@@ -1,0 +1,20 @@
+In mathematics, solid geometry is the traditional name for the geometry of three-dimensional Euclidean space.
+Stereometry deals with the measurements of volumes of various solid figures or Polyhedrons (three-dimensional figures) including pyramids, cylinders, cones, truncated cones, spheres, and prisms.
+The Pythagoreans dealt with the regular solids, but the pyramid, prism, cone and cylinder were not studied until the Platonists. Eudoxus established their measurement, proving the pyramid and cone to have one-third the volume of a prism and cylinder on the same base and of the same height, and was probably the discoverer of a proof that the volume of a sphere is proportional to the cube of its radius.
+Basic topics are
+These include
+projective geometry of three dimensions leading to
+proof of Desargues' theorem by using an extra dimension
+further polyhedra
+descriptive geometry.
+Analytic geometry and vector techniques have a major impact by allowing the systematic use of linear equations and matrix algebra; this becomes more important for higher dimensions. A major application is to computer graphics, meaning that algorithms become important.
+Euclidean geometry
+Dimension
+Point
+Planimetry
+Shape
+Surface
+Surface area
+Skew Quadrilateral
+Archimedes
+Johannes Kepler

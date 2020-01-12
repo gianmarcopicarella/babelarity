@@ -1,0 +1,40 @@
+Systemic inflammatory response syndrome (SIRS) is an inflammatory state affecting the whole body, frequently a response of the immune system to infection, but not necessarily so.
+The concept originated at the 1991 American College of Chest Physicians/Society of Critical Care Medicine Consensus Conference with the goal of aiding in the early detection of sepsis. In 2016 SIRS was completely eliminated from the definition of sepsis. Many experts considered SIRS to be overly sensitive, as nearly all (>90%) of patients admitted to the ICU met the SIRS criteria.
+It is the body's response to an infectious or noninfectious insult. Although the definition of SIRS refers to it as an "inflammatory" response, it actually has pro- and anti-inflammatory components.
+SIRS is a serious condition related to systemic inflammation, organ dysfunction, and organ failure. It is a subset of cytokine storm, in which there is abnormal regulation of various cytokines. SIRS is also closely related to sepsis, in which patients satisfy criteria for SIRS and have a suspected or proven infection.
+Manifestations of SIRS include, but are not limited to:
+Body temperature less than 36 °C (96.8 °F) or greater than 38 °C (100.4 °F)
+Heart rate greater than 90 beats per minute
+Tachypnea (high respiratory rate), with greater than 20 breaths per minute; or, an arterial partial pressure of carbon dioxide less than 4.3 kPa (32 mmHg)
+White blood cell count less than 4000 cells/mm³ (4 x 109 cells/L) or greater than 12,000 cells/mm³ (12 x 109 cells/L); or the presence of greater than 10% immature neutrophils (band forms). Band forms greater than 3% is called bandemia or a "left-shift."
+Hyperglycemia (blood glucose >6.66 mmol/L [120 mg/dL]) in absence of diabetes mellitus
+Acutely Altered mental state
+When two or more of these criteria are met with or without evidence of infection, patients may be diagnosed with "SIRS." Patients with SIRS and acute organ dysfunction may be termed "severe SIRS."  Note: Fever and an increased white blood cell count are features of the acute-phase reaction, while an increased heart rate is often the initial sign of hemodynamic compromise. An increased rate of breathing may be related to the increased metabolic stress due to infection and inflammation, but may also be an ominous sign of inadequate perfusion resulting in the onset of anaerobic cellular metabolism.
+The International Pediatric Sepsis Consensus has proposed some changes to adapt these criteria to the pediatric population.
+In children, the SIRS criteria are modified in the following fashion:
+Heart rate is greater than 2 standard deviations above normal for age in the absence of stimuli such as pain and drug administration, or unexplained persistent elevation for greater than 30 minutes to 4 hours. In infants, also includes heart rate less than 10th percentile for age in the absence of vagal stimuli, beta-blockers, or congenital heart disease or unexplained persistent depression for greater than 30 minutes.
+Body temperature obtained orally, rectally, from Foley catheter probe, or from central venous catheter probe less than 36 °C or greater than 38.5 °C. Temperature must be abnormal to qualify as SIRS in pediatric patients.
+Respiratory rate greater than 2 standard deviations above normal for age or the requirement for mechanical ventilation not related to neuromuscular disease or the administration of anesthesia.
+White blood cell count elevated or depressed for age not related to chemotherapy, or greater than 10% bands plus other immature forms.
+SIRS was first described by Dr. William R. Nelson, of the University of Toronto, in a presentation to the Nordic Micro Circulation meeting in Geilo, Norway in February 1983. There was intent to encourage a definition which dealt with the multiple (rather than a single) etiologies associated with organ dysfunction and failure following a hypotensive shock episode. The active pathways leading to such pathophysiology may include fibrin deposition, platelet aggregation, coagulopathies and leukocyte liposomal release. The implication of such a definition suggests that recognition of the activation of one such pathway is often indicative of that additional pathophysiologic processes are also active and that these pathways are synergistically destructive. The clinical condition may lead to renal failure, respiratory distress syndrome, central nervous system dysfunction and possible gastrointestinal bleeding.
+Criteria for SIRS were established in 1992 as part of the American College of Chest Physicians/Society of Critical Care Medicine Consensus Conference. The conference concluded that the In septic patients, these clinical signs can also be seen in other proinflammatory conditions, such as trauma, burns, pancreatitis, etc. The Sepsis Definition Conference therefore decided to define the patients with a documented or highly suspicious infection that results in a systemic inflammatory response as having sepsis. For example, in the ICU, sepsis patients might present with organ dysfunction (severe sepsis) or septic shock (with or without multiple organ dysfunction syndrome).
+Note that SIRS criteria are non-specific, and must be interpreted carefully within the clinical context. These criteria exist primarily for the purpose of more objectively classifying critically ill patients so that future clinical studies may be more rigorous and more easily reproducible.
+The causes of SIRS are broadly classified as infectious or noninfectious. Causes of SIRS include trauma, burns, pancreatitis, ischemia, and hemorrhage.
+Other causes include:
+Complications of surgery
+Adrenal insufficiency
+Pulmonary embolism
+Complicated aortic aneurysm
+Cardiac tamponade
+Anaphylaxis
+Drug overdose
+Generally, the treatment for SIRS is directed towards the underlying problem or inciting cause (i.e. adequate fluid replacement for hypovolemia, IVF/NPO for pancreatitis, epinephrine/steroids/diphenhydramine for anaphylaxis). Selenium, glutamine, and eicosapentaenoic acid have shown effectiveness in improving symptoms in clinical trials. Other antioxidants such as vitamin E may be helpful as well.
+Septic treatment protocol and diagnostic tools have been created due to the potentially severe outcome septic shock. For example, the SIRS criteria were created as mentioned above to be extremely sensitive in suggesting which patients may have sepsis. However, these rules lack specificity, i.e. not a true diagnosis of the condition, but rather a suggestion to take necessary precautions. The SIRS criteria are guidelines set in place to ensure septic patients receive care as early as possible.
+In cases caused by an implanted mesh, removal (explantation) of the polypropylene surgical mesh implant may be indicated.
+SIRS is frequently complicated by failure of one or more organs or organ systems. The complications of SIRS include:
+Acute lung injury
+Acute kidney injury
+Shock
+Multiple organ dysfunction syndrome
+Official Website of the American College of Chest Physicians
+SIRS, Sepsis, and Septic Shock Criteria

@@ -1,0 +1,207 @@
+The Avro Anson is a British twin-engined, multi-role aircraft that served with the Royal Air Force, Fleet Air Arm, Royal Canadian Air Force and numerous other air forces before, during, and after the Second World War. Developed from the Avro 652 airliner, the Anson, named after British Admiral George Anson, was developed for maritime reconnaissance, but found to be obsolete in this role. It was then found to be suitable as a multi-engined aircrew trainer, becoming the mainstay of the British Commonwealth Air Training Plan. By the end of production in 1952, a total of 8,138 had been built by Avro in nine variants, with a further 2,882 built by Federal Aircraft Ltd in Canada from 1941.
+In 1933, the British Air Ministry proposed that the Royal Air Force (RAF) acquire a relatively cheap landplane for coastal maritime reconnaissance duties, as a supplement to the more capable, but expensive Flying boats that the RAF used for maritime reconnaissance. The Air Ministry requested tenders for aircraft to meet this requirement, with Avro responding with the Avro 652A, a modified version of the Avro 652 twin-engined, six-seat monoplane airliner. The Air Ministry placed orders with Avro and de Havilland for single examples of the Type 652A and the de Havilland DH.89 for evaluation against this requirement late in 1934, with evaluation and selection of a design for production to take place by May 1935. The Avro 652A first flew on 24 March 1935 at Avro's Woodford factory, and was evaluated against the DH.89M by the RAF Coastal Defence Development Unit at Gosport from 11 to 17 May. The Avro aircraft proved superior, and was selected as the winner of the competition on 25 May. Air Ministry Specification 18/35 was written around the Type 652A, and an initial order for 174 aircraft, to be called "Anson", was placed in July 1935. The first production Anson made its maiden flight on 31 December 1935, with changes from the prototype included an enlarged horizonal tailplane and reduced elevator span to improve stability. Deliveries to the RAF began on 6 March 1936.
+The Anson Mk I was a low-wing cantilever monoplane with a retractable undercarriage, the type with this configuration to enter service with the RAF. It had a wooden wing, of plywood and spruce construction, while the fuselage was constructed of steel tubing, mainly clad in fabric, but with the aircraft's nose clad in magnesium alloy. It was powered by two Armstrong Siddeley Cheetah IX seven-cylinder air-cooled radial engines, rated at 350 horsepower (260 kW) each, driving two-bladed metal propellers. The aircraft's retractable tailwheel undercarriage was manually operated, requiring 144 turns of a crank handle situated by the pilot's seat. To forgo this laborious process, early model aircraft often made short flights with the landing gear extended at the expense of 30 mph (50 km/h) of cruising speed.
+Initially, the Anson was flown with a three-man crew (pilot, navigator/bomb-aimer and radio-operator/gunner) in the maritime reconnaissance role, but from 1938 it operated with a four-man crew. Armament consisted of a single .303 in (7.7 mm) Vickers machine gun fixed in the forward fuselage and aimed by the pilot, with an Armstrong Whitworth manually operated dorsal gun turret fitted with a single Lewis gun. Up to 360 pounds (160 kg) of bombs, consisting of two 100 pounds (45 kg) and eight 20 pounds (9 kg) bombs, could be carried in the aircraft's wings. Ansons used for training were fitted with dual controls and usually had the gun turret removed, although aircraft used for gunnery training were fitted with a Bristol hydraulically-operated gun turret similar to that used in the Bristol Blenheim.
+A total of 11,020 Ansons were built by the end of production in 1952, making it the second most numerous (after the Vickers Wellington), British multi-engined aircraft of the war.
+The Anson entered service on 6 March 1936 with 48 Squadron equipped with the Anson. At the start of the Second World War, the RAF had received 824 Ansons and there were 26 RAF squadrons operating the Anson I: 10 with Coastal Command and 16 with Bomber Command. All of the squadrons in Bomber Command in 1939 with Anson Is were operational training squadrons that prepared crews for frontline service. 12 of the squadrons were in No. 6 (Operational Training) Group. Newly formed crews having completed individual flying and technical training were first trained as bomber crews in Ansons and then advanced to the various frontline aircraft types, which were also in the same squadrons with the Ansons. After training in the frontline aircraft type, crews would advance to the frontline bomber squadrons with those aircraft types (Fairey Battle, Bristol Blenheim, Vickers Wellington, Armstrong Whitworth Whitley, and Handley-Page Hampden). At the start of the war, the Lockheed Hudson was beginning to replace the Ansons in Coastal Command with one squadron of Hudsons and one with both Ansons and Hudsons.
+Limited numbers of Ansons continued to serve in operational roles such as coastal patrols and air/sea rescue. Early in the war, an Anson scored a probable hit on a German U-boat. In June 1940, a flight of three Ansons was attacked by nine Luftwaffe Messerschmitt Bf 109s. Remarkably, before the dogfight ended, without losing any of their own, one of the Ansons destroyed two German aircraft and damaged a third.
+The aircraft's true role, however, was to train pilots for flying multi-engined bombers such as the Avro Lancaster. The Anson was also used to train the other members of a bomber's aircrew, such as navigators, wireless operators, bomb aimers and air gunners. Postwar, the Anson continued in the training and light transport roles. The last Ansons were withdrawn from RAF service with communications units on 28 June 1968.
+The Royal Australian Air Force operated 1,028 Ansons, mainly Mk Is, until 1955.
+The Royal Canadian Air Force and Royal Canadian Navy operated the aircraft until 1952. Although the Canadian Ansons were used throughout the training schools of the British Commonwealth Air Training plan for training aircrew some were pressed into operational service with the RCAF's Eastern Air Command. A good example of the training schools involvement in combat operations with the EAC during the emergency of the battle is illustrated in an article dated the 1st of March, 2006 of the Royal Canadian Legion magazine entitled Eastern Air Command: Air Force, Part 14 the author Hugh A. Haliday wrote: "The need for Atlantic patrols was undiminished, yet the Battle of the St. Lawrence stretched EAC resources. Based at Charlottetown, 31 General Reconnaissance School was mobilized to fly patrols using Avro Ansons, each carrying two, 250-pound bombs. At the very outset of the war the Anson and its ordnance had failed in RAF anti-submarine work. Now in Canada it was remobilized as an aerial scarecrow. German views varied as to Canadian countermeasures. The captain of U-517 found his operations increasingly restricted by strengthened air patrols. In October 1942, U-69 reported “strong sea patrol and constant patrol by aircraft with radar.”
+The Royal Indian Air Force operated several Ansons as part of the No.1 Service Flying Training School (India) for Pilot and Navigation training. These Ansons continued this role post independence and were retired at an unknown date.
+The Royal New Zealand Air Force operated 23 Ansons as navigation trainers in the Second World War, (alongside the more numerous Airspeed Oxford), and acquired more Ansons as communication aircraft immediately after the war. A preserved navigation trainer is in the Royal New Zealand Air Force Museum at Wigram.
+The United States Army Air Forces (USAAF), employed 50 Canadian-built Ansons, designated the AT-20.
+The Egyptian Air Force operated Ansons in communications and VIP duties. A specially outfitted Anson was given to the then King by the Royal Air Force. The Royal Afghan Air Force obtained 13 Anson 18 aircraft for various duties from 1948. These aircraft survived until 1972.
+During the 1939-45 war years the British Air Transport Auxiliary used the Avro Anson as its standard taxi aircraft, carrying groups of ferry pilots to and from aircraft collection points. There was no fatal mechanical failure of an Anson in ATA service, and it was very well regarded.
+After the war, Ansons continued in production with Avro at Woodford for civilian use as light transports with small charter airlines and as executive aircraft for industrial companies. Countries which saw civilian operations with Ansons included the United Kingdom, Canada, Australia and Denmark.
+Railway Air Services operated Ansons on scheduled services from London's Croydon Airport via Manchester to Belfast (Nutts Corner) in 1946 and 1947. Sivewright Airways operated three Mk XIX aircraft from their Manchester Airport base on charter flights as far as Johannesburg and on scheduled flights to Ronaldsway Airport in the Isle of Man until 1951. Finglands Airways operated an ex-RAF Anson I on inclusive tour flights and on scheduled flights from Manchester Airport to Newquay Airport between 1949 and 1952. Kemps Aerial Surveys operated several Anson XIXs on survey work within the UK until their retirement in 1973.
+India ordered 12 new Anson 18Cs in 1948 for use by the Directorate of Civil Aviation as trainers and communications aircraft; these were delivered from Yeadon in the spring of 1949.
+Ansons continued to be built by Avro at Woodford for the RAF until March 1952 and were used as trainers and served in the role of Station communications aircraft until 1968.
+The wooden wings of Ansons flying in Australia were found to fail at a high rate. The phenolic glue bonds parted, and it was speculated that the problem was due to the high humidity. The Commonwealth Government grounded most wooden-winged aircraft types in 1962, in particular, Ansons and Mosquitos. No aircraft were re-registered as the government mandated a test that essentially destroyed the wings, requiring new wings to be fitted. Most owners had voluntarily scrapped their aircraft well before this time.
+Although Ansons have mainly been retired from flying, a 1943 Avro Anson Mk.I was recently made airworthy, fitted with later metal wings and returned to the air on 18 July 2012 in Nelson, New Zealand.
+On 29 September 1940, Avro Ansons L9162 and N4876 of No. 2 Service Flying Training School RAAF collided in mid-air and became locked together in flight. A successful emergency landing was made at Brocklesby, New South Wales. L9162 became a ground instructional airframe, whilst N4876 was repaired and returned to service (see 1940 Brocklesby mid-air collision).
+On 9 October 1942, four Royal Australian Air Force (RAAF) airmen were killed when their Avro Anson aircraft crashed near Clackline, Western Australia (see Avro Anson Memorial).
+On Oct. 30, 1942 an Avro Anson took off from Sidney airport on Vancouver Island, British Columbia, Canada, with Royal Canadian Air Force Sgt. William Baird and British air force Pilot Officer Charles Fox, Pilot Officer Anthony Lawrence and Sgt. Robert Luckock aboard. The aircraft crashed, killing all aboard, 50 kilometres (30 mi) from takeoff, on a remote mountainside near Port Renfrew. The wreckage and remains of the crew were found by loggers in October 2013 and recovered in May 2014.
+On 19 December 1945, a Companhia Meridional de Transportes Avro Anson Mk. II registration PP-MTA crashed in the neighborhood of Itaipu, Niterói, Brazil killing all passengers and crew, including the pilot and owner of the airline, Álvaro Araújo.
+On 11 June 1948, Avro XIX G-AGNI of Lancashire Aircraft Corporation ditched off Bradda Head, Isle of Man due to fuel exhaustion. The aircraft was operating a scheduled passenger flight from Squires Gate Airport, Blackpool to Ronaldsway Airport, Isle of Man via RAF Walney Island, Lancashire. All nine people on board were rescued by a trawler from Port Erin and the MV Silkthorn.
+The main Anson variant was the Mk I, of which 6,704 were built in Britain. The other variants were mainly distinguished by their powerplant with Canadian-built Ansons using local engines. To overcome steel shortages, the 1,051 Canadian-built Mk V Ansons featured a plywood fuselage.
+Mk I
+6,688 Mk Is were built. Powered by two 350 hp (261 kW) Armstrong Siddeley Cheetah IX or 395 hp (295 kW) XIX engines.
+Mk II
+1,822 Mk IIs were built in Canada; powered by two 330 hp (246 kW) Jacobs L-6MB R-915 engines and fitted with hydraulic landing gear retraction rather than the manual system used on the Anson I.
+Mk III
+Powered by two 330 hp (250 kW) L-6MB R-915 engines; British-built.
+Mk IV
+Powered by two Wright Whirlwind engines; British-built.
+Mk V
+1,069 Mk Vs were built in Canada for navigator training; powered by two 450 hp (340 kW) Pratt & Whitney Wasp Junior R-985 engines and given a new locally developed wood monocoque fuselage.
+Mk VI
+One aircraft was built in Canada for bombing and gunnery training; it was powered by two 450 hp (340 kW) Wasp Junior engines.
+Mk X
+104 Anson Mk Is were converted into Mk Xs.
+Mk XI
+90 Anson Mk Is were converted into Mk XIs.
+Mk XII
+20 Anson Mk Is were converted into Mk XIIs, plus 221 new Mk XII aircraft built.
+Mk XIII
+Gunnery trainer powered by two Cheetah XI or XIX engines; never built.
+Mk XIV
+Gunnery trainer powered by two Cheetah XV engines; never built.
+Mk XVI
+Navigation trainer; never built.
+Mk XV
+Bombing trainer; never built.
+C 19
+264 were built for the RAF; used as communications and transport aircraft.
+T 20
+Navigation trainer for the RAF, a variant of the Mk XIX to meet Air Ministry Specification T.24/46 for an overseas navigation trainer, one pilot two wireless operators (one trainee and one instructor) and five navigator positions (three trainees and two instructors). Used for bombing and navigation training in Southern Rhodesia, 60 built.
+T 21
+Navigation trainers for the RAF, a variant of the Mk XIX to meet Air Ministry Specification T.25/46 for a home navigation trainer, one pilot two wireless operators (one trainee and one instructor) and five navigator positions (three trainees and two instructors). A prototype was flown in May 1948, 252 were built.
+C.21
+Modification of T.21s for communications and transport duties.
+T 22
+Radio trainers for the RAF, a variant of the Mk XIX to meet Air Ministry Specification T.26/46, one pilot and four wireless operator stations (three for trainees and one for an instructor), a prototype was flown in June 1948, 54 built.
+Anson 18
+Developed from the Avro Nineteen; 12 aircraft were sold to the Royal Afghan Air Force for use as communications, police patrol and aerial survey aircraft.
+Anson 18C
+13 aircraft were built for the Indian government; used for training civil aircrews.
+Avro Nineteen
+(Also known as the Anson XIX): Civil transport version; 56 aircraft were built in two series.
+AT-20
+United States military designation for Canadian-built Anson IIs used by the United States Army Air Forces, 50 built.
+ Afghanistan
+Royal Afghan Air Force - 13 Anson 18 aircraft were delivered to the Afghan Air Force from 1948 and retired by 1972
+ Argentina
+At least one, LV-FBR, in use in 1960
+ Australia
+Royal Australian Air Force - 1,028 Ansons were operated by the Royal Australian Air Force, retired in 1955
+Brain & Brown Airfreighters (one Anson until at least 1977)
+East-West Airlines, one preserved (non-flying), at Tamworth Airport
+ Bahrain
+Gulf Aviation
+ Belgium
+Belgian Air Force (15 x Anson I, 2 x Anson 12s operated from 1946 to 1954)
+ Brazil
+Companhia Meridional de Transportes (three Avro Anson Mk. IIs operated between 1945 and 1946)
+ Canada
+Royal Canadian Air Force and Royal Canadian Navy Ansons were retired in 1952
+ Cuba
+three Canadian-built Ansons were transported to Cuba, operated by ANSA-Aerolíneas del Norte S.A., a regional airline from 1947 until the mid-1950s
+ Czechoslovakia
+Czechoslovakian Air Force three aircraft, in service from 1945 to 1948
+ Egypt
+Egyptian Air Force
+ Estonia
+Estonian Air Force
+ Ethiopia
+Ethiopian Air Force
+ Finland
+Finnish Air Force three Avro Anson Mk. Is purchased 1936 and used as training and liaison aircraft. One lost and another written-off in accidents, last flight in 1947.
+ France
+French Air Force and Aeronavale
+ Greece
+Hellenic Royal Air Force
+ India
+Royal Indian Air Force 
+ India
+Directorate of Civil AviationIndian Air Force
+ Iran
+Imperial Iranian Air Force
+ Iraq
+Royal Iraqi Air Force
+ Ireland
+Irish Air Corps
+ Israel
+Israeli Air Force
+ Netherlands
+Royal Netherlands Air Force and Dutch Naval Aviation Service
+ New Zealand
+Royal New Zealand Air Force
+ Norway
+Royal Norwegian Air Force
+ Paraguay
+Paraguayan Air Arm one Mk.V bought in Argentina in 1947.
+ Portugal
+Portuguese Air Force
+ Rhodesia
+Royal Rhodesian Air Force
+ Saudi Arabia
+Royal Saudi Air Force
+ South Africa
+South African Air Force
+ Southern Rhodesia
+Southern Rhodesian Air Force
+ Syria
+Syrian Air Force
+ Turkey
+Turkish Air Force
+ United Kingdom
+Royal Air Force and Royal Navy
+Blue Line Airways
+British European Airways
+Finglands Airways
+Ministry of Civil Aviation
+Railway Air Services
+Sivewright Airways
+Starways
+Transair
+ United States
+50 Canadian built Ansons were delivered to the USAAF as the AT-20.
+ Yugoslavia
+SFR Yugoslav Air Force
+Camden Aviation Museum, Camden, NSW -
+RAAFA Aviation Heritage Museum, Bull Creek, WA - Mk.I.
+Nhill Aviation Heritage Centre, Nhill, Victoria- Mk.I- W2364. Static example, restoration in progress.
+Aero Space Museum of Calgary, Calgary, Alberta - Mk.II 7401.
+Alberta Aviation Museum, Edmonton, Alberta - Mk.II 886.
+British Columbia Aviation Museum, Sydney, British Columbia - Mk.II FP846  (Used to represent L7056 in the documentary "Seventy-One Years: The Loss and Discovery of Avro Anson L7056" by Nick Versteeg)
+Canada Aviation and Space Museum, Ottawa, Ontario - Mk.V 12518.
+Canadian Warplane Heritage Museum, Hamilton, Ontario - Mk.V 12417/CF-HOT.
+Commonwealth Air Training Plan Museum, Brandon, Manitoba - Mk.II stripped of fabric and Mk.V 12125.
+Greenwood Military Aviation Museum, Greenwood, Nova Scotia - Mk.II 7135.
+Saskatchewan Western Development Museum, Moose Jaw, Saskatchewan - Mk.I.
+Bomber Command Museum, Nanton, Alberta - Mk.II 7481.
+see Indian Air Force Museum, Palam
+Irish Air Corps Museum, Casement Aerodrome.
+Air Force Museum of New Zealand, Christchurch - composite of several examples, static display marked as NZ406.
+Reid Family, Nelson - composite Mk I with Mk XIX wings, airworthy as MH120/ZK-RRA.
+Al Mahatah Museum, Sharjah - Mk.19 G-AKVW.
+Imperial War Museum, Duxford, Cambridgeshire - Mk.XI N4877.
+Shuttleworth Collection, Bedfordshire - Mk.XIX airworthy as G-AHKX.
+Classic Air Force, Newquay - T 21 airworthy as G-VROE.
+Under private restoration - MkXII, later C.19, G-AGPG "Aggie Paggie" (the Avro company hack and MkXV prototype) - cockpit section only.
+Yorkshire Air Museum, Elvington, West Yorkshire Under Restoration - T.21, VV901.
+Data from The Hamlyn Concise Guide to British Aircraft of World War II
+General characteristics
+Crew: Three-four
+Length: 42 ft 3 in (12.88 m)
+Wingspan: 56 ft 6 in (17.22 m)
+Height: 13 ft 1 in (3.99 m)
+Wing area: 463 ft² (43.01 m²)
+Empty weight: 5,512 lb (2,500 kg)
+Loaded weight: 7,955 lb (3,608 kg)
+Max. takeoff weight: 8,500 lb (3,900 kg)
+Powerplant: Two × Armstrong Siddeley Cheetah IX radial engines, 350 hp (261 kW) each
+Performance
+Maximum speed: 188 mph (163 kn, 302 km/h) at 7,000 ft (2,100 m)
+Range: 790 mi (690 nmi, 1,271 km)
+Service ceiling: 19,000 ft (5,791 m)
+Rate of climb: 750 ft/min (3.8 m/s)
+Wing loading: 17.2 lb/ft² (83.9 kg/m²)
+Power/mass: 0.088 hp/lb (140 W/kg)
+Armament
+Guns:1 × .303 in (7.7 mm) machine gun in front fuselage
+1 × .303 in (7.7 mm) Vickers K machine gun in dorsal turret
+Bombs: 360 lb (163 kg)
+Related development
+Avro 652
+Aircraft of comparable role, configuration and era
+Airspeed Oxford
+Cessna AT-17 Bobcat
+Focke-Wulf Fw 58
+Siebel Si 204
+Tachikawa Ki-54
+Related lists
+List of aircraft of World War II
+List of aircraft of the RAF
+List of aircraft of the Fleet Air Arm

@@ -1,0 +1,21 @@
+Sodium amide, commonly called sodamide, is the inorganic compound with the formula NaNH2. This solid, which is dangerously reactive toward water, is white, but commercial samples are typically gray due to the presence of small quantities of metallic iron from the manufacturing process. Such impurities do not usually affect the utility of the reagent. NaNH2 conducts electricity in the fused state, its conductance being similar to that of NaOH in a similar state. NaNH2 has been widely employed as a strong base in organic synthesis.
+Sodium amide can be prepared by the reaction of sodium with ammonia gas, but it is usually prepared by the reaction in liquid ammonia using iron(III) nitrate as a catalyst. The reaction is fastest at the boiling point of the ammonia, c. −33 °C. An electride, [Na(NH3)6]+e−, is formed as an reaction intermediate.
+2 Na + 2 NH3 → 2 NaNH2 + H2
+NaNH2 is a salt-like material and as such, crystallizes as an infinite polymer. The geometry about sodium is tetrahedral. In ammonia, NaNH2 forms conductive solutions, consistent with the presence of Na(NH3)6+ and NH2− anions.
+Sodium amide is mainly used as a strong base in organic chemistry, often in liquid ammonia solution. It is the reagent of choice for the drying of ammonia (liquid or gaseous). One of the main advantages to the use of sodamide is that it is rarely functions as a nucleophile. In the industrial production of indigo, sodium amide is a component of the highly basic mixture that induces cyclisation of N-phenylglycine. The reaction produces ammonia, which is recycled typically.
+Sodium amide induces the loss of two equivalents of hydrogen bromide from a vicinal dibromoalkane to give a carbon-carbon triple bond, as in a preparation of phenylacetylene. Usually two equivalents of sodium amide yields the desired alkyne. Three equivalents are necessary in the preparation of a terminal alkynes because the terminal CH of the resulting alkyne protonates an equivalent amount of base.
+Hydrogen chloride and ethanol can also be eliminated in this way, as in the preparation of 1-ethoxy-1-butyne.
+Where there is no β-hydrogen to be eliminated, cyclic compounds may be formed, as in the preparation of methylenecyclopropane below.
+Cyclopropenes, aziridines and cyclobutanes may be formed in a similar manner.
+Carbon acids which can be deprotonated by sodium amide in liquid ammonia include terminal alkynes, methyl ketones, cyclohexanone, phenylacetic acid and its derivatives and diphenylmethane. Acetylacetone loses two protons to form a dianion. Sodium amide will also deprotonate indole and piperidine.
+It is however poorly soluble in solvents other than ammonia. Its use has been superseded by the related reagents sodium hydride, sodium bis(trimethylsilyl)amide (NaHMDS), and lithium diisopropylamide (LDA).
+Rearrangement with orthodeprotonation
+Oxirane synthesis
+Indole synthesis
+Chichibabin reaction
+Sodium amide reacts violently with water to produce ammonia and sodium hydroxide and will burn in air to give oxides of sodium and nitrogen.
+NaNH2 + H2O → NH3 + NaOH
+2 NaNH2 + 4 O2 → Na2O + 2 NO2 + 2 H2O
+In the presence of limited quantities of air and moisture, such as in a poorly closed container, explosive mixtures of peroxides may form. This is accompanied by a yellowing or browning of the solid. As such, sodium amide is to be stored in a tightly closed container, under an atmosphere of an inert gas. Sodium amide samples which are yellow or brown in color represent explosion risks.
+Lithium amide
+Sodium bis(trimethylsilyl)amide

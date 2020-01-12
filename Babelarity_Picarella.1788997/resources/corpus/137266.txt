@@ -1,0 +1,227 @@
+Acute pancreatitis or acute pancreatic necrosis is a sudden inflammation of the pancreas. It can have severe complications and high mortality despite treatment. While mild cases are often successfully treated with conservative measures, such as fasting and aggressive intravenous fluid rehydration, severe cases may require admission to the intensive care unit or even surgery to deal with complications of the disease process.
+The most common symptoms and signs include:
+severe epigastric pain (upper abdominal pain) radiating to the back in 50% of cases
+nausea
+vomiting
+loss of appetite
+fever
+chills (shivering)
+hemodynamic instability, including shock
+tachycardia (rapid heartbeat)
+respiratory distress
+peritonitis
+hiccup
+Signs that are less common, and indicate severe disease, include:
+Grey-Turner's sign (hemorrhagic discoloration of the flanks)
+Cullen's sign (hemorrhagic discoloration of the umbilicus)
+Pleural effusions (fluid in the bases of the pleural cavity)
+Grünwald sign (appearance of ecchymosis, large bruise, around the umbilicus due to local toxic lesion of the vessels)
+Körte's sign (pain or resistance in the zone where the head of pancreas is located (in epigastrium, 6–7 cm above the umbilicus))
+Kamenchik's sign (pain with pressure under the xiphoid process)
+Mayo-Robson's sign (pain while pressing at the top of the angle lateral to the Erector spinae muscles and below the left 12th rib (left costovertebral angle (CVA))
+Mayo-Robson's point – a point on border of inner 2/3 with the external 1/3 of the line that represents the bisection of the left upper abdominal quadrant, where tenderness on pressure exists in disease of the pancreas. At this point the tail of pancreas is projected on the abdominal wall.
+pandiaraja's sign- ecchymosis of right axilla
+Other conditions to consider are:
+Pancreatic pseudocyst
+Pancreatic dysfunction (diabetes mellitus; malabsorption due to exocrine failure)
+Pancreatic cancer
+Although these are common symptoms, they are not always present. Simple abdominal pain may be the sole symptom.
+Alcohol
+Gallstones
+Metabolic disorders: hereditary pancreatitis, hypercalcemia, elevated triglycerides, malnutrition
+Post-ERCP
+Abdominal trauma
+Penetrating ulcers
+Carcinoma of the head of pancreas, and other cancer
+Drugs: diuretics (e.g., thiazides, furosemide), gliptins (e.g., vildagliptin, sitagliptin, saxagliptin, linagliptin,) tetracycline, sulfonamides, estrogens, azathioprine and mercaptopurine, pentamidine, salicylates, steroids
+Infections: mumps, viral hepatitis, coxsackie B virus, cytomegalovirus, Mycoplasma pneumoniae, Ascaris
+Structural abnormalities: choledochocele, pancreas divisum
+Radiation X-ray
+Autoimmune pancreatitis
+Scorpion venom
+Chinese liver fluke
+Ischemia from bypass surgery
+Heart valve surgery
+Fat necrosis or Hypertriglyceridemia
+Pregnancy
+Infections other than mumps, including varicella zoster
+Repeated marathon running
+Hyperparathyroidism
+Drugs: Azathioprine, Thiazide, Valproic acid, Tetracycline, and Trimethoprim-suilfamethoxazole
+Cystic fibrosis
+Valproic acid
+Anorexia or bulimia
+Familial
+Long common duct
+Codeine phosphate reaction
+Perforated peptic ulcer
+Biliary colic
+Acute cholecystitis
+Pneumonia
+Pleuritic pain
+Myocardial infarction
+Acute pancreatitis occurs when there is abnormal activation of digestive enzymes within the pancreas. This occurs through inappropriate activation of inactive enzyme precursors called zymogens (or proenzymes) inside the pancreas, most notably trypsinogen. Normally, trypsinogen is converted to its active form (trypsin)) in the first part of the small intestine (duodenum), where the enzyme assists in the digestion of proteins. During an episode of acute pancreatitis, trypsinogen comes into contact with lysosomal enzymes (specifically cathepsin), which activate trypsinogen to trypsin. The active form trypsin then leads to further activation of other molecules of trypsinogen. The activation of these digestive enzymes lead to inflammation, edema, vascular injury, and even cellular death. The death of pancreatic cells occurs via two main mechanisms: necrosis, which is less organized and more damaging, or apoptosis, which is more controlled. The balance between these two mechanisms of cellular death is mediated by caspases which regulate apoptosis and have important anti-necrosis functions during pancreatitis: preventing trypsinogen activation, preventing ATP depletion through inhibiting polyADP-ribose polymerase, and by inhibiting the inhibitors of apoptosis (IAPs). If, however, the caspases are depleted due to either chronic ethanol exposure or through a severe insult then necrosis can predominate.
+The two types of acute pancreatitis are mild and severe, which are defined based on whether the predominant response to cell injury is inflammation (mild) or necrosis (severe). In mild pancreatitis, there is inflammation and edema of the pancreas. In severe pancreatitis, there is necrosis of the pancreas, and nearby organs may become injured.
+As part of the initial injury there is an extensive inflammatory response due to pancreatic cells synthesizing and secreting inflammatory mediators: primarily TNF-alpha and IL-1. A hallmark of acute pancreatitis is a manifestation of the inflammatory response, namely the recruitment of neutrophils to the pancreas. The inflammatory response leads to the secondary manifestations of pancreatitis: hypovolemia from capillary permeability, acute respiratory distress syndrome, disseminated intravascular coagulations, renal failure, cardiovascular failure, and gastrointestinal hemorrhage.
+The acute pancreatitis (acute hemorrhagic pancreatic necrosis) is characterized by acute inflammation and necrosis of pancreas parenchyma, focal enzymic necrosis of pancreatic fat and vessel necrosis (hemorrhage). These are produced by intrapancreatic activation of pancreatic enzymes. Lipase activation produces the necrosis of fat tissue in pancreatic interstitium and peripancreatic spaces as well as vessel damage. Necrotic fat cells appear as shadows, contours of cells, lacking the nucleus, pink, finely granular cytoplasm. It is possible to find calcium precipitates (hematoxylinophilic). Digestion of vascular walls results in thrombosis and hemorrhage. Inflammatory infiltrate is rich in neutrophils. Due to the pancreas lacking a capsule, the inflammation and necrosis can extend to include fascial layers in the immediate vicinity of the pancreas.
+Acute pancreatitis is diagnosed clinically but requires CT evaluation to differentiate mild acute pancreatitis from severe necrotic pancreatitis. Experienced clinicians were able to detect severe pancreatitis in approximately 34-39% of patients who later had imaging confirmed severe necrotic pancreatitis. Blood studies are used to identify organ failure, offer prognostic information, determine if fluid resuscitation is adequate, and if antibiotics are indicated.
+Blood investigations – Full blood count, renal function tests, liver function, serum calcium, serum amylase and lipase, Arterial blood gas, Trypsin-Selective Test
+Imaging – A triple phase abdominal CT and abdominal ultrasound are together considered the gold standard for the evaluation of acute pancreatitis. Other modalities including the abdominal x-ray lack sensitivity and are not recommended. An important caveat is that imaging during the first 12 hours may be falsely reassuring as the inflammatory and necrotic process usually requires 48 hours to fully manifest.
+Elevated serum amylase and lipase levels, in combination with severe abdominal pain, often trigger the initial diagnosis of acute pancreatitis. However, they have no role in assessing disease severity.
+Serum lipase rises 4 to 8 hours from the onset of symptoms and normalizes within 7 to 14 days after treatment.
+Serum amylase may be normal (in 10% of cases) for cases of acute or chronic pancreatitis (depleted acinar cell mass) and hypertriglyceridemia.
+Reasons for false positive elevated serum amylase include salivary gland disease (elevated salivary amylase), bowel obstruction, infarction, cholecystitis, and a perforated ulcer.
+If the lipase level is about 2.5 to 3 times that of amylase, it is an indication of pancreatitis due to alcohol.Decreased serum calcium
+Glycosuria
+Regarding selection on these tests, two practice guidelines state:
+"It is usually not necessary to measure both serum amylase and lipase. Serum lipase may be preferable because it remains normal in some nonpancreatic conditions that increase serum amylase including macroamylasemia, parotitis, and some carcinomas. In general, serum lipase is thought to be more sensitive and specific than serum amylase in the diagnosis of acute pancreatitis"
+"Although amylase is widely available and provides acceptable accuracy of diagnosis, where lipase is available it is preferred for the diagnosis of acute pancreatitis (recommendation grade A)"
+Most, but not all individual studies support the superiority of the lipase. In one large study, there were no patients with pancreatitis who had an elevated amylase with a normal lipase. Another study found that the amylase could add diagnostic value to the lipase, but only if the results of the two tests were combined with a discriminant function equation.
+Regarding the need for computed tomography, practice guidelines state:
+CT is an important common initial assessment tool for acute pancreatitis. Imaging is indicated during the initial presentation if:
+the diagnosis of acute pancreatitis is uncertain
+there is abdominal distension and tenderness, fever >102, or leukocytosis
+there is a Ranson score > 3 or APACHE score > 8
+there is no improvement after 72 hours of conservative medical therapy
+there has been an acute change in status: fever, pain, or shock
+CT is recommended as a delayed assessment tool in the following situations:
+acute change in status
+to determine therapeutic response after surgery or interventional radiologic procedure
+before discharge in patients with severe acute pancreatitis
+CT abdomen should not be performed before the first 12 hours of onset of symptoms as early CT (<12 hours) may result in equivocal or normal findings.
+CT Findings can be classified into the following categories for easy recall :
+Intrapancreatic – diffuse or segmental enlargement, edema, gas bubbles, pancreatic pseudocysts and phlegmons/abscesses (which present 4 to 6 wks after initial onset)
+Peripancreatic / extrapancreatic – irregular pancreatic outline, obliterated peripancreatic fat, retroperitoneal edema, fluid in the lessar sac, fluid in the left anterior pararenal space
+Locoregional – Gerota's fascia sign (thickening of inflamed Gerota's fascia, which becomes visible), pancreatic ascites, pleural effusion (seen on basal cuts of the pleural cavity), adynamic ileus, etc.
+While computed tomography is considered the gold standard in diagnostic imaging for acute pancreatitis, magnetic resonance imaging (MRI) has become increasingly valuable as a tool for the visualization of the pancreas, particularly of pancreatic fluid collections and necrotized debris. Additional utility of MRI includes its indication for imaging of patients with an allergy to CT's contrast material, and an overall greater sensitivity to hemorrhage, vascular complications, pseudoaneurysms, and venous thrombosis.
+Another advantage of MRI is its utilization of magnetic resonance cholangiopancreatography (MRCP) sequences. MRCP provides useful information regarding the etiology of acute pancreatitis, i.e., the presence of tiny biliary stones (choledocholithiasis or cholelithiasis) and duct anomalies. Clinical trials indicate that MRCP can be as effective a diagnostic tool for acute pancreatitis with biliary etiology as endoscopic retrograde cholangiopancreatography, but with the benefits of being less invasive and causing fewer complications.
+Acute pancreatitis patients recover in majority of cases. Some may develop abscess, pseudocyst or duodenal obstruction. In 5 percent cases, it may result in ARDS (acute respiratory distress syndrome), DIC (disseminated intravascular coagulation), etc. Acute pancreatitis can be further divided into mild and severe pancreatitis. Mostly the Ranson Criteria are used to determine severity of acute pancreatitis. In severe pancreatitis serious amounts of necrosis determine the further clinical outcome. About 20% of the acute pancreatitis are severe with a mortality of about 20%. This is an important classification as severe pancreatitis will need intensive care therapy whereas mild pancreatitis can be treated on the common ward.
+Necrosis will be followed by a systemic inflammatory response syndrome (SIRS) and will determine the immediate clinical course. The further clinical course is then determined by bacterial infection. SIRS is the cause of bacterial (Gram negative) translocation from the patients colon.
+There are several ways to help distinguish between these two forms. One is the above-mentioned Ranson Score.
+In predicting the prognosis, there are several scoring indices that have been used as predictors of survival. Two such scoring systems are the Ranson criteria and APACHE II (Acute Physiology and Chronic Health Evaluation) indices. Most, but not all studies report that the Apache score may be more accurate. In the negative study of the APACHE-II, the APACHE-II 24-hour score was used rather than the 48-hour score. In addition, all patients in the study received an ultrasound twice which may have influenced allocation of co-interventions. Regardless, only the APACHE-II can be fully calculated upon admission. As the APACHE-II is more cumbersome to calculate, presumably patients whose only laboratory abnormality is an elevated lipase or amylase do not need assessment with the APACHE-II; however, this approach is not studied. The APACHE-II score can be calculated at www.sfar.org.
+Practice guidelines state:
+2006: "The two tests that are most helpful at admission in distinguishing mild from severe acute pancreatitis are APACHE-II score and serum hematocrit. It is recommended that APACHE-II scores be generated during the first 3 days of hospitalization and thereafter as needed to help in this distinction. It is also recommended that serum hematocrit be obtained at admission, 12 h after admission, and 24 h after admission to help gauge adequacy of fluid resuscitation."
+2005: "Immediate assessment should include clinical evaluation, particularly of any cardiovascular, respiratory, and renal compromise, body mass index, chest x ray, and APACHE II score"
+Ranson criteria is a clinical prediction rule for predicting the severity of acute pancreatitis. It was introduced in 1974.[1]
+age in years > 55 years
+white blood cell count > 16000 cells/mm3
+blood glucose > 10 mmol/L (> 200 mg/dL)
+serum AST > 250 IU/L
+serum LDH > 350 IU/L
+Calcium (serum calcium < 2.0 mmol/L (< 8.0 mg/dL)
+Hematocrit fall >10 mmol/l
+Oxygen (hypoxemia PO2 < 60 mmHg)
+BUN increased by 1.8 or more mmol/L (5 or more mg/dL) after IV fluid hydration
+Base deficit (negative base excess) > 4 mEq/L
+Sequestration of fluids > 6 L
+The criteria for point assignment is that a certain breakpoint be met at any time during that 48 hour period, so that in some situations it can be calculated shortly after admission. It is applicable to both gallstone and alcoholic pancreatitis.
+Alternatively, pancreatitis can be diagnosed by meeting any of the following:[2]
+Ranson's score of ≥ 8 Organ failure Substantial pancreatic necrosis (at least 30% glandular necrosis according to contrast-enhanced CT)
+Interpretation If the score ≥ 3, severe pancreatitis likely. If the score < 3, severe pancreatitis is unlikely Or
+Score 0 to 2 : 2% mortality Score 3 to 4 : 15% mortality Score 5 to 6 : 40% mortality Score 7 to 8 : 100% mortality
+"Acute Physiology And Chronic Health Evaluation" (APACHE II) score > 8 points predicts 11% to 18% mortality
+Hemorrhagic peritoneal fluid
+Obesity
+Indicators of organ failure
+Hypotension (SBP <90 mmHG) or tachycardia > 130 beat/min
+PO2 <60 mmHg
+Oliguria (<50 mL/h) or increasing BUN and creatinine
+Serum calcium < 1.90 mmol/L (<8.0 mg/dL) or serum albumin <33 g/L (<3.2.g/dL)>
+Developed in the early 1990s by Emil J. Balthazar et al., the Computed Tomography Severity Index (CTSI) is a grading system used to determine the severity of acute pancreatitis. The numerical CTSI has a maximum of ten points, and is the sum of the Balthazar grade points and pancreatic necrosis grade points:
+Balthazar Grade
+Necrosis Score
+CTSI's staging of acute pancreatitis severity has been shown by a number of studies to provide more accurate assessment than APACHE II, Ranson, and C-reactive protein (CRP) level. However, a few studies indicate that CTSI is not significantly associated with the prognosis of hospitalization in patients with pancreatic necrosis, nor is it an accurate predictor of AP severity.
+The Glasgow criteria is valid for both gallstone and alcohol induced pancreatitis, whereas the Ranson score is only for alcohol induced pancreatitis. If a patient scores 3 or more it indicates severe pancreatitis and the patient should be transferred to ITU. It is scored through the mnemonic, PANCREAS:
+P - PaO2 <8kPa
+A - Age >55-years-old
+N - Neutrophilia: WCC >15x10(9)/L
+C - Calcium <2 mmol/L
+R - Renal function: Urea >16 mmol/L
+E - Enzymes: LDH >600iu/L; AST >200iu/L
+A - Albumin <32g/L (serum)
+S - Sugar: blood glucose >10 mmol/L
+Predicts mortality risk in pancreatitis with fewer variables than Ranson's criteria. Data should be taken from the first 24 hours of the patient's evaluation.
+BUN >25 mg/dL (8.9 mmol/L)
+Abnormal mental status with a Glasgow coma score <15
+Evidence of SIRS (systemic inflammatory response syndrome)
+Patient age >60 years old
+Imaging study reveals pleural effusion
+Patients with a score of zero had a mortality of less than one percent, whereas patients with a score of five had a mortality rate of 22 percent. In the validation cohort, the BISAP score had similar test performance characteristics for predicting mortality as the APACHE II score. As is a problem with many of the other scoring systems, the BISAP has not been validated for predicting outcomes such as length of hospital stay, need for ICU care, or need for intervention.
+Initial management of a patient with acute pancreatitis consists of supportive care with fluid resuscitation, pain control, and nutritional support.
+Aggressive hydration at a rate of 5 to 10 mL/kg per hour of isotonic crystalloid solution (e.g., normal saline or lactated Ringer’s solution) to all patients with acute pancreatitis, unless cardiovascular, renal, or other related comorbid factors preclude aggressive fluid replacement. In patients with severe volume depletion that manifests as hypotension and tachycardia, more rapid repletion with 20 mL/kg of intravenous fluid given over 30 minutes followed by 3 mL/kg/hour for 8 to 12 hours.
+Fluid requirements should be reassessed at frequent intervals in the first six hours of admission and for the next 24 to 48 hours. The rate of fluid resuscitation should be adjusted based on clinical assessment, hematocrit and blood urea nitrogen (BUN) values.
+In the initial stages (within the first 12 to 24 hours) of acute pancreatitis, fluid replacement has been associated with a reduction in morbidity and mortality.
+There is some evidence that fluid resuscitation with lactated Ringer’s solution may reduce the incidence of Systemic Inflammatory Response Syndrome (SIRS) as compared with normal saline.
+Abdominal pain is often the predominant symptom in patients with acute pancreatitis and should be treated with analgesics.
+Opioids are safe and effective at providing pain control in patients with acute pancreatitis. Adequate pain control requires the use of intravenous opiates, usually in the form of a patient-controlled analgesia pump. Hydromorphone or fentanyl (intravenous) may be used for pain relief in acute pancreatitis. Fentanyl is being increasingly used due to its better safety profile, especially in renal impairment. As with other opiates, fentanyl can depress respiratory function. It can be given both as a bolus as well as constant infusion. Meperidine has been historically favored over morphine because of the belief that morphine caused an increase in sphincter of Oddi pressure. However, no clinical studies suggest that morphine can aggravate or cause pancreatitis or cholecystitis. In addition, meperidine has a short half-life and repeated doses can lead to accumulation of the metabolite normeperidine, which causes neuromuscular side effects and, rarely, seizures.
+In the management of acute pancreatitis, the treatment is to stop feeding the patient, giving him or her nothing by mouth, giving intravenous fluids to prevent dehydration, and sufficient pain control. As the pancreas is stimulated to secrete enzymes by the presence of food in the stomach, having no food pass through the system allows the pancreas to rest. Approximately 20% of patients have a relapse of pain during acute pancreatitis. Approximately 75% of relapses occur within 48 hours of oral refeeding.
+The incidence of relapse after oral refeeding may be reduced by post-pyloric enteral rather than parenteral feeding prior to oral refeeding. IMRIE scoring is also useful.
+Recently, there has been a shift in the management paradigm from TPN (total parenteral nutrition) to early, post-pyloric enteral feeding (in which a feeding tube is endoscopically or radiographically introduced to the third portion of the duodenum). The advantage of enteral feeding is that it is more physiological, prevents gut mucosal atrophy, and is free from the side effects of TPN (such as fungemia). The additional advantages of post-pyloric feeding are the inverse relationship of pancreatic exocrine secretions and distance of nutrient delivery from the pylorus, as well as reduced risk of aspiration.
+Disadvantages of a naso-enteric feeding tube include increased risk of sinusitis (especially if the tube remains in place greater than two weeks) and a still-present risk of accidentally intubating the trachea even in intubated patients (contrary to popular belief, the endotracheal tube cuff alone is not always sufficient to prevent NG tube entry into the trachea). Oxygen may be provided in some patients (about 30%) if Pao2 levels fall below 70mm of Hg.
+Up to 20 percent of patients with acute pancreatitis develop an extrapancreatic infection (e.g., bloodstream infections, pneumonia, and urinary tract infections). Extrapancreatic infections are associated with an increase in mortality. When an infection is suspected, antibiotics should be started while the source of the infection is being determined. However, if cultures are negative and no source of infection is identified, antibiotics should be discontinued.
+Prophylactic antibiotics are not recommended in patients with acute pancreatitis, regardless of the type (interstitial or necrotizing) or disease severity (mild, moderately severe, or severe)
+An early randomized controlled trial of imipenem 0.5 gram intravenously every eight hours for two weeks showed a reduction in from pancreatic sepsis from 30% to 12%.
+Another randomized controlled trial with patients who had at least 50% pancreatic necrosis found a benefit from imipenem compared to pefloxacin with a reduction in infected necrosis from 34% to 20%
+A subsequent randomized controlled trial that used meropenem 1 gram intravenously every 8 hours for 7 to 21 days stated no benefit; however, 28% of patients in the group subsequently required open antibiotic treatment vs. 46% in the placebo group. In addition, the control group had only 18% incidence of peripancreatic infections and less biliary pancreatitis that the treatment group (44% versus 24%).
+Early ERCP (endoscopic retrograde cholangiopancreatography), performed within 24 to 72 hours of presentation, is known to reduce morbidity and mortality. The indications for early ERCP are:
+Clinical deterioration or lack of improvement after 24 hours
+Detection of common bile duct stones or dilated intrahepatic or extrahepatic ducts on abdominal CT
+The disadvantages of ERCP are:
+ERCP precipitates pancreatitis, and can introduce infection to sterile pancreatitis
+The inherent risks of ERCP, such as bleeding
+Surgery is indicated for (i) infected pancreatic necrosis and (ii) diagnostic uncertainty and (iii) complications. The most common cause of death in acute pancreatitis is secondary infection. Infection is diagnosed based on 2 criteria
+Gas bubbles on CT scan (present in 20 to 50% of infected necrosis)
+Positive bacterial culture on FNA (fine needle aspiration, usually CT or US guided) of the pancreas.
+Surgical options for infected necrosis include:
+Minimally invasive management – necrosectomy through small incision in skin (left flank) or abdomen
+Conventional management – necrosectomy with simple drainage
+Closed management – necrosectomy with closed continuous postoperative lavage
+Open management – necrosectomy with planned staged reoperations at definite intervals (up to 20+ reoperations in some cases)
+Pancreatic enzyme inhibitors are not proven to work.
+The use of octreotide has not been shown to improve outcome.
+Complications can be systemic or locoregional.
+Systemic complications include ARDS, multiple organ dysfunction syndrome, DIC, hypocalcemia (from fat saponification), hyperglycemia and insulin dependent diabetes mellitus (from pancreatic insulin-producing beta cell damage)
+Locoregional complications include pancreatic pseudocyst (Most common, occurring in up to 25% of all cases) and phlegmon / abscess formation, splenic artery pseudoaneurysms, hemorrhage from erosions into splenic artery and vein, thrombosis of the splenic vein, superior mesenteric vein and portal veins (in descending order of frequency), duodenal obstruction, common bile duct obstruction, progression to chronic pancreatitis, pancreatic ascites, pleural effusion, pancreatic abscess, sterile/infected pancreatic necrosis.
+Metabolic
+Hypocalcemia, hyperglycemia, hypertriglyceridemia
+Respiratory
+Hypoxemia, atelectasis, Effusion, pneumonitis, Acute respiratory distress syndrome (ARDS)
+Renal
+Renal artery or vein thrombosis
+Renal failure
+Circulatory
+Arrhythmias
+Hypovolemia and shock
+myocardial infarct
+Pericardial effusion
+vascular thrombosis
+Gastrointestinal
+Gastrointestinal hemorrhage from stress ulceration;
+gastric varices (secondary to splenic vein thrombosis)
+Gastrointestinal obstruction
+Hepatobiliary
+Jaundice
+Portal vein thrombosis
+Neurologic
+Psychosis or encephalopathy (confusion, delusion and coma)
+Cerebral Embolism
+Blindness (angiopathic retinopathy with hemorrhage)
+Hematologic
+Anemia
+DIC
+Leucocytosis
+Dermatologic
+Painful subcutaneous fat necrosis
+Miscellaneous
+Subcutaneous fat necrosis
+Arthalgia
+In the United States, the annual incidence is 18 cases of acute pancreatitis per 100,000 population, and it accounts for 220,000 hospitalizations in the US. In a European cross-sectional study, incidence of acute pancreatitis increased from 12.4 to 15.9 per 100,000 annually from 1985 to 1995; however, mortality remained stable as a result of better outcomes. Another study showed a lower incidence of 9.8 per 100,000 but a similar worsening trend (increasing from 4.9 in 1963-74) over time.
+In Western countries, the most common cause is alcohol, accounting for 65 percent of acute pancreatitis cases in the US, 20 percent of cases in Sweden, and 5 percent of those in the United Kingdom. In Eastern countries, gallstones are the most common cause of acute pancreatitis. The causes of acute pancreatitis also varies across age groups, with trauma and systemic disease (such as infection) being more common in children. Mumps is a more common cause in adolescents and young adults than in other age groups.
+Chronic pancreatitis
+Banks et al. Modified Marshall scoring system online calculator
+VIDEO: Complications of Acute Pancreatitis: Management and Outcomes, Mark Malangoni, MD, speaks at the University of Wisconsin School of Medicine and Public Health (2007)
+Medical Information and Treatment of Acute Pancreatitis
+Mechanisms of Disease: Etiology and Pathophysiology of Acute Pancreatitis
+Pathology Atlas image.
+Acute Pancreatitis PrimeHealthChannel
+Parikh RP, Upadhyay KJ. Cullen's sign for acute haemorrhagic pancreatitis. Indian J Med Res [serial online] 2013 [cited 2013 Jul 4];137:1210 http://www.ijmr.org.in/text.asp?2013/137/6/1210/114397

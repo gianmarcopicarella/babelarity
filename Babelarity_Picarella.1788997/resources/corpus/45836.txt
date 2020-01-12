@@ -1,0 +1,25 @@
+The major scale or Ionian scale is one of the most commonly used musical scales, especially in Western music. It is one of the diatonic scales. Like many musical scales it is made up of seven notes: the eighth duplicates the first at double its frequency so that it is called a higher octave of the same note (from Latin "octavus", the eighth).
+The simplest major scale to write is C major, the only major scale not to require sharps or flats:
+C-D-E-F-G-A-B-C ( C major scale )
+The major scale had a central importance in European music, particularly in the common practice period and in popular music, owing to the large number of chords that can be formed from it. In Hindustani classical music it is known as Bilaval.
+A major scale is a diatonic scale. The sequence of intervals between the notes of a major scale is:
+whole, whole, half, whole, whole, whole, half
+where "whole" stands for a whole tone (a red u-shaped curve in the figure), and "half" stands for a semitone (a red broken line in the figure).
+A major scale may be seen as two identical tetrachords separated by a whole tone. Each tetrachord consists of two whole tones followed by a semitone:
+whole, whole, half.
+1st – Tonic
+2nd – Supertonic
+3rd – Mediant
+4th – Subdominant
+5th – Dominant
+6th – Submediant
+7th – Leading tone
+8th – Tonic
+The circle of fifths, first described in 1728 by Johann David Heinichen in his book Der General-bass, has been used ever since as a means of illustrating the relative harmonic distance between musical keys.
+The numbers inside the circle show the number of sharps or flats in the key signature, with the sharp keys going clockwise, and the flat keys counterclockwise from C major (which has no sharps or flats.) The circular arrangement depends on enharmonic relationships in the circle, usually reckoned at six sharps or flats for the major keys of F♯ = G♭ and D♯ = E♭ for minor keys. Seven sharps or flats make major keys (C♯ major or C♭ major) that may be more conveniently spelled with five flats or sharps (as D♭ major or B major).
+The term "major scale" is also used in the names of some other scales whose first, third, and fifth degrees form a major triad.
+The harmonic major scale has the sixth degree lowered. Example: C-D-E-F-G-A♭-B-C. It differs from the harmonic minor scale only by raising the third degree.
+The melodic major scale is the fifth mode of the jazz minor scale. Example: C-D-E-F-G-A♭-B♭-C. It differs from the Ionian scale by lowering the sixth and the seventh degrees and from the Aeolian scale by raising the third degree. The combined scale that goes as Ionian ascending and as melodic major descending is also called melodic major: C-D-E-F-G-A-B-C-B♭-A♭-G-F-E-D-C (differs from melodic minor only by raising the third degree).
+The double harmonic major scale has the second and the sixth degrees lowered. Example: C-D♭-E-F-G-A♭-B-C. It is the fifth mode of the Hungarian minor scale.
+Ionian mode
+Major and minor

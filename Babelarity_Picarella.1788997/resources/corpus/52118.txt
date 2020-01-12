@@ -1,0 +1,51 @@
+A software requirements specification (SRS) is a description of a software system to be developed. It lays out functional and non-functional requirements, and may include a set of use cases that describe user interactions that the software must provide.
+Software requirements specification establishes the basis for an agreement between customers and contractors or suppliers (in market-driven projects, these roles may be played by the marketing and development divisions) on what the software product is to do as well as what it is not expected to do. Software requirements specification permits a rigorous assessment of requirements before design can begin and reduces later redesign. It should also provide a realistic basis for estimating product costs, risks, and schedules.
+The software requirements specification document enlists enough and necessary requirements that are required for the project development. To derive the requirements we need to have clear and thorough understanding of the products to be developed or being developed. This is achieved and refined with detailed and continuous communications with the project team and customer till the completion of the software.
+The SRS may be one of a contract deliverable Data Item Descriptions or have other forms of organizationally-mandated content.
+An example organization of an SRS is as follows:
+Introduction
+Purpose
+Definitions
+System overview
+References
+Overall description
+Product perspective
+System Interfaces
+User Interfaces
+Hardware interfaces
+Software interfaces
+Communication Interfaces
+Memory Constraints
+Operations
+Site Adaptation Requirements
+Product functions
+User characteristics
+Constraints, assumptions and dependencies
+Specific requirements
+External interface requirements
+Functional requirements
+Performance requirements
+Design constraints
+Standards Compliance
+Logical database requirement
+Software System attributes
+Reliability
+Availability
+Security
+Maintainability
+Portability
+others
+The Software Requirements Specification (SRS) is a communication tool between stakeholders and software designers. The specific goals of the SRS are:
+Facilitating reviews
+Describing the scope of work
+Providing a reference to software designers (i.e. navigation aids, document structure)
+Providing a framework for testing primary and secondary use cases
+Linking features to customer requirements
+Providing a platform for ongoing refinement (via incomplete specs or questions)
+Reliability Availability Security Maintainability Portability.
+Concept of operations
+Requirements engineering
+Software Engineering Body of Knowledge (SWEBOK)
+Design specification
+Specification (technical standard)
+Formal specification

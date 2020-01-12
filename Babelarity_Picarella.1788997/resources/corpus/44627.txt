@@ -1,0 +1,9 @@
+A fermata [ferˈmaːta] (also known as a hold, pause, colloquially a birdseye or cyclops eye, or as a grand pause when placed on a note or a rest) is a symbol of musical notation indicating that the note should be prolonged beyond its normal duration or note value would indicate. Exactly how much longer it is held is up to the discretion of the performer or conductor, but twice as long is common. It is usually printed above but can be occasionally below (when it is upside down) the note to be extended.
+When a fermata is placed over a bar or double-bar, it is used to indicate the end of a phrase or section of a work. In a concerto, it indicates the point at which the soloist is to play a cadenza.
+A fermata can occur at the end of a piece (or movement) or in the middle of a piece. It can be followed by either a brief rest or more notes.
+Other names for a fermata are corona (Italian), point d'orgue (French), Fermate (German), and calderón (Spanish).
+This symbol appears as early as the 15th century. It is quite common in the works of Guillaume Dufay and Josquin des Prez.
+In chorales by Johann Sebastian Bach and other composers of the Baroque, the fermata often signifies only the end of a phrase, and a breath is to be taken. In a few organ compositions, the fermatas occur in different measures for the right and left hands and for the feet, which would make holding them impractical.
+The word lunga (shortened form of the Italian lunga pausa or lunga pausa, meaning "long pause") is sometimes added above a fermata to indicate a longer duration, the length of which is at the discretion of the performer rather than note values.
+Some modern composers (including Francis Poulenc, Krzysztof Penderecki, and Luigi Nono) have expanded the symbol's usage to indicate approximate duration, incorporating fermatas of different sizes, square- and triangle-shaped fermatas, and so on to indicate holds of different lengths. However, that is not standard usage.
+Caesura

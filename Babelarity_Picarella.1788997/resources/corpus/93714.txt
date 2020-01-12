@@ -1,0 +1,40 @@
+Opisthobranchs (/əˈpɪsθəˌbræŋks, -θoʊ-/) are a large and diverse group of specialized complex gastropods that used to be united in the subclass Opisthobranchia, but are no longer considered to represent a monophyletic grouping because it contains land snails and slugs, the Pulmonata. Euopisthobranchia is a revised collection of opisthobranchs that is monophyletic, but this group leaves out some "traditional" opisthobranchs including the Sacoglossa and the Acochlidiacea. The subclass Heterobranchia now contains the species which used to be assigned to Opisthobranchia plus the Pulmonata.
+The Opisthobranchia included species in the order Cephalaspidea (bubble shells and headshield slugs), the sacoglossans, anaspidean sea hares, pelagic sea angels, sea butterflies, and many families of the Nudibranchia.
+Opisthobranch means "gills behind" (and to the right) of the heart. In contrast, Prosobranch means gills in front (of the heart). Opisthobranchs are characterized by two pairs of tentacles and a single gill behind and to the right of the heart.
+Opisthobranchia are known from as early as the Carboniferous.
+Under the old classification system by Johannes Thiele in 1931, class Gastropoda was divided into three subclasses; Prosobranchia, Pulmonata and Opisthobranchia. The latter two were later combined into a single order. The current classification of the gastropods is more complicated, with the following subclasses:
+Subclass Caenogastropoda
+Subclass Cocculiniformia
+Subclass Heterobranchia
+Subclass Neomphalina
+Subclass Neritimorpha
+Subclass Patellogastropoda
+Subclass Vetigastropoda
+Subclass Gastropoda incertae sedis
+It was speculated as far back as 1985 that the Opisthobranchia were paraphyletic, based on morphological evidence, and had given rise to the Pulmonata, a group also of subclass rank.
+Because the Pulmonata are a sibling group to an opisthobranch taxon, some authors argued that the Opisthobranchia are therefore not a monophyletic group and can no longer be accepted as a valid taxon. They are now included within the subclass Heterobranchia, although many manuals and websites still use the old classification.
+A phylogenetic study published in November 2004, gave new definitions of the seven main lineages of the Opisthobranchia.
+However, in 2005, a study of rRNA gene sequences could not resolve monophyly versus paraphyly of the Opisthobranchia  Subsequent taxonomic classification in 2005 overturned the Opisthobranchia as a valid clade, reclassifying them it as an informal group within the Heterobranchia. Accordingly, articles no longer use the term Opisthobranchia, replacing it with Heterobranchia to emphasise a different concept. By 2011, the "Opisthobranchia" were declared artificial and obsolete and were replaced by new phylogenetic hypotheses.
+Order Opisthobranchia Milne-Edwards, 1848 - sea slugs
+Suborder Cephalaspidea P. Fischer, 1883 - headshield slugs and bubble shells
+Suborder Sacoglossa von Ihering, 1876 - sap-sucking slugs and bivalved gastropods
+Suborder Aplysiomorpha P. Fischer, 1883 - sea hares
+Suborder Notaspidea P. Fischer, 1883 - sidegill slugs
+Suborder Thecosomata Blainville, 1824 sea butterflies with shells
+Suborder Gymnosomata Blainville, 1824 - sea angels, no shells
+Suborder Nudibranchia Blainville, 1814 - nudibranchs
+Infraorder Anthobranchia Férussac, 1819
+Infraorder Cladobranchia Willan & Morton, 1984
+The reduction or loss of the shell, the elaboration of the head, foot or mantle, and the acquisition of chemical defences are evolutionary trends shared by most opisthobranch taxa.
+Opisthobranchs have undergone detorsion, an evolutionary reversal of the half revolution torsion of their immediate ancestors. As a result of this detorsion, the visceral ganglia no longer overlap and are described as euthyneurous (as opposed to streptoneurous, the more common condition among gastropods, in which these ganglia form a distinct twist within the animal's body).
+There is no marked distinction between head and mantle. The tentacles, situated close to the mouth, are used for orientation. Behind them are the rhinophores, olfactory organs which often have complex forms. The middle part of the foot is the sole, used for locomotion. The sides of the foot have evolved into parapodia, fleshy winglike outgrowths. In several suborders, such as the Thecosomata and Gymnosomata, these parapodia are used to move in a swimming motion.
+Their eyes are simple pit-cup eyes with a lens and cornea capable of detecting light and the passage of shadows but not of producing a coherent image.
+Opisthobranchia represents a morphologically diverse group of gastropods occupying a great variety of ecological niches. Opisthobranchs have a global distribution, but are restricted almost exclusively to marine habitats with the only exception being few freshwater acochlidians.
+Principally soft-bodied marine creatures with a reduced or absent shell and no operculum, opisthobranchs use other methods for protection. Due to a combination of outstanding camouflage and aggressive toxicity they have few predators. However, some use warning colouration. Animals that do predate opisthobranchs include other opisthobranchs and toxin-resistant predators like sea spiders.
+Opisthobranchs secrete irritants such as strong acids or accumulate toxins from their food. Aeolidioidea pirate the stinging cells from their cnidarian prey and use them for their own defense.
+Opisthobranchs may be herbivores, detritivores or carnivores. Being slow, the carnivores hunt sedentary prey. They may eat bryozoans, Cnidaria, or sponges, absorbing the sponge toxin for defensive purposes. Opisthobranchs may maintain the zooxanthellae of their coral prey and use their metabolic products for themselves. Some herbivorous slugs do the same with the chloroplasts of the algae they eat.
+Like most lifeforms, they use chemical cues for much of their life cycle. The planktonic larvae float until a pheromone alerts them to a suitable settling site, sometimes delaying metamorphosis until favourable chemicals, such as prey pheromones, are detected. Some mating opisthobranchs release chemicals to attract conspecifics.
+Opisthobranchs are hermaphrodites and have complex reproductive strategies, typically involving reciprocal sperm transfer and storage until the eggs are ready for fertilisation. Eggs are commonly laid in ribbons of varying structure. The egg ribbons are usually unique to each species and in some cases are the only means of differentiating them.
+Symposia and workshops on opisthobranchs
+Taxonomy of the Gastropoda (Bouchet & Rocroi, 2005)
+Changes in the taxonomy of gastropods since 2005

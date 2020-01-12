@@ -1,0 +1,14 @@
+Aromatic L-amino acid decarboxylase (EC 4.1.1.28, synonyms: DOPA decarboxylase, tryptophan decarboxylase, 5-hydroxytryptophan decarboxylase, AAAD, AADC) is a lyase enzyme.
+It catalyzes several different decarboxylation reactions:
+L-DOPA to dopamine - a neurotransmitter
+5-HTP to serotonin (5-HT) - a neurotransmitter
+L-histidine to histamine - a neurotransmitter
+phenylalanine to phenethylamine - trace amine neurotransmitter
+L-tyrosine to tyramine - trace amine neurotransmitter
+tryptophan to tryptamine - trace amine neurotransmitter
+The enzyme uses pyridoxal phosphate, the active form of vitamin B6, as a cofactor.
+In normal dopamine and serotonin (5-HT) neurotransmitter synthesis, AAAD is not the rate-limiting step in either reaction. However, AAAD becomes the rate-limiting step of dopamine synthesis in patients treated with L-DOPA (such as in Parkinson's Disease), and the rate-limiting step of serotonin synthesis in people treated with 5-HTP (such as in mild depression or dysthymia). AAAD is inhibited by Carbidopa outside of the blood brain barrier to inhibit the premature conversion of L-DOPA to Dopamine in the treatment of Parkinson's.
+In humans, AAAD is also the rate-limiting enzyme in the formation of trace amine neurotransmitters. Deficiency of AAAD is associated with various symptoms as severe developmental delay, oculogyric crises and autonomic dysfunction. The molecular and clinical spectrum of AAAC deficiency is heterogeneous. The first case of AADC deficiency was described in twin brothers 1990. Patients can be treated with dopamine agonists, MAO inhibitors, and pyridoxine (vitamin B6). Clinical phenotype and response to treatment is variable and the long-term and functional outcome is unknown. To provide a basis for improving the understanding of the epidemiology, genotype/phenotype correlation and outcome of these diseases their impact on the quality of life of patients, and for evaluating diagnostic and therapeutic strategies a patient registry was established by the noncommercial International Working Group on Neurotransmitter Related Disorders (iNTD).
+The gene encoding the enzyme is referred to as DDC and located on chromosome 7 in humans. Single nucleotide polymorphisms and other gene variations have been investigated in relation to neuropsychiatric disorders, e.g., a one-base pair deletion at –601 and a four-base pair deletion at 722–725 in exon 1 in relation to bipolar disorder and autism. No direct correlation between gene variation and autism was found.
+Aromatic amino acids
+Histidine decarboxylase

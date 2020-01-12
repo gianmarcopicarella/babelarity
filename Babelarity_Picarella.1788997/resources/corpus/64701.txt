@@ -1,0 +1,11 @@
+Auguste Kerckhoffs (19 January 1835 – 9 August 1903) was a Dutch linguist and cryptographer who was professor of languages at the École des Hautes Études Commerciales in Paris in the late 19th century.
+Kerckhoffs was born in Nuth, the Netherlands, as Jean Guillaume Auguste Victor François Hubert Kerckhoffs, son of Jean Guillaume Kerckhoffs, mayor of the village of Nuth, and Jeanette Elisabeth Lintjens. Kerckhoffs studied at the University of Liège. After a period of teaching in schools in the Netherlands and France, he became a professor of German at the Parisian École des Hautes Études Commerciales and the École Arago.
+He is best known today for a series of two essays he published in 1883 in le Journal des Sciences Militaires (Journal of Military Science) entitled La Cryptographie Militaire (Military Cryptography). These articles surveyed the then state-of-the-art in military cryptography, and made a plea for considerable improvements in French practice. They also included many pieces of practical advice and rules of thumb, including six principles of practical cipher design:
+The system should be, if not theoretically unbreakable, unbreakable in practice.
+The design of a system should not require secrecy, and compromise of the system should not inconvenience the correspondents (Kerckhoffs' principle).
+The key should be memorable without notes and should be easily changeable.
+The cryptograms should be transmittable by telegraph.
+The apparatus or documents should be portable and operable by a single person
+The system should be easy, neither requiring knowledge of a long list of rules nor involving mental strain
+The best-known is the second of his six principles, also known as Kerckhoffs' principle. It can be understood as the idea that the security of a cryptosystem must depend only on the key, and not on the secrecy of any other part of the system.
+In 1885, Dr. Kerckhoffs became interested in the constructed language Volapük, and for several years was a leading member of the Volapük movement, and Director of the Academy of Volapük. He published several books on the subject and introduced the movement to France, Spain, and Scandinavia through a series of public lectures.

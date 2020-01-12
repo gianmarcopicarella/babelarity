@@ -1,0 +1,24 @@
+The Antonov An-38 is a stretched and upgraded version of Antonov's earlier An-28. It is a twin-engined turboprop transport aircraft designed by Antonov Design Bureau in Kiev, Ukraine. Production takes place in Novosibirsk, Russia, but some crucial parts also made in Ukraine and Belarus. It first flew in 1994, and received international flight certification in April 2000. A total of eleven have been built and six remained in airline service as of August 2006.
+Impetus for a stretch of the Antonov An-28 design began with a 1989 sales tour in India, where it became clear that a significant market existed for an aircraft similar to the An-28 but with seating in the 25–30 seat range. The design was approved a year later, and was displayed at the 1991 Paris Air Show as a model.
+The An-38 is of a similar design to the older An-28, featuring the same wings and tail; but it has a longer fuselage and includes several enhancements, such as higher fuel efficiency, increased comfort (cabin and cockpit), and decreased internal noise coupled with better sound insulation. Other improvements include an increase in passengers to 27 thanks to increase in maximum payload to 2,500 kg (5,500 lbs), as well as a maximum speed of 405 km/h (250 mph). Its design also enables it to operate in adverse conditions—it is equipped with a weather radar, sophisticated navigational systems, and low pressure tires that allow it to operate from more primitive unpaved and icy airfields. Furthermore, the aircraft is more resistant to stalling at high angles of attack and is stable and maneuverable with ice on the wing and tail assembly.
+As of August 2006 a total of six Antonov An-38 aircraft remained in airline service with Hangard Aviation (2), Alrosa Mirny Air Enterprise (2) and Vostok Airlines (2).
+Data from Jane's All The World's Aircraft 2003–2004
+General characteristics
+Crew: 2
+Capacity: 27 passengers
+Payload: 2,500 kg (5,500 lb)
+Length: 15.67 m (51 ft 5 in)
+Wingspan: 22.06 m (72 ft 4¾ in)
+Height: 5.05 m (16 ft 6¾ in)
+Empty weight: 5,300 kg (11,684 lb)
+Max. takeoff weight: 9,500 kg (20,943 lb)
+Powerplant: 2 × Honeywell TPE331-14GR-801E turboprops, 1,118 kW (1,500 shp) each
+Performance
+Maximum speed: 405 km/h (219 knots, 252 mph)
+Cruise speed: 380 km/h (205 knots, 236 mph)
+Range: 1,750 km (944 nmi, 1,087 mi)
+Service ceiling: m (ft)
+Related development
+Antonov An-28
+Related lists
+List of airliners

@@ -1,0 +1,1191 @@
+In mathematics, the integral of a non-negative function of a single variable can be regarded, in the simplest case, as the area between the graph of that function and the x-axis. The Lebesgue integral extends the integral to a larger class of functions. It also extends the domains on which these functions can be defined.
+Mathematicians had long understood that for non-negative functions with a smooth enough graph—such as continuous functions on closed bounded intervals—the area under the curve could be defined as the integral, and computed using approximation techniques on the region by polygons. However, as the need to consider more irregular functions arose—e.g., as a result of the limiting processes of mathematical analysis and the mathematical theory of probability—it became clear that more careful approximation techniques were needed to define a suitable integral. Also, one might wish to integrate on spaces more general than the real line. The Lebesgue integral provides the right abstractions needed to do this important job.
+The Lebesgue integral plays an important role in probability theory, in the branch of mathematics called real analysis and in many other mathematical sciences fields. It is named after Henri Lebesgue (1875–1941), who introduced the integral (Lebesgue 1904). It is also a pivotal part of the axiomatic theory of probability.
+The term Lebesgue integration can mean either the general theory of integration of a function with respect to a general measure, as introduced by Lebesgue, or the specific case of integration of a function defined on a sub-domain of the real line with respect to Lebesgue measure.
+The integral of a function f between limits a and b can be interpreted as the area under the graph of f. This is easy to understand for familiar functions such as polynomials, but what does it mean for more exotic functions? In general, for which class of functions does "area under the curve" make sense? The answer to this question has great theoretical and practical importance.
+As part of a general movement toward rigour in mathematics in the nineteenth century, mathematicians attempted to put integral calculus on a firm foundation. The Riemann integral—proposed by Bernhard Riemann (1826–1866)—is a broadly successful attempt to provide such a foundation. Riemann's definition starts with the construction of a sequence of easily calculated areas that converge to the integral of a given function. This definition is successful in the sense that it gives the expected answer for many already-solved problems, and gives useful results for many other problems.
+However, Riemann integration does not interact well with taking limits of sequences of functions, making such limiting processes difficult to analyze. This is important, for instance, in the study of Fourier series, Fourier transforms, and other topics. The Lebesgue integral is better able to describe how and when it is possible to take limits under the integral sign (via the powerful monotone convergence theorem and dominated convergence theorem).
+While the Riemann integral considers the area under a curve as made out of vertical rectangles, the Lebesgue definition considers horizontal slabs that are not necessarily just rectangles, and so it is more flexible. For this reason, the Lebesgue definition makes it possible to calculate integrals for a broader class of functions. For example, the Dirichlet function, which is 0 where its argument is irrational and 1 otherwise, has a Lebesgue integral, but does not have a Riemann integral. Furthermore, the Lebesgue integral of this function is zero, which agrees with the intuition that picking a real number uniformly at random from the unit interval, the probability of picking a rational number should be zero.
+Lebesgue summarized his approach to integration in a letter to Paul Montel:
+I have to pay a certain sum, which I have collected in my pocket. I take the bills and coins out of my pocket and give them to the creditor in the order I find them until I have reached the total sum. This is the Riemann integral. But I can proceed differently. After I have taken all the money out of my pocket I order the bills and coins according to identical values and then I pay the several heaps one after the other to the creditor. This is my integral.
+The insight is that one should be able to rearrange the values of a function freely, while preserving the value of the integral. This process of rearrangement can convert a very pathological function into one that is "nice" from the point of view of integration, and thus let such pathological functions be integrated.
+To get some intuition about the different approaches to integration, let us imagine that we want to find a mountain's volume (above sea level).
+The Riemann–Darboux approach
+Divide the base of the mountain into a grid of 1 meter squares. Measure the altitude of the mountain at the center of each square. The volume on a single grid square is approximately 1 m2 × (that square's altitude), so the total volume is 1 m2 times the sum of the altitudes.
+The Lebesgue approach
+Draw a contour map of the mountain, where adjacent contours are 1 meter of altitude apart. The volume of earth a single contour contains is approximately 1 m × (that contour's area), so the total volume is the sum of these areas times 1 m.
+Folland summarizes the difference between the Riemann and Lebesgue approaches thus: "to compute the Riemann integral of f, one partitions the domain [a, b] into subintervals", while in the Lebesgue integral, "one is in effect partitioning the range of f ."
+To define the Lebesgue integral requires the formal notion of a measure that, roughly, associates to each set A of real numbers a nonnegative number μ(A) representing the "size" of A. This notion of "size" should agree with the usual length of an interval or disjoint union of intervals. Suppose that f : ℝ → ℝ+ is a non-negative real-valued function. Using the "partitioning the range of f " philosophy, the integral of f should be the sum over t of the elementary area contained in the thin horizontal strip between y = t and y = t + dt. This elementary area is just
+        μ
+          (
+          {
+          x
+          ∣
+          f
+          (
+          x
+          )
+          >
+          t
+          }
+          )
+        d
+        t
+        .
+    {\displaystyle \mu \left(\{x\mid f(x)>t\}\right)\,dt.}
+Let
+          f
+            ∗
+        (
+        t
+        )
+        =
+        μ
+          (
+          {
+          x
+          ∣
+          f
+          (
+          x
+          )
+          >
+          t
+          }
+          )
+        .
+    {\displaystyle f^{*}(t)=\mu \left(\{x\mid f(x)>t\}\right).}
+The Lebesgue integral of f is then defined by
+        ∫
+        f
+        d
+        μ
+        =
+          ∫
+            0
+            ∞
+          f
+            ∗
+        (
+        t
+        )
+        d
+        t
+    {\displaystyle \int f\,d\mu =\int _{0}^{\infty }f^{*}(t)\,dt}
+where the integral on the right is an ordinary improper Riemann integral (note that f∗ is a non-negative decreasing function, and therefore has a well-defined improper Riemann integral). For a suitable class of functions (the measurable functions), this defines the Lebesgue integral.
+A general (not necessarily positive) function f is Lebesgue integrable if the area between the graph of f and the x-axis is finite:
+        ∫
+          |
+        f
+          |
+        d
+        μ
+        <
+        +
+        ∞
+        .
+    {\displaystyle \int |f|\,d\mu <+\infty .}
+In that case, the integral is, as in the Riemannian case, the difference between the area above the x-axis and the area below the x-axis:
+        ∫
+        f
+        d
+        μ
+        =
+        ∫
+          f
+            +
+        d
+        μ
+        −
+        ∫
+          f
+            −
+        d
+        μ
+    {\displaystyle \int f\,d\mu =\int f^{+}\,d\mu -\int f^{-}\,d\mu }
+where 
+        f
+        =
+          f
+            +
+        −
+          f
+            −
+    {\displaystyle f=f^{+}-f^{-}}
+   is the unique decomposition of f into the difference of two non-negative functions, given explicitly by
+                  f
+                    +
+                (
+                x
+                )
+                =
+                max
+                {
+                f
+                (
+                x
+                )
+                ,
+                0
+                }
+                =
+                    {
+                          f
+                          (
+                          x
+                          )
+                          ,
+                            if 
+                          f
+                          (
+                          x
+                          )
+                          >
+                          0
+                          ,
+                          0
+                          ,
+                            otherwise
+                  f
+                    −
+                (
+                x
+                )
+                =
+                max
+                {
+                −
+                f
+                (
+                x
+                )
+                ,
+                0
+                }
+                =
+                    {
+                          −
+                          f
+                          (
+                          x
+                          )
+                          ,
+                            if 
+                          f
+                          (
+                          x
+                          )
+                          <
+                          0
+                          ,
+                          0
+                          ,
+                            otherwise.
+    {\displaystyle {\begin{aligned}f^{+}(x)&=\max\{f(x),0\}&=&{\begin{cases}f(x),&{\text{if }}f(x)>0,\\0,&{\text{otherwise}}\end{cases}}\\f^{-}(x)&=\max\{-f(x),0\}&=&{\begin{cases}-f(x),&{\text{if }}f(x)<0,\\0,&{\text{otherwise.}}\end{cases}}\end{aligned}}}
+The discussion that follows parallels the most common expository approach to the Lebesgue integral. In this approach, the theory of integration has two distinct parts:
+A theory of measurable sets and measures on these sets
+A theory of measurable functions and integrals on these functions
+The function whose integral is to be found is then approximated by certain so-called simple functions, whose integrals can be written in terms of the measure. The integral of the original function is then the limit of the integral of the simple functions.
+Measure theory was initially created to provide a useful abstraction of the notion of length of subsets of the real line—and, more generally, area and volume of subsets of Euclidean spaces. In particular, it provided a systematic answer to the question of which subsets of ℝ have a length. As later set theory developments showed (see non-measurable set), it is actually impossible to assign a length to all subsets of ℝ in a way that preserves some natural additivity and translation invariance properties. This suggests that picking out a suitable class of measurable subsets is an essential prerequisite.
+The Riemann integral uses the notion of length explicitly. Indeed, the element of calculation for the Riemann integral is the rectangle [a, b] × [c, d], whose area is calculated to be (b − a)(d − c). The quantity b − a is the length of the base of the rectangle and d − c is the height of the rectangle. Riemann could only use planar rectangles to approximate the area under the curve, because there was no adequate theory for measuring more general sets.
+In the development of the theory in most modern textbooks (after 1950), the approach to measure and integration is axiomatic. This means that a measure is any function μ defined on a certain class X  of subsets of a set E, which satisfies a certain list of properties. These properties can be shown to hold in many different cases.
+We start with a measure space (E, X, μ) where E is a set, X is a σ-algebra of subsets of E, and μ is a (non-negative) measure on E defined on the sets of X.
+For example, E can be Euclidean n-space ℝn or some Lebesgue measurable subset of it, X is the σ-algebra of all Lebesgue measurable subsets of E, and μ is the Lebesgue measure. In the mathematical theory of probability, we confine our study to a probability measure μ, which satisfies μ(E) = 1.
+Lebesgue's theory defines integrals for a class of functions called measurable functions. A real-valued function f on E is measurable if the pre-image of every interval of the form (t, ∞) is in X:
+        {
+        x
+        ∣
+        f
+        (
+        x
+        )
+        >
+        t
+        }
+        ∈
+        X
+          for all
+        t
+        ∈
+          R
+        .
+    {\displaystyle \{x\,\mid \,f(x)>t\}\in X\quad {\text{for all}}\ t\in \mathbb {R} .}
+We can show that this is equivalent to requiring that the pre-image of any Borel subset of ℝ be in X. The set of measurable functions is closed under algebraic operations, but more importantly it is closed under various kinds of point-wise sequential limits:
+          sup
+            k
+            ∈
+              N
+          f
+            k
+        ,
+          lim inf
+            k
+            ∈
+              N
+          f
+            k
+        ,
+          lim sup
+            k
+            ∈
+              N
+          f
+            k
+    {\displaystyle \sup _{k\in \mathbb {N} }f_{k},\quad \liminf _{k\in \mathbb {N} }f_{k},\quad \limsup _{k\in \mathbb {N} }f_{k}}
+are measurable if the original sequence (fk)k, where k ∈ ℕ, consists of measurable functions.
+We build up an integral
+          ∫
+            E
+        f
+        d
+        μ
+        =
+          ∫
+            E
+        f
+          (
+          x
+          )
+        μ
+          (
+          d
+          x
+          )
+    {\displaystyle \int _{E}f\,d\mu =\int _{E}f\left(x\right)\,\mu \left(dx\right)}
+for measurable real-valued functions f defined on E in stages:
+Indicator functions: To assign a value to the integral of the indicator function 1S of a measurable set S consistent with the given measure μ, the only reasonable choice is to set:
+        ∫
+          1
+            S
+        d
+        μ
+        =
+        μ
+        (
+        S
+        )
+        .
+    {\displaystyle \int 1_{S}\,d\mu =\mu (S).}
+Notice that the result may be equal to +∞, unless μ is a finite measure.
+Simple functions: A finite linear combination of indicator functions
+          ∑
+            k
+          a
+            k
+          1
+              S
+                k
+    {\displaystyle \sum _{k}a_{k}1_{S_{k}}}
+where the coefficients ak are real numbers and the sets Sk are measurable, is called a measurable simple function. We extend the integral by linearity to non-negative measurable simple functions. When the coefficients ak are non-negative, we set
+        ∫
+          (
+            ∑
+              k
+            a
+              k
+            1
+                S
+                  k
+          )
+        d
+        μ
+        =
+          ∑
+            k
+          a
+            k
+        ∫
+          1
+              S
+                k
+        d
+        μ
+        =
+          ∑
+            k
+          a
+            k
+        μ
+        (
+          S
+            k
+        )
+        .
+    {\displaystyle \int \left(\sum _{k}a_{k}1_{S_{k}}\right)\,d\mu =\sum _{k}a_{k}\int 1_{S_{k}}\,d\mu =\sum _{k}a_{k}\,\mu (S_{k}).}
+The convention 0 × ∞ = 0 must be used, and the result may be infinite. Even if a simple function can be written in many ways as a linear combination of indicator functions, the integral is always the same. This can be shown using the additivity property of measures.
+Some care is needed when defining the integral of a real-valued simple function, to avoid the undefined expression ∞ − ∞: one assumes that the representation
+        f
+        =
+          ∑
+            k
+          a
+            k
+          1
+              S
+                k
+    {\displaystyle f=\sum _{k}a_{k}1_{S_{k}}}
+is such that μ(Sk) < ∞ whenever ak ≠ 0. Then the above formula for the integral of f makes sense, and the result does not depend upon the particular representation of f satisfying the assumptions.
+If B is a measurable subset of E and s is a measurable simple function one defines
+          ∫
+            B
+        s
+        d
+        μ
+        =
+        ∫
+          1
+            B
+        s
+        d
+        μ
+        =
+          ∑
+            k
+          a
+            k
+        μ
+        (
+          S
+            k
+        ∩
+        B
+        )
+        .
+    {\displaystyle \int _{B}s\,d\mu =\int 1_{B}\,s\,d\mu =\sum _{k}a_{k}\,\mu (S_{k}\cap B).}
+Non-negative functions: Let f be a non-negative measurable function on E, which we allow to attain the value +∞, in other words, f takes non-negative values in the extended real number line. We define
+          ∫
+            E
+        f
+        d
+        μ
+        =
+        sup
+          {
+            ∫
+              E
+          s
+          d
+          μ
+          :
+          0
+          ≤
+          s
+          ≤
+          f
+          ,
+          s
+            simple
+          }
+        .
+    {\displaystyle \int _{E}f\,d\mu =\sup \left\{\,\int _{E}s\,d\mu :0\leq s\leq f,\ s\ {\text{simple}}\,\right\}.}
+We need to show this integral coincides with the preceding one, defined on the set of simple functions, when E  is a segment [a, b]. There is also the question of whether this corresponds in any way to a Riemann notion of integration. It is possible to prove that the answer to both questions is yes.
+We have defined the integral of f for any non-negative extended real-valued measurable function on E. For some functions, this integral  ∫E f dμ  is infinite.
+Signed functions: To handle signed functions, we need a few more definitions. If f is a measurable function of the set E to the reals (including ±∞), then we can write
+        f
+        =
+          f
+            +
+        −
+          f
+            −
+        ,
+    {\displaystyle f=f^{+}-f^{-},\quad }
+where
+          f
+            +
+        (
+        x
+        )
+        =
+          {
+                  f
+                  (
+                  x
+                  )
+                    if 
+                  f
+                  (
+                  x
+                  )
+                  >
+                  0
+                  0
+                    otherwise
+    {\displaystyle f^{+}(x)=\left\{{\begin{matrix}f(x)&{\text{if }}f(x)>0\\0&{\text{otherwise}}\end{matrix}}\right.}
+          f
+            −
+        (
+        x
+        )
+        =
+          {
+                  −
+                  f
+                  (
+                  x
+                  )
+                    if 
+                  f
+                  (
+                  x
+                  )
+                  <
+                  0
+                  0
+                    otherwise
+    {\displaystyle f^{-}(x)=\left\{{\begin{matrix}-f(x)&{\text{if }}f(x)<0\\0&{\text{otherwise}}\end{matrix}}\right.}
+Note that both f+ and f− are non-negative measurable functions. Also note that
+          |
+        f
+          |
+        =
+          f
+            +
+        +
+          f
+            −
+        .
+    {\displaystyle |f|=f^{+}+f^{-}.\quad }
+We say that the Lebesgue integral of the measurable function f exists, or is defined if at least one of 
+        ∫
+          f
+            +
+        d
+        μ
+    {\displaystyle \int f^{+}\,d\mu }
+   and 
+        ∫
+          f
+            −
+        d
+        μ
+    {\displaystyle \int f^{-}\,d\mu }
+   is finite:
+        min
+          (
+          ∫
+            f
+              +
+          d
+          μ
+          ,
+          ∫
+            f
+              −
+          d
+          μ
+          )
+        <
+        ∞
+        .
+    {\displaystyle \min \left(\int f^{+}\,d\mu ,\int f^{-}\,d\mu \right)<\infty .}
+In this case we define
+        ∫
+        f
+        d
+        μ
+        =
+        ∫
+          f
+            +
+        d
+        μ
+        −
+        ∫
+          f
+            −
+        d
+        μ
+        .
+    {\displaystyle \int f\,d\mu =\int f^{+}\,d\mu -\int f^{-}\,d\mu .}
+If
+        ∫
+          |
+        f
+          |
+        d
+        μ
+        <
+        ∞
+        ,
+    {\displaystyle \int |f|\,d\mu <\infty ,}
+we say that f is Lebesgue integrable.
+It turns out that this definition gives the desirable properties of the integral.
+Complex valued functions can be similarly integrated, by considering the real part and the imaginary part separately.
+If h=f+ig for real-valued integrable functions f, g, then the integral of h is defined by
+        ∫
+        h
+        d
+        μ
+        =
+        ∫
+        f
+        d
+        μ
+        +
+        i
+        ∫
+        g
+        d
+        μ
+        .
+    {\displaystyle \int h\,d\mu =\int f\,d\mu +i\int g\,d\mu .}
+Consider the indicator function of the rational numbers, 1Q. This function is nowhere continuous.
+          1
+              Q
+    {\displaystyle 1_{\mathbf {Q} }}
+   is not Riemann-integrable on [0, 1]: No matter how the set [0, 1] is partitioned into subintervals, each partition contains at least one rational and at least one irrational number, because rationals and irrationals are both dense in the reals. Thus the upper Darboux sums are all one, and the lower Darboux sums are all zero.
+          1
+              Q
+    {\displaystyle 1_{\mathbf {Q} }}
+   is Lebesgue-integrable on [0, 1] using the Lebesgue measure: Indeed, it is the indicator function of the rationals so by definition
+          ∫
+            [
+            0
+            ,
+            1
+            ]
+          1
+              Q
+        d
+        μ
+        =
+        μ
+        (
+          Q
+        ∩
+        [
+        0
+        ,
+        1
+        ]
+        )
+        =
+        0
+        ,
+    {\displaystyle \int _{[0,1]}1_{\mathbf {Q} }\,d\mu =\mu (\mathbf {Q} \cap [0,1])=0,}
+because Q is countable.
+A technical issue in Lebesgue integration is that the domain of integration is defined as a set (a subset of a measure space), with no notion of orientation. In elementary calculus, one defines integration with respect to an orientation:
+          ∫
+            b
+            a
+        f
+        :=
+        −
+          ∫
+            a
+            b
+        f
+        .
+    {\displaystyle \int _{b}^{a}f:=-\int _{a}^{b}f.}
+Generalizing this to higher dimensions yields integration of differential forms. By contrast, Lebesgue integration provides an alternative generalization, integrating over subsets with respect to a measure; this can be notated as
+          ∫
+            A
+        f
+        d
+        μ
+        =
+          ∫
+            [
+            a
+            ,
+            b
+            ]
+        f
+        d
+        μ
+    {\displaystyle \int _{A}f\,d\mu =\int _{[a,b]}f\,d\mu }
+to indicate integration over a subset A. For details on the relation between these generalizations, see Differential form § Relation with measures.
+Here we discuss the limitations of the Riemann integral and the greater scope offered by the Lebesgue integral. This discussion presumes a working understanding of the Riemann integral.
+With the advent of Fourier series, many analytical problems involving integrals came up whose satisfactory solution required interchanging limit processes and integral signs. However, the conditions under which the integrals
+          ∑
+            k
+        ∫
+          f
+            k
+        (
+        x
+        )
+        d
+        x
+        ,
+        ∫
+          [
+            ∑
+              k
+            f
+              k
+          (
+          x
+          )
+          ]
+        d
+        x
+    {\displaystyle \sum _{k}\int f_{k}(x)dx,\quad \int \left[\sum _{k}f_{k}(x)\right]dx}
+are equal proved quite elusive in the Riemann framework. There are some other technical difficulties with the Riemann integral. These are linked with the limit-taking difficulty discussed above.
+Failure of monotone convergence. As shown above, the indicator function 1Q on the rationals is not Riemann integrable. In particular, the Monotone convergence theorem fails. To see why, let {ak} be an enumeration of all the rational numbers in [0, 1] (they are countable so this can be done.) Then let
+          g
+            k
+        (
+        x
+        )
+        =
+          {
+                  1
+                    if 
+                  x
+                  =
+                    a
+                      j
+                  ,
+                  j
+                  ≤
+                  k
+                  0
+                    otherwise
+    {\displaystyle g_{k}(x)=\left\{{\begin{matrix}1&{\text{if }}x=a_{j},j\leq k\\0&{\text{otherwise}}\end{matrix}}\right.}
+The function gk is zero everywhere, except on a finite set of points. Hence its Riemann integral is zero. Each gk is non-negative, and this sequence of functions is monotonically increasing, but its limit as k → ∞ is 1Q, which is not Riemann integrable.
+Unsuitability for unbounded intervals. The Riemann integral can only integrate functions on a bounded interval. It can however be extended to unbounded intervals by taking limits, so long as this doesn't yield an answer such as ∞ − ∞.
+Integrating on structures other than Euclidean space. The Riemann integral is inextricably linked to the order structure of the real line.
+The Lebesgue integral does not distinguish between functions that differ only on a set of μ-measure zero. To make this precise, functions f and g are said to be equal almost everywhere (a.e.) if
+        μ
+        (
+        {
+        x
+        ∈
+        E
+        :
+        f
+        (
+        x
+        )
+        ≠
+        g
+        (
+        x
+        )
+        }
+        )
+        =
+        0.
+    {\displaystyle \mu (\{x\in E:f(x)\neq g(x)\})=0.}
+If f, g are non-negative measurable functions (possibly assuming the value +∞) such that f = g almost everywhere, then
+        ∫
+        f
+        d
+        μ
+        =
+        ∫
+        g
+        d
+        μ
+        .
+    {\displaystyle \int f\,d\mu =\int g\,d\mu .}
+To wit, the integral respects the equivalence relation of almost-everywhere equality.
+If f, g are functions such that f = g almost everywhere, then f is Lebesgue integrable if and only if g is Lebesgue integrable, and the integrals of f and g are the same if they exist.
+The Lebesgue integral has the following properties:
+Linearity: If f and g are Lebesgue integrable functions and a and b are real numbers, then af + bg is Lebesgue integrable and
+        ∫
+        (
+        a
+        f
+        +
+        b
+        g
+        )
+        d
+        μ
+        =
+        a
+        ∫
+        f
+        d
+        μ
+        +
+        b
+        ∫
+        g
+        d
+        μ
+        .
+    {\displaystyle \int (af+bg)\,d\mu =a\int f\,d\mu +b\int g\,d\mu .}
+Monotonicity: If f ≤ g, then
+        ∫
+        f
+        d
+        μ
+        ≤
+        ∫
+        g
+        d
+        μ
+        .
+    {\displaystyle \int f\,d\mu \leq \int g\,d\mu .}
+Monotone convergence theorem: Suppose { fk}k ∈ ℕ is a sequence of non-negative measurable functions such that
+          f
+            k
+        (
+        x
+        )
+        ≤
+          f
+            k
+            +
+            1
+        (
+        x
+        )
+        ∀
+        k
+        ∈
+          N
+        ,
+        ∀
+        x
+        ∈
+        E
+        .
+    {\displaystyle f_{k}(x)\leq f_{k+1}(x)\quad \forall k\in \mathbb {N} ,\,\forall x\in E.}
+Then, the pointwise limit f of fk is Lebesgue measurable and
+          lim
+            k
+        ∫
+          f
+            k
+        d
+        μ
+        =
+        ∫
+        f
+        d
+        μ
+        .
+    {\displaystyle \lim _{k}\int f_{k}\,d\mu =\int f\,d\mu .}
+The value of any of the integrals is allowed to be infinite.
+Fatou's lemma: If { fk}k ∈ N is a sequence of non-negative measurable functions, then
+        ∫
+          lim inf
+            k
+          f
+            k
+        d
+        μ
+        ≤
+          lim inf
+            k
+        ∫
+          f
+            k
+        d
+        μ
+        .
+    {\displaystyle \int \liminf _{k}f_{k}\,d\mu \leq \liminf _{k}\int f_{k}\,d\mu .}
+Again, the value of any of the integrals may be infinite.
+Dominated convergence theorem: Suppose { fk}k ∈ N is a sequence of complex measurable functions with pointwise limit f, and there is a Lebesgue integrable function g (i.e., g belongs to the space L1) such that | fk | ≤ g for all k.
+Then, f is Lebesgue integrable and
+          lim
+            k
+        ∫
+          f
+            k
+        d
+        μ
+        =
+        ∫
+        f
+        d
+        μ
+        .
+    {\displaystyle \lim _{k}\int f_{k}\,d\mu =\int f\,d\mu .}
+To illustrate some of the proof techniques used in Lebesgue integration theory, we sketch a proof of the above-mentioned Lebesgue monotone convergence theorem. Let { fk}k ∈ N be a non-decreasing sequence of non-negative measurable functions and put
+        f
+        =
+          sup
+            k
+            ∈
+              N
+          f
+            k
+        =
+          lim
+            k
+            ∈
+              N
+          f
+            k
+        .
+    {\displaystyle f=\sup _{k\in \mathbb {N} }f_{k}=\lim _{k\in \mathbb {N} }f_{k}.}
+By the monotonicity property of the integral, it is immediate that:
+        ∫
+        f
+        d
+        μ
+        ≥
+          lim
+            k
+        ∫
+          f
+            k
+        d
+        μ
+    {\displaystyle \int f\,d\mu \geq \lim _{k}\int f_{k}\,d\mu }
+and the limit on the right exists, because the sequence is monotonic. We now prove the inequality in the other direction. It follows from the definition of integral that there is a non-decreasing sequence (gn) of non-negative simple functions such that gn ≤ f  and
+          lim
+            n
+        ∫
+          g
+            n
+        d
+        μ
+        =
+        ∫
+        f
+        d
+        μ
+        .
+    {\displaystyle \lim _{n}\int g_{n}\,d\mu =\int f\,d\mu .}
+Therefore, it suffices to prove that for each n ∈ ℕ,
+        ∫
+          g
+            n
+        d
+        μ
+        ≤
+          lim
+            k
+        ∫
+          f
+            k
+        d
+        μ
+        .
+    {\displaystyle \int g_{n}\,d\mu \leq \lim _{k}\int f_{k}\,d\mu .}
+We will show that if g is a simple function and
+          lim
+            k
+          f
+            k
+        (
+        x
+        )
+        ≥
+        g
+        (
+        x
+        )
+    {\displaystyle \lim _{k}f_{k}(x)\geq g(x)}
+almost everywhere, then
+          lim
+            k
+        ∫
+          f
+            k
+        d
+        μ
+        ≥
+        ∫
+        g
+        d
+        μ
+        .
+    {\displaystyle \lim _{k}\int f_{k}\,d\mu \geq \int g\,d\mu .}
+By breaking up the function g into its constant value parts, this reduces to the case in which g is the indicator function of a set. The result we have to prove is then
+Suppose A is a measurable set and { fk}k ∈ ℕ is a nondecreasing sequence of non-negative measurable functions on E such that
+          lim
+            k
+          f
+            k
+        (
+        x
+        )
+        ≥
+        1
+    {\displaystyle \lim _{k}f_{k}(x)\geq 1}
+for almost all x ∈ A. Then
+          lim
+            k
+        ∫
+          f
+            k
+        d
+        μ
+        ≥
+        μ
+        (
+        A
+        )
+        .
+    {\displaystyle \lim _{k}\int f_{k}\,d\mu \geq \mu (A).}
+To prove this result, fix ε > 0 and define the sequence of measurable sets
+          B
+            k
+        =
+        {
+        x
+        ∈
+        A
+        :
+          f
+            k
+        (
+        x
+        )
+        ≥
+        1
+        −
+        ε
+        }
+        .
+    {\displaystyle B_{k}=\{x\in A:f_{k}(x)\geq 1-\varepsilon \}.}
+By monotonicity of the integral, it follows that for any k ∈ ℕ,
+        (
+        1
+        −
+        ε
+        )
+        μ
+        (
+          B
+            k
+        )
+        =
+        ∫
+        (
+        1
+        −
+        ε
+        )
+          1
+              B
+                k
+        d
+        μ
+        ≤
+        ∫
+          f
+            k
+        d
+        μ
+    {\displaystyle (1-\varepsilon )\mu (B_{k})=\int (1-\varepsilon )1_{B_{k}}\,d\mu \leq \int f_{k}\,d\mu }
+Because almost every x is in Bk for large enough k, we have
+          ⋃
+            k
+          B
+            k
+        =
+        A
+        ,
+    {\displaystyle \bigcup _{k}B_{k}=A,}
+up to a set of measure 0. Thus by countable additivity of μ, and because Bk increases with k,
+        μ
+        (
+        A
+        )
+        =
+          lim
+            k
+        μ
+        (
+          B
+            k
+        )
+        ≤
+          lim
+            k
+        (
+        1
+        −
+        ε
+          )
+            −
+            1
+        ∫
+          f
+            k
+        d
+        μ
+        .
+    {\displaystyle \mu (A)=\lim _{k}\mu (B_{k})\leq \lim _{k}(1-\varepsilon )^{-1}\int f_{k}\,d\mu .}
+As this is true for any positive ε the result follows.
+For another Proof of the Monotone Convergence Theorem, we follow:
+Let (X, M, μ) be a measure space.
+{ fn} is an increasing sequence of numbers, therefore its limit exists, even if it is equal to ∞. We know that
+        ∫
+          f
+            n
+        ≤
+        ∫
+        f
+    {\displaystyle \int f_{n}\leq \int f}
+for all n, so that
+          lim
+            n
+            →
+            ∞
+        ∫
+          f
+            n
+        ≤
+        ∫
+        f
+    {\displaystyle \lim \limits _{n\rightarrow \infty }\int f_{n}\leq \int f}
+  .
+Now we need to establish the reverse inequality. Fix α ∈ (0, 1), let ϕ be a simple function with 0 ≤ ϕ ≤ f and let
+          E
+            n
+        =
+        {
+        x
+        :
+          f
+            n
+        (
+        x
+        )
+        ≥
+        α
+        ϕ
+        (
+        x
+        )
+        }
+    {\displaystyle E_{n}=\{x:f_{n}(x)\geq \alpha \phi (x)\}}
+  .
+Then {En} is an increasing sequence of measurable sets with 
+          ⋃
+            ∞
+          E
+            n
+        =
+        X
+    {\displaystyle \bigcup \limits ^{\infty }E_{n}=X}
+  . We know that
+        ∫
+          f
+            n
+        ≥
+          ∫
+              E
+                n
+          f
+            n
+        ≥
+        α
+          ∫
+              E
+                n
+        ϕ
+    {\displaystyle \int f_{n}\geq \int \limits _{E_{n}}f_{n}\geq \alpha \int \limits _{E_{n}}\phi }
+  .
+This is true for all n, including the limit:
+        lim
+          ∫
+              E
+                n
+        ϕ
+        =
+        ∫
+        ϕ
+    {\displaystyle \lim \int \limits _{E_{n}}\phi =\int \phi }
+  .
+Hence,
+        lim
+        ∫
+          f
+            n
+        ≥
+        α
+        ∫
+        ϕ
+    {\displaystyle \lim \int f_{n}\geq \alpha \int \phi }
+  .
+This was true for all α ∈ (0, 1), so it remains true for α = 1, and taking the supremum over simple ϕ ≤ f by the definition of integration in L+,
+        lim
+        ∫
+          f
+            n
+        ≥
+        ∫
+        f
+    {\displaystyle \lim \int f_{n}\geq \int f}
+  .
+Now we have both inequalities, so we've shown the Monotone Convergence theorem:
+        lim
+        ∫
+          f
+            n
+        =
+        ∫
+        f
+    {\displaystyle \lim \int f_{n}=\int f}
+for f{n+1} ≥ fn, and fn → f pointwise, {fn} ∈ L+, the set of positive measurable functions from X → [0, ∞].
+It is possible to develop the integral with respect to the Lebesgue measure without relying on the full machinery of measure theory. One such approach is provided by the Daniell integral.
+There is also an alternative approach to developing the theory of integration via methods of functional analysis. The Riemann integral exists for any continuous function f of compact support defined on ℝn (or a fixed open subset). Integrals of more general functions can be built starting from these integrals.
+Let Cc be the space of all real-valued compactly supported continuous functions of ℝ. Define a norm on Cc by
+          ∥
+          f
+          ∥
+        =
+        ∫
+          |
+        f
+        (
+        x
+        )
+          |
+        d
+        x
+        .
+    {\displaystyle \left\|f\right\|=\int |f(x)|\,dx.}
+Then Cc is a normed vector space (and in particular, it is a metric space.) All metric spaces have Hausdorff completions, so let L1 be its completion. This space is isomorphic to the space of Lebesgue integrable functions modulo the subspace of functions with integral zero. Furthermore, the Riemann integral ∫ is a uniformly continuous functional with respect to the norm on Cc, which is dense in L1. Hence ∫ has a unique extension to all of L1. This integral is precisely the Lebesgue integral.
+More generally, when the measure space on which the functions are defined is also a locally compact topological space (as is the case with the real numbers ℝ), measures compatible with the topology in a suitable sense (Radon measures, of which the Lebesgue measure is an example) an integral with respect to them can be defined in the same manner, starting from the integrals of continuous functions with compact support. More precisely, the compactly supported functions form a vector space that carries a natural topology, and a (Radon) measure is defined as a continuous linear functional on this space. The value of a measure at a compactly supported function is then also by definition the integral of the function. One then proceeds to expand the measure (the integral) to more general functions by continuity, and defines the measure of a set as the integral of its indicator function. This is the approach taken by Bourbaki (2004) and a certain number of other authors. For details see Radon measures.
+The main purpose of Lebesgue integral is to provide an integral notion where limits of integrals hold under mild assumptions. There is no guarantee that every function is Lebesgue integrable. But it may happen that improper integrals exist for functions that are not Lebesgue integrable. One example would be
+              sin
+              ⁡
+              (
+              x
+              )
+            x
+    {\displaystyle {\frac {\sin(x)}{x}}}
+over the entire real line. This function is not Lebesgue integrable, as
+          ∫
+            −
+            ∞
+            ∞
+          |
+                sin
+                ⁡
+                (
+                x
+                )
+              x
+          |
+        d
+        x
+        =
+        ∞
+        .
+    {\displaystyle \int _{-\infty }^{\infty }\left|{\frac {\sin(x)}{x}}\right|dx=\infty .}
+On the other hand, 
+          ∫
+            −
+            ∞
+            ∞
+              sin
+              ⁡
+              (
+              x
+              )
+            x
+        d
+        x
+    {\displaystyle \int _{-\infty }^{\infty }{\frac {\sin(x)}{x}}dx}
+   exists as an improper integral and can be computed to be finite; it is twice the Dirichlet integral.
+Henri Lebesgue, for a non-technical description of Lebesgue integration
+Null set
+Integration
+Measure
+Sigma-algebra
+Lebesgue space
+Lebesgue–Stieltjes integration
+Henstock–Kurzweil integral

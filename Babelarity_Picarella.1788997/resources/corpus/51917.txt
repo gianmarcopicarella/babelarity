@@ -1,0 +1,185 @@
+Akai (Chinese: 雅佳; pinyin: Yǎjiā, Japanese: Akai in rōmaji) is a consumer electronics brand, now headquartered in Singapore. At its peak in the late 1990s, Akai Holdings employed 100,000 workers and had annual sales of HK$40 billion (US$5.2 billion), but it collapsed in 2000 owing creditors US$1,100m. In addition to some development of musical instruments, the Akai brand name is also used to rebadge electronics manufactured by other companies. "Akai" means red, hence the logo color, earlier also accompanied by a red dot.
+Akai was founded by Masukichi Akai and his son, Saburo Akai (who died in 1973) as Akai Electric Company Ltd. (赤井電機株式会社, Akai Denki Kabushiki-gaisha), a Japanese manufacturer in 1929 or 1946. At its peak in the late 1990s, Akai Holdings employed 100,000 workers and had annual sales of HK$40 billion (US$5.2 billion), but it collapsed in 2000 owing creditors US$1.1B. It emerged that ownership of Akai Holdings had somehow passed in 1999 to Grande Holdings, a company founded by Akai's chairman James Ting. The liquidators claimed that Ting had stolen over US$800m from the company with the assistance of accountants Ernst & Young who had tampered with audit documents going back to 1994. Ting was imprisoned for false accounting in 2005, and E&Y paid $200m to settle the negligence case out of court in September 2009. In a separate lawsuit, a former E&Y partner, Cristopher Ho, made a "substantial payment" to Akai creditors in his role as chairman of Grande Holdings.
+Akai's products included reel-to-reel audiotape recorders (such as the GX series), tuners (top level AT, mid level TR and TT series), audio cassette decks (top level GX and TFL, mid level TC, HX and CS series), amplifiers (AM and TA series), microphones, receivers, turntables, video recorders and loudspeakers.
+Many Akai products were sold under the name Roberts in the US, as well as A&D in Japan, Tensai and Transonic Strato in Western Europe. During the late 1960s, Akai adopted Tandberg's cross-field recording technologies (using an extra tape head) to enhance high frequency recording and switched to the increasingly reliable Glass and crystal (X'tal) (GX) ferrite heads a few years later. The company's most popular products were the GX-630D, GX-635D, GX-747/GX-747DBX and GX-77 open-reel recorders (latter featuring an auto-loading function), the three-head, closed-loop GX-F95, GX-90, GX-F91, GX-R99 cassette decks, and the AM-U61, AM-U7 and AM-93 stereo amplifiers.
+Akai manufactured and badged most of its imported hi-fi products with the Tensai brand (named after the Swiss audio and electronics distributor Tensai International. Tensai International was Akai's exclusive distributor for the Swiss and Western European markets until 1988.
+Akai limited its consumer hi-fi product line in the United States and Europe towards the end of the 20th century.
+Akai produced consumer video cassette recorders (VCR) during the 1980s. The Akai VS-2 was the first VCR with an on-screen display, originally named the Interactive Monitor System. By displaying the information directly on the television screen, this innovation eliminated the need for the user to be physically near the VCR to program recording, read the tape counter, or perform other common features. Within a few years, all competing manufacturers had adopted on-screen display technology in their own products.
+In 1984, a new division of the company was formed to focus on the manufacture and sale of electronic instruments, and was called Akai Professional.
+The first product released by the new subsidiary was MG1212, a 12 channel, 12 track recorder in 1984. This innovative device used a special VHS-like cartridge (a MK-20), and was good for 10 minutes of continuous 12 track recording (19 cm per second) or 20 minutes at half speed (9.5 cm per second). One track (14) was permanently dedicated to recording absolute time, and another one for synchronization such as SMPTE or MTC. Each channel strip included dbx type-1 noise reduction and semi-parametric equalizers (with fixed bandwidths). The unit also had innovations like an electronic 2 bus system, a 12 stereo channel patch bay and auto punch in and out, among others. The unique transport design and noise reduction gave these units a recording quality rivaling that of more expensive 16 track machines using 1" tape. The MG-1212 was later replaced by the MG-1214, which improved the transport mechanism and overall performance.
+Other early products included the Akai AX80 8-voice analog synthesizer in 1984, followed by AX60 and AX73 6-voice analog synthesizers ca.1986. The AX-60 borrowed many ideas from the Roland Juno series, but used voltage controlled analog oscillators (VCO) as a sound source as opposed to Roland's more common digitally controlled analog oscillators (DCO), and also allowed the performer to "split" the keyboard (using different timbres for different ranges of keys). The AX-60 also had the ability to interface with Akai's early samplers through a serial cable, using 12-bit samples as an additional oscillator.
+The S612 12-bit digital sampler in 1985, was the first in a series of (relatively) affordable samplers already in 19-inch studio-rack format but in black color. It held only a single sample at a time, which was loaded into memory via a separate disk drive utilizing Quick Disk 2.8-inch floppy disks. The maximum sample time at the highest quality sampling rate (32 kHz) was one second.
+The introduction of a "professional" range of digital samplers began with the 12-bit S900 in 1986, followed by the X7000 keyboard sampler in 1986, and the S700 rack-mount version in 1987. Unlike the single-sample S612, however, they allowed the use of six active samples at once, had a built-in disk drive and could be extended with six individual outputs via cable and a flash memory extension which added another six samples to the memory for multisample playback. The S700/X7000 sampler series were light-grey colored, which didn't change throughout the whole "professional" range of Akai samplers.
+The 16-bit Akai S1000 followed in 1988. The latter was replaced by the S3000 series in 1992–1995, which notably featured a writeable CD-ROM (on S3000CD) and hard disk recording (on S3000i), and was followed by the S5000 and S6000. Additional releases of note were the Z4 and Z8 24-bit 96 kHz samplers.
+Akai also produced several Digital MIDI sequencers and digital synthesizers such as the MPC range (Music Production Center), a line of integrated drum machines, MIDI sequencers, samplers and direct-to-disk recorders that resemble drum machines.
+In December 1999, one year before the application of Civil Rehabilitation Act to Akai Electric Company Ltd., the brand of their musical instrument division, Akai Professional was acquired by a company of the United States. The new company “Akai Professional Musical Instrument Corporation” (AKAI professional M.I.) was established in the same year, however it was bankrupted in 2005.
+In 2004, following a US distribution deal, the Akai Professional Musical Instrument division was acquired by Jack O'Donnell, owner of Numark Industries and Alesis. Numark, including Akai Professional, was acquired in 2012 by inMusic Brands.
+An Akai Professional product that is somewhat sought after in current times is the model DM13 microphone. This small, unidirectional unit was originally made for tape recorders, as well as CB radio equipment. Today, they can be found in the arsenal of many blues harmonica players due to its high gain and high impedance properties.
+In early 2003, the consumer electronics company began undergoing a re-exposure by marketing various rebranded video products manufactured by Samsung. In the same year, Akai began to distribute home appliances such as HVAC units, vacuum cleaners, water filtration devices, and refrigerated store showcases.
+In Canada, Akai portable DVD players were sold at 'The Source by Circuit City', and at Zellers, a division of the Hudson's Bay Company.
+AV receivers
+Portable DVD players
+DVD players
+DVD recorders
+Home theatre systems
+Home theatre Speakers
+VCD players
+VCRs
+Amplifiers
+Cassette receivers
+CD changers
+CD receivers
+DVD changers
+DVD receivers
+Car Audio - DVD players
+Car Audio - Speakers
+Car Audio - TFT monitors
+Air conditioners
+Air coolers
+Air purifiers
+Chest freezers
+Dishwashers
+Heaters
+Ice makers
+Microwave ovens
+Refrigerators
+Showcases
+Vacuum cleaners
+Washing machines
+Water dispensers
+Wine cellars
+Stereo rack systems
+Mini systems
+Micro music players
+Retro radios
+Sound boxes
+Portable music players
+Tape Deck
+Wireless Surround Sound Systems
+Bluetooth
+MP3 player
+Mobile phones
+Color televisions
+LCD televisions
+Plasma television
+Set-top boxes
+Akai Professional, a division of Numark Industries (based in Rhode Island, United States) since 2004, is currently not affiliated with Akai (a consumer audio and television brand).
+AX60 (c.1986) - discontinued
+AX73 (c.1986) - discontinued
+AX80 (1984) - discontinued
+VX90 (c.1986) - rack-mount version of AX73, discontinued
+VX600 (c.1988) - 3 oct. keyboard synthesizer with EWI connection jack, discontinued
+MINIAK - discontinued
+REMIX16 (1995) - table-top phrase sampler, discontinued
+S01 (1992) - discontinued
+S20 - discontinued
+S612 (1985) - discontinued
+S700 (1987) - discontinued
+S900 (1986) - discontinued
+S950 - discontinued
+S1000 (1988) - discontinued
+S1100 (1990) - discontinued
+S2000 - discontinued
+S2800 (1992) - discontinued
+S3000 (1992) - discontinued
+CD3000 (1993) - discontinued
+S3000XL - discontinued
+S3200 (1992) - discontinued
+S3200XL - discontinued
+S5000 - discontinued
+S6000 - discontinued
+X3700 (c.1986) - discontinued
+X7000 (c.1986) - discontinued
+Z4 (2002) - discontinued
+Z8 (2002) - discontinued
+MPC - product category
+MPC60 (1987) - MIDI Production Center, discontinued
+MPC60II - (1991) - discontinued
+MPC3000 (1993) - discontinued
+MPC3000LE (1999) - discontinued
+MPC2000 (1997) - discontinued
+MPC2000XL (1999) - discontinued
+MPC4000 (2002) - discontinued
+MPC1000 (2003) - discontinued
+MPC500 (2006) - discontinued
+MPC2500 (2005) - discontinued
+MPC5000 (2008)- discontinued
+MPC Renaissance (2012)
+MPC Studio (2012)
+MPC Element(2013)
+MPC Touch(2015)
+EIE (2011)
+EIE PRO (2011)
+MR16 (c.1985)
+XR20 (2008)
+EVI1000 (1987) - Electronic Valve Instruments, discontinued
+EWI1000 (1987) - Electronic Wind Instruments, discontinued
+EWI4000S (2005)
+EWI-USB (2008)
+EWI5000 (2014)
+DP88 (1993) - digital audio patchbay, discontinued
+AR900 (1986-89) - 16-bit MIDI Digital Reverb, discontinued
+MFC42 (2001) - filter bank, discontinued
+HV10 Harmony generator (2002)
+VST Plug-ins (2002)
+Analog Delay
+Blues Overdrive
+Chorus
+Compressor
+Deluxe Distortion
+Drive3 Distortion
+Drive3 Fuzz
+Drive3 Overdrive
+E2 Head Rush
+Flanger
+Phase Shifter
+SynthStation25
+SynthStation49
+AkaiMPC Fly (2012)
+MS08 (c.1985) - discontinued
+ASQ10 (c.1986/7) - discontinued
+MG1212 (1984) - discontinued
+MG1214 (c.1985) - discontinued
+DR1200/DL1200 (1988) - discontinued
+DD1000 (1990) - discontinued
+DD/DL1500 (1994) - 16-track DAW, discontinued
+DD8 (1996) - discontinued
+DD8plus (1998) - discontinued
+DR4D (1993) - discontinued
+DR8 (1994) - discontinued
+DR16 (1995) - discontinued
+DPS12 (1997) - discontinued
+DPS16 (1999) - discontinued
+DPS24 (2002) - discontinued
+DPS24MKII - discontinued
+RE32 (1999) - controller for DD/DR series, discontinued
+RPM3
+RPM8 - discontinued
+APC20
+APC40
+EWI-USB
+LPD8 (2009)
+LPK25 (2009)
+MPD16 (2002) - discontinued
+MPD18 - discontinued
+MPD24 (2006)- discontinued
+MPD26(2010)
+MPD32(2008)
+MPK25 (2009)
+MPK49 (2007)
+MPK49 V2 (2007)
+MPK61 (2009)
+MPK88 (2009)
+MPKMINI
+Ableton Push (2013)
+MPKMINI MK II (2014)
+MPK225 (2014)
+MPK249 (2014)
+MPK261 (2014)
+MAX25 (2014)
+MAX49 (2014)
+MX76 MIDI Master Keyboard (1987)
+Ableton Push 2 (2015)
+1/4 inch Akai VTRs
+Akai VK (videocassette format) VTRs
+List of phonograph manufacturers

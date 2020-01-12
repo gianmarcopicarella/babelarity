@@ -1,0 +1,27 @@
+In computer programming, event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or messages from other programs/threads. Event-driven programming is the dominant paradigm used in graphical user interfaces and other applications (e.g. JavaScript web applications) that are centered on performing certain actions in response to user input.
+In an event-driven application, there is generally a main loop that listens for events, and then triggers a callback function when one of those events is detected. In embedded systems the same may be achieved using hardware interrupts instead of a constantly running main loop. Event-driven programs can be written in any programming language, although the task is easier in languages that provide high-level abstractions, such as closures.
+Because the code for checking for events and the main loop do not depend on the application, many programming frameworks take care of their implementation and expect the user to provide only the code for the event handlers. In this simple example there may be a call to an event handler called OnKeyEnter() that includes an argument with a string of characters, corresponding to what the user typed before hitting the ENTER key. To add two numbers, storage outside the event handler must be used. The implementation might look like below.
+While keeping track of history is straightforward in a batch program, it requires special attention and planning in an event-driven program.
+In PL/1, even though a program itself may not be predominantly event-driven, certain abnormal events such as a hardware error, overflow or "program checks" may occur that possibly prevent further processing. Exception handlers may be provided by "ON statements" in (unseen) callers to provide housekeeping routines to clean up afterwards before termination.
+The first step in developing an event-driven program is to write a series of subroutines, or methods, called event-handler routines. These routines handle the events to which the main program will respond. For example, a single left-button mouse-click on a command button in a GUI program may trigger a routine that will open another window, save data to a database or exit the application. Many modern-day programming environments provide the programmer with event templates, allowing the programmer to focus on writing the event code.
+The second step is to bind event handlers to events so that the correct function is called when the event takes place. Graphical editors combine the first two steps: double-click on a button, and the editor creates an (empty) event handler associated with the user clicking the button and opens a text window so you can edit the event handler.
+The third step in developing an event-driven program is to write the main loop. This is a function that checks for the occurrence of events, and then calls the matching event handler to process it. Most event-driven programming environments already provide this main loop, so it need not be specifically provided by the application programmer. RPG, an early programming language from IBM, whose 1960s design concept was similar to event-driven programming discussed above, provided a built-in main I/O loop (known as the "program cycle") where the calculations responded in accordance to 'indicators' (flags) that were set earlier in the cycle.
+Most of existing GUI development tools and architectures rely on event-driven programming.
+In addition, systems such as Node.js are also event-driven
+The design of those programs which rely on event-action model, has been criticised, and it has been suggested that event-action model leads programmers to create error prone, difficult to extend and excessively complex application code. Table-driven state machines have been advocated as a viable alternative. On the other hand, state machines themselves suffer from significant weaknesses including "state explosion" phenomenon
+An event-driven approach is used in hardware description languages. A thread context only needs a CPU stack while actively processing an event, once done the CPU can move on to process other event-driven threads, which allows an extremely large number of threads to be handled. This is essentially a finite-state machine approach.
+Time-triggered system (an alternative architecture for computer systems)
+Interrupt
+Comparison of programming paradigms
+Dataflow programming (a similar concept)
+DOM events
+Event-driven architecture
+Event stream processing (a similar concept)
+Hardware description language
+Inversion of control
+Message-oriented middleware
+Programming paradigm
+Publish–subscribe pattern
+Signal programming (a similar concept)
+Staged event-driven architecture (SEDA)
+Virtual synchrony, a distributed execution model for event-driven programming

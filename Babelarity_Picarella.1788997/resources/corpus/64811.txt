@@ -1,0 +1,13 @@
+Frigyes Riesz (Hungarian: Riesz Frigyes, Hungarian pronunciation: [ˈriːs ˈfriɟɛʃ]; 22 January 1880 – 28 February 1956) was a Hungarian mathematician who made fundamental contributions to functional analysis.
+He was born into a Jewish family in Győr, Kingdom of Hungary, Austria-Hungary and died in Budapest, Hungary. Between 1911 and 1919 he was a professor at the Franz Joseph University in Kolozsvár, Austria-Hungary. Then, he was the rector and a professor at the University of Szeged, as well as a member of the Hungarian Academy of Sciences. He was the older brother of the mathematician Marcel Riesz.
+Riesz did some of the fundamental work in developing functional analysis and his work has had a number of important applications in physics. He established the spectral theory for bounded symmetric operators in a form very much like that now regarded as standard. He also made many contributions to other areas including ergodic theory and he gave an elementary proof of the mean ergodic theorem.
+Riesz founded the Acta Scientiarum Mathematicarum journal together with Alfréd Haar.
+He had an uncommon method of giving lectures: he entered the lecture hall with an assistant and a docent. The docent then began reading the proper passages from Riesz's handbook and the assistant inscribed the appropriate equations on the blackboard—while Riesz himself stood aside, nodding occasionally.
+Denjoy–Riesz theorem
+Riesz representation theorem
+F. and M. Riesz theorem
+Proximity space
+Riesz-Fischer theorem
+Riesz space
+Radon-Riesz property
+Riesz's lemma

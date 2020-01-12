@@ -1,0 +1,217 @@
+In mathematics, an abelian category is a category in which morphisms and objects can be added and in which kernels and cokernels exist and have desirable properties. The motivating prototype example of an abelian category is the category of abelian groups, Ab. The theory originated in an effort to unify several cohomology theories by Alexander Grothendieck and independently in the slightly earlier work of David Buchsbaum. Abelian categories are very stable categories, for example they are regular and they satisfy the snake lemma. The class of Abelian categories is closed under several categorical constructions, for example, the category of chain complexes of an Abelian category, or the category of functors from a small category to an Abelian category are Abelian as well. These stability properties make them inevitable in homological algebra and beyond; the theory has major applications in algebraic geometry, cohomology and pure category theory. Abelian categories are named for Niels Henrik Abel.
+A category is abelian if
+it has a zero object,
+it has all binary products and binary coproducts,
+it has all kernels and cokernels, and
+all monomorphisms and epimorphisms are normal.
+This definition is equivalent to the following "piecemeal" definition:
+A category is preadditive if it is enriched over the monoidal category Ab of abelian groups. This means that all hom-sets are abelian groups and the composition of morphisms is bilinear.
+A preadditive category is additive if every finite set of objects has a biproduct. This means that we can form finite direct sums and direct products. In  Def. 1.2.6, it is required that an additive category has a zero object (empty biproduct).
+An additive category is preabelian if every morphism has both a kernel and a cokernel.
+Finally, a preabelian category is abelian if every monomorphism and every epimorphism is normal. This means that every monomorphism is a kernel of some morphism, and every epimorphism is a cokernel of some morphism.
+Note that the enriched structure on hom-sets is a consequence of the three axioms of the first definition. This highlights the foundational relevance of the category of Abelian groups in the theory and its canonical nature.
+The concept of exact sequence arises naturally in this setting, and it turns out that exact functors, i.e. the functors preserving exact sequences in various senses, are the relevant functors between Abelian categories. This exactness concept has been axiomatized in the theory of exact categories, forming a very special case of regular categories.
+As mentioned above, the category of all abelian groups is an abelian category. The category of all finitely generated abelian groups is also an abelian category, as is the category of all finite abelian groups.
+If R is a ring, then the category of all left (or right) modules over R is an abelian category. In fact, it can be shown that any small abelian category is equivalent to a full subcategory of such a category of modules (Mitchell's embedding theorem).
+If R is a left-noetherian ring, then the category of finitely generated left modules over R is abelian. In particular, the category of finitely generated modules over a noetherian commutative ring is abelian; in this way, abelian categories show up in commutative algebra.
+As special cases of the two previous examples: the category of vector spaces over a fixed field k is abelian, as is the category of finite-dimensional vector spaces over k.
+If X is a topological space, then the category of all (real or complex) vector bundles on X is not usually an abelian category, as there can be monomorphisms that are not kernels.
+If X is a topological space, then the category of all sheaves of abelian groups on X is an abelian category. More generally, the category of sheaves of abelian groups on a Grothendieck site is an abelian category. In this way, abelian categories show up in algebraic topology and algebraic geometry.
+If C is a small category and A is an abelian category, then the category of all functors from C to A forms an abelian category. If C is small and preadditive, then the category of all additive functors from C to A also forms an abelian category. The latter is a generalization of the R-module example, since a ring can be understood as a preadditive category with a single object.
+In his Tōhoku article, Grothendieck listed four additional axioms (and their duals) that an abelian category A might satisfy. These axioms are still in common use to this day. They are the following:
+AB3) For every indexed family (Ai) of objects of A, the coproduct *Ai exists in A (i.e. A is cocomplete).
+AB4) A satisfies AB3), and the coproduct of a family of monomorphisms is a monomorphism.
+AB5) A satisfies AB3), and filtered colimits of exact sequences are exact.
+and their duals
+AB3*) For every indexed family (Ai) of objects of A, the product PAi exists in A (i.e. A is complete).
+AB4*) A satisfies AB3*), and the product of a family of epimorphisms is an epimorphism.
+AB5*) A satisfies AB3*), and filtered limits of exact sequences are exact.
+Axioms AB1) and AB2) were also given. They are what make an additive category abelian. Specifically:
+AB1) Every morphism has a kernel and a cokernel.
+AB2) For every morphism f, the canonical morphism from coim f to im f is an isomorphism.
+Grothendieck also gave axioms AB6) and AB6*).
+AB6) A satisfies AB3), and given a family of filtered categories 
+          I
+            j
+        ,
+        j
+        ∈
+        J
+    {\displaystyle I_{j},j\in J}
+   and maps 
+          A
+            j
+        :
+          I
+            j
+        →
+        A
+    {\displaystyle A_{j}:I_{j}\to A}
+  , we have 
+          ∏
+            j
+            ∈
+            J
+          lim
+              I
+                j
+          A
+            j
+        =
+          lim
+              I
+                j
+            ,
+            ∀
+            j
+            ∈
+            J
+          ∏
+            j
+            ∈
+            J
+          A
+            j
+    {\displaystyle \prod _{j\in J}\lim _{I_{j}}A_{j}=\lim _{I_{j},\forall j\in J}\prod _{j\in J}A_{j}}
+  , where lim denotes the filtered colimit.
+AB6*) A satisfies AB3*), and given a family of cofiltered categories 
+          I
+            j
+        ,
+        j
+        ∈
+        J
+    {\displaystyle I_{j},j\in J}
+   and maps 
+          A
+            j
+        :
+          I
+            j
+        →
+        A
+    {\displaystyle A_{j}:I_{j}\to A}
+  , we have 
+          ∑
+            j
+            ∈
+            J
+          lim
+              I
+                j
+          A
+            j
+        =
+          lim
+              I
+                j
+            ,
+            ∀
+            j
+            ∈
+            J
+          ∑
+            j
+            ∈
+            J
+          A
+            j
+    {\displaystyle \sum _{j\in J}\lim _{I_{j}}A_{j}=\lim _{I_{j},\forall j\in J}\sum _{j\in J}A_{j}}
+  , where lim denotes the cofiltered limit.
+Given any pair A, B of objects in an abelian category, there is a special zero morphism from A to B. This can be defined as the zero element of the hom-set Hom(A,B), since this is an abelian group. Alternatively, it can be defined as the unique composition A → 0 → B, where 0 is the zero object of the abelian category.
+In an abelian category, every morphism f can be written as the composition of an epimorphism followed by a monomorphism. This epimorphism is called the coimage of f, while the monomorphism is called the image of f.
+Subobjects and quotient objects are well-behaved in abelian categories. For example, the poset of subobjects of any given object A is a bounded lattice.
+Every abelian category A is a module over the monoidal category of finitely generated abelian groups; that is, we can form a tensor product of a finitely generated abelian group G and any object A of A. The abelian category is also a comodule; Hom(G,A) can be interpreted as an object of A. If A is complete, then we can remove the requirement that G be finitely generated; most generally, we can form finitary enriched limits in A.
+Abelian categories are the most general setting for homological algebra. All of the constructions used in that field are relevant, such as exact sequences, and especially short exact sequences, and derived functors. Important theorems that apply in all abelian categories include the five lemma (and the short five lemma as a special case), as well as the snake lemma (and the nine lemma as a special case).
+There are numerous types of (full, additive) subcategories of abelian categories that occur in nature, as well as some conflicting terminology.
+Let A be an abelian category, C a full, additive subcategory, and I the inclusion functor.
+C is an exact subcategory if it is itself an exact category and the inclusion I is an exact functor. This occurs if and only if C is closed under pull-backs of epimorphisms and push-outs of monomorphisms. The exact sequences in C are thus the exact sequences in A for which all objects lie in C.
+C is an abelian subcategory if it is itself an abelian category and the inclusion I is an exact functor. This occurs if and only if C is closed under taking kernels and cokernels. Note that there are examples of full subcategories of an abelian category which are themselves abelian but where the inclusion functor is not exact, so they are not abelian subcategories (see below).
+C is a thick subcategory if it is closed under taking direct summands and satisfies the 2-out-of-3 property on short exact sequences; that is, if 
+        0
+        →
+          M
+          ′
+        →
+        M
+        →
+          M
+          ″
+        →
+        0
+    {\displaystyle 0\to M'\to M\to M''\to 0}
+   is a short exact sequence in A such that two of 
+          M
+          ′
+        ,
+        M
+        ,
+          M
+          ″
+    {\displaystyle M',M,M''}
+   lie in C, then so does the third. In other words, C is closed under kernels of epimorphisms, cokernels of monomorphisms, and extensions. Note that P. Gabriel used the term thick subcategory to describe what we here call a Serre subcategory.
+C is a topologizing subcategory if it is closed under subquotients.
+C is a Serre subcategory if, for all short exact sequences 
+        0
+        →
+          M
+          ′
+        →
+        M
+        →
+          M
+          ″
+        →
+        0
+    {\displaystyle 0\to M'\to M\to M''\to 0}
+   in A we have M in C if and only if both 
+          M
+          ′
+        ,
+          M
+          ″
+    {\displaystyle M',M''}
+   are in C. In other words, C is closed under extensions and subquotients. These subcategories are precisely the kernels of exact functors from A to another abelian category.
+C is a localizing subcategory if it is a Serre subcategory such that the quotient functor 
+        Q
+        :
+          A
+        →
+          A
+          /
+          C
+    {\displaystyle Q\colon \mathbf {A} \to \mathbf {A} /\mathbf {C} }
+   admits a right adjoint.
+There are two competing notions of a wide subcategory. One version is that C contains every object of A (up to isomorphism); for a full subcategory this is obviously not interesting. (This is also called a lluf subcategory.) The other version is that C is closed under extensions.
+Here is an explicit example of a full, additive subcategory of an abelian category which is itself abelian but the inclusion functor is not exact. Let k be a field, 
+          T
+            n
+    {\displaystyle T_{n}}
+   the algebra of upper-triangular 
+        n
+        ×
+        n
+    {\displaystyle n\times n}
+   matrices over k, and 
+            A
+            n
+    {\displaystyle \mathbf {A} _{n}}
+   the category of finite-dimensional 
+          T
+            n
+    {\displaystyle T_{n}}
+  -modules. Then each 
+            A
+            n
+    {\displaystyle \mathbf {A} _{n}}
+   is an abelian category and we have an inclusion functor 
+        I
+        :
+            A
+            2
+        →
+            A
+            3
+    {\displaystyle I\colon \mathbf {A} _{2}\to \mathbf {A} _{3}}
+   identifying the simple projective, simple injective and indecomposable projective-injective modules. The essential image of I is a full, additive subcategory, but I is not exact.
+Abelian categories were introduced by Buchsbaum (1955) (under the name of "exact category") and Grothendieck (1957) in order to unify various cohomology theories. At the time, there was a cohomology theory for sheaves, and a cohomology theory for groups. The two were defined differently, but they had similar properties. In fact, much of category theory was developed as a language to study these similarities. Grothendieck unified the two theories: they both arise as derived functors on abelian categories; the abelian category of sheaves of abelian groups on a topological space, and the abelian category of G-modules for a given group G.

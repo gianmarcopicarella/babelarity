@@ -1,0 +1,119 @@
+In number theory, a smooth (or friable) number is an integer which factors completely into small prime numbers. The term seems to have been coined by Leonard Adleman. Smooth numbers are especially important in cryptography relying on factorization. The 2-smooth numbers are just the powers of 2.
+A positive integer is called B-smooth if none of its prime factors is greater than B. For example, 1,620 has prime factorization 22 × 34 × 5; therefore 1,620 is 5-smooth because none of its prime factors are greater than 5. This definition includes numbers that lack some of the smaller prime factors; for example, both 10 and 12 are 5-smooth, despite the fact that they miss out prime factors 3 and 5 respectively. 5-smooth numbers are also called regular numbers or Hamming numbers; 7-smooth numbers are also called humble, and sometimes called highly composite, although this conflicts with another meaning of highly composite numbers.
+Note that B does not have to be a prime factor. If the largest prime factor of a number is p then the number is B-smooth for any B ≥ p. Usually B is given as a prime, but composite numbers work as well. A number is B-smooth if and only if it is p-smooth, where p is the largest prime less than or equal to B.
+An important practical application of smooth numbers is for fast Fourier transform (FFT) algorithms such as the Cooley–Tukey FFT algorithm that operate by recursively breaking down a problem of a given size n into problems the size of its factors. By using B-smooth numbers, one ensures that the base cases of this recursion are small primes, for which efficient algorithms exist. (Large prime sizes require less-efficient algorithms such as Bluestein's FFT algorithm.)
+5-smooth or regular numbers play a special role in Babylonian mathematics. They are also important in music theory, (see Limit (music)) and the problem of generating these numbers efficiently has been used as a test problem for functional programming.
+Smooth numbers have a number of applications to cryptography. Although most applications involve cryptanalysis (e.g. the fastest known integer factorization algorithms), the VSH hash function is one example of a constructive use of smoothness to obtain a provably secure design.
+Let 
+          Ψ
+          (
+          x
+          ,
+          y
+          )
+    {\displaystyle \scriptstyle \Psi (x,y)}
+   denote the number of y-smooth integers less than or equal to x (the de Bruijn function).
+If the smoothness bound B is fixed and small, there is a good estimate for 
+          Ψ
+          (
+          x
+          ,
+          B
+          )
+    {\displaystyle \scriptstyle \Psi (x,B)}
+  :
+        Ψ
+        (
+        x
+        ,
+        B
+        )
+        ∼
+            1
+              π
+              (
+              B
+              )
+              !
+          ∏
+            p
+            ≤
+            B
+              log
+              ⁡
+              x
+              log
+              ⁡
+              p
+        .
+    {\displaystyle \Psi (x,B)\sim {\frac {1}{\pi (B)!}}\prod _{p\leq B}{\frac {\log x}{\log p}}.}
+where 
+            π
+            (
+            B
+            )
+    {\displaystyle \scriptstyle {\pi (B)}}
+   denotes the number of primes less than or equal to 
+          B
+    {\displaystyle \scriptstyle B}
+  .
+Otherwise, define the parameter u as u = log x / log y: that is, x = yu. Then,
+        Ψ
+        (
+        x
+        ,
+        y
+        )
+        =
+        x
+        ⋅
+        ρ
+        (
+        u
+        )
+        +
+        O
+          (
+              x
+                log
+                ⁡
+                y
+          )
+    {\displaystyle \Psi (x,y)=x\cdot \rho (u)+O\left({\frac {x}{\log y}}\right)}
+where 
+          ρ
+          (
+          u
+          )
+    {\displaystyle \scriptstyle \rho (u)}
+   is the Dickman function.
+Further, m is called B-powersmooth (or B-ultrafriable) if all prime powers 
+            p
+              ν
+    {\displaystyle \scriptstyle p^{\nu }}
+   dividing m satisfy:
+          p
+            ν
+        ≤
+        B
+        .
+    {\displaystyle p^{\nu }\leq B.\,}
+For example, 720 (243251) is 5-smooth but is not 5-powersmooth (because there are several prime powers greater than 5, e.g., 
+          3
+            2
+        =
+        9
+        ≰
+        5
+    {\displaystyle 3^{2}=9\nleq 5}
+   or 
+          2
+            3
+        >
+        5
+    {\displaystyle 2^{3}>5}
+  ). It is 16-powersmooth since its greatest prime factor power is 24 = 16. The number is also 17-powersmooth, 18-powersmooth, etc.
+B-smooth and B-powersmooth numbers have applications in number theory, such as in Pollard's p − 1 algorithm. Such applications are often said to work with "smooth numbers," with no B specified; this means the numbers involved must be B-powersmooth for some unspecified small number B; as B increases, the performance of the algorithm or method in question degrades rapidly. For example, the Pohlig–Hellman algorithm for computing discrete logarithms has a running time of O(B1/2) for groups of B-smooth order.
+Rough number
+Størmer's theorem
+Highly composite number

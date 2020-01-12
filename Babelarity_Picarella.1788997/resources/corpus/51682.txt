@@ -1,0 +1,45 @@
+Opera Mobile is a mobile web browser for smartphones and PDAs developed by Opera Software.
+The first devices to run a mobile edition of Opera were the Psion Series 5, Psion Series 5mx, Psion Series 7, and then Psion netBook. They ran Opera Mobile 3.6, released in 2000.
+Opera Mobile was ported to the Windows Mobile operating system in 2003.
+Version 6.0 was the initial release.
+On June 25, 2003, the first update came in the form of version 6.01, which was a minor update, mainly correcting bugs.
+Version 6.10, released on October 27, 2003, introduced several user interface and usability improvements, considerably optimized performance, and slightly improved page rendering. It was also the first version to support proxy servers, WAP pages, and the first one to be released in localized versions for 9 different languages.
+On July 13, 2005, almost two years after the previous iteration, version 8.0 was launched. This version was the first to require Symbian OS 7 (previous ones could function in Symbian 6.1). This version introduced the Opera Mobile Accelerator, a technology that used an Opera-run external server to slim-down the pages' content to reduce the traffic to the phones. This was also the first version to support dynamic HTML, and greatly improved compatibility with several web standards.
+On November 14, 2005, version 8.5 was introduced. This version introduced password management and form auto-filling functionality, added some more languages for localized versions, and made some improvements to stability and reduced-screen rendering quality.
+On April 5, 2006, version 8.6 was released and was also the first version to support Symbian OS 9. New to this version is the ability to support multiple browsing windows, support for Scalable Vector Graphics, introduction of URL autocompletion as well several changes in the customization aspect. It was also the first version of Opera Mobile that allowed for the possibility to configure it as the device's default browser, allowing for it to be launched whenever a web page was requested to be opened.
+Version 8.65 was released on August 29, 2006, which was mostly a welcome makeover and optimization to the then considered mature 8.60.
+Opera Mobile 9.0 was announced in February 2007 with a planned feature list, "coming soon" banners in the official Opera Mobile website, and official announcements in Opera's Community Forum. With no reason given, version 9.0 was cancelled, all references to it swept from Opera's site and 8.65 went back to being the latest version, being given a very slight refresh in the form of a new build that offered a handful of hardly-noticeable features, some of them platform-dependent.
+On February 5, 2008, Opera Mobile 9.5 was announced. The date for its expected release was put back several times. A beta test version for Windows Mobile was released on July 17, 2008, followed by a second beta release on October 20, 2008, including support for Opera Widgets, and adding Symbian UIQ3 as a further platform. (The last released version of Opera Mobile for Symbian S60 remains 8.65.)
+On March 26, 2009, Opera announced that the next release version would be 9.7, with changes in the Presto layout engine, not 9.5. On June 8, 2009, Opera Mobile 9.7 beta was made available, with the new Presto 2.2 rendering engine and Opera Turbo. Other features planned for the 9.7 release were an improved Widget manager, Google Gears, and OpenGL ES support.
+On November 2, 2009, Opera Mobile 10 beta for Symbian S60 was made available for download, with a revised user interface and performance enhancements. On December 10, 2009, it was released to operators and OEMs. It included Opera's new, cross-platform UI framework that unifies the look and feel of the browser across all platforms running Opera Mobile or Opera Mini. On February 12, 2010, Opera Mobile 10 beta 3 was publicly released for Windows Mobile and Symbian devices, with support for Flash Lite 3.1, better recognition for third-party input solutions in Windows Mobile, and support for Windows Mobile Standard (non-touchscreen) handsets. On March 16, 2010, Opera Software released the final versions of Opera Mobile 10.
+On May 11, 2010, Opera labs released a preview build of Opera Mobile 10 for Maemo, with the same features available in Opera Mobile 10 for other platforms, but using Opera's new Carakan JavaScript engine (codenamed ) and the new Vega vector graphics library. Opera Mobile 10 was the last version for Windows Mobile (as distinct from its successor Windows Phone)
+On October 15, 2010, Opera Software released the first Android build, Opera Mobile 10.1 Beta for Android.
+On March 22, 2011, Opera Software released Opera Mobile 11 for Android, Symbian S60, Maemo, MeeGo, and Windows.
+On February 27, 2012, Opera Software released Opera Mobile 12 for Android, Symbian/S60, Maemo (labs), MeeGo (labs) smartphones.
+On July, 2013, Opera Software released Opera Mobile 15 for Android, based on Chromium. The interface was heavily redesigned. Some features such as bookmarks were removed, and others such as a Discover function on the Home Page added.
+On September, 2013, Opera Software released Opera Mobile 16 for Android, with an updated Chromium engine and some performance improvements.
+Opera Mobile used the Presto layout engine until version 15, which was replaced by Webkit, then Blink and supports many web standards, as well as Ajax. As of version 9.7, it can use Opera Turbo that compresses web pages via Opera Software's "Turbo" servers, thus reducing download size. Because web pages are compressed, page loading times are improved, and bandwidth consumption is reduced by up to 80%.
+The browser can dynamically reformat web pages for small screen, using Opera's Small Screen Rendering (SSR) technology and text-wrapping.
+Opera Mobile 10 includes a "Speed Dial" feature, which allows the user to add links shown as thumbnail images in a page displayed when a new tab is opened. Once set up, this feature allows the user to more easily navigate to the selected web pages, and visual tabs, that allow the browsing multiple Web sites at one time. It also includes a password manager and pop-up handler, and it supports copy and paste, address auto-complete, zooming, history, and bookmarks (removed in Opera Mobile 15).
+The browser can be used by either using finger-touch or stylus on a touchscreen or with a keypad and can be displayed in portrait and landscape mode.
+Smartphone and PocketPC Magazine "Best mobile browser for both Windows-based Pocket PC and Smartphones" 2007
+Mobile Gala "Best program for mobile phones" 2004
+Mobile Gala "Best program for handheld computers" 2004
+Tietokone magazine "Best Software Product of the Year" 2003
+Opera Mobile comes pre-installed on some devices, and often, a special build is made for the particular device. Some devices that feature Opera Mobile pre-installed are:
+Nokia N90
+Sony Ericsson P1
+Sony Ericsson XPERIA X1
+HTC Touch Viva
+HTC Touch Diamond
+HTC Touch Diamond2
+HTC Touch Pro
+HTC Touch Pro 2
+HTC Touch HD
+HTC HD2
+Meizu M8
+Creative Zii
+Samsung i900 Omnia
+Samsung i8000 Omnia II
+Sendo X
+Motorola ROKR E6

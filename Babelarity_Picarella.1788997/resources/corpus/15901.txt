@@ -1,0 +1,65 @@
+The Peugeot 905 is a Sports-prototype racing car introduced for Sportscar racing.
+The car was initially unveiled in February 1990 and was developed throughout 1990 before making its race debut in the final two races of the 1990 World Sportscar Championship season (Montréal and Mexico).
+The car won the 24 Hours of Le Mans endurance race in 1992 with the team of Derek Warwick, Yannick Dalmas, and Mark Blundell. This win was followed in 1993 by the team of Geoff Brabham, Christophe Bouchut, and Éric Hélary, in the 905B. In addition to that, the car won both a drivers´ and teams´ title at the World Sportscar Championship in 1992.
+The Peugeot 905 participated in 17 races in its career, winning 9 of them.
+In 1990 Peugeot Talbot Sport, established under the control of Jean Todt at Vélizy-Villacoublay, in the suburbs of Paris, launched the 905 project to compete in the 1991 championship using the new rules which the 1991 season would introduce.
+Technically advanced, the 905 used a carbon fiber chassis engineered by Dassault and a light alloy SA35-A1 3499 cc naturally aspirated V10 engine that was similar to F1 engines of the time. The 905 was built at Vélizy-Villacoublay  and officially unveiled on the 4th of July 1990 at the Circuit de Nevers Magny-Cours, with Jean-Pierre Jabouille driving.
+The car made its racing debut in the final few races of the 1990 FIA World Sportscar Championship with Jabouille and Keke Rosberg sharing the wheel. Although the car was slower than the contemporary Group C Sports Prototypes, it was notably quicker than the other 3.5 litre Sports-Prototypes which raced in the 1990 World Sportscar Championship season.
+The 905's V10 was slightly adjusted for Formula One rules for 1994, and was used in the unsuccessful McLaren MP4/9 Formula One car.
+The 905 began its first full season in Sportscar racing by participating in the 1991 championship. Although the car was now quicker than the 1990 version, and indeed the heavily penalised Group C cars that were allowed to race, in the early part of the season the 905 suffered some performance and reliability problems but, more crucially for Peugeot, the car was a lot slower than the standard-setting Jaguar XJR-14 - a car that was able to match the lap times of most contemporary F1 cars (but not those of top cars such the Williams-Renault and McLaren-Honda cars who were at least 2 to 3 seconds faster per lap).
+The car was however able to obtain a lucky win at the Suzuka Circuit. Unfortunately, at the 1991 24 Hours of Le Mans, both cars entered did not last past the four hour mark.
+To counter Jaguar in the remaining races of the championship the 905 was heavily revised, primarily in aerodynamics. Carrying over only the cockpit of the previous car, the evolutionary 905B was created. With the more notable changes consisting of a two-tier rear wing and an optional full-width front wing, including a more powerful SA35-A2 engine, the 905B made its race debut at the Nürburgring round of the 1991 series. These advancements allowed the team to finish the year winning at Magny-Cours and Mexico with back-to-back 1-2 wins, thus completing the season in second place overall in the 1991 World Sportscar Championship season.
+In 1992, the 905B became one of only two factory efforts involved in the 1992 World Sportscar Championship season alongside Toyota, who were competing in their first season to the 3.5 litre regulations using the TS010. This meant that only the 1992 24 Hours of Le Mans showed a strong competition among the Group C cars. The 905B was successful, bringing 2 of the team's 3 cars home in 1st and 3rd places.
+In 1993, the World Sportscar Championship ceased to exist. However, prior to the announcement of its cancellation, Peugeot had begun development of the 905 Evolution 2 to compete in the 1993 season. This car, which was tested for a few laps in practice at the final race of the 1992 season at Magny-Cours was never finished, leaving Peugeot to concentrate solely on 1993 24 Hours of Le Mans with the Evo 1B. They were able to make a historic win by sweeping the first three positions. Following this dominance, Peugeot pulled out of sportscar racing.
+Peugeot decided to switch to Formula One, using the same 3.5L V10 from the 905 that was easily adjusted to F1 regulations. In 1994, Peugeot debuted as an engine supplier with the McLaren team, and remained in F1 until the end of the 2000 season, when, after little success, they decided to concentrate on the World Rally Championship, where their factory team had had some success, winning the title on several occasions. However, Peugeot withdrew its works WRC operation at the end of the 2005 season, and returned to Le Mans for the 2007 24 Hours, with the new 908 HDi FAP prototype entry.
+Manufacturer
+Peugeot
+First race
+1990
+Category
+Group C1
+Engine
+80° 3,499 cc (214 cu in) V10, 40 valves
+Output
+650 PS (478 kW; 641 hp) @ 12,500 rpm (905B produced approximately 715 hp (533 kW; 725 PS))
+Chassis
+Carbon fiber Monocoque
+Length
+4.80 metres (189.0 in)
+Width
+1.96 metres (77.2 in)
+Height
+1.04 metres (40.9 in)
+Weight
+780 kg (1,720 lb)
+Tires
+Michelin 32x63x17 & 34x70x18
+1991
+#5 Baldi - Alliot - Jabouille - Did Not Finish (Engine) (Baldi didn't drive)
+#6 Dalmas - Rosberg - Raphanel - Did Not Finish (Transmission)
+1992
+#1 Dalmas - Warwick - Blundell - 1st
+#2 Baldi - Alliot - Jabouille - 3rd
+#31 Ferté - Van de Poele - Wendlinger - Did Not Finish (Engine)
+1993
+#3 Bouchut - Hélary - Brabham - 1st (375 rounds - 5.100 km with the average of 213.358 km/h)
+#1 Dalmas - Boutsen - Fabi - 2nd
+#2 Baldi - Alliot - Jabouille - 3rd
+Suzuka 1991 
+Baldi - Alliot - 1st
+Magny Cours 1991 
+Rosberg - Dalmas - 1st
+Baldi - Alliot - 2nd
+Mexico 1991 
+Rosberg - Dalmas - 1st'
+Baldi - Alliot - 2nd
+Silverstone 1992 
+Warwick - Dalmas - 1st
+Donington 1992 
+Baldi - Alliot - 1st
+Warwick - Dalmas - 2nd
+Suzuka 1992 
+Warwick - Dalmas - 1st
+Magny Cours 1992 
+Baldi - Alliot - 1st
+Bouchut - Hélary - 2nd

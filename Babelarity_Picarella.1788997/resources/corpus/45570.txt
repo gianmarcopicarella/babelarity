@@ -1,0 +1,51 @@
+A responsory or respond is a type of chant in western Christian liturgies.
+The most general definition of a responsory is any psalm, canticle, or other sacred musical work sung responsorially, that is, with a cantor or small group singing verses while the whole choir or congregation respond with a refrain. However, this article focuses on those chants of the western Christian tradition that have traditionally been designated by the term responsory. In the Roman Rite and rites strongly influenced by it, such as the pre-reformation English rite and the monastic rite of the Rule of St. Benedict, these chants ordinarily follow readings at services of the Divine Office (also called the Liturgy of the Hours); however, they have also been used as processional chants.
+A responsory has two parts: a respond (or refrain), and a verse. Methods of performance vary, but typically the respond will be begun by the cantor then taken up by the entire choir. The verse is then sung by a cantor or a small group; or the verse can be begun by the cantor and continued by the entire choir. The chant concludes with a repetition of all or part of the respond. Sometimes the second repetition of the respond is followed by a half-doxology, Gloria Patri et Filio et Spiritui Sancto, sung by the cantor, followed in turn by a third repetition of all or part of the respond.
+As an example, here is the responsory Aspiciebam, which in the Sarum Rite (the medieval rite of Salisbury Cathedral in England) followed the second reading, which was from the first chapter of the Book of Isaiah, at the night office (Matins) on the first Sunday of Advent:
+Respond: (started by the cantor and continued by the whole choir) Aspiciebam in visu noctis, et ecce in nubibus caeli Filius hominis veniebat: et datum est ei regnum, et honor: * Et omnis populus, tribus, et linguae servient ei. (I saw in a night-vision, and behold, the Son of Man was coming on the clouds of heaven: and sovereignty and honor were given him: and every people and tribe, and all languages shall serve him.)
+Verse: (sung by the cantor) Potestas eius, potestas aeterna, quae non auferetur: et regnum eius, quod non corrumpetur. (His might is an everlasting might which will not be taken away; and his reign is an everlasting reign, which shall not be broken.)
+Partial respond: (sung by the choir) Et omnis populus, tribus, et linguae servient ei. (And every people and tribe, and all languages shall serve him.)
+Most responsories have a single verse, but a few have multiple verses. One of the most famous of the latter is the responsory Aspiciens a longe, sung on the first Sunday of Advent after the first reading in the night office of the Latin secular (non-monastic) rite. The version that was sung in the medieval rite of Salisbury cathedral was worded as follows:
+Respond: Aspiciens a longe et ecce video Dei potentiam venientem et nebulam totam terram tegentem. Ite obviam ei et dicite, Nuntia nobis si tu es ipse qui regnaturus es in populo Israel. (I look from afar, and behold I see the power of God coming, and a cloud covering the whole earth. Go out to meet him and say, tell us if you are the one who is to reign over the people of Israel.)
+1st verse (sung by a boy) Quique terrigenae et filii hominum simul in unum dives et pauper (Whoever are earth-born, the sons of men, together in one rich and poor)
+Partial respond (sung by the choir) Ite obviam ei et dicite, Nuntia nobis si tu es ipse qui regnaturus es in populo Israel. (Go out to meet him and say, tell us if you are the one who is to reign over the people of Israel.)
+2nd verse (sung by a boy) Qui regis Israel intende, qui deducis velut ovem Joseph (Hear, O shepherd of Israel, who leadest Joseph like a sheep)
+Partial respond (sung by the choir) Nuntia nobis si tu es ipse qui regnaturus es in populo Israel. (Tell us if you are the one who is to reign over the people of Israel.)
+3rd verse (sung by a boy) Excita Domine potentiam tuam et veni ut salvos facias nos (Stir up your power O Lord and come that you may save us)
+Partial respond (sung by the choir) Qui regnaturus es in populo Israel. (O you who are to reign over the people of Israel.)
+Half-doxology (sung by all three boys) Gloria Patri et Filio et Spiritui Sancto (Glory be to the Father and to the Son and to the Holy Ghost)
+Partial respond (sung by the choir) In populo Israel. (In the people of Israel.)
+The three boys then sang Aspiciens a longe whereupon the choir took up the full respond: et ecce video Dei potentian venientem et nebulam totam terram tegentem. Ite obviam ei et dicite, Nuntia nobis si tu es ipse qui regnaturus es in populo Israel. (I look from afar, and behold I see the power of God coming, and a cloud covering the whole earth. Go out to meet him and say, tell us if you are the one who is to reign over the people of Israel.)
+This responsory, Aspiciens a longe, has become familiar in the English-speaking world in an arrangement published in the second volume of Carols for Choirs edited by David Willcocks and John Rutter, where it is given the title "Matin Responsory", and is set to music adapted from a setting by Giovanni Pierluigi da Palestrina of the Nunc dimittis (free score of the Nunc dimittis here on CPDL) - and not of the Magnificat as stated by the editors. The structure of the Willcocks/Rutter arrangement, however, differs somewhat from what is shown above since it does not repeat the refrain after each verse in the traditional English way. For example, in the traditional English form (shown above) after the first verse, the choir sings all the words of the refrain from ite obviam ei to the end. In the Willcocks/Rutter arrangement, on the other hand, after the first verse the choir sings (in English translation) only the portion of the refrain corresponding to the Latin words ite obviam ei et dicite.
+Traditionally responsories are sung in Gregorian chant. The refrains are free compositions. The verses are ordinarily sung to standard tones, though there are exceptions to this. Polyphonic settings of parts of responsories survive from the Middle Ages. The example of the Willcocks/Rutter setting of Aspiciens a longe shows that multi-voice settings of responsories have continued to be made in modern times also.
+Responsories for Holy Week set to music, for instance by Carlo Gesualdo (Op. 15) and by Jan Dismas Zelenka (ZWV 55):
+Maundy Thursday:
+In monte Oliveti
+Tristis est anima mea
+Ecce, vidimus eum
+Amicus meus
+Judas mercator pessimus
+Unus ex discipulis meis
+Eram quasi agnus innocens
+Una hora
+Seniores populi
+Good Friday:
+Omnes amici mei
+Velum templi scissum est
+Vinea mea electa
+Tamquam ad latronem existis
+Tenebrae factae sunt
+Animam meam dilectam
+Tradiderunt me
+Jesus tradidit impius
+Caligaverunt oculi mei
+Holy Saturday:
+Sicut ovis
+Jerusalem surge
+Plange quasi virgo
+Recessit pastor noster
+O vos omnes
+Ecce quo modo moritur justus
+Astiterunt reges terras
+Aestimatus sum
+Sepulto Domino

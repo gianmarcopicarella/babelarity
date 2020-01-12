@@ -1,0 +1,9 @@
+A pulsar wind nebula (also known as "plerion", derived from the Greek word "πλήρης" ("pleres") meaning "full"—a term coined by Weiler & Panagia [1978]) is a nebula powered by the pulsar wind of a pulsar. At the early stages (first few thousands of years) of their evolution, pulsar wind nebulae are often found inside the shells of supernova remnants. However, pulsar wind nebulae have also been found around older pulsars whose supernova remnants have disappeared, including millisecond radio pulsars (e.g. Stappers et al. 2003). A prototypical pulsar wind nebula is the Crab Nebula (Hester et al. 2008).
+Pulsar winds are composed of charged particles accelerated to relativistic speed by the rapidly rotating, superstrong magnetic field of the spinning pulsar. The pulsar wind streams into the interstellar medium, creating a standing shock wave, where it is decelerated to sub-relativistic speed. Beyond this radius synchrotron emission increases in the magnetized flow.
+Pulsar wind nebulae often show the following properties:
+An increasing brightness towards the center, without a shell-like structure as seen in most other supernova remnants.
+A highly polarized flux and a flat spectral index in the radio band, α=0–0.3. The index steepens at X-ray energies due to synchrotron radiation losses and on the average has an X-ray photon index of 1.3–2.3 (spectral index of 2.3–3.3).
+An X-ray size that is generally smaller than their radio and optical size (due to smaller synchrotron lifetimes of the higher-energy electrons) (e.g. Slane et al. 2000).
+A photon index at TeV gamma-ray energies of ~2.3.
+Pulsar wind nebulae can be powerful probes of a pulsar's interaction with its surroundings — their properties can be used to infer the geometry, energetics, and composition of the pulsar wind, the space velocity of the pulsar itself, and the properties of the ambient medium (Gaensler & Slane 2006).
+SNR G292.0+01.8

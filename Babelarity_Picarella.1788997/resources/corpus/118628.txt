@@ -1,0 +1,115 @@
+In classical mechanics, impulse (symbolized by J or Imp) is the integral of a force, F, over the time interval, t, for which it acts. Since force is a vector quantity, impulse is also a vector in the same direction. Impulse applied to an object produces an equivalent vector change in its linear momentum, also in the same direction. The SI unit of impulse is the newton second (N·s), and the dimensionally equivalent unit of momentum is the kilogram meter per second (kg·m/s). The corresponding English engineering units are the pound-second (lbf·s) and the slug-foot per second (slug·ft/s).
+A resultant force causes acceleration and a change in the velocity of the body for as long as it acts. A resultant force applied over a longer time therefore produces a bigger change in linear momentum than the same force applied briefly: the change in momentum is equal to the product of the average force and duration. Conversely, a small force applied for a long time produces the same change in momentum—the same impulse—as a larger force applied briefly.
+        J
+        =
+          F
+            average
+        (
+          t
+            2
+        −
+          t
+            1
+        )
+    {\displaystyle J=F_{\text{average}}(t_{2}-t_{1})}
+The impulse is the integral of the resultant force (F) with respect to time:
+        J
+        =
+        ∫
+        F
+          d
+        t
+    {\displaystyle J=\int F\,\mathrm {d} t}
+Impulse J produced from time t1 to t2 is defined to be
+          J
+        =
+          ∫
+              t
+                1
+              t
+                2
+          F
+          d
+        t
+    {\displaystyle \mathbf {J} =\int _{t_{1}}^{t_{2}}\mathbf {F} \,\mathrm {d} t}
+where F is the resultant force applied from t1 to t2.
+From Newton's second law, force is related to momentum p by
+          F
+        =
+                d
+                p
+                d
+              t
+    {\displaystyle \mathbf {F} ={\frac {\mathrm {d} \mathbf {p} }{\mathrm {d} t}}}
+Therefore,
+                  J
+                =
+                  ∫
+                      t
+                        1
+                      t
+                        2
+                        d
+                        p
+                        d
+                      t
+                d
+                t
+                =
+                  ∫
+                      p
+                        1
+                      p
+                        2
+                  d
+                  p
+                =
+                    p
+                    2
+                −
+                    p
+                    1
+                =
+                Δ
+                  p
+    {\displaystyle {\begin{aligned}\mathbf {J} &=\int _{t_{1}}^{t_{2}}{\frac {\mathrm {d} \mathbf {p} }{\mathrm {d} t}}\,dt\\&=\int _{p_{1}}^{p_{2}}\mathrm {d} \mathbf {p} \\&=\mathbf {p} _{2}-\mathbf {p} _{1}=\Delta \mathbf {p} \end{aligned}}}
+where Δp is the change in linear momentum from time t1 to t2. This is often called the impulse-momentum theorem.
+As a result, an impulse may also be regarded as the change in momentum of an object to which a resultant force is applied. The impulse may be expressed in a simpler form when the mass is constant:
+          J
+        =
+          ∫
+              t
+                1
+              t
+                2
+          F
+        d
+        t
+        =
+        Δ
+          p
+        =
+        m
+            v
+              2
+        −
+        m
+            v
+              1
+    {\displaystyle \mathbf {J} =\int _{t_{1}}^{t_{2}}\mathbf {F} \,dt=\Delta \mathbf {p} =m\mathbf {v_{2}} -m\mathbf {v_{1}} }
+where
+F is the resultant force applied,
+t1 and t2 are times when the impulse begins and ends, respectively,
+m is the mass of the object,
+v2 is the final velocity of the object at the end of the time interval, and
+v1 is the initial velocity of the object when the time interval begins.
+Impulse has the same units and dimensions (M L T−1) as momentum. In the International System of Units, these are kg·m/s = N·s. In English engineering units, they are slug·ft/s = lbf·s.
+The term "impulse" is also used to refer to a fast-acting force or impact. This type of impulse is often idealized so that the change in momentum produced by the force happens with no change in time. This sort of change is a step change, and is not physically possible. However, this is a useful model for computing the effects of ideal collisions (such as in game physics engines).
+The application of Newton's second law for variable mass allows impulse and momentum to be used as analysis tools for jet- or rocket-propelled vehicles. In the case of rockets, the impulse imparted can be normalized by unit of propellant expended, to create a performance parameter, specific impulse. This fact can be used to derive the Tsiolkovsky rocket equation, which relates the vehicle's propulsive change in velocity to the engine's specific impulse (or nozzle exhaust velocity) and the vehicle's propellant-mass ratio.
+Wave–particle duality defines the impulse of a wave collision. The preservation of momentum in the collision is then called phase matching. Applications include:
+Compton effect
+nonlinear optics
+Acousto-optic modulator
+Electron phonon scattering
+Serway, Raymond A.; Jewett, John W. (2004). Physics for Scientists and Engineers (6th ed.). Brooks/Cole. ISBN 0-534-40842-7. 
+Tipler, Paul (2004). Physics for Scientists and Engineers: Mechanics, Oscillations and Waves, Thermodynamics (5th ed.). W. H. Freeman. ISBN 0-7167-0809-4. 

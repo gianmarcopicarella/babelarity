@@ -1,0 +1,6 @@
+A waterway is any navigable body of water. A shipping route consists of one or several waterways. Waterways can include rivers, lakes, seas, oceans, and canals. In order for a waterway to be navigable, it must meet several criteria:
+The waterway must be deep enough to allow the draft depth of the vessels using it;
+The waterway must be wide enough to allow passage for the beam width of the vessels using it;
+The waterway must be free of barriers to navigation such as waterfalls and rapids, or have a way around them (such as canal locks, boat lifts,etc.);
+The current of the waterway must be mild enough to allow vessels to make headway.
+Vessels using waterways vary from small animal-drawn barges to immense ocean tankers and ocean liners, such as cruise ships.

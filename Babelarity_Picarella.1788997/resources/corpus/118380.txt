@@ -1,0 +1,113 @@
+Mars 96 (sometimes called Mars 8) was a failed Mars mission launched in 1996 to investigate Mars by the Russian Space Forces and not directly related to the Soviet Mars probe program of the same name. After failure of the second fourth-stage burn, the probe assembly re-entered the Earth's atmosphere, breaking up over a 200-mile long portion of the Pacific Ocean, Chile, and Bolivia. The Mars 96 spacecraft was based on the Phobos probes launched to Mars in 1988. They were of a new design at the time and both ultimately failed. For the Mars 96 mission the designers believed they had corrected the flaws of the Phobos probes, but the value of their improvements was never demonstrated due to the destruction of the probe during the launch phase.
+It was, however, a very ambitious mission and the heaviest interplanetary probe launched up to that time. The mission included an orbiter, surface stations and surface penetrators. The mission included a large complement of instruments provided by France, Germany, other European countries and the United States. Similar instruments have since been flown on Mars Express, launched in 2003. Its project scientist was Alexander Zakharov.
+Mars 96 was intended to solve several problems concerning our understanding of Mars. The scientific goal of the mission was to analyze the planet's evolutionary history of its surface, atmosphere, and inner structure. Other studies during cruise, such as astrophysical studies were to be made. They can be broken down into several categories.
+Studies of the Martian surface were to include a global topographical survey, mineralogical mapping, soil composition, and studies of the cryolithozone and its deep structure.
+Studies of the atmosphere were to include studies of the climate, abundance of certain elements, ions, and chemicals such as water, carbon dioxide, ozone, and others, general global monitoring, pressure variations over time, and characterization of aerosols.
+Studies of planet structure were to find the thickness of the crust, study the Martian magnetic field, study of thermal flux, search for the possibility of active volcanoes, and study seismic activity.
+Plasma studies were to study the strength and orientation of the magnetic field, study of ions and energy composition of plasma during interplanetary cruise and near Mars, and the study of the magnetosphere and its boundaries.
+Astrophysical studies were to take place during interplanetary cruise. They included studies of cosmic gamma-bursts and the study of oscillations of the Sun and other stars.
+The Mars 96 orbiter was a 3-axis sun/star stabilized spacecraft which was based on the design of the Phobos orbiters. It had a deployable high and medium gain antennae. Two large solar panels were attached to either side of the spacecraft. It also had a jettisonable propulsion unit to be separated sometime after Mars orbit insertion. Two Surface Stations were attached on top of the spacecraft. Two Penetrators were attached to the propulsion unit. It also had a MORION system which was the central interface, microprocessor, and memory system. The orbiter had a total mass, with fuel, of 6,180 kg. It had a dry mass of 3,159 kg.
+Each Surface Station was contained in an aeroshell about 1 meter high and about 1 meter in diameter. Each station had a Station Data Processing Unit (SDPI) for controlling station operations, telecommunications unit with a transmitter and a receiver for data transfer, and a power supply consisting of two radio-isotope thermoelectric generators (RTGs), a battery, and electronics for controlling battery charge. Each Surface Station also carried a compact disc which contained science fiction stories, sound, and art that have inspired Mars exploration. It was intended as a gift for future human explorers. The expected lifetime of each Surface Station was one year.
+Each Penetrator consisted of two major structures: The forebody and the afterbody. When the Penetrator struck the surface the forebody was designed to separate and delve 5 to 6 meters into the surface while the afterbody remained on the surface connected to the forebody by wires. The forebody contained the housekeeping equipment and part of the analysing package while the afterbody contained the rest of the analysing package and the radio equipment. Each Penetrator was powered by a radio-isotope thermoelectric generator (RTG) and a battery. The expected lifetime of each Penetrator was one year.
+ARGUS
+The ARGUS platform consisted of two TV cameras and a mapping spectrometer. The ARGUS had its own multiprocesser control system, a navigation TV camera (not related to the other two), a data acquisition system with a 1.5 GBit memory, a thermal control system, and an in-flight calibration system. It was designed to point the instruments attached to it with high accuracy on all three axes.
+PAIS
+The PAIS platform was designed to mount and point the SPICAM, EVRIS, and PHOTON instruments.
+HRSC
+The High Resolution Steroscopic TV-Camera (HRSC) was designed to make detailed topographical studies and make atmospheric studies of cloud structures, limb brightness, and terminator features. It was one of the cameras mounted to the ARGUS platform. The design was reused in the Mars Express HRSC camera.
+WAOSS
+The Wide-Angle Steroscopic TV-Camera (WAOSS) was designed to globally monitor Mars over time to make studies of cloud movement, surface changes due to dust storms, and other long-term observations of the surface and atmosphere. It was mounted to the ARGUS platform.
+OMEGA
+The Visible and Infrared Mapping Spectrometer (OMEGA) was designed to map Mars surface composition of igneous rocks, sedimentary rocks, soils, frosts, and ices. It was also supposed to map major gaseous and solid atmospheric components. It was mounted to the ARGUS platform.
+PFS
+The Planetary Fourier Spectrometer was designed to make specialized studies of the surface and atmosphere. Atmospheric studies included monitoring of 3D temperature and pressure fields, global mapping of winds, variations of water and carbon monoxide in space and time, and the optical depth, phase function, size distribution, and chemical composition of aerosols. Surface studies included temperature and thermophysical properties of soils, mineralogical composition of the surface, surface condensates, and altimetry.
+TERMOSCAN
+The Mapping Radiometer was designed to find the thermal inertia of the soil, monitor diurnal and seasonal dynamics of the temperature regime, search for anomalous heat sources, and thermal studies of the atmosphere.
+SVET
+The High-Resolution Mapping Spectrometer was designed for spectrophotometry of Mars in absorption bands of some rocks that might exist in order to determine their composition, study the nature of aerosols, and convert TERMOSCAN data into a digital form compatible with the MORION system.
+SPICAM
+Main objectives of the Multichannel Optical Spectrometer were to find the vertical profiles of ozone, water vapor, carbon monoxide, aerosols, and temperature, in the middle and lower atmosphere, diagnostic of the ionosphere, global distribution of water vapor, and building of the density model of the atmosphere. It was mounted to the PAIS platform.
+UVS-M
+The Ultraviolet Spectrophotometer was to find the distribution of hydrogen, helium, and oxygen in the upper atmosphere, find the deuterium abundance in the atmosphere, make a high-altitude profile of the atmosphere, and find the neutral component of the interplanetary medium.
+LWR
+The Long-Wave Radar was used by the GRUNT and PLASMA experiments. The GRUNT's objectives were to study the underlying surface of the Martian cryolithospheres, the determination of the depth of occurrence of ice-bearing rocks and their geographic distribution, and the estimation of dielectric parameters of soil. The PLASMA's objectives were to study the global distribution of height profiles of electron number-density in the upper ionosphere to study the dynamics of the solar wind interaction with the Martian atmosphere.
+PHOTON (or FOTON)
+The Gamma-Spectrometer was to map the elemental composition of rocks with high spatial resolution and high accuracy and to determine the abundance of natural radioactive elements and basic rock forming elements. It was mounted to the PAIS platform.
+NEUTRON-S
+The Neutron Spectrometer was designed to investigate the water content in the surface layers of Martian soil.
+MAK
+The Quadruple Mass Spectrometer was designed to determine the composition of the upper atmosphere and ionosphere, measure height profiles of the atmosphere ion and neutral composition, measure and update isotope ratios, and measure seasonal and diurnal variations of the atmosphere and ionosphere.
+ASPERA
+The Energy-Mass Ion Spectrograph and Neutral-Particle Imager was designed to measure the interaction between the plasma and neutrals near Mars.
+FONEMA
+The Fast Omnidirectional Non-Scanning Ion Energy-Mass Analyzer was designed to investigate the fine structure, dynamics, and origin of near Martian plasma with measurements of 3D distribution functions of hot ions species with high time resolution.
+DYMIO
+The Omnidirectional Ionospheric Mass Spectrometer was designed to investigate the dynamics of the ionosphere and its interaction with solar wind.
+MARIPROB
+The Ionospheric Plasma Spectrometers were designed to measure the Martian ionosphere and the cold plasma convection in the magnetosphere.
+MAREMF
+The Electrostatic Analyzer and Magnetometer was to make measurements of the magnetic field vector and 3D distribution of electrons and ions in the plasma environment of Mars and in the solar wind.
+ELISMA
+The Wave Complex was designed to measure solar wind interaction with the Martian plasma environment, identification of instabilities in the ionosphere and magnetosphere, study waves of atmospheric origin generated by sand storms and lightning, global mapping of plasma convections, find the distribution of thermal plasma temperature and density to an altitude of 300 km, and monitor the dynamic relationship between the upper atmosphere and the lower ionosphere.
+SLED
+The Low-Energy Charged Particle Spectrometer was designed to make detailed studies of energetic particle radiation in the Martian environment and monitor low-energy cosmic rays during interplanetary cruise.
+PGS
+The Precision Gamma Spectrometer was designed to measure gamma radiation from the surface of Mars, powerful solar flares, and gamma-bursts.
+LILAS-2
+The Research of the Cosmic and Solar Gamma-Ray Bursts was to find localisation of the gamma-ray burst source with high precision, analyze the low energy absorption features in the spectra, and the study of the thermal radiation at the damping stage of the gamma-ray burst.
+EVRIS
+The EVRIS Investigations of Oscillations in Stars instrument was designed to investigate the pulsation, rotation, and internal structure of stars and measure the photometric microvariabilities induced by those oscilliations. It was mounted to the PAIS platform.
+SOYA
+The Solar Oscillation Photometer was designed to study the Sun's internal structure.
+RADIUS-M
+The Radiation/Dosimetery Control Complex was designed to study radiation during interplanetary cruise and near Mars, forecast the spacecraft's radiation dose, control dosimetery on board the spacecraft, study the propagation of charged particles in interplanetary space, and estimate the meteorite hazard to a spacecraft.
+MIS
+The Meteorology Instrument System had a temperature sensor, a pressure sensor, a relative humidity sensor, an optical depth sensor (ODS) to compare the intensity of direct and scattered sunlight, and an ion anemometer used to detect ion current and atmosphere ionization.
+DPI
+The Descent Phase Instrument had an accelerometer and a temperature sensor.
+ALPHA
+The Alpha-Particle, Photon, and X-Ray Spectrometer was designed to measure the elemental composition of Martian soils.
+OPTIMISM
+The OPTIMISM contained a magnetometer, a seismometer, an inclinometer and an electronics unit.
+DesCam
+The Descent Phase Camera was designed for imaging during parachute descent.
+PanCam
+The Panoramic Camera was designed to take a TV panorama of the landscape around the Surface Station.
+MOx
+The Mars Oxidant Experiment was designed to study the presence of an oxidizing agent in the Martian soil and atmosphere.
+MAPEx
+Plastic and silicon recorded radiation for the Microelectronics and Photonics Experiment. Placed on the compact disc label.
+TVS TV-camera
+Designed to take a panoramic image of the surrounding landscape and watch for possible activity (such as volcanic activity).
+MECOM METEO SET
+Designed to take in situ measurements of meteorological parameters of the surface.
+PEGAS GAMMA-spectrometer
+Designed to estimate the elemental composition of Martian surface rocks.
+ANGSTREM X-RAY spectrometer
+Designed to estimate the elemental composition of subsurface rocks.
+ALPHA ALPHA-P spectrometer
+Designed to estimate the chemical composition of rocks.
+NEUTRON NEUTRON-P spectrometer
+Designed to measure the humidity and density of rocks.
+GRUNT accelerometer
+Designed to investigate mechanical characteristics by obtaining resistance force/time, velocity profile/time, and penetration profile and depth.
+TERMOZOND
+Designed to make a thermal and physical study of the surface layer of rocks.
+KAMERTON seismometer
+Designed to study the structure of the planet's crust.
+IMAP-6 magnetometer
+Designed to study Mars' intrinsic magnetic field and the magnetic properties of rocks.
+The launch was to take place on November 16, 1996 on a Proton 8K82K/11S824F rocket. This is a four-stage rocket in a configuration which had flown only twice before, both times to launch Phobos spacecraft towards Mars in 1988. The first three stages were to burn to fuel depletion. The fourth stage, called the Block D-2, would then ignite to place it and the spacecraft into a parking orbit around the Earth. Later it was to re-ignite to begin the trans-Mars injection maneuver. After the fourth stage shut-down, the spacecraft was to separate, deploy its antennae, and use its propulsion unit to complete the burn. After this was complete, the spacecraft was to deploy its solar panels and the PAIS science platform.
+The cruise was to take about 10 months. Two course corrections were planned on the way. Astrophysical studies were also to take place during interplanetary cruise. Mars arrival was scheduled to take place on September 12, 1997.
+Four to five (preferably five) days before arrival, the spacecraft was to release both Surface Stations to land at two separate sites in the northern hemisphere. After release, the spacecraft would perform a deflection maneuver to change the orbiter's trajectory to a fly-by path in preparation for orbit insertion. At the appropriate moment, with the main engine of the propulsion unit facing the direction of flight, the spacecraft would make a burn to slow down and enter Mars orbit. Initial Mars orbit would have a periapsis of 500 km, an apoapsis of about 52,000 km, with an orbital period of 43.09 hours.
+While the orbiter performed the orbit insertion burn, both Surface Stations were to make a soft landing on Mars. Both landing sequences were identical. They began with the craft being slowed down by aerodynamic pressure. At an altitude of 19.1 km, a parachute would deploy, followed by heat shield separation at 18.3 km, and inflation of the airbags at 17.9 km. When the lander, cushioned by the airbags, hit the ground, the parachute would separate. The airbag would eventually roll to a stop. After which both airbags would separate revealing the lander. The four petals would open and the lander would signal the orbiter when it passed over the landing site.
+The first task the orbiter would perform after achieving Mars orbit was to receive a signal from both Surface Stations to confirm landing. The window to land the Penetrators would be seven to twenty-eight days after Mars orbit insertion. The primary science phase of the orbiter could not begin until after both Penetrators were released and the propulsion unit was jettisoned.
+The landing of each Penetrator would be identical. It began with the spinning up of the Penetrator for stability followed by separation from the orbiter. The Penetrator would fire a solid rocket motor which would begin to drop it from orbit. After 20–22 hours, the Penetrator would encounter the Martian atmosphere. It then deploys a braking device. When it impacts, the forebody separates and goes in deeper than the main body. It then performs a communications session with the orbiter to confirm landing.
+About a month after orbit insertion, after the Penetrators have been released, the orbiter would jettison its propulsion unit. The propulsion unit would get in the way of the deployment of the LWR instrument and ARGUS platform and has to be jettisoned before the primary science phase can begin. The nominal mission of the orbiter would have lasted one Earth year. After the propulsion unit was jettisoned, the orbiter had a low power thrust system for orbit maintenance. During the nominal phase a fly-by of Deimos was possible, but a fly-by of Phobos was not possible until after the nominal mission. If an extended mission were approved, aerobraking over a period of two to three months would have reduced the orbital period to around nine hours.
+The rocket lifted off on November 16, 1996 at 20:48:53 UTC. The rocket performed properly up to parking orbit. The planned second burn of the Block D-2 fourth stage failed to take place. The spacecraft separated and then performed its engine burn automatically. Unfortunately, without the fourth stage burn, the spacecraft accelerated itself back into the Earth's atmosphere. The fourth stage re-entered on a later orbit. There is disagreement between American and Russian sources on the timeline.
+A review board could not determine whether the Mars 96 crash was due to failure of the Proton rocket Block D-2 upper stage or a malfunction of the Mars 96 spacecraft itself. The failure investigation board concluded that lack of telemetry data during critical parts of the mission prevented identification of the cause of the failure. The failure occurred at the second ignition of the Proton Block D-2 upper stage, while the spacecraft was out of range of Russian ground stations.
+The Mars 96 spacecraft carried 200 grams of plutonium-238 in the form of small pellets. They were designed to withstand heat and impact and are thought to have survived re-entry. The Block D-2 stage carried no plutonium. The spacecraft is believed to have crashed somewhere in a 320 km long by 80 wide oval running southwest to northeast and centered 32 km east of Iquique, Chile. No parts of the spacecraft or upper stage have been recovered.
+It was originally believed that the Mars 96 assembly burnt up in the atmosphere and the debris fell into the Pacific Ocean. However, in March 1997, the US Space Command admitted that it had miscalculated the satellite's path of re-entry. "We were aware of a number of eyewitness accounts of the re-entry event via the media several weeks after the re-entry occurred," wrote Major Stephen Boylan, Chief of the Media Division at the US Space Command in Colorado Springs. "Upon further analysis, we believe it is reasonable that the impact was in fact on land."
+Mars 96 carried four assemblies designed to enter the Martian atmosphere, two surface penetrators and two surface stations. These would almost certainly have survived entry into Earth's atmosphere. The two surface penetrators were designed to survive an impact with the ground. Despite this and the fact that the four assemblies carried a combined total of 200 grams of plutonium-238 for fuel, the Russians have not mounted any recovery effort to date.
+A number of later missions, both planned and successful, are based on the technology of Mars 96, for example ESA's Mars Express (launched in 2003), NetLander (cancelled) and its successor MetNet (proposed for launches in 2016-2019). Some of the equipment from Mars 96 was used in Mars 500 experiments 
+List of missions to Mars

@@ -1,0 +1,15 @@
+Utility fog (coined by Dr. John Storrs Hall in 1993) is a hypothetical collection of tiny robots that can replicate a physical structure. As such, it is a form of self-reconfiguring modular robotics.
+Hall thought of it as a nanotechnological replacement for car seatbelts. The robots would be microscopic, with extending arms reaching in several different directions, and could perform three-dimensional lattice reconfiguration. Grabbers at the ends of the arms would allow the robots (or foglets) to mechanically link to one another and share both information and energy, enabling them to act as a continuous substance with mechanical and optical properties that could be varied over a wide range. Each foglet would have substantial computing power, and would be able to communicate with its neighbors.
+In the original application as a replacement for seatbelts, the swarm of robots would be widely spread-out, and the arms loose, allowing air flow between them. In the event of a collision the arms would lock into their current position, as if the air around the passengers had abruptly frozen solid. The result would be to spread any impact over the entire surface of the passenger's body.
+While the foglets would be micro-scale, construction of the foglets would require full molecular nanotechnology. Hall suggests that each bot may be in the shape of a dodecahedron with 12 arms extending outwards. Each arm would have four degrees of freedom. The foglets' bodies would be made of aluminum oxide rather than combustible diamond to avoid creating a fuel air explosive.
+Hall and his correspondents soon realised that utility fog could be manufactured en masse to occupy the entire atmosphere of a planet and replace any physical instrumentality necessary to human life. By foglets exerting concerted force an object or human could be carried from location to location. Virtual buildings could be constructed and dismantled within moments, enabling the replacement of existing cities and roads with farms and gardens. While molecular nanotech might also replace the need for biological bodies, utility fog would remain a useful peripheral with which to perform physical engineering and maintenance tasks. Thus, utility fog also came to be known as ″the machine of the future".
+The Invincible, a 1964 science fiction novel with intrigue centered on nanobotic swarms
+Nanotechnology
+Molecular machines
+Programmable matter
+Nanorobotics
+Smartdust
+Claytronics
+Synthetic biology
+Self-Reconfiguring Modular Robotics
+Grey goo

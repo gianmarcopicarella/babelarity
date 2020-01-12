@@ -1,0 +1,370 @@
+In the mathematical discipline of graph theory, a matching or independent edge set in a graph is a set of edges without common vertices. It may also be an entire graph consisting of edges without common vertices. Bipartite matching is a special case of a network flow problem.
+Given a graph G = (V,E), a matching M in G is a set of pairwise non-adjacent edges; that is, no two edges share a common vertex.
+A vertex is matched (or saturated) if it is an endpoint of one of the edges in the matching. Otherwise the vertex is unmatched.
+A maximal matching is a matching M of a graph G with the property that if any edge not in M is added to M, it is no longer a matching, that is, M is maximal if it is not a proper subset of any other matching in graph G. In other words, a matching M of a graph G is maximal if every edge in G has a non-empty intersection with at least one edge in M. The following figure shows examples of maximal matchings (red) in three graphs.
+A maximum matching (also known as maximum-cardinality matching) is a matching that contains the largest possible number of edges. There may be many maximum matchings. The matching number 
+        ν
+        (
+        G
+        )
+    {\displaystyle \nu (G)}
+   of a graph 
+        G
+    {\displaystyle G}
+   is the size of a maximum matching. Note that every maximum matching is maximal, but not every maximal matching is a maximum matching. The following figure shows examples of maximum matchings in the same three graphs.
+A perfect matching (a.k.a. 1-factor) is a matching which matches all vertices of the graph. That is, every vertex of the graph is incident to exactly one edge of the matching. Figure (b) above is an example of a perfect matching. Every perfect matching is maximum and hence maximal. In some literature, the term complete matching is used. In the above figure, only part (b) shows a perfect matching. A perfect matching is also a minimum-size edge cover. Thus, ν(G) ≤ ρ(G) , that is, the size of a maximum matching is no larger than the size of a minimum edge cover.
+A near-perfect matching is one in which exactly one vertex is unmatched. This can only occur when the graph has an odd number of vertices, and such a matching must be maximum. In the above figure, part (c) shows a near-perfect matching. If, for every vertex in a graph, there is a near-perfect matching that omits only that vertex, the graph is also called factor-critical.
+Given a matching M,
+an alternating path is a path that begins with an unmatched vertex and is a  path in which the edges belong alternatively to the matching and not to the matching.
+an augmenting path is an alternating path that starts from and ends on free (unmatched) vertices.
+One can prove that a matching is maximum if and only if it does not have any augmenting path. (This result is sometimes called Berge's lemma.)
+In any graph without isolated vertices, the sum of the matching number and the edge covering number equals the number of vertices. If there is a perfect matching, then both the matching number and the edge cover number are |V| / 2.
+If A and B are two maximal matchings, then |A| ≤ 2|B| and |B| ≤ 2|A|. To see this, observe that each edge in B \ A can be adjacent to at most two edges in A \ B because A is a matching; moreover each edge in A \ B is adjacent to an edge in B \ A by maximality of B, hence
+          |
+        A
+        ∖
+        B
+          |
+        ≤
+        2
+          |
+        B
+        ∖
+        A
+          |
+        .
+    {\displaystyle |A\setminus B|\leq 2|B\setminus A|.}
+Further we get that
+          |
+        A
+          |
+        =
+          |
+        A
+        ∩
+        B
+          |
+        +
+          |
+        A
+        ∖
+        B
+          |
+        ≤
+        2
+          |
+        B
+        ∩
+        A
+          |
+        +
+        2
+          |
+        B
+        ∖
+        A
+          |
+        =
+        2
+          |
+        B
+          |
+        .
+    {\displaystyle |A|=|A\cap B|+|A\setminus B|\leq 2|B\cap A|+2|B\setminus A|=2|B|.}
+In particular, this shows that any maximal matching is a 2-approximation of a maximum matching and also a 2-approximation of a minimum maximal matching. This inequality is tight: for example, if G is a path with 3 edges and 4 nodes, the size of a minimum maximal matching is 1 and the size of a maximum matching is 2.
+A generating function of the number of k-edge matchings in a graph is called a matching polynomial. Let G be a graph and mk be the number of k-edge matchings. One matching polynomial of G is
+          ∑
+            k
+            ≥
+            0
+          m
+            k
+          x
+            k
+        .
+    {\displaystyle \sum _{k\geq 0}m_{k}x^{k}.}
+Another definition gives the matching polynomial as
+          ∑
+            k
+            ≥
+            0
+        (
+        −
+        1
+          )
+            k
+          m
+            k
+          x
+            n
+            −
+            2
+            k
+        ,
+    {\displaystyle \sum _{k\geq 0}(-1)^{k}m_{k}x^{n-2k},}
+where n is the number of vertices in the graph. Each type has its uses; for more information see the article on matching polynomials.
+Matching problems are often concerned with bipartite graphs. Finding a maximum bipartite matching (often called a maximum cardinality bipartite matching) in a bipartite graph 
+        G
+        =
+        (
+        V
+        =
+        (
+        X
+        ,
+        Y
+        )
+        ,
+        E
+        )
+    {\displaystyle G=(V=(X,Y),E)}
+   is perhaps the simplest problem.
+The Ford–Fulkerson algorithm finds it by repeatedly finding an augmenting path from some x ∈ X to some y ∈ Y and updating the matching M by taking the symmetric difference of that path with M (assuming such a path exists). As each path can be found in 
+        O
+        (
+        E
+        )
+    {\displaystyle \ O(E)}
+   time, the running time is 
+        O
+        (
+        V
+        E
+        )
+    {\displaystyle \ O(VE)}
+  . This solution is equivalent to adding a super source 
+        s
+    {\displaystyle s}
+   with edges to all vertices in 
+        X
+    {\displaystyle \ X}
+  , and a super sink 
+        t
+    {\displaystyle \ t}
+   with edges from all vertices in 
+        Y
+    {\displaystyle \ Y}
+  , and finding a maximal flow from 
+        s
+    {\displaystyle \ s}
+   to 
+        t
+    {\displaystyle \ t}
+  . All edges with flow from 
+        X
+    {\displaystyle \ X}
+   to 
+        Y
+    {\displaystyle \ Y}
+   then constitute a maximum matching.
+An improvement over this is the Hopcroft–Karp algorithm, which runs in 
+        O
+        (
+            V
+        E
+        )
+    {\displaystyle O({\sqrt {V}}E)}
+   time. An alternative randomized approach is based on the fast matrix multiplication algorithm and gives 
+        O
+        (
+          V
+            2.376
+        )
+    {\displaystyle O(V^{2.376})}
+   complexity, which is better in theory for sufficiently dense graphs, but in practice the algorithm is slower. Finally, for sparse graphs, 
+              O
+              ~
+        (
+          E
+            10
+              /
+            7
+        )
+    {\displaystyle {\tilde {O}}(E^{10/7})}
+   is possible with Madry's algorithm based on electric flows.
+In addition, the algorithm of Chandran and Hochbaum runs in time that depends on the size of the maximum matching 
+        k
+    {\displaystyle k}
+  , which for 
+          |
+        X
+          |
+        <
+          |
+        Y
+          |
+    {\displaystyle |X|<|Y|}
+   is 
+        O
+          (
+          min
+          {
+            |
+          X
+            |
+          k
+          ,
+          E
+          }
+          +
+              k
+          min
+          {
+            k
+              2
+          ,
+          E
+          }
+          )
+    {\displaystyle O\left(\min\{|X|k,E\}+{\sqrt {k}}\min\{k^{2},E\}\right)}
+  . Using boolean operations on words of size 
+        λ
+    {\displaystyle \lambda }
+   the complexity is further improved to 
+        O
+          (
+          min
+            {
+              |
+            X
+              |
+            k
+            ,
+                    |
+                  X
+                    |
+                    |
+                  Y
+                    |
+                λ
+            ,
+            E
+            }
+          +
+            k
+              2
+          +
+                k
+                  2.5
+              λ
+          )
+    {\displaystyle O\left(\min \left\{|X|k,{\frac {|X||Y|}{\lambda }},E\right\}+k^{2}+{\frac {k^{2.5}}{\lambda }}\right)}
+  .
+In a weighted bipartite graph, each edge has an associated value. A maximum weighted bipartite matching is defined as a matching where the sum of the values of the edges in the matching have a maximal value. If the graph is not complete bipartite, missing edges are inserted with value zero. Finding such a matching is known as the assignment problem. The Hungarian algorithm solves the assignment problem and it was one of the beginnings of combinatorial optimization algorithms. It uses a modified shortest path search in the augmenting path algorithm. If the Bellman–Ford algorithm is used for this step, the running time of the Hungarian algorithm becomes 
+        O
+        (
+          V
+            2
+        E
+        )
+    {\displaystyle O(V^{2}E)}
+  , or the edge cost can be shifted with a potential to achieve 
+        O
+        (
+          V
+            2
+        log
+        ⁡
+          V
+        +
+        V
+        E
+        )
+    {\displaystyle O(V^{2}\log {V}+VE)}
+   running time with the Dijkstra algorithm and Fibonacci heap.
+There is a 
+        O
+        (
+          V
+            2
+        E
+        )
+    {\displaystyle O(V^{2}E)}
+   time algorithm to find a maximum matching or a maximum weight matching in a graph that is not bipartite; it is due to Jack Edmonds, is called the paths, trees, and flowers method or simply Edmonds' algorithm, and uses bidirected edges. A generalization of the same technique can also be used to find maximum independent sets in claw-free graphs. Edmonds' algorithm has subsequently been improved to run in time O(√VE) time, matching the time for bipartite maximum matching.
+Another (randomized) algorithm by Mucha and Sankowski, based on the fast matrix multiplication algorithm, gives 
+        O
+        (
+          V
+            2.376
+        )
+    {\displaystyle O(V^{2.376})}
+   complexity.
+A maximal matching can be found with a simple greedy algorithm. A maximum matching is also a maximal matching, and hence it is possible to find a largest maximal matching in polynomial time. However, no polynomial-time algorithm is known for finding a minimum maximal matching, that is, a maximal matching that contains the smallest possible number of edges.
+Note that a maximal matching with k edges is an edge dominating set with k edges. Conversely, if we are given a minimum edge dominating set with k edges, we can construct a maximal matching with k edges in polynomial time. Therefore, the problem of finding a minimum maximal matching is essentially equal to the problem of finding a minimum edge dominating set. Both of these two optimisation problems are known to be NP-hard; the decision versions of these problems are classical examples of NP-complete problems. Both problems can be approximated within factor 2 in polynomial time: simply find an arbitrary maximal matching M.
+The number of matchings in a graph is known as the Hosoya index of the graph. It is #P-complete to compute this quantity, even for bipartite graphs. It is also #P-complete to count perfect matchings, even in bipartite graphs, because computing the permanent of an arbitrary 0–1 matrix (another #P-complete problem) is the same as computing the number of perfect matchings in the bipartite graph having the given matrix as its biadjacency matrix. However, there exists a fully polynomial time randomized approximation scheme for counting the number of bipartite matchings. A remarkable theorem of Kasteleyn states that the number of perfect matchings in a planar graph can be computed exactly in polynomial time via the FKT algorithm.
+The number of perfect matchings in a complete graph Kn (with n even) is given by the double factorial (n − 1)!!. The numbers of matchings in complete graphs, without constraining the matchings to be perfect, are given by the telephone numbers.
+One of the basic problems in matching theory is to find in a given graph all edges that may be extended to a maximum matching in the graph. (Such edges are called maximally-matchable edges, or allowed edges.) The best deterministic algorithm for solving this problem in general graphs runs in time 
+        O
+        (
+        V
+        E
+        )
+    {\displaystyle O(VE)}
+   . There exists a randomized algorithm that solves this problem in time 
+              O
+              ~
+        (
+          V
+            2.376
+        )
+    {\displaystyle {\tilde {O}}(V^{2.376})}
+   . In the case of bipartite graphs, it is possible to find a single maximum matching and then use it in order to find all maximally-matchable edges in linear time; the resulting overall runtime is 
+        O
+        (
+          V
+            1
+              /
+            2
+        E
+        )
+    {\displaystyle O(V^{1/2}E)}
+   for general bipartite graphs and 
+        O
+        (
+        (
+        V
+          /
+        log
+        ⁡
+        V
+          )
+            1
+              /
+            2
+        E
+        )
+    {\displaystyle O((V/\log V)^{1/2}E)}
+   for dense bipartite graphs with 
+        E
+        =
+        Θ
+        (
+          V
+            2
+        )
+    {\displaystyle E=\Theta (V^{2})}
+  . In cases where one of the maximum matchings is known upfront, the overall runtime of the algorithm is 
+        O
+        (
+        V
+        +
+        E
+        )
+    {\displaystyle O(V+E)}
+  .
+König's theorem states that, in bipartite graphs, the maximum matching is equal in size to the minimum vertex cover. Via this result, the minimum vertex cover, maximum independent set, and maximum vertex biclique problems may be solved in polynomial time for bipartite graphs.
+Hall's marriage theorem provides a characterization of bipartite graphs which have a perfect matching and the Tutte theorem provides a characterization for arbitrary graphs.
+A perfect matching is a spanning 1-regular subgraph, a.k.a. a 1-factor. In general, a spanning k-regular subgraph is a k-factor.
+A Kekulé structure of an aromatic compound consists of a perfect matching of its carbon skeleton, showing the locations of double bonds in the chemical structure. These structures are named after Friedrich August Kekulé von Stradonitz, who showed that benzene (in graph theoretical terms, a 6-vertex cycle) can be given such a structure.
+The Hosoya index is the number of non-empty matchings plus one; it is used in computational chemistry and mathematical chemistry investigations for organic compounds.
+Graduation problem is about choosing minimum set of classes from given requirements for graduation.
+Hitchcock Transport Problem involves bipartite matching as sub-problem.
+Subtree isomorphism problem involves bipartite matching as sub-problem.
+Dulmage–Mendelsohn decomposition, a partition of the vertices of a bipartite graph into subsets such that each edge belongs to a perfect matching if and only if its endpoints belong to the same subset
+Edge coloring, a partition of the edges of a graph into matchings
+Matching preclusion, the minimum number of edges to delete to prevent a perfect matching from existing
+Rainbow matching, a matching in an edge-colored bipartite graph with no repeated colors
+Skew-symmetric graph, a type of graph that can be used to model alternating path searches for matchings
+Stable matching, a matching in which no two elements prefer each other to their matched partners
+Vertex independent set, a set of vertices (rather than edges) no two of which are adjacent to each other
+Stable marriage problem (also known as stable matching problem)

@@ -1,0 +1,83 @@
+The imperative is a grammatical mood that forms commands or requests, including the giving of prohibition or permission, or any other kind of advice or exhortation.
+An example of a verb in the imperative mood is be in the English sentence "Please be quiet". Imperatives of this type imply a second-person subject (you); some languages also have first- and third-person imperatives, with the meaning of "let's (do something)" or "let him/her/them (do something)" (these forms may alternatively be called cohortative and jussive).
+Imperative mood can be denoted by the glossing abbreviation IMP. It is one of the irrealis moods.
+Imperative mood is often expressed using special conjugated verb forms. Like other finite verb forms, imperatives often inflect for person and number. Second-person imperatives (used for ordering or requesting performance directly from the person being addressed) are most common, but some languages also have imperative forms for the first and third persons (alternatively called cohortative and jussive respectively).
+In English, the imperative is formed using the bare infinitive form of the verb (see English verbs for more details). This is usually also the same as the second-person present indicative form, except in the case of the verb to be, where the imperative is be while the indicative is are. (The present subjunctive always has the same form as the imperative, although it is negated differently – the imperative is negated using do not, as in "Don't touch me!"; see do-support.) The imperative form is understood as being in the second person (the subject pronoun you is usually omitted, although it can be included for emphasis), with no explicit indication of singular or plural. First and third person imperatives are expressed periphrastically, using a construction with the imperative of the verb let:
+Let us (Let's) have a drink! (equivalent to a first person plural imperative)
+Let him/her/them be happy! (equivalent to a third person imperative; constructions with may are also used)
+Other languages such as Latin, French and German have a greater variety of inflected imperative forms, marked for person and number, their formation often depending on a verb's conjugation pattern. Examples can be found in the specific language sections below. In languages that make a T–V distinction (tu vs. vous, du vs. Sie, etc.) the use of particular forms of the second person imperative may also be dependent on the degree of familiarity between the speaker and the addressee, as with other verb forms.
+The second person singular imperative often consists of just the stem of the verb, without any ending – this is the case in the Slavic languages, for example.
+Imperative sentences sometimes use different syntax than declarative or other types of clauses. There may also be differences of syntax between affirmative and negative imperative sentences. In some cases the imperative form of the verb is itself different when negated. A distinct negative imperative form is sometimes said to be in prohibitive or 'vetative' mood (abbreviated PROH).
+Many languages, even not normally null-subject languages, omit the subject pronoun in imperative sentences, as usually occurs in English (see below). Details of the syntax of imperative sentences in certain other languages, and of differences between affirmative and negative imperatives, can be found in some of the other specific language sections below.
+Imperatives are used principally for ordering, requesting or advising the listener to do (or not to do) something: "Put down the gun!"; "Pass me the sauce"; "Don't go too near the tiger." They are also often used for giving instructions as to how to perform a task ("Install the file, then restart your computer"). They can sometimes be seen on signs giving orders or warnings ("Stop"; "Give way"; "Do not enter").
+The use of the imperative mood may be seen as impolite, inappropriate or even offensive in certain circumstances. In polite speech, orders or requests are often phrased instead as questions or statements, rather than as imperatives:
+Could you come here for a moment? (more polite than "Come here!")
+It would be great if you made us a drink. (for "Make us a drink!")
+I have to ask you to stop. (for "Stop!")
+Politeness strategies (for instance, indirect speech acts) can seem more appropriate in order not to threaten a conversational partner in their needs of self-determination and territory: the partner's negative face should not appear threatened. As well as the replacement of imperatives with other sentence types as discussed above, there also often exist methods of phrasing an imperative in a more polite manner, such as the addition of a word like please or a phrase like if you could.
+Imperatives are also used for speech acts whose function is essentially not to make an order or request, but to give an invitation, give permission, express a wish, make an apology, etc.:
+Come to the party tomorrow! (invitation)
+Eat the apple if you want. (permission)
+Have a nice trip! (wish)
+Pardon me. (apology)
+Visit Estonia! (advertisement)
+When written, imperative sentences are often, but not always, terminated with an exclamation mark.
+First person plural imperatives (cohortatives) are used mainly for suggesting an action to be performed together by the speaker and the addressee (and possibly other people): "Let's go to Barbados this year"; "Let us pray". Third person imperatives (jussives) are used to suggest or order that a third party or parties be permitted or made to do something: "Let them eat cake"; "Let him be executed".
+There is an additional imperative form that is used for general prohibitions, consisting of the word "no" followed by the gerund form. The best known examples are "No Smoking" and "No Parking". This form does not have a positive form; that is, "Parking" by itself has no meaning unless used as a noun when it tells that parking is permitted.
+For more details on imperatives in the languages listed below, and in languages that are not listed, see the articles on the grammar of the specific languages.
+English usually omits the subject pronoun in imperative sentences:
+You work hard. (indicative)
+Work hard! (imperative; subject pronoun you omitted)
+However, it is possible to include the you in imperative sentences for emphasis.
+English imperatives are negated using don't (as in "Don't work!") This is a case of do-support as found in indicative clauses; however in the imperative it applies even in the case of the verb be (which does not use do-support in the indicative):
+You are not late. (indicative)
+Don't be late! (imperative)
+It is also possible to use do-support in affirmative imperatives, for emphasis or (sometimes) politeness: "Do be quiet!"; "Do help yourself!".
+The subject you may be included for emphasis in negated imperatives as well ("You don't touch these!") There is also a fairly common construction where you (not necessarily emphasized) follows don't: "Don't you touch these!"
+Latin regular imperatives include amā (2nd pers. singular) and amāte (2nd pers. plural), from the infinitive amāre ("to love"); similarly monē and monēte from monēre ("to advise/warn"); audī and audīte from audīre ("to hear"), etc. The negative imperative is formed with the infinitive of the verb, preceded by the imperative of nōlle ("to not want"): nōlī stāre ("don't stand", 2nd pers. singular) and nōlīte stāre (2nd pers. plural); compare the positive imperative stā ("stand", 2nd pers. singular) and stāte (2nd pers. plural).
+For third-person imperatives, the subjunctive mood is used instead.
+Latin also has a future imperative form. The corresponding forms are amātō (singular) and amātōte (plural), monētō and monētōte, audītō and audītōte. Unlike the present imperative, the future imperative also has special forms for the third person (amantō, monentō, audiuntō). See Latin conjugation.
+German verbs have a singular and a plural imperative. The singular imperative is equivalent to the bare stem or the bare stem + -e. (In most verbs, both ways are correct.) The plural imperative is the same as the second-person plural of the present tense.
+sing! or: singe! — said to one person: “sing!”
+singt! — said to a group of persons: “sing!”
+In order to emphasize their addressee, German imperatives can be followed by the nominative personal pronouns du (“thou; you [sg.]”) or ihr (“you [pl.]”), respectively. For example: Geh weg! – Geh du doch weg! (“Go away!” – “Why, you go away!”).
+German has T/V distinction, which means that the pronouns du and ihr are used chiefly towards persons with whom one is privately acquainted, which holds true for the corresponding imperatives. (For details see German grammar.) Otherwise, the social-distance pronoun Sie (“you”) is used for both singular and plural. Since there exists no actual imperative corresponding to Sie, the form is paraphrased with the third-person plural of the present subjunctive followed by the pronoun:
+singen Sie! — said to one or more persons: “sing!”
+seien Sie still! — said to one or more persons: “be quiet!”
+German can theoretically form past imperatives and passive imperatives, simply by using the imperative form of the respective auxiliary verbs: habe gesungen! (“[you shall] have sung!”), werde geliebt! (“[you shall] be loved!”), sei geliebt worden! (“[you shall] have been loved!”). None of such forms is really current, however.
+Like English, German features many constructions that express commands, wishes, etc. They are thus semantically related to imperatives without being imperatives grammatically:
+lasst uns singen! (“let’s sing!”)
+mögest du singen! (“may you sing!”)
+du sollst singen! (“you shall sing!”)
+Examples of regular imperatives in French are mange (2nd pers. singular), mangez (2nd pers. plural) and mangeons (1st person plural, "let's eat"), from manger ("to eat") – these are similar or identical to the corresponding present indicative forms, although there are some irregular imperatives that resemble the present subjunctives, such as sois, soyez and soyons, from être ("to be"). A third person imperative can be formed using a subjunctive clause with the conjunction que, as in qu'ils mangent de la brioche ("let them eat cake").
+French uses different word order for affirmative and negative imperative sentences:
+Donne-le-leur. ("Give it to them.")
+Ne le leur donne pas. ("Don't give it to them.")
+The negative imperative (prohibitive) has the same word order as the indicative. See French personal pronouns: Clitic order for detail. Like in English, imperative sentences often end with an exclamation mark, e.g. to emphasize an order.
+In Spanish, imperatives for the familiar singular second person (tú) are usually identical to indicative forms for the singular third person. However, there are irregular verbs for which unique imperative forms for tú exist. vos (alternative to tú) usually takes the same forms as tú (usually with slightly different emphasis) but unique forms exist for it as well. vosotros (plural familiar second person) also takes unique forms for the imperative.
+If an imperative takes a pronoun as an object, it is appended to the verb; for example, Dime ("Tell me"). Pronouns can be stacked like they can in indicative clauses:
+Me lo dices. ("You tell me it" or "You tell it to me", can also mean "You tell me" as lo usually isn't translated)
+Dímelo. ("Tell me it", "Tell it to me", "Tell me")
+Imperatives can be formed for usted (singular formal second person), ustedes (plural second person), and nosotros (plural first person) from the respective present subjunctive form. Negative imperatives for these pronouns (as well as tú, vos, and vosotros) are also formed this way, but are negated by no (e.g. No cantes, "Don't sing").
+In Portuguese, affirmative imperatives for singular and plural second person (tu/vós) derive from their respective present indicative conjugations, after having their final -s dropped†. On the other hand, their negative imperatives are formed by their respective subjunctive forms, as well as both affirmative and negative imperatives for treatment pronouns (você(s)) and plural second person (nós)
+†There are some exceptions to this rule; mainly for phonetical reasons and for vós, which hold vós's archaic conjugation paradigm, -des.
+if a verb takes a pronoun, it should be appended to the verb:
+Diz(e)-me. (Tell me) Portugal/Brazil
+Me diz.(Tell me) Brazil (spoken)
+Diz(e)-mo. ("Tell me it", "Tell it to me")
+Ancient Greek has imperative forms for present, aorist, and perfect tenses for the active, middle, and passive voices. Within these tenses, forms exist for second and third persons, for singular, dual, and plural subjects. Subjunctive forms with μή are used for negative imperatives in the aorist.
+Present Active Imperative: λείπε, λειπέτω, λείπετε, λειπόντων.
+Irish has imperative forms in all three persons and both numbers, although the first person singular is most commonly found in the negative (e.g. ná cloisim sin arís "let me not hear that again").
+In Sanskrit, लोट् लकार् (lōṭ lakār) is used with the verb to form the imperative mood. To form the negative, न (na) is placed before the verb in the imperative mood.
+In Finnish, there are two ways of forming a first-person plural imperative. A standard version exists, but it is typically replaced colloquially by the impersonal tense. For example, from mennä ("to go"), the imperative "let's go" can be expressed by menkäämme (standard form) or mennään (colloquial).
+Forms also exist for second (sing. mene, plur. menkää) and third (sing. menköön, plur. menkööt) person. Only first person singular doesn't have an imperative.
+Generally, in Semitic languages, every word belongs to a word-family, and is, actually, a conjugation of word-family's three consonant roots. The various conjugations are made by adding vowels to the root consonants and by adding prefixes, in front or after the root consonant. For example, the conjugations of the root K.T.B (כ.ת.ב. ك.ت.ب), both in Hebrew and in Arabic, are words that have something to do with writing. Nouns like a reporter or a letter and verbs like to write or to dictate are conjugations of the root K.T.B. The verbs are further conjugated to bodies, times, and so on.
+Both in classic Hebrew and in classic Arabic, there is a form for positive imperative. It exists for singular and plural, masculine and feminine second-person. The imperative conjugations look like shortages of the future ones. However, in modern Hebrew, the imperative is used very colloquial, and often, the future tense is used in its place.
+The negative imperative in those languages is more complicated. In modern Hebrew, for instance, it contains a synonym of the word "no", that is used only in negative imperative (אַל), and is followed by the future tense.
+(In Hebrew, some of the Bs sounds like V, and some like B)
+Japanese uses separate verb forms as shown below. For the verb kaku (write):
+See also the suffixes 〜なさい (–nasai) and 〜下さい/ください (–kudasai).
+Korean language has 6 levels of honorific, all of which have their own imperative endings. Auxiliary verbs 않다 anta and 말다 malda are used for negative indicative and prohibitive, respectively. For the verb gada (“go”'):
+Standard Chinese uses different words of negation for the indicative and the prohibitive moods. For the verb 做 zuò (do):
+For the most common imperative form, the second person singular, Turkish uses the bare verb stem without the infinitive ending -mek/-mak. Other imperative forms use various suffixes. In the second person plural there are two forms: the formal imperative with the suffix -in/-ın/-un/-ün, and the public imperative used for notices and advice, which uses the suffix -iniz/-ınız/-unuz/-ünüz. All Turkish imperative suffixes change depending on the verb stem according to the rules of vowel harmony. For the verb içmek ("to drink", also "to smoke" a cigarette or similar):
+Negative imperative forms are made in the same way, but using a negated verb as the base. For example, the second person singular imperative of içmemek ("not to drink") is içme ("Don't drink!"). Other Turkic languages construct imperative forms similarly to Turkish.

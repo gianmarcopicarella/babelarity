@@ -1,0 +1,32 @@
+Edward Norton Lorenz (May 23, 1917 – April 16, 2008) was an American mathematician, meteorologist, and a pioneer of chaos theory. He introduced the strange attractor notion and coined the term butterfly effect.
+Lorenz was born in West Hartford, Connecticut. He studied mathematics at both Dartmouth College in New Hampshire and Harvard University in Cambridge, Massachusetts. From 1942 until 1946, he served as a meteorologist for the United States Army Air Corps. After his return from World War II, he decided to study meteorology. Lorenz earned two degrees in the area from the Massachusetts Institute of Technology where he later was a professor for many years. He was a Professor Emeritus at MIT from 1987 until his death.
+During the 1950s, Lorenz became skeptical of the appropriateness of the linear statistical models in meteorology, as most atmospheric phenomena involved in weather forecasting are non-linear. His work on the topic culminated in the publication of his 1963 paper "Deterministic Nonperiodic Flow" in Journal of the Atmospheric Sciences, and with it, the foundation of chaos theory. He states in that paper:
+Two states differing by imperceptible amounts may eventually evolve into two considerably different states ... If, then, there is any error whatever in observing the present state—and in any real system such errors seem inevitable—an acceptable prediction of an instantaneous state in the distant future may well be impossible....In view of the inevitable inaccuracy and incompleteness of weather observations, precise very-long-range forecasting would seem to be nonexistent.
+His description of the butterfly effect followed in 1969. He was awarded the Kyoto Prize for basic sciences, in the field of earth and planetary sciences, in 1991, the Buys Ballot Award in 2004, and the Tomassoni Award in 2008.  In his later years, he lived in Cambridge, Massachusetts. He was an avid outdoorsman, who enjoyed hiking, climbing, and cross-country skiing. He kept up with these pursuits until very late in his life, and managed to continue most of his regular activities until only a few weeks before his death. According to his daughter, Cheryl Lorenz, Lorenz had "finished a paper a week ago with a colleague." On April 16, 2008, Lorenz died at his home in Cambridge at the age of 90, having suffered from cancer.
+1969 Carl-Gustaf Rossby Research Medal, American Meteorological Society.
+1973 Symons Gold Medal, Royal Meteorological Society.
+1975 Fellow, National Academy of Sciences (U.S.A.).
+1981 Member, Norwegian Academy of Science and Letters.
+1983 Crafoord Prize, Royal Swedish Academy of Sciences.
+1984 Honorary Member, Royal Meteorological Society.
+1989 Elliott Cresson Medal, The Franklin Institute
+1991 Kyoto Prize for ‘… his boldest scientific achievement in discovering "deterministic chaos" .’
+2000 International Meteorological Organization Prize from World Meteorological Organization
+2004 Buys Ballot medal.
+2004 Lomonosov Gold Medal
+Lorenz built a mathematical model of the way air moves around in the atmosphere. As Lorenz studied weather patterns he began to realize that the weather patterns did not always behave as predicted. Minute variations in the initial values of variables in his twelve-variable computer weather model (c. 1960, running on an LGP-30 desk computer) would result in grossly divergent weather patterns. This sensitive dependence on initial conditions came to be known as the butterfly effect (it also meant that weather predictions from more than about a week out are generally fairly inaccurate).
+Lorenz went on to explore the underlying mathematics and published his conclusions in a seminal work titled Deterministic Nonperiodic Flow, in which he described a relatively simple system of equations that resulted in a very complicated dynamical object now known as the Lorenz attractor.
+Lorenz published several books and articles. A selection:
+1955 Available potential energy and the maintenance of the general circulation. Tellus. Vol.7
+1963 Deterministic nonperiodic flow. Journal of Atmospheric Sciences. Vol.20 : 130—141 link.
+1967 The nature and theory of the general circulation of atmosphere. World Meteorological Organization. No.218
+"Three approaches to atmospheric predictability" (PDF). Bulletin of the American Meteorological Society 50: 345–349. 1969. 
+1972 Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas? link
+1976 Nondeterministic theories of climate change. Quaternary Research. Vol.6
+1990 Can chaos and intransitivity lead to interannual variability? Tellus. Vol.42A
+2005 Designing Chaotic Models. Journal of the Atmospheric Sciences: Vol. 62, No. 5, pp. 1574–1587.
+Attractor
+Experimental mathematics
+Lorenz attractor
+Meteorology
+Numerical weather prediction

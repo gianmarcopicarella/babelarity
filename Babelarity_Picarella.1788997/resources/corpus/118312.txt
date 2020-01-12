@@ -1,0 +1,37 @@
+Traditional Chinese astronomy has a system of dividing the celestial sphere into asterisms or constellations, known as "officials" (Chinese 星官 xīng guān).
+The Chinese asterisms are generally smaller than the constellations of Hellenistic tradition. The Song dynasty (13th-century) Suzhou planisphere shows a total of 283 asterisms, comprising a total of 1,565 individual stars.  The asterisms are divided into four groups, the Twenty-Eight Mansions along the ecliptic, and the Three Enclosures of the northern sky. The southern sky was added as a fifth group in the late Ming Dynasty based on European star charts, comprising an additional 23 asterisms.
+The Three Enclosures (三垣, Sān Yuán) are centered on the North Celestial Pole and include those stars which could be seen year-round.
+The Twenty-Eight Mansions (二十八宿, Èrshíbā Xiù) form an ecliptic coordinate system used for those stars not visible (from China) during the whole year, based on the movement of the moon over a lunar month.
+The Chinese system developed independently from the Greco-Roman system since at least the 5th century BC, although there may have been earlier mutual influence, suggested by parallels to ancient Babylonian astronomy.
+The system of twenty-eight lunar mansions is very similar (although not identical) to the Indian Nakshatra system, and it is not currently known if there was mutual influence in the history of the Chinese and Indian systems.
+The oldest extant Chinese star maps date to the Tang dynasty. Notable among them are the 8th-century Treatise on Astrology of the Kaiyuan Era and Dunhuang Star Chart. It contains collections of earlier Chinese astronomers (Shi Shen, Gan De and Wu Xian) as well as of Indian astronomy (which had reached China in the early centuries AD). Gan De was a Warring States era (5th century BC) astronomer who according to the testimony of the Dunhuang Star Chart enumerated 810 stars in 138 asterisms. The Dunhuang Star Chart itself has 1,585 stars grouped into 257 asterisms.
+The number of asterisms, or of stars grouped into asterisms, never became fixed, but remained in the same order of magnitude (for the purpose of comparison, the star catalogue compiled by Ptolemy in the 2nd century had 1,022 stars in 48 constellations). The 13th-century Suzhou star chart has 1,565 stars in 283 asterisms, the 14th-century Korean Cheonsang Yeolcha Bunyajido has 1,467 stars in 264 asterisms, and the celestial globe made by Flemish Jesuit Ferdinand Verbiest for the Kangxi Emperor in 1673 has 1,876 stars in 282 asterisms.
+The southern sky was unknown to the ancient Chinese and is consequently not included in the traditional system. With European contact in the 16th century, Xu Guangqi , an astronomer of the late Ming Dynasty, introduced another 23 asterisms based on European star charts. The "Southern Sky" (近南極星區) asterisms are now also treated as part of the traditional Chinese system.
+The Chinese word for "star, heavenly body" is 星 xīng. The character 星 is phonosemantic, its ideographic portion is 晶 (the character for jīng "bright radiant"), in origin depicting three twinkling stars (three times the "sun" radical 日).
+The modern Chinese term for "constellation" referring to the IAU system is 星座 (xīng zuò, 座 being a classifier for large immovable objects), while the term 星官 xīng guān remains reserved for the traditional system. The character 官 means "public official" (hence the English translation "officials" for the Chinese asterisms), but it is historically a variant glyph of 宮 gōng "temple, palace", in origin a pictogram of a large building.
+The generic term for "asterism" is 星群 (xīng qún, lit. "group of stars").
+The Three Enclosures are the Purple Forbidden enclosure (紫微垣, Zǐ Wēi Yuán), the Supreme Palace enclosure (太微垣, Tài Wēi Yuán) and the Heavenly Market enclosure (天市垣, Tiān Shì Yuán).
+Purple Forbidden enclosure covers the northernmost area of the night sky. The Supreme Palace enclosure lies to its east and north, while the Heavenly Market enclosure lies to its west and south.
+The Three Enclosures are separated by named by synecdoche for the asterisms separating them, designated 垣 yuán "low wall, fence; enclosure" (not to be confused with the lunar mansion ""Wall" 壁):
+Supreme Palace Left Wall 太微左垣 (Virgo / Coma Berenices)
+Supreme Palace Right Wall 太微右垣 (Leo / Virgo)
+Heavenly Market Left Wall 天市左垣 (Hercules / Serpens / Ophiuchus / Aquila)
+Heavenly Market Right Wall 天市右垣 (Serpens / Ophiuchus / Hercules)
+The Purple Forbidden Enclosure occupies the northernmost area of the night sky. From the viewpoint of the ancient Chinese, the Purple Forbidden Enclosure lies in the middle of the sky and is circled by all the other stars. It covers the modern constellations Ursa Minor, Draco, Camelopardalis, Cepheus, Cassiopeia, Auriga, Boötes, and parts of Ursa Major, Canes Venatici, Leo Minor, Hercules.
+The Supreme Palace Enclosure covers the modern constellations Virgo, Coma Berenices and Leo, and parts of Canes Venatici, Ursa Major and Leo Minor.
+The Heavenly Market Enclosure covers the modern constellations Serpens, Ophiuchus, Aquila and Corona Borealis, and parts of Hercules.
+The Twenty-Eight Mansions are grouped into Four Symbols, each associated with a compass direction and containing seven mansions. The names and determinative stars are:
+The sky around the south celestial pole was unknown to ancient Chinese. Therefore, it was not included in the Three Enclosures and Twenty-Eight Mansions system. However, by the end of the Ming Dynasty, Xu Guangqi introduced another 23 asterisms based on the knowledge of European star charts. These asterisms were since incorporated into the traditional Chinese star maps.
+The asterisms are :
+Ancient Chinese astronomers designated names to the visible stars systematically, roughly more than one thousand years before Johann Bayer did it in a similar way. Basically, every star is assigned to an asterism. Then a number is given to the individual stars in this asterism. Therefore, a star is designated as "Asterism name" + "Number". The numbering of the stars in an asterism, however, is not based on the apparent magnitude of this star, but rather its position in the asterism. (The Bayer system does use this Chinese method sometimes, most notably with the stars in the Big Dipper, which are all about the same magnitude.)
+For example, Altair is named 河鼓二 in Chinese. 河鼓 is the name of the asterism (literally the Drum at the River). 二 is the number designation (two). Therefore, it literally means "the Second Star of the Drum at the River". (Bayer might have called Altair "Beta Tympani Flumine" if he had been cataloguing Chinese constellations.)
+Some stars also have traditional names, often related to mythology or astrology. For example, Altair is more commonly known as 牛郎星 or 牵牛星 (the Star of the Cowherd) in Chinese, after the mythological story of the Cowherd and Weaver Girl.
+These designations are still used in modern Chinese astronomy. All stars for which the traditional names are used in English are routinely translated by their traditional Chinese designations, rather than translations of their catalogue names.
+The following is a list of the 88 IAU constellations with the Chinese translation of their names. Each linked article provides a list of the (traditional) Chinese names of the stars within each (modern) constellation.
+Chinese calendar
+Four Symbols (Chinese constellation)
+Lunar mansion
+Five elements (Chinese)
+Nakshatra
+Traditional Chinese star names
+Chinese star maps

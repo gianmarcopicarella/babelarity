@@ -1,0 +1,465 @@
+In mathematics, a matrix is said to be diagonally dominant if for every row of the matrix, the magnitude of the diagonal entry in a row is larger than or equal to the sum of the magnitudes of all the other (non-diagonal) entries in that row. More precisely, the matrix A is diagonally dominant if
+          |
+          a
+            i
+            i
+          |
+        ≥
+          ∑
+            j
+            ≠
+            i
+          |
+          a
+            i
+            j
+          |
+          for all 
+        i
+        ,
+    {\displaystyle |a_{ii}|\geq \sum _{j\neq i}|a_{ij}|\quad {\text{for all }}i,\,}
+where aij denotes the entry in the ith row and jth column.
+Note that this definition uses a weak inequality, and is therefore sometimes called weak diagonal dominance. If a strict inequality (>) is used, this is called strict diagonal dominance. The unqualified term diagonal dominance can mean both strict and weak diagonal dominance, depending on the context.
+The definition in the first paragraph sums entries across rows. It is therefore sometimes called row diagonal dominance. If one changes the definition to sum down columns, this is called column diagonal dominance.
+If an irreducible matrix is weakly diagonally dominant, but in at least one row (or column) is strictly diagonally dominant, then the matrix is irreducibly diagonally dominant.
+The matrix
+          A
+        =
+            [
+                  3
+                  −
+                  2
+                  1
+                  1
+                  −
+                  3
+                  2
+                  −
+                  1
+                  2
+                  4
+            ]
+    {\displaystyle \mathbf {A} ={\begin{bmatrix}3&-2&1\\1&-3&2\\-1&2&4\end{bmatrix}}}
+gives
+          |
+          a
+            11
+          |
+        ≥
+          |
+          a
+            12
+          |
+        +
+          |
+          a
+            13
+          |
+    {\displaystyle |a_{11}|\geq |a_{12}|+|a_{13}|}
+     since   
+          |
+        3
+          |
+        ≥
+          |
+        −
+        2
+          |
+        +
+          |
+        1
+          |
+    {\displaystyle |3|\geq |-2|+|1|}
+          |
+          a
+            22
+          |
+        ≥
+          |
+          a
+            21
+          |
+        +
+          |
+          a
+            23
+          |
+    {\displaystyle |a_{22}|\geq |a_{21}|+|a_{23}|}
+     since   
+          |
+        −
+        3
+          |
+        ≥
+          |
+        1
+          |
+        +
+          |
+        2
+          |
+    {\displaystyle |-3|\geq |1|+|2|}
+          |
+          a
+            33
+          |
+        ≥
+          |
+          a
+            31
+          |
+        +
+          |
+          a
+            32
+          |
+    {\displaystyle |a_{33}|\geq |a_{31}|+|a_{32}|}
+     since   
+          |
+        4
+          |
+        ≥
+          |
+        −
+        1
+          |
+        +
+          |
+        2
+          |
+    {\displaystyle |4|\geq |-1|+|2|}
+  .
+Because the magnitude of each diagonal element is greater than or equal to the sum of the magnitude of other elements in the row, A is diagonally dominant.
+The matrix
+          B
+        =
+            [
+                  −
+                  2
+                  2
+                  1
+                  1
+                  3
+                  2
+                  1
+                  −
+                  2
+                  0
+            ]
+    {\displaystyle \mathbf {B} ={\begin{bmatrix}-2&2&1\\1&3&2\\1&-2&0\end{bmatrix}}}
+But here,
+          |
+          b
+            11
+          |
+        <
+          |
+          b
+            12
+          |
+        +
+          |
+          b
+            13
+          |
+    {\displaystyle |b_{11}|<|b_{12}|+|b_{13}|}
+     since   
+          |
+        −
+        2
+          |
+        <
+          |
+        2
+          |
+        +
+          |
+        1
+          |
+    {\displaystyle |-2|<|2|+|1|}
+          |
+          b
+            22
+          |
+        ≥
+          |
+          b
+            21
+          |
+        +
+          |
+          b
+            23
+          |
+    {\displaystyle |b_{22}|\geq |b_{21}|+|b_{23}|}
+     since   
+          |
+        3
+          |
+        ≥
+          |
+        1
+          |
+        +
+          |
+        2
+          |
+    {\displaystyle |3|\geq |1|+|2|}
+          |
+          b
+            33
+          |
+        <
+          |
+          b
+            31
+          |
+        +
+          |
+          b
+            32
+          |
+    {\displaystyle |b_{33}|<|b_{31}|+|b_{32}|}
+     since   
+          |
+        0
+          |
+        <
+          |
+        1
+          |
+        +
+          |
+        −
+        2
+          |
+    {\displaystyle |0|<|1|+|-2|}
+  .
+Because 
+          |
+          b
+            11
+          |
+    {\displaystyle |b_{11}|}
+   and 
+          |
+          b
+            33
+          |
+    {\displaystyle |b_{33}|}
+   are less than the sum of the magnitude of other elements in their respective row, B is not diagonally dominant.
+The matrix
+          C
+        =
+            [
+                  −
+                  4
+                  2
+                  1
+                  1
+                  6
+                  2
+                  1
+                  −
+                  2
+                  5
+            ]
+    {\displaystyle \mathbf {C} ={\begin{bmatrix}-4&2&1\\1&6&2\\1&-2&5\end{bmatrix}}}
+gives
+          |
+          c
+            11
+          |
+        ≥
+          |
+          c
+            12
+          |
+        +
+          |
+          c
+            13
+          |
+    {\displaystyle |c_{11}|\geq |c_{12}|+|c_{13}|}
+     since   
+          |
+        −
+        4
+          |
+        >
+          |
+        2
+          |
+        +
+          |
+        1
+          |
+    {\displaystyle |-4|>|2|+|1|}
+          |
+          c
+            22
+          |
+        ≥
+          |
+          c
+            21
+          |
+        +
+          |
+          c
+            23
+          |
+    {\displaystyle |c_{22}|\geq |c_{21}|+|c_{23}|}
+     since   
+          |
+        6
+          |
+        >
+          |
+        1
+          |
+        +
+          |
+        2
+          |
+    {\displaystyle |6|>|1|+|2|}
+          |
+          c
+            33
+          |
+        ≥
+          |
+          c
+            31
+          |
+        +
+          |
+          c
+            32
+          |
+    {\displaystyle |c_{33}|\geq |c_{31}|+|c_{32}|}
+     since   
+          |
+        5
+          |
+        >
+          |
+        1
+          |
+        +
+          |
+        −
+        2
+          |
+    {\displaystyle |5|>|1|+|-2|}
+  .
+Because the magnitude of each diagonal element is greater than the sum of the magnitude of the other elements in the row, C is strictly diagonally dominant.
+A strictly diagonally dominant matrix (or an irreducibly diagonally dominant matrix) is non-singular. This result is known as the Levy–Desplanques theorem. This can be proved, for strictly diagonal dominant matrices, using the Gershgorin circle theorem.
+A Hermitian diagonally dominant matrix 
+        A
+    {\displaystyle A}
+   with real non-negative diagonal entries is positive semidefinite. (Proof: Let the diagonal matrix 
+        D
+    {\displaystyle D}
+   contain the diagonal entries of 
+        A
+    {\displaystyle A}
+  . Connect 
+        A
+    {\displaystyle A}
+   and 
+        D
+        +
+        I
+    {\displaystyle D+I}
+   via a segment of matrices 
+        M
+        (
+        t
+        )
+        =
+        (
+        1
+        −
+        t
+        )
+        (
+        D
+        +
+        I
+        )
+        +
+        t
+        A
+    {\displaystyle M(t)=(1-t)(D+I)+tA}
+  . This segment consists of strictly diagonally dominant (thus nonsingular) matrices, except maybe for 
+        A
+    {\displaystyle A}
+  . This shows that 
+          d
+          e
+          t
+        (
+        A
+        )
+        ≥
+        0
+    {\displaystyle \mathrm {det} (A)\geq 0}
+  . Applying this argument to the principal minors of 
+        A
+    {\displaystyle A}
+  , the positive semidefiniteness follows by Sylvester's criterion.)
+If the symmetry requirement is eliminated, such a matrix is not necessarily positive semidefinite (for example, 
+            (
+                  −
+                      5
+                  2
+                  1
+            )
+            (
+                  1
+                  1
+                  0
+                  1
+                  1
+                  0
+                  1
+                  0
+                  1
+            )
+            (
+                  −
+                      5
+                  2
+                  1
+            )
+        =
+        10
+        −
+        5
+            5
+        <
+        0
+    {\displaystyle {\begin{pmatrix}-{\sqrt {5}}&2&1\end{pmatrix}}{\begin{pmatrix}1&1&0\\1&1&0\\1&0&1\end{pmatrix}}{\begin{pmatrix}-{\sqrt {5}}\\2\\1\end{pmatrix}}=10-5{\sqrt {5}}<0}
+  ); however, the real parts of its eigenvalues are non-negative (see Gershgorin's circle theorem).
+Similarly, an Hermitian strictly diagonally dominant matrix with real positive diagonal entries is positive definite, as it equals to the sum of some Hermitian diagonally dominant matrix 
+        A
+    {\displaystyle A}
+   with real non-negative diagonal entries (which is positive semidefinite) and 
+        x
+        I
+    {\displaystyle xI}
+   for some positive real number 
+        x
+    {\displaystyle x}
+   (which is positive definite).
+No (partial) pivoting is necessary for a strictly column diagonally dominant matrix when performing Gaussian elimination (LU factorization).
+The Jacobi and Gauss–Seidel methods for solving a linear system converge if the matrix is strictly (or irreducibly) diagonally dominant.
+Many matrices that arise in finite element methods are diagonally dominant.
+A slight variation on the idea of diagonal dominance is used to prove that the pairing on diagrams without loops in the Temperley–Lieb algebra is nondegenerate. For a matrix with polynomial entries, one sensible definition of diagonal dominance is if the highest power of 
+        q
+    {\displaystyle q}
+   appearing in each row appears only on the diagonal. (The evaluations of such a matrix at large values of 
+        q
+    {\displaystyle q}
+   are diagonally dominant in the above sense.)

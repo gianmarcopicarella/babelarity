@@ -1,0 +1,54 @@
+In particle physics, the chargino is a hypothetical particle which refers to the mass eigenstates of a charged superpartner, i.e. any new electrically charged fermion (with spin 1/2) predicted by supersymmetry. They are linear combinations of the charged wino and charged higgsinos. There are two charginos that are fermions and are electrically charged, which are typically labeled C
+              χ
+              ~
+    {\displaystyle {\tilde {\chi }}}
+  ±
+1 (the lightest) and C
+              χ
+              ~
+    {\displaystyle {\tilde {\chi }}}
+  ±
+2 (the heaviest) although sometimes 
+                χ
+                ~
+            1
+            ±
+    {\displaystyle {\tilde {\chi }}_{1}^{\pm }}
+   and 
+                χ
+                ~
+            2
+            ±
+    {\displaystyle {\tilde {\chi }}_{2}^{\pm }}
+   is also used to refer to charginos, when 
+                χ
+                ~
+            i
+            0
+    {\displaystyle {\tilde {\chi }}_{i}^{0}}
+   is used to refer to neutralinos. The heavier chargino can decay through the neutral Z boson to the lighter chargino. Both can decay through a charged W boson to a neutralino:
+C
+              χ
+              ~
+    {\displaystyle {\tilde {\chi }}}
+  ±
+2 → C
+              χ
+              ~
+    {\displaystyle {\tilde {\chi }}}
+  ±
+1 + Z0
+C
+              χ
+              ~
+    {\displaystyle {\tilde {\chi }}}
+  ±
+2 → N͂0
+2 + W±
+C
+              χ
+              ~
+    {\displaystyle {\tilde {\chi }}}
+  ±
+1 → N͂0
+1 + W±

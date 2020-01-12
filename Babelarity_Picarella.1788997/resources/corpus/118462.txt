@@ -1,0 +1,25 @@
+Akari (ASTRO-F) is an infrared astronomy satellite developed by Japan Aerospace Exploration Agency, in cooperation with institutes of Europe and Korea. It was launched on 21 February 2006 at 21:28 UTC (06:28, 22 February JST) by M-V rocket into Earth sun-synchronous orbit. After its launch it was named Akari (明かり), which means light in Japanese. Earlier on, the project was known as IRIS (InfraRed Imaging Surveyor).
+Its primary mission was to survey the entire sky in near-, mid- and far-infrared, through its 68.5 cm (27.0 in) aperture telescope.
+Its designed lifespan, of far- and mid-infrared sensors, is 550 days, limited by its liquid helium coolant.
+Its telescope mirror is made of silicon carbide to save weight. The budget for the satellite was ¥13,4 billion (~US$110 million).
+By mid-August 2006, Akari finished around 50 percent of the all sky survey.
+By early November 2006, first (phase-1) all-sky survey finished. Second (phase-2) all-sky survey started on 10 November 2006.
+Due to the malfunction of sun-sensor after the launch, ejection of telescope aperture lid was delayed, resulting the coolant lifespan estimate to be shortened to about 500 days from launch. However, after JAXA estimated the remaining helium during early March 2007 observation time will be extended at least until 9 September.
+On 11 July 2007, JAXA informed that 90 percent of the sky was scanned twice. Also around 3,500 selected targets have been observed so far.
+On 26 August 2007, liquid-Helium coolant depleted, which means the completion of far- and mid-infrared observation. 94 percent of the sky was scanned and more than 5,000 pointed observations were done.
+British and Japanese project team members were awarded a Daiwa Adrian Prize in 2004 by The Daiwa Anglo-Japanese Foundation in recognition of their collaboration.
+During December 2007, JAXA performed orbit correction manoeuvres to bring Akari back into its ideal orbit. This was necessary because the boiled off helium led to an increase in altitude. If this would have continued energy supply would have been cut off.
+In May 2011, Akari suffered a major electrical failure that rendered its science instruments inoperable when the satellite is in the Earth's shadow. The operation of satellite was terminated officially on 24 November 2011.
+Star formation over three generations in the nebula IC4954/4955 in the constellation Vulpecula.
+The first infrared detection of a supernova remnant in the Small Magellanic Cloud
+Detection of mass-loss from relatively young red-giant stars in the globular cluster NGC 104
+Detection of the molecular gas surrounding the active galactic nucleus in the ultra luminous infrared galaxy
+The constellation Orion and the winter Milky Way at 140 micrometre
+Star forming region in the constellation Cygnus
+Active star formation viewed from the outside: The peculiar spiral galaxy M101
+Dust processing in the supernova remnants in the Large Magellanic Cloud
+The Akari All-Sky Survey Point Source Catalogues was released on 30 March 2010.
+Astronomy and Astrophysics, Vol. 514 (May 2010) was a feature issue of Akari's result.
+Infrared astronomy
+List of space telescopes
+SPICA, Akari's successor space telescope

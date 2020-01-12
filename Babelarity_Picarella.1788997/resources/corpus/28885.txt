@@ -1,0 +1,78 @@
+The Bell P-59 Airacomet was a twin jet engined fighter aircraft, the first for the USA, designed and built by Bell Aircraft during World War II. The United States Army Air Forces were not impressed by its performance and cancelled the contract when fewer than half of the aircraft ordered had been produced. Although no P-59s went into combat, it paved the way for another design generation of U.S. turbojet-powered aircraft and was the first turbojet fighter to have its turbojet engine and air inlet nacelles integrated within the main fuselage.
+Major General Henry H. "Hap" Arnold became aware of the United Kingdom's jet program when he attended a demonstration of the Gloster E.28/39 in April 1941. The subject had been mentioned, but not in depth, as part of the Tizard Mission the previous year. He requested, and was given, the plans for the aircraft's powerplant, the Power Jets W.1, which he took back to the U.S. He also arranged for an example of the engine, the Whittle W.1X turbojet, to be flown to the U.S in October 1941 in the bomb bay of a USAAC Consolidated B-24 Liberator, along with drawings for the more powerful W.2B/23 engine and a small team of Power Jets engineers. On 4 September, he offered the U.S. company General Electric a contract to produce an American version of the engine, which subsequently became the General Electric I-A. On the following day, he approached Lawrence Dale Bell, head of Bell Aircraft Corporation, to build a fighter to utilize it. Bell agreed and set to work on producing three prototypes. As a disinformation tactic, the USAAF gave the project the designation "P-59A", to suggest it was a development of the unrelated Bell XP-59 fighter project which had been canceled. The design was finalized on 9 January 1942, and construction began. In March, long before the prototypes were completed, an order for 13 "YP-59A" pre-production machines was added to the contract.
+On 12 September 1942, the first XP-59A was sent to Muroc Army Air Field (today, Edwards Air Force Base) in California by train for testing, taking seven days to reach Muroc. While being handled on the ground, the aircraft was fitted with a dummy propeller to disguise its true nature. The aircraft first became airborne during high-speed taxiing tests on 1 October with Bell test pilot Robert Stanley at the controls, although the first official flight was made by Col Laurence Craigie the next day. A handful of the first Airacomets had open-air flight observer stations (similar to those of biplanes) later cut into the nose; over the following months, tests on the three XP-59As revealed a multitude of problems including poor engine response and reliability (common shortcomings of all early turbojets), insufficient lateral stability, i.e., in the roll axis, and performance that was far below expectations. Chuck Yeager flew the aircraft and was dissatisfied with its speed, but was amazed at its smooth flying characteristics. Nevertheless, even before delivery of the YP-59As in June 1943, the USAAF ordered 80 production machines, designated "P-59A Airacomet".
+The 13 service test YP-59As had a more powerful engine than its predecessor, the General Electric J31, but the improvement in performance was negligible with top speed increased by only 5 mph and a reduction in the time they could be used before an overhaul was needed. One of these aircraft, the third YP-59A (S/n: 42-22611) was supplied to the Royal Air Force (receiving British serial RG362/G), in exchange for the first production Gloster Meteor I, EE210/G. British pilots found that the aircraft compared very unfavorably with the jets that they were already flying. (The YP-59A also compared unfavorably to the propeller-driven North American P-51 Mustang.) Two YP-59A Airacomets (42-108778 and 42-100779) were also delivered to the U.S. Navy where they were evaluated as the "YF2L-1" but quickly found completely unsuitable for carrier operations.
+Faced with their own ongoing difficulties, Bell eventually completed 50 production Airacomets, 20 P-59As and 30 P-59Bs. Each was armed with one 37 mm M4 cannon and 44 rounds of ammunition and three .50 cal (12.7 mm) machine guns with 200 rounds per gun. The P-59Bs were assigned to the 412th Fighter Group to familiarize AAF pilots with the handling and performance characteristics of jet aircraft. By 1950, all examples of the Airacomet were no longer airworthy. Over time, disposal of the aircraft included use as static displays, instructional aids in military training and use as static targets. While the P-59 was not a great success, the type did give the USAAF experience with the operation of jet aircraft in preparation for the more advanced types that would shortly become available.
+XP-59
+Unrelated piston engine powered pusher propeller design developed from the Bell XP-52. Not built.
+XP-59A
+Prototype of the jet engine powered version, three built, serial numbers 42-108784/108786.
+YP-59A
+Series of test aircraft, 13 built, serial numbers 42-108771/108783.
+YP-59A recon prototype
+YP-59A with armaments replaced by an observer seat.
+YF2L-1
+Two YP-59A (42-108778/108779) delivered to the US Navy for carrier evaluation as Bu63960/63961.
+P-59A
+First production version, 20 built, serial numbers 44-22609/22628. Redesignated ZF-59A in June 1948.
+XP-59B
+Study for P-59A fitted with Halford H-1/Goblin engines.
+P-59B
+Improved P-59A. 80 aircraft ordered but only 30 built, serial numbers 44-22629/22658, further 50 (44-2659/22708) canceled. Redesignated ZF-59B in June 1948.
+ United Kingdom
+Royal Air Force received one aircraft, becoming RG362/G, in exchange for a Gloster Meteor I EE210/G.
+ United States
+United States Army Air Forces
+412th Fighter Group
+445th Fighter Squadron
+United States Navy
+Six P-59s are known to survive today.
+On display
+XP-59A
+42-108784 – National Air and Space Museum in Washington, DC.
+P-59A
+44-22614 – March Field Air Museum in Riverside, California.
+P-59B
+44-22633 – Edwards AFB.
+44-22656 – Pioneer Village (Nebraska) in Minden, Nebraska.
+44-22650 – National Museum of the United States Air Force at Wright-Patterson Air Force Base near Dayton, Ohio.
+Under restoration
+YP-59A
+42-108777 – being restored to flying condition w/ GE J31s by Planes of Fame Museum in Chino, California.
+Data from The American Fighter
+General characteristics
+Crew: 1
+Length: 38 ft 10 in (11.84 m)
+Wingspan: 45 ft 6 in (13.87 m)
+Height: 12 ft 4 in (3.76 m)
+Wing area: 386 sq ft (35.86 m²)
+Empty weight: 8,165 lb (3,704 kg)
+Loaded weight: 11,040 lb (5,008 kg)
+Max. takeoff weight: 13,700 lb (6,214 kg)
+Powerplant: 2 × General Electric J31-GE-5 turbojets, 2,000 lbf (8.9 kN) each
+Performance
+Maximum speed: 413 mph (359 knots, 665 km/h) at 30,000 ft (9,140 m)
+Cruise speed: 375 mph (326 knots, 604 km/h)
+Range: 375 mi (326 nm, 604 km)
+Service ceiling: 46,200 ft (14,080 m)
+Climb to 30,000 ft (9,140 m): 15 min 30 s
+Armament
+Guns:1x 37 mm cannon
+3x .50 cal (12.7 mm) machine guns
+Rockets: 8× 60 lb (30 kg) rockets
+Bombs: 2,000 lb (910 kg) bombs
+Heinkel He 178
+Heinkel He 280
+Aircraft of comparable role, configuration and era
+de Havilland Vampire
+Gloster E.1/44
+Gloster Meteor
+Lockheed P-80 Shooting Star
+Messerschmitt Me 262
+Nakajima J9Y Kikka
+Sukhoi Su-9
+Related lists
+List of military aircraft of the United States
+List of fighter aircraft
+List of World War II jet aircraft
+List of aircraft of World War II

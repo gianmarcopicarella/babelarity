@@ -1,0 +1,36 @@
+Popeye is the name of a family of air-to-surface missiles developed and in use by Israel, of which several types have been developed for Israeli and export users. A long-range submarine-launched cruise missile variant of the Popeye Turbo has been speculated as being employed in Israel's submarine-based nuclear forces. The United States operates the Popeye under a different designation according to US naming conventions as the AGM-142 Have Nap.
+The Popeye is designed for precision attack against large targets from stand off ranges. The standard Popeye and smaller Popeye-Lite are powered by a single-stage solid rocket. Rafael offered a Popeye Turbo air launched variant featuring a jet engine and folding wings for a UK competition specifying a cruise missile with range of at least 320 km (200 miles) in 1994; publicly exposing a lowest possible maximum range for that variant. An inertial guidance system pilots the missile towards the target; for terminal homing the pilot can control the missile directly via an INS and data link, aiming via either a television or imaging infrared seeker depending on the missile model. It is not necessary for the launching aircraft to direct the missile—control can be passed to another platform while the firing aircraft escapes the area. There are two choices of warhead for the export versions, a 340 kg (750 lb) blast/fragmentation or 360 kg (800 lb) penetrator.
+The alleged Israeli submarine-launched cruise missile variant is reported to be jet powered and nuclear armed with a greatly increased range, though according to the Federation of American Scientists "open literature provides little information on this system" but in a May 2000 test launch was tracked for 1500 km.
+Popeye (also known as Have Nap)—this is the standard solid-rocket–powered stand off missile, 4.82 m (15 ft 10 in) long and weighing 1,360 kg (3,000 lb) with a 340 kg (750 lb) blast fragmentation or 360 kg (800 lb) I-800 penetrating warhead, inertial and imaging infrared or TV guidance.
+Popeye II or Popeye Lite (also known as Have Lite)—this is a reduced size (shortened to 424 cm/167 in) and weight version (weight is now 1125 kg/2500 lb) of the Popeye to give light aircraft such as the F-16I Sufa a precision standoff strike capability.
+Popeye Turbo ALCM—The Popeye Turbo air-launched cruise missile, which uses a jet engine and liquid fuel, is approx 6.25 m (20.5 ft) long, it is reported to have a range of more than 320 km (200 mi).
+Have Rain—A 2004 report indicated that Rafael was developing a new anti-ship version known as the “Have Rain.” The new missile is believed to have a launch weight of 900 kg, for deployment aboard P-3 Orion aircraft.
+SPICE In 2000, Rafael promoted a "Smart Precise Impact Cost Effective" (SPICE) add-on "smart bomb" guidance kit for Mk 84 bombs, this system was based on the Popeye seekers.
+Popeye Turbo SLCM—A reportedly stretched version of the Popeye Turbo developed for use as a submarine-launched cruise missile (SLCM) was widely reported in a US Navy observed 2002 test in the Indian Ocean to have hit a target at 1500 km. It can allegedly carry a 200 kt nuclear warhead. It is believed that the stretched Popeye Turbo is the primary strategic second strike nuclear deterrent weapon that can be fired from the 650 mm secondary torpedo tubes of the Israeli Dolphin-class submarines. It is believed that the SLCM version of the Popeye was developed by Israel after the US Clinton administration refused an Israeli request in 2000 to purchase Tomahawk long range SLCM's because of international MTCR proliferation rules. While the standard Popeye is 533 mm the Dolphin class submarines have four 650 mm torpedo tubes in addition to the six standard 533 mm tubes allowing for the possibility that a SLCM Popeye derivative may be a larger diameter.
+The Popeye is compatible with a variety of aircraft from tactical fighters to heavy bombers.
+Since their inception, the missiles have gone through a variety of improvement programs designed to increase reliability and reduce costs. These efforts have included changes in the materials and manufacturing processes of the wings, fins and rocket motor, new components in the inertial guidance unit, an upgraded processor, and an improved imaging infrared seeker.
+Israel is suspected of using the airframe and avionics to produce a long-range submarine-launched cruise missile with a liquid-fueled jet engine similar to the Popeye Turbo rather than a rocket.
+In US use, the Popeye designated as the AGM-142 Have Nap is intended primarily to equip the B-52H, allowing it to attack fixed targets of high value at sufficient range to provide protection from defences. The missile represented the first precision guided munition to be carried by the B-52H.
+The London Sunday Times newspaper reported that on 5 July 2013, Israeli Dolphin submarines fired long-range cruise missiles at stores of Russian-made P-800 Oniks anti-ship missiles kept at the Syrian port of Latakia, contradicting an earlier CNN report it had been an air strike. Israel also deploys sub-Harpoon missiles capable of land attack on its Dolphin class boats.
+In the afternoon of 7 December 2014, two formations composed by two Israeli Air Force F-15I's each, fired Popeye missiles to two separate target sites in Syria. Syrian air defense Buk-M2 missile batteries fired two missiles at the incoming attack planes, both were jammed and two Pechora 2M missiles were hastily launched at the four incoming Popeye missiles, shooting one down.
+First developed for use by the Israeli Air Force, it has been in service since 1985.
+The United States Air Force first bought a batch of 154 missiles in 1989 followed by a second batch of 54 missiles in 1996.
+The Royal Australian Air Force has also purchased a number of Popeye missiles in the late 1990s for use by the RAAF's F-111 bombers. The F-111 was taken out of Australian service in 2010.
+Currently, the Turkish Air Force's F-4 2020 Terminator aircraft (which were extensively upgraded by IAI) and the TuAF F-16 CCIP are armed with a Turkish License production version of the Popeye.
+In May 1997, Israel and Turkey signed an agreement valued in excess of US$500 million for the establishment of a joint-venture between Israel's Rafael and Turkey's Turkish Aerospace Industries for the co-production of Popeye I and Popeye II missiles in Turkey.
+There have been reports that Israel has exported Popeye and its variants to various countries:
+ Australia: Royal Australian Air Force
+ India: 30 for Indian Air Force
+ Israel: Israeli Air Force, Israeli Navy
+ South Korea: Republic of Korea Air Force
+ Turkey: Turkish Air Force
+ United States: United States Air Force
+Weight : 1,360 kg (3,000 lb)
+Length : 4.82 m (15 ft 10 in)
+Diameter : 533 mm (21 in)
+Wing Span : 1.98 m (78 in)
+Guidance : Inertial plus IIR or TV
+Engine : Single-stage solid rocket
+Range : 78 km (48 mi)
+Warhead : 340 kg (750 lb) blast fragmentation or 360 kg (800 lb) I-800 penetrating
+Delilah (missile)

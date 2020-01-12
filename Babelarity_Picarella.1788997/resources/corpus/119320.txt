@@ -1,0 +1,48 @@
+Wilhelm Carl Werner Otto Fritz Franz Wien (German: [ˈviːn]; 13 January 1864 – 30 August 1928) was a German physicist who, in 1893, used theories about heat and electromagnetism to deduce Wien's displacement law, which calculates the emission of a blackbody at any temperature from the emission at any one reference temperature.
+He also formulated an expression for the black-body radiation which is correct in the photon-gas limit. His arguments were based on the notion of adiabatic invariance, and were instrumental for the formulation of quantum mechanics. Wien received the 1911 Nobel Prize for his work on heat radiation.
+He was a cousin of Max Wien, inventor of the Wien bridge.
+Wien was born at Gaffken near Fischhausen, Province of Prussia (now Primorsk, Russia) as the son of landowner Carl Wien. In 1866, his family moved to Drachstein near Rastenburg (Rastembork).
+In 1879, Wien went to school in Rastenburg and from 1880-1882 he attended the city school of Heidelberg. In 1882 he attended the University of Göttingen and the University of Berlin. From 1883-85, he worked in the laboratory of Hermann von Helmholtz and, in 1886, he received his Ph.D. with a thesis on the diffraction of light upon metals and on the influence of various materials upon the color of refracted light. From 1896 to 1899, Wien lectured at RWTH Aachen University. In 1900 he went to the University of Würzburg and became successor of Wilhelm Conrad Röntgen.
+In 1896 Wien empirically determined a distribution law of blackbody radiation, later named after him: Wien's law. Max Planck, who was a colleague of Wien's, did not believe in empirical laws, so using electromagnetism and thermodynamics, he proposed a theoretical basis for Wien's law, which became the Wien-Planck law. However, Wien's law was only valid at high frequencies, and underestimated the radiancy at low frequencies. Planck corrected the theory and proposed what is now called Planck's law, which led to the development of quantum theory. However, Wien's other empirical formulation 
+          λ
+              m
+              a
+              x
+        T
+        =
+          c
+          o
+          n
+          s
+          t
+          a
+          n
+          t
+    {\displaystyle \lambda _{\mathrm {max} }T=\mathrm {constant} }
+  , called Wien's displacement law, is still very useful, as it relates the peak wavelength emitted by a body (λmax), to the temperature of the body (T). In 1900 (following the work of George Frederick Charles Searle), he assumed that the entire mass of matter is of electromagnetic origin and proposed the formula 
+        m
+        =
+        (
+        4
+          /
+        3
+        )
+        E
+          /
+          c
+            2
+    {\displaystyle m=(4/3)E/c^{2}}
+   for the relation between electromagnetic mass and electromagnetic energy.
+While studying streams of ionized gas, Wien, in 1898, identified a positive particle equal in mass to the hydrogen atom. Wien, with this work, laid the foundation of mass spectrometry. J. J. Thomson refined Wien's apparatus and conducted further experiments in 1913 then, after work by Ernest Rutherford in 1919, Wien's particle was accepted and named the proton. During April 1913, Wien was a lecturer at Columbia University.
+In 1911, Wien was awarded the Nobel Prize in Physics "for his discoveries regarding the laws governing the radiation of heat."
+Wien's distribution law
+History of special relativity
+Mass–energy equivalence
+—— (1898). "Ueber die Fragen, welche die translatorische Bewegung des Lichtäthers betreffen". Annalen der Physik 301 (3): 1–18. Bibcode:1898AnP...301....1D. doi:10.1002/andp.18983010502. 
+—— (1900). Lehrbuch der Hydrodynamik. S. Hirzel. OCLC 557663670. OL 16968004M. 
+—— (1900). "Über die Möglichkeit einer elektromagnetischen Begründung der Mechanik". Annalen der Physik 310 (7): 501–513. Bibcode:1901AnP...310..501W. doi:10.1002/andp.19013100703. 
+—— (1904a). "Über die Differentialgleichungen der Elektrodynamik für bewegte Körper. I". Annalen der Physik 318 (4): 641–662. Bibcode:1904AnP...318..641W. doi:10.1002/andp.18943180402. 
+—— (1904b). "Über die Differentialgleichungen der Elektrodynamik für bewegte Körper. II". Annalen der Physik 318 (4): 663–668. Bibcode:1904AnP...318..663W. doi:10.1002/andp.18943180403. 
+—— (1904c). "Erwiderung auf die Kritik des Hrn. M. Abraham". Annalen der Physik 319 (8): 635–637. Bibcode:1904AnP...319..635W. doi:10.1002/andp.19043190817. 
+—— (1904d). "Zur Elektronentheorie". Physikalische Zeitschrift 5 (14): 393–395. 
+—— (1930). Aus dem Leben und Wirken eines Physikers. Johann Ambrosius Barth. OCLC 249831418. 

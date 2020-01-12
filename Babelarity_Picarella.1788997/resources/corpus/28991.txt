@@ -1,0 +1,32 @@
+The Tupolev Tu-126 (NATO reporting name: Moss) was an Airborne early warning and control aircraft developed from the Tupolev Tu-114 airliner by the Tupolev design bureau. It was in service with the armed forces of the Soviet Union from 1965 to 1984.
+In 1958 increasing concern over the threat of an American nuclear strike against the USSR from the north led to a new requirement for an airborne radar system, which would avoid the problems and expenses of attempting to create a land-based radar system to cover all of the enormous Soviet northern coast. The Tupolev Design Bureau was ordered to design an AEW&C aircraft. After trying to fit the projected radar instrumentation in a Tu-95 and a Tu-116, a decision was made to use the Tupolev Tu-114 with its wider fuselage instead. This solved problems with cooling and operator space that existed with the narrower Tu-95 and Tu-116 designs. To adhere to the flight range requirements, the plane was fitted with an air-to-air refuelling probe. The Tu-126 had a crew of 12 and carried the Liana radar (NATO reporting name Flat Jack) in a rotodome mounted above the fuselage. It had no look-down capability, so the switch by NATO to low level penetration made it fairly irrelevant.
+The first prototype Tu-126 flew on 23 January 1962. Testing, which continued through the autumn of 1964, showed that while the radar was effective over water, performance was poorer over land. It was also found that the large contra-rotating propellers of the four engines seriously compromised the performance of the radar. This problem was only marginally countered by the installation of a new radar called Shmel.
+The Tu-126 entered service in 1965, although it was only identified by Western intelligence in 1968 after appearing in a Soviet documentary film. Eight production aircraft were built in addition to the prototype from between 1965 and 1968 and all were nominally based at Šiauliai. Western intelligence estimated that its radar performance was inferior to Western equivalents, that it was unable to detect cruise missiles or small aircraft at low level. However, it was assessed that the Tu-126 had powerful jamming equipment. The Tu-126 was used by the Soviet Air Force, until being replaced by the Beriev A-50. A single Tu-126 was also leased by India during the Indo-Pakistani War of 1971. The last Tu-126 was retired in 1984.
+ Soviet Union
+Soviet Air Forces
+Soviet Air Defence Forces
+Data from The Osprey Encyclopaedia of Russian Aircraft 1875–1995
+General characteristics
+Crew: 12 (plus a full spare crew)
+Length: 56.5 m (185 ft 4 in) with refuelling probe
+Wingspan: 51.4 m (168 ft 8 in)
+Height: 16.05 m (52 ft 8 in) 
+Wing area: 311.1 m2 (3,349 sq ft)
+Empty weight: 103,000 kg (227,076 lb)
+Gross weight: 171,000 kg (376,990 lb)
+Fuel capacity: 60,800 kg (134,041 lb)
+Powerplant: 4 × Kuznetsov NK-12MV axial flow turboprop engines, 11,033 kW (14,795 hp) each
+Propellers: 8-bladed Contra-rotating
+Performance
+Maximum speed: 790 km/h (491 mph; 427 kn)
+Cruising speed: 520 km/h (323 mph; 281 kn) at 9,000 m (29,528 ft)
+Range: 7,000 km (4,350 mi; 3,780 nmi) internal fuel only
+Endurance: 20 hours with one in-flight refuel
+Service ceiling: 10,700 m (35,105 ft)
+Power/mass: 0.26 kW/kg (0.16 hp/lb)
+Related development
+Tupolev Tu-95
+Tupolev Tu-114
+Tupolev Tu-142
+Aircraft of comparable role, configuration and era
+EC-121 Warning Star

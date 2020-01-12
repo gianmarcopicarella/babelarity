@@ -1,0 +1,41 @@
+Sodium thiosulfate (Na2S2O3), also spelled sodium thiosulphate, is an inorganic compound that is typically available as the pentahydrate, Na2S2O3·5H2O. The solid is an efflorescent (loses water readily) crystalline substance that dissolves well in water. It is also called sodium hyposulfite or “hypo”.
+It is on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system.
+It has been used as treatment of calciphylaxis in hemodialysis people with end-stage kidney disease. There is apparently an incompletely understood phenomenon whereby this causes severe metabolic acidosis in some patients.
+It is used as an antidote to cyanide poisoning. Thiosulfate serves as a sulfur donor for the conversion of cyanide to thiocyanate (which can then be safely excreted in the urine), catalyzed by the enzyme rhodanase.
+It is used in the management of extravasations during chemotherapy. Sodium thiosulfate prevents alkylation and tissue destruction by providing a substrate for the alkylating agents that have invaded the subcutaneous tissues. The dose may be 2 ml of 0.17 M (a solution of 4 ml 10% sodium thiosulfate and 6 ml sterile water for injection). It may be instilled subcutaneously into multiple sites using a small-gauge needle. Data are limited on this method with few recommendations.
+In foot baths for prophylaxis of ringworm, and as a topical antifungal agent for tinea versicolor.
+In measuring the volume of extracellular body fluid and the renal glomerular filtration rate.
+In analytical chemistry, the most important use comes because the thiosulfate anion reacts stoichiometrically with iodine in aqueous solution, reducing it to iodide as it is oxidized to tetrathionate:
+2 S2O32− + I2 → S4O62− + 2 I−
+Due to the quantitative nature of this reaction, as well as because Na2S2O3·5H2O has an excellent shelf-life, it is used as a titrant in iodometry. Na2S2O3·5H2O is also a component of iodine clock experiments.
+This particular use can be set up to measure the oxygen content of water through a long series of reactions in the Winkler test for dissolved oxygen. It is also used in estimating volumetrically the concentrations of certain compounds in solution (hydrogen peroxide, for instance) and in estimating the chlorine content in commercial bleaching powder and water.
+Silver halides, e.g., AgBr, typical components of photographic emulsions, dissolve upon treatment with aqueous thiosulfate:
+2 S2O32− + AgBr → [Ag(S2O3)2]3− + Br−
+This application as a photographic fixer was discovered by John Herschel. It is used for both film and photographic paper processing; the sodium thiosulfate is known as a photographic fixer, and is often referred to as 'hypo', from the original chemical name, hyposulphite of soda.
+Sodium thiosulfate is a component of an alternative lixiviant to cyanide for extraction of gold. However, it forms a strong soluble complex with gold(I) ions, [Au(S2O3)2]3−. The advantage of this approach is that thiosulfate is essentially not toxic and that ore types that are refractory to gold cyanidation (e.g. carbonaceous or Carlin-type ores) can be leached by thiosulfate. Some problems with this alternative process include the high consumption of thiosulfate, and the lack of a suitable recovery technique, since [Au(S2O3)2]3− does not adsorb to activated carbon, which is the standard technique used in gold cyanidation to separate the gold complex from the ore slurry.
+It is used to dechlorinate tap water including lowering chlorine levels for use in aquaria and swimming pools and spas (e.g., following superchlorination) and within water treatment plants to treat settled backwash water prior to release into rivers. The reduction reaction is analogous to the iodine reduction reaction.
+In pH testing of bleach substances, sodium thiosulfate neutralizes the color-removing effects of bleach and allows one to test the pH of bleach solutions with liquid indicators. The relevant reaction is akin to the iodine reaction: thiosulfate reduces the hypochlorite (active ingredient in bleach) and in so doing becomes oxidized to sulfate. The complete reaction is:
+4 NaClO + Na2S2O3 + 2 NaOH → 4 NaCl + 2 Na2SO4 + H2O
+Similarly, sodium thiosulfate reacts with bromine, removing the free bromine from solution. Solutions of sodium thiosulfate are commonly used as a precaution in chemistry laboratories when working with bromine and for the safe disposal of bromine, iodine, or other strong oxidizers.
+Sodium thiosulfate is also used:
+As a component in hand warmers and other chemical heating pads that produce heat by exothermic crystallization of a supercooled solution.
+In bacteriological water assessment, as it promotes the survival of coliform organisms by neutralizing residual chlorine.
+In the tanning of leather
+To demonstrate the concept of supercooling in physics classes: Sodium thiosulfate, when heated, dissolves in its own water of crystallisation. This solution can be cooled to room temperature without recrystallisation. When crystallisation is induced by the addition of a small seed crystal, the sudden temperature rise can be experienced by touch.
+As part of patina recipes for copper alloys
+Often used in pharmaceutical preparations as an anionic surfactant to aid in dispersion
+Two polymorphs are known of the pentahydrate. The anhydrous salt exists in several polymorphs. In the solid state, the thiosulfate anion is tetrahedral in shape and is notionally derived by replacing one of the oxygen atoms by a sulfur atom in a sulfate anion. The S-S distance indicates a single bond, implying that the terminal sulfur bears significant negative charge and the S-O interactions have more double-bond character.
+On an industrial scale, sodium thiosulfate is produced chiefly from liquid waste products of sodium sulfide or sulfur dye manufacture.
+In the laboratory, this salt can be prepared by heating an aqueous solution of sodium sulfite with sulfur or by boiling aqueous sodium hydroxide and sulfur according to this equation:
+6 NaOH + 4 S → 2 Na2S + Na2S2O3 + 3 H2O
+Upon heating to 300 °C, it decomposes to sodium sulfate and sodium polysulfide:
+4 Na2S2O3 → 3 Na2SO4 + Na2S5
+Thiosulfate salts characteristically decompose upon treatment with acids. Initial protonation occurs at sulfur. When the protonation is conducted in diethyl ether at −78 °C, H2S2O3 (thiosulfuric acid) can be obtained. It is a somewhat strong acid with pKas of 0.6 and 1.7 for the first and second dissociations, respectively.
+Under normal conditions, acidification of solutions of this salt excess with even dilute acids results in complete decomposition to sulfur, sulfur dioxide, and water:
+Na2S2O3 + 2 HCl → 2 NaCl + S + SO2 + H2O
+This reaction is known as a "clock reaction", because when the sulfur reaches a certain concentration, the solution turns from colourless to a pale yellow. This reaction has been employed to generate colloidal sulfur. This process is used to demonstrate the concept of reaction rate in chemistry classes.
+Sodium thiosulfate is also used in analytical chemistry. It can, when heated with a sample containing aluminium cations, produce a white precipitate:
+2 Al3+ + 3 S2O32− + 3 H2O → 3 SO2 + 3 S + 2 Al(OH)3
+Alkylation of sodium thiosulphate gives S-alkylthiosulfonates, which are called Bunte salts. This reaction is employed in one synthesis of the industrial reagent thioglycolic acid:
+ClCH2CO2H + Na2S2O3 → Na[O3S2CH2CO2H] + NaCl
+Na[O3S2CH2CO2H] + H2O → HSCH2CO2H + NaHSO4

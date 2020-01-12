@@ -1,0 +1,13 @@
+Triethylamine is the chemical compound with the formula N(CH2CH3)3, commonly abbreviated Et3N. It is also abbreviated TEA, yet this abbreviation must be used carefully to avoid confusion with triethanolamine or tetraethylammonium, for which TEA is also a common abbreviation. It is a colourless volatile liquid with a strong fishy odor reminiscent of ammonia and is also the smell of the hawthorn plant. Like diisopropylethylamine (Hünig’s base), triethylamine is commonly encountered in organic synthesis.
+Triethylamine is prepared by the alkylation of ammonia with ethanol:
+NH3 + 3 C2H5OH → N(C2H5)3 + 3 H2O
+The pKa of protonated triethylamine is 10.75, and it can be used to prepare buffer solutions for that pH. The hydrochloride salt, triethylamine hydrochloride (triethylammonium chloride), is a colorless, odorless, and hygroscopic powder, which decomposes when heated to 261 °C.
+Triethylamine is commonly employed in organic synthesis as a base, most often in the preparation of esters and amides from acyl chlorides. Such reactions lead to the production of hydrogen chloride which combines with triethylamine to form the salt triethylamine hydrochloride, commonly called triethylammonium chloride. This reaction removes the hydrogen chloride from the reaction mixture, which is required for these reactions to proceed to completion (R, R' = alkyl, aryl):
+R2NH + R'C(O)Cl + Et3N → R'C(O)NR2 + Et3NH+Cl−
+Like other tertiary amines, it catalyzes the formation of urethane foams and epoxy resins. It is also useful in dehydrohalogenation reactions and Swern oxidations.
+Triethylamine is used to give salts of various carboxylic acid-containing pesticides, e.g. Triclopyr and 2,4-dichlorophenoxyacetic acid
+Triethylamine is readily alkylated to give the corresponding quaternary ammonium salt:
+RI + Et3N → Et3NR+I−
+Triethylamine is mainly used in the production of quaternary ammonium compounds for textile auxiliaries and quaternary ammonium salts of dyes. It is also a catalyst and acid neutralizer for condensation reactions and is useful as an intermediate for manufacturing medicines, pesticides and other chemicals.
+Triethylamine is the active ingredient in FlyNap, a product for anesthetizing Drosophila melanogaster. Triethylamine is used in mosquito and vector control labs to anesthetize mosquitoes. This is done to preserve any viral material that might be present during species identification.
+Also, the bicarbonate salt of triethylamine (often abbreviated TEAB, triethylammonium bicarbonate) is useful in reverse phase chromatography, often in a gradient to purify nucleotides and other biomolecules.

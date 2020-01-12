@@ -1,0 +1,21 @@
+Codex Borgianus, designated by T or 029 (in the Gregory-Aland numbering), ε 5 (von Soden), is a Greek and Sahidic uncial manuscript of the Gospels, dated palaeographically to the 5th century. Name of the codex came from its former owners.
+The Greek text of the codex contains:
+Luke 6:18-26; 18:2-9.10-16; 18:32-19:8; 21:33-22:3; 22:20-23:20; 24:25-27; 29-31;
+John 1:24-32; 3:10-17; 4:52-5:7; 6:28-67; 7:6-8:31.
+The Sahidic text of the codex contains:
+Luke 6:11-18; 17:29-18:9; 18:?-42; 21:25-32; 22:12-23:11; 24:18-19; 24:21-23;
+John 1:16-23; 3:2-10; 4:45-52; 6:21-58; 6:58-8:23.
+The codex contains 17 parchment leaves (26 cm by 21 cm), with fragments of the Gospel of Luke 6, 17-19, 21-24 and Gospel of John 1, 3-4, 6-8. The manuscript is written in two columns per page, 26-33 lines per page, with the Greek and Sahidic on facing pages. Lines are very short, only 6, 7, 8, and 9 letters in lines. It is written in large letters compressed only on the edge. The letters are square. Tischendorf suggested the scribe was a Copt, because the letters often show Coptic forms. There is no notation of sections or other divisions. The shapes of alpha and iota are specially noticeable. It has not accents and breathings.
+Text of Luke 22:43-44 is omitted, as in codices p75, א*, A, B, 1071.
+It does not contain verse John 5:4 (0125) and the Pericope Adulterae John 7:53-8:11.
+The Greek text of this codex is a secondary representative of the Alexandrian text-type (named also Egyptian text) with a mixture of the Byzantine readings. Kurt Aland placed it in Category II. The Alexandrian text of the Gospel of John stands in close relationship to the Codex Vaticanus, and P75.
+It reads βηθαβαρα in John 1:28 and βηθσαιδα in John 5:2.
+The manuscript came from White Monastery. It once belonged to Cardinal Stefano Borgia, hence name of the codex.
+Fragments of the codex were discovered independently at separate times and were numbered 029, 0113, 0125, and 0139. Together they have 23 leaves. "It appears that the ignorant monk who brought it this manuscript with him from Egypt to Europe, was so unaware of its value, that he lost the greater part of the leaves".
+The text of the codex 029 was carefully edited in 1789 by A. A. Giorgi. The manuscript was examined by Birch who collated the Greek text of 029. Birch gave description of the codex:
+Codex in membranis scriptus est, charactere inciali quadro, graeco textui adjecta est versio coptica. Vehementer sane dolendum, particulam tam exiguam eximini codicis servatam esse, ex quo, si integrum aetas tulisset, plurima ad textus emendationem peti potuissent.
+A few leaves from Uncial 070, formerly designated by Ta, were wrongly suggested by Tregelles as a part of the same codex to which Borgianus belonged.
+The codex is located, at the Vatican Library (Borgia Coptic 109), in New York (Pierpont Morgan M 664A), and in Paris (BnF Copt. 129).
+List of New Testament uncials
+Coptic versions of the Bible
+Textual criticism

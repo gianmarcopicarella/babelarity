@@ -1,0 +1,49 @@
+A shrew or shrew mouse (family Soricidae) is a small mole-like mammal classified in the order Eulipotyphla. True shrews are also not to be confused with West Indies shrews, treeshrews, otter shrews, or elephant shrews, which belong to different families or orders.
+Although its external appearance is generally that of a long-nosed mouse, a shrew is not a rodent, as mice are. It is in fact a much closer relative of moles, and related to rodents only in that both belong to the Boreoeutheria Magnorder. Shrews have sharp, spike-like teeth, not the familiar gnawing front incisor teeth of rodents.
+Shrews are distributed almost worldwide: of the major tropical and temperate land masses, only New Guinea, Australia, and New Zealand do not have any native shrews; in South America, shrews are relatively recent immigrants and are present only in the northern Andes. In terms of species diversity, the shrew family is the fourth most successful mammal family, being rivalled only by the muroid rodent families Muridae and Cricetidae and the bat family Vespertilionidae.
+All shrews are comparatively small, most no larger than a mouse. The largest species is the Asian house shrew (Suncus murinus) of tropical Asia, which is about 15 cm long and weighs around 100 g; several are very small, notably the Etruscan shrew (Suncus etruscus), which at about 3.5 cm (1.4 in) and 2 g (0.071 oz) is the smallest living terrestrial mammal.
+In general, shrews are terrestrial creatures that forage for seeds, insects, nuts, worms, and a variety of other foods in leaf litter and dense vegetation, but some specialise in climbing trees, living underground, living under snow, or even hunting in water. They have small eyes and generally poor vision, but have excellent senses of hearing and smell. They are very active animals, with voracious appetites. Shrews have unusually high metabolic rates, above that expected in comparable small mammals. Shrews in captivity can eat 1/2 to 2 times their own body weight in food daily.
+They do not hibernate, but are capable of entering torpor. In winter, many species undergo morphological changes that drastically reduce their body weight. Shrews can lose between 30% and 50% of their body weight, shrinking the size of bones, skull, and internal organs.
+Whereas rodents have gnawing incisors that grow throughout life, the teeth of shrews wear down throughout life, a problem made more extreme because they lose their milk teeth before birth, so have only one set of teeth throughout their lifetimes. Apart from the first pair of incisors, which are long and sharp, and the chewing molars at the back of the mouth, the teeth of shrews are small and peg-like, and may be reduced in number. The dental formula of shrews is:3.1.1-3.31-2.0-1.1.3
+Shrews are fiercely territorial, driving off rivals, and only coming together to mate. Many species dig burrows for caching food and hiding from predators, although this is not universal.
+Female shrews can have up to 10 litters a year; in the tropics, they breed all year round; in temperate zones, they only stop breeding in the winter. Shrews have gestation periods of 17–32 days. The female often becomes pregnant within a day or so of giving birth, and lactates during her pregnancy, weaning one litter as the next is born. Shrews live 12 to 30 months.
+Shrews are unusual among mammals in a number of respects. Unlike most mammals, some species of shrews are venomous. Shrew venom is not conducted into the wound by fangs, but by grooves in the teeth. The venom contains various compounds, and the contents of the venom glands of the American short-tailed shrew are sufficient to kill 200 mice by intravenous injection. One chemical extracted from shrew venom may be potentially useful in the treatment of high blood pressure, while another compound may be useful in the treatment of some neuromuscular diseases and migraines. The saliva of the northern short-tailed shrew (Blarina brevicauda) contains soricidin, a peptide which has been studied for use in treating ovarian cancer. Also, along with the bats and toothed whales, some species of shrews use echolocation. Unlike most other mammals, shrews lack zygomatic bones (also called the jugals), so have incomplete zygomatic arches.
+The only terrestrial mammals known to echolocate are two genera (Sorex and Blarina) of shrews, the tenrecs of Madagascar, and the solenodons. These include the Eurasian or common shrew (Sorex araneus) and the American vagrant shrew (Sorex vagrans) and northern short-tailed shrew (Blarina brevicauda). These shrews emit series of ultrasonic squeaks. The nature of shrew sounds, unlike those of bats, are low-amplitude, broadband, multiharmonic, and frequency modulated. They contain no "echolocation clicks" with reverberations and would seem to be used for simple, close-range spatial orientation. In contrast to bats, shrews use echolocation only to investigate their habitats rather than additionally to pinpoint food.
+Except for large and thus strongly reflecting objects, such as a big stone or tree trunk, they probably are not able to disentangle echo scenes, but rather derive information on habitat type from the overall call reverberations. This might be comparable to human hearing whether one calls into a beech forest or into a reverberant wine cellar.
+The 385 shrew species are in 26 genera, which are grouped into three living subfamilies: Crocidurinae (white-toothed shrews), Myosoricinae (African shrews) and Soricinae (red-toothed shrews). In addition, the family contains the extinct subfamilies Limnoecinae, Crocidosoricinae, Allosoricinae and Heterosoricinae (although Heterosoricinae is also commonly considered a separate family).
+Family Soricidae
+Subfamily Crocidurinae
+Crocidura
+Diplomesodon
+Feroculus
+Paracrocidura
+Ruwenzorisorex
+Scutisorex
+Solisorex
+Suncus
+Sylvisorex
+Subfamily Myosoricinae
+Congosorex
+Myosorex
+Surdisorex
+Subfamily Soricinae
+Tribe Anourosoricini
+Anourosorex
+Tribe Blarinellini
+Blarinella
+Tribe Blarinini
+Blarina
+Cryptotis
+Tribe Nectogalini
+Chimarrogale
+Chodsigoa
+Episoriculus
+Nectogale
+Neomys
+†Nesiotites
+Soriculus
+Tribe Notiosoricini
+Megasorex
+Notiosorex
+Tribe Soricini
+Sorex

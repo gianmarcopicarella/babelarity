@@ -1,0 +1,75 @@
+Hypercalcaemia (British English) or hypercalcemia (American English) is an elevated calcium (Ca2+) level in the blood. (Normal range: 8.7–10.4 mg/dL or 2.2–2.5 mmol/L.) It can be an asymptomatic laboratory finding, but because an elevated calcium level is often indicative of other diseases, a workup should be undertaken if it persists. It can be due to excessive skeletal calcium release, increased intestinal calcium absorption, or decreased renal calcium excretion.
+The neuromuscular symptoms of hypercalcemia are caused by a negative bathmotropic effect due to the increased interaction of calcium with sodium channels. Since calcium blocks sodium channels and inhibits depolarization of nerve and muscle fibers, increased calcium raises the threshold for depolarization. There is a general mnemonic for remembering the effects of hypercalcaemia: "Stones, Bones, Groans, Thrones and Psychiatric Overtones"
+Stones (renal or biliary)
+Bones (bone pain)
+Groans (abdominal pain, nausea and vomiting)
+Thrones (polyuria) resulting in dehydration
+Psychiatric overtones (Depression 30–40%, anxiety, cognitive dysfunction, insomnia, coma)
+Other symptoms can include fatigue, anorexia, and pancreatitis. Limbus sign seen in eye due to hypercalcemia.
+Hypercalcemia has a positive chronotropic effect (increase in heart rate), and a positive inotropic effect (increase in contractility).
+Abnormal heart rhythms can also result, and ECG findings of a short QT interval suggest hypercalcaemia. Significant hypercalcaemia can cause ECG changes mimicking an acute myocardial infarction. Hypercalcaemia has also been known to cause an ECG finding mimicking hypothermia, known as an Osborn wave.
+Hypercalcaemia can increase gastrin production, leading to increased acidity so peptic ulcers may also occur.
+Symptoms are more common at high calcium blood values (12.0 mg/dL or 3 mmol/l). Severe hypercalcaemia (above 15–16 mg/dL or 3.75–4 mmol/l) is considered a medical emergency: at these levels, coma and cardiac arrest can result. The high levels of calcium ions decrease the neuron membrane permeability to sodium ions, thus decreasing the excitability, which leads to hypotonicity of smooth and striated muscle. This explains the fatigue, muscle weakness, low tone and sluggish reflexes in muscle groups. The sluggish nerves also explain drowsiness, confusion, hallucinations, stupor and / or coma. In the gut this causes constipation. Hypocalcaemia causes the opposite by the same mechanism.
+Primary hyperparathyroidism and malignancy account for about 90% of cases of hypercalcaemia.
+primary hyperparathyroidism
+solitary parathyroid adenoma
+primary parathyroid hyperplasia
+parathyroid carcinoma
+multiple endocrine neoplasia (MEN)
+familial isolated hyperparathyroidism
+lithium use
+familial hypocalciuric hypercalcaemia/familial benign hypercalcaemia
+solid tumour with metastasis (e.g. breast cancer or classically squamous cell carcinoma, which can be PTHrP-mediated)
+solid tumour with humoral mediation of hypercalcaemia (e.g. lung cancer, most commonly non-small cell lung cancer or kidney cancer, phaeochromocytoma)
+haematologic malignancy (multiple myeloma, lymphoma, leukaemia)
+ovarian small cell carcinoma of the hypercalcemic type
+hypervitaminosis D (vitamin D intoxication)
+elevated 1,25(OH)2D (see calcitriol under Vitamin D) levels (e.g. sarcoidosis and other granulomatous diseases)
+idiopathic hypercalcaemia of infancy
+rebound hypercalcaemia after rhabdomyolysis
+hyperthyroidism
+prolonged immobilization
+thiazide use
+vitamin A intoxication
+multiple myeloma
+severe secondary hyperparathyroidism
+aluminium intoxication
+milk-alkali syndrome
+The goal of therapy is to treat the hypercalcaemia first and subsequently effort is directed to treat the underlying cause.
+hydration, increasing salt intake, and forced diuresis.
+hydration is needed because many patients are dehydrated due to vomiting or renal defects in concentrating urine.
+increased salt intake also can increase body fluid volume as well as increasing urine sodium excretion, which further increases urinary potassium excretion.
+after rehydration, a loop diuretic such as furosemide can be given to permit continued large volume intravenous salt and water replacement while minimizing the risk of blood volume overload and pulmonary oedema. In addition, loop diuretics tend to depress renal calcium reabsorption thereby helping to lower blood calcium levels
+can usually decrease serum calcium by 1–3 mg/dL within 24 h
+caution must be taken to prevent potassium or magnesium depletion
+bisphosphonates are pyrophosphate analogues with high affinity for bone, especially areas of high bone-turnover.
+they are taken up by osteoclasts and inhibit osteoclastic bone resorption
+current available drugs include (in order of potency): (1st gen) etidronate, (2nd gen) tiludronate, IV pamidronate, alendronate (3rd gen) zoledronate and risedronate
+all patients with cancer-associated hypercalcaemia should receive treatment with bisphosphonates since the 'first line' therapy (above) cannot be continued indefinitely nor is it without risk. Further, even if the 'first line' therapy has been effective, it is a virtual certainty that the hypercalcaemia will recur in the patient with hypercalcaemia of malignancy. Use of bisphosphonates in such circumstances, then, becomes both therapeutic and preventative
+patients in renal failure and hypercalcaemia should have a risk-benefit analysis before being given bisphosphonates, since they are relatively contraindicated in renal failure.
+Calcitonin blocks bone resorption and also increases urinary calcium excretion by inhibiting renal calcium reabsorption
+Usually used in life-threatening hypercalcaemia along with rehydration, diuresis, and bisphosphonates
+Helps prevent recurrence of hypercalcaemia
+Dose is 4 Units per kg via subcutaneous or intramuscular route every 12 hours, usually not continued indefinitely
+rarely used, or used in special circumstances
+plicamycin inhibits bone resorption (rarely used)
+gallium nitrate inhibits bone resorption and changes structure of bone crystals (rarely used)
+glucocorticoids increase urinary calcium excretion and decrease intestinal calcium absorption
+no effect on calcium level in normal or primary hyperparathyroidism
+effective in hypercalcaemia due to osteolytic malignancies (multiple myeloma, leukaemia, Hodgkin's lymphoma, carcinoma of the breast) due to antitumour properties
+also effective in hypervitaminosis D and sarcoidosis
+dialysis usually used in severe hypercalcaemia complicated by renal failure. Supplemental phosphate should be monitored and added if necessary
+phosphate therapy can correct the hypophosphataemia in the face of hypercalcaemia and lower serum calcium
+A hypercalcaemic crisis is an emergency situation with a severe hypercalcaemia, generally above approximately 14 mg/dL (or 3.5 mmol/l).
+The main symptoms of a hypercalcaemic crisis are oliguria or anuria, as well as somnolence or coma. After recognition, primary hyperparathyroidism should be proved or excluded.
+In extreme cases of primary hyperparathyroidism, removal of the parathyroid gland after surgical neck exploration is the only way to avoid death. The diagnostic program should be performed within hours, in parallel with measures to lower serum calcium. Treatment of choice for acutely lowering calcium is extensive hydration and calcitonin, as well as bisphosphonates (which have effect on calcium levels after one or two days).
+Research has led to a better understanding of hypercalcemia in non-human animals. Often the causes of hypercalcemia have a correlation to the environment in which the organisms live. Hypercalcemia in house pets is typically due to disease, but other cases can be due to accidental ingestion of plants or chemicals in the home. Outdoor animals commonly develop hypercalcemia through vitamin D toxicity from wild plants within their environments.
+Household pets such as dogs and cats are found to develop hypercalcemia. It is less common in cats, and many feline cases are idiopathic. In dogs, lymphosarcoma, addison’s disease, primary hyperparathyroidism, and chronic renal failure are the main causes of hypercalcemia, but there are also environmental causes usually unique to indoor pets. Ingestion of small amounts of calcipotriene found in psoriasis cream can be fatal to a pet. Calcipotriene causes a rapid rise in calcium ion levels. Calcium ion levels can remain high for weeks if untreated and lead to an array of medical issues. There are also cases of hypercalcemia reported due to dogs ingesting rodenticides containing a chemical similar to calcipotriene found in psoriasis cream. Additionally, ingestion of household plants is a cause of hypercalcemia. Plants such as Cestrum diurnum, and Solanum malacoxylon contain ergocalciferol or cholecalciferol which cause the onset of hypercalcemia. Consuming small amounts of these plants can be fatal to pets. Observable symptoms may develop such as polydipsia, polyuria, extreme fatigue, or constipation.
+In certain outdoor environments, animals such as horses, pigs, cattle, and sheep experience hypercalcemia commonly. In southern Brazil and Mattewara India, approximately 17 percent of sheep are affected, with 60 percent of these cases being fatal. Many cases are also documented in Argentina, Papua-New Guinea, Jamaica, Hawaii, and Bavaria. These cases of hypercalcemeia are usually caused by ingesting Trisetum flavescens before it has dried out. Once Trisetum flavescens is dried out, the toxicity of it is diminished. Other plants causing hypercalcemia are Cestrum diurnum, Nierembergia veitchii, Solanum esuriale, Solanum torvum, and Solanum malacoxylon. These plants contain calcitrol or similar substances that cause rises in calcium ion levels. Hypercalcemia is most common in grazing lands at altitudes above 1500 meters where growth of plants like Trisetum flavescens is favorable. Even if small amounts are ingested over long periods of time, the prolonged high levels of calcium ions have large negative effects on the animals. The issues these animals experience are muscle weakness, and calcification of blood vessels, heart valves, liver, kidneys, and other soft tissues, which eventually can lead to death.
+Calcium metabolism
+Dent's Disease
+Hypocalcaemia
+Electrolyte disturbance
+Disorders of calcium metabolism
+ATC code V03#V03AG Drugs for treatment of hypercalcemia
+CYP24A1 could play a role in severe infantile hypercalcaemia.

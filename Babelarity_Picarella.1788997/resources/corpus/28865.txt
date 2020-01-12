@@ -1,0 +1,37 @@
+The Zvezda Kh-35U ('Star', Russian: Х-35У, AS-20 'Kayak') is the jet-launched version of a Russian subsonic anti-ship missile. The same missile can also be launched from helicopters, surface ships and coastal defence batteries with the help of a rocket booster, in which case it is known as Uran ('Uranus', SS-N-25 'Switchblade', GRAU 3M24 ) or Bal ('Ball', SSC-6 'Sennight', GRAU 3K60). It is also nicknamed "Harpoonski", because it looks like and functions very similar to the American Harpoon Anti-Ship missile. It is designed to attack vessels up to 5000 tonnes.
+Zvezda started work on the Kh-35 in 1983 by a decree of the USSR Council of Ministers and the USSR CPSU Central Committee to arm ships of medium tonnage.
+The Kh-35 missile is a subsonic weapon featuring a normal aerodynamic configuration with cruciform wings and fins and a semisubmerged air duct intake. The propulsion unit is a turbofan engine. The missile is guided to its target at the final leg of the trajectory by commands fed from the active radar homing head and the radio altimeter.
+Target designation data can be introduced into the missile from the launch aircraft or ship or external sources. Flight mission data is inserted into the missile control system after input of target coordinates. An inertial system controls the missile in flight, stabilizes it at an assigned altitude and brings it to a target location area. At a certain target range, the homing head is switched on to search for, lock on and track the target. The inertial control system then turns the missile toward the target and changes its flight altitude to an extremely low one. At this altitude, the missile continues the process of homing by the data fed from the homing head and the inertial control system until a hit is obtained.
+The Kh-35 anti-ship missile can be employed in fair and adverse weather conditions at sea states up to 5-6, by day and night, under enemy fire and electronic countermeasures.
+The Kh-35's aerodynamic configuration is optimized for high subsonic-speed sea-skimming flight to ensure stealthy characteristics of the missile. The missile has low signatures thanks to its small dimensions, sea-skimming capability and a special guidance algorithm ensuring highly secure operational modes of the active radar seeker.
+Its ARGS-35E active radar seeker operates in both single-and-multiple missile launch modes, acquiring and locking on targets at a maximum range of up to 20 km. A new radar seeker, Gran-KE have been developed by SPE Radar MMS and will be replacing the existing ARGS-35E X band seeker.
+The Kh-35 missile entered service in 2003. In July 2003, the system created by the "Tactical Missiles Corporation" successfully passed the state tests and began to come into service of ships of the Russian Navy. Today it is generally accepted that in the criterion of "cost-effectiveness", "Uran-E" is one of the best systems in the world. It has also been acquired by India. The Bal coastal missile system in the fall of 2004 showed excellent results in the state tests and entered service in 2008. From 2001-2015, Russia supplied Vietnam with 198 Kh-35E missiles for sea-based use. By June 2016, Vietnam was planning to start serial production of their indigenous KCT-15 anti-ship missile based on the Kh-35E, covering three types of Kh-35E missiles for sea-launched, air-launched, and coastal defense as part of the 3K60 Bal/SSC-6 Sennight mobile coastal defense system.
+Kh-35 (3M-24) - Base naval version for Russia (2003). Missile range - up to 130 km, detection range 20 km (as in all versions), length and weight - 4,4 m and 620 kg respectively (as in the land-based version), body diameter - 0,42 m, wing span - 1,33 m, altitude - en route 10–15 m, at terminal area about 4 m, cruise speed - 0,8 Mach, warhead type - HE penetrator, warhead weight - 145 kg (as in all versions).
+Kh-35E (3M-24E) - Export version of Kh-35 (1996).
+Kh-35U - Base upgrade unified missile (can be used with any carrier), version for Russia in production (as of July 1, 2015). Range 260 km, with satellite navigation and active-passive radar homing head, protection from spoofing, detection range 50 km.
+Kh-35UE - Export version of Kh-35U, in production.
+Kh-35V - Version for Russia, launched from a helicopter.
+3M-24EMV - Export version of Kh-35 missile-target without warhead for Vietnam.
+Kh-35 Uran/Uran-E (SS-N-25 'Switchblade', 3M-24) - Shipborne equipment of the control system with a missile Kh-35/Kh-35E.
+Bal/Bal-E - Coastal (SSC-6 Sennight) missile complex with Kh-35/Kh-35E missiles (2008).
+KN-09 - Reported North Korean copy of the Kh-35U.
+Kh-37 or Kh-39 - possible name for nuclear-tipped variant.
+KCT-15 - License-produced Kh-35E by Vietnam.
+ Algeria
+ Azerbaijan - Bal Coastal missile complex being delivered
+ India
+ Iran
+ Russia - 112 Kh-35 (3M-24) delivered in 2009-2010.The Russian Navy is composed of 4 (16 mobile launch systems) divisions already have a missile complex called "Bal":
+1st Division is part of the 11th BSF Brigade Utash, Krasnodar
+2nd Division—46th separate division of Caspian Flotilla, Dagestan
+3rd Division is part of the 15th Black Sea Fleet Brigade Sevastopol, Crimea
+4th Division in the 72nd PF Regiment Smolyaninovo, Primorsky Krai.
+ Venezuela - Bal Coastal missile complex being delivered.
+ Vietnam
+ Myanmar Navy
+ North Korea - KN-09/Kh-35U surface to surface.
+Harpoon (missile) (USA) - 221 kg warhead, 93–315 km range depending on platform
+C-802 (China) - 165 kg warhead, 120–180 km range
+Exocet (France) - 165 kg warhead, 180 km range
+RBS-15 (Sweden) - 200 kg warhead, 200 km range
+Sea Eagle (UK) - 230 kg warhead, 110+ km range

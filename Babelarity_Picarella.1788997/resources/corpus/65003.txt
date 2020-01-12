@@ -1,0 +1,12 @@
+In cryptography, the Tiny Encryption Algorithm (TEA) is a block cipher notable for its simplicity of description and implementation, typically a few lines of code. It was designed by David Wheeler and Roger Needham of the Cambridge Computer Laboratory; it was first presented at the Fast Software Encryption workshop in Leuven in 1994, and first published in the proceedings of that workshop.
+The cipher is not subject to any patents.
+TEA operates on two 32-bit unsigned integers (could be derived from a 64-bit data block) and uses a 128-bit key. It has a Feistel structure with a suggested 64 rounds, typically implemented in pairs termed cycles. It has an extremely simple key schedule, mixing all of the key material in exactly the same way for each cycle. Different multiples of a magic constant are used to prevent simple attacks based on the symmetry of the rounds. The magic constant, 2654435769 or 9E3779B916 is chosen to be ⌊232/ϕ⌋, where ϕ is the golden ratio.
+TEA has a few weaknesses. Most notably, it suffers from equivalent keys—each key is equivalent to three others, which means that the effective key size is only 126 bits. As a result, TEA is especially bad as a cryptographic hash function. This weakness led to a method for hacking Microsoft's Xbox game console, where the cipher was used as a hash function. TEA is also susceptible to a related-key attack which requires 223 chosen plaintexts under a related-key pair, with 232 time complexity. Because of these weaknesses, the XTEA cipher was designed.
+The first published version of TEA was supplemented by a second version that incorporated extensions to make it more secure. Block TEA (which was specified along with XTEA) operates on arbitrary-size blocks in place of the 64-bit blocks of the original.
+A third version (XXTEA), published in 1998, described further improvements for enhancing the security of the Block TEA algorithm.
+Following is an adaptation of the reference encryption and decryption routines in C, released into the public domain by David Wheeler and Roger Needham:
+Note that the reference implementation acts on multi-byte numeric values. The original paper does not specify how to derive the numbers it acts on from binary or other content.
+RC4 - A stream cipher that, just like TEA, is designed to be very simple to implement.
+XTEA - First version of Block TEA's successor.
+XXTEA - Corrected Block TEA's successor.
+Treyfer - A simple and compact encryption algorithm with 64 bit key size and block size.

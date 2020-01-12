@@ -1,0 +1,22 @@
+The Euro Interbank Offered Rate (Euribor) is a daily reference rate, published by the European Money Markets Institute, based on the averaged interest rates at which Eurozone banks offer to lend unsecured funds to other banks in the euro wholesale money market (or interbank market). Prior to 2015, the rate was published by the European Banking Federation.
+Euribors are used as a reference rate for euro-denominated forward rate agreements, short-term interest rate futures contracts and interest rate swaps, in very much the same way as LIBORs are commonly used for Sterling and US dollar-denominated instruments. They thus provide the basis for some of the world's most liquid and active interest rate markets.
+Domestic reference rates, like Paris' PIBOR, Frankfurt's FIBOR, and Helsinki's Helibor merged into Euribor on EMU day on 1 January 1999.
+Euribor should be distinguished from the less commonly used "Euro LIBOR" rates set in London by 16 major banks.
+Official reference: EURIBOR Technical features
+A representative panel of banks provide daily quotes of the rate, rounded to two decimal places, that each panel bank believes one prime bank is quoting to another prime bank for interbank term deposits within the Euro zone, for maturity ranging from one week to one year. Every Panel Bank is required to directly input its data no later than 11:00 a.m. (CET) on each day that the Trans-European Automated Real-Time Gross-Settlement Express Transfer system (TARGET) is open. At 11:02 a.m. (CET), GRSS (Global Rate Set Systems) will instantaneously publish the reference rate on Reuters, Bloomberg and a number of other information providers which will then be made available to all their subscribers. The published rate is a rounded, truncated mean of the quoted rates: the highest and lowest 15% of quotes are eliminated, the remainder are averaged and the result is rounded to 3 decimal places. Euribor rates are spot rates, i.e. for a start two working days after measurement day. Like US money-market rates, they are Actual/360, i.e. calculated with an exact daycount over a 360-day year. Euribor was first published on 30 December 1998 for value 4 January 1999.
+As at 24 February 2016 the panel of banks contributing to Euribor consists of 23 banks:. At 20 September 2012, the panel of banks contributing to Euribor consisted of 44 banks:
+The contributors to Euribor are the banks with the highest volume of business in the euro zone money markets.
+Banks from EU countries participating in the euro from the outset.
+Banks from EU countries not participating in the euro from the outset.
+Large international banks from non-EU countries but with important euro zone operations.
+Interest rate swaps based on short Euribors currently trade on the interbank market for maturities up to 50 years. A "five-year Euribor" will be in fact referring to the 5-year swap rate vs 6-month Euribor. "Euribor + x basis points", when talking about a bond, will mean that the bond's cash flows have to be discounted on the swaps' zero-coupon yield curve shifted by x basis points in order to equal the bond's actual market price.
+The other widely used reference rate in the euro-zone is Eonia, also published by the European Banking Federation, which is the daily weighted average of overnight rates for unsecured interbank lending in the euro-zone, i.e. like the federal funds rate in the US. The banks contributing to Eonia were the same as the Panel Banks contributing to Euribor.However "On 1st June 2013 the Eonia® and Euribor® respective panels of contributing banks have been differentiated."(EMMI website)
+Euro
+European Banking Federation
+Prime rate
+Federal funds rate
+EONIA
+SONIA
+SARON
+MUTAN
+LIBOR

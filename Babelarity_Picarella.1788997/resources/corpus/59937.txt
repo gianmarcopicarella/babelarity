@@ -1,0 +1,7 @@
+In chemistry, a derivative is a compound that is derived from a similar compound by a chemical reaction.
+In the past, derivative also meant a compound that can be imagined to arise from another compound, if one atom or group of atoms is replaced with another atom or group of atoms, but modern chemical language now uses the term structural analog for this meaning, thus eliminating ambiguity. The term "structural analogue" is common in organic chemistry.
+In biochemistry, the word is used for compounds that at least theoretically can be formed from the precursor compound.
+Chemical derivatives may be used to facilitate analysis. For example, melting point (MP) analysis can assist in identification of many organic compounds. A crystalline derivative may be prepared, such as a semicarbazone or 2,4-dinitrophenylhydrazone (derived from aldehydes or ketones), as a simple way of verifying the identity of the original compound, assuming that a table of derivative MP values is available. Prior to the advent of spectroscopic analysis, such methods were widely used.
+Derivatization
+Precursor (chemistry)
+Product (chemistry)

@@ -1,0 +1,18 @@
+Venda, also known as Tshivenḓa or Luvenḓa, is a Bantu language and an official language of South Africa. It is mainly spoken by the Venda people in the northern part of South Africa's Limpopo Province, as well as by some Lemba people in Zimbabwe. The Venda language is related to Kalanga (Western Shona, different from Shona, official language of Zimbabwe) which is spoken in Botswana and Zimbabwe. During the Apartheid era of South Africa, the bantustan of Venda was set up to cover the Venda speakers of South Africa.
+According to the 2011 census, Venda speakers are concentrated in the following areas: Makhado Local Municipality, with 350,000 people; Thulamela Local Municipality, with 370,000 people; Musina Local Municipality, with 35,000 people; and Mutale Local Municipality, with 89,000 people. The total number of speakers in Vhembe district currently stands at 844,000. In Gauteng province, there are 275,000 Venda speakers. Fewer or less than 10,000 people are spread across South Africa and that makes total number of Venda speakers in South Africa at 1.2 million people or just 2.2% of South Africa's population, making Venda speakers the second smallest minority language in South Africa, after the Ndebele language, which number 1.1 million speakers.
+The Venda language uses the Latin alphabet with five additional accented letters—there are four dental consonants with circumflex below the letter (ḓ, ḽ, ṋ, ṱ) and an overdot for velar ṅ. Five vowel letters are used to write seven vowels. The letters C, J and Q are used only in quoting foreign words and names.
+The sintu writing system Isibheqe Sohlamvu/Ditema tsa Dinoko, known technically in Venda as Luṱhofunḓeraru lwa Mibvumo, is also used for the Venda language.
+Venda distinguishes dental ṱ, ṱh, ḓ, ṋ, ḽ from alveolar t, th, d, n, l, as well as (like the Ewe) labiodental f, v from bilabial fh, vh (the latter are slightly rounded). There are no clicks; x has the sound of ch in loch or Bach. As in other South African languages like the Zulu, ph, ṱh, th, kh are aspirated, p, ṱ, t, k ejective.
+There is fortition of /ɸ β s ʃ x h l̪ l r w/ after nasal prefixes, likely to [pʰ? b tsʰ tʃʰ kʰ? pʰ d̪ d d b].
+Venda has a single specified tone, HIGH, with unmarked syllables having a low tone. Phonetic falling tone occurs, but only in sequences of more than one vowel, or on the penultimate syllable, where the vowel is long. Tone patterns exist independently of the consonants and vowels of a word: that is, they are word tones. Venda tone also follows Meeussen's rule: when a word beginning with a high tone is preceded by that high tone, the initial high tone is lost. (That is, there cannot be two adjacent marked high tones in a word, though high tone spreads allophonically to a following non-tonic ("low"-tone) syllable.) There are only a handful of tone patterns in Venda words—no tone, a single high tone on some syllable, two non-adjacent high tones—which behave as follows:
+The extra letters have the following Unicode names
+Ḓ U+1E12 LATIN CAPITAL LETTER D WITH CIRCUMFLEX BELOW
+ḓ U+1E13 LATIN SMALL LETTER D WITH CIRCUMFLEX BELOW
+Ḽ U+1E3C LATIN CAPITAL LETTER L WITH CIRCUMFLEX BELOW
+ḽ U+1E3D LATIN SMALL LETTER L WITH CIRCUMFLEX BELOW
+Ṅ U+1E44 LATIN CAPITAL LETTER N WITH DOT ABOVE
+ṅ U+1E45 LATIN SMALL LETTER N WITH DOT ABOVE
+Ṋ U+1E4A LATIN CAPITAL LETTER N WITH CIRCUMFLEX BELOW
+ṋ U+1E4B LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW
+Ṱ U+1E70 LATIN CAPITAL LETTER T WITH CIRCUMFLEX BELOW
+ṱ U+1E71 LATIN SMALL LETTER T WITH CIRCUMFLEX BELOW

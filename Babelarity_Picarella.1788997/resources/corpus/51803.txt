@@ -1,0 +1,20 @@
+dyne:bolic GNU/Linux is a Live CD/DVD distribution based on the Linux kernel. It is shaped by the needs of media activists, artists and creators to be a practical tool with a focus on multimedia production, that delivers a large assortment of applications. It allows manipulation and broadcast of both sound and video with tools to record, edit, encode, and stream. In addition to multimedia specific programs, dyne:bolic also provides word processors and common desktop computing tools.
+Termed "Rastasoft" by its author, it is based entirely on free software and is recognized by the GNU Project for this. dyne:bolic is created by volunteers and the author and maintainer Jaromil, who also included multimedia tools like MusE, HasciiCam, FreeJ in the distribution.
+dyne:bolic is intended to be used as Live CD/DVD. It does not require installation to a hard drive, and attempts to recognize most devices and peripherals (sound, video, TV, etc.) automatically. It is designed to work with older and slower computers, its kernel optimized for low latency and for performance, making the distribution suitable for audio and video production and turning PCs into full media stations. For that reason software included is sometimes not at the newest version available.
+dyne:bolic can be extended by downloading extra modules such as development tools or common software like OpenOffice.org. These are SquashFS files placed in the modules/ directory of a dock (see below) or a burnt CD and are automatically integrated at boot.
+Basic system requirements for version 1.x and 2.x were relatively low. A PC with Pentium or AMD K5 (i586) class CPU and 64 MB of RAM and an IDE CD-ROM drive is sufficient. Some versions of dyne:bolic 1.x were ported by co-developer Smilzo to be used on the Xbox game console, multiple Xbox installations could be clustered. Console installation and clustering is currently not supported by version 2.x and up.
+Version 3.0, codenamed MUNIR, has higher system requirements than former releases and is the first that comes as DVD image. A Pentium II or AMD K6-2 class processor, 256 MB RAM and an IDE/SATA DVD-ROM drive are recommended. Again, a harddisk is not needed. It was released on September 8, 2011.
+The user copies the dyne/ directory from CD/DVD to a suitably formatted partition or drive (this is called Docking). This file system will be recognised and booted by the CD or DVD. There is an option to install a GNU GRUB bootloader or edit an existing one. Booting from floppy disk is supported, too.
+User settings can be saved on disc or USB flash drive) in a writable image file containing /home and /etc filesystem (described as Nesting), which can also be encrypted for better privacy.
+Version 3.0, currently dyne:bolic 3.0 Beta 4, uses Linux kernel 3.0.1 and is a DVD-ROM image of 1.65 GB. GNOME 2 is used as desktop interface, Grub2 as the boot loader.
+This version, the latest being 2.5.2, uses Linux kernel 2.6 and is a CD-ROM image. Xfce is used as the desktop interface.
+This version used Linux kernel 2.4 on a CD-ROM image, and brought ability to create "nests" and "docks" on hard disk or USB key.
+Features present in dyne:bolic 1.x, but dropped later on were:
+openMosix - a clustering software
+Ability to boot on Xbox game console
+WindowMaker - a fast and small memory footprint X window manager
+CIA World Factbook - as a local copy
+Comparison of Linux distributions
+GNU/Linux naming controversy
+List of Linux distributions based on Debian
+Musix GNU+Linux – another free distribution for multimedia enthusiasts

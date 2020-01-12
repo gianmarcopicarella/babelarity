@@ -1,0 +1,25 @@
+The voiced alveolar fricatives are consonantal sounds. The symbol in the International Phonetic Alphabet that represents these sounds depends on whether a sibilant or non-sibilant fricative is being described.
+The symbol for the alveolar sibilant is 〈z〉, and the equivalent X-SAMPA symbol is z. The IPA letter 〈z〉 is not normally used for dental or postalveolar sibilants unless modified by a diacritic (〈z̪〉 and 〈z̠〉 respectively).
+The IPA symbol for the alveolar non-sibilant fricative is derived by means of diacritics; it can be 〈ð̠〉 or 〈ɹ̝〉.
+The voiced alveolar sibilant is common across European languages, but is relatively uncommon cross-linguistically compared to the voiceless variant. Only about 28% of the world's languages contain a voiced dental or alveolar sibilant. Moreover, 85% of the languages with some form of [z] are languages of Europe, Africa, or Western Asia.
+In the eastern half of Asia, the Pacific and the Americas, [z] is very rare as a phoneme. Every language that has [z] also has [s].
+Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence.
+There are at least three specific variants of [z]:
+Dentalized laminal alveolar (commonly called "dental"), which means it is articulated with the tongue blade very close to the upper front teeth, with the tongue tip resting behind lower front teeth. The hissing effect in this variety of [z] is very strong.
+Non-retracted alveolar, which means it is articulated with either the tip or the blade of the tongue at the alveolar ridge, termed respectively apical and laminal. According to Ladefoged & Maddieson (1996) about half of English speakers use a non-retracted apical articulation.
+Retracted alveolar, which means it is articulated with either the tip or the blade of the tongue slightly behind the alveolar ridge, termed respectively apical and laminal. Acoustically, it is close to [ʒ] or laminal [ʐ].
+Its phonation is voiced, which means the vocal cords vibrate during the articulation.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+It is a central consonant, which means it is produced by directing the airstream along the center of the tongue, rather than to the sides.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
+The voiced alveolar non-sibilant fricative is a consonantal sound. As the International Phonetic Alphabet does not have separate symbols for the alveolar consonants (the same symbol is used for all coronal places of articulation that aren't palatalized), it can represent this sound as in a number of ways including 〈ð̠〉 or 〈ð͇〉 (retracted or alveolarized 〈ð〉, respectively), or 〈ɹ̝〉 (constricted 〈ɹ〉).
+Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence. However, it does not have the grooved tongue and directed airflow, or the high frequencies, of a sibilant.
+Its place of articulation is alveolar, which means it is articulated with either the tip or the blade of the tongue at the alveolar ridge, termed respectively apical and laminal.
+Its phonation is voiced, which means the vocal cords vibrate during the articulation.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+It is a central consonant, which means it is produced by directing the airstream along the center of the tongue, rather than to the sides.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
+Tongue shape
+Apical consonant
+Laminal consonant
+Index of phonetics articles

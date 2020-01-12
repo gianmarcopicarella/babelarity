@@ -1,0 +1,18 @@
+Google Notebook was a free online application offered by Google that allowed users to save and organize clips of information while conducting research online. The browser-based tool permitted a user to write notes, clip text and images, and save links from pages during a browser session. The information was saved to an online "notebook" with sharing and collaboration features. Notebooks could be made "public", or visible to others, and also could be used to collaborate with a list of users (either publicly or privately).
+A few months after the Firefox extension was released, Google added a "Note this" link to each Google search result when users are logged in. Clicking on it opened up an AJAX user interface near the bottom right of the screen just like the extension, but without the need for installing a browser add-on.
+Notebooks could contain headings and notes. New notes went at the bottom of a notebook, unless an insertion point (any specific note or section) had been pre-selected in the mini-notebook sub-window. Using the full-page notebook view, drag-and-drop features allowed moving and reorganizing notes within a notebook, or between notebooks. It was also possible to export one's notebooks to Google Documents. Items could be labeled. There was not an option to export notes as text (txt format) files.
+Google Notebook was announced on May 10, 2006, and was online for users on May 15, 2006. On November 1, 2007, labeling became available. On January 14, 2009, Google announced that they were stopping development on the service. However, Google Notebook users could continue to use the service. Almost immediately, Evernote launched a Google notebook importer on January 22, 2009. 
+In September 2011, Google announced it would discontinue a number of its products, including Google Notebook. On November 11, 2011, Google began exporting the contents of existing Notebooks to Google Docs, and made Google Notebooks read-only. As of July 2012, all Notebook data had been exported and Google Notebook was shut down.
+On March 20, 2013, Google launched its new note-taking application Google Keep.
+Comparison of notetaking software
+Circus Ponies NoteBook
+Diigo
+Evernote
+Gnote
+Google Keep
+Microsoft OneNote
+Springpad
+Tomboy
+Zoho Office Suite
+Zotero
+IPython Notebook

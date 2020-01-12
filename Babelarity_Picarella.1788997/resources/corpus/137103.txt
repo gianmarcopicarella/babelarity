@@ -1,0 +1,41 @@
+In medicine, a port (or portacath) is a small medical appliance that is installed beneath the skin. A catheter connects the port to a vein. Under the skin, the port has a septum through which drugs can be injected and blood samples can be drawn many times, usually with less discomfort for the patient than a more typical "needle stick".
+Ports are used mostly to treat hematology and oncology patients. Ports were previously adapted for use in hemodialysis patients, but were found to be associated with increased rate of infections and are no longer available in the US.
+The port is usually inserted in the upper chest (known as a "chest port"), just below the clavicle or collar bone, leaving the patient's hands free.
+A port is more correctly known as a "totally implantable venous access device". Brand Names include Eco Port, Clip-a-Port, SmartPort, Microport, Bardport, PowerPort (power injectable), Passport, Port-a-Cath, Infuse-a-Port, Medi-Port, and Bioflo.
+A port consists of a reservoir compartment (the portal) that has a silicone bubble for needle insertion (the septum), with an attached plastic tube (the catheter). The device is surgically inserted under the skin in the upper chest or in the arm and appears as a bump under the skin. It requires no special maintenance and is completely internal so swimming and bathing are not a problem. The catheter runs from the portal and is surgically inserted into a vein (usually the jugular vein or subclavian vein. Ideally, the catheter terminates in the superior vena cava or the right atrium. This position allows infused agents to be spread throughout the body quickly and efficiently.
+The septum is made of a special self-sealing silicone; it can be punctured hundreds of times before it weakens significantly. To administer treatment or to withdraw blood, a health care professional will first locate the port and disinfect the area, then access the port by puncturing the overlying skin with a 90° Huber point needle, although a winged needle may also be used. Due to its design, there is a very low infection risk, as the breach of skin integrity is never larger than the caliber of the needle. This gives it an advantage over indwelling lines such as the Hickman line. Negative pressure is created to withdraw blood into the vacuumized needle, to check for blood return and see if the port is functioning normally. Next, the port is flushed with a saline solution. Then, treatment will begin.
+After each use, a heparin lock is made by injecting a small amount of heparinized saline (an anticoagulant) into the device, preventing development of clots within the port or catheter. In some catheter designs where there is a self-sealing valve at the far end, the system is locked with just saline. The port can be left accessed for as long as required. The port is covered in a dressing to protect the site from infection and to secure the needle in position.
+If a port is used infrequently, it may be necessary to access the port, flush it with saline, and inject a new heparin lock to prevent clotting between uses.
+The implantation procedure itself is considered minor, and is typically performed with both local anaesthesia and moderate sedation. Patients often have post-procedure discomfort at the insertion site which is most often managed by a non-steroidal anti-inflammatory drug such as acetaminophen or ibuprofen.
+A port is most commonly inserted as a day surgery procedure in a hospital or clinic by an interventional radiologist or surgeon, under conscious sedation. Implantation is increasingly performed by interventional radiologists due to advancements in techniques and their facile use of imaging technologies. When no longer needed, the port can be removed in the operating room.
+Ports have many uses:
+To deliver chemotherapy to cancer patients who must undergo treatment frequently. Chemotherapy is often toxic, and can damage skin and muscle tissue, and therefore should not be delivered through these tissues. Portacaths provide a solution, delivering drugs quickly and efficiently through the entire body via the circulatory system.
+To deliver coagulation factors in patients with severe hemophilia.
+To withdraw (and/or return) blood to the body in patients who require frequent blood tests, and in hemodialysis patients.
+To deliver antibiotics to patients requiring them for a long time or frequently, such as those with cystic fibrosis and bronchiectasis.
+Delivering medications to patients with immune disorders.
+For treating alpha 1-antitrypsin deficiency with replacement therapy
+For delivering radiopaque contrast agents, which enhance contrast in CT imaging.
+To fill or withdraw fluid from the Lap-Band or Realize gastric bands used in Bariatric surgeries.
+To administer analgesics to patients with chronic pain, such as cancer patients and those with sickle-cell disease
+There are many different types of ports. The particular type selected is based on the patient's specific medical conditions.
+Portals:
+can be made of plastic, stainless steel, or titanium
+can be single chamber or dual chamber
+vary in height, width and shape.
+Catheters:
+can be made of biocompatible, medical-grade polyurethane or silicone
+can vary in length (cm)
+can vary in diameter (mm)
+Ports can be put in the upper chest or arm. The exact positioning itself is variable as it can be inserted to avoid visibility when wearing low cut shirts, and to avoid excess contact due to a backpack or bra strap. The most common placement is on the upper right portion of the chest, with the catheter itself looping through the right jugular vein, and down towards the patient's heart.
+Infection: a severe bacterial infection can compromise the device, require its surgical removal, and seriously jeopardize the health of the already weak patient.
+Thrombosis: formation of a blood clot in the catheter may block the device irrevocably. To prevent clotting the portacath is flushed with saline and heparin, usually by a nurse or other medical professional, or someone properly trained that is a family member or the patient, at least once every four weeks, or more often in conjunction with administering medication.
+Mechanical failure is uncommon. Ports placed through the subclavian vein may suffer from "pinch-off syndrome" where the catheter fractures as it passes into the vein. Ports placed via the jugular vein do not suffer from this problem. The catheter fragment then travels through the venous system and typically lodges in the right heart or the lungs. Many patients are asymptomatic but the mechanical failure is discovered because of an inability to flush or withdraw fluids from the port. In those instances and interventional radiologist can usually retrieve the fragment and place a new port.
+Age: If the device is put into a child, the child's growth means that the catheter becomes relatively shorter and will move towards the head. It may become necessary to remove or replace it.
+Pneumothorax: Attempts to gain access to the subclavian vein or jugular vein can injure the lung, potentially causing a pneumothorax. If the pneumothorax is large enough, a chest tube might need to be placed. In experienced hands, the incidence of this complication is about 1% when accessing the subclavian vein. When accessing the jugular vein the pneumothorax rate is virtually nonexistent.
+Arterial injury: The subclavian artery can be inadvertently punctured while attempting a subclavian vein access, leading to a subcutaneous hematoma and occasionally a pseudoaneurysm. An alternative site may need to be used for port placement. Puncture of the carotid artery is more rare, since attempts to access the nearby jugular vein are increasingly done with ultrasound guidance.
+The major manufacturers of ports are Bard Access Systems, Cook Medical, Navilyst Medical, Smiths Medical, MedComp, B. Braun Medical, Norfolk Medical Products, and AngioDynamics.
+In the 1984 cyberpunk novel Neuromancer, a minor character, Peter Riviera, has a kind of medical port placed in his arm to facilitate his recreational drug use.
+Central venous catheter or "central line"
+Hickman line
+Peripherally inserted central catheter or "PICC"

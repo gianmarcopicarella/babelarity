@@ -1,0 +1,50 @@
+Mastermind or Master Mind is a code-breaking game for two players. The modern game with pegs was invented in 1970 by Mordecai Meirowitz, an Israeli postmaster and telecommunications expert. It resembles an earlier pencil and paper game called Bulls and Cows that may date back a century or more.
+The game is played using:
+a decoding board, with a shield at one end covering a row of four large holes, and twelve (or ten, or eight, or six) additional rows containing four large holes next to a set of four small holes;
+code pegs of six (or more; see Variations below) different colors, with round heads, which will be placed in the large holes on the board; and
+key pegs, some colored black, some white, which are flat-headed and smaller than the code pegs; they will be placed in the small holes on the board.
+The two players decide in advance how many games they will play, which must be an even number. One player becomes the codemaker, the other the codebreaker. The codemaker chooses a pattern of four code pegs. Duplicates are allowed, so the player could even choose four code pegs of the same color. The chosen pattern is placed in the four holes covered by the shield, visible to the codemaker but not to the codebreaker.
+The codebreaker tries to guess the pattern, in both order and color, within twelve (or ten, or eight) turns. Each guess is made by placing a row of code pegs on the decoding board. Once placed, the codemaker provides feedback by placing from zero to four key pegs in the small holes of the row with the guess. A colored or black key peg is placed for each code peg from the guess which is correct in both color and position. A white key peg indicates the existence of a correct color code peg placed in the wrong position.
+If there are duplicate colours in the guess, they cannot all be awarded a key peg unless they correspond to the same number of duplicate colours in the hidden code. For example, if the hidden code is white-white-black-black and the player guesses white-white-white-black, the codemaker will award two colored key pegs for the two correct whites, nothing for the third white as there is not a third white in the code, and a colored key peg for the black. No indication is given of the fact that the code also includes a second black.
+Once feedback is provided, another guess is made; guesses and feedback continue to alternate until either the codebreaker guesses correctly, or twelve (or ten, or eight) incorrect guesses are made.
+The codemaker gets one point for each guess a codebreaker makes. An extra point is earned by the codemaker if the codebreaker doesn't guess the pattern exactly in the last guess. (An alternative is to score based on the number of colored key pegs placed.) The winner is the one who has the most points after the agreed-upon number of games are played.
+Other rules may be specified.
+Since 1971, the rights to Mastermind have been held by Invicta Plastics of Oadby, near Leicester, UK. (Invicta always named the game Master Mind.) They originally manufactured it themselves, though they have since licensed its manufacture to Hasbro worldwide, with the exception of Pressman Toys and Orda Industries who have the manufacturing rights to the United States and Israel, respectively.
+Starting in 1973, the game box featured a photograph of a well-dressed, distinguished-looking man seated in the foreground, with a woman standing behind him. The two amateur models (Bill Woodward and Cecilia Fung) reunited in June 2003 to pose for another publicity photo.
+With four pegs and six colors, there are 64 = 1296 different patterns (allowing duplicate colors).
+In 1977, Donald Knuth demonstrated that the codebreaker can solve the pattern in five moves or fewer, using an algorithm that progressively reduced the number of possible patterns. The algorithm works as follows:
+Create the set S of 1296 possible codes (1111, 1112 ... 6665, 6666)
+Start with initial guess 1122 (Knuth gives examples showing that other first guesses such as 1123, 1234 do not win in five tries on every code)
+Play the guess to get a response of colored and white pegs.
+If the response is four colored pegs, the game is won, the algorithm terminates.
+Otherwise, remove from S any code that would not give the same response if it (the guess) were the code.
+Apply minimax technique to find a next guess as follows: For each possible guess, that is, any unused code of the 1296 not just those in S, calculate how many possibilities in S would be eliminated for each possible colored/white peg score. The score of a guess is the minimum number of possibilities it might eliminate from S. A single pass through S for each unused code of the 1296 will provide a hit count for each colored/white peg score found; the colored/white peg score with the highest hit count will eliminate the fewest possibilities; calculate the score of a guess by using "minimum eliminated" = "count of elements in S" - (minus) "highest hit count". From the set of guesses with the maximum score, select one as the next guess, choosing a member of S whenever possible. (Knuth follows the convention of choosing the guess with the least numeric value e.g. 2345 is lower than 3456. Knuth also gives an example showing that in some cases no member of S will be among the highest scoring guesses and thus the guess cannot win on the next turn, yet will be necessary to assure a win in five.)
+Repeat from step 3.
+Subsequent mathematicians have been finding various algorithms that reduce the average number of turns needed to solve the pattern: in 1993, Kenji Koyama and Tony W. Lai found a method that required an average of 5625/1296 = 4.340 turns to solve, with a worst-case scenario of six turns. The minimax value in the sense of game theory is 5600/1296 = 4.321.
+A new algorithm with an embedded genetic algorithm, where a large set of eligible codes is collected throughout the different generations. The quality of each of these codes is determined based on a comparison with a selection of elements of the eligible set. This algorithm is based on a heuristic that assigns a score to each eligible combination based on its probability of actually being the hidden combination. Since this combination is not known, the score is based on characteristics of the set of eligible solutions or the sample of them found by the evolutionary algorithm.
+The algorithm works as follows:
+Set i = 1
+Play fixed initial guess G1
+Get the response X1 and Y1
+Repeat while Xi ≠ P:
+Increment i
+Set Ei = ∅ and h = 1
+Initialize population
+Repeat while h ≤ maxgen and |Ei| ≤ maxsize:
+Generate new population using crossover, mutation, inversion and permutation
+Calculate fitness
+Add eligible combinations to Ei
+Increment h
+Play guess Gi which belongs to Ei
+Get response Xi and Yi
+In November 2004, Michiel de Bondt proved that solving a Mastermind board is an NP-complete problem when played with n pegs per row and two colors, by showing how to represent any one-in-three 3SAT problem in it. He also showed the same for Consistent Mastermind (playing the game so that every guess is a candidate for the secret code that is consistent with the hints in the previous guesses).
+The Mastermind satisfiability problem is a decision problem that asks, "Given a set of guesses and the number of colored and white pegs scored for each guess, is there at least one secret pattern that generates those exact scores?" (If not, then the codemaker must have incorrectly scored at least one guess.) In December 2005, Jeff Stuckman and Guo-Qiang Zhang showed in an arXiv article that the Mastermind satisfiability problem is NP-complete.
+Varying the number of colors and the number of holes results in a spectrum of Mastermind games of different levels of difficulty. Another common variation is to support different numbers of players taking on the roles of codemaker and codebreaker. The following are some examples of Mastermind games produced by Invicta, Parker Brothers, Pressman, Hasbro, and other game manufacturers:
+The difficulty level of any of the above can be increased by treating “empty” as an additional color or decreased by requiring only that the code's colors be guessed, independent of position.
+Computer and Internet versions of the game have also been made, sometimes with variations in the number and type of pieces involved and often under different names to avoid trademark infringement. Mastermind can also be played with paper and pencil. There is a numeral variety of the Mastermind in which a 4-digit number is guessed.
+There are at least four open-source software implementations of the game concept:
+colorcode uses Qt
+gnome-mastermind uses GTK+
+GMastermind uses GNUstep
+Guess is part of Simon Tatham's Portable Puzzle Collection
+Bulls and cows

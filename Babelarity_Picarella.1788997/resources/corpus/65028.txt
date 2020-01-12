@@ -1,0 +1,231 @@
+In mathematics the Jacobi identity is a property a binary operation can have that determines how the order of evaluation behaves for the given operation. In contrast to plain associative operations, the order of evaluation is significant for operations satisfying the Jacobi identity. It is named after the German mathematician Carl Gustav Jakob Jacobi. The cross product and the bracket operation of a Lie algebra both satisfy the Jacobi identity.
+A binary operation × on a set S possessing a binary operation + with an additive identity denoted by 0 satisfies the Jacobi identity if
+        a
+        ×
+        (
+        b
+        ×
+        c
+        )
+        +
+        c
+        ×
+        (
+        a
+        ×
+        b
+        )
+        +
+        b
+        ×
+        (
+        c
+        ×
+        a
+        )
+        =
+        0
+        ∀
+          a
+          ,
+          b
+          ,
+          c
+        ∈
+        S
+        .
+    {\displaystyle a\times (b\times c)+c\times (a\times b)+b\times (c\times a)=0\quad \forall {a,b,c}\in S.}
+That is, the sum of all even permutations of (a,(b,c)) must be zero. (Where the permutation is performed by leaving the parentheses fixed and interchanging letters an even number of times.)
+In a Lie algebra, the objects that obey the Jacobi identity are infinitesimal motions. When acting on an operator with an infinitesimal motion, the change in the operator is the ring commutator.
+The Jacobi Identity is manifestly cyclic,
+which may be rewritten in the following form by antisymmetry,
+        [
+        [
+        A
+        ,
+        B
+        ]
+        ,
+        C
+        ]
+        =
+        [
+        A
+        ,
+        [
+        B
+        ,
+        C
+        ]
+        ]
+        −
+        [
+        B
+        ,
+        [
+        A
+        ,
+        C
+        ]
+        ]
+        .
+    {\displaystyle [[A,B],C]=[A,[B,C]]-[B,[A,C]]~.}
+This formula may then be expatiated on in plain words,
+"The infinitesimal motion of B followed by the infinitesimal motion of A, ([A,[B,⋅]]), minus the infinitesimal motion of A followed by the infinitesimal motion of B, ([B,[A,⋅]]), is the infinitesimal motion of [A,B], ([[A,B],⋅]), when acting on any arbitrary infinitesimal motion C. Thus, these are equal".
+The Jacobi identity is satisfied by the multiplication (bracket) operation on Lie algebras and Lie rings and these provide the majority of examples of operations satisfying the Jacobi identity in common use. Because of this the Jacobi identity is often expressed using Lie bracket notation:
+        [
+        x
+        ,
+        [
+        y
+        ,
+        z
+        ]
+        ]
+        +
+        [
+        z
+        ,
+        [
+        x
+        ,
+        y
+        ]
+        ]
+        +
+        [
+        y
+        ,
+        [
+        z
+        ,
+        x
+        ]
+        ]
+        =
+        0.
+    {\displaystyle [x,[y,z]]+[z,[x,y]]+[y,[z,x]]=0.}
+If the multiplication is antisymmetric, the Jacobi identity admits two equivalent reformulations. Defining the adjoint map
+          ad
+            x
+        :
+        y
+        ↦
+        [
+        x
+        ,
+        y
+        ]
+        ,
+    {\displaystyle \operatorname {ad} _{x}:y\mapsto [x,y],}
+after a rearrangement, the identity becomes
+          ad
+            x
+        ⁡
+        [
+        y
+        ,
+        z
+        ]
+        =
+        [
+          ad
+            x
+        ⁡
+        y
+        ,
+        z
+        ]
+        +
+        [
+        y
+        ,
+          ad
+            x
+        ⁡
+        z
+        ]
+        .
+    {\displaystyle \operatorname {ad} _{x}[y,z]=[\operatorname {ad} _{x}y,z]+[y,\operatorname {ad} _{x}z].}
+Thus, the Jacobi identity for Lie algebras simply becomes the assertion that the action of any element on the algebra is a derivation. This form of the Jacobi identity is also used to define the notion of Leibniz algebra.
+Another rearrangement shows that the Jacobi identity is equivalent to the following identity between the operators of the adjoint representation:
+          ad
+            [
+            x
+            ,
+            y
+            ]
+        =
+        [
+          ad
+            x
+        ,
+          ad
+            y
+        ]
+        .
+    {\displaystyle \operatorname {ad} _{[x,y]}=[\operatorname {ad} _{x},\operatorname {ad} _{y}].}
+This identity implies that the map sending each element to its adjoint action is a Lie algebra homomorphism of the original algebra into the Lie algebra of its derivations.
+A similar identity, called the Hall–Witt identity, exists for the commutators in groups.
+In analytical mechanics, the Jacobi identity is satisfied by the Poisson brackets. In quantum mechanics, it is satisfied by operator commutators on a Hilbert space and, equivalently, in the phase space formulation of quantum mechanics by the Moyal bracket.
+The following identitity follows from anticommutativity and Jacobi identity and holds in arbitrary Lie algebra:
+        [
+        x
+        ,
+        [
+        y
+        ,
+        [
+        z
+        ,
+        w
+        ]
+        ]
+        ]
+        +
+        [
+        y
+        ,
+        [
+        x
+        ,
+        [
+        w
+        ,
+        z
+        ]
+        ]
+        ]
+        +
+        [
+        z
+        ,
+        [
+        w
+        ,
+        [
+        x
+        ,
+        y
+        ]
+        ]
+        ]
+        +
+        [
+        w
+        ,
+        [
+        z
+        ,
+        [
+        y
+        ,
+        x
+        ]
+        ]
+        ]
+        =
+        0.
+    {\displaystyle [x,[y,[z,w]]]+[y,[x,[w,z]]]+[z,[w,[x,y]]]+[w,[z,[y,x]]]=0.}
+Super Jacobi identity
+Three subgroups lemma (Hall-Witt identity)

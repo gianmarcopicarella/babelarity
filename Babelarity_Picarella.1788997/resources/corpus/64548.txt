@@ -1,0 +1,764 @@
+An Euler spiral is a curve whose curvature changes linearly with its curve length (the curvature of a circular curve is equal to the reciprocal of the radius). Euler spirals are also commonly referred to as spiros, clothoids, or Cornu spirals.
+Euler spirals have applications to diffraction computations. They are also widely used as transition curve in railroad engineering/highway engineering for connecting and transiting the geometry between a tangent and a circular curve. The principle of linear variation of the curvature of the transition curve between a tangent and a circular curve defines the geometry of the Euler spiral:
+Its curvature begins with zero at the straight section (the tangent) and increases linearly with its curve length.
+Where the Euler spiral meets the circular curve, its curvature becomes equal to that of the latter.
+An object traveling on a circular path experiences a centripetal acceleration. When a vehicle traveling on a straight path suddenly transitions to a tangential circular path, it experiences a sudden centripetal acceleration starting at the tangent point; and this centripetal force acts instantly causing much discomfort (causing jerk).
+On early railroads this instant application of lateral force was not an issue since low speeds and wide-radius curves were employed (lateral forces on the passengers and the lateral sway was small and tolerable). As speeds of rail vehicles increased over the years, it became obvious that an easement is necessary so that the centripetal acceleration increases linearly with the traveled distance. Given the expression of centripetal acceleration V² / R, the obvious solution is to provide an easement curve whose curvature, 1 / R, increases linearly with the traveled distance. This geometry is an Euler spiral.
+Unaware of the solution of the geometry by Leonhard Euler, Rankine cited the cubic curve (a polynomial curve of degree 3), which is an approximation of the Euler spiral for small angular changes in the same way that a parabola is an approximation to a circular curve.
+Marie Alfred Cornu (and later some civil engineers) also solved the calculus of Euler spiral independently. Euler spirals are now widely used in rail and highway engineering for providing a transition or an easement between a tangent and a horizontal circular curve.
+The Cornu spiral can be used to describe a diffraction pattern.
+If a = 1, which is the case for normalized Euler curve, then the Cartesian coordinates are given by Fresnel integrals (or Euler integrals):
+                C
+                (
+                L
+                )
+                =
+                  ∫
+                    0
+                    L
+                cos
+                ⁡
+                (
+                  s
+                    2
+                )
+                d
+                s
+                S
+                (
+                L
+                )
+                =
+                  ∫
+                    0
+                    L
+                sin
+                ⁡
+                (
+                  s
+                    2
+                )
+                d
+                s
+    {\displaystyle {\begin{aligned}C(L)&=\int _{0}^{L}\cos(s^{2})\,ds\\S(L)&=\int _{0}^{L}\sin(s^{2})\,ds\end{aligned}}}
+Expand C(L) according to power series expansion of cosine:
+        cos
+        ⁡
+        θ
+        =
+        1
+        −
+              θ
+                2
+              2
+              !
+        +
+              θ
+                4
+              4
+              !
+        −
+              θ
+                6
+              6
+              !
+        +
+        ⋯
+    {\displaystyle \cos \theta =1-{\frac {\theta ^{2}}{2!}}+{\frac {\theta ^{4}}{4!}}-{\frac {\theta ^{6}}{6!}}+\cdots }
+                C
+                (
+                L
+                )
+                =
+                  ∫
+                    0
+                    L
+                cos
+                ⁡
+                (
+                  s
+                    2
+                )
+                d
+                s
+                =
+                  ∫
+                    0
+                    L
+                  (
+                  1
+                  −
+                        s
+                          4
+                        2
+                        !
+                  +
+                        s
+                          8
+                        4
+                        !
+                  −
+                        s
+                          12
+                        6
+                        !
+                  +
+                  ⋯
+                  )
+                d
+                s
+                =
+                L
+                −
+                      L
+                        5
+                      5
+                      ×
+                      2
+                      !
+                +
+                      L
+                        9
+                      9
+                      ×
+                      4
+                      !
+                −
+                      L
+                        13
+                      13
+                      ×
+                      6
+                      !
+                +
+                ⋯
+    {\displaystyle {\begin{aligned}C(L)&=\int _{0}^{L}\cos(s^{2})\,ds\\&=\int _{0}^{L}\left(1-{\frac {s^{4}}{2!}}+{\frac {s^{8}}{4!}}-{\frac {s^{12}}{6!}}+\cdots \right)\,ds\\&=L-{\frac {L^{5}}{5\times 2!}}+{\frac {L^{9}}{9\times 4!}}-{\frac {L^{13}}{13\times 6!}}+\cdots \end{aligned}}}
+Expand S(L) according to power series expansion of sine:
+        sin
+        ⁡
+        θ
+        =
+        θ
+        −
+              θ
+                3
+              3
+              !
+        +
+              θ
+                5
+              5
+              !
+        −
+              θ
+                7
+              7
+              !
+        +
+        ⋯
+    {\displaystyle \sin \theta =\theta -{\frac {\theta ^{3}}{3!}}+{\frac {\theta ^{5}}{5!}}-{\frac {\theta ^{7}}{7!}}+\cdots }
+                S
+                (
+                L
+                )
+                =
+                  ∫
+                    0
+                    L
+                sin
+                ⁡
+                (
+                  s
+                    2
+                )
+                d
+                s
+                =
+                  ∫
+                    0
+                    L
+                  (
+                    s
+                      2
+                  −
+                        s
+                          6
+                        3
+                        !
+                  +
+                        s
+                          10
+                        5
+                        !
+                  −
+                        s
+                          14
+                        7
+                        !
+                  +
+                  ⋯
+                  )
+                d
+                s
+                =
+                      L
+                        3
+                    3
+                −
+                      L
+                        7
+                      7
+                      ×
+                      3
+                      !
+                +
+                      L
+                        11
+                      11
+                      ×
+                      5
+                      !
+                −
+                      L
+                        15
+                      15
+                      ×
+                      7
+                      !
+                +
+                ⋯
+    {\displaystyle {\begin{aligned}S(L)&=\int _{0}^{L}\sin(s^{2})\,ds\\&=\int _{0}^{L}\left(s^{2}-{\frac {s^{6}}{3!}}+{\frac {s^{10}}{5!}}-{\frac {s^{14}}{7!}}+\cdots \right)\,ds\\&={\frac {L^{3}}{3}}-{\frac {L^{7}}{7\times 3!}}+{\frac {L^{11}}{11\times 5!}}-{\frac {L^{15}}{15\times 7!}}+\cdots \end{aligned}}}
+For a given Euler curve with:
+        2
+        R
+        L
+        =
+        2
+          R
+            c
+          L
+            s
+        =
+            1
+              a
+                2
+    {\displaystyle 2RL=2R_{c}L_{s}={\frac {1}{a^{2}}}\,}
+or
+            1
+            R
+        =
+            L
+                R
+                  c
+                L
+                  s
+        =
+        2
+          a
+            2
+        L
+    {\displaystyle {\frac {1}{R}}={\frac {L}{R_{c}L_{s}}}=2a^{2}L\,}
+then
+        x
+        =
+            1
+            a
+          ∫
+            0
+              L
+              ′
+        cos
+        ⁡
+          s
+            2
+        d
+        s
+    {\displaystyle x={\frac {1}{a}}\int _{0}^{L'}\cos s^{2}\,ds}
+        y
+        =
+            1
+            a
+          ∫
+            0
+              L
+              ′
+        sin
+        ⁡
+          s
+            2
+        d
+        s
+    {\displaystyle y={\frac {1}{a}}\int _{0}^{L'}\sin s^{2}\,ds\,}
+where 
+          L
+          ′
+        =
+        a
+        L
+    {\displaystyle L'=aL\,}
+   and 
+        a
+        =
+            1
+              2
+                R
+                  c
+                L
+                  s
+    {\displaystyle a={\frac {1}{\sqrt {2R_{c}L_{s}}}}}
+  .
+The process of obtaining solution of (x, y) of an Euler spiral can thus be described as:
+Map L of the original Euler spiral by multiplying with factor a to L′ of the normalized Euler spiral;
+Find (x′, y′) from the Fresnel integrals; and
+Map (x′, y′) to (x, y) by scaling up (denormalize) with factor 
+        1
+          /
+        a
+    {\displaystyle 1/a}
+  . Note that 
+        1
+          /
+        a
+        >
+        1
+    {\displaystyle 1/a>1}
+  .
+In the normalization process,
+                  R
+                    c
+                  ′
+                =
+                      R
+                        c
+                      2
+                        R
+                          c
+                        L
+                          s
+                =
+                        R
+                          c
+                        2
+                          L
+                            s
+    {\displaystyle {\begin{aligned}R'_{c}&={\frac {R_{c}}{\sqrt {2R_{c}L_{s}}}}\\&={\sqrt {\frac {R_{c}}{2L_{s}}}}\\\end{aligned}}}
+                  L
+                    s
+                  ′
+                =
+                      L
+                        s
+                      2
+                        R
+                          c
+                        L
+                          s
+                =
+                        L
+                          s
+                        2
+                          R
+                            c
+    {\displaystyle {\begin{aligned}L'_{s}&={\frac {L_{s}}{\sqrt {2R_{c}L_{s}}}}\\&={\sqrt {\frac {L_{s}}{2R_{c}}}}\end{aligned}}}
+Then
+                2
+                  R
+                    c
+                  ′
+                  L
+                    s
+                  ′
+                =
+                2
+                        R
+                          c
+                        2
+                          L
+                            s
+                        L
+                          s
+                        2
+                          R
+                            c
+                =
+                      2
+                      2
+                =
+                1
+    {\displaystyle {\begin{aligned}2R'_{c}L'_{s}&=2{\sqrt {\frac {R_{c}}{2L_{s}}}}{\sqrt {\frac {L_{s}}{2R_{c}}}}\\&={\tfrac {2}{2}}\\&=1\end{aligned}}}
+Generally the normalization reduces L' to a small value (<1) and results in good converging characteristics of the Fresnel integral manageable with only a few terms (at a price of increased numerical instability of the calculation, esp. for bigger 
+        θ
+    {\displaystyle \theta \,}
+   values.).
+Given:
+                  R
+                    c
+                =
+                300
+                  m
+                  L
+                    s
+                =
+                100
+                  m
+    {\displaystyle {\begin{aligned}R_{c}&=300{\mbox{m}}\\L_{s}&=100{\mbox{m}}\end{aligned}}}
+Then
+                  θ
+                    s
+                =
+                      L
+                        s
+                      2
+                        R
+                          c
+                =
+                    100
+                      2
+                      ×
+                      300
+                =
+                0.1667
+                  radian
+    {\displaystyle {\begin{aligned}\theta _{s}&={\frac {L_{s}}{2R_{c}}}\\&={\frac {100}{2\times 300}}\\&=0.1667\ {\mbox{radian}}\\\end{aligned}}}
+And
+        2
+          R
+            c
+          L
+            s
+        =
+        60
+        ,
+        000
+    {\displaystyle 2R_{c}L_{s}=60,000\,}
+We scale down the Euler spiral by √60,000, i.e.100√6 to normalized Euler spiral that has:
+                  R
+                    c
+                  ′
+                =
+                      3
+                        6
+                  m
+                  L
+                    s
+                  ′
+                =
+                      1
+                        6
+                  m
+    {\displaystyle {\begin{aligned}R'_{c}={\tfrac {3}{\sqrt {6}}}{\mbox{m}}\\L'_{s}={\tfrac {1}{\sqrt {6}}}{\mbox{m}}\\\\\end{aligned}}}
+                2
+                  R
+                    c
+                  ′
+                  L
+                    s
+                  ′
+                =
+                2
+                ×
+                      3
+                        6
+                ×
+                      1
+                        6
+                =
+                1
+    {\displaystyle {\begin{aligned}2R'_{c}L'_{s}&=2\times {\tfrac {3}{\sqrt {6}}}\times {\tfrac {1}{\sqrt {6}}}\\&=1\end{aligned}}}
+And
+                  θ
+                    s
+                =
+                      L
+                        s
+                      ′
+                      2
+                        R
+                          c
+                        ′
+                =
+                        1
+                          6
+                      2
+                      ×
+                            3
+                              6
+                =
+                0.1667
+                  radian
+    {\displaystyle {\begin{aligned}\theta _{s}&={\frac {L'_{s}}{2R'_{c}}}\\&={\frac {\tfrac {1}{\sqrt {6}}}{2\times {\tfrac {3}{\sqrt {6}}}}}\\&=0.1667\ {\mbox{radian}}\\\end{aligned}}}
+The two angles 
+          θ
+            s
+    {\displaystyle \theta _{s}\,}
+   are the same. This thus confirms that the original and normalized Euler spirals are geometrically similar. The locus of the normalized curve can be determined from Fresnel Integral, while the locus of the original Euler spiral can be obtained by scaling back / up or denormalizing.
+Normalized Euler spirals can be expressed as:
+        x
+        =
+          ∫
+            0
+            L
+        cos
+        ⁡
+          s
+            2
+        d
+        s
+    {\displaystyle x=\int _{0}^{L}\cos s^{2}ds}
+        y
+        =
+          ∫
+            0
+            L
+        sin
+        ⁡
+          s
+            2
+        d
+        s
+    {\displaystyle y=\int _{0}^{L}\sin s^{2}ds}
+Or expressed as power series:
+        x
+        =
+              ∑
+                i
+                =
+                0
+                ∞
+                  (
+                  −
+                  1
+                    )
+                      i
+                  (
+                  2
+                  i
+                  )
+                  !
+                  s
+                    4
+                    i
+                    +
+                    1
+                  4
+                  i
+                  +
+                  1
+            |
+            0
+            L
+        =
+          ∑
+            i
+            =
+            0
+            ∞
+              (
+              −
+              1
+                )
+                  i
+              (
+              2
+              i
+              )
+              !
+              L
+                4
+                i
+                +
+                1
+              4
+              i
+              +
+              1
+    {\displaystyle x=\left.\sum _{i=0}^{\infty }{\frac {(-1)^{i}}{(2i)!}}{\frac {s^{4i+1}}{4i+1}}\right|_{0}^{L}=\sum _{i=0}^{\infty }{\frac {(-1)^{i}}{(2i)!}}{\frac {L^{4i+1}}{4i+1}}}
+        y
+        =
+              ∑
+                i
+                =
+                0
+                ∞
+                  (
+                  −
+                  1
+                    )
+                      i
+                  (
+                  2
+                  i
+                  +
+                  1
+                  )
+                  !
+                  s
+                    4
+                    i
+                    +
+                    3
+                  4
+                  i
+                  +
+                  3
+            |
+            0
+            L
+        =
+          ∑
+            i
+            =
+            0
+            ∞
+              (
+              −
+              1
+                )
+                  i
+              (
+              2
+              i
+              +
+              1
+              )
+              !
+              L
+                4
+                i
+                +
+                3
+              4
+              i
+              +
+              3
+    {\displaystyle y=\left.\sum _{i=0}^{\infty }{\frac {(-1)^{i}}{(2i+1)!}}{\frac {s^{4i+3}}{4i+3}}\right|_{0}^{L}=\sum _{i=0}^{\infty }{\frac {(-1)^{i}}{(2i+1)!}}{\frac {L^{4i+3}}{4i+3}}}
+The normalized Euler spiral will converge to a single point in the limit, which (noting that 
+        L
+        =
+        s
+    {\displaystyle L=s}
+  ) can be expressed as:
+          x
+            ′
+        =
+          lim
+            s
+            →
+            ∞
+          ∫
+            0
+            L
+        cos
+        ⁡
+        (
+          s
+            2
+        )
+        d
+        s
+        =
+            1
+            2
+              π
+              2
+    {\displaystyle x^{\prime }=\lim _{s\to \infty }\int _{0}^{L}\cos(s^{2})ds={\frac {1}{2}}{\sqrt {\frac {\pi }{2}}}}
+          y
+            ′
+        =
+          lim
+            s
+            →
+            ∞
+          ∫
+            0
+            L
+        sin
+        ⁡
+        (
+          s
+            2
+        )
+        d
+        s
+        =
+            1
+            2
+              π
+              2
+    {\displaystyle y^{\prime }=\lim _{s\to \infty }\int _{0}^{L}\sin(s^{2})ds={\frac {1}{2}}{\sqrt {\frac {\pi }{2}}}}
+Normalized Euler spirals have the following properties:
+        2
+          R
+            c
+          L
+            s
+        =
+        1
+    {\displaystyle 2R_{c}L_{s}=1\,\!}
+          θ
+            s
+        =
+              L
+                s
+              2
+                R
+                  c
+        =
+          L
+            s
+            2
+    {\displaystyle \theta _{s}={\frac {L_{s}}{2R_{c}}}=L_{s}^{2}}
+And
+        θ
+        =
+          θ
+            s
+        ⋅
+              L
+                2
+              L
+                s
+                2
+        =
+          L
+            2
+    {\displaystyle \theta =\theta _{s}\cdot {\frac {L^{2}}{L_{s}^{2}}}=L^{2}}
+            1
+            R
+        =
+              d
+              θ
+              d
+              L
+        =
+        2
+        L
+    {\displaystyle {\frac {1}{R}}={\frac {d\theta }{dL}}=2L}
+Note that 
+        2
+          R
+            c
+          L
+            s
+        =
+        1
+    {\displaystyle 2R_{c}L_{s}=1}
+   also means 
+        1
+          /
+          R
+            c
+        =
+        2
+          L
+            s
+    {\displaystyle 1/R_{c}=2L_{s}}
+  , in agreement with the last mathematical statement.
+The following Sage code produces the second graph above. The first four lines express the Euler spiral component. Fresnel functions could not be found. Instead, the integrals of two expanded Taylor series are adopted. The remaining code expresses respectively the tangent and the circle, including the computation for the center coordinates.
+The following is Mathematica code for the Euler spiral component (it works directly in wolframalpha.com):
+The following is Xcas code for the Euler spiral component:
+The following is Sage code for the complete double ended Euler spiral:
+The following is JavaScript code for drawing an Euler spiral on a canvas element:
+Fresnel integral
+Geometric design of roads
+Track transition curve

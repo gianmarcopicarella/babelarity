@@ -1,0 +1,20 @@
+Guillaume Amontons (31 August 1663 – 11 October 1705) was a French scientific instrument inventor and physicist. He was one of the pioneers in studying the problem of friction, that is the resistance to motion where bodies are in contact. It is nowadays known as tribology.
+Guillaume was born in Paris, France. His father was a lawyer from Normandy who had moved to the French capital. While still young, Guillaume lost his hearing, which may have motivated him to focus entirely on science. He never attended a university, but was able to study mathematics, the physical sciences, and celestial mechanics. He also spent time studying the skills of drawing, surveying, and architecture. He died in Paris, France.
+He was supported in his research career by the government, and was employed in various public works projects.
+Among his contributions to scientific instrumentation were improvements to the barometer (1695), hygrometer (1687), and thermometer (1695), particularly for use of these instruments at sea. He also demonstrated an optical telegraph and proposed the use of his clepsydra (water clock) for keeping time on a ship at sea.
+Amontons investigated the relationship between pressure and temperature in gases though he lacked accurate and precise thermometers. Though his results were at best semi-quantitative, he established that the pressure of a gas increases by roughly one-third between the temperatures of cold and the boiling point of water. This was a substantial step towards the subsequent gas laws and, in particular, Gay-Lussac's law. His work led him to speculate that a sufficient reduction in temperature would lead to the disappearance of pressure. Though he came close to finding absolute zero - the theoretical temperature by which the volume of air in his air-thermometer will by reduced to nothing (estimated by him as −240 on the Celsius scale), the discovery would not be complete until at least a century later.
+In 1699, Amontons published his rediscovery of the laws of friction first put forward by Leonardo da Vinci. Though they were received with some scepticism, the laws were verified by Charles-Augustin de Coulomb in 1781.
+Amontons' Laws of Friction: (These 3 laws only apply to dry friction, in which the addition of a lubricant modifies the tribological properties significantly.)
+The 3 laws of friction are:
+1. The force of friction is directly proportional to the applied load. (Amontons' 1st Law)
+2. The force of friction is independent of the apparent area of contact. (Amontons' 2nd Law)
+3. Kinetic friction is independent of the sliding velocity. (Coulomb's Law)
+The laws are shown by the classic example of a brick resting on an inclined plane, where it is in equilibrium and thus motionless. The force of gravity is opposed by static friction and as the angle of tilt of the plane is increased, the brick will eventually start to move downwards as gravity overcomes the frictional resistance.
+Member, Académie des Sciences, (1690)
+The crater Amontons on the Moon is named after him.
+Friction
+Coefficient of friction
+Newton's laws of motion
+Absolute Zero
+Asimov's Biographical Encyclopedia of Science and Technology, Isaac Asimov, Doubleday & Co., Inc., 1972, ISBN 0-385-17771-2.
+Cardwell, D.S.L. (1971). From Watt to Clausius: The Rise of Thermodynamics in the Early Industrial Age. Heinemann. ISBN 0-435-54150-1. , pp18-19

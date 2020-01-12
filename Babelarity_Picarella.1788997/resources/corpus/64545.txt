@@ -1,0 +1,40 @@
+Spherical geometry is the geometry of the two-dimensional surface of a sphere. It is an example of a geometry that is not Euclidean. Two practical applications of the principles of spherical geometry are navigation and astronomy.
+In plane geometry, the basic concepts are points and (straight) lines. On a sphere, points are defined in the usual sense. The equivalents of lines are not defined in the usual sense of "straight line" in Euclidean geometry, but in the sense of "the shortest paths between points", which are called geodesics. On a sphere, the geodesics are the great circles; other geometric concepts are defined as in plane geometry, but with straight lines replaced by great circles. Thus, in spherical geometry, angles are defined between great circles, resulting in a spherical trigonometry that differs from ordinary trigonometry in many respects; for example, the sum of the interior angles of a triangle exceeds 180 degrees.
+Spherical geometry is not elliptic geometry, but shares with that geometry the property that a line has no parallels through a given point. Contrast this with Euclidean geometry, in which a line has one parallel through a given point, and hyperbolic geometry, in which a line has two parallels and an infinite number of ultraparallels through a given point.
+An important geometry related to that of the sphere is that of the real projective plane; it is obtained by identifying antipodal points (pairs of opposite points) on the sphere. (This is elliptic geometry.) Locally, the projective plane has all the properties of spherical geometry, but it has different global properties. In particular, it is non-orientable, or one-sided.
+Concepts of spherical geometry may also be applied to the oblong sphere, though minor modifications must be implemented on certain formulas.
+Higher-dimensional spherical geometries exist; see elliptic geometry.
+The earliest mathematical work of antiquity to come down to our time is On the rotating sphere(Peri kinoumenes sphairas) by Autolycus of Pitane, who lived at the end of the fourth century BC.
+Spherical trigonometry was studied by early Greek mathematicians such as Theodosius of Bithynia, a Greek astronomer and mathematician who wrote the Sphaerics, a book on the geometry of the sphere, and Menelaus of Alexandria, who wrote a book on spherical trigonometry called Sphaerica and developed Menelaus' theorem.
+The book of unknown arcs of a sphere written by the Islamic mathematician Al-Jayyani is considered to be the first treatise on spherical trigonometry. The book contains formulae for right-handed triangles, the general law of sines, and the solution of a spherical triangle by means of the polar triangle.
+The book On Triangles by Regiomontanus, written around 1463, is the first pure trigonometrical work in Europe. However, Gerolamo Cardano noted a century later that much of its material on spherical trigonometry was taken from the twelfth-century work of the Andalusi scholar Jabir ibn Aflah.
+Euler published a series of important memoirs on spherical geometry:
+L. Euler, Principes de la trigonométrie sphérique tirés de la méthode des plus grands et des plus petits, Mémoires de l'Academie des Sciences de Berlin 9 (1753), 1755, p. 233–257; Opera Omnia, Series 1, vol. XXVII, p. 277–308.
+L. Euler, Eléments de la trigonométrie sphéroïdique tirés de la méthode des plus grands et des plus petits, Mémoires de l'Academie des Sciences de Berlin 9 (1754), 1755, p. 258–293; Opera Omnia, Series 1, vol. XXVII, p. 309–339.
+L. Euler, De curva rectificabili in superficie sphaerica, Novi Commentarii academiae scientiarum Petropolitanae 15, 1771, pp. 195–216; Opera Omnia, Series 1, Volume 28, pp. 142–160.
+L. Euler, De mensura angulorum solidorum, Acta academiae scientarum imperialis Petropolitinae 2, 1781, p. 31–54; Opera Omnia, Series 1, vol. XXVI, p. 204–223.
+L. Euler, Problematis cuiusdam Pappi Alexandrini constructio, Acta academiae scientarum imperialis Petropolitinae 4, 1783, p. 91–96; Opera Omnia, Series 1, vol. XXVI, p. 237–242.
+L. Euler, Geometrica et sphaerica quaedam, Mémoires de l'Academie des Sciences de Saint-Petersbourg 5, 1815, p. 96–114; Opera Omnia, Series 1, vol. XXVI, p. 344–358.
+L. Euler, Trigonometria sphaerica universa, ex primis principiis breviter et dilucide derivata, Acta academiae scientarum imperialis Petropolitinae 3, 1782, p. 72–86; Opera Omnia, Series 1, vol. XXVI, p. 224–236.
+L. Euler, Variae speculationes super area triangulorum sphaericorum, Nova Acta academiae scientarum imperialis Petropolitinae 10, 1797, p. 47–62; Opera Omnia, Series 1, vol. XXIX, p. 253–266.
+With points defined as the points on a sphere and lines as the great circles of that sphere, a spherical geometry has the following properties:
+Any two lines intersect in two diametrically opposite points, called antipodal points.
+Any two points that are not antipodal points determine a unique line.
+There is a natural unit of angle measurement (based on a revolution), a natural unit of length (based on the circumference of a great circle) and a natural unit of area (based on the area of the sphere).
+Each line is associated with a pair of antipodal points, called the poles of the line, which are the common intersections of the set of lines perpendicular to the given line.
+Each point is associated with a unique line, called the polar line of the point, which is the line on the plane through the center of the sphere and perpendicular to the diameter of the sphere through the given point.
+As there are two arcs (line segments) determined by a pair of points, which are not antipodal, on the line they determine, three non-collinear points do not determine a unique triangle. However, if we only consider triangles whose sides are minor arcs of great circles, we have the following properties:
+The angle sum of a triangle is greater than 180° and less than 540°.
+The area of a triangle is proportional to the excess of its angle sum over 180°.
+Two triangles with the same angle sum are equal in area.
+There is an upper bound for the area of triangles.
+The composition (product) of two (orthogonal) line reflections may be considered as a rotation about either of the points of intersection of their axes.
+Two triangles are congruent if and only if they correspond under a finite product of line reflections.
+Two triangles with corresponding angles equal are congruent (i.e., all similar triangles are congruent).
+Spherical geometry obeys two of Euclid's postulates: the second postulate ("to produce [extend] a finite straight line continuously in a straight line") and the fourth postulate ("that all right angles are equal to one another"). However, it violates the other three: contrary to the first postulate, there is not a unique shortest route between any two points (antipodal points such as the north and south poles on a spherical globe are counterexamples); contrary to the third postulate, a sphere does not contain circles of arbitrarily great radius; and contrary to the fifth (parallel) postulate, there is no point through which a line can be drawn that never intersects a given line.
+A statement that is equivalent to the parallel postulate is that there exists a triangle whose angles add up to 180°. Since spherical geometry violates the parallel postulate, there exists no such triangle on the surface of a sphere. The sum of the angles of a triangle on a sphere is 180°(1 + 4f), where f is the fraction of the sphere's surface that is enclosed by the triangle. For any positive value of f, this exceeds 180°.
+Spherical distance
+Spherical polyhedron
+Half-side formula
+Lénárt sphere
+Versor

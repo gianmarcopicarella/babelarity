@@ -1,0 +1,586 @@
+Signal-to-noise ratio (abbreviated SNR or S/N) is a measure used in science and engineering that compares the level of a desired signal to the level of background noise. It is defined as the ratio of signal power to the noise power, often expressed in decibels. A ratio higher than 1:1 (greater than 0 dB) indicates more signal than noise. While SNR is commonly quoted for electrical signals, it can be applied to any form of signal (such as isotope levels in an ice core or biochemical signaling between cells).
+The signal-to-noise ratio, the bandwidth, and the channel capacity of a communication channel are connected by the Shannon–Hartley theorem.
+Signal-to-noise ratio is sometimes used informally to refer to the ratio of useful information to false or irrelevant data in a conversation or exchange. For example, in online discussion forums and other online communities, off-topic posts and spam are regarded as "noise" that interferes with the "signal" of appropriate discussion.
+Signal-to-noise ratio is defined as the ratio of the power of a signal (meaningful information) and the power of background noise (unwanted signal):
+          S
+          N
+          R
+        =
+              P
+                  s
+                  i
+                  g
+                  n
+                  a
+                  l
+              P
+                  n
+                  o
+                  i
+                  s
+                  e
+        ,
+    {\displaystyle \mathrm {SNR} ={\frac {P_{\mathrm {signal} }}{P_{\mathrm {noise} }}},}
+where P is average power. Both signal and noise power must be measured at the same or equivalent points in a system, and within the same system bandwidth.
+If the variance of the signal and noise are known, and the signal is zero-mean:
+          S
+          N
+          R
+        =
+              σ
+                  s
+                  i
+                  g
+                  n
+                  a
+                  l
+                2
+              σ
+                  n
+                  o
+                  i
+                  s
+                  e
+                2
+        .
+    {\displaystyle \mathrm {SNR} ={\frac {\sigma _{\mathrm {signal} }^{2}}{\sigma _{\mathrm {noise} }^{2}}}.}
+If the signal and the noise are measured across the same impedance, then the SNR can be obtained by calculating the square of the amplitude ratio:
+          S
+          N
+          R
+        =
+              P
+                  s
+                  i
+                  g
+                  n
+                  a
+                  l
+              P
+                  n
+                  o
+                  i
+                  s
+                  e
+        =
+            (
+                  A
+                      s
+                      i
+                      g
+                      n
+                      a
+                      l
+                  A
+                      n
+                      o
+                      i
+                      s
+                      e
+            )
+            2
+        ,
+    {\displaystyle \mathrm {SNR} ={\frac {P_{\mathrm {signal} }}{P_{\mathrm {noise} }}}=\left({\frac {A_{\mathrm {signal} }}{A_{\mathrm {noise} }}}\right)^{2},}
+where A is root mean square (RMS) amplitude (for example, RMS voltage).
+Because many signals have a very wide dynamic range, signals are often expressed using the logarithmic decibel scale. Based upon the definition of decibel, signal and noise may be expressed in decibels (dB) as
+          P
+              s
+              i
+              g
+              n
+              a
+              l
+              ,
+              d
+              B
+        =
+        10
+          log
+            10
+        ⁡
+          (
+            P
+                s
+                i
+                g
+                n
+                a
+                l
+          )
+    {\displaystyle P_{\mathrm {signal,dB} }=10\log _{10}\left(P_{\mathrm {signal} }\right)}
+and
+          P
+              n
+              o
+              i
+              s
+              e
+              ,
+              d
+              B
+        =
+        10
+          log
+            10
+        ⁡
+          (
+            P
+                n
+                o
+                i
+                s
+                e
+          )
+        .
+    {\displaystyle P_{\mathrm {noise,dB} }=10\log _{10}\left(P_{\mathrm {noise} }\right).}
+In a similar manner, SNR may be expressed in decibels as
+          S
+          N
+            R
+              d
+              B
+        =
+        10
+          log
+            10
+        ⁡
+          (
+            S
+            N
+            R
+          )
+        .
+    {\displaystyle \mathrm {SNR_{dB}} =10\log _{10}\left(\mathrm {SNR} \right).}
+Using the definition of SNR
+          S
+          N
+            R
+              d
+              B
+        =
+        10
+          log
+            10
+        ⁡
+          (
+                P
+                    s
+                    i
+                    g
+                    n
+                    a
+                    l
+                P
+                    n
+                    o
+                    i
+                    s
+                    e
+          )
+        .
+    {\displaystyle \mathrm {SNR_{dB}} =10\log _{10}\left({\frac {P_{\mathrm {signal} }}{P_{\mathrm {noise} }}}\right).}
+Using the quotient rule for logarithms
+        10
+          log
+            10
+        ⁡
+          (
+                P
+                    s
+                    i
+                    g
+                    n
+                    a
+                    l
+                P
+                    n
+                    o
+                    i
+                    s
+                    e
+          )
+        =
+        10
+          log
+            10
+        ⁡
+          (
+            P
+                s
+                i
+                g
+                n
+                a
+                l
+          )
+        −
+        10
+          log
+            10
+        ⁡
+          (
+            P
+                n
+                o
+                i
+                s
+                e
+          )
+        .
+    {\displaystyle 10\log _{10}\left({\frac {P_{\mathrm {signal} }}{P_{\mathrm {noise} }}}\right)=10\log _{10}\left(P_{\mathrm {signal} }\right)-10\log _{10}\left(P_{\mathrm {noise} }\right).}
+Substituting the definitions of SNR, signal, and noise in decibels into the above equation results in an important formula for calculating the signal to noise ratio in decibels, when the signal and noise are also in decibels:
+          S
+          N
+            R
+              d
+              B
+        =
+            P
+                s
+                i
+                g
+                n
+                a
+                l
+                ,
+                d
+                B
+          −
+            P
+                n
+                o
+                i
+                s
+                e
+                ,
+                d
+                B
+        .
+    {\displaystyle \mathrm {SNR_{dB}} ={P_{\mathrm {signal,dB} }-P_{\mathrm {noise,dB} }}.}
+In the above formula, P is measured in units of power, such as Watts or miliWatts, and signal-to-noise ratio is a pure number.
+However, when the signal and noise are measured in Volts or Amperes, which are measures of amplitudes, they must be squared to be proportionate to power as shown below:
+          S
+          N
+            R
+              d
+              B
+        =
+        10
+          log
+            10
+        ⁡
+          [
+              (
+                    A
+                        s
+                        i
+                        g
+                        n
+                        a
+                        l
+                    A
+                        n
+                        o
+                        i
+                        s
+                        e
+              )
+              2
+          ]
+        =
+        20
+          log
+            10
+        ⁡
+          (
+                A
+                    s
+                    i
+                    g
+                    n
+                    a
+                    l
+                A
+                    n
+                    o
+                    i
+                    s
+                    e
+          )
+        =
+          (
+              A
+                  s
+                  i
+                  g
+                  n
+                  a
+                  l
+                  ,
+                  d
+                  B
+            −
+              A
+                  n
+                  o
+                  i
+                  s
+                  e
+                  ,
+                  d
+                  B
+          )
+        .
+    {\displaystyle \mathrm {SNR_{dB}} =10\log _{10}\left[\left({\frac {A_{\mathrm {signal} }}{A_{\mathrm {noise} }}}\right)^{2}\right]=20\log _{10}\left({\frac {A_{\mathrm {signal} }}{A_{\mathrm {noise} }}}\right)=\left({A_{\mathrm {signal,dB} }-A_{\mathrm {noise,dB} }}\right).}
+The concepts of signal-to-noise ratio and dynamic range are closely related. Dynamic range measures the ratio between the strongest un-distorted signal on a channel and the minimum discernible signal, which for most purposes is the noise level. SNR measures the ratio between an arbitrary signal level (not necessarily the most powerful signal possible) and noise. Measuring signal-to-noise ratios requires the selection of a representative or reference signal. In audio engineering, the reference signal is usually a sine wave at a standardized nominal or alignment level, such as 1 kHz at +4 dBu (1.228 VRMS).
+SNR is usually taken to indicate an average signal-to-noise ratio, as it is possible that (near) instantaneous signal-to-noise ratios will be considerably different. The concept can be understood as normalizing the noise level to 1 (0 dB) and measuring how far the signal 'stands out'.
+In physics, the average power of an AC signal is defined as the average value of voltage times current; for resistive (non-reactive) circuits, where voltage and current are in phase, this is equivalent to the product of the rms voltage and current:
+          P
+        =
+          V
+              r
+              m
+              s
+          I
+              r
+              m
+              s
+    {\displaystyle \mathrm {P} =V_{\mathrm {rms} }I_{\mathrm {rms} }}
+          P
+        =
+              V
+                  r
+                  m
+                  s
+                2
+            R
+        =
+          I
+              r
+              m
+              s
+            2
+        R
+    {\displaystyle \mathrm {P} ={\frac {V_{\mathrm {rms} }^{2}}{R}}=I_{\mathrm {rms} }^{2}R}
+But in signal processing and communication, one usually assumes that 
+        R
+        =
+        1
+        Ω
+    {\displaystyle R=1\Omega }
+   so that factor is usually not included while measuring power or energy of a signal. This may cause some confusion among readers, but the resistance factor is not significant for typical operations performed in signal processing, or for computing power ratios. For most cases, the power of a signal would be considered to be simply
+          P
+        =
+          V
+              r
+              m
+              s
+            2
+        =
+              A
+                2
+            2
+    {\displaystyle \mathrm {P} =V_{\mathrm {rms} }^{2}={\frac {A^{2}}{2}}}
+where 'A' is the amplitude of the AC signal.
+An alternative definition of SNR is as the reciprocal of the coefficient of variation, i.e., the ratio of mean to standard deviation of a signal or measurement:
+          S
+          N
+          R
+        =
+            μ
+            σ
+    {\displaystyle \mathrm {SNR} ={\frac {\mu }{\sigma }}}
+where 
+        μ
+    {\displaystyle \mu }
+   is the signal mean or expected value and 
+        σ
+    {\displaystyle \sigma }
+   is the standard deviation of the noise, or an estimate thereof. Notice that such an alternative definition is only useful for variables that are always non-negative (such as photon counts and luminance). Thus it is commonly used in image processing, where the SNR of an image is usually calculated as the ratio of the mean pixel value to the standard deviation of the pixel values over a given neighborhood. Sometimes SNR is defined as the square of the alternative definition above.
+The Rose criterion (named after Albert Rose) states that an SNR of at least 5 is needed to be able to distinguish image features at 100% certainty. An SNR less than 5 means less than 100% certainty in identifying image details.
+Yet another alternative, very specific and distinct definition of SNR is employed to characterize sensitivity of imaging systems; see Signal-to-noise ratio (imaging).
+Related measures are the "contrast ratio" and the "contrast-to-noise ratio".
+Channel signal-to-noise ratio is given by
+          (
+          S
+          N
+          R
+            )
+              C
+              ,
+              A
+              M
+        =
+                A
+                  C
+                  2
+              (
+              1
+              +
+                k
+                  a
+                  2
+              P
+              )
+              2
+              W
+                N
+                  0
+    {\displaystyle \mathrm {(SNR)_{C,AM}} ={\frac {A_{C}^{2}(1+k_{a}^{2}P)}{2WN_{0}}}}
+where W is the bandwidth and 
+          k
+            a
+    {\displaystyle k_{a}}
+   is modulation index
+Output signal-to-noise ratio (of AM receiver) is given by
+          (
+          S
+          N
+          R
+            )
+              O
+              ,
+              A
+              M
+        =
+                A
+                  c
+                  2
+                k
+                  a
+                  2
+              P
+              2
+              W
+                N
+                  0
+    {\displaystyle \mathrm {(SNR)_{O,AM}} ={\frac {A_{c}^{2}k_{a}^{2}P}{2WN_{0}}}}
+Channel signal-to-noise ratio is given by
+          (
+          S
+          N
+          R
+            )
+              C
+              ,
+              F
+              M
+        =
+              A
+                c
+                2
+              2
+              W
+                N
+                  0
+    {\displaystyle \mathrm {(SNR)_{C,FM}} ={\frac {A_{c}^{2}}{2WN_{0}}}}
+Output signal-to-noise ratio is given by
+          (
+          S
+          N
+          R
+            )
+              O
+              ,
+              F
+              M
+        =
+                A
+                  c
+                  2
+                k
+                  f
+                  2
+              P
+              2
+                N
+                  0
+                W
+                  3
+    {\displaystyle \mathrm {(SNR)_{O,FM}} ={\frac {A_{c}^{2}k_{f}^{2}P}{2N_{0}W^{3}}}}
+All real measurements are disturbed by noise. This includes electronic noise, but can also include external events that affect the measured phenomenon — wind, vibrations, gravitational attraction of the moon, variations of temperature, variations of humidity, etc., depending on what is measured and of the sensitivity of the device. It is often possible to reduce the noise by controlling the environment. Otherwise, when the characteristics of the noise are known and are different from the signals, it is possible to filter it or to process the signal.
+For example, it is sometimes possible to use a lock-in amplifier to modulate and confine the signal within a very narrow bandwidth and then filter the detected signal to the narrow band where it resides, thereby eliminating most of the broadband noise. When the signal is constant or periodic and the noise is random, it is possible to enhance the SNR by averaging the measurement. In this case the noise goes down as the square root of the number of averaged samples.
+When a measurement is digitized, the number of bits used to represent the measurement determines the maximum possible signal-to-noise ratio. This is because the minimum possible noise level is the error caused by the quantization of the signal, sometimes called Quantization noise. This noise level is non-linear and signal-dependent; different calculations exist for different signal models. Quantization noise is modeled as an analog error signal summed with the signal before quantization ("additive noise").
+This theoretical maximum SNR assumes a perfect input signal. If the input signal is already noisy (as is usually the case), the signal's noise may be larger than the quantization noise. Real analog-to-digital converters also have other sources of noise that further decrease the SNR compared to the theoretical maximum from the idealized quantization noise, including the intentional addition of dither.
+Although noise levels in a digital system can be expressed using SNR, it is more common to use Eb/No, the energy per bit per noise power spectral density.
+The modulation error ratio (MER) is a measure of the SNR in a digitally modulated signal.
+For n-bit integers with equal distance between quantization levels (uniform quantization) the dynamic range (DR) is also determined.
+Assuming a uniform distribution of input signal values, the quantization noise is a uniformly distributed random signal with a peak-to-peak amplitude of one quantization level, making the amplitude ratio 2n/1. The formula is then:
+          D
+            R
+              d
+              B
+        =
+          S
+          N
+            R
+              d
+              B
+        =
+        20
+          log
+            10
+        ⁡
+        (
+          2
+            n
+        )
+        ≈
+        6.02
+        ⋅
+        n
+    {\displaystyle \mathrm {DR_{dB}} =\mathrm {SNR_{dB}} =20\log _{10}(2^{n})\approx 6.02\cdot n}
+This relationship is the origin of statements like "16-bit audio has a dynamic range of 96 dB". Each extra quantization bit increases the dynamic range by roughly 6 dB.
+Assuming a full-scale sine wave signal (that is, the quantizer is designed such that it has the same minimum and maximum values as the input signal), the quantization noise approximates a sawtooth wave with peak-to-peak amplitude of one quantization level and uniform distribution. In this case, the SNR is approximately
+          S
+          N
+            R
+              d
+              B
+        ≈
+        20
+          log
+            10
+        ⁡
+        (
+          2
+            n
+            3
+              /
+            2
+        )
+        ≈
+        6.02
+        ⋅
+        n
+        +
+        1.761
+    {\displaystyle \mathrm {SNR_{dB}} \approx 20\log _{10}(2^{n}{\sqrt {3/2}})\approx 6.02\cdot n+1.761}
+Floating-point numbers provide a way to trade off signal-to-noise ratio for an increase in dynamic range. For n bit floating-point numbers, with n-m bits in the mantissa and m bits in the exponent:
+          D
+            R
+              d
+              B
+        =
+        6.02
+        ⋅
+          2
+            m
+    {\displaystyle \mathrm {DR_{dB}} =6.02\cdot 2^{m}}
+          S
+          N
+            R
+              d
+              B
+        =
+        6.02
+        ⋅
+        (
+        n
+        −
+        m
+        )
+    {\displaystyle \mathrm {SNR_{dB}} =6.02\cdot (n-m)}
+Note that the dynamic range is much larger than fixed-point, but at a cost of a worse signal-to-noise ratio. This makes floating-point preferable in situations where the dynamic range is large or unpredictable. Fixed-point's simpler implementations can be used with no signal quality disadvantage in systems where dynamic range is less than 6.02m. The very large dynamic range of floating-point can be a disadvantage, since it requires more forethought in designing algorithms.
+Optical signals have a carrier frequency that is much higher than the modulation frequency (about 200 THz and more). This way the noise covers a bandwidth that is much wider than the signal itself. The resulting signal influence relies mainly on the filtering of the noise. To describe the signal quality without taking the receiver into account, the optical SNR (OSNR) is used. The OSNR is the ratio between the signal power and the noise power in a given bandwidth. Most commonly a reference bandwidth of 0.1 nm is used. This bandwidth is independent of the modulation format, the frequency and the receiver. For instance an OSNR of 20 dB/0.1 nm could be given, even the signal of 40 GBit DPSK would not fit in this bandwidth. OSNR is measured with an optical spectrum analyzer.
+Signal to noise ratio may be abbreviated as SNR and less commonly as S/N. PSNR stands for Peak signal-to-noise ratio. GSNR stands for Geometric Signal-to-Noise Ratio. SINR is the Signal-to-noise-plus-interference ratio.

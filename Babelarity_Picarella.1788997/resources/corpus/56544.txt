@@ -1,0 +1,23 @@
+A nut is a type of fastener with a threaded hole. Nuts are almost always used in conjunction with a mating bolt to fasten two or more parts together. The two partners are kept together by a combination of their threads' friction, a slight stretching of the bolt, and compression of the parts to be held together.
+In applications where vibration or rotation may work a nut loose, various locking mechanisms may be employed: lock washers, jam nuts, specialist adhesive thread-locking fluid such as Loctite, safety pins (split pins) or lockwire in conjunction with castellated nuts, nylon inserts (Nyloc nut), or slightly oval-shaped threads.
+The most common shape is hexagonal, for similar reasons as the bolt head - 6 sides give a good granularity of angles for a tool to approach from (good in tight spots), but more (and smaller) corners would be vulnerable to being rounded off. It takes only 1/6th of a rotation to obtain the next side of the hexagon and grip is optimal. However polygons with more than 6 sides do not give the requisite grip and polygons with fewer than 6 sides take more time to be given a complete rotation. Other specialized shapes exist for certain needs, such as wingnuts for finger adjustment and captive nuts (eg cage nuts) for inaccessible areas.
+A wide variety of nuts exists, from household hardware versions to specialized industry-specific designs that are engineered to meet various technical standards. Fasteners used in automotive, engineering, and industrial applications usually need to be tightened to a specific torque setting, using a torque wrench. Nuts are graded with strength ratings compatible with their respective bolts; for example, an ISO property class 10 nut will be able to support the bolt proof strength load of an ISO property class 10.9 bolt without stripping. Likewise, an SAE class 5 nut can support the proof load of an SAE class 5 bolt, and so on.
+Castellated nut
+Distorted thread locknut
+Centerlock nut
+Elliptical offset locknut
+Toplock nut
+Interfering thread nut
+Tapered thread nut
+Jam nut
+Jet nut (K-nut)
+Keps nut (K-nut or washer nut) with a star-type lock washer
+Nyloc plate nut
+Polymer insert nut (Nyloc)
+Serrated face nut
+Serrated flange nut
+Speed nut (Sheet metal nut or Tinnerman nut)
+Split beam nut
+Note that flat (wrench) sizes differ between industry standards. For example, wrench sizes of fastener used in Japanese built cars comply with JIS automotive standard.
+In normal use, a nut-and-bolt joint holds together because the bolt is under a constant tensile stress called the preload. The preload pulls the nut threads against the bolt threads, and the nut face against the bearing surface, with a constant force, so that the nut cannot rotate without overcoming the friction between these surfaces. If the joint is subjected to vibration, however, the preload increases and decreases with each cycle of movement. If the minimum preload during the vibration cycle is not enough to hold the nut firmly in contact with the bolt and the bearing surface, then the nut is likely to become loose.
+Specialized locking nuts exist to prevent this problem, but sometimes it is sufficient to add a second nut. For this technique to be reliable, each nut must be tightened to the correct torque. The inner nut is tightened to about a quarter to a half of the torque of the outer nut. It is then held in place by a wrench while the outer nut is tightened on top using the full torque. This arrangement causes the two nuts to push on each other, creating a tensile stress in the short section of the bolt that lies between them. Even when the main joint is vibrated, the stress between the two nuts remains constant, thus holding the nut threads in constant contact with the bolt threads and preventing self-loosening. When the joint is assembled correctly, the outer nut bears the full tension of the joint. The inner nut functions merely to add a small additional force to the outer nut and does not need to be as strong, so a thin nut (also called a jam nut) can be used.

@@ -1,0 +1,39 @@
+The Tupolev Tu-14 (NATO reporting name: Bosun) (USAF/DOD reporting name: Type 35), was a Soviet twin-turbojet light bomber derived from the Tupolev Tu-73, the failed competitor to the Ilyushin Il-28 'Beagle'. It was used as a torpedo bomber by the mine-torpedo regiments of Soviet Naval Aviation between 1952–59 and exported to the People's Republic of China.
+The Tu-14 had its origin in the three-engined Tu-73 design which used a pair of RD-45 turbojets, an unlicensed copy of the Rolls-Royce Nene, under the wings and a single Klimov RD-500, an unlicensed copy of the Rolls-Royce Derwent, in the tail, in an installation much like that of the central engine of a Boeing 727. The availability of the Klimov VK-1, a more-powerful version of the Nene, allowed the RD-500 to be deleted from the preliminary design, which was given the internal designation of "81". The other major change was the addition of a PSBN navigation radar which required a fifth crewmember to operate. This was rejected by the VVS and Tupolev reworked the design to eliminate the dorsal and ventral turrets and reduce the crew to only three, a bombardier-navigator, a pilot and a tail gunner. It retained the two fixed 23 mm (0.91 in) Nudelman-Rikhter NR-23 cannon in the fuselage nose, but the design of the fuselage was changed to give the gunner his own separate pressurized compartment and a KDU-81 tail turret armed with another pair of NR-23 guns.
+Construction of the prototype began in August 1949 using components from the canceled Tu-73S prototypes, and was completed in October. The manufacturer's tests were conducted between 13 October 1949 and 21 January 1950. Its State acceptance trials lasted from 23 January to 27 May 1950 and it was accepted for production provided that the problems with the KDU-81 turret were resolved and that ejection seats were provided for the pilot and gunner, a hot air deicing fitted and the gun mount in the nose revised. The first five pre-production aircraft did not incorporate these changes as they were built using Tu-73S components after the factory in Irkutsk had prematurely begun production of that bomber. One of these was sent to Moscow where it was evaluated by Soviet Naval Aviation for use as a torpedo bomber. The sixth aircraft did incorporate all these changes as well as the navigator's ejection seat requested by Naval Aviation and it was evaluated in May 1951. It was recommended for production as the Tu-14T and entered service in 1952 with Naval Aviation.
+About 150 were produced and served with the mine-torpedo regiments of Naval Aviation until 1959. It was given the NATO reporting name Bosun. After it was withdrawn from service, several were used for various test programs, including one evaluating ramjet engines. Up to 50 used Tu-14Ts were delivered to the Chinese People's Liberation Army Air Force although quantities and dates cannot be confirmed.
+The second pre-production Tu-14 was converted into a day or night photographic reconnaissance aircraft with the OKB designation of "89". The conversion was fairly minor and involved an unpressurized central cabin that housed two automatic pivoting cameras, two fuel tanks and another camera fitted in the bomb bay and another camera for oblique photography was mounted in the aircraft's tail for the daylight photography role. All cameras and their viewports were electrically heated to prevent misting and icing at altitude. For night photography, the fuel tanks and camera in the bomb bay were removed and a variety of flare bombs were carried to illuminate the targets. In addition, the screen of the PSBN-M navigation radar could be photographed by a special camera and both the pilot and navigator could record their own observations using a voice recorder. However, the VVS had already decided to use the Il-28R reconnaissance version of the standard Il-28 by the time that the "89" first flew on 23 March 1951 and Tupolev decided not to submit it for State acceptance trials.
+Tu-14 – Light bomber version (not accepted for service).
+Tu-14R – Reconnaissance version (prototype only). Also known as Tu-89.
+Tu-14T – Torpedo bomber version.
+Tu-81 - Initial designation of Tu-14T, powered by two engines.
+ Soviet Union
+Soviet Naval Aviation
+ China
+People's Liberation Army Air Force
+Data from Gunston, Tupolev Aircraft since 1922
+General characteristics
+Crew: three
+Length: 21.95 m (72 ft)
+Wingspan: 21.69 m (71 ft 2 in)
+Height: 5.69 m (18 ft 8 in)
+Wing area: 67.36 m² (725 ft²)
+Empty weight: 14,930 kg (32,914 lb)
+Loaded weight: 20,930 kg (46,046 lb)
+Max. takeoff weight: 25,350 kg (55,866 lb)
+Powerplant: 2 × Klimov VK-1 turbojets, 26.5 kN (5,950 lbf) each
+Performance
+Maximum speed: 848 km/h (529 mph)
+Range: 2,930 km (1,820 mi)
+Service ceiling: 11,200 m (36,745 ft)
+Wing loading: 311 kg/m² (64 lb/ft²)
+Thrust/weight: 0.3
+Armament
+2 × 23 mm NR-23 cannon forward
+2 × 23 mm NR-23 cannon in tail turret
+Up to 3,000 kg (6,610 lb) of bombs, mines or torpedoes
+Avionics
+PSBN-M navigation radar
+English Electric Canberra
+Ilyushin Il-28
+Tupolev Tu-12

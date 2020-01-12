@@ -1,0 +1,89 @@
+In grammar, a conjunction (abbreviated CONJ or CNJ) is a part of speech that connects words, sentences, phrases, or clauses. A discourse connective is a conjunction joining sentences. This definition may overlap with that of other parts of speech, so what constitutes a "conjunction" must be defined for each language. In general, a conjunction is an invariable grammatical particle, and it may or may not stand between the items in a conjunction.
+The definition may also be extended to idiomatic phrases that behave as a unit with the same function, e.g. "as well as", "provided that".
+A simple literary example of a conjunction: "the truth of nature, and the power of giving interest" (Samuel Taylor Coleridge's Biographia Literaria)
+Conjunctions may be placed at the beginning of sentences: "But some superstition about the practice persists".
+Coordinating conjunctions, also called coordinators, are conjunctions that join, or coordinate, two or more items (such as words, main clauses, or sentences) of equal syntactic importance. In English, the mnemonic acronym FANBOYS can be used to remember the coordinators for, and, nor, but, or, yet, and so. These are not the only coordinating conjunctions; various others are used, including "and nor" (British), "but nor" (British), "or nor" (British), "neither" ("They don't gamble; neither do they smoke"), "no more" ("They don't gamble; no more do they smoke"), and "only" ("I would go, only I don't have time"). Types of coordinating conjunctions include cumulative conjunctions, adversative conjunctions, alternative conjunctions, and illative conjunctions.
+Here are some examples of coordinating conjunctions in English and what they do:
+For - presents rationale ("They do not gamble or smoke, for they are ascetics.")
+And - presents non-contrasting item(s) or idea(s) ("They gamble, and they smoke.")
+Nor - presents a non-contrasting negative idea ("They do not gamble, nor do they smoke.")
+But - presents a contrast or exception ("They gamble, but they don't smoke.")
+Or - presents an alternative item or idea ("Every day they gamble, or they smoke.")
+Yet - presents a contrast or exception ("They gamble, yet they don't smoke.")
+So - presents a consequence ("He gambled well last night, so he smoked a cigar to celebrate.")
+Correlative conjunctions work in pairs to join words and groups of words of equal weight in a sentence. There are many different pairs of correlative conjunctions:
+either...or
+not only...but (also)
+neither...nor
+both...and
+whether...or
+just as...so
+the...the
+as...as
+as much...as
+no sooner...than
+rather...than
+Examples:
+You either do your work or prepare for a trip to the office. (Either do, or prepare)
+He is not only handsome, but also brilliant. (Not only A, but also B)
+Not only is he handsome, but also he is brilliant. (Not only is he A, but also he is B)
+Neither the basketball team nor the football team is doing well.
+Both the cross country team and the swimming team are doing well.
+You must decide whether you stay or you go.
+Just as many Americans love basketball, so many Canadians love ice hockey.
+The more you practice dribbling, the better you will be at it.
+Football is as fast as hockey (is (fast)).
+Football is as much an addiction as it is a sport.
+No sooner did she learn to ski, than the snow began to thaw.
+I would rather swim than surf.
+Subordinating conjunctions, also called subordinators, are conjunctions that join an independent clause and a dependent clause, and also introduce adverb clauses. The most common subordinating conjunctions in the English language include after, although, as, as far as, as if, as long as, as soon as, as though, because, before, even if, even though, every time, if, in order that, since, so, so that, than, though, unless, until, when, whenever, where, whereas, wherever, and while.
+Complementizers can be considered to be special subordinating conjunctions that introduce complement clauses: e.g. "I wonder whether he'll be late. I hope that he'll be on time". Some subordinating conjunctions (until and while), when used to introduce a phrase instead of a full clause, become prepositions with identical meanings.
+The subordinating conjunction performs two important functions within a sentence: illustrating the importance of the independent clause and providing a transition between two ideas in the same sentence by indicating a time, place, or cause and therefore affecting the relationship between the clauses.
+In many verb-final languages, subordinate clauses must precede the main clause on which they depend. The equivalents to the subordinating conjunctions of non-verb-final languages such as English are either
+clause-final conjunctions (e.g. in Japanese); or
+suffixes attached to the verb, and not separate words
+Such languages often lack conjunctions as a part of speech, because:
+the form of the verb used is formally nominalised and cannot occur in an independent clause
+the clause-final conjunction or suffix attached to the verb is a marker of case and is also used in nouns to indicate certain functions. In this sense, the subordinate clauses of these languages have much in common with postpositional phrases.
+In other West Germanic languages like German and Dutch, the word order after a subordinating conjunction is different from that in an independent clause, e.g. in Dutch want ("for") is coordinating, but omdat ("because") is subordinating. The clause after the coordinating conjunction has normal word order, but the clause after the subordinating conjunction has verb-final word order. Compare:
+Hij gaat naar huis, want hij is ziek. ("He goes home, for he is ill.")
+Hij gaat naar huis, omdat hij ziek is. ("He goes home because he is ill.")
+Similarly, in German, "denn" (for) is coordinating, but "weil" (because) is subordinating:
+Er geht nach Hause, denn er ist krank. ("He goes home, for he is ill.")
+Er geht nach Hause, weil er krank ist. ("He goes home, because he is ill.")
+Many students are taught, and one guide maintains, that English sentences should not start with conjunctions such as "and", "but", "because", and "so". Some hypothesize that teachers invented this "rule" to encourage students to avoid overly simple sentences. This superstition has "no historical or grammatical foundation". First-rate writers from across the English-speaking world regularly begin sentences with conjunctions, in even the most formal writing:
+"But she must give security that she will not marry without royal consent, if she holds her lands of the Crown, or without the consent of whatever other lord she may hold them of."
+"But we, or our chief justice if we are not in England, are first to be informed."
+"So please you, step aside."
+"Yet, if thou swear’st, Thou mayst prove false."
+"And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor."
+"But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively."
+"But in choosing the President, the Votes shall be taken by States, the Representatives from each State having one Vote; a quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice."
+"And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof."
+"And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate."
+"And this power has been exercised when the last act, required from the person possessing the power, has been performed."
+"But, in a larger sense, we can not dedicate, we can not consecrate, we can not hallow this ground." Abraham Lincoln's Gettysburg Address
+"Yet, if God wills that it continue until all the wealth piled by the bondsman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said "the judgments of the Lord are true and righteous altogether."
+"So he took him to his own house, and dressed him up clean and nice, and had him to breakfast and dinner and supper with the family, and was just old pie to him, so to speak."
+"And after supper he talked to him about temperance and such things till the old man cried, and said he'd been a fool, and fooled away his life; but now he was a-going to turn over a new leaf and be a man nobody wouldn't be ashamed of, and he hoped the judge would help him and not look down on him."
+"Because no man can ever feel his own identity aright except his eyes be closed; as if darkness were indeed the proper element of our essences, though light be more congenial to our clayey part."
+"Because, while the whales of this order, though smaller than those of the former order, nevertheless retain a proportionate likeness to them in figure, yet the bookbinder's Quarto volume in its dimensioned form does not preserve the shape of the Folio volume, but the Octavo volume does."
+"So the inquiries can coexist, though there is much overlap between them."
+"And it appears that it was this latter factor which underlay the dismissal of the appeal by the majority. But it seems to me that the question of whether it is fair, just and reasonable is better considered against the background of whether a sufficiently proximate relationship exists."
+"But the earlier decisions in Pratap Narain Singh Deo and Valsala K. were not brought to the notice of the Court in the two later decisions in Mubasir Ahmed and Mohd. Nasir."
+"And now we have Facebook and Twitter and Wordpress and Tumblr and all those other platforms that take our daily doings and transform them into media."
+"So any modern editor who is not paranoid is a fool".
+"Because, in the end, free markets and free minds will win".
+"And strikes are protected globally, existing in many of the countries with labour laws outside the Wagner Act model."
+Asyndeton
+Cohesion (linguistics)
+Conjunctive adverb
+Conjunctive mood, sometimes used with conjunctions
+Logical conjunction
+On a white bus
+Polysyndeton
+Relativizer
+Serial comma - the comma used immediately before a coordinating conjunction preceding the final item in a list of three or more items
+So (sentence closer)
+So (sentence opener)
+Syndeton

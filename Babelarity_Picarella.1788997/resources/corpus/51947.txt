@@ -1,0 +1,19 @@
+Zikula is a free open source web application framework released under the GNU General Public License. It can be used to develop robust, secure, interactive and editable websites and web based applications. Zikula is written in object oriented PHP and is fully modular. It requires a database and may use leading platforms like MySQL, PostgreSQL, Oracle Database and Microsoft SQL Server. Development of the program began as a successor to the PostNuke framework, and as of 2008 replaced it as the focus of all new development. Earlier PostNuke development also influenced other still active projects, such as Xaraya.
+Good separation of Content and layout with a templating engine
+Flexible Theme system
+API
+WYSIWYG editors included
+ModuleStudio development environment for fast module creation
+Flexible Document Creator
+RSS feeds
+Forums
+Polls
+Language internationalization
+Galleries
+Chat
+E-Commerce
+Support short URLs for good SEO
+Built in caching
+News, Content, Games, Reviews, Links... with many third parties add-ons.
+Zikula follows an active development cycle aiming toward frequent releases. Project milestones and roadmap are posted at the Zikula Code Roadmap. Many 3rd party developers build and contribute to extensions for the Zikula Application Framework which are often developed and hosted at Zikula Code website. Extensions perform tasks like blogging, storing and displaying data, such as images, music, forums, and shopping carts.
+Web content management system

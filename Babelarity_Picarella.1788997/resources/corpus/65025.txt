@@ -1,0 +1,199 @@
+A heptagonal number is a figurate number that represents a heptagon. The n-th heptagonal number is given by the formula
+              5
+                n
+                  2
+              −
+              3
+              n
+            2
+    {\displaystyle {\frac {5n^{2}-3n}{2}}}
+  .
+The first few heptagonal numbers are:
+1, 7, 18, 34, 55, 81, 112, 148, 189, 235, 286, 342, 403, 469, 540, 616, 697, 783, 874, 970, 1071, 1177, 1288, 1404, 1525, 1651, 1782, … (sequence A000566 in the OEIS)
+The parity of heptagonal numbers follows the pattern odd-odd-even-even. Like square numbers, the digital root in base 10 of a heptagonal number can only be 1, 4, 7 or 9. Five times a heptagonal number, plus 1 equals a triangular number.
+A generalized heptagonal number is obtained by the formula
+          T
+            n
+        +
+          T
+            ⌊
+                n
+                2
+            ⌋
+        ,
+    {\displaystyle T_{n}+T_{\lfloor {\frac {n}{2}}\rfloor },}
+where Tn is the nth triangular number. The first few generalized heptagonal numbers are:
+1, 4, 7, 13, 18, 27, 34, 46, 55, 70, 81, 99, 112, … (sequence A085787 in the OEIS)
+Every other generalized heptagonal number is a regular heptagonal number. Besides 1 and 70, no generalized heptagonal numbers are also Pell numbers.
+A formula for the sum of the reciprocals of the heptagonal numbers is given by:
+          ∑
+            n
+            =
+            1
+            ∞
+            2
+              n
+              (
+              5
+              n
+              −
+              3
+              )
+        =
+            1
+            15
+          π
+            25
+            −
+            10
+                5
+        +
+            2
+            3
+        ln
+        ⁡
+        (
+        5
+        )
+        +
+                1
+              +
+                  5
+            3
+        ln
+        ⁡
+          (
+              1
+              2
+              10
+              −
+              2
+                  5
+          )
+        +
+                1
+              −
+                  5
+            3
+        ln
+        ⁡
+          (
+              1
+              2
+              10
+              +
+              2
+                  5
+          )
+    {\displaystyle \sum _{n=1}^{\infty }{\frac {2}{n(5n-3)}}={\frac {1}{15}}{\pi }{\sqrt {25-10{\sqrt {5}}}}+{\frac {2}{3}}\ln(5)+{\frac {{1}+{\sqrt {5}}}{3}}\ln \left({\frac {1}{2}}{\sqrt {10-2{\sqrt {5}}}}\right)+{\frac {{1}-{\sqrt {5}}}{3}}\ln \left({\frac {1}{2}}{\sqrt {10+2{\sqrt {5}}}}\right)}
+In analogy to the square root of x, one can calculate the heptagonal root of x, meaning the number of terms in the sequence up to and including x.
+The heptagonal root of x is given by the formula
+        n
+        =
+                  40
+                  x
+                  +
+                  9
+              +
+              3
+            10
+        .
+    {\displaystyle n={\frac {{\sqrt {40x+9}}+3}{10}}.}
+The heptagonal roots n of x are derived by:
+        x
+        =
+              5
+                n
+                  2
+              −
+              3
+              n
+            2
+    {\displaystyle x={\frac {5n^{2}-3n}{2}}}
+        2
+        x
+        =
+        5
+          n
+            2
+        −
+        3
+        n
+    {\displaystyle 2x=5n^{2}-3n}
+        5
+          n
+            2
+        −
+        3
+        n
+        −
+        2
+        x
+        =
+        0
+    {\displaystyle 5n^{2}-3n-2x=0}
+        n
+        =
+              −
+              (
+              −
+              3
+              )
+              ±
+                  (
+                  −
+                  3
+                    )
+                      2
+                  −
+                  (
+                  4
+                  ×
+                  5
+                  ×
+                  −
+                  2
+                  x
+                  )
+              2
+              ×
+              5
+    {\displaystyle n={\frac {-(-3)\pm {\sqrt {(-3)^{2}-(4\times 5\times -2x)}}}{2\times 5}}}
+   (use quadratic formula to solve for n)
+        n
+        =
+              3
+              ±
+                  9
+                  −
+                  (
+                  −
+                  40
+                  x
+                  )
+            10
+    {\displaystyle n={\frac {3\pm {\sqrt {9-(-40x)}}}{10}}}
+        n
+        =
+              3
+              ±
+                  9
+                  +
+                  40
+                  x
+            10
+    {\displaystyle n={\frac {3\pm {\sqrt {9+40x}}}{10}}}
+Rearrange this to:
+        n
+        =
+              ±
+                  40
+                  x
+                  +
+                  9
+              +
+              3
+            10
+        ,
+    {\displaystyle n={\frac {\pm {\sqrt {40x+9}}+3}{10}},}
+and taking the only positive value gives the formula for n associated with a given x.

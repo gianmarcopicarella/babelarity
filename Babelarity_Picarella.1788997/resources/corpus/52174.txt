@@ -1,0 +1,25 @@
+In computing, a logfile is a file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. Logging is the act of keeping a log. In the simplest case, messages are written to a single logfile.
+A transaction log is a file (i.e., log) of the communications (i.e., transactions) between a system and the users of that system, or a data collection method that automatically captures the type, content, or time of transactions made by a person from a terminal with that system. For Web searching, a transaction log is an electronic record of interactions that have occurred during a searching episode between a Web search engine and users searching for information on that Web search engine.
+Many operating systems, software frameworks, and programs include a logging system. A widely used logging standard is syslog, defined in Internet Engineering Task Force (IETF) RFC 5424). The syslog standard enables a dedicated, standardized subsystem to generate, filter, record, and analyze log messages. This relieves software developers of having to design and code their own ad hoc logging systems.
+Event logs record events taking place in the execution of a system in order to provide an audit trail that can be used to understand the activity of the system and to diagnose problems. They are essential to understand the activities of complex systems, particularly in the case of applications with little user interaction (such as server applications).
+It can also be useful to combine log file entries from multiple sources. This approach, in combination with statistical analysis, may yield correlations between seemingly unrelated events on different servers. Other solutions employ network-wide querying and reporting.
+Most database systems maintain some kind of transaction log, which are not mainly intended as an audit trail for later analysis, and are not intended to be human-readable. These logs record changes to the stored data to allow the database to recover from crashes or other data errors and maintain the stored data in a consistent state. Thus, database systems usually have both general event logs and transaction logs.
+Internet Relay Chat (IRC), instant messaging (IM) programs, peer-to-peer file sharing clients with chat functions, and multiplayer games (especially MMORPGs) commonly have the ability to automatically log (i.e. save) textual communication, both public (IRC channel/IM conference/MMO public/party chat messages) and private chat messages between users.
+Message logs are almost universally plain text files, but IM and VoIP clients (which supports textual chat, e.g. Skype) might save them in HTML files or in a custom format to ease reading and encryption.
+In the case of IRC software, message logs often include system/server messages and entries related to channel and user changes (e.g. topic change, user joins/exits/kicks/bans, nickname changes, user status changes), making them more like a combined message/event log of the channel in question, but such a log isn't comparable to a true IRC server event log, because it only records user-visible events for the time frame the user spent being connected to a certain channel.
+Instant messaging and VoIP clients often offer the chance to store encrypted logs to enhance the user's privacy. These logs require a password to be decrypted and viewed, and they are often handled by their respective writing application.
+The use of data stored in transaction logs of Web search engines, Intranets, and Web sites can provide valuable insight into understanding the information-searching process of online searchers. This understanding can enlighten information system design, interface development, and devising the information architecture for content collections.
+Common Log Format
+Data logger
+Digital traces
+Event Viewer
+Java Logging Frameworks – logging frameworks for Java
+List of web analytics software
+Log management and intelligence
+Logging as a Service (LaaS)
+MultiTail – tool for watching logging (for UNIX)
+Pantheios – logging API library
+Server log
+Syslog
+Web counter
+Web log analysis software

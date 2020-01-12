@@ -1,0 +1,157 @@
+In geometry, a circular segment (symbol: ⌓) is a region of a circle which is "cut off" from the rest of the circle by a secant or a chord. More formally, a circular segment is a region of two-dimensional space that is bounded by an arc (of less than 180°) of a circle and by the chord connecting the endpoints of the arc.
+Let R be the radius of the circle, θ is the central angle in radians, α is the central angle in degrees, c the chord length, s the arc length, h the sagitta (height) of the segment, and d the height of the triangular portion.
+The radius is 
+        R
+        =
+        h
+        +
+        d
+        =
+        h
+          /
+        2
+        +
+          c
+            2
+          /
+        8
+        h
+    {\displaystyle R=h+d=h/2+c^{2}/8h{\frac {}{}}}
+The arc length is 
+        s
+        =
+            α
+            180
+        π
+        R
+        =
+          θ
+        R
+        =
+        arcsin
+        ⁡
+          (
+              c
+                h
+                +
+                      c
+                        2
+                      4
+                      h
+          )
+          (
+          h
+          +
+                c
+                  2
+                4
+                h
+          )
+    {\displaystyle s={\frac {\alpha }{180}}\pi R={\theta }R=\arcsin \left({\frac {c}{h+{\frac {c^{2}}{4h}}}}\right)\left(h+{\frac {c^{2}}{4h}}\right)}
+The chord length is 
+        c
+        =
+        2
+        R
+        sin
+        ⁡
+            θ
+            2
+        =
+        R
+            2
+            −
+            2
+            cos
+            ⁡
+            θ
+    {\displaystyle c=2R\sin {\frac {\theta }{2}}=R{\sqrt {2-2\cos \theta }}}
+The sagitta is 
+        h
+        =
+        R
+          (
+          1
+          −
+          cos
+          ⁡
+              θ
+              2
+          )
+        =
+        R
+        −
+              R
+                2
+            −
+                  c
+                    2
+                4
+    {\displaystyle h=R\left(1-\cos {\frac {\theta }{2}}\right)=R-{\sqrt {R^{2}-{\frac {c^{2}}{4}}}}}
+The angle is 
+        θ
+        =
+        2
+        arctan
+        ⁡
+            c
+              2
+              d
+        =
+        2
+        arccos
+        ⁡
+            d
+            R
+        =
+        2
+        arccos
+        ⁡
+          (
+          1
+          −
+              h
+              R
+          )
+        =
+        2
+        arcsin
+        ⁡
+            c
+              2
+              R
+    {\displaystyle \theta =2\arctan {\frac {c}{2d}}=2\arccos {\frac {d}{R}}=2\arccos \left(1-{\frac {h}{R}}\right)=2\arcsin {\frac {c}{2R}}}
+The area of the circular segment is equal to the area of the circular sector minus the area of the triangular portion—that is,
+        A
+        =
+              R
+                2
+            2
+          (
+          θ
+          −
+          sin
+          ⁡
+          θ
+          )
+    {\displaystyle A={\frac {R^{2}}{2}}\left(\theta -\sin \theta \right)}
+with the central angle in radians, or
+        A
+        =
+              R
+                2
+            2
+          (
+                α
+                π
+              180
+          −
+          sin
+          ⁡
+          α
+          )
+    {\displaystyle A={\frac {R^{2}}{2}}\left({\frac {\alpha \pi }{180}}-\sin \alpha \right)}
+with the central angle in degrees.
+Spherical segment
+Conic section
+Cross section

@@ -1,0 +1,16 @@
+Metre per second (U.S. spelling: meter per second) is an SI derived unit of both speed (scalar) and velocity (vector quantity which specifies both magnitude and a specific direction), defined by distance in metres divided by time in seconds.
+The SI unit symbols are m·s−1, m s−1, m/s, or m/s, sometimes (unofficially) abbreviated as "mps". Where metres per second are several orders of magnitude too slow to be convenient, such as in astronomical measurements, velocities may be given in kilometres per second, where 1 km/s is 1000 metres per second, sometimes unofficially abbreviated as "kps".
+1 m/s is equivalent to:
+= 3.6 km/h (exactly)
+≈ 3.2808 feet per second (approximately)
+≈ 2.2369 miles per hour (approximately)
+≈ 1.9438 knots (approximately)
+1 foot per second = 0.3048 m/s (exactly)
+1 mile per hour = 0.44704 m/s (exactly)
+1 km/h = 0.27 m/s (exactly)
+1 kilometre per second is equivalent to:
+≈ 0.6213 miles per second (approximately)
+≈ 2237 miles per hour (approximately)
+The benz, named in honour of Karl Benz, has been proposed as a name for one metre per second. Although it has seen some support as a practical unit, primarily from German sources, it was rejected as the SI unit of velocity and has not seen widespread use or acceptance.
+Orders of magnitude (speed)
+Metre

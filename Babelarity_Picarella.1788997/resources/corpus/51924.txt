@@ -1,0 +1,33 @@
+A chroot on Unix operating systems is an operation that changes the apparent root directory for the current running process and its children. A program that is run in such a modified environment cannot name (and therefore normally cannot access) files outside the designated directory tree. The term "chroot" may refer to the chroot(2) system call or the chroot(8) wrapper program. The modified environment is called a chroot jail.
+The chroot system call was introduced during development of Version 7 Unix in 1979, and added to BSD by Bill Joy on 18 March 1982 – 17 months before 4.2BSD was released – in order to test its installation and build system. An early use of the term "jail" as applied to chroot comes from Bill Cheswick creating a honeypot to monitor a cracker in 1991. To make it useful for virtualization, FreeBSD expanded the concept and in its 4.0 release in 2000 introduced the jail command. By 2004 this had led to the coining of the term jailbreak. In 2005, Sun released Solaris Containers, described as "chroot on steroids." In 2008, LXC (upon which Docker was later built) adopted the "container" terminology and gained popularity in 2013 due to inclusion into Linux kernel 3.8 of user namespaces.
+A chroot environment can be used to create and host a separate virtualized copy of the software system. This can be useful for:
+Testing and development 
+A test environment can be set up in the chroot for software that would otherwise be too risky to deploy on a production system.
+Dependency control 
+Software can be developed, built and tested in a chroot populated only with its expected dependencies. This can prevent some kinds of linkage skew that can result from developers building projects with different sets of program libraries installed.
+Compatibility 
+Legacy software or software using a different ABI must sometimes be run in a chroot because their supporting libraries or data files may otherwise clash in name or linkage with those of the host system.
+Recovery 
+Should a system be rendered unbootable, a chroot can be used to move back into the damaged environment after bootstrapping from an alternate root file system (such as from installation media, or a Live CD).
+Privilege separation 
+Programs are allowed to carry open file descriptors (for files, pipelines and network connections) into the chroot, which can simplify jail design by making it unnecessary to leave working files inside the chroot directory. This also simplifies the common arrangement of running the potentially vulnerable parts of a privileged program in a sandbox, in order to pre-emptively contain a security breach. Note that chroot is not necessarily enough to contain a process with root privileges.
+The chroot mechanism is not intended to defend against intentional tampering by privileged (root) users. On most systems, chroot contexts do not stack properly and chrooted programs with sufficient privileges may perform a second chroot to break out. To mitigate the risk of this security weakness, chrooted programs should relinquish root privileges as soon as practical after chrooting, or other mechanisms – such as FreeBSD jails – should be used instead. Note that some systems, such as FreeBSD, take precautions to prevent the second chroot attack.
+On systems that support device nodes on ordinary filesystems, a chrooted root user can still create device nodes and mount the file systems on them; thus, the chroot mechanism is not intended by itself to be used to block low-level access to system devices by privileged users. It is not intended to restrict the use of resources like I/O, bandwidth, disk space or CPU time. Most Unixes are not completely file system-oriented and leave potentially disruptive functionality like networking and process control available through the system call interface to a chrooted program.
+At startup, programs expect to find scratch space, configuration files, device nodes and shared libraries at certain preset locations. For a chrooted program to successfully start, the chroot directory must be populated with a minimum set of these files. This can make chroot difficult to use as a general sandboxing mechanism.
+Only the root user can perform a chroot. This is intended to prevent users from putting a setuid program inside a specially crafted chroot jail (for example, with a fake /etc/passwd and /etc/shadow file) that would fool it into a privilege escalation.
+Some Unixes offer extensions of the chroot mechanism to address at least some of these limitations (see Implementations of operating system-level virtualization technology).
+It is possible to run graphical applications on a chrooted environment, using methods such as:
+xhost (or copy the secret from .Xauthority)
+Nested X servers like Xnest or the more modern Xephyr (or start a real X server from inside the jail)
+Accessing the chroot via SSH using the X11 forwarding (ssh -X) feature
+xchroot an extended version of chroot for users and Xorg/X11 forwarding (socat/mount)
+An X11 VNC server and connecting a VNC client outside the environment.
+The Postfix mail transfer agent operates as a pipeline of individually chrooted helper programs.
+Like 4.2BSD before it, the Debian and Ubuntu internal package-building farms use chroots extensively to catch unintentional build dependencies between packages. SUSE uses a similar method with its build program. Fedora, Red Hat, and various RPM-based distributions build all RPMs using a chroot tool such as mock.
+Many FTP servers for POSIX systems use the chroot mechanism to sandbox untrusted FTP clients. This may be done by forking a process to handle an incoming connection, then chrooting the child (to avoid having to populate the chroot with libraries required for program startup).
+If privilege separation is enabled, the OpenSSH daemon will chroot an unprivileged helper process into an empty directory to handle pre-authentication network traffic for each client. The daemon can also sandbox SFTP and shell sessions in a chroot (from version 4.9p1 onwards).
+ChromeOS can use a chroot to run a linux instance using Crouton, providing an otherwise thin OS with access to hardware resources. The security implications related in this article apply here.
+List of Unix programs
+Operating system-level virtualization
+Sandbox (computer security)
+sudo

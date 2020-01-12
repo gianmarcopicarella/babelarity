@@ -1,0 +1,55 @@
+In linguistics, abessive (abbreviated ABE or ABESS), caritive and privative (abbreviated PRIV) is the grammatical case expressing the lack or absence of the marked noun. In English, the corresponding function is expressed by the preposition without or by the suffix -less.
+The name abessive is derived from Latin abesse "to be away/absent", and is especially used in reference to Uralic languages. The name caritive is derived from Latin carere "to lack", and is especially used in reference to Caucasian languages. The name privative is derived from Latin privare "to deprive".
+In the Somali language, the abessive case is marked by -laa or -la and dropping all but the first syllable on certain words. For example:
+jeceylaa "love"
+jeelaa "loveless"
+dar "clothes"
+dharla'aan "clothesless," i.e., naked
+In Martuthunira, the privative case is formed with two suffixes, -wirriwa and -wirraa. What determines which suffix is used in a given situation is unclear.
+In the Finnish language, the abessive case is marked by -tta for back vowels and -ttä for front vowels according to vowel harmony. For example:
+raha "money"
+rahatta "without money"
+An equivalent construction exists using the word ilman and the partitive:
+ilman rahaa "without money"
+or, less commonly:
+rahaa ilman "without money"
+The abessive case of nouns is rarely used in writing and even less in speech, although some abessive forms are more common than their equivalent ilman forms:
+tuloksetta "unsuccessfully, fruitlessly"
+Itkin syyttä. "I cried for no reason."
+The abessive is, however, commonly used in nominal forms of verbs (formed with the affix -ma- / -mä-), such as puhu-ma-tta "without speaking", osta-ma-tta "without buying," välittä-mä-ttä "without caring:"
+Juna jäi tulematta. "The train didn't show up."
+This form can often be replaced by using the negative form of the verb:
+Juna ei tullut.
+It is possible to occasionally hear what is considered wrong usage of the abessive in Finnish, where the abessive and ilman forms are combined:
+ilman rahatta
+There is debate as to whether this is interference from Estonian.
+Estonian also uses the abessive, which is marked by -ta in both the singular and the plural:
+(ilma) autota "without a car" (the preposition ilma "without" is optional)
+Unlike in Finnish, the abessive is commonly used in both written and spoken Estonian.
+The nominal forms of verbs are marked with the affix -ma- and the abessive marker -ta:
+Rong jäi tulemata. "The train didn't show up."
+Tallinn has a pair of bars that play on the use of the comitative and abessive, the Nimeta baar (the nameless bar) and the Nimega baar (the bar with a name).
+The abessive marker for nouns in Skolt Sámi is -tää in both the singular and the plural:
+Riâkkum veä'rtää. "I cried for no reason."
+The abessive-like non-finite verb form (converb) is -ǩâni or -kani:
+Son vuõ'lji domoi mainsteǩâni mõ'nt leäi puättam. "He/she went home without saying why he/she had come."
+Unlike in Finnish, the abessive is still commonly used in Skolt Sámi.
+The abessive marker for nouns in Inari Sámi is -táá. The corresponding non-finite verb form is -hánnáá, -hinnáá or -hennáá.
+The abessive is not used productively in the Western Sámi languages, although it may occur as a cranberry morpheme.
+In Hungarian, the abessive case is marked by -talan for back vowels and -telen for front vowels according to vowel harmony. Sometimes, with certain roots, the suffix becomes -tlan or -tlen. For example:
+pénz "money"
+pénztelen "without money"
+haza "home(land)"
+hazátlan "(one) without a homeland"
+There is also the postposition nélkül, which also means without, but is not meant for physical locations.
+Cukor nélkül iszom a teát. "I drink tea without sugar."
+Testvér nélkül éltem. "I lived without siblings."
+Eljöttél Magyarországra a testvéred nélkül? "Did you come to Hungary without your sibling?"
+In Bashkir the suffix is -һыҙ/-һеҙ (-hïð/-hĭð).
+The suffix -siz (variations: -sız, -suz, -süz) is used in Turkish.
+Ex: evsiz (ev = house, houseless/homeless), barksız, görgüsüz (görgü = good manners, ill-bred), yurtsuz.
+The same suffix is used in the Azerbaijani language.
+In Chuvash the suffix is -сĂр.
+In Kyrgyz the suffix is -сIз.
+Essive case
+Inessive case

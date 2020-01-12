@@ -1,0 +1,78 @@
+The Fokker F28 Fellowship is a short range jet airliner designed and built by Dutch aircraft manufacturer Fokker.
+Announced by Fokker in April 1962, production was a collaboration between a number of European companies, namely Fokker, MBB of West Germany, Fokker-VFW (also of Germany), and Short Brothers of Northern Ireland. There was also government money invested in the project, with the Dutch government providing 50% of Fokker's stake and the West German government having 60% of the 35% German stake.
+Projected at first to transport 50 passengers to 1,650 km (1,025 mi), the plane was later designed to have 60–65 seats. On the design sheet, the F28 was originally to mount Bristol Siddeley BS.75 turbofans, but the prototype flew with the lighter Rolls-Royce "Spey Junior", a simplified version of the Rolls-Royce Spey.
+The F28 was similar in design to the British Aircraft Corporation BAC One-Eleven and Douglas DC-9, as it had a T-tail and engines mounted at the rear of the fuselage. The aircraft had wings with a slight crescent angle of sweep with ailerons at the tip, simple flaps, and five-section liftdumper only operated after landing to dump the lift. These were employed rather than reverse thrust as the designers felt that doing so not only reduced weight, but maintenance also. Having no reversers also meant that on unpaved airstrips there was less chance of the engines ingesting debris. The leading edge was fixed (although one experimental model had leading edge slats and these were offered as an option) and was anti-iced by bleed air from the engines. The tail cone could split and be hydraulically opened to the sides to act as a variable air brake – also used on the contemporaneous Blackburn Buccaneer. This design was also used on the HS-146, which became the BAe-146. The design is unique in that it not only slows the aircraft down rapidly, it can aid in rapid descents from economic cruising altitudes and also allowed the engines to be set at higher RPM which helped eliminate 'lag time'. This means the engines respond faster if needed for sudden speed increases or go-arounds on the approach to landing. The Fellowship had a retractable tricycle landing gear which used large low pressure tyres enabling the use of unpaved airstrips. Large wheel brakes also helped in shortening the landing run.
+In terms of responsibility for production, Fokker designed and built the nose section, centre fuselage and inner wing; MBB/Fokker-VFW constructed the forward fuselage, rear fuselage and tail assembly; and Shorts designed and built the outer wings.
+Final assembly of the Fokker F28 was at Schiphol Airport in the Netherlands.
+The F28-1000 prototype, registered PH-JHG, first flew on 9 May 1967, flown by Chief Test Pilot Jas Moll, Test Pilot Abe van der Schraaf and Flight Engineer Cees Dik. German certification was achieved on 24 February 1969. The first order was from German airline LTU, but the first revenue-earning flight was by Braathens (who operated five F28s) on 28 March 1969.
+The F28 with an extended fuselage was named F28-2000 and could seat up to 79 passengers instead of the 65 seats on the F28-1000. The prototype for this model was a converted F28-1000 prototype, and first flew on 28 April 1971. The models F28-6000 and F28-5000 were modified F28-2000 and F28-1000 respectively, with slats, greater wingspan, and more powerful and quieter engines as the main features. The F28-6000 and F28-5000 were not a commercial success; only two F28-6000 and no F28-5000 were built. After being used by Fokker for a time, the F28-6000 were sold to Air Mauritanie, but not before they were converted to F28-2000s.
+The most successful F28 was the F28-4000, which debuted on 20 October 1976 with one of the world's largest Fokker operators, Linjeflyg. This version was powered by quieter Spey 555-15H engines, and had an increased seating capacity (up to 85 passengers), a larger wingspan with reinforced wings, a new cockpit and a new "wide-look" interior featuring enclosed overhead lockers and a less 'tubular' look. The F28-3000, the successor to the F28-1000, featured the same improvements as the F28-4000.
+F28s of Ansett Transport Industries' Western Australian intrastate airline, MacRobertson Miller Airlines of Western Australia, flew the longest non-stop F28 route in the world, from Perth to Kununurra, in Western Australia – a distance of about 2,240 km (1,392 mi). This was also the world's longest twin-jet route at the time. MMA'a F28's also had the highest utilisation rates at the time, flying over 8 hours per day.
+By the time production ended in 1987, 241 airframes had been built.
+Data from
+F.28 Mk 1000
+First variant derived from the third prototype, with a maximum capacity of 65 passengers in a high-density configuration. The Mk 1000 had a length of 27.40 m. It was powered by two Rolls-Royce RB.183-2 Mk.555-15 each with 43.8 kN (9,850 lbf) of thrust. Maximum weight at take-off was 28,123 kg (62,001 lb).
+F.28 Mk 1000C
+All-cargo, passenger/cargo version derived from Mk 1000 with a port-side cargo door.
+F.28 Mk 2000
+It first flew on 28 April 1971, being certified on 30 August 1972. This variant had a fuselage 2.21 m longer than the Mk 1000, with a passenger capacity of 79 in high-density single-class configuration. It began revenue service with Nigeria Airways in October 1972. Ten were built.
+F.28 Mk 3000
+With the shorter fuselage of Mk 1000, it was one of the more successful variants, with greater structural strength and increased fuel capacity. It began revenue service with Garuda Indonesia.
+F.28 Mk 4000
+The first prototype appeared on 20 October 1976 and had the longer fuselage of the Mk 2000 with a passenger capacity of 85. Wingspan was increased by 1.57 m and more powerful Rolls-Royce RB183 Mk555-15P of 44 kN (9,901 lbf) thrust. It began service with Linjeflyg (Sweden) at the end of 1976.
+F.28 Mk 5000
+Derived from the Mk 6000, was to combine the shorter fuselage of the Mk 3000 and an increased wingspan. Slats were to be added to the wings and more powerful Rolls-Royce RB183 Mk555-15H engines were to be used. Although expected to be an excellent plane to operate in short runways due to its superior power, it was finally not built and the project was abandoned.
+F.28 Mk 6000
+It first flew on 27 September 1973 and had the longer fuselage of the Mk 2000/4000 with an increased wingspan and the Slats. It was certified in October 1975.
+F.28 Mk 6600
+Proposed version. Not built.
+Fairchild 228
+Proposed 50 seat American version assembled by Fairchild-Hiller with Rolls-Royce RB.203 Trent engines.
+In August 2006 a total of 92 Fokker F28 aircraft remained in airline service. Major operators included: MacRobertson Miller Airlines, Ansett Group Australia (more than 15), Toumaï Air Tchad (1), AirQuarius Aviation (3), SkyLink Arabia (1), Satena (1), Gatari Air Service (2), LADE (1), AirQuarius Aviation (4) and Merpati Nusantara Airlines (1). Biman Bangladesh Airlines (2). Some 22 airlines operated smaller numbers of the type. As of September 2015 F-28s are operated by only two commercial airlines. They are:
+Air Leasing Cameroon 3
+Fly-SAX 1
+ Algeria
+Algerian Air Force (2) delivered in 1979 
+ Argentina
+Argentine Air Force (4)
+Argentine Navy
+Argentine Naval Aviation (3)
+Presidential Squadron (1)
+ Colombia
+Colombian Air Force (2)
+ Ghana
+Ghana Air Force (1)
+ Malaysia
+Malaysian Air Force (2)
+ Peru
+Peruvian Air Force
+ Philippines
+Philippine Air Force (1 – Used for domestic presidential Flights, The aircraft was named "Kalayaan")
+ Tanzania
+Tanzania Government Flight Agency (1)
+ Togo (2)
+The following is a list of Fokker F28 accidents and incidents:
+Braathens SAFE Flight 239 – 23 December 1972, (Asker, suburb of Oslo, Norway): 40 fatalities. First fatal crash with a Fokker Fellowship.
+Turkish Airlines – 26 January 1974, (Izmir, Turkey): 66 fatalities. the aircraft crashed down 100 m (330 ft) away from the airfield during takeoff.
+Garuda Indonesia Airways Flight 150- 24 September 1975 near Palembang, Indonesia ): 26 fatalities. Crashed on approach in fog killing 25 people out of 61 passengers and crew. 1 person was killed on the ground.
+Garuda Indonesia Airways- 11 July 1979. 61 fatalities. Crashed into Mount Sibayak while on approach to Polonia International Airport. There was bad weather at the time of the crash.
+NLM CityHopper Flight 431 – 6 October 1981 (Moerdijk, North Brabant, Netherlands): 17 fatalities, the aircraft flew into a tornado which broke off one of the wings.
+Garuda Indonesia Domestic Flight – 20 March 1982, runway overrun at Tanjung Karang-Branti Airport in bad weather, 27 fatalities.
+Air Ontario Flight 1363 – 10 March 1989 (Dryden, Ontario, Canada): 24 fatalities. Due to various factors including snow, ice and lack of use of anti-icing measures.
+USAir Flight 405 – 22 March 1992 (Queens, New York, United States): 27 fatalities. Due to ice buildup on the wings, pilot error and improper deicing procedures at LaGuardia airport
+Merpati Nusantara Airlines – Fokker F-28 Mk-3000 Registered GK-GFU - 1 June 1993. Domestic Flight (Sorong, Papua, Indonesia): 41 fatalities. Controlled flight Into terrain - The aircraft crashed onto a rocky beach. On Bad Weather Landing procedures at Jefman Airport
+Iran Asseman Airlines Flight 746 – 12 October 1994 ( near Natanz, Iran ): 66 fatalities.
+Air Mauritanie Flight 625 – 1 July 1994: All 4 crew and 76 of the 89 passengers on board were killed when their plane crashed at Tidjikja Airport.
+TANS Peru Flight 222 – 9 January 2003: None of the 46 passengers aboard the Fokker F-28 survived after the aircraft hit a mountain near Chachapoyas, Peru.
+Data from
+Related development
+Fokker 70
+Fokker 100
+Aircraft of comparable role, configuration and era
+BAC One-Eleven
+McDonnell Douglas DC-9
+Tupolev Tu-134
+Sud Aviation Caravelle
+Related lists
+List of jet airliners
+"Andean Air Power...The Peruvian Air Force". Air International. Vol. 34 no. 5. May 1988. pp. 224–235, 240.

@@ -1,0 +1,30 @@
+Dolibarr ERP/CRM is an open source, free software package for small and medium companies, foundations or freelancers. It includes different features for enterprise resource planning (ERP) and customer relationship management (CRM) but also other features for different activities.
+There are several feature modules that can be enabled or disabled, as needed. This software is free under GNU General Public License 3.0. It is a web-based application, and can therefore be used wherever an internet service is available. Dolibarr aims to offer free open source ERP and CRM features for people with no technical knowledge, by providing a simple solution.
+Dolibarr includes all the important features of an ERP/CRM suite, except for accountancy. It is modular and is thus characterized by its ease of installation and use, despite the large number of features.
+Main Dolibarr features include:
+Multi-user, with several permissions levels for each feature.
+Several menu managers (including a back-office menu for internal users, and a front-office menu for external users).
+User-friendly.
+Assorted skins.
+Code is highly customizable (modular).
+Works with Mysql 4.1 or higher, experimental support for PostgreSql.
+Works with PHP 5.0 or higher.
+These features are not available in the most recent version of Dolibarr:
+No accountancy (banking management only - full accountancy support in development).
+Manages only one currency at a time (mono-currency - can be expanded via a module).
+Manages only one company/foundation (mono-company). This means you need to install the software twice if you want to manage two different companies or install external addons.)
+No human resource management.
+No Webmail (not to be confused with a mailing-list).
+Dolibarr is written in PHP. It uses MySQL databases. It works with a wide choice of hosting services or servers. Dolibarr works with all PHP configurations and does not require any additional PHP modules.
+Dolibarr can also be installed from an auto-installer file that is available for Windows, Mac and Linux. This is aimed at enabling users with no technical knowledge to install Dolibarr and its prerequisites (such as Apache, MySQL and PHP). This version is called DoliWamp for Windows users, DoliDeb for Debian or Ubuntu users, DoliRpm for Fedora, Redhat, Mandriva or OpenSuse users.
+Dolibarr was started by Rodolphe Quiedeville in April 2002. At this time, Jean-Louis Bergamo began writing the foundation management module. Version 1.0 was released in September 2003.
+In July 2008, Laurent Destailleur - the main contributor and author of AWStats - took over from Rodolphe Quideville as the main developer. A foundation and several user groups have been created in several countries. The first was set up in France, the country where Dolibarr is most well-known. Dolibarr's popularity in France increased after it was freely distributed by a number of government agencies to people starting up new businesses. The software is now also used in many other countries.
+2003
+1st in the category "Management Company" at the Les Trophées du Libre contest.
+2014
+Sourceforge project of the week 
+2015
+Sourceforge project of the week 
+Comparison of accounting software
+Other ERP/CRM software: Odoo, Compiere, Openbravo
+List of applications with iCalendar support

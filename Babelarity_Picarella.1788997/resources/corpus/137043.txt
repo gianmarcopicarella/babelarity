@@ -1,0 +1,11 @@
+The pathogenesis of a disease is the biological mechanism (or mechanisms) that lead to the diseased state. The term can also describe the origin and development of the disease, and whether it is acute, chronic, or recurrent. The word comes from the Greek pathos ("disease") and genesis ("creation").
+Types of pathogenesis include microbial infection, inflammation, malignancy and tissue breakdown. For example, bacterial pathogenesis is the mechanism by which bacteria cause infectious illness.
+Most diseases are caused by multiple processes. For example, certain cancers arise from dysfunction of the immune system (skin tumors and lymphoma after a renal transplant, which requires immunosuppression).
+The pathogenic mechanisms of a disease (or condition) are set in motion by underlying etiological causes, which if controlled would allow the disease to be prevented. Often, a potential etiology is identified by epidemiological observations before a pathological link can be drawn between the cause and the disease. The pathological perspective can be directly integrated into an epidemiological approach in the interdisciplinary field of molecular pathological epidemiology (MPE). MPE can help to assess pathogenesis and causality by means of linking a potential etiologic factor to molecular pathologic signatures of a disease. Thus, the MPE paradigm can advance the area of causal inference.
+Causal inference
+Epidemiology
+Etiology
+Molecular pathological epidemiology
+Molecular pathology
+Pathology
+Pathophysiology

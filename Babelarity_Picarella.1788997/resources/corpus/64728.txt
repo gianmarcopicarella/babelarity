@@ -1,0 +1,31 @@
+László Lovász (Hungarian pronunciation: [ˈlaːsloː ˈlovaːs]; born March 9, 1948) is a Hungarian mathematician, best known for his work in combinatorics, for which he was awarded the Wolf Prize and the Knuth Prize in 1999, and the Kyoto Prize in 2010. He is the current president of the Hungarian Academy of Sciences.
+Lovász was born on March 9, 1948 in the city of Budapest. His father was a surgeon. When Lovász was 14 he found a mathematical article written by Paul Erdős that fascinated him. One year later, he personally acquainted Erdős. They became friends and talked about mathematics and other subjects. This experience greatly inspired Lovász in searching for more knowledge.
+In high school, Lovász won gold medals at the International Mathematical Olympiad (in 1964, 1965, 1966 with two special prizes).
+Lovász received his Candidate of Sciences (C.Sc.) degree in 1970 at the Hungarian Academy of Sciences. His advisor was Tibor Gallai.
+Until 1975, Lovász worked at Eötvös Loránd University, between 1975–1982, he led the Department of Geometry at the University of Szeged. In 1982, he returned to the Eötvös University, where he created the Department of Computer Science. The former and current scientists of the department include György Elekes, András Frank, József Beck, Éva Tardos, András Hajnal, Lajos Pósa, Miklós Simonovits, Tamás Szőnyi.
+Lovász was a professor at Yale University during the 1990s and was a collaborative member of the Microsoft Research Center until 2006. He returned to Eötvös Loránd University, Budapest, where he was the director of the Mathematical Institute (2006–2011).
+He served as president of the International Mathematical Union between January 1, 2007 and December 31, 2010.
+In 2014 he was elected the President of the Hungarian Academy of Sciences (MTA).
+Lovász was awarded the Brouwer Medal in 1993, the Wolf Prize in 1999, the Bolyai prize in 2007 and Hungary's Széchenyi Grand Prize (2008). He received the Advanced Grant of the European Research Council (2008). He was elected foreign member of the Royal Netherlands Academy of Arts and Sciences (2006) and Royal Swedish Academy of Sciences (2007), honorary member of the London Mathematical Society (2009). He received the Kyoto Prize for Basic Science (2010). In 2012 he became a fellow of the American Mathematical Society. Lovász is listed as an ISI highly cited researcher.
+He co-authored or edited the following books:
+Lovász L., Pelikán J., Vesztergombi K.: Kombinatorika, Tankönyvkiadó, Budapest, 1977
+Gács P., Lovász L.: Algoritmusok, Müszaki Könyvkiadó, Budapest, 1978; Tankönyvkiadó, Budapest, 1987
+L. Lovász: Combinatorial Problems and Exercises, Akadémiai Kiadó - North Holland, Budapest, 1979, revised: Elsevier, Akadémiai Kiadó, 1993, reprint: AMS Chelsea Publishing, 2007.
+L. Lovász, M.D. Plummer: Matching Theory, Akadémiai Kiadó - North Holland, Budapest, 1986
+L. Lovász: An Algorithmic Theory of Numbers, Graphs, and Convexity, CBMS-NSF Regional Conference Series in Applied Mathematics 50, SIAM, Philadelphia, Pennsylvania, 1986
+M. Grötschel, L. Lovász, A. Schrijver: Geometric Algorithms and Combinatorial Optimization, Springer, 1988
+B. Korte, L. Lovász, R. Schrader: Greedoids, Springer, 1991
+Ronald L. Graham, M. Grötschel, L. Lovász (eds.): Handbook of Combinatorics Elsevier Science B.V., 1995
+L. Lovász, J. Pelikán, K. Vesztergombi K.: Discrete Mathematics: Elementary and Beyond, Springer, New York, 2003
+L. Lovász: Large Networks and Graph Limits, American Mathematical Society, 2012
+Topological combinatorics
+Lovász conjecture
+Erdős–Faber–Lovász conjecture
+Lovász local lemma
+Lenstra-Lenstra-Lovász lattice reduction algorithm
+Geometry of numbers
+Perfect graph theorem
+Greedoid
+Bell number
+Lovász number
+Graph limit

@@ -1,0 +1,25 @@
+Notoungulata is an extinct order of hoofed, sometimes heavy bodied mammalian ungulates that inhabited South America during the Paleocene to Pleistocene, living from approximately 57 Ma to 11,000 years ago.
+Due to the isolated nature of South America, many notoungulates evolved along convergent lines into forms that resembled mammals on other continents. Examples of this are Pachyrukhos, a notoungulate that evolved to fill the role of rabbits and hares, and Homalodotherium, which evolved to resemble chalicotheres. During the Pleistocene, Toxodon was the largest common notoungulate. Most of the group (Mixotoxodon and Toxodon being the exception) became extinct after the landbridge between North and South America was formed, allowing North American ungulates to enter South America in the Great American Interchange and out-compete the native fauna. This order is united with other South-American ungulates in the super-order Meridiungulata.
+Cifelli has argued that Notioprogonia is paraphyletic, as it would include the ancestors of the remaining suborders. Similarly, Cifelli indicated that Typotheria would be paraphyletic if it excluded Hegetotheria and he advocated inclusion of Archaeohyracidae and Hegetotheriidae in Typotheria.
+As reflected in the map that accompanies this article, Notoungulata were for many years taken to include the order Arctostylopida, whose fossils are found mainly in China. Recent studies, however, have concluded that Arctostylopida are more properly classified as gliriforms, and that the notoungulates were therefore never found outside South and Central America.
+Based on an analysis of 133 morphological characters in 50 notoungulate genera, Billet 2011 concluded that Homalodotheriidae, Leontiniidae, Toxodontidae, Interatheriidae, Mesotheriidae, and Hegetotheriidae are the only monophyletic families of notoungulates.
+A recent analysis using collagen sequencing found that notoungulates and litopterns are sisters to perissodactyls, making them true ungulates. This conflicts with the results of some morphological analyses which favoured them as afrotherians. It is in line with some more recent morphological analyses which suggested they were basal euungulates.
+Order Notoungulata - notoungulates
+Suborder Notioprogonia
+Family Henricosborniidae
+Family Notostylopidae
+Suborder Toxodonta
+Family Isotemnidae
+Family Leontiniidae
+Family Notohippidae
+Family Toxodontidae
+Family Homalodotheriidae
+Suborder Typotheria
+Family Archaeopithecidae
+Family Oldfieldthomasiidae
+Family Interatheriidae
+Family Campanorcidae
+Family Mesotheriidae
+Suborder Hegetotheria
+Family Archaeohyracidae
+Family Hegetotheriidae

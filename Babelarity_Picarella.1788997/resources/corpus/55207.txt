@@ -1,0 +1,39 @@
+Joy Paul Guilford (March 7, 1897 in Marquette, Nebraska – November 26, 1987 in Los Angeles) was a United States psychologist, best remembered for his psychometric study of human intelligence, including the distinction between convergent and divergent production.
+Developing the views of L. L. Thurstone, Guilford rejected Charles Spearman's view that intelligence could be characterized in a single numerical parameter and proposed that three dimensions were necessary for accurate description: operations, content, and products. A Review of General Psychology survey, published in 2002, ranked Guilford as the 27th most cited psychologist of the 20th century.
+Guilford graduated from the University of Nebraska before studying under Edward Titchener at Cornell. In 1938 Guilford became the 3rd President of the Psychometric Society, following in the footsteps of its founder Louis Leon Thurstone and of EL Thorndike who held the position in 1937. Guilford held a number of posts at Nebraska and briefly at the University of Southern California. In 1941 he entered the U.S. Army as a Lieutenant Colonel and served as Director of Psychological Research Unit No. 3 at Santa Ana Army Air Base. There he worked on the selection and ranking of aircrew trainees as the Army Air Force investigated why a sizable proportion of trainees was not graduating.
+Promoted to Chief of the Psychological Research Unit at the U.S. Army Air Forces Training Command Headquarters in Fort Worth, Guilford oversaw the Stanine (Standard Nine) Project in 1943, which identified nine specific intellectual abilities crucial to flying a plane. (Stanines, now a common term in educational psychology, was coined during Guilford's project). Over the course of World War II, Guilford's use of these factors in the development of the 2-day Classification Test Battery was significant in increasing graduation rates for aircrew trainees.
+Discharged as a full colonel after the war, Guilford joined the Education faculty at the University of Southern California and continued to research the factors of intelligence. He published widely on what he ultimately named the Structure of Intellect theory, and his post-War research identified a total of 90 discrete intellectual abilities and 30 behavioral abilities.
+Guilford's 20 years of research at Southern California were funded by the National Science Foundation, the Office of Education of the former Health, Education and Welfare Department, and the Office of Naval Research. Although Guilford's subjects were recruits at the Air Force Training Command at Randolph Air Force Base, San Antonio, the Office of Naval Research managed this research.
+Guilford's post-war research led to the development of classification testing that, modified in different ways, entered into the various personnel assessments administered by all branches of the U.S. Armed Services. Thus, in a generic manner, all U.S. Military qualifying exams of the 1950s, 1960s, and 1970s may be said to have descended from Guilford's research.
+According to Guilford's Structure of Intellect (SI) theory (1955), an individual's performance on intelligence tests can be traced back to the underlying mental abilities or factors of intelligence. SI theory comprises up to 150 different intellectual abilities organized along three dimensions — Operations, Content, and Products.
+The Structure of Intellect theory advanced by Guilford was applied by Mary N. Meeker for educational purposes.
+SI includes six operations or general intellectual processes:
+Cognition - The ability to understand, comprehend, discover, and become aware of information.
+Memory recording - The ability to encode information.
+Memory retention - The ability to recall information.
+Divergent production - The ability to generate multiple solutions to a problem; creativity.
+Convergent production - The ability to deduce a single solution to a problem; rule-following or problem-solving.
+Evaluation - The ability to judge whether or not information is accurate, consistent, or valid.
+SI includes four broad areas of information to which the human intellect applies the six operations:
+Figural - Concrete, real world information, tangible objects—things in the environment. It includes visual: information perceived through seeing; auditory: information perceived through hearing; and kinesthetic: information perceived through one's own physical actions.
+Symbolic - Information perceived as symbols or signs that stand for something else, e.g., Arabic numerals, the letters of an alphabet, or musical and scientific notations.
+Semantic - Concerned with verbal meaning and ideas. Generally considered to be abstract in nature.
+Behavioral - Information perceived as acts of people. (This dimension was not fully researched in Guilford's project, remains theoretical, and is generally not included in the final model that he proposed for describing human intelligence.)
+As the name suggests, this dimension contains results of applying particular operations to specific contents. The SI model includes six products, in increasing complexity:
+Units - Single items of knowledge.
+Classes - Sets of units sharing common attributes.
+Relations - Units linked as opposites or in associations, sequences, or analogies.
+Systems - Multiple relations interrelated to comprise structures or networks.
+Transformations - Changes, perspectives, conversions, or mutations to knowledge.
+Implications - Predictions, inferences, consequences, or anticipations of knowledge.
+Therefore, according to Guilford there are 5 x 6 x 6= 180 intellectual abilities or factors (his research only confirmed about three behavioral abilities, so it is generally not included in the model). Each ability stands for a particular operation in a particular content area and results in a specific product, such as Comprehension of Figural Units or Evaluation of Semantic Implications.
+Guilford's original model was composed of 120 components (when the behavioral component is included) because he had not separated Figural Content into separate Auditory and Visual contents, nor had he separated Memory into Memory Recording and Memory Retention. When he separated Figural into Auditory and Visual contents, his model increased to 5 x 5 x 6 = 150 categories. When Guilford separated the Memory functions, his model finally increased to 180 factors.
+Various researchers have criticized the statistical techniques used by Guilford. According to Jensen (1998), Guilford's contention that a g-factor was untenable was influenced by his observation that cognitive tests of U.S. Air Force personnel did not show correlations significantly different from zero. According to one reanalysis, this resulted from artifacts and methodological errors. Applying more robust methodologies, the correlations in Guilford's data sets are positive. In another reanalysis, randomly generated models were found to be as well supported as Guilford's own theory.
+Guilford's Structure of Intellect model of human abilities has few supporters today. Carroll (1993) summarized the view of later researchers:
+"Guilford's SOI model must, therefore, be marked down as a somewhat eccentric aberration in the history of intelligence models; that so much attention has been paid to it is disturbing, to the extent that textbooks and other treatments of it have given the impression that the model is valid and widely accepted, when clearly it is not."
+Guilford, J.P. (1939) General psychology. New York, NY: D. Van Nostrand Company, Inc.
+Guilford, J.P. (1950) Creativity, American Psychologist, Volume 5, Issue 9, 444–454.
+Guilford, J.P. (1967). The Nature of Human Intelligence.
+Guilford, J.P. & Hoepfner, R. (1971). The Analysis of Intelligence.
+Guilford, J.P. (1982). Cognitive psychology's ambiguities: Some suggested remedies. Psychological Review, 89, 48–59.
+Barberpole illusion

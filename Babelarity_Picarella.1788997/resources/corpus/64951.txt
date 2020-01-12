@@ -1,0 +1,5 @@
+In geometry, a pentahedron (plural: pentahedra) is a polyhedron with five faces. Since there are no face-transitive polyhedra with five sides and there are two distinct topological types, this term is less frequently used than tetrahedron or octahedron.
+With regular polygon faces, the two topological forms are the square pyramid and triangular prism. Geometric variations with irregular faces can also be constructed.
+The square pyramid can be seen as a degenerate triangular prism where one edge of its side edges is collapsed into a point, losing one edge and one vertex, and changing two squares into triangles.
+An irregular pentahedron can be a non-convex solid.
+There is a third topological polyhedral figure with 5 faces, degenerate as a polyhedron: it exists as a spherical tiling of digon faces, called a pentagonal hosohedron with Schläfli symbol {2,5}. It has 2 (antipodal point) vertices, 5 edges, and 5 digonal faces.

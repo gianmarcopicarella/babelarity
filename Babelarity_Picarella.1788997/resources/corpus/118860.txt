@@ -1,0 +1,6 @@
+The tau neutrino or tauon neutrino is a subatomic elementary particle which has the symbol ν
+τ and no net electric charge. Together with the tau, it forms the third generation of leptons, hence its name tau neutrino. Its existence was immediately implied after the tau particle was detected in a series of experiments between 1974 and 1977 by Martin Lewis Perl with his colleagues at the SLAC–LBL group. The discovery of the tau neutrino was announced in July 2000 by the DONUT collaboration.
+The tau neutrino is last of the leptons, and is the second most recent particle of the Standard Model to be discovered. The DONUT experiment (which stands for Direct Observation of the Nu Tau) from Fermilab was built during the 1990s to specifically detect the tau neutrino. These efforts came to fruition in July 2000, when the DONUT collaboration reported its detection.
+Electron neutrino
+Muon neutrino
+PMNS matrix

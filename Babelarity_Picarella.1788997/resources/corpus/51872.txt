@@ -1,0 +1,53 @@
+The Sony Ericsson Xperia arc S (Xperia LT18i) is a high-end smartphone developed by Sony Ericsson running Google's operating system Android 2.3.4 (Gingerbread). It is an upgrade of the Xperia Arc. It is the last phone carrying the Sony Ericsson brand, before Sony bought Ericsson's stake in the joint-venture.
+Released in October 2011. The device's primary improvements over its predecessor are a 1.4 GHz Scorpion Snapdragon CPU and 14.4Mbit/s HSDPA, compared to the same model at 1.0 GHz and 7.2Mbit/s HSDPA in the Arc. Aside from the CPU speed upgrade and HSDPA speed upgrade, additional hardware remains unchanged.
+On 26 July 2012, Sony Mobile Communications officially confirmed via their Facebook page that the Xperia arc S along with the Xperia Mini Pro would not be receiving the Android 4.1 Jelly Bean update. However, this statement was then retracted and Sony has issued a new statement stating they are investigating the possibility of software upgrades for the two devices. However, as of December 2015, the upgrade has not materialised.
+The Arc S features a capacitive touchscreen display of 4.2 inches and is equipped with an 8.1-megapixel camera with Exmor R for low-light capture. The camera supports 720p high definition video.
+The device ships with an 8 GB microSD card for user storage and is expandable up to 32 GB (SDHC) or 64 GB (SDXC).
+It comes in several colours: "Pure White", "Midnight Blue", "Misty Silver", "Gloss Black", "Sakura Pink".
+8.1-megapixel camera with LED flash and auto focus
+Sony’s Exmor™ R for mobile CMOS sensor
+16x smart zoom
+f/2.4 Aperture
+HD video recording (720p), up to 30 frames per second
+3D Sweep Panorama
+Image playback, supported formats: BMP, GIF, JPEG, PNG, WBMP
+Image capture, supported format: JPEG
+Video playback and recording, supported formats: 3GPP, MP4
+Accelerated Adobe Flash Video
+USB High speed 2.0 and Micro USB support
+Wi-Fi and Wi-Fi hotspot functionality
+HDMI support
+DLNA certified
+Synchronisation via Exchange ActiveSync, Google Sync and Facebook
+aGPS
+WebKit web browser with pan and zoom
+Bluetooth technology
+Internal phone storage: up to 2 GB
+RAM: 512 MB
+Expansion slot: microSD, up to 64 Gb
+GSM GPRS/EDGE 850 MHz, 900 MHz, 1800 MHz, 1900 MHz
+UMTS HSPA 900 MHz, 2100 MHz (Global except Americas)
+UMTS HSPA 800 MHz, 850 MHz, 1900 MHz, 2100 MHz (Americas)
+TrackID music recognition
+xLOUD Experience – audio filter technology from Sony
+FM Radio with RDS
+3.5 mm audio jack for headphones
+Audio playback, supported formats: MP3, 3GPP, MP4, SMF, WAV, OTA, Ogg Vorbis
+Audio recording, supported formats: 3GPP, MP4, AMR
+3D and motion gaming
+Timescape with Twitter integrated
+Facebook inside Xperia 2.0
+Sony Entertainment Network (selected markets only)
+4.2", 854x480 pixels 16,777,216 colour TFT
+Reality Display with Mobile BRAVIA® Engine
+Scratch-resistant, shatter proof sheet on mineral glass
+Capacitive touchscreen with on-screen QWERTY keyboard
+Screenshot capturing
+It was released running Android 2.3.4, was updated to Android 4.0.3 in January 2012 and updated to Android 4.0.4 in May 2012.
+Pre-loaded applications
+Google Voice Search
+Google Talk
+Google Mail
+Google Calendar
+Google Gallery 3D
+Google Maps with Street View

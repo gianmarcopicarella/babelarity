@@ -1,0 +1,148 @@
+The Hawker Hart was a British two-seater biplane light bomber aircraft of the Royal Air Force (RAF). It was designed during the 1920s by Sydney Camm and manufactured by Hawker Aircraft. The Hart was a prominent British aircraft in the inter-war period, but was obsolete and already side-lined for newer monoplane aircraft designs by the start of the Second World War, playing only minor roles in the conflict before being retired.
+Several major variants of the Hart were developed, including a navalised version for the Royal Navy's aircraft carriers. Beyond Britain, the Hart would be operated by a number of foreign nations, including Sweden, Yugoslavia, Estonia, South Africa, and Canada.
+In 1926, the Air Ministry stated a requirement for a two-seat high-performance light day-bomber, to be of all-metal construction and with a maximum speed of 160 mph (258 km/h). Designs were tendered by Hawker, Avro and de Havilland. Fairey, who had sold a squadron's worth of its wooden Fox bomber in 1925, was not at first invited to tender to the specification, and was sent a copy of the specification only after protesting to the Chief of the Air Staff, Hugh Trenchard.
+Hawker's design was a single-bay biplane powered by a Rolls-Royce F.XI water-cooled V12 engine (the engine that later became known as the Rolls-Royce Kestrel). It had, as the specification required, a metal structure, with a fuselage structure of steel-tube covered by aluminium panels and fabric, with the wings having steel spars and duralumin ribs, covered in fabric. The crew of two sat in individual tandem cockpits, with the pilot sitting under the wing trailing edge, and operating a single .303 in (7.7 mm) Vickers machine gun mounted on the port side of the cockpit. The observer sat behind the pilot, and was armed with a single Lewis gun on a ring mount, while for bomb-aiming, he lay prone under the pilot's seat. Up to 520 pounds (240 kg) of bombs could be carried under the aircraft's wings.
+J9052, the prototype Hart, first flew in June 1928, being delivered to the Aeroplane and Armament Experimental Establishment at RAF Martlesham Heath on 8 September. It demonstrated good performance and handling, reaching 176 mph (283 km/h) in level flight and 282 miles per hour (454 km/h) in a vertical dive. The competition culminated in the choice of the Hawker Hart in April 1929. The de Havilland Hound was rejected due to handling problems during landing and because of its part-wooden primary structure. While the Avro Antelope demonstrated similar performance and good handling, the Hart was preferred as it was far cheaper to maintain, a vital aspect to a programme during defence budget constraints that the British armed forces faced during the 1920s. The Fairey Fox IIM (which despite the name was effectively an all-new aircraft), delayed by Fairey's late start on the design compared to the other competitors, only flew for the first time on 25 October 1929, long after the Hart had been selected.
+A total of 992 aircraft were built as Harts. It became the most widely used light bomber of its time and the design would prove to be a successful one with a number of derivatives, including the Hawker Hind and Hector, being made. There were a number of Hart variants made, though only slight alterations were made. The Hart India was a tropicalised version of the aircraft; the Hart Special was a tropicalised Hawker Audax, a Hart variant, with desert equipment; a specialised Hart Trainer was also built which dispensed with the gunner's ring. Vickers built 114 of the latter model at Weybridge between 1931 and June 1936.
+The production Hart day bomber had a single 525 hp (390 kW) Rolls-Royce Kestrel IB 12-cylinder V-type engine; a speed of 184 mph (296 km/h) and a range of 470 mi (757 km). It was faster than most contemporary fighters, an astonishing achievement considering it was a light bomber, and had high manoeuvrability, making the Hart one of the most effective biplane bombers ever produced for the Royal Air Force. In particular, it was faster than the Bristol Bulldog, which had recently entered service as the RAF's front line fighter. This disparity in performance led the RAF to gradually replace the Bulldog with the Hawker Fury.
+Demand was such that production was spread out among a wide selection of aircraft companies. Of the 962 built in the United Kingdom, Hawker produced 234, Armstrong Whitworth 456, Gloster 46, Vickers 226, and 42 were produced in Sweden under licence by ASJA who built 18, Götaverken who built three, and the Central Workshops of the Air Force (CVM) who built 21. 1004 Harts were produced.
+The Hart entered service with No. 33 Squadron RAF in February 1930, replacing the larger and slower Hawker Horsley. No. 12 Squadron replaced its Foxes with Harts in January 1931, with a further two British-based Hart light bomber squadrons forming during 1931.
+Harts were deployed to the Middle East during the Abyssinia Crisis of 1935–1936. The Hart saw extensive and successful service on the North-West Frontier, British India during the inter-war period. Four Hawker Harts from the Swedish Air Force saw action as dive bombers during the 1939–1940 Winter War as part of a Swedish volunteer squadron, designated F19, fighting on the Finnish side. Though obsolete compared to the United Kingdom's opposition at the start of the Second World War, the Hart continued in service, mainly performing in the communications and training roles until being declared obsolete in 1943.
+The Hart proved to be a successful export, seeing service with the Royal Egyptian Air Force, Royal Indian Air Force, South African Air Force, Estonian Air Force, Southern Rhodesia, Sweden (where it was designated B4) and the Kingdom of Yugoslavia. The Rhodesian Hardys saw service on the Allied side during the opening moves of the East African theatre of World War II.
+Swedish Air Force General Björn Bjuggren wrote in his memoirs how his squadron developed dive-bombing techniques in the mid-1930s for their B4s. When the Hawker engineers found out, they issued a formal objection, saying that the aircraft had not been designed for that purpose. However, the Swedish pilots proved that the aircraft was up to the task and dispelled their concerns.
+Hart I
+Two-seat light bomber aircraft for the RAF. 525 hp Kestrel IB engine.
+Hart SEDB
+Two-seat single-engined light bomber aircraft for the RAF, powered by a 525 hp Rolls-Royce Kestrel IB, or a 510 hp Kestrel X (DR) piston engine.
+Hart (India)
+Tropicalised version for the RAF, used by RAF in the North West Frontier of India, with larger radiator and extra equipment.
+Hart (C)
+Two-seat unarmed communications aircraft for the RAF, a small number were used by No. 24 Squadron RAF; eight built.
+Hart Trainer (Interim)
+Hart light bombers converted into training aircraft. Two built.
+Hart Trainer
+Two-seat dual-control trainer aircraft, with reduced sweepback on top wings to compensate for movement in center of gravity caused by removal of military equipment.
+Hart Fighter
+Two-seat fighter version for the RAF used by No. 23 Squadron RAF, with Kestrel IIS. Later redesignated as the Demon; six built.
+Hart (Special)
+Tropicalised version for the RAF, used by the RAF in the Middle East. Based on Audax airframe with desert equipment, and de-rated Kestrel X engine.
+Hart (Testbeds)
+Several Harts were used as engine testbeds, including G-ABMR and G-ABTN which were used to test several variants of Kestrel engines. K2434 was used by Napier to test the Napier Dagger I, II and III. K3036 was used by Rolls-Royce to test the Merlin C and E, complete with a ventral radiator.
+Estonian Hart
+Export version for Estonia, equipped with an interchangeable wheel or float undercarriage; eight built.
+Swedish Hart
+Light bomber for Swedish Air Force. Four Hawker-built pattern aircraft, powered by a Bristol Pegasus IM2 radial piston engine were delivered in 1934. Following successful evaluation, 42 were built under licence in Sweden, powered by a Swedish-built NOHAB Pegasus IU2.
+The Hawker Audax was a Hart variant, designed for army cooperation, seeing much service in the British Empire. The first Audax flew in late 1931 and over 700 Audaxes were produced (including export). The Audax was similar to the Hart, though had some modifications, including a hook to pick up messages. The Audax was armed with a single .303 in (7.7 mm) Lewis light machine gun and a .303 in (7.7 mm) Vickers machine gun. The Audax was powered by a version of the Kestrel engine and had a maximum speed of 170 mph (274 km/h). A number of variants of the Audax were produced, including the Audax India, a tropicalised version of the Audax for service in India and the Audax Singapore for service there.
+The Audax saw service with other air forces, including the Royal Canadian Air Force, the Royal Indian Air Force, the South African Air Force, the Royal Egyptian Air Force, the Royal Iraqi Air Force, the Imperial Iranian Air Force, the Straits Settlements and the Southern Rhodesian Air Force. The Audax saw limited service during the Second World War, seeing service in Africa on the Kenya–Abyssinia border, the latter of which had been occupied by Italy. The Audax also saw service in Iraq, at RAF Habbaniya, west of Baghdad, after the uprising there, the Anglo-Iraqi War; influenced by Axis forces. The battle for RAF Habbaniya: In the days leading up to the battle for RAF Habbaniya crews [Squadron Leader Tony Dudgeon for example] began to upgrade the Audaxs stationed there, despite having received orders forbidding such actions. They fitted some of the Audaxs to carry 250 lb [113 kg] bombs instead of 20 lb (9 kg) bombs. The Audax ended its service by 1945. A derivative of the Audax, the Hawker Hartebeest, a light bomber, was built for the South African Air Force with modifications made from the Audax. Sixty-five of these aircraft were built, the majority in South Africa. The aircraft saw action in East Africa during clashes against Italy who occupied Abyssinia.
+A.V. Roe built 287 Audaxes as part of the RAF expansion scheme during 1935–1937. These did not warrant an Avro type number but between 1937 and 1938, Avro built 24 modernised Audaxes for the Egyptian government, powered by 750 hp (560 kW) Armstrong Siddeley Panther VIA radials. Acknowledging the amount of redesign work done, these were designated the Avro Type 674.
+Audax I
+Two-seat army cooperation aircraft for the RAF, powered by a 530 hp (395 kW) Rolls-Royce Kestrel IB, or 580 hp Kestrel X piston engine.
+Audax (India)
+Tropicalised version for the RAF, used by the RAF in India.
+Audax (Singapore)
+Tropicalised version for the RAF, powered by a Rolls-Royce Kestrel V piston engine, used by the RAF in Singapore and British Malaya.
+Canadian Audax
+Modified version of the Audax I for the RCAF; one built for Canada.
+Egyptian Audax
+Six aircraft fitted with the 750 hp Armstrong Siddeley Panther radial piston engine, plus 18 aircraft fitted with the Panther X radial piston engine; 34 built for Egypt.
+Iraqi Audax (Nisr)
+24 aircraft fitted with the Bristol Pegasus IIM2 radial piston engine, plus ten aircraft fitted with the Pegasus VIP8 radial piston engine; 34 built for Iraq.
+Persian Audax
+30 aircraft fitted with the Pratt & Whitney Hornet S2B radial piston engine, plus 26 aircraft fitted with the Bristol Pegasus IIM or IIM2 radial piston engine; 56 built for Persia.
+Hartebeest
+Hawker built pattern aircraft; four built and exported to South Africa.
+Hartebeest I
+Two-seat general-purpose, ground surpport aircraft for the South African Air Force, powered by a 608 hp (453 kW) Rolls-Royce Kestrel VFP piston engine; 65 aircraft built under licence in South Africa.
+The Hawker Demon was a fighter variant of the Hart light bomber. It was developed as, when the Hart entered service, it was virtually uninterceptable by the RAF's fighters, which was demonstrated in air defence exercises where they were sometimes instructed to restrict their height and speed in order to give the RAF's Siskins and Bulldogs a chance. While the Hawker Fury offered better performance, it was expensive and was only available in small numbers, so when a fighter version of the Hart was suggested, the Air Ministry selected the type as an interim fighter until higher performance dedicated fighters could be bought in larger numbers. The new fighter variant added a second Vickers machine gun, while the coaming of the rear cockpit was angled to give a better field of fire, and a supercharged Kestrel IS engine was fitted. Evaluation of an initial batch of six aircraft, known as Hart Fighters by one flight of 23 Squadron during 1931 was successful, and larger orders followed for the fighter Hart, now known as the Hawker Demon. First Flight on February 10, 1933.
+305 Hawker Demons were built, including 232 for the RAF. The Demon was powered by varying types of the Kestrel engine. It had an armament of a single rear .303 in (7.7 mm) Lewis Gun with two .303 in (7.7 mm) Vickers machine guns in the nose. Large numbers of the type were fitted with a hydraulically-powered turret in the rear, which had been tested on the Hawker Hart. The Demon was also sold to the Royal Australian Air Force. It saw only brief second-line operations during the Second World War.
+Production of the Demon was undertaken by Hawker and by Boulton Paul Aircraft at their Wolverhampton factory, where their last example of 106 to be completed was delivered to the RAF in December 1937.
+Hart Two-Seat Fighter
+Two-seat fighter version of the Hart for the RAF. Later redesignated as the Hart Fighter.
+Demon I
+Two-seat fighter aircraft for the RAF.
+Australian Demon I
+Two-seat fighter aircraft for the RAAF, similar to RAF version but fitted with a 600 hp (447 kW) Rolls Royce Kestrel V engine; 54 built (the first 18 delivered as general-purpose fighters in 1935 and an additional 36 for army co-operation duties delivered in 1936).
+Australian Demon II
+Two-seat training version for the RAAF, standard Demon fitted with dual controls and provision for target towing, 10 built
+Turret Demon
+Two-seat fighter version, fitted with a Frazer-Nash gun turret in the rear cockpit.
+The Hawker Hardy was a general-purpose variant of the Hawker Hart tropicalised to meet Air Ministry Specification G.23/33 as a Wapiti replacement in Iraq. The prototype was a production Hart which was modified with a modified radiator, a message pick-up hook, water containers and a desert survival kit. The prototype first flew on 7 September 1934, and the first production aircraft were delivered to 30 Squadron in January 1935. The Hardy saw some service during the Second World War, in Africa and the Middle East; the Hardys performing a number of operations against Italian-occupied Abyssinia as well as other areas of Africa. The Hardy also saw service with Southern Rhodesia. The last operational sortie by a Hardy was on 9 May 1941 and most of the survivors were scrapped, although some continued in service as communications aircraft. On 14 May 1941, the Belgian Colonial authorities obtained a Hawker Hardy from the South African Air Force. Painted in Belgian colours, the machine was used for observation missions, but unfortunately overturned while landing at Gambela airfield on 26 May 1941, effectively writing off the aircraft.
+Hardy I
+Two-seat general-purpose aircraft for the RAF, 47 built excluding one prototype modified from a Hart.
+The Hawker Hind was a derivative of the Hart and was intended to replace it. The Hawker Hector was a variant of the Hind and was used in the army co-operation role. It saw only limited service during the Second World War with the Royal Air Force. Hectors were also sold to Ireland.
+The Hawker Osprey was the navalised carrier-borne version of the Hart, performing in the fighter and reconnaissance roles. The Osprey had a single Rolls-Royce Kestrel II engine, and had a max speed of 168 mph (270 km/h). Its armament consisted of a single forward .303 in (7.7 mm) Vickers machine gun and one .303 in (7.7 mm) Lewis gun. The Osprey joined the Fleet Air Arm (FAA) in 1932, with 103 being built, and ended its career in 1944 after serving as a trainer for FAA pilots during her career in the Second World War. By December 1936, Ospreys were being deployed by 701 Squadron based at RAF Kalafrana in the anti-submarine and anti-piracy role. The Osprey was also sold to the Swedish Air Force being used on the seaplane cruiser HMS Gotland, which carried six Ospreys. Ospreys were also sold to the Portuguese Naval Aviation and the Spanish Republican Air Force.
+Osprey I
+Two-seat fleet spotter and reconnaissance aircraft, power by a 630 hp (470 kW) Rolls-Royce Kestrel IIMS inline piston engine; 37 built.
+Osprey II
+Two-seat fleet spotter and reconnaissance aircraft, powered by a 630 hp (470 kW) Rolls-Royce Kestrel IIMS piston engine, equipped with redesigned floats; 14 built.
+Osprey III
+Two-seat fleet spotter and reconnaissance aircraft, powered by a 630 hp (470 kW) Rolls-Royce Kestrel IIMS piston engine, equipped with a dinghy stowed away in the starboard upper wing; 26 built.
+Osprey IV
+Two-seat fleet spotter and reconnaissance aircraft, powered by a 640 hp Rolls-Royce Kestrel V. Twenty-six built in 1935.
+Portuguese Osprey
+Two aircraft equivalent to Osprey III built for Portugal and powered by Kestrel IIMS piston engine. Delivered in 1935. Six aircraft more in 1939.
+Spanish Osprey
+One aircraft fitted with a Hispano-Suiza 12Xbrs engine; one built for the Spanish Republican Air Force.
+Swedish Osprey
+Version for Sweden fitted with a 600 horsepower (450 kW) Swedish-built NOHAB Bristol Mercury radial piston engine and interchangeable wheel and float landing gear. Six built. Given the designation S 9 by the Swedish Air Force.
+ Afghanistan
+ Canada
+ Egypt
+ Estonia
+ British India
+ Persia
+ South Africa
+ Southern Rhodesia
+ Sweden
+ United Kingdom
+ Kingdom of Yugoslavia
+ British India
+ Canada
+ Egypt
+ Iraq
+ Persia
+ Southern Rhodesia
+ Straits Settlements
+ United Kingdom
+ Australia
+ United Kingdom
+ United Kingdom
+ Southern Rhodesia
+ Belgium (one aircraft, ex-RAF K4316)
+ Belgian Congo
+ South Africa
+ Portugal
+ Spanish Republic
+ Sweden
+ United Kingdom
+Hawker Hart G-ABMR. This aircraft is displayed at the Royal Air Force Museum. The 13th off the production line, it first flew in 1931 but never saw military use. Under the civilian registration G-ABMR, it was used by Hawker in various roles, including testbed, demonstration aircraft and a camera aircraft. It flew throughout the Second World War and continued flying until 1971. Still airworthy, it was then transferred to the RAF Museum, on loan from Hawker Siddeley, Hawker Aircraft's successor company. It remains there, painted to represent RAF Hart serial number J9941.
+Hawker Hart Trainer K-4972. Built in 1935 by Armstrong Whitworth, it flew as a training aircraft before being used as an instructional airframe. In 1943, it passed on to the Air Training Corps unit at Nelson Tomlinson School, Wigton, where it remained until recovered in 1962 by a group of aviation enthusiasts. They passed it on to the RAF Museum in 1962. It is currently on display at the RAF Museum's London site.
+Hawker Demon I A1-8 currently at the RAAF Museum in Point Cook. Delivered 1935, served with No. 3 Squadron RAAF until 1937 when it was wrecked in Tasmania and reduced to components. Restored 1987 by 2AD in Richmond, New South Wales.
+Hawker Demon G-BTVE painted as K8203 of No. 64 Squadron RAF currently being flown by the Shuttleworth Collection
+Data from The British Bomber since 1914.
+General characteristics
+Crew: 2
+Length: 29 ft 4 in (8.94 m)
+Wingspan: 37 ft 3 in (11.36 m)
+Height: 10 ft 5 in (3.18 m)
+Wing area: 349.5 ft² (32.5 m²)
+Airfoil: RAF 28
+Empty weight: 2,530 lb (1,150 kg)
+Max. takeoff weight: 4,596 lb (2,089 kg)
+Powerplant: 1 × Rolls-Royce Kestrel IB water-cooled V12 engine, 510 hp (380 kW)
+Performance
+Maximum speed: 161 kn (185 mph, 298 km/h) at 13,000 ft
+Stall speed: 39 kn (45 mph, 72 km/h) 
+Range: 374 nmi (430 mi, 692 km)
+Service ceiling: 22,800 ft (6,950 m)
+Wing loading: 13.2 lb/ft² (64.3 kg/m²)
+Power/mass: 0.11 hp/lb (0.182 kW/kg)
+Climb to 10,000 ft 8 minutes, 30 seconds
+Armament
+Guns: 1 × synchronised forward firing .303 in (7.7 mm) Vickers machine gun, 1 × .303 in (7.7 mm) Lewis Gun on Scarff ring in rear cockpit.
+Bombs: Up to 500 lb (227 kg) bombs under wings.
+Related development
+Hawker Hind
+Related lists
+List of aircraft of World War II
+List of aircraft of the Spanish Republican Air Force

@@ -1,0 +1,67 @@
+A chord of a circle is a straight line segment whose endpoints both lie on the circle. A secant line, or just secant, is the infinite line extension of a chord. More generally, a chord is a line segment joining two points on any curve, for instance an ellipse. A chord that passes through a circle's center point is the circle's diameter.
+The word chord is from the Latin chorda meaning bowstring.
+Among properties of chords of a circle are the following:
+Chords are equidistant from the center only if their lengths are equal.
+A chord that passes through the center of a circle is called a diameter, and is the longest chord.
+If the line extensions (secant lines) of chords AB and CD intersect at a point P, then their lengths satisfy AP·PB = CP·PD (power of a point theorem).
+The area that a circular chord "cuts off" is called a circular segment.
+The midpoints of a set of parallel chords of an ellipse are collinear.
+Chords were used extensively in the early development of trigonometry. The first known trigonometric table, compiled by Hipparchus, tabulated the value of the chord function for every 7.5 degrees. In the second century AD, Ptolemy of Alexandria compiled a more extensive table of chords in his book on astronomy, giving the value of the chord for angles ranging from 1/2 degree to 180 degrees by increments of half a degree. The circle was of diameter 120, and the chord lengths are accurate to two base-60 digits after the integer part.
+The chord function is defined geometrically as shown in the picture. The chord of an angle is the length of the chord between two points on a unit circle separated by that angle. The chord function can be related to the modern sine function, by taking one of the points to be (1,0), and the other point to be (cos θ, sin θ), and then using the Pythagorean theorem to calculate the chord length:
+          c
+          r
+          d
+        θ
+        =
+            (
+            1
+            −
+            cos
+            ⁡
+            θ
+              )
+                2
+            +
+              sin
+                2
+            ⁡
+            θ
+        =
+            2
+            −
+            2
+            cos
+            ⁡
+            θ
+        =
+        2
+        sin
+        ⁡
+          (
+              θ
+              2
+          )
+        .
+    {\displaystyle \mathrm {crd} \ \theta ={\sqrt {(1-\cos \theta )^{2}+\sin ^{2}\theta }}={\sqrt {2-2\cos \theta }}=2\sin \left({\frac {\theta }{2}}\right).}
+The last step uses the half-angle formula. Much as modern trigonometry is built on the sine function, ancient trigonometry was built on the chord function. Hipparchus is purported to have written a twelve volume work on chords, all now lost, so presumably a great deal was known about them. The chord function satisfies many identities analogous to well-known modern ones:
+The inverse function exists as well:
+        acrd
+        ⁡
+        (
+        y
+        )
+        =
+        2
+        arcsin
+        ⁡
+          (
+              y
+              2
+          )
+    {\displaystyle \operatorname {acrd} (y)=2\arcsin \left({\frac {y}{2}}\right)\,}
+Circular segment - the part of the sector which remains after removing the triangle formed by the center of the circle and the two endpoints of the circular arc on the boundary.
+Ptolemy's table of chords
+Holditch's theorem, for a chord rotating in a convex closed curve
+Circle graph
+Exsecant and excosecant
+Versine and haversine

@@ -1,0 +1,13 @@
+The Eclipse Public License (EPL) is an open source software license used by the Eclipse Foundation for its software. It replaces the Common Public License (CPL) and removes certain terms relating to litigations related to patents.
+The Eclipse Public License is designed to be a business-friendly free software license, and features weaker copyleft provisions than licenses such as the GNU General Public License (GPL). The receiver of EPL-licensed programs can use, modify, copy and distribute the work and modified versions, in some cases being obligated to release their own changes.
+The EPL is approved by the Open Source Initiative (OSI) and is listed as a free software license by the Free Software Foundation (FSF).
+Discussion of a new version of the EPL began in May, 2013.
+The EPL 1.0 is not compatible with the GPL, and a work created by combining a work licensed under the GPL with a work licensed under the EPL cannot be lawfully distributed. The GPL requires that "[any distributed work] that ... contains or is derived from the [GPL-licensed] Program ... be licensed as a whole ... under the terms of [the GPL]", and that the distributor not "impose any further restrictions on the recipients' exercise of the rights granted". The EPL, however, requires that anyone distributing the work grant every recipient a license to any patents that they might hold that cover the modifications they have made. Because this is a "further restriction" on the recipients, distribution of such a combined work does not satisfy the GPL.
+The EPL, in addition, does not contain a patent retaliation clause.
+According to article 1(b) of the EPL, additions to the original work may be licensed independently, including under a proprietary license, provided such additions are "separate modules of software" and do not constitute a derivative work. Changes and additions which do constitute a derivative work must be licensed under the same terms and conditions of the EPL, which includes the requirement to make source code available.
+If a new version of the EPL is published the user/contributor can choose to distribute the software under the version with which he or she received it or upgrade to the new version.
+The EPL was based on the Common Public License (CPL), but there are some differences between the two licenses:
+The Eclipse Foundation replaces IBM as the Agreement Steward in the EPL
+The EPL patent clause is revised by deleting the sentence from section 7 of the CPL
+The Eclipse Foundation sought permission from contributors to re-licence their CPL code under the EPL.
+In addition to the Eclipse Foundation, the EPL is used in some other projects, especially (but not limited to) those running on the Java virtual machine.

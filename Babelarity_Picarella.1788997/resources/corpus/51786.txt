@@ -1,0 +1,12 @@
+Charles P. (Chuck) Thacker (born February 26, 1943) is an American pioneer computer designer. He worked on the Xerox Alto which is the first computer that used a mouse-driven Graphical User Interface.
+Thacker was born in Pasadena, California on February 26, 1943. He received his B.S. in physics from the University of California, Berkeley in 1967. He then joined the university's "Project Genie" in 1968, which developed the pioneering Berkeley Timesharing System on the SDS 940. Butler Lampson, Thacker, and others then left to form the Berkeley Computer Corporation, where Thacker designed the processor and memory system. While BCC was not commercially successful, this group became the core technologists in the Computer Systems Laboratory at Xerox Palo Alto Research Center (PARC).
+Thacker worked in the 1970s and 1980s at the PARC, where he served as project leader of the Xerox Alto personal computer system, was co-inventor of the Ethernet LAN, and contributed to many other projects, including the first laser printer.
+In 1983, Thacker was a founder of the Systems Research Center (SRC) of Digital Equipment Corporation (DEC), and in 1997, he joined Microsoft Research to help establish Microsoft Research Cambridge in Cambridge, England.
+After returning to the United States, Thacker designed the hardware for Microsoft's Tablet PC, based on his experience with the "interim Dynabook" at PARC, and later the Lectrice, a pen-based hand-held computer at DEC SRC.
+In 1994, he was inducted as a Fellow of the Association for Computing Machinery.
+In 1996, he was named a Distinguished Alumnus in Computer Science at U.C. Berkeley.
+In 2004, he won the Charles Stark Draper Prize together with Alan C. Kay, Butler W. Lampson, and Robert W. Taylor.
+In 2007, he won the IEEE John von Neumann Medal.
+In 2007, he was inducted as a Fellow of the Computer History Museum for "leading development of the Xerox PARC Alto, and for innovations in networked personal computer systems and laser printing technologies."
+In 2010, he was named by the Association for Computing Machinery as the recipient of the 2009 Turing Award in recognition of his pioneering design and realization of the Alto (computer), the first modern personal computer, and in addition for his contributions to the Ethernet and the tablet computer.
+Thacker holds an honorary doctorate from the Swiss Federal Institute of Technology and is a Technical Fellow at Microsoft.

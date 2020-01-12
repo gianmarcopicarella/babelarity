@@ -1,0 +1,53 @@
+Financial risk is an umbrella term for multiple types of risk associated with financing, including financial transactions that include company loans in risk of default. Risk is a term often used to imply downside risk, meaning the uncertainty of a return and the potential for financial loss.
+A science has evolved around managing market and financial risk under the general title of modern portfolio theory initiated by Dr. Harry Markowitz in 1952 with his article, "Portfolio Selection". In modern portfolio theory, the variance (or standard deviation) of a portfolio is used as the definition of risk.
+Risk that the changes in one or more assets that support an asset-backed security will significantly impact the value of the supported security. Risks include interest rate, term modification, and prepayment risk.
+Credit risk, also called default risk, is the risk associated with a borrower going into default (not making payments as promised). Investor losses include lost principal and interest, decreased cash flow, and increased collection costs. An investor can also assume credit risk through direct or indirect use of leverage. For example, an investor may purchase an investment using margin. Or an investment may directly or indirectly use or rely on repo, forward commitment, or derivative instruments.
+Risk of rapid and extreme changes in value due to: smaller markets; differing accounting, reporting, or auditing standards; nationalization, expropriation or confiscatory taxation; economic conflict; or political or diplomatic changes. Valuation, liquidity, and regulatory issues may also add to foreign investment risk.
+This is the risk that a given security or asset cannot be traded quickly enough in the market to prevent a loss (or make the required profit). There are two types of liquidity risk:
+Asset liquidity - An asset cannot be sold due to lack of liquidity in the market - essentially a sub-set of market risk. This can be accounted for by:
+Widening bid-offer spread
+Making explicit liquidity reserves
+Lengthening holding period for VaR calculations
+Funding liquidity - Risk that liabilities:
+Cannot be met when they fall due
+Can only be met at an uneconomic price
+Can be name-specific or systemic
+The four standard market risk factors are equity risk, interest rate risk, currency risk, and commodity risk:
+Equity risk is the risk that stock prices in general (not related to a particular company or industry) or the implied volatility will change.
+Interest rate risk is the risk that interest rates or the implied volatility will change.
+Currency risk is the risk that foreign exchange rates or the implied volatility will change, which affects, for example, the value of an asset held in that currency.
+Commodity risk is the risk that commodity prices (e.g. corn, copper, crude oil) or implied volatility will change.
+Reputational risk
+Legal risk
+IT risk
+Financial risk, market risk, and even inflation risk, can at least partially be moderated by forms of diversification.
+The returns from different assets are highly unlikely to be perfectly correlated and the correlation may sometimes be negative. For instance, an increase in the price of oil will often favour a company that produces it, but negatively impact the business of a firm such an airline whose variable costs are heavily based upon fuel. However, share prices are driven by many factors, such as the general health of the economy which will increase the correlation and reduce the benefit of diversification. If one constructs a portfolio by including a wide variety of equities, it will tend to exhibit the same risk and return characteristics as the market as a whole, which many investors see as an attractive prospect, so that index funds have been developed that invest in equities in proportion to the weighting they have in some well known index such as the FTSE.
+However, history shows that even over substantial periods of time there is a wide range of returns that an index fund may experience; so an index fund by itself is not "fully diversified". Greater diversification can be obtained by diversifying across asset classes; for instance a portfolio of many bonds and many equities can be constructed in order to further narrow the dispersion of possible portfolio outcomes.
+A key issue in diversification is the correlation between assets, the benefits increasing with lower correlation. However this is not an observable quantity, since the future return on any asset can never be known with complete certainty. This was a serious issue in the Late-2000s recession when assets that had previously had small or even negative correlations suddenly starting moving in the same direction causing severe financial stress to market participants who had believed that their diversification would protect them against any plausible market conditions, including funds that had been explicitly set up to avoid being affected in this way 
+Diversification has costs. Correlations must be identified and understood, and since they are not constant it may be necessary to rebalance the portfolio which incurs transaction costs due to buying and selling assets. There is also the risk that as an investor or fund manager diversifies their ability to monitor and understand the assets may decline leading to the possibility of losses due to poor decisions or unforeseen correlations.
+Hedging is a method for reducing risk where a combination of assets are selected to offset the movements of each other. For instance when investing in a stock it is possible to buy an option to sell that stock at a defined price at some point in the future. The combined portfolio of stock and option is now much less likely to move below a given value. As in diversification there is a cost, this time in buying the option for which there is a premium. Derivatives are used extensively to mitigate many types of risk.
+ACPM Active credit portfolio management
+EAD Exposure at default
+EL Expected loss
+LGD Loss given default
+PD Probability of default
+KMV quantitative credit analysis solution developed by credit rating agency Moody's
+VaR value at risk, a common methodology for measuring risk due to market movements
+Beta
+Capital asset pricing model
+Cost of capital
+Downside beta
+Downside risk
+Insurance
+Macro risk
+Modern portfolio theory
+Optimism bias
+Reinvestment risk
+Risk attitude
+Risk measure
+RiskLab
+Risk premium
+Systemic risk
+Upside beta
+Upside risk
+Value at risk

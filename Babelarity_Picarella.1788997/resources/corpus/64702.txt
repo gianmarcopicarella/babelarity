@@ -1,0 +1,357 @@
+In mathematics, a Cunningham chain is a certain sequence of prime numbers. Cunningham chains are named after mathematician A. J. C. Cunningham. They are also called chains of nearly doubled primes.
+A Cunningham chain of the first kind of length n is a sequence of prime numbers (p1, ..., pn) such that for all 1 ≤ i < n, pi+1 = 2pi + 1. (Hence each term of such a chain except the last one is a Sophie Germain prime, and each term except the first is a safe prime).
+It follows that
+                  p
+                    2
+                =
+                2
+                  p
+                    1
+                +
+                1
+                ,
+                  p
+                    3
+                =
+                4
+                  p
+                    1
+                +
+                3
+                ,
+                  p
+                    4
+                =
+                8
+                  p
+                    1
+                +
+                7
+                ,
+                ⋮
+                  p
+                    i
+                =
+                  2
+                    i
+                    −
+                    1
+                  p
+                    1
+                +
+                (
+                  2
+                    i
+                    −
+                    1
+                −
+                1
+                )
+                .
+    {\displaystyle {\begin{aligned}p_{2}&=2p_{1}+1,\\p_{3}&=4p_{1}+3,\\p_{4}&=8p_{1}+7,\\&{}\ \vdots \\p_{i}&=2^{i-1}p_{1}+(2^{i-1}-1).\end{aligned}}}
+Or, by setting 
+        a
+        =
+                p
+                  1
+              +
+              1
+            2
+    {\displaystyle a={\frac {p_{1}+1}{2}}}
+   (the number 
+        a
+    {\displaystyle a}
+   is not part of the sequence and need not be a prime number), we have 
+          p
+            i
+        =
+          2
+            i
+        a
+        −
+        1
+    {\displaystyle p_{i}=2^{i}a-1}
+Similarly, a Cunningham chain of the second kind of length n is a sequence of prime numbers (p1,...,pn) such that for all 1 ≤ i < n, pi+1 = 2pi − 1.
+It follows that the general term is
+          p
+            i
+        =
+          2
+            i
+            −
+            1
+          p
+            1
+        −
+        (
+          2
+            i
+            −
+            1
+        −
+        1
+        )
+    {\displaystyle p_{i}=2^{i-1}p_{1}-(2^{i-1}-1)\,}
+Now, by setting 
+        a
+        =
+                p
+                  1
+              −
+              1
+            2
+    {\displaystyle a={\frac {p_{1}-1}{2}}}
+  , we have 
+          p
+            i
+        =
+          2
+            i
+        a
+        +
+        1
+    {\displaystyle p_{i}=2^{i}a+1}
+  .
+Cunningham chains are also sometimes generalized to sequences of prime numbers (p1, ..., pn) such that for all 1 ≤ i ≤ n, pi+1 = api + b for fixed coprime integers a, b; the resulting chains are called generalized Cunningham chains.
+A Cunningham chain is called complete if it cannot be further extended, i.e., if the previous and the next terms in the chain are not prime numbers.
+Examples of complete Cunningham chains of the first kind include these:
+2, 5, 11, 23, 47 (The next number would be 95, but that is not prime.)
+3, 7 (The next number would be 15, but that is not prime.)
+29, 59 (The next number would be 119 = 7*17, but that is not prime.)
+41, 83, 167 (The next number would be 335, but that is not prime.)
+89, 179, 359, 719, 1439, 2879 (The next number would be 5759 = 13*443, but that is not prime.)
+Examples of complete Cunningham chains of the second kind include these:
+2, 3, 5 (The next number would be 9, but that is not prime.)
+7, 13 (The next number would be 25, but that is not prime.)
+19, 37, 73 (The next number would be 145, but that is not prime.)
+31, 61 (The next number would be 121 = 112, but that is not prime.)
+151, 301, 601, 1201 (The next number would be 2401 = 74, but that is not prime.)
+Cunningham chains are now considered useful in cryptographic systems since "they provide two concurrent suitable settings for the ElGamal cryptosystem ... [which] can be implemented in any field where the discrete logarithm problem is difficult."
+It follows from Dickson's conjecture and the broader Schinzel's hypothesis H, both widely believed to be true, that for every k there are infinitely many Cunningham chains of length k. There are, however, no known direct methods of generating such chains.
+There are computing competitions for the longest Cunningham chain or for the one built up of the largest primes, but unlike the breakthrough of Ben J. Green and Terence Tao - the Green–Tao theorem, that there are arithmetic progressions of primes of arbitrary length - there is no general result known on large Cunningham chains to date.
+q# denotes the primorial 2×3×5×7×...×q.
+As of 2015, the longest known Cunningham chain of either kind is of length 19, discovered by Jaroslaw Wroblewski in 2014.
+Let the odd prime 
+          p
+            1
+    {\displaystyle p_{1}}
+   be the first prime of a Cunningham chain of the first kind. The first prime is odd, thus 
+          p
+            1
+        ≡
+        1
+          (
+          mod
+          2
+          )
+    {\displaystyle p_{1}\equiv 1{\pmod {2}}}
+  . Since each successive prime in the chain is 
+          p
+            i
+            +
+            1
+        =
+        2
+          p
+            i
+        +
+        1
+    {\displaystyle p_{i+1}=2p_{i}+1}
+   it follows that 
+          p
+            i
+        ≡
+          2
+            i
+        −
+        1
+          (
+          mod
+            2
+              i
+          )
+    {\displaystyle p_{i}\equiv 2^{i}-1{\pmod {2^{i}}}}
+  . Thus, 
+          p
+            2
+        ≡
+        3
+          (
+          mod
+          4
+          )
+    {\displaystyle p_{2}\equiv 3{\pmod {4}}}
+  , 
+          p
+            3
+        ≡
+        7
+          (
+          mod
+          8
+          )
+    {\displaystyle p_{3}\equiv 7{\pmod {8}}}
+  , and so forth.
+The above property can be informally observed by considering the primes of a chain in base 2. (Note that, as with all bases, multiplying by the number of the base "shifts" the digits to the left.) When we consider 
+          p
+            i
+            +
+            1
+        =
+        2
+          p
+            i
+        +
+        1
+    {\displaystyle p_{i+1}=2p_{i}+1}
+   in base 2, we see that, by multiplying 
+          p
+            i
+    {\displaystyle p_{i}}
+   by 2, the least significant digit of 
+          p
+            i
+    {\displaystyle p_{i}}
+   becomes the secondmost least significant digit of 
+          p
+            i
+            +
+            1
+    {\displaystyle p_{i+1}}
+  . Because 
+          p
+            i
+    {\displaystyle p_{i}}
+   is odd—that is, the least significant digit is 1 in base 2--we know that the secondmost least significant digit of 
+          p
+            i
+            +
+            1
+    {\displaystyle p_{i+1}}
+   is also 1. And, finally, we can see that 
+          p
+            i
+            +
+            1
+    {\displaystyle p_{i+1}}
+   will be odd due to the addition of 1 to 
+        2
+          p
+            i
+    {\displaystyle 2p_{i}}
+  . In this way, successive primes in a Cunningham chain are essentially shifted left in binary with ones filling in the least significant digits. For example, here is a complete length 6 chain which starts at 141361469:
+A similar result holds for Cunningham chains of the second kind. From the observation that 
+          p
+            1
+        ≡
+        1
+          (
+          mod
+          2
+          )
+    {\displaystyle p_{1}\equiv 1{\pmod {2}}}
+   and the relation 
+          p
+            i
+            +
+            1
+        =
+        2
+          p
+            i
+        −
+        1
+    {\displaystyle p_{i+1}=2p_{i}-1}
+   it follows that 
+          p
+            i
+        ≡
+        1
+          (
+          mod
+            2
+              i
+          )
+    {\displaystyle p_{i}\equiv 1{\pmod {2^{i}}}}
+  . In binary notation, the primes in a Cunningham chain of the second kind end with a pattern "0...01", where, for each 
+        i
+    {\displaystyle i}
+  , the number of zeros in the pattern for 
+          p
+            i
+            +
+            1
+    {\displaystyle p_{i+1}}
+   is one more than the number of zeros for 
+          p
+            i
+    {\displaystyle p_{i}}
+  . As with Cunningham chains of the first kind, the bits left of the pattern shift left by one position with each successive prime.
+Similarly, because 
+          p
+            i
+        =
+          2
+            i
+            −
+            1
+          p
+            1
+        +
+        (
+          2
+            i
+            −
+            1
+        −
+        1
+        )
+    {\displaystyle p_{i}=2^{i-1}p_{1}+(2^{i-1}-1)\,}
+   it follows that 
+          p
+            i
+        ≡
+          2
+            i
+            −
+            1
+        −
+        1
+          (
+          mod
+            p
+              1
+          )
+    {\displaystyle p_{i}\equiv 2^{i-1}-1{\pmod {p_{1}}}}
+  . But, by Fermat's little theorem, 
+          2
+              p
+                1
+            −
+            1
+        ≡
+        1
+          (
+          mod
+            p
+              1
+          )
+    {\displaystyle 2^{p_{1}-1}\equiv 1{\pmod {p_{1}}}}
+  , so 
+          p
+            1
+    {\displaystyle p_{1}}
+   divides 
+          p
+              p
+                1
+    {\displaystyle p_{p_{1}}}
+   (i.e. with 
+        i
+        =
+          p
+            1
+    {\displaystyle i=p_{1}}
+  ). Thus, no Cunningham chain can be of infinite length.
+Primecoin, which uses Cunningham chains as a proof-of-work system
+Primes in arithmetic progression

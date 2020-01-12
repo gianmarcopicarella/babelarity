@@ -1,0 +1,100 @@
+In mathematics, the Menger sponge (also known as the Menger universal curve) is a fractal curve. It is a three-dimensional generalization of the Cantor set and Sierpinski carpet, though it is slightly different from a Sierpinski sponge. It was first described by Karl Menger in 1926, in his studies of the concept of topological dimension.
+The Menger sponge simultaneously exhibits an infinite surface area and zero volume.
+The construction of a Menger sponge can be described as follows:
+Begin with a cube (first image).
+Divide every face of the cube into 9 squares, like a Rubik's Cube. This will sub-divide the cube into 27 smaller cubes.
+Remove the smaller cube in the middle of each face, and remove the smaller cube in the very center of the larger cube, leaving 20 smaller cubes (second image). This is a level-1 Menger sponge (resembling a Void Cube).
+Repeat steps 2 and 3 for each of the remaining smaller cubes, and continue to iterate ad infinitum.
+The second iteration gives a level-2 sponge (third image), the third iteration gives a level-3 sponge (fourth image), and so on. The Menger sponge itself is the limit of this process after an infinite number of iterations.
+The following table lists the properties of sponges Mn where n is the number of iterations performed on the first cube of unit side length.
+Each face of the Menger sponge is a Sierpinski carpet; furthermore, any intersection of the Menger sponge with a diagonal or medium of the initial cube M0 is a Cantor set.
+The Menger sponge is a closed set; since it is also bounded, the Heine–Borel theorem implies that it is compact. It has Lebesgue measure 0. It is an uncountable set.
+The Lebesgue covering dimension of the Menger sponge is one, the same as any curve. Menger showed, in the 1926 construction, that the sponge is a universal curve, in that every curve is homeomorphic to a subset of the Menger sponge, where a curve means any compact metric space of Lebesgue covering dimension one; this includes trees and graphs with an arbitrary countable number of edges, vertices and closed loops, connected in arbitrary ways. In a similar way, the Sierpinski carpet is a universal curve for all curves that can be drawn on the two-dimensional plane. The Menger sponge constructed in three dimensions extends this idea to graphs that are not planar, and might be embedded in any number of dimensions.
+The Menger sponge has infinite surface area but zero volume.
+The sponge has a Hausdorff dimension of log 20/log 3 (approximately 2.726833).
+Formally, a Menger sponge can be defined as follows:
+        M
+        :=
+          ⋂
+            n
+            ∈
+              N
+          M
+            n
+    {\displaystyle M:=\bigcap _{n\in \mathbb {N} }M_{n}}
+where M0 is the unit cube and
+          M
+            n
+            +
+            1
+        :=
+          {
+                  (
+                  x
+                  ,
+                  y
+                  ,
+                  z
+                  )
+                  ∈
+                      R
+                      3
+                  :
+                          ∃
+                          i
+                          ,
+                          j
+                          ,
+                          k
+                          ∈
+                          {
+                          0
+                          ,
+                          1
+                          ,
+                          2
+                          }
+                          :
+                          (
+                          3
+                          x
+                          −
+                          i
+                          ,
+                          3
+                          y
+                          −
+                          j
+                          ,
+                          3
+                          z
+                          −
+                          k
+                          )
+                          ∈
+                            M
+                              n
+                            and at most one of 
+                          i
+                          ,
+                          j
+                          ,
+                          k
+                             is equal to 1
+          }
+        .
+    {\displaystyle M_{n+1}:=\left\{{\begin{matrix}(x,y,z)\in \mathbb {R} ^{3}:&{\begin{matrix}\exists i,j,k\in \{0,1,2\}:(3x-i,3y-j,3z-k)\in M_{n}\\{\mbox{and at most one of }}i,j,k{\mbox{ is equal to 1}}\end{matrix}}\end{matrix}}\right\}.}
+MegaMenger is a project aiming to build the largest fractal model, pioneered by Matt Parker of Queen Mary University of London and Laura Taalman of James Madison University. Each small cube is made from 6 interlocking folded business cards, giving a total of 960 000 for a level-four sponge. The outer surfaces are then covered with paper or cardboard panels printed with a Sierpinski carpet design to be more aesthetically pleasing. In 2014, twenty level-three Menger sponges were constructed, which combined would form a distributed level-four Menger sponge.
+A Jerusalem Cube is a cube-based fractal with a Greek cross recursively removed from each face.
+A Mosely snowflake is a cube-based fractal with corners recursively removed.
+A tetrix is a tetrahedron-based fractal made from four smaller copies, arranged in a tetrahedron.
+Apollonian gasket
+Cantor cube
+Jerusalem Cube
+Koch snowflake
+List of fractals by Hausdorff dimension
+Sierpiński tetrahedron
+Sierpiński triangle
+Sierpiński sponge
+Iwaniec, Tadeusz; Martin, Gaven (2001), Geometric function theory and non-linear analysis, Oxford Mathematical Monographs, The Clarendon Press Oxford University Press, ISBN 978-0-19-850929-5, MR 1859913 .
+Zhou, Li (2007), "Problem 11208: Chromatic numbers of the Menger sponges", American Mathematical Monthly 114 (9): 842 

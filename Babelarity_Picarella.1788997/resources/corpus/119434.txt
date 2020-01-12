@@ -1,0 +1,7 @@
+The spectroheliograph is an instrument used in astronomy which captures a photographic image of the Sun at a single wavelength of light, a monochromatic image. The wavelength is usually chosen to coincide with an spectral wavelength of one of the chemical elements present in the Sun.
+It was developed independently by George Ellery Hale and Henri-Alexandre Deslandres in the 1890s and further refined in 1932 by Robert R. McMath to take motion pictures.
+The instrument comprises a prism or diffraction grating and a narrow slit that passes a single wavelength (a monochromator). The light is focused onto a photographic medium and the slit is moved across the disk of the Sun to form a complete image.
+It is now possible to make a filter that transmits a narrow band of wavelengths which produces a similar image, but spectroheliographs remain in use.
+Spectrohelioscope
+Helioscope
+Heliometer

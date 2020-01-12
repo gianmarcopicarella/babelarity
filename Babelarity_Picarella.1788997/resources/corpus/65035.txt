@@ -1,0 +1,458 @@
+In mathematics, particularly in measure theory, measurable functions are structure-preserving functions between measurable spaces; as such, they form a natural context for the theory of integration. Specifically, a function between measurable spaces is said to be measurable if the preimage of each measurable set is measurable, analogous to the situation of continuous functions between topological spaces. A measurable function is said to be bimeasurable if it is bijective and its inverse is also measurable.
+In probability theory, the σ-algebra often represents the set of available information, and a function (in this context a random variable) is measurable if and only if it represents an outcome that is knowable based on the available information. In contrast, functions that are not Lebesgue measurable are generally considered pathological, at least in the field of analysis.
+Let 
+        (
+        X
+        ,
+        Σ
+        )
+    {\displaystyle (X,\Sigma )}
+   and 
+        (
+        Y
+        ,
+          T
+        )
+    {\displaystyle (Y,\mathrm {T} )}
+   be measurable spaces, meaning that 
+        X
+    {\displaystyle X}
+   and 
+        Y
+    {\displaystyle Y}
+   are sets equipped with respective 
+        σ
+    {\displaystyle \sigma }
+  -algebras 
+        Σ
+    {\displaystyle \Sigma }
+   and 
+          T
+    {\displaystyle \mathrm {T} }
+  . A function 
+        f
+        :
+        X
+        →
+        Y
+    {\displaystyle f:X\to Y}
+   is said to be measurable if the preimage of 
+        E
+    {\displaystyle E}
+   under 
+        f
+    {\displaystyle f}
+   is in 
+        Σ
+    {\displaystyle \Sigma }
+   for every 
+        E
+        ∈
+          T
+    {\displaystyle E\in \mathrm {T} }
+  ; i.e.
+          f
+            −
+            1
+        (
+        E
+        )
+        :=
+        {
+        x
+        ∈
+        X
+          |
+        f
+        (
+        x
+        )
+        ∈
+        E
+        }
+        ∈
+        Σ
+        ,
+        ∀
+        E
+        ∈
+          T
+        .
+    {\displaystyle f^{-1}(E):=\{x\in X|\;f(x)\in E\}\in \Sigma ,\;\;\forall E\in \mathrm {T} .}
+The notion of measurability depends on the sigma algebras 
+        Σ
+    {\displaystyle \Sigma }
+   and 
+          T
+    {\displaystyle \mathrm {T} }
+  . To emphasize this dependency, if 
+        f
+        :
+        X
+        →
+        Y
+    {\displaystyle f:X\to Y}
+   is a measurable function, we will write
+        f
+        :
+        (
+        X
+        ,
+        Σ
+        )
+        →
+        (
+        Y
+        ,
+          T
+        )
+        .
+    {\displaystyle f\colon (X,\Sigma )\rightarrow (Y,\mathrm {T} ).}
+This definition can be deceptively simple, however, as special care must be taken regarding the 
+        σ
+    {\displaystyle \sigma }
+  -algebras involved. In particular, when a function 
+        f
+        :
+          R
+        →
+          R
+    {\displaystyle f:\mathbb {R} \to \mathbb {R} }
+   is said to be Lebesgue measurable, what is actually meant is that 
+        f
+        :
+        (
+          R
+        ,
+            L
+        )
+        →
+        (
+          R
+        ,
+            B
+        )
+    {\displaystyle f:(\mathbb {R} ,{\mathcal {L}})\to (\mathbb {R} ,{\mathcal {B}})}
+   is a measurable function—that is, the domain and range represent different 
+        σ
+    {\displaystyle \sigma }
+  -algebras on the same underlying set. Here, 
+            L
+    {\displaystyle {\mathcal {L}}}
+   is the 
+        σ
+    {\displaystyle \sigma }
+  -algebra of Lebesgue measurable sets, and 
+            B
+    {\displaystyle {\mathcal {B}}}
+   is the Borel algebra on 
+          R
+    {\displaystyle \mathbb {R} }
+  , the smallest 
+        σ
+    {\displaystyle \sigma }
+  -algebra containing all the open sets. As a result, the composition of Lebesgue-measurable functions need not be Lebesgue-measurable.
+By convention a topological space is assumed to be equipped with the Borel algebra unless otherwise specified. Most commonly this space will be the real or complex numbers. For instance, a real-valued measurable function is a function for which the preimage of each Borel set is measurable. A complex-valued measurable function is defined analogously. In practice, some authors use measurable functions to refer only to real-valued measurable functions with respect to the Borel algebra. If the values of the function lie in an infinite-dimensional vector space instead of 
+          R
+    {\displaystyle \mathbb {R} }
+   or 
+          C
+    {\displaystyle \mathbb {C} }
+  , usually other definitions of measurability are used, such as weak measurability and Bochner measurability.
+If 
+        (
+        X
+        ,
+        Σ
+        )
+    {\displaystyle (X,\Sigma )}
+   and 
+        (
+        Y
+        ,
+        T
+        )
+    {\displaystyle (Y,T)}
+   are Borel spaces, a measurable function 
+        f
+        :
+        (
+        X
+        ,
+        Σ
+        )
+        →
+        (
+        Y
+        ,
+        T
+        )
+    {\displaystyle f:(X,\Sigma )\to (Y,T)}
+   is also called a Borel function. Continuous functions are Borel functions but not all Borel functions are continuous. However, a measurable function is nearly a continuous function; see Luzin's theorem. If a Borel function happens to be a section of some map 
+        Y
+            →
+              π
+        X
+    {\displaystyle Y{\xrightarrow {\quad \pi \quad }}X}
+  , it is called a Borel section.
+A Lebesgue measurable function is a measurable function 
+        f
+        :
+        (
+          R
+        ,
+            L
+        )
+        →
+        (
+          C
+        ,
+              B
+              C
+        )
+    {\displaystyle f:(\mathbb {R} ,{\mathcal {L}})\to (\mathbb {C} ,{\mathcal {B}}_{\mathbb {C} })}
+  , where 
+            L
+    {\displaystyle {\mathcal {L}}}
+   is the 
+        σ
+    {\displaystyle \sigma }
+  -algebra of Lebesgue measurable sets, and 
+              B
+              C
+    {\displaystyle {\mathcal {B}}_{\mathbb {C} }}
+   is the Borel algebra on the complex numbers 
+          C
+    {\displaystyle \mathbb {C} }
+  . Lebesgue measurable functions are of interest in mathematical analysis because they can be integrated. In the case 
+        f
+        :
+        X
+        →
+          R
+    {\displaystyle f:X\to \mathbb {R} }
+  , 
+        f
+    {\displaystyle f}
+   is Lebesgue measurable iff 
+        {
+        f
+        >
+        α
+        }
+        =
+        {
+        x
+        ∈
+        X
+        :
+        f
+        (
+        x
+        )
+        >
+        α
+        }
+    {\displaystyle \{f>\alpha \}=\{x\in X:f(x)>\alpha \}}
+   is measurable for all 
+        α
+        ∈
+          R
+    {\displaystyle \alpha \in \mathbb {R} }
+  . This is also equivalent to any of 
+        {
+        f
+        ≥
+        α
+        }
+        ,
+        {
+        f
+        <
+        α
+        }
+        ,
+        {
+        f
+        ≤
+        α
+        }
+    {\displaystyle \{f\geq \alpha \},\{f<\alpha \},\{f\leq \alpha \}}
+   being measurable for all 
+        α
+    {\displaystyle \alpha }
+  . Continuous functions, monotone functions, step functions, semicontinuous functions, Riemann-integrable functions, and functions of bounded variation are all Lebesgue measurable. A function 
+        f
+        :
+        X
+        →
+          C
+    {\displaystyle f:X\to \mathbb {C} }
+   is measurable iff the real and imaginary parts are measurable.
+Random variables are by definition measurable functions defined on sample spaces.
+The sum and product of two complex-valued measurable functions are measurable. So is the quotient, so long as there is no division by zero.
+The composition of measurable functions is measurable; i.e., if 
+        f
+        :
+        (
+        X
+        ,
+          Σ
+            1
+        )
+        →
+        (
+        Y
+        ,
+          Σ
+            2
+        )
+    {\displaystyle f:(X,\Sigma _{1})\to (Y,\Sigma _{2})}
+   and 
+        g
+        :
+        (
+        Y
+        ,
+          Σ
+            2
+        )
+        →
+        (
+        Z
+        ,
+          Σ
+            3
+        )
+    {\displaystyle g:(Y,\Sigma _{2})\to (Z,\Sigma _{3})}
+   are measurable functions, then so is 
+        g
+        ∘
+        f
+        :
+        (
+        X
+        ,
+          Σ
+            1
+        )
+        →
+        (
+        Z
+        ,
+          Σ
+            3
+        )
+    {\displaystyle g\circ f:(X,\Sigma _{1})\to (Z,\Sigma _{3})}
+  . But see the caveat regarding Lebesgue-measurable functions in the introduction.
+The (pointwise) supremum, infimum, limit superior, and limit inferior of a sequence (viz., countably many) of real-valued measurable functions are all measurable as well.
+The pointwise limit of a sequence of measurable functions 
+          f
+            n
+        :
+        X
+        →
+        Y
+    {\displaystyle f_{n}:X\to Y}
+   is measurable, where Y is a metric space (endowed with the Borel algebra). This is not true in general if Y is non-metrizable. Note that the corresponding statement for continuous functions requires stronger conditions than pointwise convergence, such as uniform convergence.
+Real-valued functions encountered in applications tend to be measurable; however, it is not difficult to find non-measurable functions.
+So long as there are non-measurable sets in a measure space, there are non-measurable functions from that space. If 
+        (
+        X
+        ,
+        Σ
+        )
+    {\displaystyle (X,\Sigma )}
+   is some measurable space and 
+        A
+        ⊂
+        X
+    {\displaystyle A\subset X}
+   is a non-measurable set, i.e. if 
+        A
+        ∉
+        Σ
+    {\displaystyle A\notin \Sigma }
+  , then the indicator function 
+            1
+            A
+        :
+        (
+        X
+        ,
+        Σ
+        )
+        →
+          R
+    {\displaystyle \mathbf {1} _{A}:(X,\Sigma )\to \mathbb {R} }
+   is non-measurable (where 
+          R
+    {\displaystyle \mathbb {R} }
+   is equipped with the Borel algebra as usual), since the preimage of the measurable set 
+        {
+        1
+        }
+    {\displaystyle \{1\}}
+   is the non-measurable set 
+        A
+    {\displaystyle A}
+  . Here 
+            1
+            A
+    {\displaystyle \mathbf {1} _{A}}
+   is given by
+            1
+            A
+        (
+        x
+        )
+        =
+            {
+                  1
+                     if 
+                  x
+                  ∈
+                  A
+                  ;
+                  0
+                     otherwise
+                  .
+    {\displaystyle \mathbf {1} _{A}(x)={\begin{cases}1&{\text{ if }}x\in A;\\0&{\text{ otherwise}}.\end{cases}}}
+Any non-constant function can be made non-measurable by equipping the domain and range with appropriate 
+        σ
+    {\displaystyle \sigma }
+  -algebras. If 
+        f
+        :
+        X
+        →
+          R
+    {\displaystyle f:X\to \mathbb {R} }
+   is an arbitrary non-constant, real-valued function, then 
+        f
+    {\displaystyle f}
+   is non-measurable if 
+        X
+    {\displaystyle X}
+   is equipped with the indiscrete algebra 
+        Σ
+        =
+        {
+        ∅
+        ,
+        X
+        }
+    {\displaystyle \Sigma =\{\emptyset ,X\}}
+  , since the preimage of any point in the range is some proper, nonempty subset of 
+        X
+    {\displaystyle X}
+  , and therefore does not lie in 
+        Σ
+    {\displaystyle \Sigma }
+  .
+Vector spaces of measurable functions: the 
+          L
+            p
+    {\displaystyle L^{p}}
+   spaces
+Measure-preserving dynamical system

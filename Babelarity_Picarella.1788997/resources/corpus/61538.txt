@@ -1,0 +1,17 @@
+A crystal dendrite is a crystal that develops with a typical multi-branching tree-like form. Dendritic crystal growth is very common and illustrated by snowflake formation and frost patterns on a window. Dendritic crystallization forms a natural fractal pattern. Dendritic crystals can grow into a supercooled pure liquid or form from growth instabilities that occur when the growth rate is limited by the rate of diffusion of solute atoms to the interface. In the latter case, there must be a concentration gradient from the supersaturated value in the solution to the concentration in equilibrium with the crystal at the surface. Any protuberance that develops is accompanied by a steeper concentration gradients at its tip. This increases the diffusion rate to the tip. In opposition to this is the action of the surface tension tending to flatten the protuberance and setting up a flux of solute atoms from the protuberance out to the sides. However, overall, the protuberance becomes amplified. This process occurs again and again until a dendrite is produced.
+The term "dendrite" comes from the Greek word dendron, which means "tree".
+In paleontology, dendritic mineral crystal forms are often mistaken for fossils. These pseudofossils form as naturally occurring fissures in the rock are filled by percolating mineral solutions. They form when water rich in manganese and iron flows along fractures and bedding planes between layers of limestone and other rock types, depositing dendritic crystals as the solution flows through. A variety of manganese oxides and hydroxides are involved, including:
+birnessite (Na4Mn14O27·9H2O)
+coronadite (PbMn8O16)
+cryptomelane (KMn8O16)
+hollandite (BaMn8O16)
+romanechite ((Ba,H2O)Mn5O10)
+todorokite ((Ba,Mn,Mg,Ca,K,Na)2Mn3O12·3H2O) and others.
+A three-dimensional form of dendrite develops in fissures in quartz, forming moss agate.
+In chemistry, a dendrite is a crystal that branches into two parts during growth.
+The Isothermal Dendritic Growth Experiment (IDGE) is a materials science solidification experiment that researchers use on Space Shuttle missions to investigate dendritic growth in an environment where the effect of gravity (convection in the liquid) can be excluded. Dendritic solidification is one of the most common forms of solidifying metals and alloys. When materials crystallize or solidify under certain conditions, they freeze unstably, resulting in dendritic forms. Scientists are particularly interested in dendrite size, shape, and how the branches of the dendrites interact with each other. These characteristics largely determine the properties of the material.
+Monocrystalline whisker
+Whisker (metallurgy)
+Brownian tree
+Patterns in nature
+STS-87 - Space Shuttle mission

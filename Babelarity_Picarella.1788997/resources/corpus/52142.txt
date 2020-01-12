@@ -1,0 +1,14 @@
+Codex Mosquensis I designated by Kap or 018 (in the Gregory-Aland numbering), Απρ1 (Soden), is a Greek uncial manuscript of New Testament, palaeographically it has been assigned to the 9th century. The manuscript is lacunose.
+The manuscript contains an almost complete text of the Catholic and Pauline epistles, with the exception of two lacunae (Romans 10:18—1 Corinthians 6:13; 1 Corinthians 8:8-11). Formerly it also contained the Acts of the Apostles, which book has been lost.
+The text is written on 288 parchment leaves (33.8 cm by 24.2 cm), in 2 columns per page, 27 lines per page, in uncial script, but separated into paragraphs by comments, written in minuscule script. There are some scholia at the foot of the pages attributed to John Chrysostom. It contains breathings and accents.
+The Greek text of this codex is a representative of the Byzantine text-type. Kurt Aland placed it in Category V. Textually it is close to Uncial 0151.
+In Romans 1:8 it has variant περι, along with the codices א A B C D* 33 81 1506 1739 1881, against υπερ — Dc G Ψ Byz.
+In Romans 8:1 it reads Ιησου κατα σαρκα περιπατουσιν αλλα κατα πνευμα, for Ιησου. The reading of the manuscript is supported by אc, Dc, P, 33, 88, 104, 181, 326, 330, (436 omit μη), 456, 614, 630, 1241, 1877, 1962, 1984, 1985, 2492, 2495, Byz, Lect.
+In 1 Timothy 3:16 it has textual variant θεός ἐφανερώθη (God manifested) (Sinaiticuse, A2, C2, Dc, K, L, P, Ψ, 81, 104, 181, 326, 330, 436, 451, 614, 629, 630, 1241, 1739, 1877, 1881, 1962, 1984, 1985, 2492, 2495, Byz, Lect), against ὃς ἐφανερώθη (he was manifested) supported by Sinaiticus, Codex Alexandrinus, Ephraemi, Boernerianus, 33, 365, 442, 2127, ℓ 599.
+The manuscript is dated by the INTF to the 9th-century.
+The manuscript came from the Dionysiou monastery at Athos to Moscow in 1655.
+It was examined by Scholz and collated by Matthaei. Cited in all editions since Tischendorf's edition.
+The codex came from Athos to Moscow, where is located now in the State Historical Museum (V. 93).
+List of New Testament uncials
+Biblical manuscripts
+Textual criticism

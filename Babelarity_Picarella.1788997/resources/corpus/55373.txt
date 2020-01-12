@@ -1,0 +1,27 @@
+Architectural acoustics (also known as room acoustics and building acoustics) is the science and engineering of achieving a good sound within a building and is a branch of acoustical engineering. The first application of modern scientific methods to architectural acoustics was carried out by Wallace Sabine in the Fogg Museum lecture room who then applied his new found knowledge to the design of Symphony Hall, Boston.
+Architectural acoustics can be about achieving good speech intelligibility in a theatre, restaurant or railway station, enhancing the quality of music in a concert hall or recording studio, or suppressing noise to make offices and homes more productive and pleasant places to work and live in. Architectural acoustic design is usually done by acoustic consultants.
+This science analyzes noise transmission from building exterior envelope to interior and vice versa. The main noise paths are roofs, eaves, walls, windows, door and penetrations. Sufficient control ensures space functionality and is often required based on building use and local municipal codes. An example would be providing a suitable design for a home which is to be constructed close to a high volume roadway, or under the flight path of a major airport, or of the airport itself.
+The science of limiting and/or controlling noise transmission from one building space to another to ensure space functionality and speech privacy. The typical sound paths are ceilings, room partitions, acoustic ceiling panels (such as wood dropped ceiling panels), doors, windows, flanking, ducting and other penetrations. Technical solutions depend on the source of the noise and the path of acoustic transmission, for example noise by steps or noise by (air, water) flow vibrations. An example would be providing suitable party wall design in an apartment complex to minimize the mutual disturbance due to noise by residents in adjacent apartments.
+This is the science of controlling a room's surfaces based on sound absorbing and reflecting properties. Excessive reverberation time, which can be calculated, can lead to poor speech intelligibility.
+Sound reflections create standing waves that produce natural resonances that can be heard as a pleasant sensation or an annoying one. Reflective surfaces can be angled and coordinated to provide good coverage of sound for a listener in a concert hall or music recital space. To illustrate this concept consider the difference between a modern large office meeting room or lecture theater and a traditional classroom with all hard surfaces.
+Interior building surfaces can be constructed of many different materials and finishes. Ideal acoustical panels are those without a face or finish material that interferes with the acoustical infill or substrate. Fabric covered panels are one way to heighten acoustical absorption. Perforated metal shows also sound absorbing qualities. Finish material is used to cover over the acoustical substrate. Mineral fiber board, or Micore, is a commonly used acoustical substrate. Finish materials often consist of fabric, wood or acoustical tile. Fabric can be wrapped around substrates to create what is referred to as a "pre-fabricated panel" and often provides good noise absorption if laid onto a wall.
+Prefabricated panels are limited to the size of the substrate ranging from 2 by 4 feet (0.61 m × 1.22 m) to 4 by 10 feet (1.2 m × 3.0 m). Fabric retained in a wall-mounted perimeter track system, is referred to as "on-site acoustical wall panels". This is constructed by framing the perimeter track into shape, infilling the acoustical substrate and then stretching and tucking the fabric into the perimeter frame system. On-site wall panels can be constructed to accommodate door frames, baseboard, or any other intrusion. Large panels (generally, greater than 50 square feet (4.6 m2)) can be created on walls and ceilings with this method. Wood finishes can consist of punched or routed slots and provide a natural look to the interior space, although acoustical absorption may not be great.
+There are three ways to improve workplace acoustics and solve workplace sound problems – the ABCs.
+A = Absorb (via drapes, carpets, ceiling tiles, etc.)
+B = Block (via panels, walls, floors, ceilings and layout)
+C = Cover-up (via sound masking)
+Building services noise control is the science of controlling noise produced by:
+ACMV (air conditioning and mechanical ventilation) systems in buildings, termed HVAC in North America
+Elevators
+Electrical generators positioned within or attached to a building
+Any other building service infrastructure component that emits sound.
+Inadequate control may lead to elevated sound levels within the space which can be annoying and reduce speech intelligibility. Typical improvements are vibration isolation of mechanical equipment, and sound traps in ductwork. Sound masking can also be created by adjusting HVAC noise to a predetermined level.
+Acoustic transmission
+Noise health effects
+Noise mitigation
+Noise Reduction Coefficient
+Noise regulation
+Noise, vibration, and harshness
+Room acoustics
+Sound transmission class
+Wallace Clement Sabine

@@ -1,0 +1,1312 @@
+In linear algebra, the trace of an n-by-n square matrix A is defined to be the sum of the elements on the main diagonal (the diagonal from the upper left to the lower right) of A, i.e.,
+        tr
+        ⁡
+        (
+        A
+        )
+        =
+          a
+            11
+        +
+          a
+            22
+        +
+        ⋯
+        +
+          a
+            n
+            n
+        =
+          ∑
+            i
+            =
+            1
+            n
+          a
+            i
+            i
+    {\displaystyle \operatorname {tr} (A)=a_{11}+a_{22}+\dots +a_{nn}=\sum _{i=1}^{n}a_{ii}}
+where ann denotes the entry on the n-th row and n-th column of A. The trace of a matrix is the sum of the (complex) eigenvalues, and it is invariant with respect to a change of basis. This characterization can be used to define the trace of a linear operator in general. Note that the trace is only defined for a square matrix (i.e., n × n).
+The trace (often abbreviated to "tr") is related to the derivative of the determinant (see Jacobi's formula).
+Let A be a matrix, with
+        A
+        =
+            (
+                  a
+                  b
+                  c
+                  d
+                  e
+                  f
+                  g
+                  h
+                  i
+            )
+    {\displaystyle A={\begin{pmatrix}a&b&c\\d&e&f\\g&h&i\end{pmatrix}}}
+  .
+Then
+        tr
+        ⁡
+        (
+        A
+        )
+        =
+        a
+        +
+        e
+        +
+        i
+    {\displaystyle \operatorname {tr} (A)=a+e+i}
+  .
+The trace is a linear mapping. That is,
+        tr
+        ⁡
+        (
+        A
+        +
+        B
+        )
+        =
+        tr
+        ⁡
+        (
+        A
+        )
+        +
+        tr
+        ⁡
+        (
+        B
+        )
+    {\displaystyle \operatorname {tr} (A+B)=\operatorname {tr} (A)+\operatorname {tr} (B)}
+  ,
+        tr
+        ⁡
+        (
+        c
+        A
+        )
+        =
+        c
+        tr
+        ⁡
+        (
+        A
+        )
+    {\displaystyle \operatorname {tr} (cA)=c\operatorname {tr} (A)}
+  .
+for all square matrices A and B, and all scalars c.
+A matrix and its transpose have the same trace:
+        tr
+        ⁡
+        (
+        A
+        )
+        =
+        tr
+        ⁡
+        (
+          A
+              T
+        )
+    {\displaystyle \operatorname {tr} (A)=\operatorname {tr} (A^{\mathrm {T} })}
+  .
+This follows immediately from the fact that transposing a square matrix does not affect elements along the main diagonal.
+The trace of a product can be rewritten as the sum of entry-wise products of elements:
+        tr
+        ⁡
+        (
+          X
+              T
+        Y
+        )
+        =
+        tr
+        ⁡
+        (
+        X
+          Y
+              T
+        )
+        =
+        tr
+        ⁡
+        (
+          Y
+              T
+        X
+        )
+        =
+        tr
+        ⁡
+        (
+        Y
+          X
+              T
+        )
+        =
+          ∑
+            i
+            ,
+            j
+          X
+            i
+            j
+          Y
+            i
+            j
+    {\displaystyle \operatorname {tr} (X^{\mathrm {T} }Y)=\operatorname {tr} (XY^{\mathrm {T} })=\operatorname {tr} (Y^{\mathrm {T} }X)=\operatorname {tr} (YX^{\mathrm {T} })=\sum _{i,j}X_{ij}Y_{ij}}
+  .
+This means that the trace of a product of matrices functions similarly to a dot product of vectors. For this reason, generalizations of vector operations to matrices (e.g. in matrix calculus and statistics) often involve a trace of matrix products.
+The trace of a product can also be written in the following forms:
+The matrices in a trace of a product can be switched: If A is an m×n matrix and B is an n×m matrix, then
+        tr
+        ⁡
+        (
+        A
+        B
+        )
+        =
+        tr
+        ⁡
+        (
+        B
+        A
+        )
+    {\displaystyle \operatorname {tr} (AB)=\operatorname {tr} (BA)}
+  .
+Equivalently, the trace is invariant under cyclic permutations, i.e.,
+        tr
+        ⁡
+        (
+        A
+        B
+        C
+        D
+        )
+        =
+        tr
+        ⁡
+        (
+        B
+        C
+        D
+        A
+        )
+        =
+        tr
+        ⁡
+        (
+        C
+        D
+        A
+        B
+        )
+        =
+        tr
+        ⁡
+        (
+        D
+        A
+        B
+        C
+        )
+    {\displaystyle \operatorname {tr} (ABCD)=\operatorname {tr} (BCDA)=\operatorname {tr} (CDAB)=\operatorname {tr} (DABC)}
+  .
+This is known as the cyclic property.
+Note that arbitrary permutations are not allowed: in general,
+        tr
+        ⁡
+        (
+        A
+        B
+        C
+        )
+        ≠
+        tr
+        ⁡
+        (
+        A
+        C
+        B
+        )
+    {\displaystyle \operatorname {tr} (ABC)\neq \operatorname {tr} (ACB)}
+  .
+However, if products of three symmetric matrices are considered, any permutation is allowed. (Proof: tr(ABC) = tr(AT BT CT) = tr(AT(CB)T) = tr((CB)TAT) = tr((ACB)T) = tr(ACB), where the last equality is because the traces of a matrix and its transpose are equal.) For more than three factors this is not true.
+Unlike the determinant, the trace of the product is not the product of traces. What is true is that the trace of the tensor product of two matrices is the product of their traces:
+        tr
+        ⁡
+        (
+        X
+        ⊗
+        Y
+        )
+        =
+        tr
+        ⁡
+        (
+        X
+        )
+        tr
+        ⁡
+        (
+        Y
+        )
+    {\displaystyle \operatorname {tr} (X\otimes Y)=\operatorname {tr} (X)\operatorname {tr} (Y)}
+  .
+The following three properties:
+        tr
+        ⁡
+        (
+        A
+        +
+        B
+        )
+        =
+        tr
+        ⁡
+        (
+        A
+        )
+        +
+        tr
+        ⁡
+        (
+        B
+        )
+    {\displaystyle \operatorname {tr} (A+B)=\operatorname {tr} (A)+\operatorname {tr} (B)}
+  ,
+        tr
+        ⁡
+        (
+        c
+        A
+        )
+        =
+        c
+        ⋅
+        tr
+        ⁡
+        (
+        A
+        )
+    {\displaystyle \operatorname {tr} (cA)=c\cdot \operatorname {tr} (A)}
+  ,
+        tr
+        ⁡
+        (
+        A
+        B
+        )
+        =
+        tr
+        ⁡
+        (
+        B
+        A
+        )
+    {\displaystyle \operatorname {tr} (AB)=\operatorname {tr} (BA)}
+  ,
+characterize the trace completely in the sense that follows. Let f be a linear functional on the space of square matrices satisfying f(x y) = f(y x). Then f and tr are proportional.
+The trace is similarity-invariant, which means that A and P−1AP have the same trace. This is because
+        tr
+        ⁡
+        (
+          P
+            −
+            1
+        A
+        P
+        )
+        =
+        tr
+        ⁡
+        (
+          P
+            −
+            1
+        (
+        A
+        P
+        )
+        )
+        =
+        tr
+        ⁡
+        (
+        (
+        A
+        P
+        )
+          P
+            −
+            1
+        )
+        =
+        tr
+        ⁡
+        (
+        A
+        (
+        P
+          P
+            −
+            1
+        )
+        )
+        =
+        tr
+        ⁡
+        (
+        A
+        )
+    {\displaystyle \operatorname {tr} (P^{-1}AP)=\operatorname {tr} (P^{-1}(AP))=\operatorname {tr} ((AP)P^{-1})=\operatorname {tr} (A(PP^{-1}))=\operatorname {tr} (A)}
+  .
+If A is symmetric and B is antisymmetric, then
+        tr
+        ⁡
+        (
+        A
+        B
+        )
+        =
+        0
+    {\displaystyle \operatorname {tr} (AB)=0}
+  .
+The trace of the identity matrix is the dimension of the space; this leads to generalizations of dimension using trace. The trace of an idempotent matrix A (for which A2 = A) is the rank of A. The trace of a nilpotent matrix is zero.
+More generally, if f(x) = (x − λ1)d1···(x − λk)dk is the characteristic polynomial of a matrix A, then
+        tr
+        ⁡
+        (
+        A
+        )
+        =
+          d
+            1
+          λ
+            1
+        +
+        ⋯
+        +
+          d
+            k
+          λ
+            k
+    {\displaystyle \operatorname {tr} (A)=d_{1}\lambda _{1}+\cdots +d_{k}\lambda _{k}}
+  .
+When both A and B are n-by-n, the trace of the (ring-theoretic) commutator of A and B vanishes: tr([A, B]) = 0; one can state this as "the trace is a map of Lie algebras 
+        g
+          l
+            n
+        →
+        k
+    {\displaystyle gl_{n}\to k}
+   from operators to scalars", as the commutator of scalars is trivial (it is an abelian Lie algebra). In particular, using similarity invariance, it follows that the identity matrix is never similar to the commutator of any pair of matrices.
+Conversely, any square matrix with zero trace is a linear combinations of the commutators of pairs of matrices. Moreover, any square matrix with zero trace is unitarily equivalent to a square matrix with diagonal consisting of all zeros.
+The trace of any power of a nilpotent matrix is zero. When the characteristic of the base field is zero, the converse also holds: if 
+        tr
+        ⁡
+        (
+          x
+            k
+        )
+        =
+        0
+    {\displaystyle \operatorname {tr} (x^{k})=0}
+   for all 
+        k
+    {\displaystyle k}
+  , then 
+        x
+    {\displaystyle x}
+   is nilpotent.
+The trace of a Hermitian matrix is real, because the elements on the diagonal are real.
+The trace of a projection matrix is the dimension of the target space. If
+          P
+            X
+        =
+        X
+            (
+              X
+                  T
+            X
+            )
+            −
+            1
+          X
+              T
+    {\displaystyle P_{X}=X\left(X^{\mathrm {T} }X\right)^{-1}X^{\mathrm {T} }}
+  ,
+then
+        tr
+        ⁡
+          (
+            P
+              X
+          )
+        =
+        rank
+        ⁡
+          (
+          X
+          )
+    {\displaystyle \operatorname {tr} \left(P_{X}\right)=\operatorname {rank} \left(X\right)}
+  .
+Expressions like tr(exp(A)), where A is a square matrix, occur so often in some fields (e.g. multivariate statistical theory), that a shorthand notation has become common:
+        tre
+        ⁡
+        (
+        A
+        )
+        :=
+        tr
+        ⁡
+        (
+        exp
+        ⁡
+        (
+        A
+        )
+        )
+    {\displaystyle \operatorname {tre} (A):=\operatorname {tr} (\exp(A))}
+  .
+This is sometimes referred to as the exponential trace function; it is used in the Golden–Thompson inequality.
+Given some linear map f : V → V (V is a finite-dimensional vector space) generally, we can define the trace of this map by considering the trace of matrix representation of f, that is, choosing a basis for V and describing f as a matrix relative to this basis, and taking the trace of this square matrix. The result will not depend on the basis chosen, since different bases will give rise to similar matrices, allowing for the possibility of a basis-independent definition for the trace of a linear map.
+Such a definition can be given using the canonical isomorphism between the space End(V) of linear maps on V and V ⊗ V*, where V* is the dual space of V. Let v be in V and let f be in V*. Then the trace of the indecomposable element v ⊗ f is defined to be f(v); the trace of a general element is defined by linearity. Using an explicit basis for V and the corresponding dual basis for V*, one can show that this gives the same definition of the trace as given above.
+If A is a square n-by-n matrix with real or complex entries and if λ1,...,λn are the eigenvalues of A (listed according to their algebraic multiplicities), then
+        tr
+        ⁡
+        (
+        A
+        )
+        =
+          ∑
+            i
+          λ
+            i
+    {\displaystyle \operatorname {tr} (A)=\sum _{i}\lambda _{i}}
+  .
+This follows from the fact that A is always similar to its Jordan form, an upper triangular matrix having λ1,...,λn on the main diagonal. In contrast, the determinant of 
+        A
+    {\displaystyle A}
+   is the product of its eigenvalues; i.e.,
+        det
+        ⁡
+        (
+        A
+        )
+        =
+          ∏
+            i
+          λ
+            i
+    {\displaystyle \operatorname {det} (A)=\prod _{i}\lambda _{i}}
+  .
+More generally,
+        tr
+        ⁡
+        (
+          A
+            k
+        )
+        =
+          ∑
+            i
+          λ
+            i
+            k
+    {\displaystyle \operatorname {tr} (A^{k})=\sum _{i}\lambda _{i}^{k}}
+  .
+The trace corresponds to the derivative of the determinant: it is the Lie algebra analog of the (Lie group) map of the determinant. This is made precise in Jacobi's formula for the derivative of the determinant.
+As a particular case, at the identity, the derivative of the determinant actually amounts to the trace: 
+        tr
+        =
+          det
+            I
+          ′
+    {\displaystyle \operatorname {tr} =\operatorname {det} '_{I}}
+  . From this (or from the connection between the trace and the eigenvalues), one can derive a connection between the trace function, the exponential map between a Lie algebra and its Lie group (or concretely, the matrix exponential function), and the determinant:
+        det
+        (
+        exp
+        ⁡
+        (
+        A
+        )
+        )
+        =
+        exp
+        ⁡
+        (
+        tr
+        ⁡
+        (
+        A
+        )
+        )
+    {\displaystyle \det(\exp(A))=\exp(\operatorname {tr} (A))}
+  .
+For example, consider the one-parameter family of linear transformations given by rotation through angle θ,
+          R
+            θ
+        =
+          (
+                  cos
+                  ⁡
+                  θ
+                  −
+                  sin
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                  cos
+                  ⁡
+                  θ
+          )
+    {\displaystyle R_{\theta }=\left({\begin{array}{cc}\cos \theta &-\sin \theta \\\sin \theta &\cos \theta \end{array}}\right)}
+  .
+These transformations all have determinant 1, so they preserve area. The derivative of this family at θ = 0, the identity rotation, is the antisymmetric matrix
+        A
+        =
+          (
+                  0
+                  −
+                  1
+                  1
+                  0
+          )
+    {\displaystyle A=\left({\begin{array}{cc}0&-1\\1&0\end{array}}\right)}
+which clearly has trace zero, indicating that this matrix represents an infinitesimal transformation which preserves area.
+A related characterization of the trace applies to linear vector fields. Given a matrix A, define a vector field F on ℝn by F(x) = A x. The components of this vector field are linear functions (given by the rows of A). Its divergence div F is a constant function, whose value is equal to tr(A). By the divergence theorem, one can interpret this in terms of flows: if F(x) represents the velocity of a fluid at location x and U is a region in ℝn, the net flow of the fluid out of U is given by tr(A) · vol(U), where vol(U) is the volume of U.
+The trace is a linear operator, hence it commutes with the derivative:
+        d
+        ⁡
+        tr
+        ⁡
+        (
+        X
+        )
+        =
+        tr
+        ⁡
+        (
+          d
+        ⁡
+        X
+        )
+    {\displaystyle \operatorname {d} \operatorname {tr} (X)=\operatorname {tr} (\operatorname {d\!} X)}
+  .
+The trace of a 2-by-2 complex matrix is used to classify Möbius transformations. First the matrix is normalized to make its determinant equal to one. Then, if the square of the trace is 4, the corresponding transformation is parabolic. If the square is in the interval [0,4), it is elliptic. Finally, if the square is greater than 4, the transformation is loxodromic. See classification of Möbius transformations.
+The trace is used to define characters of group representations. Two representations 
+        A
+        ,
+        B
+        :
+        G
+        →
+            G
+            L
+        (
+        V
+        )
+    {\displaystyle A,B:G\to {\mathit {GL}}(V)}
+   of a group G are equivalent (up to change of basis on V) if 
+        tr
+        ⁡
+        A
+        (
+        g
+        )
+        =
+        tr
+        ⁡
+        B
+        (
+        g
+        )
+    {\displaystyle \operatorname {tr} A(g)=\operatorname {tr} B(g)}
+   for all g ∈ G.
+The trace also plays a central role in the distribution of quadratic forms.
+The trace is a map of Lie algebras 
+        tr
+        :
+              g
+              l
+            n
+        →
+        k
+    {\displaystyle \operatorname {tr} \colon {\mathit {gl}}_{n}\to k}
+   from the Lie algebra gln of operators on a n-dimensional space (n × n matrices) to the Lie algebra k of scalars; as k is abelian (the Lie bracket vanishes), the fact that this is a map of Lie algebras is exactly the statement that the trace of a bracket vanishes:
+        tr
+        ⁡
+        (
+        [
+        A
+        ,
+        B
+        ]
+        )
+        =
+        0
+    {\displaystyle \operatorname {tr} ([A,B])=0}
+  .
+The kernel of this map, a matrix whose trace is zero, is often said to be traceless or tracefree, and these matrices form the simple Lie algebra sln, which is the Lie algebra of the special linear group of matrices with determinant 1. The special linear group consists of the matrices which do not change volume, while the special linear algebra is the matrices which infinitesimally do not change volume.
+In fact, there is an internal direct sum decomposition 
+              g
+              l
+            n
+        =
+              s
+              l
+            n
+        ⊕
+        k
+    {\displaystyle {\mathit {gl}}_{n}={\mathit {sl}}_{n}\oplus k}
+   of operators/matrices into traceless operators/matrices and scalars operators/matrices. The projection map onto scalar operators can be expressed in terms of the trace, concretely as:
+        A
+        ↦
+              1
+              n
+          tr
+          ⁡
+          (
+          A
+          )
+          ⋅
+          I
+    {\displaystyle A\mapsto \textstyle {\frac {1}{n}}\operatorname {tr} (A)\cdot I}
+  .
+Formally, one can compose the trace (the counit map) with the unit map 
+        k
+        →
+              g
+              l
+            n
+    {\displaystyle k\to {\mathit {gl}}_{n}}
+   of "inclusion of scalars" to obtain a map 
+              g
+              l
+            n
+        →
+              g
+              l
+            n
+    {\displaystyle {\mathit {gl}}_{n}\to {\mathit {gl}}_{n}}
+   mapping onto scalars, and multiplying by n. Dividing by n makes this a projection, yielding the formula above.
+In terms of short exact sequences, one has
+        0
+        →
+              s
+              l
+            n
+        →
+              g
+              l
+            n
+            →
+            tr
+        k
+        →
+        0
+    {\displaystyle 0\to {\mathit {sl}}_{n}\to {\mathit {gl}}_{n}{\overset {\operatorname {tr} }{\to }}k\to 0}
+which is analogous to
+        1
+        →
+              S
+              L
+            n
+        →
+              G
+              L
+            n
+            →
+            det
+          K
+            ∗
+        →
+        1
+    {\displaystyle 1\to {\mathit {SL}}_{n}\to {\mathit {GL}}_{n}{\overset {\operatorname {det} }{\to }}K^{*}\to 1}
+for Lie groups. However, the trace splits naturally (via 
+              1
+              n
+    {\displaystyle \textstyle {\frac {1}{n}}}
+   times scalars) so 
+              g
+              l
+            n
+        =
+        s
+          l
+            n
+        ⊕
+        k
+    {\displaystyle {\mathit {gl}}_{n}=sl_{n}\oplus k}
+  , but the splitting of the determinant would be as the nth root times scalars, and this does not in general define a function, so the determinant does not split and the general linear group does not decompose: 
+              G
+              L
+            n
+        ≠
+        S
+          L
+            n
+        ×
+          K
+            ∗
+        .
+    {\displaystyle {\mathit {GL}}_{n}\neq SL_{n}\times K^{*}.}
+The bilinear form
+        B
+        (
+        x
+        ,
+        y
+        )
+        =
+        tr
+        ⁡
+        (
+        ad
+        ⁡
+        (
+        x
+        )
+        ad
+        ⁡
+        (
+        y
+        )
+        )
+           where 
+        ad
+        ⁡
+        (
+        x
+        )
+        y
+        =
+        [
+        x
+        ,
+        y
+        ]
+        =
+        x
+        y
+        −
+        y
+        x
+    {\displaystyle B(x,y)=\operatorname {tr} (\operatorname {ad} (x)\operatorname {ad} (y)){\text{ where }}\operatorname {ad} (x)y=[x,y]=xy-yx}
+is called the Killing form, which is used for the classification of Lie algebras.
+The trace defines a bilinear form:
+        (
+        x
+        ,
+        y
+        )
+        ↦
+        tr
+        ⁡
+        (
+        x
+        y
+        )
+    {\displaystyle (x,y)\mapsto \operatorname {tr} (xy)}
+(x, y square matrices).
+The form is symmetric, non-degenerate and associative in the sense that:
+        tr
+        ⁡
+        (
+        x
+        [
+        y
+        ,
+        z
+        ]
+        )
+        =
+        tr
+        ⁡
+        (
+        [
+        x
+        ,
+        y
+        ]
+        z
+        )
+    {\displaystyle \operatorname {tr} (x[y,z])=\operatorname {tr} ([x,y]z)}
+  .
+For a complex simple Lie algebra (e.g., 
+              s
+              l
+            n
+    {\displaystyle {\mathfrak {sl}}_{n}}
+  ), every such bilinear form is proportional to each other; in particular, to the Killing form.
+Two matrices x and y are said to be trace orthogonal if
+        tr
+        ⁡
+        (
+        x
+        y
+        )
+        =
+        0
+    {\displaystyle \operatorname {tr} (xy)=0}
+  .
+For an m-by-n matrix A with complex (or real) entries and * being the conjugate transpose, we have
+        tr
+        ⁡
+        (
+          A
+            ∗
+        A
+        )
+        ≥
+        0
+    {\displaystyle \operatorname {tr} (A^{*}A)\geq 0}
+with equality if and only if A = 0. The assignment
+        ⟨
+        A
+        ,
+        B
+        ⟩
+        =
+        tr
+        ⁡
+        (
+          B
+            ∗
+        A
+        )
+    {\displaystyle \langle A,B\rangle =\operatorname {tr} (B^{*}A)}
+yields an inner product on the space of all complex (or real) m-by-n matrices.
+The norm induced by the above inner product is called the Frobenius norm. Indeed it is simply the Euclidean norm if the matrix is considered as a vector of length m n.
+It follows that if A and B are positive semi-definite matrices of the same size then
+        0
+        ≤
+        tr
+        ⁡
+        (
+        A
+        B
+          )
+            2
+        ≤
+        tr
+        ⁡
+        (
+          A
+            2
+        )
+        tr
+        ⁡
+        (
+          B
+            2
+        )
+        ≤
+        tr
+        ⁡
+        (
+        A
+          )
+            2
+        tr
+        ⁡
+        (
+        B
+          )
+            2
+    {\displaystyle 0\leq \operatorname {tr} (AB)^{2}\leq \operatorname {tr} (A^{2})\operatorname {tr} (B^{2})\leq \operatorname {tr} (A)^{2}\operatorname {tr} (B)^{2}}
+  .
+The concept of trace of a matrix is generalised to the trace class of compact operators on Hilbert spaces, and the analog of the Frobenius norm is called the Hilbert–Schmidt norm.
+The partial trace is another generalization of the trace that is operator-valued. The trace of a linear operator 
+        Z
+    {\displaystyle Z}
+   which lives on a product space 
+        A
+        ⊗
+        B
+    {\displaystyle A\otimes B}
+   is equal to the partial traces over 
+        A
+    {\displaystyle A}
+   and 
+        B
+    {\displaystyle B}
+  : 
+        tr
+        ⁡
+        (
+        Z
+        )
+        =
+          tr
+            A
+        ⁡
+        (
+          tr
+            B
+        ⁡
+        (
+        Z
+        )
+        )
+        =
+          tr
+            B
+        ⁡
+        (
+          tr
+            A
+        ⁡
+        (
+        Z
+        )
+        )
+    {\displaystyle \operatorname {tr} (Z)=\operatorname {tr} _{A}(\operatorname {tr} _{B}(Z))=\operatorname {tr} _{B}(\operatorname {tr} _{A}(Z))}
+  . For more properties and a generalization of the partial trace, see the article on traced monoidal categories.
+If A is a general associative algebra over a field k, then a trace on A is often defined to be any map tr: A → k which vanishes on commutators: tr([a, b]) = 0 for all a, b in A. Such a trace is not uniquely defined; it can always at least be modified by multiplication by a nonzero scalar.
+A supertrace is the generalization of a trace to the setting of superalgebras.
+The operation of tensor contraction generalizes the trace to arbitrary tensors.
+We can identify the space of linear operators on a vector space V with the space 
+        V
+        ⊗
+          V
+            ∗
+    {\displaystyle V\otimes V^{*}}
+  , where 
+        v
+        ⊗
+        h
+        =
+        (
+        w
+        ↦
+        h
+        (
+        w
+        )
+        v
+        )
+    {\displaystyle v\otimes h=(w\mapsto h(w)v)}
+  . We also have a canonical bilinear function 
+        t
+        :
+        V
+        ×
+          V
+            ∗
+        →
+        F
+    {\displaystyle t\colon V\times V^{*}\to F}
+   that consists of applying an element w* of V* to an element v of V to get an element of F, in symbols 
+        t
+        (
+        v
+        ,
+          w
+            ∗
+        )
+        :=
+          w
+            ∗
+        (
+        v
+        )
+        ∈
+        F
+    {\displaystyle t(v,w^{*}):=w^{*}(v)\in F}
+  . This induces a linear function on the tensor product (by its universal property) 
+        t
+        :
+        V
+        ⊗
+          V
+            ∗
+        →
+        F
+    {\displaystyle t\colon V\otimes V^{*}\to F}
+  , which, as it turns out, when that tensor product is viewed as the space of operators, is equal to the trace.
+This also clarifies why 
+        tr
+        ⁡
+        (
+        A
+        B
+        )
+        =
+        tr
+        ⁡
+        (
+        B
+        A
+        )
+    {\displaystyle \operatorname {tr} (AB)=\operatorname {tr} (BA)}
+   and why 
+        tr
+        ⁡
+        (
+        A
+        B
+        )
+        ≠
+        tr
+        ⁡
+        (
+        A
+        )
+        tr
+        ⁡
+        (
+        B
+        )
+    {\displaystyle \operatorname {tr} (AB)\neq \operatorname {tr} (A)\operatorname {tr} (B)}
+  , as composition of operators (multiplication of matrices) and trace can be interpreted as the same pairing. Viewing 
+        End
+        ⁡
+        (
+        V
+        )
+        ≅
+        V
+        ⊗
+          V
+            ∗
+    {\displaystyle \operatorname {End} (V)\cong V\otimes V^{*}}
+  , one may interpret the composition map 
+        End
+        ⁡
+        (
+        V
+        )
+        ×
+        End
+        ⁡
+        (
+        V
+        )
+        →
+        End
+        ⁡
+        (
+        V
+        )
+    {\displaystyle \operatorname {End} (V)\times \operatorname {End} (V)\to \operatorname {End} (V)}
+   as
+        (
+        V
+        ⊗
+          V
+            ∗
+        )
+        ×
+        (
+        V
+        ⊗
+          V
+            ∗
+        )
+        →
+        (
+        V
+        ⊗
+          V
+            ∗
+        )
+    {\displaystyle (V\otimes V^{*})\times (V\otimes V^{*})\to (V\otimes V^{*})}
+coming from the pairing 
+          V
+            ∗
+        ×
+        V
+        →
+        F
+    {\displaystyle V^{*}\times V\to F}
+   on the middle terms. Taking the trace of the product then comes from pairing on the outer terms, while taking the product in the opposite order and then taking the trace just switches which pairing is applied first. On the other hand, taking the trace of A and the trace of B corresponds to applying the pairing on the left terms and on the right terms (rather than on inner and outer), and is thus different.
+In coordinates, this corresponds to indexes: multiplication is given by 
+            (
+            A
+            B
+              )
+                i
+                k
+            =
+              ∑
+                j
+              a
+                i
+                j
+              b
+                j
+                k
+    {\displaystyle \textstyle {(AB)_{ik}=\sum _{j}a_{ij}b_{jk}}}
+  , so 
+            tr
+            ⁡
+            (
+            A
+            B
+            )
+            =
+              ∑
+                i
+                j
+              a
+                i
+                j
+              b
+                j
+                i
+    {\displaystyle \textstyle {\operatorname {tr} (AB)=\sum _{ij}a_{ij}b_{ji}}}
+   and 
+            tr
+            ⁡
+            (
+            B
+            A
+            )
+            =
+              ∑
+                i
+                j
+              b
+                i
+                j
+              a
+                j
+                i
+    {\displaystyle \textstyle {\operatorname {tr} (BA)=\sum _{ij}b_{ij}a_{ji}}}
+   which is the same, while 
+            tr
+            ⁡
+            (
+            A
+            )
+            ⋅
+            tr
+            ⁡
+            (
+            B
+            )
+            =
+              ∑
+                i
+              a
+                i
+                i
+            ⋅
+              ∑
+                j
+              b
+                j
+                j
+    {\displaystyle \textstyle {\operatorname {tr} (A)\cdot \operatorname {tr} (B)=\sum _{i}a_{ii}\cdot \sum _{j}b_{jj}}}
+  , which is different.
+For 
+        V
+    {\displaystyle V}
+   finite-dimensional, with basis 
+        {
+          e
+            i
+        }
+    {\displaystyle \{e_{i}\}}
+   and dual basis 
+        {
+          e
+            i
+        }
+    {\displaystyle \{e^{i}\}}
+  , then 
+          e
+            i
+        ⊗
+          e
+            j
+    {\displaystyle e_{i}\otimes e^{j}}
+   is the ij'-entry of the matrix of the operator with respect to that basis. Any operator 
+        A
+    {\displaystyle A}
+   is therefore a sum of the form 
+        A
+        =
+          a
+            i
+            j
+          e
+            i
+        ⊗
+          e
+            j
+    {\displaystyle A=a_{ij}e_{i}\otimes e^{j}}
+  . With 
+        t
+    {\displaystyle t}
+   defined as above, 
+        t
+        (
+        A
+        )
+        =
+          a
+            i
+            j
+        t
+        (
+          e
+            i
+        ⊗
+          e
+            j
+        )
+    {\displaystyle t(A)=a_{ij}t(e_{i}\otimes e^{j})}
+  . The latter, however, is just the Kronecker delta, being 1 if i = j and 0 otherwise. This shows that 
+        t
+        (
+        A
+        )
+    {\displaystyle t(A)}
+   is simply the sum of the coefficients along the diagonal. This method, however, makes coordinate invariance an immediate consequence of the definition.
+Further, one may dualize this map, obtaining a map 
+          F
+            ∗
+        =
+        F
+        →
+        V
+        ⊗
+          V
+            ∗
+        ≅
+        End
+        ⁡
+        (
+        V
+        )
+    {\displaystyle F^{*}=F\to V\otimes V^{*}\cong \operatorname {End} (V)}
+  . This map is precisely the inclusion of scalars, sending 1 ∈ F to the identity matrix: "trace is dual to scalars". In the language of bialgebras, scalars are the unit, while trace is the counit.
+One can then compose these, 
+        F
+            →
+            I
+        End
+        ⁡
+        (
+        V
+        )
+            →
+            tr
+        F
+    {\displaystyle F{\overset {I}{\to }}\operatorname {End} (V){\overset {\operatorname {tr} }{\to }}F}
+  , which yields multiplication by n, as the trace of the identity is the dimension of the vector space.
+Trace of a tensor with respect to a metric tensor
+Characteristic function
+Field trace
+Golden–Thompson inequality
+Specht's theorem
+Trace class
+Trace inequalities
+von Neumann's trace inequality

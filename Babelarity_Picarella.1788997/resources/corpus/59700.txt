@@ -1,0 +1,11 @@
+Sodium tungstate is the inorganic compound with the formula Na2WO4. This white, water-soluble solid is the sodium salt of tungstic acid. It is useful as a source of tungsten for chemical synthesis. It is an intermediate in the conversion of tungsten ores to the metal.
+The predominant route to this salt is the extraction of tungsten ores, almost all of which are tungstates. Thus, the ores are treated with a base to give sodium tungstate, as illustrated in the case of wolframite:
+Fe/MnWO4 + 2 NaOH + 2 H2O → Na2WO4•2H2O + Fe/Mn(OH)2
+Scheelite is treated similarly using sodium carbonate.
+Sodium tungstate can also be produced by treating tungsten carbide with a mixture of sodium nitrate and sodium hydroxide in a fusion process which overcomes the high exothermicity of the reaction involved.
+Several polymorphs of sodium tungstate are known, three at only one atmosphere pressure. They feature tetrahedral orthotungstate dianions but differ in the packing motif. The WO42− anion adopts a structure like sulfate (SO42−).
+Treatment of sodium tungstate with hydrochloric acid gives the trioxide:
+Na2WO4 + 2 HCl → WO3 + 2 NaCl + H2O
+This reaction can be reversed using aqueous solution of sodium hydroxide
+In organic chemistry, sodium tungstate is used as catalyst for epoxidation of alkenes and oxidation of alcohols into aldehydes or ketones.
+It is also known for its anti-diabetic effects; researchers have identified the pathways through which sodium tungstate improves pancreatic function and beta cell proliferation.

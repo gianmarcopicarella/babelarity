@@ -1,0 +1,4 @@
+The grapheme Ň (minuscule: ň) is a letter in the Czech, Slovak and Turkmen alphabets. It is formed from Latin N with the addition of a caron (háček in Czech and mäkčeň in Slovak) and follows plain N in the alphabet. Ň and ň are at Unicode codepoints U+0147 and U+0148, respectively.
+In Czech and Slovak, ň represents /ɲ/, the palatal nasal. Thus, it has the same function as Croatian nj, Polish ń, Spanish ñ, Portuguese nh and French gn.
+In the nineteenth century it was used in Croatian, also, to denote /ɲ/.
+In Turkmen and Southern Kurdish, ň represents the sound /ŋ/, the velar nasal, as in English thing.

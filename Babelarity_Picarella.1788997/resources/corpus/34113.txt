@@ -1,0 +1,38 @@
+Chromosome 22 is one of the 23 pairs of chromosomes in human cells. Humans normally have two copies of Chromosome 22 in each cell. Chromosome 22 is the second smallest human chromosome (chromosome 21 being smaller), spanning about 49 million DNA base pairs and representing between 1.5 and 2% of the total DNA in cells.
+In 1999, researchers working on the Human Genome Project announced they had determined the sequence of base pairs that make up this chromosome. Chromosome 22 was the first human chromosome to be fully sequenced.
+Identifying genes on each chromosome is an active area of genetic research, because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 22 contains about 693 genes.
+Chromosome 22 was originally identified as the smallest chromosome. After extensive research, however, researchers concluded that chromosome 21 was smaller. The numbering of these chromosomes wasn't rearranged because of chromosome 21 being known by that designation as the chromosome that can lead to Down syndrome.
+The following are some of the genes located on chromosome 22:
+ADM2: encoding protein ADM2
+APOBEC3B: encoding protein Probable DNA dC->dU-editing enzyme APOBEC-3B
+ARFGAP3: encoding protein ADP-ribosylation factor GTPase-activating protein 3
+ASCC2: encoding protein Activating signal cointegrator 1 complex subunit 2
+C22orf9: encoding protein Uncharacterized protein C22orf9
+The following diseases are some of those related to genes on chromosome 22:
+Amyotrophic lateral sclerosis
+Breast cancer
+DiGeorge Syndrome
+Desmoplastic small round cell tumor
+22q11.2 deletion syndrome
+22q11.2 distal deletion syndrome
+22q13 deletion syndrome or Phelan-McDermid syndrome
+Ewing sarcoma
+Focal Segmental Glomerulosclerosis
+Li-Fraumeni syndrome
+Metachromatic leukodystrophy
+Neurofibromatosis type 2
+Rubinstein-Taybi syndrome
+Waardenburg syndrome
+Cat eye syndrome
+Methemoglobinemia
+Schizophrenia
+The following conditions are caused by changes in the structure or number of copies of chromosome 22:
+22q11.2 deletion syndrome: Most people with 22q11.2 deletion syndrome are missing about 3 million base pairs on one copy of chromosome 22 in each cell. The deletion occurs near the middle of the chromosome at a location designated as q11.2. This region contains about 30 genes, but many of these genes have not been well characterized. A small percentage of affected individuals have shorter deletions in the same region.
+The loss of one particular gene, TBX1, is thought to be responsible for many of the characteristic features of 22q11.2 deletion syndrome, such as heart defects, an opening in the roof of the mouth (a cleft palate), distinctive facial features, and low calcium levels. A loss of this gene does not appear to cause learning disabilities, however. Other genes in the deleted region are also likely to contribute to the signs and symptoms of 22q11.2 deletion syndrome.
+22q11.2 distal deletion syndrome
+22q13 deletion syndrome
+Other chromosomal conditions: Other changes in the number or structure of chromosome 22 can have a variety of effects, including mental retardation, delayed development, physical abnormalities, and other medical problems. These changes include an extra piece of chromosome 22 in each cell (partial trisomy), a missing segment of the chromosome in each cell (partial monosomy), and a circular structure called ring chromosome 22 that is caused by the breakage and reattachment of both ends of the chromosome.
+Cat-eye syndrome is a rare disorder most often caused by a chromosomal change called an inverted duplicated 22. A small extra chromosome is made up of genetic material from chromosome 22 that has been abnormally duplicated (copied). The extra genetic material causes the characteristic signs and symptoms of cat-eye syndrome, including an eye abnormality called ocular iris coloboma (a gap or split in the colored part of the eye), small skin tags or pits in front of the ear, heart defects, kidney problems, and, in some cases, delayed development.
+A rearrangement (translocation) of genetic material between chromosomes 9 and 22 is associated with several types of blood cancer (leukemia). This chromosomal abnormality, which is commonly called the Philadelphia chromosome, is found only in cancer cells. The Philadelphia chromosome has been identified in most cases of a slowly progressing form of blood cancer called chronic myeloid leukemia, or CML. It also has been found in some cases of more rapidly progressing blood cancers (acute leukemias). The presence of the Philadelphia chromosome can help predict how the cancer will progress and provides a target for molecular therapies.
+Emanuel Syndrome is a translocation of chromosomes 11 and 22. Originally known as Supernumerary der(22) Syndrome, it occurs when an individual has an extra chromosome composed of pieces of the 11th and 22nd chromosomes.
+the 22q11 locus contains the subgenes for immunoglobulin light chain lambda: Interestingly, the immunoglobulin lambda light chain locus contains protein-coding genes that can be lost with its rearrangement. This is based on a physiological mechanism and is not pathogenetic for leukemias or lymphomas. However,the rearrangement of several lambda variable subgenes can activate expression of an overlapping miRNA gene, which has consequences for gene expression regulation.

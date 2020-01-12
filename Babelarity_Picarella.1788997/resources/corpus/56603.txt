@@ -1,0 +1,11 @@
+Low voltage is a relative term, the definition varying by context. Different definitions are used in electric power transmission and distribution, and in the Electrical safety codes define "low voltage" circuits that are exempt from the protection required at higher voltages. These definitions vary by country and specific code.
+In electrical power systems low voltage most commonly refers to mains voltage as used by lighting and portable appliances. "Low voltage" in this context still presents a risk of electric shock, but only a minor risk of electric arcs through the air.
+The International Electrotechnical Commission (IEC) defines supply system low voltage as voltage in the range 50–1000 V AC or 120–1500 V DC.
+British Standard BS 7671:2008 defines supply system low voltage as:
+50–1000 V AC or 120–1500 V ripple-free DC between conductors;
+50–600 V AC or 120–900 V ripple-free DC between conductors and Earth.
+In electrical power distribution, the United States 2005 National Electrical Code (NEC) defines low (distribution system) voltage as 0 - 49 volts. Low distribution system voltage is covered by 250.20(A) of this code.
+The NFPA standard 79 article 6.4.1.1 defines distribution protected extra low voltage (PELV) as nominal voltage of 30 Vrms or 60 Vdc ripple free for dry locations and 6 Vrms or 15 Vdc in all other cases.
+UL standard 508A article 43 (Table 43.1) defines 0-20V peak/ 5A or 20.1-42.4V peak/ 100VA as Low-Voltage Limited Energy circuits.
+High voltage
+Low Voltage Directive

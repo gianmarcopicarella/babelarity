@@ -1,0 +1,45 @@
+Thiazide is a type of molecule and a class of diuretics often used to treat hypertension (high blood pressure) and edema (such as that caused by heart, liver, or kidney disease).
+The thiazides and thiazide-like diuretics reduce the risk of death, stroke, heart attack, and heart failure due to hypertension. The class was discovered and developed at Merck and Co. in the 1950s, and the first approved drug of this class, chlorothiazide, was marketed under the trade name Diuril beginning in 1958. In most countries, the thiazides are the cheapest antihypertensive drugs available.
+Regarding effectiveness in the treatment of hypertension, a systematic review by the Cochrane Collaboration found:
+Chlorthalidone reduces systolic and diastolic blood pressure by 12.0/4 mmHg and the reduction is not dose related when tested at a range of doses from 12.5 mg to 75 mg/day.
+Hydrochlorothiazide's effect is dose related and at a maximum dose of 50 mg/day, the reduction is 11 mmHg/5 mmHg.
+Thiazides and thiazidelike diuretics have been in constant use since their introduction in 1958. They "have remained a cornerstone in the management of hypertension for more than half a century since their introduction [...] Very few agents used for the treatment of any disease can boast such staying power, which is a testament both to the efficacy and safety of these compounds." 
+Several clinical practice guidelines address the use of thiazides. They are the recommended first-line treatment in the US (JNC VII) guidelines for hypertension and a recommended treatment in the European (ESC/ESH) guidelines. However, the recent 2011 UK National Institute for Health and Clinical Excellence (NICE) guideline on the management of primary hypertension in adults (CG127) recommend calcium channel blockers (CCBs) as first line agents in hypertension and advise that thiazide-like diuretics should only be used first line if CCBs are not suitable or if the patient has oedema or has a high risk of developing heart failure. Thiazides have also been replaced by angiotensin converting enzyme (ACE) inhibitors in Australia due to their propensity to increase risk of diabetes mellitus type 2.
+The mechanism of action of thiazides in lowering blood pressure in the long term is not fully understood. When administered acutely thiazides lower blood pressure by causing diuresis, a fall in plasma volume and a reduction in cardiac output. However, after chronic use thiazides cause a reduction in blood pressure by lowering peripheral resistance (i.e. vasodilation). The mechanism of this effect is uncertain but it may involve effects on 'whole body' or renal autoregulation, or direct vasodilator actions either through inhibition of carbonic anhydrase or by desensitizing the vascular smooth muscle cells to the rise in intracellular calcium induced by norepinephrine.
+Thiazides also lower urinary calcium excretion, making them useful in preventing calcium-containing kidney stones. This effect is associated with positive calcium balance and is associated with an increase in bone mineral density and reductions in fracture rates attributable to osteoporosis. By a lesser understood mechanism, thiazides directly stimulate osteoblast differentiation and bone mineral formation, further slowing the course of osteoporosis.
+Because of their promotion of calcium retention, thiazides are used in the treatment of
+Dent's Disease
+Hypocalcemia
+Nephrolithiasis (ideopathic hypercalciuria)
+Bromide intoxication
+Nephrogenic diabetes insipidus
+The members of this class of diuretics are derived from benzothiadiazine. They control hypertension in part by inhibiting reabsorption of sodium (Na+) and chloride (Cl−) ions from the distal convoluted tubules in the kidneys by blocking the thiazide-sensitive Na+-Cl− symporter. The term "thiazide" is also often used for drugs with a similar action that do not have the thiazide chemical structure, such as chlorthalidone and metolazone. These agents are more properly termed thiazide-like diuretics.
+Thiazide diuretics also increase calcium reabsorption at the distal tubule. By lowering the sodium concentration within the epithelial cells, thiazides increase the activity of the Na+/Ca2+ antiporter on the basolateral membrane to transport more Ca2+ into the interstitium. This, in turn, decreases the intracellular Ca2+ concentration so that more Ca2+ may diffuse into the cell via apical Ca2+-selective channels (TRPV5). In other words, less Ca2+ in the cell increases the driving force for reabsorption from the lumen.
+Thiazides are also thought to increase the reabsorption of Ca2+ by a mechanism involving the reabsorption of sodium and calcium in the proximal tubule in response to sodium depletion. Some of this response is due to augmentation of the action of parathyroid hormone.
+That thiazide refers to both the type of molecule and the medication can sometimes lead to confusion, because some molecules (thiazide-like diuretics) are often considered as thiazide diuretics, although they are not thiazides from a chemical perspective. In this context, "thiazide" is taken to refer to a drug which acts at a "thiazide receptor", which is believed to be a sodium-chloride symporter.
+Thiazides pass into breast milk, and can decrease the flow of breast milk. Thiazides are classed as 'Drugs That Have Been Associated With Significant Effects on Some Nursing Infants and Should Be Given to Nursing Mothers With Caution' by the American Academy of Pediatrics Committee on Drugs.
+Contraindications include:
+Hypotension
+Allergy to sulphur-containing medications
+Gout
+Renal failure
+Lithium therapy
+Hypokalemia
+May worsen diabetes
+Thiazides reduce the clearance of uric acid since they compete for the same transporter, and therefore raise the levels of uric acid in the blood. Hence they are prescribed with caution in patients with gout or hyperuricemia.
+Chronic administration is associated with hyperglycemia.
+Thiazides cause loss of blood potassium, while conserving blood calcium.
+Thiazides can decrease placental perfusion and adversely affect the fetus so should be avoided in pregnancy.
+There are several mechanisms by which thiazide diuretics cause hypokalemia (decreased plasma potassium concentration):
+Increased delivery of sodium to the collecting ducts causes increased cellular uptake of Na from the lumen by apical Epithelial Na Channels (ENaCs). This then causes the basolateral Na/K exchanger to more actively exchange Na for K, which is then passively secreted into the lumen through apical channels, resulting in K loss. (Moreover, the increased delivery of K to the collecting ducts facilitates the exchange of K for H by the H/K exchangers on the intercalated alpha cells, resulting in loss of H [metabolic alkalosis].)
+Activation of renin-angiotensin-aldosterone system by the diuretic hypovolemia: body responds to hypovolemia by opposing diuresis, one effect of which is to produce aldosterone which stimulates the Na/K exchanger, resulting in further loss of potassium. For this reason, ACE inhibitors, which inhibit angiotensin II production and therefore aldosterone activation, are frequently used in combination with thiazides to combat hypokalemia. There are fixed-dose ACE inhibitor and thiazide combinations.
+Flow rate in nephron is increased under diuresis, reducing potassium concentration in the lumen, thus increasing the potassium gradient. Potassium loss through the many potassium channels, such as ROMK. These are not exchangers; they allow facilitated diffusion, so the increased gradient is directly responsible for increased diffusion.
+Hyperglycemia
+Hyperlipidemia
+Hyperuricemia
+Hypercalcemia
+Hypokalemia
+Hyponatremia
+Hypomagnesemia
+Hypocalciuria
+The thiazide diuretics were developed by scientists Karl H. Beyer, James M. Sprague, John E. Baer, and Frederick C. Novello of Merck and Co. in the 1950s, and led to the marketing of the first drug of this class, chlorothiazide, under the trade name Duiril in 1958. The research leading to the discovery of chlorothiazide, leading to "the saving of untold thousands of lives and the alleviation of the suffering of millions of victims of hypertension" was recognized by a special Public Health Award from the Lasker Foundation in 1975.

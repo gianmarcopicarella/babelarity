@@ -1,0 +1,105 @@
+A coating is a covering that is applied to the surface of an object, usually referred to as the substrate. The purpose of applying the coating may be decorative, functional, or both. The coating itself may be an all-over coating, completely covering the substrate, or it may only cover parts of the substrate. An example of all of these types of coating is a product label on many drinks bottles- one side has an all-over functional coating (the adhesive) and the other side has one or more decorative coatings in an appropriate pattern (the printing) to form the words and images.
+Paints and lacquers are coatings that mostly have dual uses of protecting the substrate and being decorative, although some artists paints are only for decoration, and the paint on large industrial pipes is presumably only for the function of preventing corrosion.
+Functional coatings may be applied to change the surface properties of the substrate, such as adhesion, wetability, corrosion resistance, or wear resistance. In other cases, e.g. semiconductor device fabrication (where the substrate is a wafer), the coating adds a completely new property such as a magnetic response or electrical conductivity and forms an essential part of the finished product.
+A major consideration for most coating processes is that the coating is to be applied at a controlled thickness, and a number of different processes are in use to achieve this control, ranging from a simple brush for painting a wall, to some very expensive machinery applying coatings in the electronics industry. A further consideration for 'non-all-over' coatings is that control is needed as to where the coating is to be applied. A number of these non-all-over coating processes are printing processes.
+Many industrial coating processes involve the application of a thin film of functional material to a substrate, such as paper, fabric, film, foil, or sheet stock. If the substrate starts and ends the process wound up in a roll, the process may be termed "roll-to-roll" or "web-based" coating. A roll of substrate, when wound through the coating machine, is typically called a web.
+Coatings may be applied as liquids, gases or solids.
+Adhesive – adhesive tape, pressure-sensitive labels, iron-on fabric
+Changing adhesion properties
+Non-stick PTFE coated- cooking pans
+Release coatings e.g. silicone-coated release liners for many self-adhesive products
+primers encourage subsequent coatings to adhere well (also sometimes have anti-corrosive properties)
+Optical coatings
+Reflective coatings for mirrors
+Anti-reflective coatings e.g. on spectacles
+UV- absorbent coatings for protection of eyes or increasing the life of the substrate
+Tinted as used in some coloured lighting, tinted glazing, or sunglasses
+Catalytic e.g. some self-cleaning glass
+Light-sensitive as previously used to make photographic film
+Protective
+Most paints are to some extent protecting the substrate
+Hard anti-scratch coating on plastics and other materials e.g. of titanium nitride to reduce scratching, improve wear resistance, etc.
+Anti-corrosion
+Underbody sealant for cars
+Many plating products
+Waterproof fabric and waterproof paper
+antimicrobial surface
+Magnetic properties such as for magnetic media like cassette tapes, floppy disks, and some mass transit tickets
+Electrical or electronic properties
+Conductive coatings e.g. to manufacture some types of resistors
+Insulating coatings e.g. on magnet wires used in transformers
+Scent properties such as scratch and sniff stickers and labels
+Coating processes may be classified as follows:
+Metalorganic vapour phase epitaxy
+Electrostatic spray assisted vapour deposition (ESAVD)
+Sherardizing
+Some forms of Epitaxy
+Molecular beam epitaxy
+Cathodic arc deposition
+Electron beam physical vapor deposition (EBPVD)
+Ion plating
+Ion beam assisted deposition (IBAD)
+Magnetron sputtering
+Pulsed laser deposition
+Sputter deposition
+Vacuum deposition
+Vacuum evaporation, evaporation (deposition)
+Conversion coating
+Autophoretic, the registered trade name of a proprietary series of autodepositing coatings specifically for ferrous metal substrates
+Anodising
+Chromate conversion coating
+Plasma electrolytic oxidation
+Phosphate (coating)
+Ion beam mixing
+Pickled and oiled, a type of plate steel coating
+Plating
+Electroless plating
+Electroplating
+Spray painting
+High velocity oxygen fuel (HVOF)
+Plasma spraying
+Thermal spraying
+Plasma transferred wire arc thermal spraying
+The common forms of Powder coating
+Common roll-to-roll coating processes include:
+Air knife coating
+Anilox coater
+Flexo coater
+Gap Coating
+Knife-over-roll coating
+Gravure coating
+Hot melt coating- when the necessary coating viscosity is achieved by temperature rather than solution of the polymers etc. This method commonly implies slot-die coating above room temperature, but it also is possible to have hot-melt roller coating; hot-melt metering-rod coating, etc.
+Immersion dip coating
+Kiss coating
+Metering rod (Meyer bar) coating
+Roller coating
+Forward roller coating
+Reverse roll coating
+Silk Screen coater
+Rotary screen
+Slot Die coating
+Extrusion coating - generally high pressure, often high temperature, and with the web travelling much faster than the speed of the extruded polymer.
+Curtain coating- low viscosity, with the slot vertically above the web and a gap between slotdie and web.
+Slide coating- bead coating with an angled slide between the slotdie and the bead. Very successfully used for multilayer coating in the photographic industry.
+Slot die bead coating- typically with the web backed by a roller and a very small gap between slotdie and web.
+Tensioned-web slotdie coating- with no backing for the web.
+Inkjet printing
+Lithography
+Flexography
+Spin coating
+Dip coating
+Film Coating drugs
+Adhesion Tester
+Deposition
+Formulations
+Optically active additive, for inspection purposes after a coating operation
+Plastic film
+Printed electronics
+Seal (mechanical)
+Thermal barrier coating
+Thermal cleaning
+Thin-film deposition
+Paper coating
+Industrial coating
+Vitreous enamel
+Paint

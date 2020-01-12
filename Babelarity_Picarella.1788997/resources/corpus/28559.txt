@@ -1,0 +1,104 @@
+The Sikorsky S-76 is an American medium-size commercial utility helicopter, manufactured by the Sikorsky Aircraft Corporation. The S-76 features twin turboshaft engines, four-bladed main and tail rotors and retractable landing gear.
+The development of the S-76 began in the mid-1970s as the S-74, with the design goal of providing a medium helicopter for corporate transportation and the oil drilling industry; the S-74 was later re-designated the S-76 in honor of the U.S. Bicentennial. Sikorsky's design work on the S-70 helicopter (which was selected for use by the United States Army as the UH-60 Black Hawk) was utilized in the development of the S-76, incorporating S-70 design technology in its rotor blades and rotor heads. It was the first Sikorsky helicopter designed purely for commercial rather than military use.
+The prototype first flew on March 13, 1977. Initial US Federal Aviation Administration type certification was granted on November 21, 1978, with the first customer delivery on February 27, 1979. The S-76 was named "Spirit" late in 1978, but this name was officially dropped by the company on October 9, 1980 due to translation issues into some foreign languages.
+The first production variant was the S-76A. In 1982, this model set class records for range, climb, speed and ceiling. Several airlines operate the S-76A on scheduled services including Helijet Airways of Vancouver, British Columbia, Canada. The S-76 Mk II was introduced in 1982 and the S-76B in 1987, with its top speed of 155 kn (287 km/h) at sea level. Over 500 S-76s had been delivered by early 2001.
+The S-76C+ was produced until December 2005. It is equipped with twin Turbomeca Arriel 2S1 engines with FADEC and a Honeywell EFIS suite. The aircraft incorporates active noise suppression, vibration dampers and a composite main rotor. On January 3, 2006, the S-76 C++ replaced earlier models in production. It is powered by two Turbomeca Arriel 2S2 engines and incorporates an improved and quieter transmission as well as minor changes in the interior equipment and avionics. There were 92 orders for this model as of January 2006.
+Development of the follow-on S-76D was subject to four years of delays due to technical problems in expanding the flight envelope. The prototype made its first flight on February 7, 2009 and type certification was initially expected in 2011, with deliveries forecast for the end of that year. It was FAA certified on 12 October 2012. Three prototypes were used in the certification program, with one aircraft used to certify the optional electric rotor ice-protection system. The "D" model is powered by 1,050 hp (783 kW) Pratt & Whitney Canada PW210S engines driving composite rotors and incorporates active vibration control. Performance is substantially improved with the added power, but initial certification retains the same 11,700 lb (5,307 kg) gross weight and maximum 155 kn (287 km/h) cruise speed as earlier models. Changhe Aircraft Industries Corporation was contracted in September 2013 to produce the S-76D airframe.
+The S-76 is of conventional configuration, with a four-bladed fully articulated main rotor and a four-bladed anti-torque rotor on the port side of the tailboom. Two turboshaft engines are located above the passenger cabin. In the prototypes and initial production aircraft, these engines were Allison 250-C30s, a new version of the popular Allison 250 engine developed specially for the S-76, with a single-stage centrifugal compressor instead of the multi-stage axial/centrifugal compressor of earlier models of the engine, rated at 650 shp (480 kW) for take-off. These engines are connected to the main rotor by the main gearbox, a three-stage unit with a bull gear as its final stage rather than the planetary gear used by previous generations of Sikorsky helicopters. This arrangement gave 30% fewer parts and lower costs than a more conventional design.
+The main rotor hub has a single piece aluminum hub with elastomeric bearings designed not to require lubrication or any other kind of maintenance throughout its design life. The main rotor blades have titanium spars and incorporate a 10 degree twist to give an even loading when hovering, while they use a non-symmetrical airfoil section with a drooped leading edge. The rotor tips are tapered and swept back. Flight controls are servo-assisted, with a Stability Augmentation System fitted. A retractable nosewheel undercarriage is fitted, which gave the S-76A a 6 knots (6.9 mph; 11 km/h) increase in cruising speed; emergency flotation gear can be fitted using helium-filled bags to increase buoyancy in the event of a forced landing on water.
+The fuselage of the aircraft is of mixed metal and composites construction; the nose is composed of fiberglass while the cabin primarily employs a light alloy honeycomb structure, the semi-monocoque tailboom is also constructed of light alloy. Two pilots (or a pilot and a passenger) sit side-by-side in the cockpit, situated ahead of the cabin, which can accommodate a further 12 passengers in three rows of four, or four to eight passengers in more luxurious executive seating.
+S-76A : Original production version, powered by two 485 kW (650 shp) Rolls-Royce (Allison) 250-C30 turboshaft engines. Large number modified to S-76A+, A++, C, and C+. 284 manufactured.
+S-76A Utility : Utility transport version, equipped with sliding doors and a strengthened floor.
+S-76A+ : Unsold S-76s were fitted with two Turbomeca Arriel 1S turboshaft engines. 17 manufactured.
+S-76A++ : S-76 helicopters fitted with two Turbomeca Arriel 1S1 turboshaft engines.
+S-76A Mk II : Improved all-weather transport version, fitted with more powerful engines, and other detail improvements.
+S-76B : Powered by two Pratt & Whitney Canada PT6B-36A or Pratt & Whitney Canada PT6B-36B turboshaft engines. 101 built.
+S-76C  : Powered by two 539-kW (981-shp) Turbomeca Arriel 1S1 turboshaft engines. 43 manufactured.
+S-76C+ : Uprated version, fitted with improved Turbomeca Arriel 2S1 turboshafts with FADEC. 35 manufactured.
+S-76C++ : Turbomeca Arriel 2S2
+S-76D : Powered by two Pratt & Whitney Canada PW210S. Also features a Thales Topdeck avionics suite and improved noise signature over all previous variants
+AUH-76
+Armed utility transport version, developed from the S-76 Mk. II.
+H-76 Eagle
+Announced in 1985 the Eagle was a military and naval variant of the S-76B, none sold.
+Sikorsky S-75 
+The Advanced Composite Airframe Program (ACAP) was an all-composite Sikorsky early LHX proof of concept aircraft. Designated S-75, it mated a new composite airframe with S-76 engines, rotors and powertrain components.
+Sikorsky S-76 SHADOW 
+Boeing-Sikorsky MANPRINT study. The original concept of the LHX program was to produce a one-man helicopter that could do more than a two-man aircraft. The Sikorsky (S-76) Helicopter Advance Demonstrator of Operators Workload (SHADOW) had a single-pilot advanced cockpit grafted to its nose. The purpose was to study the MANPRINT or human engineering interface between the pilot and the cockpit controls and displays. The cockpit was the prototype of a single-pilot cockpit designed for use on the prototype RAH-66 Comanche armed reconnaissance helicopter. The cockpit was designed so sensors would feed data to the pilot through helmet mounted displays. The MANPRINT study determined that single-pilot operation of the Comanche was unsafe, and would result in pilot overload. As result of this study, the Comanche was designed to be operated by a crew of two.
+The S-76 is in civil service around the world with airlines, corporations, hospitals, and government operators. The world's largest civilian fleet is the 79 Sikorsky S-76 helicopters operated by CHC Helicopter Corporation.
+ Argentina
+Argentine Air Force
+ China
+Ministry of Transport Rescue and Salvage Bureau
+ Honduras
+Honduran Air Force
+ Hong Kong
+Royal Hong Kong Auxiliary Air Force
+Hong Kong Government Flying Service
+ Japan
+Japan Coast Guard
+ Jordan
+Royal Jordanian Air Force
+ Philippines
+Philippine Air Force
+ Republic of China
+National Airborne Service Corps
+ Saudi Arabia
+Ministry of Interior (15 on order)
+ Serbia
+Serbian Ministry of the Interior
+ Spain
+Spanish Air Force
+Galician Coast Guard
+ Thailand
+Royal Thai Navy
+ Trinidad and Tobago
+Trinidad and Tobago Defence Force
+ United Kingdom
+The Queens Helicopter Flight
+2002 Bristow Helicopters Sikorsky S-76A crash
+Copterline Flight 103
+Data from Sikorsky
+General characteristics
+Crew: two
+Capacity: seats 12–13
+Length: 52 ft 6 in (16.00 m) from tip of main rotor to tip of tail rotor
+Width: 10 ft 0 in (3.05 m) at horizontal stabilizer
+Height: 14 ft 6 in (4.42 m) to tip of tail rotor
+Empty weight: 7,005 lb (3,177 kg) in utility configuration
+Gross weight: 11,700 lb (5,307 kg)
+Fuel capacity: 281 US gallons (1,064 liters), with 50 or 102 US gallons (189 or 386 liters) available in extra auxiliary tanks
+Powerplant: 2 × Turbomeca Arriel 2S2 turboshaft, 922 shp (688 kW) each
+Main rotor diameter: 44 ft 0 in (13.41 m)
+Performance
+Maximum speed: 155 kn (178 mph; 287 km/h) at maximum takeoff weight at sea level in standard atmospheric conditions
+Cruise speed: 155 kn (178 mph; 287 km/h) maximum cruise speed is the same as maximum speed
+Range: 411 nmi (473 mi; 761 km) no reserves, at long-range cruise speed at 4,000 ft altitude
+Service ceiling: 13,800 ft (4,200 m)
+Avionics
+Honeywell four-tube EFIS and Collins Proline II avionics suite
+Four-axis fully coupled autopilot
+Integrated Instrument Display System (IIDS)
+Honeywell ground proximity warning system
+Honeywell Primus weather radar
+Dual comm/nav radios
+Automatic direction finder
+Dual attitude and heading reference system and air data computers
+Radio altimeter
+Mode C transponder
+Dual VHF omnidirectional range (VOR) and Instrument landing system (ILS)
+Distance measuring equipment
+Cockpit voice recorder
+Related development
+Sikorsky S-70
+Sikorsky S-75
+Aircraft of comparable role, configuration and era
+Airbus Helicopters H160
+Agusta A109
+Bell 222/230
+Bell 430
+Eurocopter Dauphin
+HAL Dhruv
+Kamov Ka-60
+Related lists
+List of helicopters

@@ -1,0 +1,50 @@
+Abalone is an award winning two-player strategy board game designed by Michel Lalet and Laurent Lévi in 1987. Players are represented by marbles of opposing colors situated on a hexagonal patterned board with the objective being to push six of the opponent's marbles off the edge of the board.
+Abalone was published in 1990 and has sold more than 4.5 million units since. It is currently sold in more than thirty countries.
+The board consists of 61 circular spaces arranged in a hexagon, five on a side. Each player has 14 marbles that rest in the spaces and are initially arranged as shown below, at left. Play alternates between the players one move at a time, with the black marbles moving first. For each move, a player moves a line of one, two or three marbles one space. The move can be either broadside (parallel to the line of marbles) or in-line (serial in respect to the line of marbles), as illustrated at below.
+A player can push their opponent′s marbles which are in an adjacent space to their own with an in-line move only. They can only push if the pushing line has more marbles than the pushed line (three can push two or one; two can push one). Marbles must be pushed into an open space (i.e. not blocked by a marble of either colour) or off the board. The winner is the first player to push six of the opponent's marbles off of the edge of the board. 
+The notation for recording moves gives the letters A-I to the horizontal lines, and the numbers 1-9 to northwest-southeast diagonals.
+     I O O O O O
+    H O O O O O O
+   G + + O O O + +
+  F + + + + + + + +
+ E + + + + + + + + +
+  D + + + + + + + + 9
+   C + + @ @ @ + + 8
+    B @ @ @ @ @ @ 7
+     A @ @ @ @ @ 6
+        1 2 3 4 5
+A popular notation: An inline move can be denoted by the movement of the trailing marble. Broadside moves can be denoted by the initial positions of the two extremities of the row followed by the final position of the first one (thus, with this notation, each broadside move has two notations possible, which could be avoided).
+The dynamics of the basic game may have one serious flaw: it seems that a good, conservative player can set up his or her marbles in a defensive wedge, and ward off all attacks indefinitely. An attacker may try to outflank this wedge, or lure it into traps, but such advances are often more dangerous to the attacker than the defender. Thus, from the starting position, it takes little skill and no imagination to avoid losing, and nothing in the rules prevents games from being interminable.
+Because it is boring for games to be drawn out indefinitely, serious Abalone players tacitly agree to play aggressively. A player who forms a defensive wedge and makes no attempt to attack is therefore likely to be a novice who might lose anyway. Nevertheless, the possibility of any competent player bringing the game to a standstill, and successfully avoiding losing to even a championship-calibre player, remains troubling.
+There are several possible solutions to this conundrum. First, in tournaments, a judge may penalize a player for playing defensively. This solution is somewhat unsatisfactory, given that a judge may not always be present, and that "defensive play" is a subjective notion.
+Second, several variations of the rules of play have been developed for the same board and marbles. None of the variations has the same appealing simplicity of the original.
+The third, and perhaps best, alternative starting positions have been designed to make the formation of stalemate wedges less likely. Experiments are still underway to find an opening position, which neither devolves into a draw nor gives too great an advantage to the first player. One popular attempt is the Marguerite (daisy) positions, two versions of which are displayed on the left and on the right.
+Another option from the standard starting position is, there may be a turn limit where, if no marble has been knocked off the board by turn 15, whoever has made the most progress towards the center line wins. This encourages aggressive strategy and often the rule won't come into play.
+Abalone can be played by three people (or more) using the same board with fewer marbles for each player, each player with a different colour.
+A number of two-player variations use a third colour for passive pieces, for example variation The Pillar (with a fixed marble in the centre of the board), which has been examined to some depth by Alex Borello and Nicolas Le Gal. Another possible variation involves either player winning the game by ejecting the central marble. A few variations use a second layer of marbles.
+Forums of Abalone communities have found that generally:
+Keep the marbles close to the centre of the board and force the opponent to move to the edges.
+Keep the marbles close together for increased defense and attack, especially in a hexagon shape to be able to push or defend in any direction.
+Pushing the opponent off the board is not usually a good idea if it leads to weaknesses in the player’s geometry.
+Person-to-person competitions have been held by the Mind Sports Olympiad since 1997.
+1997:  Marc Tastet (France)
+1998:  Vojtěch Hrabal (Czech Republic)
+1999:  Gert Schnider (Austria)
+2000:  Gert Schnider (Austria)
+2001:  Thomas Fenner (Germany)
+2002:  Jan Šťastna (Czech Republic)
+2003:  Stephane Nicolet (France)
+2004:  Alex Borello (France)
+2005:  David M. Pearce (United Kingdom)
+2006:  Jan Šťastna (Czech Republic)
+2007:  Vincent Frochot (France)
+2008:  Jan Šťastna (Czech Republic)
+2009:  David M. Pearce (United Kingdom)
+2010:  Vincent Frochot (France)
+2011:  Vincent Frochot (France)
+2012:  David M. Pearce (United Kingdom)
+2013:  David M. Pearce (United Kingdom)
+2014:  Nicolas Fiorini (France)
+Gert Schnider and Thomas Fenner participated in the evaluation and adjustment of Aba-Pro. Marc Tastet was the 1992 World Othello Champion, Stephane Nicolet is a two-time World Othello Championship finalist, and Jan Stastna is a strong Othello player.
+In a computer-to-computer competition held in 2003 at the International Computer Games Association (ICGA) events in Graz, Austria, the AbaPro program defeated the Nacre program.
+In 1999, a number of top players from the Mind Sport Olympic signed an agreement to use a different starting position (the Belgian daisy) to revitalize the game. This has been used for top tournaments since then, including the AbaCup.

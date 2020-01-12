@@ -1,0 +1,16 @@
+gedit (/ˈdʒɛdɪt/ or /ˈɡɛdɪt/) is the default text editor of the GNOME desktop environment and part of the GNOME Core Applications. Designed as a general-purpose text editor, gedit emphasizes simplicity and ease of use, with a clean and simple GUI, according to the philosophy of the GNOME project. It includes tools for editing source code and structured text such as markup languages.
+It is free and open-source software subject to the requirements of the GNU General Public License version 2 or later.
+gedit is also available for Mac OS X and Microsoft Windows.
+gedit includes syntax highlighting via GtkSourceView for various program code and text markup formats. gedit also has GUI tabs for editing multiple files. Tabs can be moved between various windows by the user. It can edit remote files using GVFS (GnomeVFS is now deprecated) libraries. It supports a full undo and redo system as well as search and replace. Other typical code oriented features include line numbering, bracket matching, text wrapping, current line highlighting, automatic indentation and automatic file backup.
+The features of gedit include multi language spell checking via Enchant and a flexible plugin system allowing the addition of new features, for example snippets and integration with external applications including a Python or Bash terminal. A number of plugins are included in gedit itself, with more plugins in the gedit-plugins package and online.
+Since version 3.20 gedit uses gspell for spell checking.
+gedit has an optional side pane displaying the list of open files and (in a different tab of the side pane) a file browser. It also has an optional bottom pane with a Python console and (using gedit-plugins) terminal. gedit automatically detects when an open file is modified on disk by another application and offers to reload that file. Using a plugin (in gedit-plugins package), gedit can save and load sessions, which are lists of currently open tabs.
+gedit supports printing, including print preview and printing to PostScript and PDF files. Printing options include text font, and page size, orientation, margins, optional printing of page headers and line numbers, as well as syntax highlighting.
+In late 2013 and early 2014 the application received major upgrades, with a new, cleaner user interface and code base improvements to make it work better with other desktop interfaces, such as Unity. The new version of gedit will likely be incorporated in Gnome 3.12 or later.
+Valencia is a gedit plugin that turns gedit into a lightweight IDE for Vala.
+Being part of the GNOME Core Applications gedit 3 uses the GTK+ 3.0 and GNOME 3.0 libraries. The GNOME integration includes drag and drop to and from GNOME Files.
+gedit uses the GNOME help system for documentation. It also uses virtual file system and GNOME printing framework.
+In December 2008, gedit binaries were made available for Mac OS X and Microsoft Windows.
+Newer versions of Gedit (3.0+) for Windows are available through MSYS2 and can be installed via the built-in Pacman package manager.
+List of text editors
+Comparison of text editors

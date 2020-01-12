@@ -1,0 +1,2 @@
+Socket 4, presented in 1993, was the first CPU socket designed for the early P5 Pentium microprocessors. Socket 4 was the only 5-volt socket for the Pentium. After Socket 4, Intel switched to the 3.3-volt-powered Socket 5. Socket 4 does support a special Pentium OverDrive, which allows running at 120 MHz (for the 60 MHz Pentium) or 133 MHz (for the 66 MHz Pentium).
+List of Intel microprocessors

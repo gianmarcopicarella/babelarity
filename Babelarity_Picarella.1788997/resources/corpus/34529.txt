@@ -1,0 +1,76 @@
+Chromosome 4 is one of the 23 pairs of chromosomes in humans. People normally have two copies of this chromosome. Chromosome 4 spans more than 186 million base pairs (the building material of DNA) and represents between 6 and 6.5 percent of the total DNA in cells.
+The chromosome is ~191 megabases in length. Seven hundred and fifty seven protein encoding genes have been identified on this chromosome to date. Two-hundred and eleven (27.9%) of these coding sequences currently do not have any experimental evidence at the protein level. two-hundred and seventy one appear to be membrane proteins. 54 have been classified as cancer associated proteins.
+The following are some of the genes located on chromosome 4:
+ANK2: ankyrin 2, neuronal
+ACVR1: activin-like kinase 2 (ALK-2)
+ACOX3: encoding enzyme Peroxisomal acyl-coenzyme A oxidase 3
+AGPAT9: encoding enzyme Glycerol-3-phosphate acyltransferase 3 aka 1-acylglycerol-3-phosphate O-acyltransferase 9
+APBB2: encoding protein Amyloid beta A4 precursor protein-binding family B member 2
+ART3: encoding enzyme Ecto-ADP-ribosyltransferase 3
+ASAHL: encoding enzyme N-acylethanolamine-hydrolyzing acid amidase
+C4orf18: encoding protein Protein ENED
+Complement Factor I: Complement Factor I
+CRMP1: Collapsin response mediator protein 1, a member of CRMP family
+CXCL1: chemokine (C-X-C motif) ligand 1, scyb1
+CXCL2: chemokine (C-X-C motif) ligand 2, scyb2
+CXCL3: chemokine (C-X-C motif) ligand 3, scyb3
+CXCL4: chemokine (C-X-C motif) ligand 4, Platelet factor-4, PF-4, scyb4
+CXCL5: chemokine (C-X-C motif) ligand 5, scyb5
+CXCL6: chemokine (C-X-C motif) ligand 6, scyb6
+CXCL7: chemokine (C-X-C motif) ligand 7, PPBP, scyb7
+CXCL8: chemokine (C-X-C motif) ligand 8, interleukin 8 (IL-8), scyb8
+CXCL9: chemokine (C-X-C motif) ligand 9, scyb9
+CXCL10: chemokine (C-X-C motif) ligand 10, scyb10
+CXCL11: chemokine (C-X-C motif) ligand 11, scyb11
+CXCL13: chemokine (C-X-C motif) ligand 13, scyb13
+DUX4: Thought to be inactive but 2010 research shows a key role in FSHD
+EVC: Ellis van Creveld syndrome
+EVC2: Ellis van Creveld syndrome 2 (limbin)
+Factor XI: Mutations cause Haemophilia C
+FGF2: Fibroblast growth factor 2 (basic fibroblast growth factor)
+FGFR3: fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism, bladder cancer)
+FGFRL1: fibroblast growth factor receptor-like 1
+HCL2 (also called RHA or RHC): related to red hair
+HTT (Huntingtin): huntingtin protein (Huntington's disease)
+IGJ: linker protein for immunoglobulin alpha and mu polypeptides
+KDR: Kinase insert domain receptor (Vascular endothelial growth factor receptor 2)
+MMAA: methylmalonic aciduria (cobalamin deficiency) cblA type
+PHOX2B: codes for a homeodomain transcription factor
+PKD2: polycystic kidney disease 2 (autosomal dominant)
+PLK4: Serine/threonine-protein kinase PLK4
+QDPR: quinoid dihydropteridine reductase
+STATH: gene with protein product
+SNCA: synuclein, alpha (non A4 component of amyloid precursor)
+UCHL1: ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+UNC5C: netrin receptor UNC5C
+WFS1: Wolfram syndrome 1 (wolframin)
+The following are some of the diseases related to genes located on chromosome 4:
+Achondroplasia
+Autosomal dominant polycystic kidney disease (PKD-2)
+Bladder cancer
+Crouzonodermoskeletal syndrome
+Chronic lymphocytic leukemia
+Congenital central hypoventilation syndrome
+Ellis-van Creveld syndrome
+Facioscapulohumeral muscular dystrophy
+Fibrodysplasia ossificans progressiva (FOP)
+Haemophilia C
+Huntington's disease
+Hemolytic uremic syndrome
+Hereditary benign intraepithelial dyskeratosis
+Hirschprung's disease
+Hypochondroplasia
+Methylmalonic acidemia
+Muenke syndrome
+Nonsyndromic deafness
+Nonsyndromic deafness, autosomal dominant
+Parkinson's disease
+Polycystic kidney disease
+Romano-Ward syndrome
+SADDAN
+Tetrahydrobiopterin deficiency
+Thanatophoric dysplasia
+Type 1
+Type 2
+Wolfram syndrome
+Wolf–Hirschhorn syndrome

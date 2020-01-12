@@ -1,0 +1,3 @@
+Yery with diaeresis (Ӹ ӹ; italics: Ӹ ӹ) is a letter of the Cyrillic script. Its form is derived from the Cyrillic letter Yery (Ы ы Ы ы).
+Yery with diaeresis is used in the alphabet of the Mari language, where it represents the mid central vowel /ə/.
+Cyrillic characters in Unicode

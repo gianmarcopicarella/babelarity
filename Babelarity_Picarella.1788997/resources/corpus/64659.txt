@@ -1,0 +1,79 @@
+Polish notation (PN), also known as normal Polish notation (NPN), Łukasiewicz notation, Warsaw notation, Polish prefix notation or simply prefix notation, is a form of notation for logic, arithmetic, and algebra. Its distinguishing feature is that it places operators to the left of their operands. If the arity of the operators is fixed, the result is a syntax lacking parentheses or other brackets that can still be parsed without ambiguity. The Polish logician Jan Łukasiewicz invented this notation in 1924 in order to simplify sentential logic.
+The term Polish notation is sometimes taken (as the opposite of infix notation) to also include Polish postfix notation, or reverse Polish notation (RPN), in which the operator is placed after the operands.
+When Polish notation is used as a syntax for mathematical expressions by programming language interpreters, it is readily parsed into abstract syntax trees and can, in fact, define a one-to-one representation for the same. Because of this, Lisp (see below) and related programming languages define their entire syntax in terms of prefix notation (and others use postfix notation).
+Here is a quotation from a paper by Jan Łukasiewicz, Remarks on Nicod's Axiom and on "Generalizing Deduction", page 180.
+I came upon the idea of a parenthesis-free notation in 1924. I used that notation for the first time in my article Łukasiewicz(1), p. 610, footnote.
+The reference cited by Jan Łukasiewicz above is apparently a lithographed report in Polish. The referring paper by Łukasiewicz Remarks on Nicod's Axiom and on "Generalizing Deduction" was reviewed by H. A. Pogorzelski in the Journal of Symbolic Logic in 1965.
+Alonzo Church mentions this notation in his classic book on mathematical logic as worthy of remark in notational systems even contrasted to Whitehead and Russell's logical notational exposition and work in Principia Mathematica.
+In Łukasiewicz 1951 book, Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic, he mentions that the principle of his notation was to write the functors before the arguments to avoid brackets and that he had employed his notation in his logical papers since 1929. He then goes on to cite, as an example, a 1930 paper he wrote with Alfred Tarski on the sentential calculus.
+While no longer used much in logic, Polish notation has since found a place in computer science.
+The expression for adding the numbers 1 and 2 is, in prefix notation, written "+ 1 2" rather than "1 + 2". In more complex expressions, the operators still precede their operands, but the operands may themselves be nontrivial expressions including operators of their own. For instance, the expression that would be written in conventional infix notation as
+(5 − 6) × 7
+can be written in prefix as
+× (− 5 6) 7
+Since the simple arithmetic operators are all binary (at least, in arithmetic contexts), any prefix representation thereof is unambiguous, and bracketing the prefix expression is unnecessary. As such, the previous expression can be further simplified to
+× − 5 6 7
+The processing of the product is deferred until its two operands are available (i.e., 5 minus 6, and 7). As with any notation, the innermost expressions are evaluated first, but in prefix notation this "innermost-ness" can be conveyed by order rather than bracketing.
+In the classical notation, the parentheses in the infix version were required, since moving them
+5 − (6 × 7)
+or simply removing them
+5 − 6 × 7
+would change the meaning and result of the overall expression, due to the precedence rule.
+Similarly
+5 − (6 × 7)
+can be written in Polish notation as
+− 5 × 6 7
+Prefix notation has seen wide application in Lisp s-expressions, where the brackets are required since the operators in the language are themselves data (first-class functions). Lisp functions may also have variable arity. The Tcl programming language, much like Lisp also uses Polish notation through the mathop library. The Ambi programming language uses Polish Notation for arithmetic operations and program construction. The postfix reverse Polish notation is used in many stack-based programming languages like PostScript and Forth, and is the operating principle of certain calculators, notably from Hewlett-Packard.
+CoffeeScript syntax also allows functions to be called using prefix notation, while still supporting the unary postfix syntax common in other languages.
+The number of return values of an expression equals the difference between the number of operands in an expression and the total arity of the operators minus the total number of return values of the operators.
+Order of operations is defined within the structure of prefix notation and can be easily determined. One thing to keep in mind is that when executing an operation, the operation is applied to the first operand by the second operand. This is not an issue with operations that commute, but for non-commutative operations like division or subtraction, this fact is crucial to the analysis of a statement. For example, the following statement:
+ ÷ 10 5 = 2
+is read as "divide 10 by 5". Thus the solution is 2, not 1/2 as would be the result of an incorrect analysis.
+Prefix notation is especially popular with stack-based operations due to its innate ability to easily distinguish order of operations without the need for parentheses. To evaluate order of operations under prefix notation, one does not even need to memorize an operational hierarchy, as with infix notation. Instead, one looks directly to the notation to discover which operator to evaluate first. Reading an expression from left to right, one first looks for an operator and proceeds to look for two operands. If another operator is found before two operands are found, then the old operator is placed aside until this new operator is resolved. This process iterates until an operator is resolved, which must happen eventually, as there must be one more operand than there are operators in a complete statement. Once resolved, the operator and the two operands are replaced with a new operand. Because one operator and two operands are removed and one operand is added, there is a net loss of one operator and one operand, which still leaves an expression with N operators and N + 1 operands, thus allowing the iterative process to continue. This is the general theory behind using stacks in programming languages to evaluate a statement in prefix notation, although there are various algorithms that manipulate the process. Once analyzed, a statement in prefix notation becomes less intimidating to the human mind as it allows some separation from convention with added convenience. An example shows the ease with which a complex statement in prefix notation can be deciphered through order of operations:
+− × ÷ 15 − 7 + 1 1 3 + 2 + 1 1 =
+− × ÷ 15 − 7 2     3 + 2 + 1 1 =
+− × ÷ 15 5         3 + 2 + 1 1 =
+− × 3              3 + 2 + 1 1 =
+− 9                  + 2 + 1 1 =
+− 9                  + 2 2     =
+− 9                  4         =
+5
+An equivalent in-fix is as follows: ((15 ÷ (7 − (1 + 1))) × 3) − (2 + (1 + 1)) = 5
+Here is an implementation (in pseudocode) of prefix evaluation using a stack. Note that under this implementation the input string is scanned from right to left. This differs from the algorithm described above in which the string is processed from left to right. Both algorithms compute the same value for all valid strings.
+Scan the given prefix expression from right to left
+for each symbol
+ {
+  if operand then
+    push onto stack
+  if operator then
+   {
+    operand1=pop stack
+    operand2=pop stack
+    compute operand1 operator operand2
+    push result onto stack
+   }
+ }
+return top of stack as result
+Applying this algorithm to the example above yields the following:
+− × ÷ 15 − 7 + 1 1 3 + 2 + 1 1 =
+− × ÷ 15 − 7 + 1 1 3 + 2 2     =
+− × ÷ 15 − 7 + 1 1 3 4         =
+− × ÷ 15 − 7 2     3 4         =
+− × ÷ 15 5         3 4         =
+− × 3              3 4         =
+− 9                  4         =
+5
+This uses the same expression as before and the algorithm above.
+− × ÷ 15 − 7 + 1 1 3 + 2 + 1 1
+The result is at the top of the stack.
+The table below shows the core of Jan Łukasiewicz's notation for sentential logic. Some letters in the Polish notation table stand for particular words in Polish, as shown:
+Note that the quantifiers ranged over propositional values in Łukasiewicz's work on many-valued logics.
+Bocheński introduced an incompatible system of Polish notation that names all 16 binary connectives of classical propositional logic.
+Reverse Polish notation
+Function application
+Lambda calculus
+Currying
+Lisp (programming language)
+S-expression
+Polish School of Mathematics
+Hungarian notation

@@ -1,0 +1,50 @@
+Hyperglycemia, or high blood sugar (also spelled hyperglycaemia or hyperglycæmia) is a condition in which an excessive amount of glucose circulates in the blood plasma. This is generally a blood sugar level higher than 11.1 mmol/l (200 mg/dl), but symptoms may not start to become noticeable until even higher values such as 15–20 mmol/l (~250–300 mg/dl). A subject with a consistent range between ~5.6 and ~7 mmol/l (100–126 mg/dl) (American Diabetes Association guidelines) is considered hyperglycemic, while above 7 mmol/l (126 mg/dl) is generally held to have diabetes. Chronic levels exceeding 7 mmol/l (125 mg/dl) can produce organ damage.
+The origin of the term is Greek: prefix ὑπέρ- hyper- "over-", γλυκός glycos "sweet wine, must", αἷμα haima "blood", -ία, -εια -ia suffix for abstract nouns of feminine gender.
+It is critical for patients who monitor glucose levels at home to be aware of which units of measurement their testing kit uses. Glucose levels are measured in either:
+Millimoles per liter (mmol/l) is the SI standard unit used in most countries around the world.
+Milligrams per deciliter (mg/dl) is used in some countries such as the United States, Japan, France, Egypt and Colombia.
+Scientific journals are moving towards using mmol/l; some journals now use mmol/l as the primary unit but quote mg/dl in parentheses.
+Glucose levels vary before and after meals, and at various times of day; the definition of "normal" varies among medical professionals. In general, the normal range for most people (fasting adults) is about 4 to 6 mmol/l or 80 to 110 mg/dl. (where 4 mmol/l or 80 mg/dl is "optimal".) A subject with a consistent range above 7 mmol/l or 126 mg/dl is generally held to have hyperglycemia, whereas a consistent range below 4 mmol/l or 70 mg/dl is considered hypoglycemic. In fasting adults, blood plasma glucose should not exceed 7 mmol/l or 126 mg/dL. Sustained higher levels of blood sugar cause damage to the blood vessels and to the organs they supply, leading to the complications of diabetes.
+Chronic hyperglycemia can be measured via the HbA1c test. The definition of acute hyperglycemia varies by study, with mmol/l levels from 8 to 15 (mg/dl levels from 144 to 270).
+Temporary hyperglycemia is often benign and asymptomatic. Blood glucose levels can rise well above normal for significant periods without producing any permanent effects or symptoms. However, chronic hyperglycemia at levels more than slightly above normal can produce a very wide variety of serious complications over a period of years, including kidney damage, neurological damage, cardiovascular damage, damage to the retina or damage to feet and legs. Diabetic neuropathy may be a result of long-term hyperglycemia.
+In diabetes mellitus (by far the most common cause of chronic hyperglycemia), treatment aims at maintaining blood glucose at a level as close to normal as possible, in order to avoid these serious long-term complications. This is done by a combination of proper diet, regular exercise, and insulin or other medication such as metformin, etc.
+Acute hyperglycemia involving glucose levels that are extremely high is a medical emergency and can rapidly produce serious complications (such as fluid loss through osmotic diuresis). It is most often seen in persons who have uncontrolled insulin-dependent diabetes.
+The following symptoms may be associated with acute or chronic hyperglycemia, with the first three composing the classic hyperglycemic triad:
+Polyphagia - frequent hunger, especially pronounced hunger
+Polydipsia - frequent thirst, especially excessive thirst
+Polyuria - increased volume of urination (not an increased frequency for urination)
+Blurred vision
+Fatigue
+Weight loss
+Poor wound healing (cuts, scrapes, etc.)
+Dry mouth
+Dry or itchy skin
+Tingling in feet or heels
+Erectile dysfunction
+Recurrent infections, external ear infections (swimmer's ear)
+Cardiac arrhythmia
+Stupor
+Coma
+Seizures
+Frequent hunger without other symptoms can also indicate that blood sugar levels are too low. This may occur when people who have diabetes take too much oral hypoglycemic medication or insulin for the amount of food they eat. The resulting drop in blood sugar level to below the normal range prompts a hunger response. This hunger is not usually as pronounced as in Type I diabetes, especially the juvenile onset form, but it makes the prescription of oral hypoglycemic medication difficult to manage.
+Polydipsia and polyuria occur when blood glucose levels rise high enough to result in excretion of excess glucose via the kidneys, which leads to the presence of glucose in the urine. This produces an osmotic diuresis.
+Signs and symptoms of diabetic ketoacidosis may include:
+Ketoacidosis
+Kussmaul hyperventilation: deep, rapid breathing
+Confusion or a decreased level of consciousness
+Dehydration due to glycosuria and osmotic diuresis
+Acute hunger and/or thirst
+'Fruity' smelling breath odor
+Impairment of cognitive function, along with increased sadness and anxiety
+Hyperglycemia can be a serious problem if not treated in time. In untreated hyperglycemia, a condition called ketoacidosis (contrast ketosis) could occur. Ketoacidosis develops when the body does not have enough insulin. Without insulin, the body isn't able to utilize the glucose for fuel, so the body starts to break down fats for energy.
+Ketoacidosis is a life-threatening condition which needs immediate treatment. Symptoms include: shortness of breath, breath that smells fruity (such as pear drops), nausea and vomiting, and very dry mouth. Chronic hyperglycemia (high blood sugar) injures the heart in patients without a history of heart disease or diabetes and is strongly associated with heart attacks and death in subjects with no coronary heart disease or history of heart failure.
+Chronic hyperglycemia that persists even in fasting states is most commonly caused by diabetes mellitus. In fact, chronic hyperglycemia is the defining characteristic of the disease. Intermittent hyperglycemia may be present in prediabetic states. Acute episodes of hyperglycemia without an obvious cause may indicate developing diabetes or a predisposition to the disorder.
+In diabetes mellitus, hyperglycemia is usually caused by low insulin levels (Diabetes mellitus type 1) and/or by resistance to insulin at the cellular level (Diabetes mellitus type 2), depending on the type and state of the disease. Low insulin levels and/or insulin resistance prevent the body from converting glucose into glycogen (a starch-like source of energy stored mostly in the liver), which in turn makes it difficult or impossible to remove excess glucose from the blood. With normal glucose levels, the total amount of glucose in the blood at any given moment is only enough to provide energy to the body for 20–30 minutes, and so glucose levels must be precisely maintained by the body's internal control mechanisms. When the mechanisms fail in a way that allows glucose to rise to abnormal levels, hyperglycemia is the result.
+Certain medications increase the risk of hyperglycemia, including corticosteroids, octreotide, beta blockers, epinephrine, thiazide diuretics, niacin, pentamidine, protease inhibitors, L-asparaginase, and some antipsychotic agents. The acute administration of stimulants such as amphetamine typically produces hyperglycemia; chronic use, however, produces hypoglycemia. Some of the newer psychotropic medications, such as Zyprexa (Olanzapine) and Cymbalta (Duloxetine), can also cause significant hyperglycemia.
+A high proportion of patients suffering an acute stress such as stroke or myocardial infarction may develop hyperglycemia, even in the absence of a diagnosis of diabetes. (Or perhaps stroke or myocardial infarction was caused by hyperglycemia and undiagnosed diabetes.) Human and animal studies suggest that this is not benign, and that stress-induced hyperglycemia is associated with a high risk of mortality after both stroke and myocardial infarction.
+The following conditions can also cause hyperglycemia in the absence of diabetes. 1) Dysfunction of the thyroid, adrenal, and pituitary glands 2) Numerous diseases of the pancreas 3) Severe increases in blood glucose may be seen in sepsis and certain infections 4) Intracranial diseases (frequently overlooked) can also cause hyperglycemia. Encephalitis, brain tumors (especially those located near the pituitary gland), brain bleeds, and meningitis are prime examples. 5) Mild to high blood sugar levels are often seen in convulsions and terminal stages of many diseases. Prolonged, major surgeries can temporarily increase glucose levels. Certain forms of severe stress and physical trauma can increase levels for a brief time as well yet rarely exceeds 6.6 mmol/l (120 mg/dl).
+Treatment of hyperglycemia requires elimination of the underlying cause, such as diabetes. Acute hyperglycemia can be treated by direct administration of insulin in most cases. Severe hyperglycemia can be treated with oral hypoglycemic therapy and lifestyle modification.
+Hypoglycemia
+Diabetes
+Prediabetes
+Reference ranges for blood tests

@@ -1,0 +1,33 @@
+Seismic moment is a quantity used by earthquake seismologists to measure the size of an earthquake. The scalar seismic moment 
+          M
+            0
+    {\displaystyle M_{0}}
+   is defined by the equation 
+          M
+            0
+        =
+        μ
+        A
+        D
+    {\displaystyle M_{0}=\mu AD}
+  , where
+        μ
+    {\displaystyle \mu }
+   is the shear modulus of the rocks involved in the earthquake (in Pa)
+        A
+    {\displaystyle A}
+   is the area of the rupture along the geologic fault where the earthquake occurred (in m2), and
+        D
+    {\displaystyle D}
+   is the average displacement on 
+        A
+    {\displaystyle A}
+   (in m).
+          M
+            0
+    {\displaystyle M_{0}}
+   thus has dimensions of energy, measured in Joules or Newton meters.
+The seismic moment of an earthquake is typically estimated using whatever information is available to constrain its factors. For modern earthquakes, moment is usually estimated from ground motion recordings of earthquakes known as seismograms. For earthquakes that occurred in times before modern instruments were available, moment may be estimated from geologic estimates of the size of the fault rupture and the displacement.
+Seismic moment is the basis of the moment magnitude scale introduced by Hiroo Kanamori, which is often used to compare the size of different earthquakes and is especially useful for comparing the sizes of especially large (great) earthquakes.
+Richter magnitude scale
+Moment magnitude scale

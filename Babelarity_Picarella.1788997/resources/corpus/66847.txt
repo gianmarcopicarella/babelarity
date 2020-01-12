@@ -1,0 +1,46 @@
+Fundamental analysis, in accounting and finance, is the analysis of a business's financial statements (usually to analyze the business's assets, liabilities, and earnings); health; and its competitors and markets. When applied to futures and forex, it focuses on the overall state of the economy, and considers factors including interest rates, production, earnings, employment, GDP, housing, manufacturing and management. When analyzing a stock, futures contract, or currency using fundamental analysis there are two basic approaches one can use: bottom up analysis and top down analysis. The terms are used to distinguish such analysis from other types of investment analysis, such as quantitative and technical.
+Fundamental analysis is performed on historical and present data, but with the goal of making financial forecasts. There are several possible objectives:
+to conduct a company stock valuation and predict its probable price evolution;
+to make a projection on its business performance;
+to evaluate its management and make internal business decisions;
+and/or to calculate its credit risk.
+to find out the intrinsic value of the share.
+When the objective of the analysis is to determine what stock to buy and at what price, there are two basic methodologies investors rely upon:
+Fundamental analysis maintains that markets may misprice a security in the short run but that the "correct" price will eventually be reached. Profits can be made by purchasing the mispriced security and then waiting for the market to recognize its "mistake" and reprice the security.
+Technical analysis maintains that all information is reflected already in the price of a security. Technical analysts analyze trends and believe that sentiment changes predate and predict trend changes. Investors' emotional responses to price movements lead to recognizable price chart patterns. Technical analysts also analyze historical trends to predict future price movement.
+Investors can use one or both of these different but complementary methods for stock picking. For example, many fundamental investors use technicals for deciding entry and exit points. Similarly, many technical investors use fundamentals to limit their universe of possible stock to 'good' companies.
+The choice of stock analysis is determined by the investor's belief in the different paradigms for "how the stock market works". See the discussions at efficient-market hypothesis, random walk hypothesis, capital asset pricing model, Fed model Theory of Equity Valuation, market-based valuation, and behavioral finance for explanations of these paradigms.
+Fundamental analysis includes:
+Economic analysis
+Industry analysis
+Company analysis
+The intrinsic value of the shares is determined based upon these three analyses. This value is considered the true value of the share. If the intrinsic value is higher than the market price, it is recommended to buy the share. If it is equal to market price, it is recommended to hold the share; if it is less than the market price, then one should sell the shares.
+Investors may also use fundamental analysis within different portfolio management styles.
+Buy and hold investors believe that latching onto good businesses allows the investor's asset to grow with the business. Fundamental analysis lets them find 'good' companies, so they lower their risk and probability of wipe-out.
+Value investors restrict their attention to under-valued companies, believing that 'it's hard to fall out of a ditch'. The values they follow come from fundamental analysis.
+Managers may use fundamental analysis to correctly value 'good' and 'bad' companies. 'Bad' companies' stock price will eventually fluctuate, creating opportunities for profit.
+Managers may also consider the economic cycle in determining whether conditions are 'right' to buy fundamentally suitable companies.
+Contrarian investors hold that "in the short run, the market is a voting machine, not a weighing machine". Fundamental analysis allows a broker to make his or her own decision on value, while ignoring the opinions of the market.
+In addition, managers may use fundamental analysis to determine future growth rates for buying high priced growth stocks.
+Lastly, managers may include fundamental factors along with technical factors in computer models (quantitative analysis).
+Investors using fundamental analysis can use either a top-down or bottom-up approach.
+The top-down investor starts their analysis with global economics, including both international and national economic indicators; such as GDP growth rates, inflation, interest rates, exchange rates, productivity, and energy prices. They subsequently narrow their search to regional/industry analysis of total sales, price levels, the effects of competing products, foreign competition, and entry or exit from the industry. Only then do they refine their search to the best business in the area being studied.
+The bottom-up investor starts with specific businesses, regardless of their industry/region, and proceeds in reverse of the top-down approach.
+The analysis of a business' health starts with a financial statement analysis that includes financial ratios. It looks at dividends paid, operating cash flow, new equity issues, and capital financing. The earnings estimates and growth rate projections published widely by Thomson Reuters and others can be considered either 'fundamental' (they are facts) or 'technical' (they are investor sentiment) based on your perception of their validity.
+Determined growth rates (of income and cash) and risk levels (to determine the discount rate) are used in various valuation models. The foremost is the discounted cash flow model, which calculates the present value of the future
+dividends received by the investor, along with the eventual sale price; (Gordon model)
+earnings of the company;
+or cash flows of the company.
+The amount of debt a company possesses is also a major consideration in determining its health. It can be quickly assessed using the debt-to-equity ratio and the current ratio (current assets/current liabilities).
+The simple model commonly used is the P/E ratio (price-to-earnings ratio). Implicit in this model of a perpetual annuity (time value of money) is that the 'flip' of the P/E is the discount rate appropriate to the risk of the business. The multiple accepted is adjusted for expected growth (which is not built into the model).
+Growth estimates are incorporated into the PEG ratio. Its validity depends on the length of time analysts believe the growth will continue. IGAR models can be used to impute expected changes in growth from current P/E and historical growth rates for the stocks relative to a comparison index.
+Computer modelling of stock prices has now replaced much of the subjective interpretation of fundamental data (along with technical data) in the industry. Since about year 2000, with computers now able to crunch vast amounts of data, a new career has been invented. At some funds (called Quant Funds) the manager's decisions have been replaced by proprietary mathematical models.
+The process of fundamental analysis has significantly dropped in difficulty over the past 10 years. Ever since computers became a household product, people have built software designed to make the investor's life easier. Fundamental analysis is one of the most time consuming forms of analysis and with the fast paced trading style of the 21st century, where markets are dominated by HFT firms and day traders, it is difficult to keep up with the market in a timely fashion. One way to go about cutting down analysis time, is to subscribe to either free or paid screening services. Screening services will allow you to search the entire market for stocks that match the quantitative fields you are looking for. These software then automatically give you results, cutting down on time spent sifting through SEC filings.
+Reference - Fundamental Analysis Software for more information on fundamental analysis software.
+Economists such as Burton Malkiel suggest that neither fundamental analysis nor technical analysis is useful in outperforming the markets
+Lists of valuation topics
+Security analysis
+Stock selection criterion
+John Burr Williams: Theory
+Mosaic theory
+Chepakovich valuation model

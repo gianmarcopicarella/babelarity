@@ -1,0 +1,20 @@
+Jacques Charles François Sturm ForMemRS (29 September 1803 – 15 December 1855) was a French mathematician. 
+Sturm was born in Geneva (then part of France) in 1803. His family had emigrated from Strasbourg around 1760. In 1818, he started to follow the lectures of the academy of Geneva. In 1819, the death of his father forced Sturm to give lessons to children of the rich in order to support his own family. In 1823, he became tutor to the son of Madame de Staël.
+At the end of 1823, Sturm stayed in Paris for a short time following the family of his student. He resolved, with his school-fellow Colladon, to try his fortune in Paris, and obtained employment on the Bulletin universel. In 1829, he discovered the theorem which bears his name and which concerns the determination of the number and the localization of the real roots of a polynomial equation included between given limits.
+Sturm benefited from the 1830 revolution, as his Protestant faith ceased to be an obstacle to employment in public high schools. At the end of 1830, he was thus appointed as a professor of Mathématiques Spéciales at the collège Rollin.
+He was chosen a member of the Académie des Sciences in 1836, filling the seat of André-Marie Ampère. Sturm became répétiteur in 1838, and in 1840 professor in the École Polytechnique. The same year, after the death of SD Poisson, Sturm was appointed as mechanics professor of the Faculté des sciences de Paris. His works, Cours d'analyse de l'école polytechnique (1857–1863) and Cours de mécanique de l'école polytechnique (1861), were published after his death in Paris, and were regularly republished.
+He was the co-eponym of the Sturm–Liouville theory with Joseph Liouville. Sturm's theorem is a basic result for counting and finding the real zeroes of polynomials.
+In 1826, with his colleague Jean-Daniel Colladon, Sturm helped make the first experimental determination of the speed of sound in water.
+In 1851 his health began to fail. He was able to return to teaching for a while during his long illness, but in 1855 he died.
+The asteroid 31043 Sturm is named for him. Sturm's name is one of the 72 names engraved at the Eiffel Tower.
+Grand prix de Mathématiques (4 December 1834)
+Member of the academy of Berlin (1835)
+Member of the academy of Saint-Petersburg (1836)
+Officier de la Légion d'Honneur (1837)
+Copley Medal of the Royal Society of London (1840)
+Member of the Royal Society of London (1840)
+Cours d'analyse de l'Ecole polytechnique. Tome premier (Gauthier-Villars, 1877)
+Cours d'analyse de l'Ecole polytechnique. Tome second (Gauthier-Villars, 1877)
+Cours de mécanique de l'Ecole polytechnique (Gauthier-Villars, 1883)
+Sturm–Picone comparison theorem
+Sturm separation theorem

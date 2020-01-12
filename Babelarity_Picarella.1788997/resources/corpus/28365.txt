@@ -1,0 +1,73 @@
+The de Havilland DH.110 Sea Vixen is a twin boom, twin-engined 1950s–60s British two-seat jet fighter of the Fleet Air Arm designed by de Havilland at Hatfield, Hertfordshire. Developed from an earlier first generation jet fighter, the Sea Vixen was a capable carrier-based fleet defence fighter that served into the 1970s. Initially produced by de Havilland it was later known as the Hawker Siddeley Sea Vixen after de Havilland became a part of the Hawker Siddeley Group in 1960. A single example remains airworthy today in the UK and is displayed regularly at airshows.
+The aircraft was designated the DH.110 by de Havilland; a twin-engined all-weather fighter, development of which started in 1946 following discussions with the Admiralty of its requirements for jet all-weather fighters. De Havilland's design shared the twin-boom layout of the de Havilland Vampire, had an all-metal structure and featured swept wings. It was to be powered by two Rolls-Royce Avon engines, each capable of 7,500 lbf (33 kN) of thrust, which would allow the aircraft to be supersonic in a shallow dive. The DH 110 was the first British two-seat combat aircraft to achieve supersonic speed. Armament was to be four 30 mm ADEN cannon. In January 1947, specifications N.40/46 and F.44/46 were issued by the British Air Ministry for similar night-fighters to equip the Fleet Air Arm (FAA) and Royal Air Force (RAF), with nine prototypes being ordered for the RAF (together with four of the competing Gloster Javelin) and four prototypes for the Fleet Air Arm. In 1949, however, the Royal Navy decided to buy the de Havilland Sea Venom, which as a development of an existing type was cheaper and available quickly to meet its immediate needs for a jet-powered night fighter to replace its piston-engined de Havilland Sea Hornets, while the RAF cut its order back to two prototypes. Despite this, de Havilland continued with the project.
+The first prototype was built and first flown at Hatfield Aerodrome on 26 September 1951 piloted by John Cunningham; the aircraft's performance exceeded expectations, and by the following year it was regularly flying faster than the speed of sound. However, tragedy struck while the aircraft was being demonstrated at the Farnborough Airshow on 6 September 1952. Following a demonstration of its ability to break the sound barrier in low level flight, the aircraft disintegrated, killing 31 people, including the crew of two, test pilot and record breaker John Derry and Tony Richards. The failure was traced to faulty design of the end sections of the main spar, which resulted in the outer ends of the wings shearing off during a high-rate turn. The subsequent shift in the DH.110's centre of lift caused the aircraft to lurch violently, creating forces of over 12 g, resulting in the cockpit and tail sections breaking away and the engines being torn from the airframe. One of the engines hit an area crowded with spectators at the end of the runway, causing the majority of casualties. Other spectators were injured by debris from the cockpit landing close to the main spectator enclosures alongside the runway. This incident led to a restructuring of safety regulations for air shows in the UK, and no member of the public died as a result of a UK airshow demonstration flight for more than 62 years, until the 22 August 2015 Shoreham Airshow crash of a Hawker Hunter killed eleven.
+Owing to the first prototype crashing, modifications were made to the second prototype, including the fitting of an all-moving tailplane, the modified aircraft not flying again until July 1954. By this time, the RAF had abandoned its interest in the DH.110, choosing instead the Gloster Javelin but the Fleet Air Arm decided to adopt the DH.110 to replace its interim Sea Venoms.
+In 1955, a semi-navalised variant was produced as a prototype, including changes of the leading edge profile and strengthening of the wings, making its first flight from de Havilland's factory airfield at Christchurch on 20 June 1955. The following year, the aircraft XF828 made its first arrested deck landing on the fleet aircraft carrier HMS Ark Royal. The first true Sea Vixen, the Sea Vixen FAW.20 (fighter all-weather, later redesignated FAW.1), first flew on 20 March 1957; and on 2 July 1959, the first Sea Vixen equipped squadron formed.
+Production Sea Vixens were first built by de Havilland at the former World War II Airspeed Ltd. 'shadow factory' at Christchurch near Bournemouth from March 1957 to August 1962 when production was transferred to another de Havilland factory at Hawarden, near Chester.
+The Sea Vixen had a twin-boom tail, as used on the de Havilland Sea Vampire and Sea Venom. The Sea Vixen became the first British aircraft to be solely armed with missiles, rockets and bombs. The Sea Vixen FAW.1 was armed with four de Havilland Firestreak air-to-air missiles, two Microcell unguided 2 inch (51 mm) rocket packs, and four 500 lb (227 kg) or two 1,000 lb (454 kg) bombs. It was powered by two 11,230 lbf (50.0 kN) thrust Rolls-Royce Avon 208 turbojet engines, had a speed of 690 mph (1,110 km/h) and a range of 600 mi (1,000 km). The original DH.110 design as offered to the RAF had cannon fitted; however the cannon were soon removed and an all-missile armament was developed.
+The pilot's canopy was offset to the left-hand side. The observer was housed to the right completely within the fuselage, gaining access through a flush-fitting top hatch into his position, nicknamed the "Coal Hole".
+The Sea Vixen FAW.2 was the successor to the FAW.1 and included many improvements. As well as Firestreak missiles, it could carry the Red Top AAM, four SNEB rocket pods and the air-to-ground Bullpup missile. An enlarged tail boom allowed for additional fuel tanks in the "pinion" extensions above and before the wing leading edge, and there was an improved escape system along with additional room for more electronic counter-measures equipment. However, the changes in aerodynamics meant that the 1,000 lb bomb could no longer be carried. Visually the FAW.1 and FAW.2 could be distinguished by the tail booms which extended forward over the leading edge of the wing on the FAW.2.
+The FAW.2 first flew in 1962 and entered service with frontline squadrons in 1964, with 29 being built and a further 67 FAW.1s being upgraded to FAW.2 standard. The FAW.1 began phasing out in 1966. In 1972, the career of the Sea Vixen FAW.2 came to an end. It was planned to replace the Sea Vixen with the F-4 Phantom II, with both HMS Ark Royal and Eagle to be refitted to take the new aircraft. Due to defence cuts and following the decommissioning of HMS Eagle, only Ark Royal was converted to take the new aircraft.
+A small number of Sea Vixens subsequently saw service in the less glamorous role of drones, being redesignated Sea Vixen D.3. Only four were converted to the D.3 standard, though three more were sent to Farnborough for conversion but not converted. The last remaining airworthy Sea Vixen (XP924) was a D3 conversion. Some other Sea Vixens became target tugs and were redesignated as TT.2.
+The aircraft did not take part in any true wars during its career with the Fleet Air Arm though it took part in many operations. In 1961, President Abdul Karim Kassem of Iraq threatened to annex the neighbouring oil-rich state of Kuwait. In response to Kuwait's appeal for external help, the United Kingdom dispatched a number of ships to the region, including two fleet carriers. Sea Vixens aboard the fleet carriers flew patrols in the region, and Kassem's aggressive actions wilted in the face of the strong naval presence, thus averting a war over Kuwait.
+In January 1964, trouble flared in the East African state of Tanganyika after the 1st and 2nd Tanganyika Rifles mutinied against the British officers and NCOs who, despite Tanganyika being independent, still commanded the regiment. The mutineers also seized the British High Commissioner and the airport at the capital Dar-es-Salaam. The UK responded by sending the light fleet carrier HMS Centaur, accompanied by 45 Commando, Royal Marines. The Sea Vixens, flying off Centaur, performed a number of duties including the providing of cover for the Royal Marines who were landed in Tanganyika by helicopters. The operation "to restore Tanganyika to stability" ended in success. That same year, Sea Vixens of HMS Centaur saw service once again in the Persian Gulf, including the launch of air strikes against rebel forces, this time supporting British forces fighting against locals disgruntled by the loss of tolls in the Radfan. Later in 1964, HMS Centaur's 892 Squadron Sea Vixens stationed off Indonesia, helped to prevent an escalation of President Sukarno's Indonesia–Malaysia confrontation.
+Sea Vixens saw further service during the 1960s, performing duties on Beira Patrol, a Royal Navy operation designed to prevent oil reaching landlocked Rhodesia via the then Portuguese colony of Mozambique. The Sea Vixen also saw service in the Far East. In 1967, once again in the Persian Gulf, Sea Vixens helped cover the withdrawal from Aden. There were a number of Royal Navy warships involved, including the carriers HMS Albion, HMS Bulwark and HMS Eagle (carrying the Sea Vixens) and the LPD (Landing Platform Dock) HMS Fearless.
+The Sea Vixen also took to the skies in the aerobatic role, performing in two Royal Navy display teams: "Simon's Sircus" (sic) and "Fred's Five".
+Of the 145 Sea Vixens constructed, 54 were lost in accidents. Two DH.110 development prototypes were also lost.
+A small number of Sea Vixens were sent to FR Aviation at Tarrant Rushton airfield for conversion to D.3 drone standard, with some undergoing testing at RAF Llanbedr before the drone programme was abandoned. Among them was XP924, now G-CVIX, the only Sea Vixen to remain in flying condition, which has now been returned to 899 NAS colours. Formerly owned and operated by De Havilland Aviation, G-CVIX could be viewed at their hangar at Bournemouth Airport in Dorset, southern England, or at air shows around the UK. The Air Accident Investigation Branch published an enquiry into damage suffered by G-CVIX on landing at Bournemouth on 5 April 2012. On September 16, 2014 G-CVIX was transferred to Naval Aviation Ltd., a subsidiary of Fly Navy Heritage Trust. and will be based at the Royal Naval Air Station Yeovilton in Somerset. From here XP924 will operate for the following airshow seasons.
+ United Kingdom
+Royal Navy Fleet Air Arm
+"Fly Navy Heritage Trust" one former Royal Navy aircraft formerly owned by De Havilland Aviation and flown as a promotional and display aircraft
+One Sea Vixen remains airworthy:
+Sea Vixen D.3 G-CVIX, the former XP924, registered until 2014 to DS Aviation (UK) at Bournemouth Airport, Dorset. It has a display of registration mark exemption to fly in its original Royal Navy markings as "XP924" coded "134". It originally flew with 899 Naval Air Squadron Fleet Air Arm as "134" from November 1968 until 1970 from HMS Eagle. The ownership of XP924 moved to the Fly Navy Heritage Trust with a formal donation ceremony at RNAS Yeovilton on 16 September 2014. The Sea Vixen will in future be maintained and operated from Yeovilton by Naval Aviation Ltd., a subsidiary of Fly Navy Heritage Trust.
+The following complete airframes are on public display:
+Sea Vixen FAW.1 XJ481, Fleet Air Arm Museum, RNAS Yeovilton, Somerset. Part of the Museum's reserve collection.
+Sea Vixen FAW.1 XJ482, Norfolk and Suffolk Aviation Museum, Suffolk.
+Sea Vixen FAW.2 XJ490, Queensland Air Museum, Caloundra, Australia. Airframe complete, but internals removed.
+Sea Vixen FAW.2 XJ494, Bruntingthorpe Aerodrome, Leicestershire.
+Sea Vixen FAW.2 XJ560, Newark Air Museum, Nottinghamshire.
+Sea Vixen FAW.2 XJ565, de Havilland Aircraft Heritage Centre, Hertfordshire.
+Sea Vixen FAW.2 XJ571, Solent Sky, Hampshire.
+Sea Vixen FAW.2 XJ580, Tangmere Military Aviation Museum, West Sussex.
+Sea Vixen FAW.2 XN685, Midland Air Museum, Coventry.
+Sea Vixen FAW.2 XS576, IWM Duxford, Cambridgeshire.
+Sea Vixen TT.2 XS587 (now G-VIXN), Gatwick Aviation Museum, Surrey.
+Sea Vixen FAW.2 XS590, Fleet Air Arm Museum, RNAS Yeovilton, Somerset.
+Data from The Great Book of Fighters
+General characteristics
+Crew: Two, pilot and Observer
+Length: 55 ft 7 in (16.94 m)
+Wingspan: 51 ft 0 in (15.54 m)
+Height: 10 ft 9 in (3.28 m)
+Wing area: 648 ft² (60.2 m²)
+Empty weight: 27,950 lb (12,680 kg)
+Loaded weight: 41,575 lb (18,860 kg)
+Max. takeoff weight: 46,750 lb  (21,205 kg)
+Powerplant: 2 × Rolls-Royce Avon Mk.208 turbojets, 50 kN (11,000 lbf) each
+Performance
+Maximum speed: Mach 0.91 (690 mph, 1,110 km/h) at sea level
+Range: 790 mi (1,270 km) with internal fuel
+Service ceiling: 48,000 ft (14,600 m)
+Rate of climb: 9,000 ft/min (46 m/s)
+Wing loading: 64.2 lb/ft² (313 kg/m²)
+Thrust/weight: 0.54
+Armament
+Hardpoints: 6  and provisions to carry combinations of:
+Rockets: 4 × Matra rocket pods with 18 × SNEB 68 mm rockets each
+Missiles: 4 × Red Top or Firestreak air-to-air missiles
+Bombs: 1 × Red Beard freefall nuclear bomb
+AvionicsGEC AI.18 Air Interception radar
+De Havilland Aviation
+1952 Farnborough Airshow DH.110 crash
+de Havilland Aircraft Heritage Centre
+Portal:British aircraft since World War II
+Related development
+de Havilland Vampire
+de Havilland Sea Venom
+Aircraft of comparable role, configuration and era
+Avro Canada CF-100 Canuck
+Douglas F3D Skyknight
+McDonnell F3H Demon
+Northrop F-89 Scorpion
+Related lists
+List of fighter aircraft

@@ -1,0 +1,15 @@
+Open Source Development Labs (OSDL) was a non-profit organization supported by a global consortium tasked to "accelerate the deployment of Linux for enterprise computing." Founded in 2000, its goals included "to be the recognized center-of-gravity for the Linux industry."
+On January 22, 2007, OSDL and the Free Standards Group merged to form the Linux Foundation, narrowing their respective focuses to that of promoting Linux in competition with Microsoft Windows.
+OSDL sponsored key industry projects, including industry initiatives to enhance Linux for use in corporate data centers, in telecommunications networks, and on desktop computers. It also:
+provided hardware resources to the free software community and the open source community
+tested and reported on open source software.
+employed a number of Linux developers.
+Its employees included Linus Torvalds, the first OSDL fellow, and Bryce Harrington. In 2005, Andrew "Tridge" Tridgell was the second OSDL fellow for a year.
+It had data centers in Beaverton, Oregon, United States and Yokohama, Japan.
+OSDL had investment backers that included: 7 funders of Computer Associates, Fujitsu, Hitachi, Ltd., Hewlett-Packard, IBM, Intel Corporation, Nippon Electric Corporation, as well as a large collection of independent software vendors, end-user companies and educational institutions. A steering committee composed of representatives from the investment backers directed OSDL, which also had a significant staff of its own.
+OSDL had established four Working Groups since 2002:
+Mobile Linux Initiative (MLI)
+Carrier Grade Linux (CGL)
+Data Center Linux (DCL)
+Desktop Linux (DTL)
+Patent Commons, a project launched in November 2005 by the OSDL

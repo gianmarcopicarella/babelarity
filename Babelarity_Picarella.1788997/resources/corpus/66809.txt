@@ -1,0 +1,13 @@
+The gross national income (GNI) is the total domestic and foreign output claimed by residents of a country, consisting of gross domestic product (GDP) plus factor incomes earned by foreign residents, minus income earned in the domestic economy by nonresidents (Todaro & Smith, 2011: 44). (All figures in millions of US dollars). Comparing the GNI and GDP shows whether a nation's resources are put to capital creation or declining toward abroad.
+The Gross national income has gradually replaced the Gross national product (GNP) in international statistics. While being conceptually identical, it is calculated differently.
+Gross national income is the basis of calculation of the largest part of contributions to the budget of the European Union.
+Nominal, Atlas method - millions of current US$ (top 15)
+PPP - millions of international dollars (top 15)
+The Atlas method from The World Bank seems to be without alternatives since a few years. Although NationsOnline lists GNI data from the early 2000s and points to the International Monetary Fund, World Economic Outlook Database and the CIA World Factbook, neither of these references, nor the IMF eLibrary includes GNI data.
+Net national income
+Measures of national income and output
+Gross national income in the European Union
+Lists of countries by GNI per capita
+National average salary
+Gross domestic product (GDP)
+Gross national product (GNP)

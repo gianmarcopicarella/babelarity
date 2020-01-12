@@ -1,0 +1,867 @@
+In mathematics, a line integral is an integral where the function to be integrated is evaluated along a curve. The terms path integral, curve integral, and curvilinear integral are also used; contour integral as well, although that is typically reserved for line integrals in the complex plane.
+The function to be integrated may be a scalar field or a vector field. The value of the line integral is the sum of values of the field at all points on the curve, weighted by some scalar function on the curve (commonly arc length or, for a vector field, the scalar product of the vector field with a differential vector in the curve). This weighting distinguishes the line integral from simpler integrals defined on intervals. Many simple formulae in physics (for example, W = F · s) have natural continuous analogs in terms of line integrals (W = ∫C F · ds). The line integral finds the work done on an object moving through an atomic or gravitational field, for example.
+In qualitative terms, a line integral in vector calculus can be thought of as a measure of the total effect of a given field along a given curve. More specifically, the line integral over a scalar field can be interpreted as the area under the field carved out by a particular curve. This can be visualized as the surface created by z = f(x,y) and a curve C in the x-y plane. The line integral of f would be the area of the "curtain" created when the points of the surface that are directly over C are carved out.
+For some scalar field f : U ⊆ Rn → R, the line integral along a piecewise smooth curve C ⊂ U is defined as
+          ∫
+            C
+        f
+        d
+        s
+        =
+          ∫
+            a
+            b
+        f
+          (
+            r
+          (
+          t
+          )
+          )
+          |
+            r
+          ′
+        (
+        t
+        )
+          |
+        d
+        t
+        .
+    {\displaystyle \int \limits _{C}f\,ds=\int _{a}^{b}f\left(\mathbf {r} (t)\right)\,\,|\mathbf {r} '(t)|\,dt.}
+where r: [a, b] → C is an arbitrary bijective parametrization of the curve C such that r(a) and r(b) give the endpoints of C and 
+        a
+        <
+        b
+    {\displaystyle a<b}
+  .
+The function f is called the integrand, the curve C is the domain of integration, and the symbol ds may be intuitively interpreted as an elementary arc length. Line integrals of scalar fields over a curve C do not depend on the chosen parametrization r of C.
+Geometrically, when the scalar field f is defined over a plane (n=2), its graph is a surface z=f(x,y) in space, and the line integral gives the (signed) cross-sectional area bounded by the curve C and the graph of f. See the animation to the right.
+For a line integral over a scalar field, the integral can be constructed from a Riemann sum using the above definitions of f, C and a parametrization r of C. This can be done by partitioning the interval [a,b] into n sub-intervals [ti-1, ti] of length Δt = (b − a)/n, then r(ti) denotes some point, call it a sample point, on the curve C. We can use the set of sample points {r(ti) : 1 ≤ i ≤ n} to approximate the curve C by a polygonal path by introducing a straight line piece between each of the sample points r(ti-1) and r(ti). We then label the distance between each of the sample points on the curve as Δsi. The product of f(r(ti)) and Δsi can be associated with the signed area of a rectangle with a height and width of f(r(ti)) and Δsi respectively. Taking the limit of the sum of the terms as the length of the partitions approaches zero gives us 
+        I
+    {\displaystyle I}
+        I
+        =
+          lim
+            Δ
+              s
+                i
+            →
+            0
+          ∑
+            i
+            =
+            1
+            n
+        f
+        (
+          r
+        (
+          t
+            i
+        )
+        )
+        Δ
+          s
+            i
+        .
+    {\displaystyle I=\lim _{\Delta s_{i}\rightarrow 0}\sum _{i=1}^{n}f(\mathbf {r} (t_{i}))\Delta s_{i}.}
+We note that, by the mean value theorem, the distance between subsequent points on the curve, is
+        Δ
+          s
+            i
+        =
+          |
+          r
+        (
+          t
+            i
+        +
+        Δ
+        t
+        )
+        −
+          r
+        (
+          t
+            i
+        )
+          |
+        ≈
+          |
+            r
+          ′
+        (
+          t
+            i
+        )
+          |
+        Δ
+        t
+        .
+    {\displaystyle \Delta s_{i}=|\mathbf {r} (t_{i}+\Delta t)-\mathbf {r} (t_{i})|\approx |\mathbf {r} '(t_{i})|\Delta t.}
+Substituting this in the above Riemann sum yields
+        I
+        =
+          lim
+            Δ
+            t
+            →
+            0
+          ∑
+            i
+            =
+            1
+            n
+        f
+        (
+          r
+        (
+          t
+            i
+        )
+        )
+          |
+            r
+          ′
+        (
+          t
+            i
+        )
+          |
+        Δ
+        t
+    {\displaystyle I=\lim _{\Delta t\rightarrow 0}\sum _{i=1}^{n}f(\mathbf {r} (t_{i}))|\mathbf {r} '(t_{i})|\Delta t}
+which is the Riemann sum for the integral
+        I
+        =
+          ∫
+            a
+            b
+        f
+        (
+          r
+        (
+        t
+        )
+        )
+          |
+            r
+          ′
+        (
+        t
+        )
+          |
+        d
+        t
+        .
+    {\displaystyle I=\int _{a}^{b}f(\mathbf {r} (t))|\mathbf {r} '(t)|\,dt.}
+For a vector field F : U ⊆ Rn → Rn, the line integral along a piecewise smooth curve C ⊂ U, in the direction of r, is defined as
+          ∫
+            C
+          F
+        (
+          r
+        )
+        ⋅
+        d
+          r
+        =
+          ∫
+            a
+            b
+          F
+        (
+          r
+        (
+        t
+        )
+        )
+        ⋅
+            r
+          ′
+        (
+        t
+        )
+        d
+        t
+        .
+    {\displaystyle \int \limits _{C}\mathbf {F} (\mathbf {r} )\cdot \,d\mathbf {r} =\int _{a}^{b}\mathbf {F} (\mathbf {r} (t))\cdot \mathbf {r} '(t)\,dt.}
+where · is the dot product and r: [a, b] → C is a bijective parametrization of the curve C such that r(a) and r(b) give the endpoints of C.
+A line integral of a scalar field is thus a line integral of a vector field where the vectors are always tangential to the line.
+Line integrals of vector fields are independent of the parametrization r in absolute value, but they do depend on its orientation. Specifically, a reversal in the orientation of the parametrization changes the sign of the line integral.
+The line integral of a vector field along a curve is the integral of the corresponding 1-form under the musical isomorphism over the curve considered as an immersed 1-manifold.
+The line integral of a vector field can be derived in a manner very similar to the case of a scalar field. However this time with the inclusion of a dot product. Again using the above definitions of F, C and its parametrization r(t), we construct the integral from a Riemann sum. Partition the interval [a,b] into n intervals of length Δt = (b − a)/n. Letting ti be the ith point on [a,b], then r(ti) gives us the position of the ith point on the curve. However, instead of calculating up the distances between subsequent points, we need to calculate their displacement vectors, Δri. As before, evaluating F at all the points on the curve and taking the dot product with each displacement vector gives us the infinitesimal contribution of each partition of F on C. Letting the size of the partitions go to zero gives us a sum
+        I
+        =
+          lim
+            Δ
+            t
+            →
+            0
+          ∑
+            i
+            =
+            1
+            n
+          F
+        (
+          r
+        (
+          t
+            i
+        )
+        )
+        ⋅
+        Δ
+            r
+            i
+    {\displaystyle I=\lim _{\Delta t\rightarrow 0}\sum _{i=1}^{n}\mathbf {F} (\mathbf {r} (t_{i}))\cdot \Delta \mathbf {r} _{i}}
+By the mean value theorem, we see that the displacement vector between adjacent points on the curve is
+        Δ
+            r
+            i
+        =
+          r
+        (
+          t
+            i
+        +
+        Δ
+        t
+        )
+        −
+          r
+        (
+          t
+            i
+        )
+        ≈
+            r
+          ′
+        (
+          t
+            i
+        )
+        Δ
+        t
+    {\displaystyle \Delta \mathbf {r} _{i}=\mathbf {r} (t_{i}+\Delta t)-\mathbf {r} (t_{i})\approx \mathbf {r} '(t_{i})\Delta t}
+Substituting this in the above Riemann sum yields
+        I
+        =
+          lim
+            Δ
+            t
+            →
+            0
+          ∑
+            i
+            =
+            1
+            n
+          F
+        (
+          r
+        (
+          t
+            i
+        )
+        )
+        ⋅
+            r
+          ′
+        (
+          t
+            i
+        )
+        Δ
+        t
+    {\displaystyle I=\lim _{\Delta t\rightarrow 0}\sum _{i=1}^{n}\mathbf {F} (\mathbf {r} (t_{i}))\cdot \mathbf {r} '(t_{i})\Delta t}
+which is the Riemann sum for the integral defined above.
+If a vector field F is the gradient of a scalar field G (i.e. if F is conservative), that is,
+        ∇
+        G
+        =
+          F
+        ,
+    {\displaystyle \nabla G=\mathbf {F} ,}
+then the derivative of the composition of G and r(t) is
+              d
+              G
+              (
+                r
+              (
+              t
+              )
+              )
+              d
+              t
+        =
+        ∇
+        G
+        (
+          r
+        (
+        t
+        )
+        )
+        ⋅
+            r
+          ′
+        (
+        t
+        )
+        =
+          F
+        (
+          r
+        (
+        t
+        )
+        )
+        ⋅
+            r
+          ′
+        (
+        t
+        )
+    {\displaystyle {\frac {dG(\mathbf {r} (t))}{dt}}=\nabla G(\mathbf {r} (t))\cdot \mathbf {r} '(t)=\mathbf {F} (\mathbf {r} (t))\cdot \mathbf {r} '(t)}
+which happens to be the integrand for the line integral of F on r(t). It follows that, given a path C , then
+          ∫
+            C
+          F
+        (
+          r
+        )
+        ⋅
+        d
+          r
+        =
+          ∫
+            a
+            b
+          F
+        (
+          r
+        (
+        t
+        )
+        )
+        ⋅
+            r
+          ′
+        (
+        t
+        )
+        d
+        t
+        =
+          ∫
+            a
+            b
+              d
+              G
+              (
+                r
+              (
+              t
+              )
+              )
+              d
+              t
+        d
+        t
+        =
+        G
+        (
+          r
+        (
+        b
+        )
+        )
+        −
+        G
+        (
+          r
+        (
+        a
+        )
+        )
+        .
+    {\displaystyle \int _{C}\mathbf {F} (\mathbf {r} )\cdot \,d\mathbf {r} =\int _{a}^{b}\mathbf {F} (\mathbf {r} (t))\cdot \mathbf {r} '(t)\,dt=\int _{a}^{b}{\frac {dG(\mathbf {r} (t))}{dt}}\,dt=G(\mathbf {r} (b))-G(\mathbf {r} (a)).}
+In other words, the integral of F over C depends solely on the values of G in the points r(b) and r(a) and is thus independent of the path between them.
+For this reason, a line integral of a conservative vector field is called path independent.
+The line integral has many uses in physics. For example, the work done on a particle traveling on a curve C inside a force field represented as a vector field F is the line integral of F on C.
+For a vector field F : U ⊆ R2 → R2, such as 
+        F
+        (
+        x
+        ,
+        y
+        )
+        =
+        (
+        P
+        (
+        x
+        ,
+        y
+        )
+        ,
+        Q
+        (
+        x
+        ,
+        y
+        )
+        )
+    {\displaystyle F(x,y)=(P(x,y),Q(x,y))}
+   the line integral across a piecewise smooth curve C ⊂ U, is defined as
+          ∫
+            C
+          F
+        (
+          r
+        )
+        ⋅
+        d
+            r
+            t
+        =
+          ∫
+            a
+            b
+        −
+        Q
+        (
+        x
+        ,
+        y
+        )
+        d
+        x
+        +
+        P
+        (
+        x
+        ,
+        y
+        )
+        d
+        y
+        =
+          ∫
+            a
+            b
+        (
+        P
+        (
+          r
+        (
+        t
+        )
+        )
+        ,
+        Q
+        (
+          r
+        (
+        t
+        )
+        )
+        )
+        ⋅
+        (
+          r
+            2
+          ′
+        (
+        t
+        )
+        ,
+        −
+          r
+            1
+          ′
+        (
+        t
+        )
+        )
+        d
+        t
+        .
+    {\displaystyle \int \limits _{C}\mathbf {F} (\mathbf {r} )\cdot \,d\mathbf {r} ^{t}=\int _{a}^{b}-Q(x,y)dx+P(x,y)dy=\int _{a}^{b}(P(\mathbf {r} (t)),Q(\mathbf {r} (t)))\cdot (r'_{2}(t),-r'_{1}(t))dt.}
+where · is the dot product and r: [a, b] → C, 
+        r
+        (
+        t
+        )
+        =
+        (
+          r
+            1
+        (
+        t
+        )
+        ,
+          r
+            2
+        (
+        t
+        )
+        )
+    {\displaystyle r(t)=(r_{1}(t),r_{2}(t))}
+   is a bijective parametrization of the curve C such that r(a) and r(b) give the endpoints of C.
+In complex analysis, the line integral is defined in terms of multiplication and addition of complex numbers. Suppose U is an open subset of the complex plane C, f : U → C is a function, and 
+        L
+        ⊂
+        U
+    {\displaystyle L\subset U}
+   is a curve of finite length, parametrized by 
+        γ
+        :
+        [
+        a
+        ,
+        b
+        ]
+        →
+        L
+    {\displaystyle \gamma :[a,b]\to L}
+  , where 
+        γ
+        (
+        t
+        )
+        =
+        x
+        (
+        t
+        )
+        +
+        i
+        y
+        (
+        t
+        )
+        .
+    {\displaystyle \gamma (t)=x(t)+iy(t).}
+   The line integral
+          ∫
+            L
+        f
+        (
+        z
+        )
+        d
+        z
+    {\displaystyle \int _{L}f(z)\,dz}
+may be defined by subdividing the interval [a, b] into a = t0 < t1 < ... < tn = b and considering the expression
+          ∑
+            k
+            =
+            1
+            n
+        f
+        (
+        γ
+        (
+          t
+            k
+        )
+        )
+        [
+        γ
+        (
+          t
+            k
+        )
+        −
+        γ
+        (
+          t
+            k
+            −
+            1
+        )
+        ]
+        =
+          ∑
+            k
+            =
+            1
+            n
+        f
+        (
+          γ
+            k
+        )
+        Δ
+          γ
+            k
+        .
+    {\displaystyle \sum _{k=1}^{n}f(\gamma (t_{k}))[\gamma (t_{k})-\gamma (t_{k-1})]=\sum _{k=1}^{n}f(\gamma _{k})\Delta \gamma _{k}.}
+The integral is then the limit of this Riemann sum as the lengths of the subdivision intervals approach zero.
+If the parametrization 
+        γ
+    {\displaystyle \gamma }
+   is continuously differentiable, the line integral can be evaluated as an integral of a function of a real variable:
+          ∫
+            L
+        f
+        (
+        z
+        )
+        d
+        z
+        =
+          ∫
+            a
+            b
+        f
+        (
+        γ
+        (
+        t
+        )
+        )
+        γ
+          ′
+        (
+        t
+        )
+        d
+        t
+        .
+    {\displaystyle \int _{L}f(z)\,dz=\int _{a}^{b}f(\gamma (t))\,\gamma \,'(t)\,dt.}
+When 
+        L
+    {\displaystyle L}
+   is a closed curve, that is, its initial and final points coincide, the notation
+          ∮
+            L
+        f
+        (
+        z
+        )
+        d
+        z
+    {\displaystyle \oint _{L}f(z)\,dz}
+is often used for the line integral of f along 
+        L
+    {\displaystyle L}
+  . A closed curve line integral is sometimes referred to as a cyclic integral in engineering applications.
+The line integral with respect to the conjugate complex differential 
+              d
+              z
+            ¯
+    {\displaystyle {\overline {dz}}}
+   is defined to be
+          ∫
+            L
+        f
+              d
+              z
+            ¯
+        :=
+                ∫
+                  L
+                  f
+                  ¯
+              d
+              z
+            ¯
+        =
+          ∫
+            a
+            b
+        f
+        (
+        γ
+        (
+        t
+        )
+        )
+                γ
+                ′
+              (
+              t
+              )
+            ¯
+        d
+        t
+        .
+    {\displaystyle \int _{L}f{\overline {dz}}:={\overline {\int _{L}{\overline {f}}dz}}=\int _{a}^{b}f(\gamma (t))\,{\overline {\gamma '(t)}}\,dt.}
+The line integrals of complex functions can be evaluated using a number of techniques: the integral may be split into real and imaginary parts reducing the problem to that of evaluating two real-valued line integrals, the Cauchy integral formula may be used in other circumstances. If the line integral is a closed curve in a region where the function is analytic and containing no singularities, then the value of the integral is simply zero; this is a consequence of the Cauchy integral theorem. The residue theorem allows contour integrals to be used in the complex plane to find integrals of real-valued functions of a real variable (see residue theorem for an example).
+Consider the function f(z)=1/z, and let the contour L be the unit circle about 0, parametrized by γ(t)=eit with t in [0, 2π] (which generates the circle counterclockwise). Substituting, we find
+                  ∮
+                    L
+                f
+                (
+                z
+                )
+                d
+                z
+                =
+                  ∫
+                    0
+                    2
+                    π
+                    1
+                      e
+                        i
+                        t
+                i
+                  e
+                    i
+                    t
+                d
+                t
+                =
+                i
+                  ∫
+                    0
+                    2
+                    π
+                  e
+                    −
+                    i
+                    t
+                  e
+                    i
+                    t
+                d
+                t
+                =
+                i
+                  ∫
+                    0
+                    2
+                    π
+                d
+                t
+                =
+                i
+                (
+                2
+                π
+                −
+                0
+                )
+                =
+                2
+                π
+                i
+                .
+    {\displaystyle {\begin{aligned}\oint _{L}f(z)\,dz&=\int _{0}^{2\pi }{1 \over e^{it}}ie^{it}\,dt=i\int _{0}^{2\pi }e^{-it}e^{it}\,dt\\&=i\int _{0}^{2\pi }\,dt=i(2\pi -0)=2\pi i.\end{aligned}}}
+Here we have used the fact that any complex number z can be written as reit where r is the modulus of z. On the unit circle this is fixed to 1, so the only variable left is the angle, which is denoted by t. This answer can be also verified by Cauchy's integral formula.
+Viewing complex numbers as 2-dimensional vectors, the line integral of a 2-dimensional vector field corresponds to the real part of the line integral of the conjugate of the corresponding complex function of a complex variable. More specifically, if 
+          r
+        (
+        t
+        )
+        =
+        (
+        x
+        (
+        t
+        )
+        ,
+        y
+        (
+        t
+        )
+        )
+    {\displaystyle \mathbf {r} (t)=(x(t),y(t))}
+   is a parameterization of L and 
+        f
+        (
+        z
+        )
+        =
+        u
+        (
+        z
+        )
+        +
+        i
+        v
+        (
+        z
+        )
+    {\displaystyle f(z)=u(z)+iv(z)}
+  , then:
+          ∫
+            L
+              f
+              (
+              z
+              )
+            ¯
+        d
+        z
+        =
+          ∫
+            L
+              f
+              ¯
+        d
+        x
+        +
+        i
+          ∫
+            L
+              f
+              ¯
+        d
+        y
+        =
+          ∫
+            L
+        (
+        u
+        ,
+        v
+        )
+        ⋅
+        d
+          r
+        +
+        i
+          ∫
+            L
+        (
+        −
+        v
+        ,
+        u
+        )
+        ⋅
+        d
+          r
+        ,
+    {\displaystyle \int _{L}{\overline {f(z)}}\,dz=\int _{L}{\bar {f}}\,dx+i\int _{L}{\bar {f}}\,dy=\int _{L}(u,v)\cdot d\mathbf {r} +i\int _{L}(-v,u)\cdot d\mathbf {r} ,}
+provided that both integrals on the right hand side exist, and that the parametrization 
+        γ
+    {\displaystyle \gamma }
+   of L has the same orientation as 
+          r
+    {\displaystyle \mathbf {r} }
+   (just expand the Riemann sum for the lefthand integral and take the limit).
+By Green's theorem, the area of a region enclosed by a smooth, closed, positively oriented curve 
+        L
+    {\displaystyle L}
+   is given by the integral
+            1
+              2
+              i
+          ∫
+            L
+            z
+            ¯
+        d
+        z
+    {\displaystyle {\frac {1}{2i}}\int _{L}{\overline {z}}\;dz}
+This fact is used, for example, in the proof of the area theorem.
+Due to the Cauchy-Riemann equations the curl of the vector field corresponding to the conjugate of a holomorphic function is zero. This relates through Stokes' theorem both types of line integral being zero.
+The "path integral formulation" of quantum mechanics actually refers not to path integrals in this sense but to functional integrals, that is, integrals over a space of paths, of a function of a possible path. However, path integrals in the sense of this article are important in quantum mechanics; for example, complex contour integration is often used in evaluating probability amplitudes in quantum scattering theory.

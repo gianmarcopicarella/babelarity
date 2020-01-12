@@ -1,0 +1,11 @@
+Armand Hippolyte Louis Fizeau FRS FRSE MIF (23 September 1819 – 18 September 1896) was a French physicist, best known for measuring the speed of light in the namesake Fizeau experiment. 
+Fizeau was born in Paris to Louis and Beatrice Fizeau. He married into the de Jussieu botanical family. His earliest work was concerned with improvements in photographic processes. Following suggestions by François Arago, Léon Foucault and Fizeau collaborated in a series of investigations on the interference of light and heat. In 1848, he predicted the redshifting of electromagnetic waves.
+In 1849, Fizeau calculated a value for the speed of light to a better precision than the previous value determined by Ole Rømer in 1676. He used a beam of light reflected from a mirror eight kilometers away. The beam passed through the gaps between teeth of a rapidly rotating wheel. The speed of the wheel was increased until the returning light passed through the next gap and could be seen.
+Fizeau calculated the speed of light to be 313,300 kilometres per second (194,700 mi/s), which was within five percent of the correct value (299,792.458 kilometers per second). Fizeau published the first results obtained by his method for determining the speed of light in 1849. (See Fizeau-Foucault apparatus.) Fizeau made the first suggestion in 1864 that the "length of a light wave be used as a length standard".
+Fizeau was involved in the discovery of the Doppler effect, which is known in French as the Doppler-Fizeau effect.
+In 1853, Fizeau described the use of the capacitor (sometimes called a "condenser") as a means to increase the efficiency of the induction coil. Later on, he studied the thermal expansion of solids, and applied the phenomenon of interference of light to the measurement of the dilatations of crystals. He became a member of the Académie des Sciences in 1860 and a member of the Bureau des Longitudes in 1878. He died at Venteuil on September 18, 1896.
+"Fizeau" is one of the 72 names inscribed at the base of Eiffel Tower, and of the 72 scientists and engineers listed on the tower, Fizeau is the only one who was still alive when the tower was opened to the public for the 1889 World's Fair. The crater Fizeau, on the far side of the moon, is named after him.
+Fizeau-Foucault apparatus
+Fizeau experiment
+Fizeau interferometer
+Léon Foucault

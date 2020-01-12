@@ -1,0 +1,130 @@
+In mathematics, specifically bifurcation theory, the Feigenbaum constants are two mathematical constants which both express ratios in a bifurcation diagram for a non-linear map. They are named after the mathematician Mitchell Feigenbaum.
+Feigenbaum originally related the first constant to the period-doubling bifurcations in the logistic map, but also showed it to hold for all one-dimensional maps with a single quadratic maximum. As a consequence of this generality, every chaotic system that corresponds to this description will bifurcate at the same rate. It was discovered in 1978.
+The first Feigenbaum constant is the limiting ratio of each bifurcation interval to the next between every period doubling, of a one-parameter map
+          x
+            i
+            +
+            1
+        =
+        f
+        (
+          x
+            i
+        )
+    {\displaystyle x_{i+1}=f(x_{i})}
+where f(x) is a function parameterized by the bifurcation parameter a.
+It is given by the limit:
+        δ
+        =
+          lim
+            n
+            →
+            ∞
+                  a
+                    n
+                    −
+                    1
+                −
+                  a
+                    n
+                    −
+                    2
+                  a
+                    n
+                −
+                  a
+                    n
+                    −
+                    1
+        =
+        4.669
+        201
+        609
+        ⋯
+    {\displaystyle \delta =\lim _{n\rightarrow \infty }{\dfrac {a_{n-1}-a_{n-2}}{a_{n}-a_{n-1}}}=4.669\,201\,609\,\cdots }
+where an are discrete values of a at the nth period doubling.
+According to (sequence A006890 in OEIS), this number to 30 decimal places is: δ = 4.669201609102990671853203821578….
+To see how this number arises, consider the real one-parameter map:
+        f
+        (
+        x
+        )
+        =
+        a
+        −
+          x
+            2
+        .
+    {\displaystyle f(x)=a-x^{2}.}
+Here a is the bifurcation parameter, x is the variable. The values of a for which the period doubles (e.g. the largest value for a with no period 2 orbit, or the largest a with no period 4 orbit),are a1, a2 etc. These are tabulated below:
+The ratio in the last column converges to the first Feigenbaum constant. The same number arises for the logistic map
+        f
+        (
+        x
+        )
+        =
+        a
+        x
+        (
+        1
+        −
+        x
+        )
+    {\displaystyle f(x)=ax(1-x)}
+with real parameter a and variable . Tabulating the bifurcation values again:
+In the case of the Mandelbrot set for complex quadratic polynomial
+        f
+        (
+        z
+        )
+        =
+          z
+            2
+        +
+        c
+    {\displaystyle f(z)=z^{2}+c}
+the Feigenbaum constant is the ratio between the diameters of successive circles on the real axis in the complex plane (see animation on the right).
+Bifurcation parameter is a root point of period = 2n component. This series converges to the Feigenbaum point c = −1.401155. The ratio in the last column converges to the first Feigenbaum constant.
+Other maps also reproduce this ratio, in this sense the Feigenbaum constant in bifurcation theory is analogous to π in geometry and e in calculus.
+The second Feigenbaum constant (sequence A006891 in OEIS),
+α = 2.502907875095892822283902873218…,
+is the ratio between the width of a tine and the width of one of its two subtines (except the tine closest to the fold). A negative sign is applied to α when the ratio between the lower subtine and the width of the tine is measured.
+These numbers apply to a large class of dynamical systems (for example, dripping faucets to population growth).
+Both numbers are believed to be transcendental, although they have not been proven to be so.
+The first proof of the universality of the Feigenbaum constants carried out by Lanford (with a small correction by Eckmann and Wittwer,) was computer assisted. Over the years, non-numerical methods were discovered for different parts of the proof aiding Lyubich in producing the first complete non-numerical proof.
+Though there is no known closed form equation or infinite series that can exactly calculate either constant, there are closed form approximations for several digits. One of the most accurate, up to six digits, is (sequence A094078 in OEIS)
+        π
+        +
+          tan
+            −
+            1
+        ⁡
+        (
+          e
+            π
+        )
+    {\displaystyle \pi +\tan ^{-1}(e^{\pi })}
+which is accurate up to 4.669202. Two closely related expressions that accurately estimate both δ and α to three decimal places are respetively
+              2
+              φ
+              ln
+              ⁡
+              2
+        ≈
+        4.669
+        ,
+              2
+              φ
+              +
+              1
+              ln
+              ⁡
+              2
+              +
+              1
+        ≈
+        2.502
+    {\displaystyle {\frac {2\varphi }{\ln 2}}\approx 4.669\,,\qquad {\frac {2\varphi +1}{\ln 2+1}}\approx 2.502}
+where φ is the golden ratio and ln 2 is the natural logarithm of 2.
+Feigenbaum function
+List of chaotic maps

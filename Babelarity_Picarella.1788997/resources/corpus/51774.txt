@@ -1,0 +1,6 @@
+iproute2 is a collection of userspace utilities for controlling and monitoring various aspects of networking in the Linux kernel, including routing, network interfaces, tunnels, traffic control, and network-related device drivers.
+iproute2 is an open-source project released under the terms of version 2 of the GNU GPL license. Its development is closely tied to the development of networking components of the Linux kernel. As of December 2013, iproute2 is maintained by Stephen Hemminger. The original author, Alexey Kuznetsov, was responsible for the Quality of Service (QoS) implementation in the Linux kernel.
+iproute2 collection contains the following command-line utilities: ip, ss, bridge, rtacct, rtmon, tc, ctstat, lnstat, nstat, routef, routel, rtstat, tipc and arpd. tc is used for traffic control. iproute2 utilities communicate with the Linux kernel using the netlink protocol. Some of the iproute2 utilities are often recommended over now-obsolete net-tools utilities that provide the same functionality. Below is a table of obsolete utilities and their iproute2 replacements.
+Busybox
+ethtool
+TIPC

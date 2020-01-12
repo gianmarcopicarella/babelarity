@@ -1,0 +1,30 @@
+Nitrosyl chloride is the chemical compound with the formula NOCl. It is a yellow gas that is most commonly encountered as a decomposition product of aqua regia, a mixture of hydrochloric acid and nitric acid. It is a strong electrophile and oxidizing agent.
+The molecule is bent. A double bond exists between N and O (distance = 1.16 Å) and a single bond between N and Cl (distance = 1.69 Å). The O–N–Cl angle is 113°.
+Since nitrosyl chloride is chemically simple and stable at room temperature and below, it can be produced in many ways.
+Combining nitrosylsulfuric acid and HCl affords the compound. This method is used industrially.
+HCl + NOHSO4 → H2SO4 + NOCl
+A more convenient laboratory method involves the (reversible) dehydration of nitrous acid by HCl
+HNO2 + HCl → H2O + NOCl
+Michael Faraday prepared nitrosyl chloride by reacting palladium with aqua regia:
+Pd + HNO3 + 3 HCl → PdCl2 + 2 H2O + NOCl
+NOCl forms by the direct combination of chlorine and nitric oxide; This reaction reverses above 100 °C.
+Cl2 + 2 NO → 2NOCl
+Another method of producing nitrosyl chloride is by direct union of the elements at 400 °C, although there is some regression as above.
+N2 + O2 + Cl2 → 2 NOCl ⇌ 2 NO + Cl2
+NOCl also arises from the combination of hydrochloric and nitric acids according to the following reaction:
+HNO3 + 3 HCl → Cl2 + 2 H2O + NOCl
+In nitric acid, NOCl is readily oxidized into nitrogen dioxide. The presence of NOCl in aqua regia was described by Edmund Davy in 1831.
+NOCl behaves as an electrophile and an oxidant in most of its reactions. With halide acceptors, for example antimony pentachloride, converts to nitrosonium salts:
+NOCl + SbCl5 → [NO]+[SbCl6]−
+In a related reaction, sulfuric acid gives nitrosylsulfuric acid, the mixed acid anhydride of nitrous and sulfuric acid:
+ClNO + H2SO4 → ONHSO4 + HCl
+NOCl reacts with silver thiocyanate to give silver chloride and the pseudohalogen nitrosyl thiocyanate:
+ClNO + AgSCN → AgCl + ONSCN
+Nitrosyl chloride is used to prepare metal nitrosyl complexes. With molybdenum hexacarbonyl, NOCl gives the dinitrosyldichloride complex:
+Mo(CO)6 + 2 NOCl → MoCl2(NO)2 + 6 CO
+Aside from its role in the production of caprolactam, NOCl finds some other uses In organic synthesis. It adds to alkenes to afford α-chloro oximes. The initial addition of NOCl follows the Markovnikov rule. Ketenes also add NOCl, giving nitrosyl derivatives:
+H2C=C=O + NOCl → ONCH2C(O)Cl
+Propylene oxide also undergoes electrophilic addition with NOCl to give an α-chloronitritoakyl derivative:
+It converts amides to N-nitroso derivatives. NOCl converts some cyclic amines to the alkenes. For example, aziridine reacts with NOCl to give ethene, nitrous oxide and hydrogen chloride.
+NOCl and cyclohexane react photochemically to give cyclohexanone oxime hydrochloride. This process exploits the tendency of NOCl to undergo photodissociation into NO and Cl radicals. The oxide is converted to caprolactam, a precursor to Nylon-6.
+Nitrosyl chloride is very toxic and irritating to the lungs, eyes, and skin. Use safety mask while working with this chemical.

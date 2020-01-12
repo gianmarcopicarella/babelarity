@@ -1,0 +1,34 @@
+Fluoroboric acid or tetrafluoroboric acid is an inorganic compound with the chemical formula H
+3OBF
+4.
+It is mainly produced as a precursor to other fluoroborate salts. It is a strong acid. Fluoroboric acid is corrosive and attacks the skin. It is available commercially as a solution in water and other solvents such as diethyl ether. With a strength comparable to nitric acid, fluoroboric acid is a strong acid with a weakly coordinating, non-oxidizing conjugate base. It is structurally similar to perchloric acid, but lacks the hazards associated with oxidants.
+Although the solvent-free HBF4 has not been isolated, its solvates are well characterized. These salts consist of protonated solvent as a cation, e.g., H3O+ and H
+5O+
+2, and the tetrahedral BF−
+4 anion. The anion and cations are strongly hydrogen-bonded.
+Aqueous solutions of HBF4 are produced by dissolving boric acid in aqueous hydrofluoric acid. Three equivalents of HF react to give the intermediate boron trifluoride and the fourth gives fluoroboric acid:
+B(OH)3 + 4 HF → H3O+ + BF−
+4 + 2 H2O
+Anhydrous solutions can be prepared by treatment of aqueous fluoroboric acid with acetic anhydride.
+Fluoroboric acid is the principal precursor to fluoroborate salts, which are typically prepared by treating the metal oxides with fluoroboric acid. The inorganic salts are intermediates in the manufacture of flame-retardant materials and glazing frits, and in electrolytic generation of boron. HBF4 is also used in aluminum etching and acid pickling.
+HBF4 is used as a catalyst for alkylations and polymerizations. In carbohydrate protection reactions, ethereal fluoroboric acid is an efficient and cost-effective catalyst for transacetalation and isopropylidenation reactions. Acetonitrile solutions cleave acetals and some ethers, while neat fluoroboric acid removes tert-butoxycarbonyl groups. Many reactive cations have been obtained using fluoroboric acid, e.g. tropylium tetrafluoroborate (C
+7H+
+7BF−
+4), triphenylmethyl tetrafluoroborate (Ph
+3C+BF−
+4), triethyloxonium tetrafluoroborate (Et
+3O+BF−
+4), and benzenediazonium tetrafluoroborate (PHN+
+2BF−
+4).
+Aqueous HBF4 is used as an electrolyte in galvanic cell oxygen sensor systems, which consist of an anode, cathode, and oxygen-permeable membrane. The solution of HBF4 is able to dissolve lead(II) oxide from the anode in the form of lead tetrafluoroborate while leaving the rest of the system unchanged.
+A mixture of CrO3, HBF4, and sulfonic acids in conjunction with a cathode treatment give tin-plated steel. Tin(I) fluoroborate/fluoroboric acid mixtures and organic reagents are used as the electrolyte in the cathode treatment of the tin plating process. Similar processes of electrodeposition and electrolytic stripping are used to obtain specific metal alloys.
+A 10% solution of fluoroboric acid, tin fluoroborate and thiourea is used to electroless tin plate the copper traces of printed circuit boards for protection and easier soldering.
+A series of fluoroboric acids is known in aqueous solutions. The series can be presented as follows:
+H[B(OH)4]
+H[BF(OH)3]
+H[BF2(OH)2]
+H[BF3(OH)]
+H[BF4]
+Fluorosulfuric acid
+Fluoroantimonic acid

@@ -1,0 +1,18 @@
+In linguistics, umlaut (from German "sound alteration") is a sound change in which a vowel is pronounced more like a following vowel or semivowel. The term umlaut was originally coined in connection with the study of the Germanic languages in which the process occurred prominently in the history of many of them (see Germanic umlaut). While the common English plural is umlauts, the correct German plural is Umlaute.
+Umlaut is a form of assimilation, the process by which one speech sound is altered to make it more like another adjacent sound. If a word has two vowels, one far back in the mouth and the other far forward, more effort is required to pronounce the word than if the vowels were closer together. Thus, one possible linguistic development is for these two vowels to be drawn closer together.
+In the general sense, umlaut is essentially the same as regressive metaphony.
+The most commonly seen types of umlaut are the following:
+Vowel raising, triggered by a following high vowel (often specifically a high front vowel such as /i/).
+Vowel fronting, triggered by a following front vowel (often specifically a high front vowel such as /i/).
+Vowel lowering, triggered by a following non-high vowel (often specifically a low vowel such as /a/).
+Vowel rounding, triggered by a following rounded vowel (often specifically a high rounded vowel such as /u/).
+These processes may be named by the vowel that triggers the change (for example, i-mutation, a-mutation, u-mutation, sometimes known as i-umlaut, a-umlaut, u-umlaut). However, processes named in this fashion may not have consistent meanings across language families.
+All of these processes occurred in the history of the Germanic languages; see Germanic umlaut for more details. I-mutation is the most prominent of the processes, to the extent that it is often referred to simply as "umlaut".
+Similar processes also occurred in the history of the Celtic languages, especially Old Irish. In this context, these processes are often referred to as affection.
+Vowel-raising umlaut occurred in the history of many of the Romance languages, in which it is normally termed metaphony.
+The umlaut vowel diacritic (two dots side-by-side above a vowel) was originally used to indicate vowels affected by Germanic umlaut.
+Diaeresis (diacritic)
+Vowel harmony
+Metaphony
+Germanic umlaut
+I-mutation

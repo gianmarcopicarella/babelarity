@@ -1,0 +1,1674 @@
+The mathematics of general relativity refers to various mathematical structures and techniques that are used in studying and formulating Albert Einstein's theory of general relativity. The main tools used in this geometrical theory of gravitation are tensor fields defined on a Lorentzian manifold representing spacetime. This article is a general description of the mathematics of general relativity.
+Note: General relativity articles using tensors will use the abstract index notation.
+The principle of general covariance states that the laws of physics should take the same mathematical form in all reference frames and was one of the central principles in the development of general relativity. The term 'general covariance' was used in the early formulation of general relativity, but is now referred to by many as diffeomorphism covariance. Although diffeomorphism covariance is not the defining feature of general relativity[1], and controversies remain regarding its present status in GR, the invariance property of physical laws implied in the principle coupled with the fact that the theory is essentially geometrical in character (making use of geometries which are not Euclidean) suggested that general relativity be formulated using the language of tensors. This will be discussed further below.
+Most modern approaches to mathematical general relativity begin with the concept of a manifold. More precisely, the basic physical construct representing gravitation - a curved spacetime - is modelled by a four-dimensional, smooth, connected, Lorentzian manifold. Other physical descriptors are represented by various tensors, discussed below.
+The rationale for choosing a manifold as the fundamental mathematical structure is to reflect desirable physical properties. For example, in the theory of manifolds, each point is contained in a (by no means unique) coordinate chart, and this chart can be thought of as representing the 'local spacetime' around the observer (represented by the point). The principle of local Lorentz covariance, which states that the laws of special relativity hold locally about each point of spacetime, lends further support to the choice of a manifold structure for representing spacetime, as locally around a point on a general manifold, the region 'looks like', or approximates very closely Minkowski space (flat spacetime).
+The idea of coordinate charts as 'local observers who can perform measurements in their vicinity' also makes good physical sense, as this is how one actually collects physical data - locally. For cosmological problems, a coordinate chart may be quite large.
+An important distinction in physics is the difference between local and global structures. Measurements in physics are performed in a relatively small region of spacetime and this is one reason for studying the local structure of spacetime in general relativity, whereas determining the global spacetime structure is important, especially in cosmological problems.
+An important problem in general relativity is to tell when two spacetimes are 'the same', at least locally. This problem has its roots in manifold theory where determining if two Riemannian manifolds of the same dimension are locally isometric ('locally the same'). This latter problem has been solved and its adaptation for general relativity is called the Cartan–Karlhede algorithm.
+One of the profound consequences of relativity theory was the abolition of privileged reference frames. The description of physical phenomena should not depend upon who does the measuring - one reference frame should be as good as any other. Special relativity demonstrated that no inertial reference frame was preferential to any other inertial reference frame, but preferred inertial reference frames over noninertial reference frames. General relativity eliminated preference for inertial reference frames by showing that there is no preferred reference frame (inertial or not) for describing nature.
+Any observer can make measurements and the precise numerical quantities obtained only depend on the coordinate system used. This suggested a way of formulating relativity using 'invariant structures', those that are independent of the coordinate system (represented by the observer) used, yet still have an independent existence. The most suitable mathematical structure seemed to be a tensor. For example, when measuring the electric and magnetic fields produced by an accelerating charge, the values of the fields will depend on the coordinate system used, but the fields are regarded as having an independent existence, this independence represented by the electromagnetic tensor .
+Mathematically, tensors are generalised linear operators - multilinear maps. As such, the ideas of linear algebra are employed to study tensors.
+At each point 
+          p
+    {\displaystyle \scriptstyle \,p}
+   of a manifold, the tangent and cotangent spaces to the manifold at that point may be constructed. Vectors (sometimes referred to as contravariant vectors) are defined as elements of the tangent space and covectors (sometimes termed covariant vectors, but more commonly dual vectors or one-forms) are elements of the cotangent space.
+At 
+          p
+    {\displaystyle \scriptstyle \,p}
+  , these two vector spaces may be used to construct type 
+          (
+          r
+          ,
+          s
+          )
+    {\displaystyle \scriptstyle \,(r,\,s)}
+   tensors, which are real-valued multilinear maps acting on the direct sum of 
+          r
+    {\displaystyle \scriptstyle \,r}
+   copies of the cotangent space with 
+          s
+    {\displaystyle \scriptstyle \,s}
+   copies of the tangent space. The set of all such multilinear maps forms a vector space, called the tensor product space of type 
+          (
+          r
+          ,
+          s
+          )
+    {\displaystyle \scriptstyle \,(r,\,s)}
+   at 
+          p
+    {\displaystyle \scriptstyle \,p}
+   and denoted by 
+          (
+            T
+              p
+            )
+              r
+              s
+          M
+    {\displaystyle \scriptstyle \,(T_{p})^{r}{}_{s}M}
+  . If the tangent space is n-dimensional, it can be shown that 
+          dim
+          ⁡
+          (
+            T
+              p
+            )
+              r
+              s
+          M
+          =
+            n
+              r
+              +
+              s
+    {\displaystyle \scriptstyle \dim(T_{p})^{r}{}_{s}M\;=\;n^{r+s}}
+  .
+In the general relativity literature, it is conventional to use the component syntax for tensors.
+A type (r,s) tensor may be written as
+        T
+        =
+              T
+                  a
+                    1
+                …
+                  a
+                    r
+                b
+                  1
+            …
+                b
+                  s
+            ∂
+              ∂
+                x
+                    a
+                      1
+        ⊗
+        …
+        ⊗
+            ∂
+              ∂
+                x
+                    a
+                      r
+        ⊗
+        d
+          x
+              b
+                1
+        ⊗
+        …
+        ⊗
+        d
+          x
+              b
+                s
+    {\displaystyle T\;\!=\;\!{T^{a_{1}\ldots a_{r}}}_{{b_{1}}\ldots {b_{s}}}{\frac {\partial }{\partial x^{a_{1}}}}\otimes \ldots \otimes {\frac {\partial }{\partial x^{a_{r}}}}\otimes dx^{b_{1}}\otimes \ldots \otimes dx^{b_{s}}}
+where 
+              ∂
+                ∂
+                  x
+                      a
+                        i
+    {\displaystyle \scriptstyle {\frac {\partial }{\partial x^{a_{i}}}}}
+   is a basis for the i-th tangent space and 
+          d
+            x
+                b
+                  j
+    {\displaystyle \scriptstyle dx^{b_{j}}}
+   a basis for the j-th cotangent space.
+As spacetime is assumed to be four-dimensional, each index on a tensor can be one of four values. Hence, the total number of elements a tensor possesses equals 4R, where R is the sum of the numbers of covariant and contravariant indices on the tensor (a number called the rank of the tensor).
+Some physical quantities are represented by tensors not all of whose components are independent. Important examples of such tensors include symmetric and antisymmetric tensors. Antisymmetric tensors are commonly used to represent rotations (for example, the vorticity tensor).
+Although a generic rank R tensor in 4 dimensions has 4R components, constraints on the tensor such as symmetry or antisymmetry serve to reduce the number of distinct components. For example, a symmetric rank two tensor 
+          T
+    {\displaystyle \scriptstyle T}
+   satisfies 
+            T
+              a
+              b
+          =
+            T
+              b
+              a
+    {\displaystyle \scriptstyle T_{ab}\;=\;T_{ba}}
+   and possesses 10 independent components, whereas an antisymmetric (skew-symmetric) rank two tensor 
+          P
+    {\displaystyle \scriptstyle P}
+   satisfies 
+            P
+              a
+              b
+          =
+          −
+            P
+              b
+              a
+    {\displaystyle \scriptstyle P_{ab}\;=\;-P_{ba}}
+   and has 6 independent components. For ranks greater than two, the symmetric or antisymmetric index pairs must be explicitly identified.
+Antisymmetric tensors of rank 2 play important roles in relativity theory. The set of all such tensors - often called bivectors - forms a vector space of dimension 6, sometimes called bivector space.
+The metric tensor is a central object in general relativity that describes the local geometry of spacetime (as a result of solving the Einstein field equations). Using the weak-field approximation, the metric can also be thought of as representing the 'gravitational potential'. The metric tensor is often just called 'the metric'.
+The metric is a symmetric tensor and is an important mathematical tool. As well as being used to raise and lower tensor indices, it also generates the connections which are used to construct the geodesic equations of motion and the Riemann curvature tensor.
+A convenient means of expressing the metric tensor in combination with the incremental intervals of coordinate distance that it relates to is through the line element:
+        d
+          s
+            2
+        =
+          g
+            a
+            b
+        d
+          x
+            a
+        d
+          x
+            b
+    {\displaystyle ds^{2}=g_{ab}\,dx^{a}\,dx^{b}}
+This way of expressing the metric was used by the pioneers of differential geometry. While some relativists consider the notation to be somewhat old-fashioned, many readily switch between this and the alternative notation:
+        g
+        =
+          g
+            a
+            b
+        d
+          x
+            a
+        ⊗
+        d
+          x
+            b
+    {\displaystyle g=g_{ab}\,dx^{a}\otimes dx^{b}}
+The metric tensor is commonly written as a 4 by 4 matrix. This matrix is symmetric and thus has 10 independent components.
+One of the central features of GR is the idea of invariance of physical laws. This invariance can be described in many ways, for example, in terms of local Lorentz covariance, the general principle of relativity, or diffeomorphism covariance.
+A more explicit description can be given using tensors. The crucial feature of tensors used in this approach is the fact that (once a metric is given) the operation of contracting a tensor of rank R over all R indices gives a number - an invariant - that is independent of the coordinate chart one uses to perform the contraction. Physically, this means that if the invariant is calculated by any two observers, they will get the same number, thus suggesting that the invariant has some independent significance. Some important invariants in relativity include:
+The Ricci scalar: 
+          R
+          =
+            R
+              a
+              b
+            g
+              a
+              b
+    {\displaystyle \scriptstyle R\;=\;R^{ab}g_{ab}}
+The Kretschmann scalar: 
+          K
+          =
+            R
+              a
+              b
+              c
+              d
+            R
+              a
+              b
+              c
+              d
+    {\displaystyle \scriptstyle K\;=\;R^{abcd}R_{abcd}}
+Other examples of invariants in relativity include the electromagnetic invariants, and various other curvature invariants, some of the latter finding application in the study of gravitational entropy and the Weyl curvature hypothesis.
+The classification of tensors is a purely mathematical problem. In GR, however, certain tensors that have a physical interpretation can be classified with the different forms of the tensor usually corresponding to some physics. Examples of tensor classifications useful in general relativity include the Segre classification of the energy–momentum tensor and the Petrov classification of the Weyl tensor. There are various methods of classifying these tensors, some of which use tensor invariants.
+Tensor fields on a manifold are maps which attach a tensor to each point of the manifold. This notion can be made more precise by introducing the idea of a fibre bundle, which in the present context means to collect together all the tensors at all points of the manifold, thus 'bundling' them all into one grand object called the tensor bundle. A tensor field is then defined as a map from the manifold to the tensor bundle, each point 
+          p
+    {\displaystyle \scriptstyle p}
+   being associated with a tensor at 
+          p
+    {\displaystyle \scriptstyle p}
+  .
+The notion of a tensor field is of major importance in GR. For example, the geometry around a star is described by a metric tensor at each point, so at each point of the spacetime the value of the metric should be given to solve for the paths of material particles. Another example is the values of the electric and magnetic fields (given by the electromagnetic field tensor) and the metric at each point around a charged black hole to determine the motion of a charged particle in such a field.
+Vector fields are contravariant rank one tensor fields. Important vector fields in relativity include the four-velocity, 
+            U
+              a
+          =
+                  x
+                  ˙
+              a
+    {\displaystyle \scriptstyle U^{a}\;=\;{\dot {x}}^{a}}
+  , which is the coordinate distance travelled per unit of proper time, the four-acceleration 
+            A
+              a
+          =
+                  x
+                  ¨
+              a
+    {\displaystyle \scriptstyle A^{a}\;=\;{\ddot {x}}^{a}}
+   and the four-current 
+            J
+              a
+    {\displaystyle \scriptstyle \,J^{a}}
+   describing the charge and current densities. Other physically important tensor fields in relativity include the following:
+The stress–energy tensor 
+            T
+              a
+              b
+    {\displaystyle \scriptstyle \,T^{ab}}
+  , a symmetric rank-two tensor.
+The electromagnetic field tensor 
+            F
+              a
+              b
+    {\displaystyle \scriptstyle \,F^{ab}}
+  , a rank-two antisymmetric tensor.
+Although the word 'tensor' refers to an object at a point, it is common practice to refer to tensor fields on a spacetime (or a region of it) as just 'tensors'.
+At each point of a spacetime on which a metric is defined, the metric can be reduced to the Minkowski form using Sylvester's law of inertia.
+Before the advent of general relativity, changes in physical processes were generally described by partial derivatives, for example, in describing changes in electromagnetic fields (see Maxwell's equations). Even in special relativity, the partial derivative is still sufficient to describe such changes. However, in general relativity, it is found that derivatives which are also tensors must be used. The derivatives have some common features including that they are derivatives along integral curves of vector fields.
+The problem in defining derivatives on manifolds that are not flat is that there is no natural way to compare vectors at different points. An extra structure on a general manifold is required to define derivatives. Below are described two important derivatives that can be defined by imposing an additional structure on the manifold in each case.
+The curvature of a spacetime can be characterised by taking a vector at some point and parallel transporting it along a curve on the spacetime. An affine connection is a rule which describes how to legitimately move a vector along a curve on the manifold without changing its direction.
+By definition, an affine connection is a bilinear map 
+          Γ
+          (
+          T
+          M
+          )
+          ×
+          Γ
+          (
+          T
+          M
+          )
+          →
+          Γ
+          (
+          T
+          M
+          )
+    {\displaystyle \scriptstyle \Gamma (TM)\times \Gamma (TM)\;\rightarrow \;\Gamma (TM)}
+  , where 
+          Γ
+          (
+          T
+          M
+          )
+    {\displaystyle \scriptstyle \,\Gamma (TM)}
+   is a space of all vector fields on the spacetime. This bilinear map can be described in terms of a set of connection coefficients (also known as Christoffel symbols) specifying what happens to components of basis vectors under infinitesimal parallel transport:
+          ∇
+              e
+                i
+          e
+            j
+        =
+          Γ
+            j
+            i
+            k
+          e
+            k
+    {\displaystyle \nabla _{e_{i}}e_{j}=\Gamma _{ji}^{k}e_{k}}
+Despite their appearance, the connection coefficients are not the components of a tensor.
+Generally speaking, there are D3 independent connection coefficients at each point of spacetime. The connection is called symmetric or torsion-free, if 
+            Γ
+              j
+              i
+              k
+          =
+            Γ
+              i
+              j
+              k
+    {\displaystyle \scriptstyle \Gamma _{ji}^{k}\;=\;\Gamma _{ij}^{k}}
+  . A symmetric connection has at most 1⁄2D2(D + 1) unique coefficients.
+For any curve 
+          γ
+    {\displaystyle \scriptstyle \gamma }
+   and two points 
+          A
+          =
+          γ
+          (
+          0
+          )
+    {\displaystyle \scriptstyle A\;=\;\gamma (0)}
+   and 
+          B
+          =
+          γ
+          (
+          t
+          )
+    {\displaystyle \scriptstyle B\;=\;\gamma (t)}
+   on this curve, an affine connection gives rise to a map of vectors in the tangent space at A into vectors in the tangent space at B:
+        X
+        (
+        t
+        )
+        =
+          Π
+            0
+            ,
+            t
+            ,
+            γ
+        X
+        (
+        0
+        )
+    {\displaystyle X(t)\,=\Pi _{0,t,\gamma }X(0)}
+and 
+          X
+          (
+          t
+          )
+    {\displaystyle \scriptstyle \,X(t)}
+   can be computed component-wise by solving the differential equation
+            d
+              d
+              t
+          X
+            i
+        (
+        t
+        )
+        =
+          ∇
+            C
+            (
+            t
+            )
+          X
+            i
+        (
+        t
+        )
+        =
+          Γ
+            j
+            k
+            i
+          X
+            j
+        (
+        t
+        )
+          C
+            k
+        (
+        t
+        )
+    {\displaystyle {\frac {d}{dt}}X^{i}(t)=\nabla _{C(t)}X^{i}(t)=\Gamma _{jk}^{i}X^{j}(t)C^{k}(t)}
+            C
+              j
+          (
+          t
+          )
+    {\displaystyle \scriptstyle \,C^{j}(t)}
+   being the vector tangent to the curve at the point 
+          γ
+          (
+          t
+          )
+    {\displaystyle \scriptstyle \gamma (t)}
+  .
+An important affine connection in general relativity is the Levi-Civita connection, which is a symmetric connection obtained from parallel transporting a tangent vector along a curve whilst keeping the inner product of that vector constant along the curve. The resulting connection coefficients (Christoffel symbols) can be calculated directly from the metric. For this reason, this type of connection is often called a metric connection.
+Let 
+          X
+    {\displaystyle \scriptstyle X}
+   be a point, 
+                A
+                →
+    {\displaystyle \scriptstyle {\vec {A}}}
+   a vector located at 
+          X
+    {\displaystyle \scriptstyle X}
+  , and 
+                B
+                →
+    {\displaystyle \scriptstyle {\vec {B}}}
+   a vector field. The idea of differentiating 
+                B
+                →
+    {\displaystyle \scriptstyle {\vec {B}}}
+   at 
+          X
+    {\displaystyle \scriptstyle X}
+   along the direction of 
+                A
+                →
+    {\displaystyle \scriptstyle {\vec {A}}}
+   in a physically meaningful way can be made sense of by choosing an affine connection and a parameterized smooth curve 
+          γ
+          (
+          t
+          )
+    {\displaystyle \scriptstyle \gamma \,(t)}
+   such that 
+          X
+          =
+          γ
+          (
+          0
+          )
+    {\displaystyle \scriptstyle X\;=\;\gamma (0)}
+   and 
+                A
+                →
+          =
+              d
+                d
+                t
+          γ
+          (
+          0
+          )
+    {\displaystyle \scriptstyle {\vec {A}}\;=\;{d \over dt}\gamma (0)}
+  . The formula
+          ∇
+                A
+                →
+              B
+              →
+        (
+        X
+        )
+        =
+          lim
+            ϵ
+            →
+            0
+            1
+            ϵ
+          [
+            Π
+              (
+              ϵ
+              ,
+              0
+              ,
+              γ
+              )
+                B
+                →
+          (
+          γ
+          [
+          ϵ
+          ]
+          )
+          −
+                B
+                →
+          (
+          X
+          )
+          ]
+    {\displaystyle \nabla _{\vec {A}}{\vec {B}}(X)=\lim _{\epsilon \rightarrow 0}{\frac {1}{\epsilon }}\left[\Pi _{(\epsilon ,0,\gamma )}{\vec {B}}(\gamma [\epsilon ])-{\vec {B}}(X)\right]}
+for a covariant derivative of 
+                B
+                →
+    {\displaystyle \scriptstyle {\vec {B}}}
+   along 
+                A
+                →
+    {\displaystyle \scriptstyle {\vec {A}}}
+   associated with connection 
+          Π
+    {\displaystyle \scriptstyle \,\Pi }
+   turns out to give curve-independent results and can be used as a "physical definition" of a covariant derivative.
+It can be expressed using connection coefficients:
+          ∇
+                Y
+                →
+              X
+              →
+        =
+          X
+            a
+            ;
+            b
+          Y
+            b
+            ∂
+              ∂
+                x
+                  a
+        =
+        (
+          X
+            a
+            ,
+            b
+        +
+          Γ
+            b
+            c
+            a
+          X
+            c
+        )
+          Y
+            b
+            ∂
+              ∂
+                x
+                  a
+    {\displaystyle \nabla _{\vec {Y}}{\vec {X}}=X^{a}{}_{;b}Y^{b}{\frac {\partial }{\partial x^{a}}}=(X^{a}{}_{,b}+\Gamma _{bc}^{a}X^{c})Y^{b}{\frac {\partial }{\partial x^{a}}}}
+The expression in brackets, called a covariant derivative of 
+          X
+    {\displaystyle \scriptstyle X}
+   (with respect to the connection) and denoted by 
+          ∇
+                X
+                →
+    {\displaystyle \scriptstyle \nabla {\vec {X}}}
+  , is more often used in calculations:
+        ∇
+              X
+              →
+        =
+          X
+            a
+            ;
+            b
+            ∂
+              ∂
+                x
+                  a
+        ⊗
+        d
+          x
+            b
+        =
+        (
+          X
+            a
+            ,
+            b
+        +
+          Γ
+            b
+            c
+            a
+          X
+            c
+        )
+            ∂
+              ∂
+                x
+                  a
+        ⊗
+        d
+          x
+            b
+    {\displaystyle \nabla {\vec {X}}=X^{a}{}_{;b}{\frac {\partial }{\partial x^{a}}}\otimes dx^{b}=(X^{a}{}_{,b}+\Gamma _{bc}^{a}X^{c}){\frac {\partial }{\partial x^{a}}}\otimes dx^{b}}
+A covariant derivative of X can thus be viewed as a differential operator acting on a vector field sending it to a type (1, 1) tensor ('increasing the covariant index by 1') and can be generalised to act on type (r, s) tensor fields sending them to type (r, s + 1) tensor fields. Notions of parallel transport can then be defined similarly as for the case of vector fields. By definition, a covariant derivative of a scalar field is equal to the regular derivative of the field.
+In the literature, there are three common methods of denoting covariant differentiation:
+          D
+            a
+          T
+            d
+            …
+            e
+            b
+            …
+            c
+        =
+          ∇
+            a
+          T
+            d
+            …
+            e
+            b
+            …
+            c
+        =
+          T
+            d
+            …
+            e
+            ;
+            a
+            b
+            …
+            c
+    {\displaystyle D_{a}T_{d\dots e}^{b\dots c}=\nabla _{a}T_{d\dots e}^{b\dots c}=T_{d\dots e;a}^{b\dots c}}
+Many standard properties of regular partial derivatives also apply to covariant derivatives:
+                  ∇
+                    a
+                (
+                  X
+                    b
+                +
+                  Y
+                    b
+                )
+                =
+                  ∇
+                    a
+                  X
+                    b
+                +
+                  ∇
+                    a
+                  Y
+                    b
+                  ∇
+                    a
+                (
+                  X
+                    b
+                  Y
+                    c
+                )
+                =
+                  Y
+                    c
+                (
+                  ∇
+                    a
+                  X
+                    b
+                )
+                +
+                  X
+                    b
+                (
+                  ∇
+                    a
+                  Y
+                    c
+                )
+                  ∇
+                    a
+                (
+                f
+                (
+                x
+                )
+                  X
+                    b
+                )
+                =
+                f
+                  ∇
+                    a
+                  X
+                    b
+                +
+                  X
+                    b
+                  ∇
+                    a
+                f
+                =
+                f
+                  ∇
+                    a
+                  X
+                    b
+                +
+                  X
+                    b
+                      ∂
+                      f
+                      ∂
+                        x
+                          a
+                  ∇
+                    a
+                (
+                c
+                  X
+                    b
+                )
+                =
+                c
+                  ∇
+                    a
+                  X
+                    b
+                ,
+                c
+                   is constant
+    {\displaystyle {\begin{aligned}\nabla _{a}(X^{b}+Y^{b})&=\nabla _{a}X^{b}+\nabla _{a}Y^{b}\\\nabla _{a}(X^{b}Y^{c})&=Y^{c}(\nabla _{a}X^{b})+X^{b}(\nabla _{a}Y^{c})\\\nabla _{a}(f(x)X^{b})&=f\nabla _{a}X^{b}+X^{b}\nabla _{a}f=f\nabla _{a}X^{b}+X^{b}{\partial f \over \partial x^{a}}\\\nabla _{a}(cX^{b})&=c\nabla _{a}X^{b},\quad c{\text{ is constant}}\end{aligned}}}
+In general relativity, one usually refers to "the" covariant derivative, which is the one associated with Levi-Civita affine connection. By definition, Levi-Civita connection preserves the metric under parallel transport, therefore, the covariant derivative gives zero when acting on a metric tensor (as well as its inverse). It means that we can take the (inverse) metric tensor in and out of the derivative and use it to raise and lower indices:
+          ∇
+            a
+          T
+            b
+        =
+          ∇
+            a
+        (
+          T
+            c
+          g
+            b
+            c
+        )
+        =
+          g
+            b
+            c
+          ∇
+            a
+          T
+            c
+    {\displaystyle \nabla _{a}T^{b}=\nabla _{a}(T_{c}g^{bc})=g^{bc}\nabla _{a}T_{c}}
+Another important tensorial derivative is the Lie derivative. Unlike the covariant derivative, the Lie derivative is independent of the metric, although in general relativity one usually uses an expression that seemingly depends on the metric through the affine connection. Whereas the covariant derivative required an affine connection to allow comparison between vectors at different points, the Lie derivative uses a congruence from a vector field to achieve the same purpose. The idea of Lie dragging a function along a congruence leads to a definition of the Lie derivative, where the dragged function is compared with the value of the original function at a given point. The Lie derivative can be defined for type (r, s) tensor fields and in this respect can be viewed as a map that sends a type (r, s) to a type (r, s) tensor.
+The Lie derivative is usually denoted by 
+                L
+              X
+    {\displaystyle \scriptstyle {\mathcal {L}}_{X}}
+  , where 
+          X
+    {\displaystyle \scriptstyle X}
+   is the vector field along whose congruence the Lie derivative is taken.
+The Lie derivative of any tensor along a vector field can be expressed through the covariant derivatives of that tensor and vector field. The Lie derivative of a scalar is just the directional derivative:
+              L
+            X
+        ϕ
+        =
+          X
+            a
+          ∇
+            a
+        ϕ
+        =
+          X
+            a
+              ∂
+              ϕ
+              ∂
+                x
+                  a
+    {\displaystyle {\mathcal {L}}_{X}\phi =X^{a}\nabla _{a}\phi =X^{a}{\frac {\partial \phi }{\partial x^{a}}}}
+Higher rank objects pick up additional terms when the Lie derivative is taken. For example, the Lie derivative of a type (0, 2) tensor is
+              L
+            X
+          T
+            a
+            b
+        =
+          X
+            c
+          ∇
+            c
+          T
+            a
+            b
+        +
+        (
+          ∇
+            a
+          X
+            c
+        )
+          T
+            c
+            b
+        +
+        (
+          ∇
+            b
+          X
+            c
+        )
+          T
+            a
+            c
+        =
+          X
+            c
+          T
+            a
+            b
+            ,
+            c
+        +
+          X
+            ,
+            a
+            c
+          T
+            c
+            b
+        +
+          X
+            ,
+            b
+            c
+          T
+            a
+            c
+    {\displaystyle {\mathcal {L}}_{X}T_{ab}=X^{c}\nabla _{c}T_{ab}+(\nabla _{a}X^{c})T_{cb}+(\nabla _{b}X^{c})T_{ac}=X^{c}T_{ab,c}+X_{,a}^{c}T_{cb}+X_{,b}^{c}T_{ac}}
+More generally,
+                      L
+                    X
+                  T
+                      a
+                        1
+                    …
+                      a
+                        r
+                      b
+                        1
+                    …
+                      b
+                        s
+                =
+                  X
+                    c
+                (
+                  ∇
+                    c
+                  T
+                      a
+                        1
+                    …
+                      a
+                        r
+                      b
+                        1
+                    …
+                      b
+                        s
+                )
+                −
+                (
+                  ∇
+                    c
+                  X
+                      a
+                        1
+                )
+                  T
+                    c
+                    …
+                      a
+                        r
+                      b
+                        1
+                    …
+                      b
+                        s
+                −
+                …
+                −
+                (
+                  ∇
+                    c
+                  X
+                      a
+                        r
+                )
+                  T
+                      a
+                        1
+                    …
+                      a
+                        r
+                        −
+                        1
+                    c
+                      b
+                        1
+                    …
+                      b
+                        s
+                +
+                (
+                  ∇
+                      b
+                        1
+                  X
+                    c
+                )
+                  T
+                      a
+                        1
+                    …
+                      a
+                        r
+                    c
+                    …
+                      b
+                        s
+                +
+                …
+                +
+                (
+                  ∇
+                      b
+                        s
+                  X
+                    c
+                )
+                  T
+                      a
+                        1
+                    …
+                      a
+                        r
+                      b
+                        1
+                    …
+                      b
+                        s
+                        −
+                        1
+                    c
+    {\displaystyle {\begin{aligned}&{\mathcal {L}}_{X}T^{a_{1}\ldots a_{r}}{}_{b_{1}\ldots b_{s}}=X^{c}(\nabla _{c}T^{a_{1}\ldots a_{r}}{}_{b_{1}\ldots b_{s}})-\\&\quad (\nabla _{c}X^{a_{1}})T^{c\ldots a_{r}}{}_{b_{1}\ldots b_{s}}-\ldots -(\nabla _{c}X^{a_{r}})T^{a_{1}\ldots a_{r-1}c}{}_{b_{1}\ldots b_{s}}+\\&\quad (\nabla _{b_{1}}X^{c})T^{a_{1}\ldots a_{r}}{}_{c\ldots b_{s}}+\ldots +(\nabla _{b_{s}}X^{c})T^{a_{1}\ldots a_{r}}{}_{b_{1}\ldots b_{s-1}c}\end{aligned}}}
+In fact in the above expression, one can replace the covariant derivative 
+            ∇
+              a
+    {\displaystyle \scriptstyle \nabla _{a}}
+   with any torsion free connection 
+                  ∇
+                  ~
+              a
+    {\displaystyle \scriptstyle {\tilde {\nabla }}_{a}}
+   or locally, with the coordinate dependent derivative 
+            ∂
+              a
+    {\displaystyle \scriptstyle \partial _{a}}
+  , showing that the Lie derivative is independent of the metric. The covariant derivative is convenient however because it commutes with raising and lowering indices.
+One of the main uses of the Lie derivative in general relativity is in the study of spacetime symmetries where tensors or other geometrical objects are preserved. In particular, Killing symmetry (symmetry of the metric tensor under Lie dragging) occurs very often in the study of spacetimes. Using the formula above, we can write down the condition that must be satisfied for a vector field to generate a Killing symmetry:
+                      L
+                    X
+                  g
+                    a
+                    b
+                =
+                0
+                ⇔
+                  ∇
+                    a
+                  X
+                    b
+                +
+                  ∇
+                    b
+                  X
+                    a
+                =
+                0
+                ⇔
+                  X
+                    c
+                  g
+                    a
+                    b
+                    ,
+                    c
+                +
+                  X
+                    ,
+                    a
+                    c
+                  g
+                    b
+                    c
+                +
+                  X
+                    ,
+                    b
+                    c
+                  g
+                    a
+                    c
+                =
+                0
+    {\displaystyle {\begin{aligned}{\mathcal {L}}_{X}g_{ab}&=0\\\Leftrightarrow \nabla _{a}X_{b}+\nabla _{b}X_{a}&=0\\\Leftrightarrow X^{c}g_{ab,c}+X_{,a}^{c}g_{bc}+X_{,b}^{c}g_{ac}&=0\end{aligned}}}
+A crucial feature of general relativity is the concept of a curved manifold. A useful way of measuring the curvature of a manifold is with an object called the Riemann (curvature) tensor.
+This tensor measures curvature by use of an affine connection by considering the effect of parallel transporting a vector between two points along two curves. The discrepancy between the results of these two parallel transport routes is essentially quantified by the Riemann tensor.
+This property of the Riemann tensor can be used to describe how initially parallel geodesics diverge. This is expressed by the equation of geodesic deviation and means that the tidal forces experienced in a gravitational field are a result of the curvature of spacetime.
+Using the above procedure, the Riemann tensor is defined as a type (1, 3) tensor and when fully written out explicitly contains the Christoffel symbols and their first partial derivatives. The Riemann tensor has 20 independent components. The vanishing of all these components over a region indicates that the spacetime is flat in that region. From the viewpoint of geodesic deviation, this means that initially parallel geodesics in that region of spacetime will stay parallel.
+The Riemann tensor has a number of properties sometimes referred to as the symmetries of the Riemann tensor. Of particular relevance to general relativity are the algebraic and differential Bianchi identities.
+The connection and curvature of any Riemannian manifold are closely related, the theory of holonomy groups, which are formed by taking linear maps defined by parallel transport around curves on the manifold, providing a description of this relationship.
+What the Riemann Tensor allows us to do is tell, mathematically, whether a space is flat or, if curved, how much curvature takes place in any given region. In order to derive the Riemann curvature tensor we must first recall the definition of the covariant derivative of a tensor with one and two indices;
+ :
+          ∇
+            μ
+          V
+            ν
+        =
+          ∂
+            μ
+          V
+            ν
+        −
+          Γ
+            ρ
+            μ
+            ν
+          V
+            ρ
+    {\displaystyle \nabla _{\mu }V_{\nu }=\partial _{\mu }V_{\nu }-\Gamma ^{\rho }{}_{\mu \nu }V_{\rho }}
+ :
+          ∇
+            m
+        [
+          V
+            μ
+            ν
+        ]
+        =
+          ∂
+            m
+          V
+            μ
+            ν
+        −
+          Γ
+            ρ
+            m
+            ν
+          V
+            ρ
+        −
+          Γ
+            ρ
+            m
+            μ
+          V
+            ρ
+    {\displaystyle \nabla _{m}[V_{\mu \nu }]=\partial _{m}V_{\mu \nu }-\Gamma ^{\rho }{}_{m\nu }V_{\rho }-\Gamma ^{\rho }{}_{m\mu }V_{\rho }}
+For the formation of the Riemann tensor, the covariant derivative is taken twice with the respects to a tensor of rank one. The equation is set up as follows;
+                  ∇
+                    σ
+                    ;
+                    μ
+                  V
+                    ν
+                =
+                  ∇
+                    σ
+                  [
+                    ∇
+                      μ
+                    V
+                      ν
+                  ]
+                =
+                  ∇
+                    σ
+                  [
+                    ∂
+                      μ
+                    V
+                      ν
+                  −
+                    Γ
+                      ρ
+                      μ
+                      ν
+                    V
+                      ρ
+                  ]
+                =
+                  ∇
+                    σ
+                  [
+                    ∂
+                      μ
+                    V
+                      ν
+                  ]
+                −
+                  ∇
+                    σ
+                  [
+                    Γ
+                      ρ
+                      μ
+                      ν
+                    V
+                      ρ
+                  ]
+                  Additive Property of 
+                  ∇
+                    σ
+                =
+                  (
+                    ∂
+                      σ
+                    [
+                      ∂
+                        μ
+                      V
+                        ν
+                    ]
+                  −
+                    Γ
+                      ρ
+                      μ
+                      ν
+                    ∂
+                      σ
+                    V
+                      ρ
+                  −
+                    Γ
+                      ρ
+                      σ
+                      ν
+                    ∂
+                      μ
+                    V
+                      ρ
+                  −
+                    Γ
+                      ρ
+                      σ
+                      μ
+                    ∂
+                      ρ
+                    V
+                      ν
+                  )
+                −
+                  (
+                    ∂
+                      σ
+                    [
+                      Γ
+                        ρ
+                        μ
+                        ν
+                      V
+                        ρ
+                    ]
+                  −
+                    Γ
+                      α
+                      σ
+                      ν
+                    Γ
+                      ρ
+                      α
+                      μ
+                    V
+                      ρ
+                  −
+                    Γ
+                      α
+                      σ
+                      μ
+                    Γ
+                      ρ
+                      α
+                      ν
+                    V
+                      ρ
+                  )
+                  Second Rank Tensor Rule
+                =
+                  ∂
+                    σ
+                [
+                  ∂
+                    μ
+                  V
+                    ν
+                ]
+                −
+                  Γ
+                    ρ
+                    μ
+                    ν
+                  ∂
+                    σ
+                  V
+                    ρ
+                −
+                  Γ
+                    ρ
+                    σ
+                    ν
+                  ∂
+                    μ
+                  V
+                    ρ
+                −
+                  Γ
+                    ρ
+                    σ
+                    μ
+                  ∂
+                    ρ
+                  V
+                    ν
+                −
+                  ∂
+                    σ
+                [
+                  Γ
+                    ρ
+                    μ
+                    ν
+                  V
+                    ρ
+                ]
+                +
+                  Γ
+                    α
+                    σ
+                    ν
+                  Γ
+                    ρ
+                    α
+                    μ
+                  V
+                    ρ
+                +
+                  Γ
+                    α
+                    σ
+                    μ
+                  Γ
+                    ρ
+                    α
+                    ν
+                  V
+                    ρ
+    {\displaystyle {\begin{aligned}\nabla _{\sigma ;\mu }V_{\nu }&=\nabla _{\sigma }\left[\nabla _{\mu }V_{\nu }\right]\\&=\nabla _{\sigma }\left[\partial _{\mu }V_{\nu }-\Gamma ^{\rho }{}_{\mu \nu }V_{\rho }\right]\\&=\nabla _{\sigma }\left[\partial _{\mu }V_{\nu }\right]-\nabla _{\sigma }\left[\Gamma ^{\rho }{}_{\mu \nu }V_{\rho }\right]&&{\text{Additive Property of }}\nabla _{\sigma }\\&=\left(\partial _{\sigma }\left[\partial _{\mu }V_{\nu }\right]-\Gamma ^{\rho }{}_{\mu \nu }\partial _{\sigma }V_{\rho }-\Gamma ^{\rho }{}_{\sigma \nu }\partial _{\mu }V_{\rho }-\Gamma ^{\rho }{}_{\sigma \mu }\partial _{\rho }V_{\nu }\right)-\left(\partial _{\sigma }\left[\Gamma ^{\rho }{}_{\mu \nu }V_{\rho }\right]-\Gamma ^{\alpha }{}_{\sigma \nu }\Gamma ^{\rho }{}_{\alpha \mu }V_{\rho }-\Gamma ^{\alpha }{}_{\sigma \mu }\Gamma ^{\rho }{}_{\alpha \nu }V_{\rho }\right)&&{\text{Second Rank Tensor Rule}}\\&=\partial _{\sigma }[\partial _{\mu }V_{\nu }]-\Gamma ^{\rho }{}_{\mu \nu }\partial _{\sigma }V_{\rho }-\Gamma ^{\rho }{}_{\sigma \nu }\partial _{\mu }V_{\rho }-\Gamma ^{\rho }{}_{\sigma \mu }\partial _{\rho }V_{\nu }-\partial _{\sigma }[\Gamma ^{\rho }{}_{\mu \nu }V_{\rho }]+\Gamma ^{\alpha }{}_{\sigma \nu }\Gamma ^{\rho }{}_{\alpha \mu }V_{\rho }+\Gamma ^{\alpha }{}_{\sigma \mu }\Gamma ^{\rho }{}_{\alpha \nu }V_{\rho }\end{aligned}}}
+Similarly we have:
+          ∇
+            μ
+            ;
+            σ
+          V
+            ν
+        =
+          ∂
+            μ
+          [
+            ∂
+              σ
+            V
+              ν
+          ]
+        −
+          Γ
+            ρ
+            σ
+            ν
+          ∂
+            μ
+          V
+            ρ
+        −
+          Γ
+            ρ
+            μ
+            ν
+          ∂
+            μ
+          V
+            ρ
+        −
+          Γ
+            ρ
+            μ
+            σ
+          ∂
+            ρ
+          V
+            ν
+        −
+          ∂
+            μ
+          [
+            Γ
+              ρ
+              σ
+              ν
+            V
+              ρ
+          ]
+        +
+          Γ
+            α
+            μ
+            ν
+          Γ
+            ρ
+            α
+            σ
+          V
+            ρ
+        +
+          Γ
+            α
+            μ
+            σ
+          Γ
+            ρ
+            α
+            ν
+          V
+            ρ
+    {\displaystyle \nabla _{\mu ;\sigma }V_{\nu }=\partial _{\mu }\left[\partial _{\sigma }V_{\nu }\right]-\Gamma ^{\rho }{}_{\sigma \nu }\partial _{\mu }V_{\rho }-\Gamma ^{\rho }{}_{\mu \nu }\partial _{\mu }V_{\rho }-\Gamma ^{\rho }{}_{\mu \sigma }\partial _{\rho }V_{\nu }-\partial _{\mu }\left[\Gamma ^{\rho }{}_{\sigma \nu }V_{\rho }\right]+\Gamma ^{\alpha }{}_{\mu \nu }\Gamma ^{\rho }{}_{\alpha \sigma }V_{\rho }+\Gamma ^{\alpha }{}_{\mu \sigma }\Gamma ^{\rho }{}_{\alpha \nu }V_{\rho }}
+Now subtracting the two equations and using the symmetry of Christoffel symbols we arrive at:
+          ∇
+            σ
+            ;
+            μ
+          V
+            ν
+        −
+          ∇
+            μ
+            ;
+            σ
+          V
+            ν
+        =
+        (
+          ∂
+            μ
+          Γ
+            ρ
+            σ
+            ν
+        −
+          ∂
+            σ
+          Γ
+            ρ
+            μ
+            ν
+        +
+          Γ
+            α
+            σ
+            ν
+          Γ
+            ρ
+            α
+            μ
+        −
+          Γ
+            α
+            μ
+            ν
+          Γ
+            ρ
+            α
+            σ
+        )
+          V
+            ρ
+    {\displaystyle \nabla _{\sigma ;\mu }V_{\nu }-\nabla _{\mu ;\sigma }V_{\nu }=(\partial _{\mu }\Gamma ^{\rho }{}_{\sigma \nu }-\partial _{\sigma }\Gamma ^{\rho }{}_{\mu \nu }+\Gamma ^{\alpha }{}_{\sigma \nu }\Gamma ^{\rho }{}_{\alpha \mu }-\Gamma ^{\alpha }{}_{\mu \nu }\Gamma ^{\rho }{}_{\alpha \sigma })V_{\rho }}
+You'll notice that the left side of the equation has 3 indices and the right side has 4, so we will have to sum over a pair of indices,
+          R
+            σ
+            μ
+            ν
+            ρ
+          V
+            ρ
+        =
+        (
+          ∂
+            μ
+          Γ
+            ρ
+            σ
+            ν
+        −
+          ∂
+            σ
+          Γ
+            ρ
+            μ
+            ν
+        +
+          Γ
+            α
+            σ
+            ν
+          Γ
+            ρ
+            α
+            μ
+        −
+          Γ
+            α
+            μ
+            ν
+          Γ
+            ρ
+            α
+            σ
+        )
+          V
+            ρ
+    {\displaystyle R_{\sigma \mu \nu }^{\rho }V_{\rho }=(\partial _{\mu }\Gamma ^{\rho }{}_{\sigma \nu }-\partial _{\sigma }\Gamma ^{\rho }{}_{\mu \nu }+\Gamma ^{\alpha }{}_{\sigma \nu }\Gamma ^{\rho }{}_{\alpha \mu }-\Gamma ^{\alpha }{}_{\mu \nu }\Gamma ^{\rho }{}_{\alpha \sigma })V_{\rho }}
+Finally the Riemann curvature tensor is written as;
+          R
+            σ
+            μ
+            ν
+            ρ
+        =
+          ∂
+            μ
+          Γ
+            ρ
+            σ
+            ν
+        −
+          ∂
+            σ
+          Γ
+            ρ
+            μ
+            ν
+        +
+          Γ
+            α
+            σ
+            ν
+          Γ
+            ρ
+            α
+            μ
+        −
+          Γ
+            α
+            μ
+            ν
+          Γ
+            ρ
+            α
+            σ
+    {\displaystyle R_{\sigma \mu \nu }^{\rho }=\partial _{\mu }\Gamma ^{\rho }{}_{\sigma \nu }-\partial _{\sigma }\Gamma ^{\rho }{}_{\mu \nu }+\Gamma ^{\alpha }{}_{\sigma \nu }\Gamma ^{\rho }{}_{\alpha \mu }-\Gamma ^{\alpha }{}_{\mu \nu }\Gamma ^{\rho }{}_{\alpha \sigma }}
+You can contract indices to make the tensor covariant simply by multiplying by the metric, which will be useful when working with Einstein's field equations,
+          g
+            ρ
+            λ
+          R
+            σ
+            μ
+            ν
+            λ
+        =
+          R
+            ρ
+            σ
+            μ
+            ν
+    {\displaystyle g_{\rho \lambda }R_{\sigma \mu \nu }^{\lambda }=R_{\rho \sigma \mu \nu }}
+and by further decomposition,
+          g
+            ρ
+            μ
+          R
+            ρ
+            σ
+            μ
+            ν
+        =
+          R
+            σ
+            ν
+    {\displaystyle g^{\rho \mu }R_{\rho \sigma \mu \nu }=R_{\sigma \nu }}
+This tensor is called the Ricci tensor which can also be derived by setting 
+        ρ
+    {\displaystyle \rho }
+   and 
+        μ
+    {\displaystyle \mu }
+   in the Riemann tensor to the same indice and summing over them. Then the curvature scalar can be found by going one step further,
+          g
+            σ
+            ν
+          R
+            σ
+            ν
+        =
+        R
+    {\displaystyle g^{\sigma \nu }R_{\sigma \nu }=R}
+So now we have 3 different objects,
+the Riemann curvature tensor: 
+          R
+            σ
+            μ
+            ν
+            ρ
+    {\displaystyle R_{\sigma \mu \nu }^{\rho }}
+   or 
+          R
+            ρ
+            σ
+            μ
+            ν
+    {\displaystyle R_{\rho \sigma \mu \nu }}
+the Ricci tensor: 
+          R
+            σ
+            ν
+    {\displaystyle R_{\sigma \nu }}
+the scalar curvature: 
+        R
+    {\displaystyle R}
+all of which are useful in calculating solutions to Einstein's field equations.
+The sources of any gravitational field (matter and energy) is represented in relativity by a type (0, 2) symmetric tensor called the energy–momentum tensor. It is closely related to the Ricci tensor. Being a second rank tensor in four dimensions, the energy–momentum tensor may be viewed as a 4 by 4 matrix. The various admissible matrix types, called Jordan forms cannot all occur, as the energy conditions that the energy–momentum tensor is forced to satisfy rule out certain forms.
+In GR, there is a local law for the conservation of energy–momentum. It can be succinctly expressed by the tensor equation:
+          T
+            a
+            b
+            ;
+            b
+        =
+        0
+    {\displaystyle T^{ab}{}_{;b}\,=0}
+The corresponding statement of local energy conservation in special relativity is:
+          T
+            a
+            b
+            ,
+            b
+        =
+        0
+    {\displaystyle T^{ab}{}_{,b}\,=0}
+This illustrates the rule of thumb that 'partial derivatives go to covariant derivatives'.
+The Einstein field equations (EFE) are the core of general relativity theory. The EFE describe how mass and energy (as represented in the stress–energy tensor) are related to the curvature of space-time (as represented in the Einstein tensor). In abstract index notation, the EFE reads as follows:
+          G
+            a
+            b
+        +
+        Λ
+          g
+            a
+            b
+        =
+              8
+              π
+              G
+              c
+                4
+          T
+            a
+            b
+    {\displaystyle G_{ab}+\Lambda g_{ab}={8\pi G \over c^{4}}T_{ab}}
+where 
+            G
+              a
+              b
+    {\displaystyle \scriptstyle G_{ab}}
+   is the Einstein tensor, 
+          Λ
+    {\displaystyle \scriptstyle \Lambda }
+   is the cosmological constant, 
+          c
+    {\displaystyle \scriptstyle c}
+   is the speed of light in a vacuum and 
+          G
+    {\displaystyle \scriptstyle G}
+   is the gravitational constant, which comes from Newton's law of universal gravitation.
+The solutions of the EFE are metric tensors. The EFE, being non-linear differential equations for the metric, are often difficult to solve. There are a number of strategies used to solve them. For example, one strategy is to start with an ansatz (or an educated guess) of the final metric, and refine it until it is specific enough to support a coordinate system but still general enough to yield a set of simultaneous differential equations with unknowns that can be solved for. Metric tensors resulting from cases where the resultant differential equations can be solved exactly for a physically reasonable distribution of energy–momentum are called exact solutions. Examples of important exact solutions include the Schwarzschild solution and the Friedman-Lemaître-Robertson–Walker solution.
+The EIH approximation plus other references (e.g. Geroch and Jang, 1975 - 'Motion of a body in general relativity', JMP, Vol. 16 Issue 1).
+Once the EFE are solved to obtain a metric, it remains to determine the motion of inertial objects in the spacetime. In general relativity, it is assumed that inertial motion occurs along timelike and null geodesics of spacetime as parameterized by proper time. Geodesics are curves that parallel transport their own tangent vector 
+                U
+                →
+    {\displaystyle \scriptstyle {\vec {U}}}
+  ; i.e., 
+            ∇
+                  U
+                  →
+                U
+                →
+          =
+          0
+    {\displaystyle \scriptstyle \nabla _{\vec {U}}{\vec {U}}\;=\;0}
+  . This condition, the geodesic equation, can be written in terms of a coordinate system 
+            x
+              a
+    {\displaystyle \scriptstyle x^{a}}
+   with the tangent vector 
+            U
+              a
+          =
+                d
+                  x
+                    a
+                d
+                τ
+    {\displaystyle \scriptstyle U^{a}={\frac {dx^{a}}{d\tau }}}
+  :
+                x
+                ¨
+            a
+        +
+              Γ
+                a
+            b
+            c
+                x
+                ˙
+            b
+                x
+                ˙
+            c
+        =
+        0
+    {\displaystyle {\ddot {x}}^{a}+{\Gamma ^{a}}_{bc}\,{\dot {x}}^{b}\,{\dot {x}}^{c}=0}
+where 
+                ˙
+    {\displaystyle \scriptstyle {\dot {}}}
+   denotes the derivative by proper time, 
+          d
+            /
+          d
+          τ
+    {\displaystyle \scriptstyle d/d\tau }
+  , with τ parametrising proper time along the curve and making manifest the presence of the Christoffel symbols.
+A principal feature of general relativity is to determine the paths of particles and radiation in gravitational fields. This is accomplished by solving the geodesic equations.
+The EFE relate the total matter (energy) distribution to the curvature of spacetime. Their nonlinearity leads to a problem in determining the precise motion of matter in the resultant spacetime. For example, in a system composed of one planet orbiting a star, the motion of the planet is determined by solving the field equations with the energy–momentum tensor the sum of that for the planet and the star. The gravitational field of the planet affects the total spacetime geometry and hence the motion of objects. It is therefore reasonable to suppose that the field equations can be used to derive the geodesic equations.
+When the energy–momentum tensor for a system is that of dust, it may be shown by using the local conservation law for the energy–momentum tensor that the geodesic equations are satisfied exactly.
+The issue of deriving the equations of motion or the field equations in any physical theory is considered by many researchers to be appealing. A fairly universal way of performing these derivations is by using the techniques of variational calculus, the main objects used in this being Lagrangians.
+Many consider this approach to be an elegant way of constructing a theory, others as merely a formal way of expressing a theory (usually, the Lagrangian construction is performed after the theory has been developed).
+Having outlined the basic mathematical structures used in formulating the theory, some important mathematical techniques that are employed in investigating spacetimes will now be discussed.
+A frame field is an orthonormal set of 4 vector fields (1 timelike, 3 spacelike) defined on a spacetime. Each frame field can be thought of as representing an observer in the spacetime moving along the integral curves of the timelike vector field. Every tensor quantity can be expressed in terms of a frame field, in particular, the metric tensor takes on a particularly convenient form. When allied with coframe fields, frame fields provide a powerful tool for analysing spacetimes and physically interpreting the mathematical results.
+Some modern techniques in analysing spacetimes rely heavily on using spacetime symmetries, which are infinitesimally generated by vector fields (usually defined locally) on a spacetime that preserve some feature of the spacetime. The most common type of such symmetry vector fields include Killing vector fields (which preserve the metric structure) and their generalisations called generalised Killing vector fields. Symmetry vector fields find extensive application in the study of exact solutions in general relativity and the set of all such vector fields usually forms a finite-dimensional Lie algebra.
+The Cauchy problem (sometimes called the initial value problem) is the attempt at finding a solution to a differential equation given initial conditions. In the context of general relativity, it means the problem of finding solutions to Einstein's field equations - a system of hyperbolic partial differential equations - given some initial data on a hypersurface. Studying the Cauchy problem allows one to formulate the concept of causality in general relativity, as well as 'parametrising' solutions of the field equations. Ideally, one desires global solutions, but usually local solutions are the best that can be hoped for. Typically, solving this initial value problem requires selection of particular coordinate conditions.
+Spinors find several important applications in relativity. Their use as a method of analysing spacetimes using tetrads, in particular, in the Newman–Penrose formalism is important.
+Another appealing feature of spinors in general relativity is the condensed way in which some tensor equations may be written using the spinor formalism. For example, in classifying the Weyl tensor, determining the various Petrov types becomes much easier when compared with the tensorial counterpart.
+Regge calculus is a formalism which chops up a Lorentzian manifold into discrete 'chunks' (four-dimensional simplicial blocks) and the block edge lengths are taken as the basic variables. A discrete version of the Einstein–Hilbert action is obtained by considering so-called deficit angles of these blocks, a zero deficit angle corresponding to no curvature. This novel idea finds application in approximation methods in numerical relativity and quantum gravity, the latter using a generalisation of Regge calculus.
+In general relativity, it was noted that, under fairly generic conditions, gravitational collapse will inevitably result in a so-called singularity. A singularity is a point where the solutions to the equations become infinite, indicating that the theory has been probed at inappropriate ranges.
+Numerical relativity is the sub-field of general relativity which seeks to solve Einstein's equations through the use of numerical methods. Finite difference, finite element and pseudo-spectral methods are used to approximate the solution to the partial differential equations which arise. Novel techniques developed by numerical relativity include the excision method and the puncture method for dealing with the singularities arising in black hole spacetimes. Common research topics include black holes and neutron stars.
+The nonlinearity of the Einstein field equations often leads one to consider approximation methods in solving them. For example, an important approach is to linearise the field equations. Techniques from perturbation theory find ample application in such areas.
+Ricci calculus

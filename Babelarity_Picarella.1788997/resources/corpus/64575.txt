@@ -1,0 +1,68 @@
+Content-based image retrieval (CBIR), also known as query by image content (QBIC) and content-based visual information retrieval (CBVIR) is the application of computer vision techniques to the image retrieval problem, that is, the problem of searching for digital images in large databases (see this survey for a recent scientific overview of the CBIR field). Content-based image retrieval is opposed to traditional concept-based approaches (see Concept-based image indexing).
+"Content-based" means that the search analyzes the contents of the image rather than the metadata such as keywords, tags, or descriptions associated with the image. The term "content" in this context might refer to colors, shapes, textures, or any other information that can be derived from the image itself. CBIR is desirable because searches that rely purely on metadata are dependent on annotation quality and completeness. Having humans manually annotate images by entering keywords or metadata in a large database can be time consuming and may not capture the keywords desired to describe the image. The evaluation of the effectiveness of keyword image search is subjective and has not been well-defined. In the same regard, CBIR systems have similar challenges in defining success.
+The term "content-based image retrieval" seems to have originated in 1992 when it was used by T. Kato to describe experiments into automatic retrieval of images from a database, based on the colors and shapes present. Since then, the term has been used to describe the process of retrieving desired images from a large collection on the basis of syntactical image features. The techniques, tools, and algorithms that are used originate from fields such as statistics, pattern recognition, signal processing, and computer vision
+The earliest commercial CBIR system was developed by IBM and was called QBIC (Query by Image Content). Recent network and graph based approaches have presented a simple and attractive alternative to existing methods.
+The interest in CBIR has grown because of the limitations inherent in metadata-based systems, as well as the large range of possible uses for efficient image retrieval. Textual information about images can be easily searched using existing technology, but this requires humans to manually describe each image in the database. This can be impractical for very large databases or for images that are generated automatically, e.g. those from surveillance cameras. It is also possible to miss images that use different synonyms in their descriptions. Systems based on categorizing images in semantic classes like "cat" as a subclass of "animal" can avoid the miscategorization problem, but will require more effort by a user to find images that might be "cats", but are only classified as an "animal". Many standards have been developed to categorize images, but all still face scaling and miscategorization issues.
+Initial CBIR systems were developed to search databases based on image color, texture, and shape properties. After these systems were developed, the need for user-friendly interfaces became apparent. Therefore, efforts in the CBIR field started to include human-centered design that tried to meet the needs of the user performing the search. This typically means inclusion of: query methods that may allow descriptive semantics, queries that may involve user feedback, systems that may include machine learning, and systems that may understand user satisfaction levels.
+Many CBIR systems have been developed, but the problem of retrieving images on the basis of their pixel content remains largely unsolved.
+Different implementations of CBIR make use of different types of user queries.
+Query by example is a query technique that involves providing the CBIR system with an example image that it will then base its search upon. The underlying search algorithms may vary depending on the application, but result images should all share common elements with the provided example.
+Options for providing example images to the system include:
+A preexisting image may be supplied by the user or chosen from a random set.
+The user draws a rough approximation of the image they are looking for, for example with blobs of color or general shapes.
+This query technique removes the difficulties that can arise when trying to describe images with words.
+Semantic retrieval starts with a user making a request like "find pictures of Abraham Lincoln". This type of open-ended task is very difficult for computers to perform - Lincoln may not always be facing the camera or in the same pose. Many CBIR systems therefore generally make use of lower-level features like texture, color, and shape. These features are either used in combination with interfaces that allow easier input of the criteria or with databases that have already been trained to match features (such as faces, fingerprints, or shape matching). However, in general, image retrieval requires human feedback in order to identify higher-level concepts.
+Combining CBIR search techniques available with the wide range of potential users and their intent can be a difficult task. An aspect of making CBIR successful relies entirely on the ability to understand the user intent. CBIR systems can make use of relevance feedback, where the user progressively refines the search results by marking images in the results as "relevant", "not relevant", or "neutral" to the search query, then repeating the search with the new information. Examples of this type of interface have been developed.
+Machine learning and application of iterative techniques are becoming more common in CBIR.
+Other query methods include browsing for example images, navigating customized/hierarchical categories, querying by image region (rather than the entire image), querying by multiple example images, querying by visual sketch, querying by direct specification of image features, and multimodal queries (e.g. combining touch, voice, etc.)
+The most common method for comparing two images in content-based image retrieval (typically an example image and an image from the database) is using an image distance measure. An image distance measure compares the similarity of two images in various dimensions such as color, texture, shape, and others. For example, a distance of 0 signifies an exact match with the query, with respect to the dimensions that were considered. As one may intuitively gather, a value greater than 0 indicates various degrees of similarities between the images. Search results then can be sorted based on their distance to the queried image. Many measures of image distance (Similarity Models) have been developed.
+Computing distance measures based on color similarity is achieved by computing a color histogram for each image that identifies the proportion of pixels within an image holding specific values. Examining images based on the colors they contain is one of the most widely used techniques because it can be completed without regard to image size or orientation. However, research has also attempted to segment color proportion by region and by spatial relationship among several color regions.
+Texture measures look for visual patterns in images and how they are spatially defined. Textures are represented by texels which are then placed into a number of sets, depending on how many textures are detected in the image. These sets not only define the texture, but also where in the image the texture is located.
+Texture is a difficult concept to represent. The identification of specific textures in an image is achieved primarily by modeling texture as a two-dimensional gray level variation. The relative brightness of pairs of pixels is computed such that degree of contrast, regularity, coarseness and directionality may be estimated. The problem is in identifying patterns of co-pixel variation and associating them with particular classes of textures such as silky, or rough.
+Other methods of classifying textures include:
+Co-occurrence matrix
+Laws texture energy
+Wavelet Transform
+Orthogonal Transforms (Discrete Tchebichef moments)
+Shape does not refer to the shape of an image but to the shape of a particular region that is being sought out. Shapes will often be determined first applying segmentation or edge detection to an image. Other methods use shape filters to identify given shapes of an image. Shape descriptors may also need to be invariant to translation, rotation, and scale.
+Some shape descriptors include:
+Fourier transform
+Moment Invariant
+Measures of image retrieval can be defined in terms of precision and recall. However, there are other methods being considered.
+An image is retrieved in CBIR system by adopting several techniques simultaneously such as Integrating Pixel Cluster Indexing, Histogram Intersection and Discrete Wavelet Transform methods.
+Potential uses for CBIR include:
+Architectural and engineering design
+Art collections
+Crime prevention
+Geographical information and remote sensing systems
+Intellectual property
+Medical diagnosis
+Military
+Photograph archives
+Retail catalogs
+Nudity-detection filters
+Face Finding
+Textiles Industry
+Commercial Systems that have been developed include:
+IBM’s QBIC
+Virage’s VIR Image Engine
+Excalibur’s Image RetrievalWare
+VisualSEEk and WebSEEk
+Netra
+MARS
+Vhoto
+Pixolution
+Experimental Systems include:
+MIT’s Photobook
+Columbia University’s WebSEEk
+Carnegie-Mellon University’s Informedia
+iSearch - PICT
+MPEG-7
+Document classification
+GazoPa
+Image retrieval
+List of CBIR engines
+Macroglossa Visual Search
+Multimedia Information Retrieval
+Multiple-instance learning
+Nearest neighbor search

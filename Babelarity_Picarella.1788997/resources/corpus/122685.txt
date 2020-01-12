@@ -1,0 +1,26 @@
+Isopsephy (/ˈaɪsəpˌsɛfi/; ἴσος isos meaning "equal" and ψῆφος psephos meaning "pebble") is the Greek word for the practice of adding up the number values of the letters in a word to form a single number. Isopsephism, the occurrence of isopsephy, is frequently used as a synonym. The early Greeks used pebbles arranged in patterns to learn arithmetic and geometry.
+Isopsephy is related to gematria, the same practice using the Hebrew alphabet, and the ancient number systems of many other peoples (for the Arabic alphabet version, see Abjad numerals). A gematria of Latin-script languages was also popular in Europe from the Middle Ages to the Renaissance and its legacy remains in numerology and Masonic symbolism today (see arithmancy).
+Until Arabic numerals were adopted and adapted from Indian numerals in the 8th and 9th century AD, and promoted in Europe by Fibonacci of Pisa with his 1202 book Liber Abaci, numerals were predominantly alphabetical. For instance in Ancient Greece, Greek numerals used the alphabet. It is just a short step from using letters of the alphabet in everyday arithmetic and mathematics to seeing numbers in words, and to writing with an awareness of the numerical dimension of words.
+An early reference to isopsephy, albeit of more-than-usual sophistication (employing multiplication rather than addition), is from the mathematician Apollonius of Perga, writing in the 3rd century BC. He asks: "Given the verse: ΑΡΤΕΜΙΔΟΣ ΚΛΕΙΤΕ ΚΡΑΤΟΣ ΕΞΟΧΟΝ ΕΝΝΕΑ ΚΟΥΡΑΙ ('Nine maidens, praise the glorious power of Artemis'), what does the product of all its elements equal?" More conventional are the instances of isopsephy found in graffiti at Pompeii, dating from around 79 AD. One reads Φιλω ης αριθμος ϕμε, "I love her whose number is 545." Another says, "Amerimnus thought upon his lady Harmonia for good. The number of her honorable name is 45." Suetonius, writing in 121 AD, reports a political slogan that someone wrote on a wall in Rome:
+"Nero, Orestes, Alcmeon their mothers slew.
+A calculation new. Nero his mother slew"
+which appears to be another example. In Greek, Νερων, Nero, has the numerical value 50+5+100+800+50=1005, the same value as ιδιαν μητερα απεκτεινε (idian metera apekteine) - "He killed his own mother", (10+4+10+1+50) + (40+8+300+5+100+1) + (1+80+5+20+300+5+10+50+5). A famous example is 666 (the number of the Beast) in the Biblical Book of Revelation (13:18): "Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six" (The word rendered here "count", ψηφισάτω, psephisato, has the same "pebble" root as the word isopsephy).
+Also in the 1st century AD, Leonidas of Alexandria created isopsephs, epigrams with equinumeral distichs, where the first hexameter and pentameter equal the next two verses in numerical value. He addressed some of them to Nero:
+Θυει σοι τοδε γραμμα γενεθλιακαισιν εν ὡραις,
+Καισαρ, Νειλαιη Μουσα Λεωνιδεω.
+Καλλιοπης γαρ ακαπνον αει θυος· εις δε νεωτα
+Ην εθελῃς, θυσει τουδε περισσοτερα.
+"The muse of Leonidas of the Nile offers up to thee, O Caesar, this writing, at the time of thy nativity; for the sacrifice of Calliope is always without smoke: but in the ensuing year he will offer up, if thou wilt, better things than this." Here the sum of both the first and second distich is 5699. In another of his distichs the hexameter line is equal in number to its corresponding pentameter:
+Εἱς προς ἑνα ψηφοισιν ισαζεται, ου δυο δοιοις,
+Ου γαρ ετι στεργω την δολιχογραφιην.
+"One line is made equal in number to one, not two to two; for I no longer approve of long epigrams." Here each line totals 4111.
+A headstone found at the Temple of Artemis at Sparta Orthia is a 2nd-century AD example of isopsephic elegiac verse. It says:
+ΟΡΘΕΙΗ ΔΩΡΟΝ ΛΕΟΝΤΕΥΣ ΑΝΕΘΗΚΕ ΒΟΑΓΟΣ ΒΨΛ
+ΜΩΑΝ ΝΙΚΗΣΑΣ ΚΑΙ ΤΑΔΕ ΕΠΑΘΛΑ ΛΑΒΩΝ ΒΨΛ
+ΚΑΙ Μ ΕΣΤΕΨΕ ΠΑΤΗΡ ΕΙΣΑΡΙΘΜΟΙΣ ΕΠΕΣΙ ΒΨΛ
+It is the votive stele for a boy who won a competition in singing. The words in each line add up to ΄ΒΨΛ, that is 2730, and that total is also given at the end of each line. Also in the 2nd century AD, Aelius Nicon of Pergamon, the Greek architect and builder described by his son, the famous physician Galen, as having "mastered all there was to know of the science of geometry and numbers", was a master in composing isopsephic works.
+In Greek, each unit (1, 2, …, 9) was assigned a separate letter, each tens (10, 20, …, 90) a separate letter, and each hundreds (100, 200, …, 900) a separate letter. This requires 27 letters, so the 24-letter alphabet was extended by using three obsolete letters: digamma ϝ,(also used are stigma ϛ or, in modern Greek, στ) for 6, qoppa ϙ for 90, and sampi ϡ for 900.
+This alphabetic system operates on the additive principle in which the numeric values of the letters are added together to form the total. For example, 241 is represented as σμα (200 + 40 + 1).
+English Qabalah
+Theomatics
+Sator Square

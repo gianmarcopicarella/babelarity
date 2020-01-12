@@ -1,0 +1,53 @@
+A tower is a tall structure, taller than it is wide, often by a significant margin. Towers are distinguished from masts by their lack of guy-wires and are therefore, along with tall buildings, self-supporting structures.
+Towers are specifically distinguished from "buildings" in that they are not built to be habitable but to serve other functions. The principal function is the use of their height to enable various functions to be achieved including: visibility of other features attached to the tower such clock towers; as part of a larger structure or device to increase the visibility of the surroundings as in a fortified building such as a castle; or as a structural feature as an integral part of a bridge.
+Towers can be stand alone structures or be supported by adjacent buildings or can be a feature on top of a large structure or building.
+Old English torr is from Latin turris via Old French tor. The Latin term together with Greek τύρσις was loaned from a pre-Indo-European Mediterranean language, connected with the Illyrian toponym Βου-δοργίς. With the Lydian toponyms Τύρρα, Τύρσα, it has been connected with the ethnonym Τυρρήνιοι as well as with Tusci (from *Turs-ci), the Greek and Latin names for the Etruscans (Kretschmer Glotta 22, 110ff.)
+Towers have been used by mankind since prehistoric times. The oldest known may be the circular stone tower in walls of Neolithic Jericho (8000 BC). Some of the earliest towers were ziggurats, which existed in Sumerian architecture since the 4th millennium BC. The most famous ziggurats include the Sumerian Ziggurat of Ur, built the 3rd millennium BC, and the Etemenanki, one of the most famous examples of Babylonian architecture. The latter was built in Babylon during the 2nd millennium BC and was considered the tallest tower of the ancient world.
+Some of the earliest surviving examples are the broch structures in northern Scotland, which are conical towerhouses. These and other examples from Phoenician and Roman cultures emphasised the use of a tower in fortification and sentinel roles. For example, the name of the Moroccan city of Mogador, founded in the first millennium BC, is derived from the Phoenician word for watchtower ('migdol'). The Romans utilised octagonal towers as elements of Diocletian's Palace in Croatia, which monument dates to approximately 300 AD, while the Servian Walls (4th century BC) and the Aurelian Walls (3rd century AD) featured square ones. The Chinese used towers as integrated elements of the Great Wall of China in 210 BC during the Qin Dynasty. Towers were also an important element of castles.
+Other well known towers include the Leaning Tower of Pisa in Pisa, Italy built from 1173 until 1372 and the Two Towers in Bologna, Italy built from 1109 until 1119. The Himalayan Towers are stone towers located chiefly in Tibet built approximately 14th to 15th century. 
+Up to a certain height, a tower can be made with the supporting structure with parallel sides. However, above a certain height, the compressive load of the material is exceeded and the tower will fail. This can be avoided if the tower's support structure tapers up the building.
+A second limit is that of buckling—the structure requires sufficient stiffness to avoid breaking under the loads it faces, especially those due to winds. Many very tall towers have their support structures at the periphery of the building, which greatly increases the overall stiffness.
+A third limit is dynamic; a tower is subject to varying winds, vortex shedding, seismic disturbances etc. These are often dealt with through a combination of simple strength and stiffness, as well as in some cases tuned mass dampers to damp out movements. Varying or tapering the outer aspect of the tower with height avoids vibrations due to vortex shedding occurring along the entire building simultaneously.
+Although not correctly called towers many modern skyscraper are often called towers (whereas they are classified as 'buildings'). In the United Kingdom, tall domestic buildings are referred to as tower blocks. In the United States, the original World Trade Center had the nickname the Twin Towers, a name shared with the Petronas Twin Towers in Kuala Lumpur.
+The tower throughout history has provided its users with an advantage in surveying defensive positions and obtaining a better view of the surrounding areas, including battlefields. They were constructed on defensive walls, or rolled near a target (see siege tower). Today, strategic-use towers are still used at prisons, military camps, and defensive perimeters.
+By using gravity to move objects or substances downward, a tower can be used to store items or liquids like a storage silo or a water tower, or aim an object into the earth such as a drilling tower. Ski-jump ramps use the same idea, and in the absence of a natural mountain slope or hill, can be human-made.
+In history, simple towers like lighthouses, bell towers, clock towers, signal towers and minarets were used to communicate information over greater distances. In more recent years, radio masts and cell phone towers facilitate communication by expanding the range of the transmitter. The CN Tower in Toronto, Canada was built as a communications tower, with the capability to act as both a transmitter and repeater. Its design also incorporated features to make it a tourist attraction, including the world's highest observation deck at 147 storeys.
+Towers can also be used to support bridges, and can reach heights that rival some of the tallest buildings above-water. Their use is most prevalent in suspension bridges and cable-stayed bridges. The use of the pylon, a simple tower structure, has also helped to build railroad bridges, mass-transit systems, and harbors.
+Control towers are used to give visibility to help direct aviation traffic.
+To access tall or high objects: launch tower, service tower, service structure, scaffold, tower crane, tower wagon
+To access atmospheric conditions aloft: wind turbine, meteorological measurement tower, tower telescope, solar power station
+To lift high tension cables for electrical power distribution transmission tower
+To take advantage of the temperature gradient inherent in a height differential: cooling tower
+To expel and disperse potentially harmful gases and particulates into the atmosphere: chimney
+To protect from exposure: BREN Tower, lightning rod tower
+For industrial production: shot tower
+For surveying: Survey tower
+To drop objects: Drop tube (drop tower), bomb tower, diving platform
+To test height-intensive applications: elevator test tower
+To improve structural integrity: thyristor tower
+To mimic towers or provide height for training purposes: fire tower, parachute tower
+As art: Shukhov Tower
+For recreation: rock climbing tower
+As a symbol: Tower of Babel, The Tower (Tarot card), church tower
+The term "tower" is also sometimes used to refer to firefighting equipment with an extremely tall ladder designed for use in firefighting/rescue operations involving high-rise buildings.
+Additionally guyed tower
+Bell tower
+Campanile
+Federal Communications Commission re FCC Broadcasting Tower Database (USA)
+Inclined towers
+Partially guyed tower
+Vainakh medieval towers
+World's tallest structures
+Baghdad Tower
+Spire
+List of tallest towers in the world
+Battery tower
+Bergfried
+Breaching tower
+Butter-churn tower
+Flanking tower
+Fortified tower
+Gate tower
+Turret
+Watchtower
+Wall tower

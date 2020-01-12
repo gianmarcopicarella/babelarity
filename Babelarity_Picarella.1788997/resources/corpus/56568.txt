@@ -1,0 +1,44 @@
+A sounding rocket, sometimes called a research rocket, is an instrument-carrying rocket designed to take measurements and perform scientific experiments during its sub-orbital flight. The rockets are used to carry instruments from 50 to 1,500 kilometres (31 to 932 mi) above the surface of the Earth, the altitude generally between weather balloons and satellites (the maximum altitude for balloons is about 40 kilometres (25 mi) and the minimum for satellites is approximately 120 kilometres (75 mi)). Certain sounding rockets, such as the Black Brant X and XII, have an apogee between 1,000 and 1,500 kilometres (620 and 930 mi); the maximum apogee of their class. Sounding rockets often use military surplus rocket motors. NASA routinely flies the Terrier Mk 70 boosted Improved Orion lifting 270–450-kilogram (600–990 lb) payloads into the exoatmospheric region between 100 and 200 kilometres (62 and 124 mi).
+The origin of the term comes from nautical vocabulary to sound, which is to throw a weighted line from a ship into the water to measure the water's depth. The term itself has its etymological roots in the Portuguese / Italian / Spanish and French words for probe, which are "sonda" and "sonde", respectively. Sounding in the rocket context is equivalent to taking a measurement.
+A common sounding rocket consists of a solid-fuel rocket motor and a science payload. Larger, higher altitude rockets have 2 to 3 stages to increase efficiency and payload capability. The freefall part of the flight is an elliptic trajectory with vertical major axis allowing the payload to appear to hover near its apogee. The average flight time is less than 30 minutes, usually between five and 20 minutes. The rocket consumes its fuel on the first stage of the rising part of the flight, then separates and falls away, leaving the payload to complete the arc and return to the ground under a parachute.
+Sounding rockets are advantageous for some research because of their low cost, short lead time (sometimes less than six months) and their ability to conduct research in areas inaccessible to either balloons or satellites. They are also used as test beds for equipment that will be used in more expensive and risky orbital spaceflight missions. The smaller size of a sounding rocket also makes launching from temporary sites possible allowing for field studies at remote locations, even in the middle of the ocean, if fired from a ship.
+Sounding rockets are commonly used for:
+Research in aeronomy, which requires this tool for in situ measurements in the upper atmosphere
+Ultraviolet and X-ray astronomy, which require being above the bulk of the Earth's atmosphere
+Microgravity research, which benefits from a few minutes of weightlessness on rockets launched to altitudes of a few hundred kilometers
+Poker Flat Research Range is owned by the University of Alaska Fairbanks and is the largest range in the world.
+The British Skylark rocket was first designed in 1955 and was used for 441 launches before it was terminated in 2005
+India's VSSC developed the Rohini sounding rockets series starting in 1967 that reached altitudes of 500 km
+The Australian Space Research Institute (ASRI) operates a Small Sounding Rocket Program (SSRP) for launching payloads (mostly educational) to altitudes of about 7 km
+Indian Institute of Space Science and Technology (IIST) launched a Sounding Rocket (Vyom) in May, 2012, which reached an altitude of 15 km. Vyom Mk-II is in its conceptual design stage with an objective to reach 70 km altitude with 20 kg payload capacity.
+The University of Queensland operates Terrier-Orion sounding rockets (capable of reaching altitudes in excess of 300 km) as part of their HyShot hypersonics research
+Iranian Space Agency operated its first sounding rocket in February 2007
+UP Aerospace operates the SpaceLoft XL sounding rocket that can reach altitudes of 225 km
+TEXUS and MiniTEXUS, German rocket programmes at Esrange for DLR and ESA microgravity research programmes
+Astrium operates missions with sounding rockets on a commercial basis, as prime contractor to ESA or the German Aerospace Centre (DLR).
+MASER, Swedish rocket programme at Esrange for ESA microgravity research programmes
+MAXUS, German-Swedish rocket programme at Esrange for ESA microgravity research programmes
+REXUS, German-Swedish rocket programme at Esrange for DLR and ESA student experiment programmes
+The NASA Sounding Rocket Program
+The JAXA operates the sounding rockets S-310/S-520/SS-520
+New Zealand company Rocket Lab is developing the highly adaptable Atea series of sounding rockets to carry 5–70 kg payloads to altitudes of 250 km or greater
+The Meteor rockets were built in Poland between 1963 and 1974.
+The Kartika I rocket was built and launched in Indonesia by LAPAN on 1964, becoming the second sounding rocket in Asia after Japan.
+Aerobee
+Astrobee
+Black Brant (rocket)
+Boosted Dart
+Frank Malina
+High Power Rocketry
+Hopi Dart
+Kartika I
+Kookaburra (rocket)
+Mesquito
+Model rocket
+Nike-based sounding rockets
+Rocket Lab
+Rocketsonde
+Rohini (rocket family)
+Seliger Rocket
+Skylark (rocket)
+V-2 sounding rocket

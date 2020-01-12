@@ -1,0 +1,103 @@
+Inkscape is a free and open-source vector graphics editor; it can be used to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. Inkscape's primary vector graphics format is Scalable Vector Graphics (SVG) version 1.1.
+While Inkscape can import and export several formats, all editing workflow inevitably occur within the guidelines of the SVG format.
+Inkscape can render primitive vector shapes (e.g. rectangles, ellipses, polygons, arcs, spirals, stars and 3D boxes), text and regions containing raster graphics. It also supports image tracing, enabling the editor to create vector graphics from photos and other raster sources. Created shapes can be subjected to further transformations, such as moving, rotating, scaling and skewing. These objects may be filled with solid colors, patterns, radiant or linear color gradient, their borders stroked or their transparency changed. As of early 2016 (version 0.91), Inkscape does not support SVG animation or full Cascading Style Sheet (CSS) specifications.
+Inkscape began in 2003 as a code fork of the Sodipodi project. Sodipodi, developed since 1999, was itself based on Raph Levien's Gill (GNOME Illustration Application).
+The Inkscape FAQ interprets the word Inkscape as a compound of ink and scape.
+Four former Sodipodi developers (Ted Gould, Bryce Harrington, Nathan Hurst, and MenTaLguY) led the fork; they identified differences over project objectives, openness to third-party contributions, and technical disagreements as their reasons for forking. With Inkscape, they said they would focus development on implementing the complete SVG standard, whereas Sodipodi development emphasized developing a general-purpose vector graphics editor, possibly at the expense of SVG.
+Following the fork, Inkscape's developers changed it greatly: they changed the programming language from C to C++; adopted the GTK+ (formerly GIMP Toolkit) toolkit C++ bindings (gtkmm); redesigned its user interface, and added a number of new features. Notably, Inkscape's implementation of the SVG standard, although incomplete, has shown gradual improvement.
+Since 2005 Inkscape has participated in the Google Summer of Code program.
+Up until the end of November 2007, Inkscape's bug tracking system was hosted on SourceForge. Thereafter it moved to Launchpad.
+The basic objects in Inkscape are:
+Rectangles & Squares tool: creates rectangles and squares, corners of squares and rectangles can be rounded.
+3D Boxes tool: creates 3D boxes that have adjustable XYZ perspectives and configurable values for vanishing points. 3D boxes are in fact groups of paths and after ungrouping can be further modified.
+Circles/Ellipses/Arcs tool: circles and ellipses can be transformed into arcs (e.g. open half-circle) and segments (e.g. closed half-circle).
+Stars & Polygons tool: Multi-pointed (3 to 1,024 points) stars with two (base and tip) radius control handles can be used to emulate spirographs. Polygons with one control (base) handle can be used to create items based on the number of sides hexagons, pentagons, etc.
+Spirals tool: creates spirals that have a configurable number of turns (revolutions), divergence (density/sparseness of outer turns), inner radius (roll out from center)
+Pencil tool(Paths): which allows freehand drawing of lines.
+Pen (Bézier) tool (Paths): creates a Bézier node-by-node curve and or line segments in the same path.
+Calligraphy tool (Paths): creates freehand calligraphic or brush-like strokes, optionally the tool can use pressure and tilt readings from a graphics tablet.
+Text tool: creates texts that can use any of the Operating Systems (OS) outline and Unicode fonts including right-to-left scripts. Text conversion to paths, Normal, Bold, Italic, Condensed and Heavy, Alignments (left, right, center, full), Superscript, Subscript, Vertical and Horizontal text are implemented. All text objects can be transformed via Line Spacing, Letter Spacing, Word Spacing, Horizontal Kerning, Vertical Shift and Character Rotation either manually or via menu settings. Text can be put along a path (both text and path remain editable), flowed into a shape or spell checked. Bullet lists, numbered lists, indentations, and underlined text are not available as of version 0.91.
+Spray tool: creates copies or clones of one or several items, select the item(s), then to Spray click on the canvas, move the mouse or scroll the mouse wheel.
+Paint Bucket tool: fills bounded areas of a given object (vector). The Paint Bucket tool works optically rather than geometrically and can assist with image tracing.
+Connector tool: creates object based connected paths, often used in flow charts, diagrams or schematics.
+Additionally, there are more specialized objects:
+Raster graphics: Inkscape supports the export of bitmap images (as PNG images) of the whole drawing (all objects), the current selection, objects within the page outline and custom coordinates. Imports bitmap images, >File >Import allows the user to select either 'embed' or 'link' the image into the file. Pasting (v0.48) images into Inkscape automatically embeds images into the file. Inkscape supports importing and pasting of PNG, JPEG and BMP. Inkscape supports image tracing, the process of extracting vector graphics from raster sources.
+Clones: clones are child objects of an original parent object(s) which can have different transformations applied from those of the parent object. Clones can be created via Copies, the Spray tool or a Menu interface. Transformations include; size, position, rotation, blur, opacity, color and symmetry (layout). Clones are updated live whenever the parent object changes.
+Render >Extensions >Render (menu) feature will render objects onto the canvas, rendering examples include barcodes, calendars, grids, gears, spirographs, spheres and more.
+Symbols >Objects >Symbols (menu) allows copying and pasting symbols from both the document being edited and from symbol libraries, a v0.91 feature.
+Every object in the drawing can be subjected to arbitrary affine transformations: moving, rotating, scaling, skewing and a configurable matrix. Transformation parameters can be also specified numerically in the Transform dialog. Transformations can snap to angles, grids, guidelines and nodes of other objects. Grids, guides and snapping properties are defined on a per-document basis. As an alternative to snapping, an Align and Distribute dialog is provided, which can perform common alignment tasks on selected objects: e.g. line them up in a specified direction, space them equally, scatter them at random and remove overlaps between objects.
+Objects can be arbitrarily grouped together. Groups of objects behave in many respects like "atomic" objects: for instance, they can be cloned or assigned a paint. Objects making up a group can be edited without having to ungroup it first, via an Enter Group command: the group can then be edited like a temporary layer.
+The Z-order determines the order in which objects are drawn on the canvas. Objects with a high Z-order are drawn last and therefore drawn on top of objects lower in the Z-order. Order of objects can be managed either using layers, or by manually moving the object up and down in the Z-order. Layers can be locked or hidden, preventing modifying and accidental selection.
+A special tool, Create Tiled Clones, is provided to create symmetrical or grid-like drawings using various plane symmetries.
+Objects can be cut, copied and pasted using a clipboard. However, as of version 0.46, Inkscape uses an internal variable rather than the Operating System clipboard, which limits copy and paste operations to one application instance. Objects can be copied between documents by opening them from the File menu in an already opened window, rather than by opening a second file from the operating system's shell.
+Each object in Inkscape has several designs which determine its style. All of the designs can generally be set for any object:
+Fill: can be a solid color, a pattern, a linear or radial gradient, custom swatch, inherited from a parent object. The color selector has RGBA, HSL, CMYK, Color Wheel, Color Management System (CMS) color options available, but all selected colors are currently converted to RGBA. Gradients can have multiple stops, radial supports optional direct or reflected gradients. All colors can have an alpha value specified. Patterns can be constructed from any collection of objects, or one of the several supplied stock patterns can be used.
+Stroke fill: can have the same values as fill, but is applied to the object's stroke.
+Stroke style: width can be set by 9 different measurement (pixels, inches, meters, etc) settings; join (corners) styles featured are miter, rounded or bevel joints; cap styles available are butt, round or square; dash strokes of 35 (and custom) styles with configurable offsets are available; markers for start, mid and end of various (over 65) types (arrows, dots, diamonds, etc...) are supported.
+Opacity: specifies alpha value for all fill colors. Each object has a distinct opacity value, which e.g. can be used to make groups transparent.
+Filters: the fill & stroke menu has an easy-to-use slider for Gaussian blur of each object; there are hundreds of categorized filter options under the SVG filters can be constructed using the >Filters menu.
+Appearance of objects can be further changed by using masks and clipping paths, which can be created from arbitrary objects, including groups.
+The style attributes are 'attached' to the source object, so after cutting/copying an object onto the clipboard, the style's attributes can be pasted to another object.
+Inkscape has a comprehensive tool set to edit paths, as they are the basic element of a vector file.
+Edit Path by Node tool: allows for the editing of single or multiple paths and or their associated node(s). There are four types of path nodes; Cusp (corner), Smooth, Symmetric and Auto-Smooth. Editing is available for the positioning of nodes and their associated handles (angle and length) for Linear and Bézier paths or Spiro curves. A path segment can also be adjusted by dragging (left click + hold). When multiple nodes are selected, they can be moved, scaled and rotated using keyboard shortcut or mouse controls. Additional nodes can be inserted into paths at arbitrary or even placements, and an effect can be used to insert nodes at predefined intervals. When nodes are deleted, the handles on remaining ones are adjusted to preserve the original shape as closely as possible.
+Tweak tool (sculpting/painting): provides whole object(s) or node editing regions (parts) of an object. It can push, repel/attract, randomize positioning, shrink/enlarge, rotate, copy/delete selected whole objects. With parts of a path you can push, shrink/enlarge, repel/attract, roughen edges, blur and color. Nodes are dynamically created and deleted when needed while using this tool, so it can also be used on simple paths without pre-processing.
+Path-Offsets; Outset, Inset, Linked or Dynamic: can create a Linked or Dynamic (unlinked) Inset and or an Outset of an existing path which can then be fine tuned using the given Shape or Node tool. Creating a Linked Offset of a path will update whenever the original is modified. Making symmetrical (i.e., picture frame) graphics easier to edit.
+Path-Conversion; Object to Path: conversions of Objects; Shapes (square, circle, etc) or Text into paths.
+Path-Conversion; Stroke to Path: conversions of the Stroke of a shape to a path.
+Path-Simplify: a given path's node count will reduce while preserving the shape.
+Path-Operations (boolean operations): use of multiple objects to Union, Difference, Intersection, Exclusion, Division and Cut Path.
+Inkscape includes a feature called Live Path Effects (LPE), which can apply various modifiers to a path. Envelope Deformation is available via the Path Effects and provides a perspective effect. There are more than a dozen of these live path effects. LPE can be stacked onto a single object and have interactive live on canvas and menu-based editing of the effects.
+Inkscape supports text editing for both regular multi-line text (SVG's <text> element) and flowed text (the non-standard <flowRoot> element, formerly proposed for SVG 1.2). As of version 0.47, flowed text is not rendered by other applications, due to a lack of an appropriate parallel <switch> structure in the SVG document. The SVG 1.2 Tiny <textArea> element is not supported. All text is directly editable on canvas. Text rendering is based on the Pango library, which allows Inkscape to support several complex scripts including Hebrew, Arabic, Thai, Tibetan, etc. Kerning and letter-spacing can be adjusted on a per-glyph basis using keyboard shortcuts. Putting text on path is also supported, and both the text and the path remain editable. Inkscape supports italicized and bold, as well as super- and subscript character attributes, but underlining is not yet implemented.
+For a long time, unlike many other GTK+ applications, Inkscape used its own rendering library to create graphics, called libnr. From version 0.91 on, Inkscape uses Cairo to render graphics, which brought a significant increase in rendering speed of the application.
+Inkscape's primary format is Scalable Vector Graphics (SVG) version 1.1, meaning that it can create and edit with the abilities and within the constraints of this format. Any other format must either be imported (converted to SVG) or exported (converted from SVG). The SVG format is using the Cascading Style Sheet (CSS) standard internally. Inkscape's implementation of SVG and CSS standards is incomplete. Most notably, it does not support animation. Inkscape has multilingual support, particularly for complex scripts.
+Inkscape can natively import the following formats:
+Adobe Illustrator Artwork (AI)
+CorelDRAW (CDR)
+Microsoft Visio Drawing (VSD)
+Portable Document Format (PDF)
+SVG Zip (SVGZ)
+Raster formats:
+Joint Photographic Experts Group (JPEG)
+Portable Network Graphics (PNG)
+Graphics Interchange Format (GIF)
+Bitmap image file (BMP)
+It can import the following formats with the aid from extensions:
+Computer Graphics Metafile (CGM) (using UniConvertor)
+Dia Software (DIA)
+Encapsulated PostScript (EPS) using Ghostscript
+Postscript (PS) using Ghostscript
+sK1 (SK1) (using UniConvertor)
+Sketch
+Xfig Software (FIG)
+Inkscape can natively export the following formats:
+Encapsulated PostScript (EPS)
+Flash XML Graphics (FXG)
+Hewlett-Packard Graphics Language (HPGL)
+HTML5 Canvas
+LaTeX (TEX)
+Portable Document Format (PDF)
+PostScript (PS)
+POV-Ray (POV)
+Synfig Animation Studio (SIF)
+Extensible Application Markup Language (XAML)
+XML Editor for direct manipulation of the SVG XML structure
+Editing of Resource Description Framework (RDF) a World Wide Web Consortium (W3C) metadata information model
+Command-line interface, exposes format conversion functions and full-featured GUI scripting
+More than sixty interface languages
+Extensible to new file formats, effects and other features
+Mathematical diagramming, with various uses of LaTeX
+Experimental support for scripting
+One of the main priorities of the Inkscape project is interface consistency and usability. This includes efforts to follow the GNOME human interface guidelines, universal keyboard accessibility, and convenient on-canvas editing. Inkscape has achieved significant progress in usability since the project started.
+The number of floating dialog boxes has been reduced, with their functions available using keyboard shortcuts or in the docked toolbars in the editing window. The tool bar controls at the top of the window always display the controls relevant to the current tool.
+All vector transformations, scale, rotation and positioning (minus skewing) have keyboard shortcuts with consistent modifiers ( Alt transforms by 1 screen pixel at the current zoom, Shift multiplies the transformation by 10, etc.). These keys work on nodes in Node tool as well as on objects in the Selector Tool. The most common operations (such as transformations, zooming, z-order) have convenient one-key shortcuts.
+Inkscape provides mouse over tooltips and status bar hints for all buttons, controls, commands, keys, and on-canvas handles. The status bar hint messages are dynamic: A given object can display up to four hints while editing it with just one tool. The hints update based on two items—the tool being used, and the type of object/node/handle being edited—text, shapes, paths, node types, etc. It comes with a complete keyboard and mouse reference (in HTML and SVG) and several interactive tutorials in SVG.
+The interface of Sodipodi (Inkscape's predecessor) was based on those of CorelDRAW and GIMP. The Inkscape interface has been influenced by Xara Xtreme.
+The latest version of Inkscape is available for Ubuntu, OpenSUSE, Microsoft Windows and Mac OS X platforms. Both 32-bit and 64-bit versions are available for Windows PCs.
+Inkscape on OS X typically runs on XQuartz, although the underlying GTK+ toolkit can be compiled to run natively under Quartz.
+Inkscape is packaged for all major Linux distributions (including Debian, Ubuntu, Fedora, OpenSUSE).
+2Geom is a computational geometry library, originally developed for Inkscape. While developed for Inkscape it is a library that can be used from any application. It provides support for basic geometric algebra, paths, distortions, boolean operations, plotting implicit functions, non-uniform rational B-spline (NURBS) and more. 2Geom is free software released under LGPL 2.1 or MPL 1.1.
+Comparison of vector graphics editors
+Create Project
+Libre Graphics Meeting
+Open Clip Art Library
+Open Font Library

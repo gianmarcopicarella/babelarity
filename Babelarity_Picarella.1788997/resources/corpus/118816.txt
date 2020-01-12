@@ -1,0 +1,38 @@
+Brookhaven National Laboratory (BNL) is a United States national laboratory located in Upton, New York, on Long Island, and was formally established in 1947 at the site of Camp Upton, a former U.S. Army base. Its name stems from its location in the greater area of the Town of Brookhaven.
+Brookhaven, which originally was owned by the Atomic Energy Commission, is now owned by the Commission's successor, the United States Department of Energy, which subcontracts the actual research and operation to universities and research organizations. It is currently operated by Brookhaven Science Associates LLC, which is an equal partnership of Stony Brook University and Battelle Memorial Institute. It was operated by Associated Universities, Inc. (AUI), from 1947 until 1998. Associated lost the contract to manage the BNL in 1998 in the wake of a 1994 fire at the facility's high-beam flux reactor that exposed several workers to radiation and reports in 1997 of a leak of tritium into the groundwater of the Long Island Central Pine Barrens, on which the facility sits.
+Co-located with the laboratory is the Upton, New York forecast office of the National Weather Service.
+BNL is staffed by approximately 3,000 scientists, engineers, technicians, and support personnel, and hosts 4,000 guest investigators every year. Discoveries made at the lab have won seven Nobel Prizes.
+The laboratory has its own police station, fire department, and ZIP code (11973). In total, the lab spans a 5,265-acre (21 km2) area. BNL is served by a rail spur operated as-needed by the New York and Atlantic Railway.
+Brookhaven National Laboratory was established in 1947 on the site of Camp Upton, a training center during both World War I and World War II. After the latter war, the camp was deemed no longer necessary. Meanwhile, discussions were underway for the creation of a new science facility that would focus on the peaceful uses of atomic energy. For this task a nonprofit corporation was established that consisted of representatives from nine major research universities — Columbia, Cornell, Harvard, Johns Hopkins, MIT, Princeton, Penn, Rochester, and Yale University. With the corporation finding the Camp Upton site ideal in terms of space and transportation, a plan was conceived to convert the military camp into a research facility.
+On March 21, 1947, the Camp Upton site was officially transferred from the U.S. War Department to the new U.S. Atomic Energy Commission (AEC), predecessor to the U.S. Department of Energy (DOE).
+Although originally conceived as a nuclear research facility, its mission has greatly expanded. Its foci are now:
+Nuclear and high-energy physics
+Physics and chemistry of materials
+Environmental and energy research
+Nonproliferation
+Neurosciences and medical imaging
+Structural biology
+Relativistic Heavy Ion Collider (RHIC), which was designed to research quark–gluon plasma. Until 2009 it was the world's most powerful heavy ion collider. It is the only collider of spin-polarized protons.
+Center for Functional Nanomaterials (CFN), it is used for the study of nanoscale materials.
+National Synchrotron Light Source (NSLS), the lab's most popular machine which is said to have attracted more researchers in the world than any other facility. It was involved in the work that won the 2003 Nobel Prize in Chemistry.
+Alternating Gradient Synchrotron, a particle accelerator that was used in three of the lab's Nobel prizes.
+Accelerator Test Facility, generates, accelerates and monitors particle beams.
+Tandem Van de Graaff, once the world's largest electrostatic accelerator.
+New York Blue Gene supercomputer, an 18 rack Blue Gene/L and a 2 rack Blue Gene/P massively parallel supercomputer that involves a cooperative effort between Brookhaven National Laboratory and Stony Brook University. It is the world's 5th fastest supercomputer and the world's 2nd most powerful for open access research as of 2008.
+The lab is building NSLS-II, which in 2015 will replace the NSLS after more than 30 years of operation.
+It is a contributing partner to ATLAS experiment, one of the four detectors located at the Large Hadron Collider (LHC). It is currently operating at CERN near Geneva, Switzerland.
+Brookhaven is also responsible for the design of the SNS accumulator ring in partnership with Spallation Neutron Source in Oak Ridge, Tennessee.
+For other than approved Public Events the Laboratory is closed to the general public. The lab is open to the public on Sundays during the summer for tours and special programs. The public access program is referred to as 'Summer Sundays' and takes place from mid-July to mid-August, and features a science show and a tour of the facilities. The laboratory also hosts science fairs, science bowls, and robotics competitions for local schools. The Lab estimates that each year it enhances the science education of roughly 24,000 kindergarten to 12th grade LI students, more than 100 undergraduates, and 550 teachers from across the United States.
+In January 1997, ground water samples taken by BNL staff revealed concentrations of tritium that were twice the allowable federal drinking water standards—some samples taken later were 32 times the standard. The tritium was found to be leaking from the laboratory's High Flux Beam Reactor's spent-fuel pool into the aquifer that provides drinking water for nearby Suffolk County residents.
+DOE's and BNL's investigation of this incident concluded that the tritium had been leaking for as long as 12 years without DOE's or BNL's knowledge. Installing wells that could have detected the leak was first discussed by BNL engineers in 1993, but the wells were not completed until 1996. The resulting controversy about both BNL's handling of the tritium leak and perceived lapses in DOE's oversight led to the termination of AUI as the BNL contractor in May 1997.
+The responsibility for failing to discover Brookhaven's tritium leak has been acknowledged by laboratory managers, and DOE admits it failed to properly oversee the laboratory's operations. Brookhaven officials repeatedly treated the need for installing monitoring wells that would have detected the tritium leak as a low priority despite public concern and the laboratory's agreement to follow local environmental regulations. DOE's on-site oversight office, the Brookhaven Group, was directly responsible for Brookhaven's performance, but it failed to hold the laboratory accountable for meeting all of its regulatory commitments, especially its agreement to install monitoring wells. Senior DOE leadership also shared responsibility because they failed to put in place an effective system that encourages all parts of DOE to work together to ensure that contractors meet their responsibilities on environmental, safety and health issues. Unclear responsibilities for environment, safety and health matters has been a recurring problem for DOE management.
+1957 – Chen Ning Yang and Tsung-Dao Lee – parity laws
+1976 – Samuel C. C. Ting – J/Psi particle
+1980 – James Cronin and Val Logsdon Fitch – CP-violation
+1988 – Leon M. Lederman, Melvin Schwartz, Jack Steinberger – Muon neutrino
+2002 – Raymond Davis, Jr. – Neutrino oscillation
+2003 – Roderick MacKinnon – Ion channel
+2009 – Venkatraman Ramakrishnan and Thomas A. Steitz – Ribosome
+Center for the Advancement of Science in Space—operates the US National Laboratory on the ISS.
+Tennis for Two
+Goldhaber fellows

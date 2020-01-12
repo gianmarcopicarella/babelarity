@@ -1,0 +1,31 @@
+The tonne of oil equivalent (toe) is a unit of energy defined as the amount of energy released by burning one tonne of crude oil. It is approximately 42 gigajoules, although as different crude oils have different calorific values, the exact value is defined by convention; several slightly different definitions exist. The toe is sometimes used for large amounts of energy.
+Multiples of the toe are used, in particular the megatoe (Mtoe, one million toe) and the gigatoe (Gtoe, one billion toe). A smaller unit of kilogram of oil equivalent (kgoe) is also sometimes used denoting 1/1000 toe.
+The International Energy Agency defines one tonne of oil equivalent (toe) to be equal to:
+1 toe = 11.63 gigawatt-hours (GWh)
+1 toe = 41.868 gigajoules (GJ)
+1 toe = 10 gigacalorie (Gcal) – using the international steam table calorie (calIT) and not the thermochemical calorie (calth)
+1 toe = 39,683,207.2 british thermal unit (BTU)
+1 toe = 1.42857143 tonne of coal equivalent (tce)
+Conversion into other units:
+1 toe = 7.11, 7.33, or 7.4 barrel of oil equivalent (boe)
+Some other sources and publications use divergent definitions of toe, for example:
+1 toe = 10.7 gigacalorie (Gcal) – using the thermochemical calorie
+1 toe = 41.85 gigajoules (GJ)
+1 toe = 44.769 gigajoules (GJ) – based on using thermochemical calorie (calth)
+1 toe = 39,683,205.411 british thermal unit (BTU)
+1 barrel of oil equivalent (boe) contains approximately 0.146 toe (i.e. there are approximately 7.4 boe in a toe).
+1 t diesel = 1.01 toe
+1 m3 diesel = 0.98 toe
+1 t petrol = 1.05 toe
+1 m3 petrol = 0.86 toe
+1 t biodiesel = 0.86 toe
+1 m3 biodiesel = 0.78 toe
+1 t bioethanol = 0.64 toe
+1m3 bioethanol = 0.51 toe
+1 MWh = 0.086 toe  (therefore 1 toe = 11630.0 kWh) 
+at thermal power plant, 1 MWh generated with 0.22 toe fuel or 0.39 MWh with 0.086 toe (39% thermal to electrical conversion efficiency)
+Tonne of oil equivalent should be used carefully when converting electrical units. For instance, BP's 2007 report used a factor of 38% efficiency (the average efficiency of OECD thermal generating units in 2006), or roughly 16 GJ per toe, when converting kilowatt-hours to toe.
+For multiples of the tonne of oil equivalent, it is more usual to speak of millions of tonnes of oil equivalent; kilotonne of oil equivalent (KTOE).
+Conversion of units
+Energy density
+TNT equivalent

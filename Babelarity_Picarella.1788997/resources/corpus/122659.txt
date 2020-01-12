@@ -1,0 +1,28 @@
+The Coptic alphabet is the script used for writing the Coptic language. The repertoire of glyphs is based on the Greek alphabet augmented by letters borrowed from the Egyptian Demotic and is the first alphabetic script used for the Egyptian language. There are several Coptic alphabets, as the Coptic writing system may vary greatly among the various dialects and subdialects of the Coptic language.
+The Coptic alphabet has a long history, going back to the Hellenistic period, of using the Greek alphabet to transcribe Demotic texts, with the aim of recording the correct pronunciation of Demotic. During the first two centuries of the Common Era, an entire series of magical texts were written in what scholars term Old Coptic, Egyptian language texts written in the Greek alphabet. A number of letters, however, were derived from Demotic, and many of these (though not all) are used in "true" Coptic writing. With the spread of Christianity in Egypt, by the late 3rd century, knowledge of hieroglyphic writing was lost, as well as Demotic slightly later, making way for a writing system more closely associated with the Christian church. By the 4th century, the Coptic alphabet was "standardised", particularly for the Sahidic dialect. (There are a number of differences between the alphabets as used in the various dialects in Coptic.) Coptic is not generally used today except by the members of the Coptic Orthodox Church of Alexandria to write their religious texts. All the Gnostic codices found in Nag Hammadi used the Coptic alphabet.
+The Old Nubian alphabet—used to write Old Nubian, a Nilo-Saharan language —is written mainly in an uncial Greek alphabet, which borrows Coptic and Meroitic letters of Demotic origin into its inventory.
+The Coptic alphabet was the first Egyptian writing system to indicate vowels, making Coptic documents invaluable for the interpretation of earlier Egyptian texts. Some Egyptian syllables had sonorants but no vowels; in Sahidic, these were written in Coptic with a line above the entire syllable. Various scribal schools made limited use of diacritics: some used an apostrophe as a word divider and to mark clitics, a function of determinatives in logographic Egyptian; others used diereses over ⲓ and ⲩ to show that these started a new syllable, others a circumflex over any vowel for the same purpose.
+Coptic is largely based on the Greek alphabet, another help in interpreting older Egyptian texts, with 24 letters of Greek origin; 6 or 7 more were retained from Demotic, depending on the dialect (6 in Sahidic, another each in Bohairic and Akhmimic). In addition to the alphabetic letters, the letter ϯ stood for the syllable /ti/. As the Coptic alphabet is simply a typeface of the Greek alphabet, with a few added letters, it can be used to write Greek without any transliteration schemes. Latin equivalents would include the Icelandic alphabet (which likewise has added letters), or the Fraktur alphabet (which has distinctive forms).
+The following letters were derived from Demotic:
+In Unicode, most Coptic letters formerly shared codepoints with similar Greek letters, but a disunification was accepted for version 4.1, which appeared in 2005. The new Coptic block is U+2C80 to U+2CFF. Most fonts contained in mainstream operating systems use a distinctive Byzantine style for this block. The Greek block includes seven Coptic letters (U+03E2–U+03EF highlighted below) derived from Demotic, and these need to be included in any complete implementation of Coptic.
+These are also included in the Unicode specification.
+Normal English punctuation (comma, period, question mark, semicolon, colon, hyphen) uses the regular Unicode codepoints for punctuation
+Dicolon: standard colon U+003A
+Middle dot: U+00B7
+En dash: U+2013
+Em dash: U+2014
+Slanted double hyphen: U+2E17
+These are codepoints applied after that of the character they modify.
+Combining overstroke: U+0305 (= supralinear stroke)
+Combining character-joining overstroke (from middle of one character to middle of the next): U+035E
+Combining dot under a letter: U+0323
+Combining dot over a letter: U+0307
+Combining overstroke and dot below: U+0305,U+0323
+Combining acute accent: U+0301
+Combining grave accent: U+0300
+Combining circumflex accent (caret shaped): U+0302
+Combining circumflex (curved shape) or inverted breve above: U+0311
+Combining circumflex as wide inverted breve above joining two letters: U+0361
+Combining diaeresis: U+0308
+Coptic pronunciation reform
+Institute of Coptic Studies

@@ -1,0 +1,101 @@
+iriver (formerly iRiver) is a consumer electronics company headquartered in South Korea and widely known for its digital audio players and other portable media devices.
+The company is a brand and marketing division of Iriver.inc (formerly ReignCom), a South Korean electronics and entertainment company founded in 1999 by seven former Samsung executives.
+South Korean private equity firm Vogo Fund has held a major stake in iriver from 2007 to 2014, working to improve the company's prospects as its MP3 player business has dwindled.
+Iriver was sold to SK Telecom in 2014.
+In 1999, Duk-Jun Yang and Rae-Hwan Lee left Samsung Electronics, along with five colleagues. They formed ReignCom, with Yang as CEO, originally as a semiconductor distributor, then decided to capitalize on the growing MP3 player market. They decided to outsource manufacturing to AV Chaseway, located in Shenzhen, China, and contract product design to INNO Design, an industrial design company in Palo Alto, California, while keeping R&D in-house.
+The company's first iriver product was the iMP-100, a portable CD player capable of decoding MP3 data files on CDs, released in November 2000. It and a later model, the iMP-250, were rebranded and sold by SonicBlue in the United States under the Rio Volt name. Iriver sold later models with its own SlimX brand, billing them as the thinnest MP3 CD players in the world, before jumping to other types of players. The company rose to the No. 1 position in the global market, before being displaced by the iPod's introduction.
+In 2002, iriver scrambled to develop its first flash memory player to meet demand from the U.S. Best Buy chain. A year later, it was first to market with 512 MB and 1 GB players, and completed its IPO at KOSDAQ, a Korean stock exchange. By that time, the company was also selling hard drive players to compete with the iPod. It also used adult film star Jenna Jameson and an Audrey Hepburn lookalike as spokesmodels promoting its products.
+iriver adopted a new marketing strategy in 2005, attempting to grab mindshare from Apple. It referred to the U10 flash player as the thumb thing. This referred to users controlling their MP3 devices with their thumbs, just as they do their cell phones and text messaging devices. The company also announced plans for digital audio players featuring Internet telephony.
+iriver's U.S. unit, based in Vancouver, Washington, held 3.4% of the U.S. MP3 player market in 2005, according to IDC. The company targets early adopters among American users as it tries to regain dominance of the category. It also opened sales divisions in Brazil, Germany, Hong Kong and Japan.
+ReignCom announced in May 2006 that it would adjust its focus toward hand-held mobile gaming. It has also reported sluggish sales for its music player business, including a loss of 35.58 billion won (US$36.68 million) in 2005, compared with a net profit of 43.46 billion won in 2004. ReignCom also owns the Korean-language Yurion and Funcake entertainment services.
+In its South Korean home market, iriver once accounted for 50% of sales and the company has bought ads claiming its products are a symbol of patriotism. It also operates a small chain of iriver Zone stores, with locations in Korea, Japan, and China. The Incheon International Airport shop features a large heart-shaped art piece, which represents the corporate "Heartbeat Philosophy" of "dedication to its customers".
+In May 2007, Reigncom announced a new division, Reigncom USA, to manage the iriver brand in the United States and help develop new products. The company also bought the Siren brand in Japan from A-MAX Japan, despite protests from Siren Inc. itself.
+The dominance of Apple’s iPod and iPhone, the decline of MP3 players and the rise of smartphones have challenged iriver’s business. In 2006, the company had sales of 149.5 billion won and an operating loss of 54.4 billion won. The next year, Vogo Fund bought a large stake in iriver, which reported 5.5 billion won in profits on 206.8 billion won of sales. Deep losses followed in 2009 and 2010.
+iriver's current products can all play MP3 and WMA audio files. Some units support text viewing, Ogg Vorbis audio files, Macromedia Flash, and/or BMP files. The company also supports Microsoft PlaysForSure, which allows recent products to support subscription-based music download services, including URGE, Napster, Rhapsody, and Yahoo! Music Unlimited. It also lets users disable its DRM functionality.
+A nearly unique feature of the newer iriver players is the direct MP3-recording capability with selectable bitrate of internal (FM, microphone) and external (line) sources.
+Many players support multilingual display in English, French, Spanish, German, Italian, Chinese, Japanese and Korean. They support Winamp playlists and allow repeat, shuffle play and programmable functions. Several preset and one user-defined EQ settings are included, plus a built-in FM tuner.
+Most iriver players include a unique feature called study mode. Users can quickly jump back and forth within tracks by a certain time interval, set from three to 180 seconds in current models. The option was designed to help people listening to recorded language lessons. SonicBlue removed this feature from its Rio Volt models, causing some users to hack their players with iriver firmware from other regions.
+iRiver Wing introduced at Consumer Electronics Show January 2008. (photos).
+iriver makes hard drive, flash and portable media players. All hard drive and flash players play WMA, MP3, and OGG files and have FM tuners unless stated otherwise.
+E10: (6GB) Similar interface to that of the U10 series. The device also features a remote control for TV. PlaysForSure and UMS are supported. The device allows flash files to be played, videos and FM radio. It contains recording capabilities for both voice and FM radio. The E10 is still sold in Australia.
+H10: (5 GB, 6GB, 20GB—except Asia), available in 4 different colors (red, blue, silver and grey), 16-bit color screen, can record from Radio, Internal Microphone (Voice) or Line-In (Line in only with extra cradle). The 5GB and 6GB models are around the size of the iPod mini and are composed mainly of aluminum. The navigation is done with a touchpad designed by iriver. These devices cannot play Ogg Vorbis files. PlaysForSure and UMS.
+iHP-100 series: (10GB, 15GB, 20GB, 40GB) Voice, line in and FM recording. Optical in and out. Built in lithium-polymer battery. UMS. USB 2.0 connectivity.
+H300 series: (20GB, 40GB) PlaysForSure and UMS. Built in lithium-polymer battery. Transfer with certain Digital Cameras. Voice, line in and FM recording. Plays video with Korean firmware. USB 2.0 connectivity.
+iGP-100 (1.5GB) USB 2.0 connectivity. Plays MP3, WMA, ASF, and Ogg Vorbis files. UMS. Built in lithium-ion battery.
+P7: 4GB, 8GB, and 16GB versions with 4.3-inch, 480 x 272 resolution LCD touchscreen
+P20
+P35
+T8 Candy Bar: 4GB. Weighs 26g. Latest model in the T series. 1″ organic light-emitting diode (OLED) 128 x 64 screen.
+S7: (1GB) Small, screenless version of S10.
+S10: (2GB flash) Very small player, only 17.5g. Has OLED screen. Uses D-click control system. Built in lithium-polymer battery. UMS. USB 2.0 connectivity.
+S100: (4GB, 8GB) Weighs 77g. Has a 2.83" 240 x 320 screen with a T-DMB tuner, FM radio, voice recorder a microSD card slot.
+Mplayer and the newer Mplayer version 2: A Mickey Mouse head-shaped digital audio player.
+Lplayer S20
+E100 : (2GB, 4GB, 8GB) A portable media player with video, music, photo and a built-in FM tuner.
+E50 : (2GB, 4GB, 8GB) A Minor version of E100. Built with Aluminum.
+E150: (2GB, 4GB, 8GB) Upgraded version of the E100.
+E200: (4GB, 8GB, 16GB) Major upgraded version of the E100. Built with full Aluminum.
+NV Life: (2GB and 4GB): An MP3 player based on Windows CE 5. It has a GPS and DMB feature. It has a touch interface with some keys for volume and power.
+NV: Similar to NV Life, except it has a turnable wheel to navigate in addition to the touch screen.
+SPINN: 4GB, 8GB, and 16GB versions with a 3.3-inch AMOLED touchscreen and unique toggle-wheel based tactile controls.
+Smart HD (K1) : (8GB, 16GB) Portable Media Player based on Windows CE Operation Software. Wi-Fi, T-DMB tuner, FM radio, dictionary contents available. 3.5" 320 x 480 TFT-LCD touchscreen.
+The Clix gen 2 supports MP3 and OGG audio files, WMV, DivX and XviD video. Flash Lite games, and display of JPGs and plain text files. Hi-res AMOLED screen. Player is about the size of a credit card. Comes in 2-, 4- and 8-gigabyte versions.
+S7: (1 GB) Small, screenless version of S10.
+S10: (2 GB flash) Very small player, only 17.5 g. Has OLED screen. Uses D-click control system. Built in lithium-polymer battery. UMS. USB 2.0 connectivity.
+T6: 4 GB. Thin low-end MP3 player. It has a colour 1.8-inch 128×160 screen and light-up touch controls.
+T60 series: (1 GB, 2 GB, 4 GB) using an AAA battery. Smaller than T50.
+T7 "Volcano" / "Stix": (4 GB) 25 mm active matrix 64×128 px OLED display; FM radio with recording facility and voice recording; SRS WOW HD; integrated lithium polymer battery and integrated USB connector.
+P10: (33 GB) Portable media player with dictionary apps
+T50 series: (1 GB) using an AA battery.
+T10 series: (256 MB, 512 MB, 1 GB, 2GB) Semi-prism shaped, MTP or UMS.
+T30 series: (256 MB, 512 MB, 1 GB) prism-shaped; line in, PlaysForSure and UMS support.[2]
+T20 series: (256 MB, 512 MB, 1 GB) USB stick design. Voice, line in and FM recording. Built in lithium-ion battery. PlaysForSure and UMS.
+U10 series: (1 GB, 2 GB), 2.2-inch screen, uses D-click control system, Flash Lite support
+H10jr.: (512 MB, 1 GB) Smaller but same shape as H10. USB 2.0 connectivity. FM tuner. Voice and FM recording. Built-in lithium-ion battery. PlaysForSure and UMS.
+N10 series: (128 MB, 256 MB, 512 MB, 1 GB) "medallion style" — worn hanging from the neck. USB 2.0 connectivity. UMS.
+N11 series: (128 MB, 256 MB, 512 MB, 1 GB) "medallion style" — worn hanging from the neck. Features longer battery life than N10. USB 2.0 connectivity. UMS. Built in lithium-ion battery. OLED screen.
+iFP-100 series: (32 MB, 64 MB, 128 MB, 256 MB, 512 MB) Prism shaped. USB 1.1 connectivity (four-pin mini-B plug). Plays MP3, WMA and WAV files. Prism shaped. MTP (UMS upgradable).
+iFP-300 series: (64 MB, 128MB, 256 MB, 512 MB) Prism shaped. USB 1.1 connectivity. UMS. FM tuner. Voice, line in, and FM recording.
+iFP-500 series: (256 MB, 512 MB, 1 GB) Soap bar shaped. USB 1.1 connectivity. UMS. FM tuner. Built in lithium-ion battery. Voice, line in and FM recording.
+iFP-700 series: (128 MB, 256 MB, 512 MB, 1 GB, 4 GB) Prism Shaped with rounded edges. USB 2.0 connectivity. UMS. FM tuner. Voice, line in and FM recording.
+iFP-800 series: (128 MB, 256 MB, 512 MB, 1 GB) Prism-shaped with rounded edges. USB 2.0 connectivity. UMS. FM tuner. Voice, line in and FM recording.
+iFP-900 series: (256 MB, 512 MB, 1 GB) Soap bar-shaped. Color 1.2" LCD display. FM tuner. Voice, line in and FM recording. USB 2.0 connectivity. UMS. Built-in lithium ion battery.
+iFP-1000 series: (256 MB, 512 MB) 0.3 megapixel digital camera built in, prism shaped, color screen. USB 2.0 connectivity. UMS. Removable lithium ion battery.
+"SlimX" sub-series: iMP-550, 450, 400, 350
+European customers should be aware that several models are missing the FM radio functionality available in other world markets.
+Iriver initially dropped UMS support for the U10, T30, T20 and T10 models in favor of Microsoft's MTP. The company later released an official Firmare Updater that allows users to switch between the MTP and UMS interfaces (for some models except 256 MB and 2 GB ones). The updater will only connect to the player from Windows XP SP1 or above.
+Although the T10 2 GB version distributed in the US and Canada does not officially support such firmware, the European version does. There is currently ongoing discussion on the misticriver forums to port this firmware for use on the US version.
+clix: iriver's flagship product. Started off as a rebranded U10 player and underwent a completed redesign in 2007 with the 2nd generation player. Best known as the implementer of iriver's direct click interface. Both the first and the second generation of the clix were very well received by critics, and both are the highest rated mp3 players ever at CNET with 8.7/10
+Generation 1: (1GB, 2GB, 4GB) Rectangular with rounded edges, 2.2" LCD, 70grams, microphone and FM radio recording, cradle available for extra functionality.
+Generation 2: (2GB, 4GB, 8GB) Stretched rectangle with rounded edges. 2.2", Active Matrix OLED Display, customizable with themes, FM and voice recording, UMS(MSC) - MTP compatible (interchangeable), cradle available for extra functionality.
+Update (Clix+): (4GB, 8GB) A somewhat flatter Clix model featuring a DMB tuner. Like the previous generations, the Clix+ has a 2.2" AMOLED screen.
+X20: Portable video player (PVP) with a removable battery. Expandable with microSD cards.
+P10 and P20
+APlayer and APlayer II(screen version of the APlayer)
+Spinn: (8GB, 16GB) 3.3", Active Matrix OLED Display, FM and voice recording, T-DMB.
+W10 is a media player featuring a 3" touchscreen and internet phone function with KT.
+U100: Portable media player with WI-FI feature. Came out in January, 2011.
+PMC Series: (20GB, 40GB) ("Portable Media Center") running Microsoft Windows Mobile-based Portable Media Center.
+PMP Series: (20GB, 40GB) ("Portable Media Player") discontinued for the PMC.
+The U10 and Clix can also play Flash Lite 1.1 games in the .swf format.
+iriver Story - Electronic ink e-reader, with SD card expansion. The iriver Story HD 2011 model added Wi-Fi and an improved screen.
+D-10 (Dicple, which is a simplified character of dictionary & (mp3) player) This is an Electronic Dictionary featuring music playback. It is selling after 2004 Dec.
+D-11
+D-20 (Dicple α) This is also an Electronic Dictionary. Featuring an improved design and a 4.3, 260000, TFT color screen supporting pictures and other features that a typical electronic dictionary does not. It is designed to mimic the look of a laptop at 176(W) x 81.9(D) x 26.7(H) mm and comes in glossy red or black. The device has a 22-hour battery life for browsing the dictionary and a 30-hour battery life for audio. It is selling after 2006 Jan.
+D-25 (Dicple 51) This Electronic Dictionary features 4.3, 260,000, TFT color screen, 1.3gb flash memory. This device is also known as Dicple 51 due to its number of contents. It is selling after 2006 Aug.
+D-26
+D-27
+D-30
+D-28 This is a minor version of the D-30. Removed PDF viewer and touchscreen.
+D-5
+D-33
+D-50N
+D-100
+D-150
+D-200
+D-1000
+D-2000
+D-3000
+D-3300
+Digital audio player
+Rockbox (alternative, open source firmware for the iriver H10, H100 and H300 series)

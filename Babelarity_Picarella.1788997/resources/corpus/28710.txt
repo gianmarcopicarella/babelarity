@@ -1,0 +1,142 @@
+The Junkers Ju 86 was a German monoplane bomber and civilian airliner designed in the early 1930s, and employed by both sides during World War II. The civilian model Ju 86B could carry 10 passengers. Two were delivered to Swissair and five to Luft Hansa. In addition a single civilian Ju 86Z was delivered to the Swedish AB Aerotransport.
+In 1934, a specification for a modern twin-engined aircraft capable of operating both as a high speed airliner for the German airline Luft Hansa and as a medium bomber for the nascent Luftwaffe was issued to both Junkers and Heinkel. Five prototypes were ordered from each company; the Junkers Ju 86 and Heinkel He 111. Junkers' design was a low-winged twin engined monoplane, of all-metal stressed skin construction. Unlike most of Junkers' previous designs, it discarded their typical corrugated skinning in favour of smooth metal skinning which helped to reduce drag. The craft was fitted with a narrow track retractable tailwheel undercarriage and twin fins and rudders. It was intended to be powered by the Junkers Jumo 205 diesel engines, which although heavy, gave better fuel consumption than conventional petrol engines.
+The bomber aircraft had a crew of four; a pilot, navigator, radio operator/bombardier and gunner. Defensive armament consisted of three machine guns, situated at the nose, at a dorsal position and within a retractable ventral position. Bombs were carried vertically in four fuselage cells behind the cockpit. The airliner version replaced the bombload with seating for 10 passengers, with fuel tanks being moved from the fuselage to the wings.
+The first prototype Ju 86, the Ju 86ab1, fitted with Siemens SAM 22 radial engines as airworthy Jumo 205s were unavailable, flew on 4 November 1934, in bomber configuration, with the second prototype, also a bomber, flying in January 1935. The third Ju 86, and the first civil prototype, flew on 4 April 1935. Production of pre-series military and civil aircraft started in late 1935, with full production of the Ju 86 A-1 bomber commencing in April 1936. Production quickly switched to the improved Ju 86D with a modified tail cone to improve stability.
+Early use of the Jumo powered Ju 86 bomber in the Spanish Civil War showed that it was inferior to the He 111, with the diesel engines being unsuitable for rough treatment during combat, and production plans were cut back. One Ju 86 had already been converted to use radial engines as a testbed for possible export versions, and this showed much improved reliability. With production switched to a version powered by the BMW 132 engine, the Ju 86E; production continuing until 1938.
+The "Z" designation suffix for civil variants, introduced in 1936, was allocated to three models: the Jumo-engined Z-1 (corresponding to the former B-0 or C-1), sold to Swissair (one), Airlines of Australia (one), and LAN-Chile (three); the BMW 132H-powered Z-2 for DLH (two) and the para-military Manchukuo Air Transport (five or more); and the Pratt & Whitney Hornet-engined Z-7, delivered to AB Aerotransport (ABA) of Sweden (one, for use as a mail carrier), Lloyd Aéreo Boliviano (three), and South African Airways - SAA - (17). The ABA aircraft was later transferred to the Swedish Air Force, with which it served, under the designation Tp 9, until 1958. South African Airways' original intention was to have its Ju 86s powered by 745 hp Rolls-Royce Kestrels. Six aircraft for SAA, flown with these engines, were refitted with Hornets before delivery, and the remainder were also Hornet-powered.
+The Ju 86K was an export model, also built under license in Sweden by Saab as the B 3 with (905 hp) Bristol Mercury XIX radial engines. Several aircraft remained in service with the Swedish Air Force until 1958. A few were converted to SIGINT platforms.
+The bomber was field tested in the Spanish Civil War, where it proved inferior to the Heinkel He 111. Four Ju 86 D-1s arrived in Spain in early February 1937, but after a few sorties one of them (coded 26-1) was shot down on 23 February by Republican fighters with the loss of three crewmen killed and one captured. A replacement aircraft was sent from Germany, but in the summer of 1937 another D-1 was lost in an accident, and the three remaining aircraft were sold to the Nationalist air forces. It was again used in the 1939 invasion of Poland, but retired soon after. In January 1940, the Luftwaffe tested the prototype Ju 86P with a longer wingspan, pressurized cabin, Jumo 207A1 turbocharged diesel engines, and a two-man crew. The Ju 86P could fly at heights of 12,000 m (39,000 ft) and higher on occasion, where it was felt to be safe from Allied fighters. The British Westland Welkin and Soviet Yakovlev Yak-9PD were developed specifically to counter this threat.
+At the outbreak of the Second World War, South Africa's Ju 86Zs were militarized and armed as bombers with defensive guns and external bomb racks. The aircraft were initially used for coastal patrols along with the sole Ju 86 K-1, playing an important role in the interception of the German blockade runner SS Watussi in December 1939. In May 1940, they were used to re-equip No. 12 Squadron SAAF, which was deployed in the East African Campaign from June 1940. It flew its first bombing missions on 14 June 1940. As more modern aircraft became available, the South African Ju 86s were passed from squadron to squadron, seeing their last use with No. 22 Squadron SAAF at Durban, who used it, along with the Avro Anson in the coastal reconnaissance role, finally retiring its Ju 86s in September 1942, when it re-equipped with Lockheed Venturas.
+Satisfied with the trials of the new Ju 86P prototype, the Luftwaffe ordered that some 40 older-model bombers be converted to Ju 86 P-1 high-altitude bombers and Ju 86 P-2 photo reconnaissance aircraft. Those operated successfully for some years over Britain, the Soviet Union and North Africa. In August 1942, a modified Spitfire V shot one down over Egypt at some 14,500 m (49,000 ft); when two more were lost, Ju 86Ps were withdrawn from service in 1943.
+Junkers developed the Ju 86R for the Luftwaffe, using larger wings and new engines capable of even higher altitudes - up to 16,000 m (52,500 ft) - but production was limited to prototypes.
+Only one Junkers Ju 86 is known to exist today. The aircraft was built in Germany and sold to Sweden in 1938 where it was taken out of service in 1958. It is on permanent static display at the Swedish Air Force Museum in Sweden.
+Ju 86 abl
+First bomber prototype.
+Ju 86 bal
+Second transport prototype.
+Ju 86 cb
+Third bomber prototype.
+Ju 86 V4
+Prototype for the Ju 86B commercial transport aircraft.
+Ju 86 V5
+Prototype for the Ju 86A bomber aircraft.
+Ju 86 A-0
+13 pre-production bomber aircraft.
+Ju 86 A-1
+Initial bomber version.
+Ju 86 B-0
+Seven pre-production transport aircraft.
+Ju 86 C-1
+Six transport aircraft for Luft Hansa, powered by two Junkers Jumo 205C diesel engines.
+Ju 86 D-1
+Bomber version.
+Ju 86 E-1
+Bomber version for the Luftwaffe, powered by two BMW 132F radial engines.
+Ju 86 E-2
+Powered by two BMW 132N radials.
+Ju 86 G-1
+Fitted with a round glass nose.
+Ju 86 E-2
+Uprated version of the Ju 86 E-1.
+Ju 86 K-1
+Export version for South Africa and Sweden.
+Ju 86 K-2
+Export version for Hungary.
+Ju 86 K-4
+Export version for Sweden, similar to the Ju 86K-1, but fitted with two Bristol Pegasus III radials.
+Ju 86 K-5
+Swedish-built bomber aircraft, powered by two Swedish-built Bristol Pegasus XII radials.
+Ju 86 K-6
+Export version for Chile and Portugal.
+Ju 86 K-7
+Export version for Austria with BMW 132 radials.
+Ju 86 K-13
+Swedish-built bomber aircraft, fitted with Swedish or Polish-built Pegasus engines.
+Ju 86 P-1
+High-altitude bomber version, fitted with two Jumo 207 diesel engines and with turbochargers.
+Ju 86 P-2
+High-altitude photo reconnaissance version, still equipped for bombing. Same engines as P-1.
+Ju 86 R-1
+High-altitude photo reconnaissance version. Retained 207 engines.
+Ju 86 R-2
+High-altitude bomber version.
+Ju 86 R-3
+Powered by two Jumo 208 engines.
+Ju 86Z series
+Civil export models
+Ju 186
+Proposed four-engined high-altitude bomber aircraft. Not built.
+Ju 286
+Proposed six-engined high-altitude bomber aircraft. Not built.
+K 85
+a proposed torpedo bomber version for the Swedish Air Force.
+ Austria
+Austrian Air Force
+ Bolivia
+Bolivian Air Force
+ Chile
+Chilean Air Force
+ Germany
+Luftwaffe
+ Hungary
+Royal Hungarian Air Force
+ Japan
+Kempeitai used several as transports in secret and paramilitary operations in Manchukuo.
+ Manchukuo
+Manchukuo Imperial Air Force Manchukuo Imperial Air Force operated Ju-86 Z-2s as government transports.
+ Portugal
+Portuguese Air Force
+ Romania
+Romanian Air Force
+ South Africa
+South African Air Force The SAAF operated 18 aircraft namely 17 Ju 86Z and one Ju 86K (from South African Airways). These aircraft were operated by 12 and 16 Squadron.
+ Spain
+Spanish Air Force
+ Sweden
+Swedish Air Force
+ Australia
+Southern Airlines and Freighters of Australia
+ Bolivia
+Lloyd Aéreo Boliviano
+ Chile
+LAN Chile
+ Germany
+Luft Hansa
+ Manchukuo
+Manchukuo National Airways
+ South Africa
+South African Airways operated 18 aircraft prior to 1939.
+ Spanish State
+ Sweden
+AB Aerotransport
+  Switzerland
+Swissair
+Data from Jane's Fighting Aircraft of World War II and Warbirds Resource Group
+General characteristics
+Crew: 2 (pilot and radio operator)
+Length: 16.46 m (54 ft)
+Wingspan: 32 m (105 ft)
+Height: 4.7 m (15 ft 5 in)
+Wing area: 82 m² (883 ft²)
+Empty weight: 6,700 kg (14,800 lb)
+Max. takeoff weight: 11,530 kg (25,420 lb)
+Powerplant: 2 × Junkers Jumo 207B-3/V diesel engines, 746 kW (1,000 hp) each
+Performance
+Maximum speed: 420 km/h (260 mph) above 9,150 m (30,000 ft)
+Range: 1,580 km (980 mi)
+Service ceiling: 13,000 m (42,650 ft)
+Rate of climb: 4.67 m/s (900 ft/min)
+Armament
+Guns: defensive armament of three MG 15 machine guns
+Bombs: 1,000 kg (2,200 lb) of bombs
+Photo reconnaissance
+Aircraft of comparable role, configuration and era
+Heinkel He 111
+Dornier Do 17
+Fokker T.V
+Related lists
+List of aircraft of World War II
+List of military aircraft of Germany
+Notes
+Bibliography
+Photo gallery of Junkers Ju 86K-4

@@ -1,0 +1,11 @@
+Hillel (Harry) Furstenberg (Hebrew: הלל (הארי) פורסטנברג‎‎) (born September 29, 1935) is an American-Israeli mathematician, a member of the Israel Academy of Sciences and Humanities and U.S. National Academy of Sciences and a laureate of the Wolf Prize in Mathematics. He is known for his application of probability theory and ergodic theory methods to other areas of mathematics, including number theory and Lie groups.
+Hillel Furstenberg was born in Germany, in 1935, and the family emigrated to the United States in 1939, shortly before the outbreak of the Second World War. He attended Marsha Stern Talmudical Academy and then Yeshiva University, where he concluded his BA and MSc studies in 1955. He obtained his Ph. D. under Salomon Bochner at Princeton University in 1958. After several years at the University of Minnesota he became a Professor of Mathematics at the Hebrew University of Jerusalem in 1965.
+He gained attention at an early stage in his career for producing an innovative topological proof of the infinitude of prime numbers. He proved unique ergodicity of horocycle flows on a compact hyperbolic Riemann surfaces in the early 1970s. In 1977, he gave an ergodic theory reformulation, and subsequently proof, of Szemerédi's theorem. The Furstenberg boundary and Furstenberg compactification of a locally symmetric space are named after him.
+1993 – Furstenberg received the Israel Prize, for exact sciences.
+1993 – Furstenberg received the Harvey Prize from Technion.
+2006/7 – He received the Wolf Prize in Mathematics.
+Furstenberg, Harry, Stationary processes and prediction theory, Princeton, N.J. : Princeton University Press, 1960.
+Furstenberg, Harry, Recurrence in ergodic theory and combinatorial number theory, Princeton, NJ : Princeton Univ. Press, 1981.
+Compactification (mathematics)
+Ratner's theorems
+List of Israel Prize recipients

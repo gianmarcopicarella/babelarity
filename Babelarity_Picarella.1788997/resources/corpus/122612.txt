@@ -1,0 +1,11 @@
+The grapheme Čč (Latin C with háček) is used in various contexts, usually denoting the voiceless postalveolar affricate consonant [t͡ʃ] like the English ch in the word chocolate. It is represented in Unicode as U+010C (uppercase Č) and U+010D (lowercase č).
+The symbol originates with the 15th century Czech alphabet as introduced by the reforms of Jan Hus. From there, it was adopted into the Croatian alphabet by Ljudevit Gaj in 1830, and it is also used in Slovak, Slovenian, Bosnian, Latvian, Lithuanian, Pomak and Berber.
+In Berber, Croatian, Slovenian, Bosnian, Serbian, Sorbian, Montenegrin, Skolt Sami, and Lakota alphabets, it is the fourth letter of the alphabet. In Czech, Northern Sámi alphabet and the Baltic languages Lithuanian and Latvian, the letter is in fifth place. In Slovak it is sixth letter of the alphabet. It is also used in Pashto (equivalent to چ) and Saanich.
+It is equivalent to Ч in Cyrillic and can be used in Ukrainian, Belarusian, Russian, and Bulgarian romanisations. It features more permanently in the Latinic forms of Serbian, Montenegrin, Macedonian, as well as Belarusian.
+/Č/ is also used in Americanist phonetic notation.
+Representation in software follows the same rules as the háček.
+U+010C (uppercase Č—use Alt 268 for input) and U+010D (lowercase č—use Alt 269 for input) create this character. The combining character U+030C can be placed together with either c or C to generally achieve the same visual result.
+In text the control sequence \v{c} will work. In math mode, $\check{c}$ also works.
+Ć
+Cz (digraph)
+Ch (digraph)

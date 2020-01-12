@@ -1,0 +1,2 @@
+Microsoft Certifications are professional certifications verifying demonstrated proficiency with Microsoft products. They exist in the categories of Server, Desktop, Applications, Database, and Developer with a variety of tiers of proficiency certified, including Solutions Associate (MCSA), Solutions Expert (MCSE), and Solutions Developer (MCSD). They are bestowed on people who pass one or more exams.
+Microsoft Technology Associate

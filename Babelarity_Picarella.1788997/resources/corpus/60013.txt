@@ -1,0 +1,38 @@
+Photoelectrochemical cells or PECs are solar cells that produce electrical energy or hydrogen in a process similar to the electrolysis of water.
+This type of cell electrolizes water to hydrogen and oxygen gas by irradiating the anode with electromagnetic radiation. This has been referred to as artificial photosynthesis and has been suggested as a way of storing solar energy in hydrogen for use as fuel.
+Incoming sunlight excites free electrons near the surface of the silicon electrode. These electrons flow through wires to the stainless steel electrode, where four of them react with four water molecules to form two molecules of hydrogen and 4 OH groups. The OH groups flow through the liquid electrolyte to the surface of the silicon electrode. There they react with the four holes associated with the four photoelectrons, the result being two water molecules and an oxygen molecule. Illuminated silicon immediately begins to corrode under contact with the electrolytes. The corrosion consumes material and disrupts the properties of the surfaces and interfaces within the cell.
+Two types of photochemical systems operate via photocatalysis. One uses semiconductor surfaces as catalysts. In these devices the semiconductor surface absorbs solar energy and acts as an electrode for water splitting. The other methodology uses in-solution metal complexes as catalysts.
+Photogeneration cells have passed the 10 percent economic efficiency barrier. Corrosion of the semiconductors remains an issue, given their direct contact with water. Research is now ongoing to reach a service life of 10000 hours, a requirement established by the United States Department of Energy.
+Dye-sensitized solar cells or Grätzel cells use dye-adsorbed highly porous nanocrystalline titanium dioxide (nc-TiO
+2) to produce electrical energy.
+PECs convert light energy into electricity within a two-electrode cell. In theory, three arrangements of photo-electrodes in the assembly of PECs exist:
+photo-anode made of a n-type semiconductor and a metal cathode
+photo-anode made of a n-type semiconductor and a photo-cathode made of a p-type semiconductor
+photo-cathode made of a p-type semiconductor and a metal anode
+The two basic requirements for materials used as photo-electrodes are optical function, required to obtain maximal absorption of solar energy, and catalytic function, required for other reactions such as water decomposition.
+2
+TiO
+2 and other metal oxides are most prominent for efficiency reasons. Including SrTiO
+3 and BaTiO
+3, this kind of semiconducting titanates, the conduction band has mainly titanium 3d character and the valence band oxygen 2p character. The bands are separated by a wide band gap of at least 3 eV, so that these materials absorb only UV radiation. Change of the TiO
+2 microstructure has also been investigated to further improve the performance, such as TiO
+2 nanowire arrays or porous nanocrystalline TiO
+2 photoelectrochemical cells.
+GaN is another option, because metal nitrides usually have a narrow band gap that could encompass almost the entire solar spectrum. GaN has a narrower band gap than TiO
+2 but is still large enough to allow water splitting to occur at the surface. GaN nanowires exhibited better performance than GaN thin films, because they have a larger surface area and have a high single crystallinity which allows longer electron-hole pair lifetimes. Meanwhile, other non-oxide semiconductors such as GaAs, MoS
+2, WSe
+2 and MoSe
+2 are used as n-type electrode, due to their stability in chemical and electrochemical steps in the photocorrosion reactions.
+In 2013 a cell with 2 nanometers of nickel on a silicon electrode, paired with a stainless steel electrode, immersed in an aqueous electrolyte of potassium borate and lithium borate operated for 80 hours without noticeable corrosion, versus 8 hours for titanium dioxide. In the process, about 150 ml of hydrogen gas was generated, representing the storage of about 2 kilojoules of energy.
+In 1967, Akira Fujishima discovered the Honda-Fujishima effect.
+Artificial photosynthesis
+Glossary of fuel cell terms
+Photocatalytic water splitting
+Photochemical reaction
+Photochemistry
+Photodissociation
+Photoelectrochemistry
+Photoelectrolysis
+Photohydrogen
+Photosynthesis
+Timeline of hydrogen technologies

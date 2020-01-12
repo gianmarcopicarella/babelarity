@@ -1,0 +1,47 @@
+Microsoft Project is a project management software program, developed and sold by Microsoft, that is designed to assist a project manager in developing a plan, assigning resources to tasks, tracking progress, managing the budget, and analyzing workloads.
+Microsoft Project was the company's third Microsoft Windows-based application, and within a couple of years of its introduction it became the dominant PC-based project management software.
+While part of the Microsoft Office family, it has never been included in any of the Office suites. It is available currently in two editions, Standard and Professional. Microsoft Project's proprietary file format is .mpp.
+Microsoft Project and Microsoft Project Server are the cornerstones of the Microsoft Office enterprise project management (EPM) product.
+'Project' was an MS-DOS software application originally written in Microsoft 'C' (and some assembly) language for the IBM PC. The idea originated from the vision of Ron Bredehoeft, a former IBM S/E and PC-enthusiast in the early 1980s. This original vision was simple: express the recipe and all preparation for a breakfast of eggs Benedict in project management terms. Mr. Bredehoeft formed Microsoft Application Services (MAS) during the birth of the application and the company later entered an OEM agreement with Microsoft Corporation. Alan M. Boyd, Microsoft's Manager of Product Development, introduced the application as an internal tool to help manage the huge number of software projects that were in development at any time inside the company. Boyd wrote the specification and engaged a local Seattle company to develop the prototype.
+The first commercial version of Project was released for DOS in 1984. Microsoft bought all rights to the software in 1985 and released version 2. Version 3 for DOS was released in 1986. Version 4 for DOS was the final DOS version, released in 1986. The first Windows version was released in 1990, and was labelled version 1 for Windows.
+In 1991 a Macintosh version was released. Development continued until Microsoft Project 4.0 for Mac in 1993. Microsoft Project 4 for the Mac included both 68k and PowerMac versions, Visual Basic for Applications and integration with Microsoft office 4.2 for the Mac. In 1994, Microsoft stopped development of most of its Mac applications and did not offer a new version of Office until 1998, after the creation of the new Microsoft Macintosh Business Unit the year prior. The Mac Business Unit never released an updated version of Project, and the last version does not run natively on Mac OS X.
+Microsoft Project 95 was the first to use common Office menus.
+Microsoft Project 98 was the first to use Tahoma font in the menu bars and to contain Office Assistant, like all Office 97 applications. Project 98 SR-1 was a major service release addressing several issues in Project 98.
+Microsoft Project 2000 was the first to use personalized menus and to use Windows Installer-based setup interface, like all Office 2000 applications. Project 2000 was also the last version to support Windows 95.
+Microsoft Project 2002 was the first to contain mandatory product activation, like Office XP and Windows XP. It was also the last version to support Windows NT 4.0, 98 and ME.
+Microsoft Project 2003 was the first to contain Windows XP-style icons, like all Office 2003 applications, and the last to support Windows 2000.
+Microsoft
+Versions were released in 1992 (v3.0), 1993 (v4.0), 1995 (v4.1a), 1998 (v9.0), 2000 (v10.0), 2003 (v11.0), 2007 (v12.0), 2010 (v14.0) and 2013 (v15.0). There was no Version 2 on the Windows platform; the original design spec was augmented with the addition of macro capabilities and the extra work required to support a macro language pushed the development schedule out to early 1992 (Version 3).
+Project creates budgets based on assignment work and resource rates. As resources are assigned to tasks and assignment work estimated, the program calculates the cost, equal to the work times the rate, which rolls up to the task level and then to any summary tasks and finally to the project level. Resource definitions (people, equipment and materials) can be shared between projects using a shared resource pool. Each resource can have its own calendar, which defines what days and shifts a resource is available. Resource rates are used to calculate resource assignment costs which are rolled up and summarized at the resource level. Each resource can be assigned to multiple tasks in multiple plans and each task can be assigned multiple resources, and the application schedules task work based on the resource availability as defined in the resource calendars. All resources can be defined in label without limit. Therefore, it cannot determine how many finished products can be produced with a given amount of raw materials. This makes Microsoft Project unsuitable for solving problems of available materials constrained production. Additional software is necessary to manage a complex facility that produces physical goods.
+The application creates critical path schedules, and critical chain and event chain methodology third-party add-ons also are available. Schedules can be resource leveled, and chains are visualized in a Gantt chart. Additionally, Microsoft Project can recognize different classes of users. These different classes of users can have differing access levels to projects, views, and other data. Custom objects such as calendars, views, tables, filters, and fields are stored in an enterprise global which is shared by all users.
+Project is available in two editions, Standard and Professional; both editions are available either as 32 or 64bit options. The Professional edition includes all the features of the Standard version, plus more features like team collaboration tools and ability to connect to Microsoft Project Server.
+Microsoft Project 2010 includes the Fluent user interface known as the Ribbon.
+Interoperability
+Microsoft Project's capabilities were extended with the introduction of Microsoft Office Project Server and Microsoft Project Web Access. Project Server stores Project data in a central SQL-based database, allowing multiple, independent projects to access a shared resource pool. Web Access allows authorized users to access a Project Server database across the Internet, and includes timesheets, graphical analysis of resource workloads, and administrative tools.
+User controlled scheduling
+User-controlled scheduling offers flexible choices for developing and managing projects.
+Timeline
+The timeline view allows the user to build a basic Visio-style graphical overview of the project schedule. The view can be copied and pasted into PowerPoint, Word, or any other application.
+SharePoint 2010 list synchronization
+SharePoint Foundation and Project Professional project task status updates may be synchronized for team members.
+Inactive tasks
+helps experiment with project plans and perform what-if analysis
+The Team Planner view
+The new Team Planner shows resources and work over time, and helps spot problems and resolve issues.
+What's new in Project 2013 includes new Reports section, better integration with other Microsoft products, and appearance of user interface items:
+Reports
+A Reports section is added to the ribbon for pre-installed reports. Project 2013 includes graphical reports so that you can create graphical reports and add clipart without having to export data to another program. For example, the Burndown reports show planned work, completed work, and remaining work as lines on a graph. Project 2013 adds pre-installed ability to compare projects, do dashboards, and to export to Visual Reports.
+Trace task paths
+This feature allows you to highlight the link chain (or 'task path') for any task. When you click on a specific task, all of its predecessor tasks show up in one color and all of its successor tasks show up in another color.
+Sharing
+Project 2013 improves the sharing and communication features of its predecessors in multiple ways without leaving Project. With Lync installed, hovering over a name allows you to start an IM session, a video chat, an email, or a phone call. You can copy and paste content to any of the Microsoft Office suite. You can sync content to Sharepoint or a SkyDrive to share without going through Project and Project Online provides an online project management web app that has all of the functionality of Project 2013 and can be accessed from any web enabled device.
+Project 2016 adds a new Reports section, backwards-compatibility with Project Server 2013, better integration with other Microsoft products, and improved appearance of user interface items:
+Timeline
+Allows user to customize views to have multiple timeline bars and custom date ranges in a single view.
+Resource Agreements
+Gives features for resource planning coordination between Project Manager and Resource Manager.
+Office 2016 style theme and help
+Uses the new Office query 'tell me what you want to do'.
+Backwards compatibility with Microsoft Project Server 2013
+The transition of enterprises from one version to the next may be eased by this product being able to interact with the earlier version of server.
+List of project management software

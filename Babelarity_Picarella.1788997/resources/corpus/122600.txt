@@ -1,0 +1,315 @@
+The Choctaw language, traditionally spoken by the Native American Choctaw people of the southeastern United States, is a member of the Muskogean family. Although Chickasaw is sometimes listed as a dialect of Choctaw, more extensive documentation of Chickasaw has shown that Choctaw and Chickasaw are best treated as separate but closely related languages.
+The written Choctaw language is based upon English version of the Roman alphabet and was developed in conjunction with the civilization program of the United States in the early 19th century. Although there are other variations of the Choctaw alphabet, the three most commonly seen are the Byington (Original), Byington/Swanton (Linguistic), and Modern (Mississippi Choctaw).
+Many publications by linguists about the Choctaw language use a slight variant of the "modern (Mississippi Choctaw)" orthography listed here, where long vowels are written as doubled. In the "linguistic" version, the acute accent shows the position of the pitch accent, rather than the length of the vowel.
+The discussion of Choctaw grammar below uses the linguistic variant of the orthography.
+There are three dialects of Choctaw (Mithun 1999):
+"Native" Choctaw on the Choctaw Nation in southeastern Oklahoma
+Mississippi Choctaw of Oklahoma on Chickasaw Nation of south central Oklahoma (near Durwood)
+Choctaw of the Mississippi Band of Choctaw Indians near Philadelphia, Mississippi
+Other speakers live near Tallahassee, Florida, and with the Koasati in Louisiana, and also a few speakers live in Texas and California.
+More information on suffixes is in the Morphology section.
+^ The only voiced stop is /b/. The voiceless stops /p/, /t/, and /k/ may become partially voiced between vowels, especially /k/ and for male speakers. Also, the voiceless stops are slightly aspirated at the onset of words and before stressed syllables, behaving like English voiceless plosives.
+^ According to one analysis, all words must end in a consonant. Words apparently ending in a vowel actually have a glottal stop /ʔ/ or a glottal fricative /h/ as the final consonant. Sucj consonants become realized when suffixes are attached.
+^ The phonemes /s/ and /ʃ/ are neutralized at the end of words.
+There is free variation of some consonants in Choctaw with some speakers:
+/ɬ/, the voiceless lateral fricative, is pronounced as a voiceless dental fricative /θ/.
+/ɬ/→[θ]
+The voiceless labiodental fricative /f/ is pronounced as a voiceless bilabial fricative /ɸ/.
+/f/→[ɸ]
+In Choctaw /k/, the voiceless velar plosive, is prounounced as [ɣ], a voiced velar fricative, between vowels.
+/k/→[ɣ]/V_V
+imofi-aki-lih→imofiy-əɣə̃:-lih
+The voiceless glottal fricative /h/ is prounounced like a voiceless palatal fricative [ç] when it precedes the voiceless palato-alveolar affricate /tʃ/.
+/h/→[ç]/_tʃ
+katihchish→katiçtʃiʃ
+^ In closed syllables, [ɪ], [ʊ], and [ə] occur as allophonic variants of /i/, /o/, and /a/. Traditional orthography distinguishes the lax allophones from the tense vowels but failed to distinguish phonemic long vowels from phonemic short ones.
+^ Nasal vowels are not distinguished by duration as are oral vowels. However, nasal vowels are phonetically long, suggesting an underlying phoneme /N/.
+In Choctaw, very few words are distinguished only by pitch accent. Nouns in Choctaw have pitch realization at the penultimate syllable or the ultimate syllable. Verbs in Choctaw will have pitch realization at morphemes indicating tense, but sometimes, pitch directly precedes the tense morpheme.
+Syllables of Choctaw
+As is in the chart above, there are three syllable structure types in Choctaw: light, heavy, and super heavy. Possible syllables in Choctaw must contain at least one vowel of any quality.
+Syllables cannot end with a consonant clusters CC. However, there is an exception with the structure *(C)VCC if a word in Choctaw ends with the suffix /-t/.
+Syllables do not begin with consonant clusters CC, buy there is an exception in an initial /i-/ deletion, which results in a syllable *CCV .
+Rhythmic lengthening is the process of lengthening the vowel duration of an even-numbered CV syllable in Choctaw. However, vowels at the end of words are not permitted to undergo that process. Also, if an even-numbered syllable is a verbal prefixes class I or III, the affix's vowel may not undergo lengthening, and the same holds true for noun prefixes class III as well.
+CV-CV-CVC→CV-CV:-CVC
+salahatok→sala:hatok
+The smallest possible word in Choctaw must contain either two short vowels or one long vowel.
+a:t
+/A-/ insertion: there are verbs with only one short vowel in their roots. Without an affix attached to the verb root, the verbs become impossible utterances because Choctaw requires either two short vowel or a long vowel for a word to be formed. An initial A- prefix is thus attached to the root of the verb.
+*bih → a-bih
+When a verb root ends with a long vowel, a glide /w/ or /j/ is inserted after the long vowel.
+∅→/wa/ / V:____
+Where V: is oo
+boo-a-h→bóowah
+∅→/ja/ / V:____
+Where V: can be either ii or aa
+talaa-a-h→talaayah
+In Choctaw, there is a group of nouns which contain an initial /i-/ that encodes for 3rd person possession. It may be deleted, but if the /i/ is part of a VC syllable structure, the C is also deleted, because the resulting CCV syllable is rarely a permissible syllable structure at the onset of words.
+/i/→∅ / #____
+Part 1: /i + C/→∅ + /C/ / #____
+Part 2: /∅ + C/→∅ / #____
+ippókni'→ppókni'→pókni'
+The verbal infix /l/ is pronounced /h, ch, or ɬ/ when /l/ precedes a voiceless consonant.
+l → {h, tʃ, ɬ} /_C[-voice]
+ho-l-tinah → ho-ɬ-tinah
+There are several assimilation processes that occur with the suffix /-li/. When the verbal suffix /-li/ is preceded by /f/ /ɫ/ /h/ /m/ /n/ or /w/, the /l/ assimilates to the corresponding consonant that precedes it. Also, the verbal suffix /-li/ is preceded by the consonant /b/, the /l/ is realized as /b/. Third, when the verbal suffix /-li/ is preceded by the consonant /p/, the /p/ is pronounced as /b/. Lastly, when the verbal suffix /-li/ is preceded by the consonant /t/, the /t/ is pronounced as /l/.
+/l/→/f, ɫ, h, m, n, w/ / /f, ɫ, h, m, n, w/____
+/kobaf-li-h/→ kobaaffih
+/l/→/b/ / /b/____
+/atob-li-h/→ atobbih
+/p/→/b/ / /b/____
+/tap-li-h/→ tablih
+/t/→/l/ / ____/l/
+/palhat-li-h/→ pallalih
+There are two deletion processes that occur with the suffix /-li/. If the verbal suffix /-li/ precedes the verbal suffix /-tʃi/, the suffix /-li/ may be deleted if the resulting syllable, after deletion, is be a consonant cluster. The other process occurs when the verbal suffix /-li/ precedes the suffix /-t/, which results with the suffix /-li/ being sometimes deleted if the syllable /-li/ has not already gone under phonological processes as described above.
+/li/→∅ / ____/tʃi/
+balii-li-chi-h→balii-chi-h
+/li/→∅ / ____/t/
+balii-li--h→balii-t
+Schwa insertion: when a glottal fricative /h/ or a velar stop /k/ precedes a voiced consonant within a consonant cluster, a schwa /ə/ is inserted to break up the consonant cluster.
+∅→/ə/ / /h/____[+voiced] consonant
+∅→/ə/ / /k/____[+voiced] consonant
+'ahnih'→/ahənih/
+Vowel deletion is the process of a short vowel being deleted at a morpheme boundary. It occurs when an affix containing a short vowel at the morpheme boundary binds to a word that also contains a short vowel at the morpheme boundary.
+For most vowel deletion cases, the preceding short vowel is deleted at the morpheme boundary.
+V→∅ / ____V
+/baliili-aatʃĩ-h/→baliilaatʃĩh
+If a class II suffix attaches to a word that results with two short vowels occurring together, the short vowel that follows the class II suffix is deleted.
+V→∅ / V____
+/sa-ibaa-waʃoohah/→sabaa-waʃoohah
+Choctaw verbs display a wide range of inflectional and derivational morphology. In Choctaw, the category of verb may also include words that would be categorized as adjectives or quantifiers in English. Verbs may be preceded by up to three prefixes and followed by as many as five suffixes. In addition, verb roots may contain infixes that convey aspectual information.
+The verbal prefixes convey information about the arguments of the verb: how many there are and their person and number features. The prefixes can be divided into three sorts: agreement markers, applicative markers, and anaphors (reflexives and reciprocals). The prefixes occur in the following order: agreement-anaphor-applicative-verb stem.
+The agreement affixes are shown in the following chart. All are prefixes except -li, a suffix.
+I, II, and III are neutral labels for the three person marking paradigms. Some authors (Ulrich 1986, Davies, 1986) have called them actor–patient–dative or nominative–accusative–dative.
+The 1sg I agreement marker is /-li/, the only suffix among the agreement markers. It is discussed in this section along with the other agreement markers.
+I, II, and III agreement are conditioned by various kinds of arguments. Transitive active verbs show the most predictable pattern. With a typical transitive active verb, the subject will take I agreement, the direct object will take II agreement, and the indirect object will take III agreement.
+As the chart above shows, there is no person-number agreement for third person arguments. Consider the following paradigms:
+Habli-li-tok 'I kicked him/her/it/them.'
+Ish-habli-tok 'You kicked him/her/it/them.'
+Habli-tok 'She/he/it/they kicked him/her/it/them.'
+Ii-habli-tok 'We kicked him/her/it/them.'
+Hash-habli-tok 'Y'all kicked him/her/it/them.'
+Sa-habli-tok 'She/he/it/they kicked me.'
+Chi-habli-tok 'She/he/it/they kicked you.'
+Habli-tok 'She/he/it/they kicked him/her/it/them.'
+Pi-habli-tok 'She/he/it/they kicked us.
+Hachi-habli-tok: 'She/he/it/they kicked y'all.'
+Am-anoli-tok 'She/he/it/they told me.'
+Chim-anoli-tok 'She/he/it/they told you.'
+Im-anoli-tok 'She/he/it/they told him/her/it/them.'
+Pim-anoli-tok 'She/he/it/they told us.'
+Hachim-anoli-tok 'She/he/it/they told y'all.'
+When a transitive verb occurs with more than one agreement prefix, I prefixes precede II and III prefixes:
+Iichipí̱satok.
+Ii-chi-pí̱sa-tok
+1pI-2sII-see〈NGR〉-PT
+'We saw you.'
+Ishpimanoolitok.
+Ish-pim-anooli-tok.
+2sI-1pIII-tell-PT
+'You told us.'
+Intransitive verbs show more complicated patterns of agreement. For intransitive verbs, the subjects of active verbs typically trigger I agreement, the subjects of stative verbs typically trigger II agreement, and III agreement is found with the subjects of some psychological verbs.
+Baliililitok.
+Baliili-li-tok
+run-1sI-PT
+'I ran.'
+Saniyah.
+Sa-niya-h.
+1sII-fat-TNS
+'I am fat.'
+a̱ponnah.
+a̱-ponna-h.
+1sIII-skilled-TNS
+'I am skilled.'
+This type of morphology is generally referred to as active–stative.
+The set of agreement markers labelled N above is used with negatives. Negation is multiply marked, requiring that an agreement marker from the N set replace the ordinary I agreement, the verb appear in the lengthened grade (see discussion below), and that the suffix /-o(k)-/ follow the verb, with deletion of the preceding final vowel. The optional suffix /-kii/ may be added after /-o(k)-/. Consider the following example:
+Akíiyokiittook.
+Ak-íiya-o-kii-ttook
+1sN-go〈LGR〉-NEG-NEG-DPAST
+'I did not go.'
+Compare this with the affirmative counterpart:
+Iyalittook
+Iya-li-ttook.
+go-1sI-DPAST
+'I went'.
+To make this example negative, the 1sI suffix /-li/ is replaced by the 1sN prefix /ak-/; the verb root iya is lengthened and accented to yield íiya; the suffix /-o/ is added, the final vowel of iiya is deleted, and the suffix /-kii/ is added.
+Reflexives are indicated with the /ili-/ prefix, and reciprocals with /itti-/:
+Ilipísalitok.
+li-pí̱sa-li-tok.
+REFL-see〈NGR〉-1sI-PT
+'I saw myself'.
+While the verbal prefixes indicate relations between the verb and its arguments, the suffixes cover a wider semantic range, including information about valence, modality, tense and evidentiality.
+The following examples show modal and tense suffixes like /-aachii̱/ 'irrealis'(approximately equal to future), /-tok/ 'past tense', /-h/ 'default tenses':
+Baliilih.
+Baliili-h.
+run-TNS
+'She runs.'
+Baliilaachi̱h.
+Baliili-aachi̱-h.
+run-IRR-TNS
+'She will run.'
+There are also suffixes that show evidentiality, or the source of evidence for a statement, as in the following pair:
+Nipi’ awashlihli.
+Nipi’ awashli-hli
+meat fry-first:hand
+'She fried the meat.' (I saw/heard/smelled her do it.)
+Nipi’ awashlitoka̱sha.
+Nipi’ awashli-tok-a̱sha
+meat fry-PT-guess
+'She fried the meat.' (I guess)
+There are also suffixes of illocutionary force which may indicate that the sentence is a question, an exclamation, or a command:
+Awashlitoko̱?
+Awashli-tok-o̱
+fry-PT-Q
+'Did she fry it?'
+Chahta’ siahokii!
+Chahta’ si-a-h-okii
+Choctaw 1sII-be-TNS-EXCL
+'I'm Choctaw!' or 'I certainly am a Choctaw!'
+Choctaw verb stems have various infixes that indicate their aspect. These stem variants are traditionally referred to as 'grades'. The table below shows the grades of Choctaw, along with their main usage.
+Some examples that show the grades follow:
+In this example the l-grade appears because of the suffixes /-na/ 'different subject' and /-o(k)/ 'negative':
+... lowat táahana falaamat akíiyokiittook.
+lowa-t táaha-na falaama-t ak-íiya-o-kii-ttook
+burn-SS complete〈LGR〉-DS return-SS 1sN-go〈LGR〉-NEG-NEG-DPAST
+'... (the school) burned down and I didn't go back.'
+The g-grade and y-grade typically get translated into English as "finally VERB-ed":
+Taloowah.
+Taloowa-h
+sing-TNS
+'He sang.'
+Tálloowah.
+Tálloowa-h
+sing〈GGR〉-TNS
+'He finally sang.'
+The hn-grade is usually translated as 'kept on VERBing':
+Ohó̱bana nittak pókkooli’ oshtattook.
+Ohó̱ba-na nittak pókkooli’ oshta-ttook
+rain〈HNGR〉-DS day ten four-DPAST
+'It kept on raining for forty days.'
+The h-grade is usually translated "just VERB-ed" or "VERB-ed for a short time":
+Nóhsih.
+Nóhsi-h
+sleep〈HGR〉-TNS
+'He took a quick nap.
+Nouns have prefixes that show agreement with a possessor. Agreement markers from class II are used on a lexically specified closed class of nouns, which includes many (but not all) of the kinship terms and body parts. This is the class that is generally labeled inalienable.
+sanoshkobo’ 'my head'
+sa-noshkobo’
+1sII-head
+chinoshkobo’ 'your head'
+chi-noshkobo’
+2sII-head
+noshkobo’ 'his/her/its/their head'
+noshkobo’
+head
+sashki’ 'my mother'
+sa-ishki’
+1sII-mother
+chishki’ 'your mother'
+chi-ishki’
+2sII-mother
+Nouns that are not lexically specified for II agreement use the III agreement markers:
+a̱ki’ 'my father'
+a̱-ki’
+1sIII-father
+amofi’ 'my dog'
+am-ofi’
+1sIII-dog
+Although systems of this type are generally described with the terms alienable and inalienable, this terminology is not particularly appropriate for Choctaw, since alienability implies a semantic distinction between types of nouns. The morphological distinction between nouns taking II agreement and III agreement in Choctaw only partly coincides with the semantic notion of alienability.
+Choctaw nouns can be followed by various determiner and case-marking suffixes, as in the following examples, where we see determiners such as /-ma/ 'that', /-pa/ 'this', and /-akoo/ 'contrast' and case-markers /-(y)at/ 'nominative' and /-(y)a̱/ 'accusative':
+alla’ naknimat
+alla’ nakni-m-at
+child male-that-NOM
+'that boy (nominative)'
+Hoshiit itti chaahamako̱ o̱biniilih.
+Hoshi’-at itti’ chaaha-m-ako̱ o̱-biniili-h
+bird-NOM tree tall-that-CNTR:ACC SUPERESSIVE-sit-TNS
+'The bird is sitting on that tall tree.' (Not on the short one.)
+The last example shows that nasalizing the last vowel of the preceding N is a common way to show the accusative case.
+The simplest sentences in Choctaw consist of a verb and a tense marker, as in the following examples:
+o̱batok.
+o̱ba-tok
+rain-PT
+'It rained.'
+Niyah.
+niya-h
+fat-TNS
+'She/he/it is fat, they are fat.'
+Pí̱satok.
+pí̱sa-tok
+see〈NGR〉-PT
+'She/he/it/they saw her/him/it/them.'
+As these examples show, there are no obligatory noun phrases in a Choctaw sentence, nor is there any verbal agreement that indicates a third person subject or object. There is no indication of grammatical gender, and for third person arguments there is no indication of number. (There are, however, some verbs with suppletive forms that indicate the number of a subject or object, e.g. iyah 'to go (sg.)', ittiyaachih 'to go (du.)', and ilhkolih 'to go (pl)'.)
+When there is an overt subject, it is obligatorily marked with the nominative case /-at/. Subjects precede the verb
+Hoshiyat apatok.
+hoshi'-at apa-tok
+bird-NOM eat-PT
+'The birds ate them.'
+When there is an overt object, it is optionally marked with the accusative case /-a̱/
+Hoshiyat sho̱shi(-ya̱) apatok.
+hoshi'-at sho̱shi'(-a̱) apa-tok.
+bird-NOM bug-(ACC) eat-PT
+'The birds ate the bugs.'
+The Choctaw sentence is normally verb-final, and so the head of the sentence is last.
+Some other phrases in Choctaw also have their head at the end. Possessors precede the possessed noun in the Noun Phrase:
+ofi' hohchifo'
+dog name
+'the dog's name'
+Choctaw has postpositional phrases with the postposition after its object:
+tamaaha' bili̱ka
+town near
+'near a town'
+Some common Choctaw phrases (written in the "Modern" orthography):
+Choctaw: Chahta
+hi: Halito!
+See you later!: Chi pisa la chike!
+number: holhtina/holhtini
+Thank you: Yakoke
+What is your name?: Chi hohchifo yat nanta?
+My name is...: Sa hohchifo yat...
+yes: a̱
+no: kíyo
+okay: ohmi
+I don't understand.: Ak akostiníncho.
+I don't know.: Ak ikháno.
+Do you speak Choctaw?: Chahta imanompa ish anompola hinla ho̱?
+What is that?: Yammat nanta?
+Other Choctaw words:
+Cherokee: Chalaki
+Chickasaw: Chickashsha
+Seminole: Siminóli
+Creek/Muskogee: Maskóki
+today: himak nittak
+tonight: himak ninak
+tomorrow: onnakma
+yesterday: piláshásh
+month: hashi
+year/2009: affami/talhípa sippokni toklo akochcha chakkali
+house: chokka
+school: holisso ápisa
+cat: katos
+dog: ofi
+cow: wák
+horse: issoba/soba
+Counting to twenty:
+one: achoffa
+two: toklo
+three: tochchína
+four: oshta
+five: talhlhapi
+six: hannali
+seven: o̱toklo
+eight: o̱tochchina
+nine: chakkali
+ten: pokkoli
+eleven: awahachoffa
+twelve: awahtoklo
+thirteen: awahtochchina
+fourteen: awahoshta
+fifteen: awahtalhlhapi
+sixteen: awahhannali
+seventeen: awaho̱toklo
+eighteen: awahuntochchina
+nineteen: abichakkali
+twenty: pokkoli toklo
+At " Native Nashville " web [1], there is an Online Choctaw Language Tutor, with Pronunciation Guide and four lessons: Small Talk, Animals, Food and Numbers.
+Choctaw Code Talkers

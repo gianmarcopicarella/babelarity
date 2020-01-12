@@ -1,0 +1,13 @@
+The bilabial trill is a type of consonantal sound, used in some spoken languages. The symbol in the International Phonetic Alphabet that represents this sound is 〈ʙ〉, and the equivalent X-SAMPA symbol is B\.
+In many of the languages where the bilabial trill occurs, it only occurs as part of a prenasalized bilabial stop with trilled release, [mbʙ]. This developed historically from a prenasalized stop before a relatively high back vowel, such as [mbu]. In such instances, these sounds are usually still limited to the environment of a following [u]. However, the trills in Mangbetu may precede any vowel and are only sometimes preceded by a nasal.
+A few languages, such as Mangbetu of Congo and Ninde of Vanuatu, have both a voiced and a voiceless bilabial trill.
+There is also a very rare voiceless alveolar bilabially trilled affricate, [t̪͡ʙ̥] (written 〈tᵖ̃〉 in Everett & Kern) reported from Pirahã and from a few words in the Chapacuran languages Wari’ and Oro Win. The sound also appears as an allophone of the labialized voiceless alveolar stop /tʷ/ of Abkhaz and Ubykh, but in those languages it is more often realised by a doubly articulated stop [t͡p]. In the Chapacuran languages, [tʙ̥] is reported almost exclusively before rounded vowels such as [o] and [y].
+Features of the bilabial trill:
+Its manner of articulation is trill, which means it is produced by directing air over the articulator so that it vibrates. In most instances, it is only found as the trilled release of a prenasalized stop.
+Its place of articulation is bilabial, which means it is articulated with both lips.
+Its phonation is voiced, which means the vocal cords vibrate during the articulation.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+Because the sound is not produced with airflow over the tongue, the central–lateral dichotomy does not apply.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
+The Knorkator song "[Buchstabe]" (the actual title is a glyph) on the 1999 album Hasenchartbreaker uses a similar sound to replace "br" in a number of German words (e.g. [ˈʙaːtkaʁtɔfəln] for Bratkartoffeln).
+Index of phonetics articles

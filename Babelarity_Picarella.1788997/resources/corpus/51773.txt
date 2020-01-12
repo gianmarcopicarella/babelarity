@@ -1,0 +1,15 @@
+Notepad2 is a free and open-source text editor for Microsoft Windows, released under a BSD software license. It was written by Florian Balmer using the Scintilla editor component, and it was first publicly released in April 2004. Balmer based Notepad2 on the principles of Notepad: small, fast, and usable.
+It features syntax highlighting for many programming languages: ASP, assembly language, C, C++, C#, Common Gateway Interface (CGI), Cascading Style Sheets (CSS), HTML, Java, JavaScript, NSIS, Pascal, Perl, PHP, Python, SQL, Visual Basic (VB), VBScript, XHTML, and XML. It also features syntax highlighting for the following file formats: BAT, DIFF, INF, INI, REG, and configuration files (.properties).
+Notepad2 also has several other features:
+Auto indentation
+Bracket matching
+Character encoding conversion between ASCII, UTF-8, and UTF-16 formats
+Multiple undo/redo; rectangular block selection
+Newline format conversion, between DOS (CR/LF), Unix (LF), and Macintosh (CR) formats
+Regular expression-based find and replace
+Balmer has stated that some features will probably never be implemented in Notepad2, as they are beyond his design goal of a simple Notepad-like application. These include Notepad2's most requested feature, a multiple document interface. Other missing features such as code folding, file associations and bookmarks are available through modifications, linked from the homepage. Starting with version 4.2.25-rc6, an x64 build is also offered.
+Notepad2 is affected by the Bush hid the facts bug.
+Scintilla (software)
+Notepad++
+List of text editors
+Comparison of text editors

@@ -1,0 +1,19 @@
+Sir Vaughan Frederick Randal Jones KNZM FRS FRSNZ FAA (born 31 December 1952) is a New Zealand mathematician, known for his work on von Neumann algebras and knot polynomials. He was awarded a Fields Medal in 1990, and famously wore a New Zealand rugby jersey when he gave his acceptance speech in Kyoto.
+Vaughan Jones was born in Gisborne, New Zealand and brought up in Cambridge, New Zealand, completing secondary school at Auckland Grammar School. His undergraduate studies were at the University of Auckland, from where he obtained a BSc in 1972 and an MSc in 1973. For his graduate studies, he went to Switzerland, where he completed his PhD at the University of Geneva in 1979. His thesis, titled Actions of finite groups on the hyperfinite II1 factor, was written under the supervision of André Haefliger. In 1980, he moved to the United States, where he taught at the University of California, Los Angeles (1980–1981) and the University of Pennsylvania (1981–1985), before being appointed as Professor of Mathematics at the University of California, Berkeley.
+His work on knot polynomials, with the discovery of what is now called the Jones polynomial, was from an unexpected direction with origins in the theory of von Neumann algebras, an area of analysis already much developed by Alain Connes. It led to the solution of a number of classical problems of knot theory, and to increased interest in low-dimensional topology.
+Jones has since 2011 been at Vanderbilt University as Stevenson Distinguished Professor of mathematics. He remains Professor Emeritus at University of California, Berkeley where he has been on the faculty since 1985 and is a Distinguished Alumni Professor at the University of Auckland.
+He was made an honorary vice-president for life of the International Guild of Knot Tyers in 1992.
+1990 – awarded the Fields Medal.
+1990 – elected Fellow of the Royal Society.
+1991 – awarded the Rutherford Medal by the Royal Society of New Zealand.
+1992 – elected to the Australian Academy of Science as a Corresponding Fellow.
+1992 - awarded a Miller Professorship at the University of California Berkeley.
+2002 – appointed Distinguished Companion of The New Zealand Order of Merit in the Queen's Birthday Honours 2002, for services to mathematics.
+2009 – in the Special Honours 2009, redesignated his DCNZM to a Knight Companion of The New Zealand Order of Merit.
+2012 – became a Fellow of the American Mathematical Society.
+Actions of finite groups on the hyperfinite type II1 factor. Memoirs of the AMS. 1980. 
+with Frederick M. Goodman and Pierre de la Harpe: Coxeter graphs and towers of algebras. Springer-Verlag. 1989. 
+Subfactors and knots. AMS. 1991. 
+with V. S. Sunder: Introduction to subfactors. Cambridge University Press. 1997. 
+Subfactor
+Jones polynomial

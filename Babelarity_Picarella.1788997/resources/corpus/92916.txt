@@ -1,0 +1,32 @@
+Captorhinidae (also known as cotylosaurs, root reptiles or stem reptiles) is one of the earliest and most basal reptile families, all members of which are thought to be extinct.
+Captorhinids are a clade of small to very large lizard-like reptiles that date from the late Carboniferous through the Permian. Their skulls were much stronger than those of their relatives, the Protorothyrididae, and had teeth that were better able to deal with tough plant material. The postcranial skeleton is very similar to that of advanced reptiliomorph amphibians, so much in fact that the amphibian Seymouriamorpha and Diadectomorpha were thought to be reptiles and grouped together in "Cotylosauria" as the first reptiles in the early 20th century. Captorhinids have broad, robust skulls that are generally triangular in shape when seen in dorsal view. The premaxillae are characteristically downturned. Early, smaller forms possessed single rows of teeth, while larger, more derived forms such as Captorhinus and the herbivorousMoradisaurus which could reach an estimated snout-vent length of 2 meters (6.5 feet), possessed multiple rows of teeth.
+Until recently, Concordia cunninghami was thought to be the basalmost known member of Captorhinidae. A novel phylogenic study of primitive reptile relationships by Muller & Reisz in 2006 recovered Thuringothyris as a sister taxon of the Captorhinidae. The same results were obtained in later phylogenic analyses. Concordia is still the earliest known captorhinid as all other captorhinid taxa are known only from Permian deposits.
+Captorhinidae contains a single subfamily, the Moradisaurinae. Moradisaurinae was named and assigned to the family Captorhinidae by A. D. Ricqlès and P. Taquet in 1982. Moradisaurinae was defined as "all captorhinids more closely related to Moradisaurus than to Captorhinus". The moradisaurines inhabited what is now China, Morocco, Niger, Russia, Texas and Oklahoma. The moradisaurines were insectivores/herbivores, meaning that they only ate insects and plant life.
+Captorhinids were once thought to be the ancestors of turtles. The Middle Permian reptile Eunotosaurus from South Africa was seen as the "missing link" between cotylosaurs and Chelonia throughout much of the early 20th century. However, more recent fossil finds have shown that Eunotosaurus is a parareptile unrelated to either turtles or captorhinids.
+The following taxonomy follows Reisz et al., 2011 and Sumida et al., 2010 unless otherwise noted.
+Family Captorhinidae
+Captorhinoides?
+Eocaptorhinus?
+Acrodenta
+Baeotherates
+Captorhinus
+Concordia
+Protocaptorhinus
+Reiszorhinus
+Rhiodenticulatus
+Romeria
+Saurorictus
+Subfamily Moradisaurinae
+Gecatogomphius
+Kahneria
+Captorhinikos
+Labidosaurus
+Labidosaurikos
+Moradisaurus
+Rothianiscus
+Gansurhinus
+Dubious Captorhinids
+Puercosaurus
+Riabininus
+The cladogram below was recovered in a study by Sumida et al., 2010.
+The cladogram below follows the topology from a 2011 analysis by paleontologists Robert R. Reisz, Jun Liu, Jin-Ling Li and Johannes Müller.

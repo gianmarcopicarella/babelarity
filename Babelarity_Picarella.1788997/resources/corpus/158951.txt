@@ -1,0 +1,58 @@
+Boundary delimitation (or simply delimitation) is the drawing of boundaries, particularly of electoral precincts, states, counties or other municipalities. In the context of elections, it can be called redistribution and is used to prevent unbalance of population across districts. Unbalanced or discriminatory delimitation is called "gerrymandering." Though there are no internationally agreed processes that guarantee fair delimitation, several organizations, such as the Commonwealth Secretariat, the European Union and the International Foundation for Electoral Systems have proposed guidelines for effective delimitation.
+In international law, the related national delimitation is the process of legally establishing the outer limits ("borders") of a state within which full territorial or functional sovereignty is exercised. Occasionally this is used when referring to the maritime boundaries as well, in this case called maritime delimitation.
+Countries delimit electoral districts in different ways. Sometimes these are drawn based on traditional boundaries, sometimes based on the physical characteristics of the region and, often, the lines are drawn based on the social, political and cultural contexts of the area. This may need to be done in any form of electoral system even though it is primarily done for plurality or majority electoral system.
+These processes of boundary delimitation can have a variety of legal justifications. Often, because of the powerful effects this process can have on constituencies, the legal framework for delimitation is specified in the constitution of a country. The Institute for Democracy and Electoral Assistance (IDEA) recommends the following pieces of information be included in this legal framework:
+The frequency of such determination;
+The criteria for such determination;
+The degree of public participation in the process;
+The respective roles of the legislature, judiciary and executive in the process;and
+The ultimate authority for the final determination of the electoral units.
+Delimitation is regularly used in the United States and Commonwealth countries. This is called redistricting or redistribution respectively. In these countries non-partisan commissions draw new districts based on the distribution of population according to a census.
+A number of international organizations including the Organization for Security and Co-operation in Europe, the European Commission for Democracy Through Law (the Venice Commission), the Commonwealth Secretariat, and the Electoral Institute of Southern Africa (EISA) have established standards which their members are encouraged to prescribe to. Among these standards the International Foundation for Electoral Systems (IFES) lists the most common as being Impartiality, Equality, Representativeness, Non-Discrimination and Transparency.
+As part of its report, European Commission for Democracy Through Law: Code of Good Practice in Electoral Matters, Guidelines and Explanatory Reports adopted October 2002, the Venice Commission proposed the following guidelines:
+2.2 Equal voting power: seats must be evenly distributed between the constituencies.
+i. This must at least apply to elections to lower houses of parliament and regional and local elections:
+ii. It entails a clear and balanced distribution of seats among constituencies on the basis of one of the following allocation criteria: population, number of resident nationals (including minors), number of registered voters, and possibly the number of people actually voting. An appropriate combination of these criteria may be envisaged.
+iii. The geographical criterion and administrative, or possibly even historical,boundaries may be taken into consideration.
+iv. The permissible departure from the norm should not be more than 10%, and should certainly not exceed 15% except in special circumstances (protection of a concentrated minority, sparsely populated administrative entity).
+v. In order to guarantee equal voting power, the distribution of seats must be reviewed at least every ten years, preferably outside election periods.
+vi. With multimember constituencies, seats should preferably be redistributed without redefining constituency boundaries, which should, where possible, coincide with administrative boundaries.
+vii. When constituency boundaries are redefined—which they must be in a single-member system—it must be done:
+- impartially;
+- without detriment to national minorities;
+- taking account of the opinion of a committee, the majority of whose members are independent; this committee should preferably include a geographer, a sociologist, and a balanced representation of the parties and, if necessary, representatives of national minorities.
+In the publication Good Commonwealth Electoral Practices: A Working Document, June 1997, the Commonwealth Secretariat identifies the following practices as necessary for proper delimitation:
+20. The delimitation of constituency boundaries is a function occasionally performed by an election commission or otherwise by an independent boundaries commission, and in some cases after a population census.
+21. General principles guiding the drawing of constituency boundaries include community of interest, convenience, natural boundaries, existing administrative boundaries and population distribution, including minority groups. There should be no scope for any “gerrymandering”, and each vote should, to the extent possible, be afforded equal value or weight, in recognition of the democratic principle that all those of voting age participate equally in the ballot.
+22. It is important that the general public play a part in the whole process and that the political parties also have an opportunity to respond to proposals before they are finalized. Where the size of a particular constituency is markedly out of line with the target “quota” of voters per seat, the reasons should be capable of being readily understood by both the parties and the general public.
+In her study sponsored by the International Foundation for Electoral Systems, Dr. Lisa Handley recommends the following considerations:
+population density
+ease of transportation and communication
+geographic features
+existing patterns of human settlement
+financial viability and administrative capacity of electoral area
+financial and administrative consequences of boundary determination
+existing boundaries
+community of interest
+Also, she suggests that the process should:
+be managed by an independent and impartial body that is representative of society, comprising persons with the appropriate skills;
+be conducted on the basis of clearly identified criteria such as population, distribution, community of interest, convenience, geographical features and other natural or administrative boundaries;
+be made accessible to the public through a consultation process;
+be devoid of manipulation of electoral boundaries to favour political groups or political interests;
+be conducted by one body;
+include all spheres of government, both national and local.
+The negotiations surrounding the modification of a states borders is called National delimitation. This event often takes place as part of the negotiations seeking to end a conflict over resource control, popular loyalties, or political interests.
+The term Maritime delimitation is a form of national delimitation that can be applied to the disputes between nations over maritime claims. An example is found at Maritime Boundary Delimitation in the Gulf of Tonkin. In international politics, the Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat is responsible for the collection of all claims to territorial waters.
+For further examples of legislative delimitation:
+Delimitation Commission of India
+Gerrymandering
+Majority-minority districts
+Redistricting
+For further elaboration of this concept of national delimitation see:
+National delimitation in the Soviet Union on the creation of territorial units based on ethnicity in the USSR;
+Nation-building on the processes of creating or strengthening national identity within national territorial limits.
+Sugauli Treaty
+For further examples of the concept maritime delimitation:
+Maritime delimitation between Romania and Ukraine
+Georges Bank
+List of maritime boundary treaties

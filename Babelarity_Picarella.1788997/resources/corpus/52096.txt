@@ -1,0 +1,33 @@
+A .htaccess (hypertext access) file is a directory-level configuration file supported by several web servers, used for configuration of site-access issues, such as URL redirection, URL shortening, Access-security control (for different webpages and files), and more.
+A site could have more than one .htaccess file, and the files are placed inside the web tree (i.e. inside directories and their sub-directories), and hence their other name distributed configuration files.
+.htaccess files acts as a subset of the server's global configuration file (like httpd.conf) for the directory that they are in, or all sub-directories.
+The original purpose of .htaccess—reflected in its name—was to allow per-directory access control by, for example, requiring a password to access the content. More commonly, however, the .htaccess files define or override many other configuration settings such as content type, character set, CGI handlers, etc.
+The 'dot' (period or full stop) before the file name makes it a hidden file in Unix based environments.
+.htaccess files are not written in a conventional programming language but rather in the Directives syntax, which is a specific syntax that uses for writing several server configuration files, including this one.
+For historical reasons, the format of .htaccess is a limited subset of the Apache HTTP server's global configuration file httpd.conf  even when used with web servers such as Oracle iPlanet Web Server and Zeus Web Server which have very different native global configuration files.
+Authorization, authentication
+A .htaccess file is often used to specify security restrictions for a directory, hence the filename "access". The .htaccess file is often accompanied by a .htpasswd file which stores valid usernames and their passwords.
+URL rewriting
+Servers often use .htaccess for rewriting long, overly comprehensive URLs to shorter and more memorable ones.
+Blocking
+Use allow/deny to block users by IP address or domain. Also, use to block bad bots, rippers and referrers. Often used to restrict access by web crawlers
+SSI
+Enable server-side includes.
+Directory listing
+Control how the server will react when no specific web page is specified.
+Customized error responses
+Changing the page that is shown when a server-side error occurs, for example HTTP 404 Not Found or, to indicate to a search engine that a page has moved, HTTP 301 Moved Permanently.
+MIME types
+Instruct the server how to treat different varying file types.
+Cache Control
+.htaccess files allow a server to control caching by web browsers and proxies to reduce bandwidth usage, server load, and perceived lag.
+Immediate changes
+Because .htaccess files are read on every request, changes made in these files take immediate effect – as opposed to the main configuration file which requires the server to be restarted for the new settings to take effect.
+Non-privileged users
+For servers with multiple users, it is often desirable to allow individual users the ability to alter their site configuration. The use of .htaccess files allows such individualization, and by unprivileged users – because the main server configuration files do not need to be changed.
+Controlling Apache using the main server configuration file httpd.conf is often preferred for security and performance reasons:
+Performance loss
+For each HTTP request, there are additional file-system accesses for parent directories when using .htaccess, to check for possibly existing .htaccess files in those parent directories which are allowed to hold .htaccess files. It is possible to programatically migrate directives from .htaccess to httpd.conf if this performance loss is a concern.
+Security
+Allowing individual users to modify the configuration of a server can cause security concerns if not set up properly.
+Semantic URL

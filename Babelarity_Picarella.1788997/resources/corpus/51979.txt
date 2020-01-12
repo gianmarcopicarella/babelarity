@@ -1,0 +1,16 @@
+DAEMON Tools is a virtual drive and optical disc authoring program for Microsoft Windows and Mac OS.
+DAEMON tools was originally a successor of Generic SafeDisc emulator and incorporated all of its features. The program claims to be able to defeat most copy protection schemes such as SafeDisc and SecuROM. It is currently compatible with Windows XP, Windows Vista, Windows 7, Windows 8, and Windows 10. DAEMON Tools has a special mode for proper operation of copies of discs with advanced protection (SafeDisc, SecuRom and LaserLock, CDCOPS, StarForce and Protect CD), which are used on some discs with games.
+Six editions of the product exist: Ultra, Lite, Pro Standard, Pro Advanced, Net and DT for Mac. A feature comparison is given below. Also, company provides two additional solutions for the data storage organization: DAEMON Tools USB 2 that allows sharing different types of USB devices between remote workstations and DAEMON Tools iSCSI Target 2 - a cross-platform solution that enables creating an iSCSI storage server and provides access to virtual or physical devices, along with VHD images, within home or corporate network.
+Notes
+A. ^ Free for non-commercial use without technical support. Technical support and the right to use commercially may be purchased.
+B. ^ In Korea, Freemium license is not available since ver. 4.45.1.
+C. ^ Applies on to .mds and .mdx images.
+D. ^ Supported output formats include .iso, .mds/.mdf and .mdx
+E. ^ The ability to split an image files into multiple files of fxed maximum sizes. Not supported by DAEMON Tools Lite, as of 22 February 2012.
+F. ^ The ability to mount an image into a folder on an NTFS drive
+The default file format of DAEMON Tools is Media Data eXtended (MDX). MDX is a disc image file format similar to MDS/MDF images. It supports all of MDS/MDF format features except that all data is in one monolithic file only. The files of these types bear the filename extension of .mdx.
+MDX file contains metadata of original media - specifically the main physical parameters of disc, such as layer breaks, sessions, tracks and other. It could be described as being an archive file containing all data from a CD/DVD. It also supports data compression. MDX file includes the magic number "MEDIA DESCRIPTOR" at the beginning of the file.
+On 13 February 2012, one of DAEMON Tools components known as MountSpace became a subject of privacy concerns. MountSpace, a service-oriented component gathers and sends information about disc images used in DAEMON Tools to mountspace.com along with users' IP addresses. Although MountSpace can be disabled during installation, it is criticized for transmitting information despite being disabled and lacking a privacy policy. The initial discovery of the concerning issue is attributed to one Rafael Rivera of Within Windows blog.
+YASU (Yet Another SecuROM Utility) is a very small tool that works as a SCSI-drive protector. It was created by sYk0 and can be used to hide emulated drives from SecuROM 7 and SafeDisc 4. YASU is a companion program for Daemon Tools and currently being hosted, supported and maintained by the Daemon Tools team. On March 4 of 2009, sYk0 announced development of Omen which is to succeed development of YASU. As of January 2010, development of Omen has been abandoned.
+Comparison of disc image software
+SCSI Pass-Through Direct (SPTD)

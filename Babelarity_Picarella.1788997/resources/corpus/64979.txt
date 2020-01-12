@@ -1,0 +1,344 @@
+In mathematics a topological space is called separable if it contains a countable, dense subset; that is, there exists a sequence 
+        {
+          x
+            n
+          }
+            n
+            =
+            1
+            ∞
+    {\displaystyle \{x_{n}\}_{n=1}^{\infty }}
+   of elements of the space such that every nonempty open subset of the space contains at least one element of the sequence.
+Like the other axioms of countability, separability is a "limitation on size", not necessarily in terms of cardinality (though, in the presence of the Hausdorff axiom, this does turn out to be the case; see below) but in a more subtle topological sense. In particular, every continuous function on a separable space whose image is a subset of a Hausdorff space is determined by its values on the countable dense subset.
+Contrast separability with the related notion of second countability, which is in general stronger but equivalent on the class of metrizable spaces.
+Any topological space which is itself finite or countably infinite is separable, for the whole space is a countable dense subset of itself. An important example of an uncountable separable space is the real line, in which the rational numbers form a countable dense subset. Similarly the set of all vectors 
+        (
+          r
+            1
+        ,
+        …
+        ,
+          r
+            n
+        )
+        ∈
+            R
+            n
+    {\displaystyle (r_{1},\ldots ,r_{n})\in \mathbb {R} ^{n}}
+   in which 
+          r
+            i
+    {\displaystyle r_{i}}
+   is rational for all i is a countable dense subset of 
+            R
+            n
+    {\displaystyle \mathbb {R} ^{n}}
+  ; so for every 
+        n
+    {\displaystyle n}
+   the 
+        n
+    {\displaystyle n}
+  -dimensional Euclidean space is separable.
+A simple example of a space which is not separable is a discrete space of uncountable cardinality.
+Further examples are given below.
+Any second-countable space is separable: if 
+          {
+            U
+              n
+          }
+    {\displaystyle \scriptstyle \{U_{n}\}}
+   is a countable base, choosing any 
+            x
+              n
+          ∈
+            U
+              n
+    {\displaystyle \scriptstyle x_{n}\in U_{n}}
+   from the non-empty 
+            U
+              n
+    {\displaystyle \scriptstyle U_{n}}
+   gives a countable dense subset. Conversely, a metrizable space is separable if and only if it is second countable, which is the case if and only if it is Lindelöf.
+To further compare these two properties:
+An arbitrary subspace of a second countable space is second countable; subspaces of separable spaces need not be separable (see below).
+Any continuous image of a separable space is separable (Willard 1970, Th. 16.4a).; even a quotient of a second countable space need not be second countable.
+A product of at most countably many separable spaces is separable. A countable product of second countable spaces is second countable, but an uncountable product of second countable spaces need not even be first countable.
+The property of separability does not in and of itself give any limitations on the cardinality of a topological space: any set endowed with the trivial topology is separable, as well as second countable, quasi-compact, and connected. The "trouble" with the trivial topology is its poor separation properties: its Kolmogorov quotient is the one-point space.
+A first countable, separable Hausdorff space (in particular, a separable metric space) has at most the continuum cardinality 
+            c
+    {\displaystyle {\mathfrak {c}}}
+  . In such a space, closure is determined by limits of sequences and any convergent sequence has at most one limit, so there is a surjective map from the set of convergent sequences with values in the countable dense subset to the points of 
+        X
+    {\displaystyle X}
+  .
+A separable Hausdorff space has cardinality at most 
+          2
+              c
+    {\displaystyle 2^{\mathfrak {c}}}
+  , where 
+            c
+    {\displaystyle {\mathfrak {c}}}
+   is the cardinality of the continuum. For this closure is characterized in terms of limits of filter bases: if 
+        Y
+        ⊆
+        X
+    {\displaystyle Y\subseteq X}
+   and 
+        z
+        ∈
+        X
+    {\displaystyle z\in X}
+  , then 
+        z
+        ∈
+            Y
+            ¯
+    {\displaystyle z\in {\overline {Y}}}
+   if and only if there exists a filter base 
+            B
+    {\displaystyle {\mathcal {B}}}
+   consisting of subsets of 
+        Y
+    {\displaystyle Y}
+   which converges to 
+        z
+    {\displaystyle z}
+  . The cardinality of the set 
+        S
+        (
+        Y
+        )
+    {\displaystyle S(Y)}
+   of such filter bases is at most 
+          2
+              2
+                  |
+                Y
+                  |
+    {\displaystyle 2^{2^{|Y|}}}
+  . Moreover, in a Hausdorff space, there is at most one limit to every filter base. Therefore, there is a surjection 
+        S
+        (
+        Y
+        )
+        →
+        X
+    {\displaystyle S(Y)\rightarrow X}
+   when 
+            Y
+            ¯
+        =
+        X
+        .
+    {\displaystyle {\overline {Y}}=X.}
+The same arguments establish a more general result: suppose that a Hausdorff topological space 
+        X
+    {\displaystyle X}
+   contains a dense subset of cardinality 
+        κ
+    {\displaystyle \kappa }
+  . Then 
+        X
+    {\displaystyle X}
+   has cardinality at most 
+          2
+              2
+                κ
+    {\displaystyle 2^{2^{\kappa }}}
+   and cardinality at most 
+          2
+            κ
+    {\displaystyle 2^{\kappa }}
+   if it is first countable.
+The product of at most continuum many separable spaces is a separable space (Willard 1970, p. 109, Th 16.4c). In particular the space 
+            R
+              R
+    {\displaystyle \mathbb {R} ^{\mathbb {R} }}
+   of all functions from the real line to itself, endowed with the product topology, is a separable Hausdorff space of cardinality 
+          2
+              c
+    {\displaystyle 2^{\mathfrak {c}}}
+  . More generally, if 
+        κ
+    {\displaystyle \kappa }
+   is any infinite cardinal, then a product of at most 
+          2
+            κ
+    {\displaystyle 2^{\kappa }}
+   spaces with dense subsets of size at most 
+        κ
+    {\displaystyle \kappa }
+   has itself a dense subset of size at most 
+        κ
+    {\displaystyle \kappa }
+   (Hewitt–Marczewski–Pondiczery theorem).
+Separability is especially important in numerical analysis and constructive mathematics, since many theorems that can be proved for nonseparable spaces have constructive proofs only for separable spaces. Such constructive proofs can be turned into algorithms for use in numerical analysis, and they are the only sorts of proofs acceptable in constructive analysis. A famous example of a theorem of this sort is the Hahn–Banach theorem.
+Every compact metric space (or metrizable space) is separable.
+Any topological space which is the union of a countable number of separable subspaces is separable. Together, these first two examples give a different proof that 
+        n
+    {\displaystyle n}
+  -dimensional Euclidean space is separable.
+The space 
+        C
+        (
+        K
+        )
+    {\displaystyle C(K)}
+   of all continuous functions from a compact subset 
+        K
+        ⊆
+          R
+    {\displaystyle K\subseteq \mathbb {R} }
+   to the real line 
+          R
+    {\displaystyle \mathbb {R} }
+   is separable.
+The Lebesgue spaces 
+          L
+            p
+          (
+          X
+          ,
+          μ
+          )
+    {\displaystyle L^{p}\left(X,\mu \right)}
+  , over a separable measure space 
+          ⟨
+          X
+          ,
+              M
+          ,
+          μ
+          ⟩
+    {\displaystyle \left\langle X,{\mathcal {M}},\mu \right\rangle }
+  , are separable for any 
+        1
+        ≤
+        p
+        <
+        ∞
+    {\displaystyle 1\leq p<\infty }
+  .
+The space 
+        C
+        (
+        [
+        0
+        ,
+        1
+        ]
+        )
+    {\displaystyle C([0,1])}
+   of continuous real-valued functions on the unit interval 
+        [
+        0
+        ,
+        1
+        ]
+    {\displaystyle [0,1]}
+   with the metric of uniform convergence is a separable space, since it follows from the Weierstrass approximation theorem that the set 
+          Q
+        [
+        x
+        ]
+    {\displaystyle \mathbb {Q} [x]}
+   of polynomials in one variable with rational coefficients is a countable dense subset of 
+        C
+        (
+        [
+        0
+        ,
+        1
+        ]
+        )
+    {\displaystyle C([0,1])}
+  . The Banach-Mazur theorem asserts that any separable Banach space is isometrically isomorphic to a closed linear subspace of 
+        C
+        (
+        [
+        0
+        ,
+        1
+        ]
+        )
+    {\displaystyle C([0,1])}
+  .
+A Hilbert space is separable if and only if it has a countable orthonormal basis. It follows that any separable, infinite-dimensional Hilbert space is isometric to the space 
+          ℓ
+            2
+    {\displaystyle \ell ^{2}}
+   of square-summable sequences.
+An example of a separable space that is not second-countable is the Sorgenfrey line 
+          S
+    {\displaystyle \mathbb {S} }
+  , the set of real numbers equipped with the lower limit topology.
+A separable σ-algebra is a σ-algebra 
+            F
+    {\displaystyle {\mathcal {F}}}
+   that is a separable space when considered as a metric space with metric 
+        ρ
+        (
+        A
+        ,
+        B
+        )
+        =
+        μ
+        (
+        A
+        △
+        B
+        )
+    {\displaystyle \rho (A,B)=\mu (A\triangle B)}
+   for 
+        A
+        ,
+        B
+        ∈
+            F
+    {\displaystyle A,B\in {\mathcal {F}}}
+   and a given measure 
+        μ
+    {\displaystyle \mu }
+   (and with 
+        △
+    {\displaystyle \triangle }
+   being the symmetric difference operator).
+The first uncountable ordinal 
+          ω
+            1
+    {\displaystyle \omega _{1}}
+  , equipped with its natural order topology, is not separable.
+The Banach space 
+          ℓ
+            ∞
+    {\displaystyle \ell ^{\infty }}
+   of all bounded real sequences, with the supremum norm, is not separable. The same holds for 
+          L
+            ∞
+    {\displaystyle L^{\infty }}
+  .
+The Banach space of functions of bounded variation is not separable; note however that this space has very important applications in mathematics, physics and engineering.
+A subspace of a separable space need not be separable (see the Sorgenfrey plane and the Moore plane), but every open subspace of a separable space is separable, (Willard 1970, Th 16.4b). Also every subspace of a separable metric space is separable.
+In fact, every topological space is a subspace of a separable space of the same cardinality. A construction adding at most countably many points is given in (Sierpinski 1952, p. 49); if the space was a Hausdorff space then the space constructed which it embeds into is also a Hausdorff space.
+The set of all real-valued continuous functions on a separable space has a cardinality less than or equal to c. This follows since such functions are determined by their values on dense subsets.
+From the above property, one can deduce the following: If X is a separable space having an uncountable closed discrete subspace, then X cannot be normal. This shows that the Sorgenfrey plane is not normal.
+For a compact Hausdorff space X, the following are equivalent:
+(i) X is second countable.
+(ii) The space 
+            C
+        (
+        X
+        ,
+          R
+        )
+    {\displaystyle {\mathcal {C}}(X,\mathbb {R} )}
+   of continuous real-valued functions on X with the supremum norm is separable.
+(iii) X is metrizable.
+Every separable metric space is homeomorphic to a subset of the Hilbert cube. This is established in the proof of the Urysohn metrization theorem.
+Every separable metric space is isometric to a subset of the (non-separable) Banach space l∞ of all bounded real sequences with the supremum norm; this is known as the Fréchet embedding. (Heinonen 2003)
+Every separable metric space is isometric to a subset of C([0,1]), the separable Banach space of continuous functions [0,1]→R, with the supremum norm. This is due to Stefan Banach. (Heinonen 2003)
+Every separable metric space is isometric to a subset of the Urysohn universal space.
+For nonseparable spaces:
+A metric space of density equal to an infinite cardinal α is isometric to a subspace of C([0,1]α, R), the space of real continuous functions on the product of α copies of the unit interval. (Kleiber 1969)

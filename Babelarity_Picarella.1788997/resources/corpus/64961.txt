@@ -1,0 +1,61 @@
+In abstract algebra, a normal subgroup is a subgroup which is invariant under conjugation by members of the group of which it is a part. In other words, a subgroup H of a group G is normal in G if and only if gH = Hg for all g in G; i.e., the sets of left and right cosets coincide. Normal subgroups (and only normal subgroups) can be used to construct quotient groups from a given group.
+Évariste Galois was the first to realize the importance of the existence of normal subgroups.
+A subgroup, N, of a group, G, is called a normal subgroup if it is invariant under conjugation; that is, the conjugation of an element of N by an element of G is still in N:
+N ⊲ G ⇔ ∀n ∈ N, ∀g ∈ G, gng−1 ∈ N.
+For any subgroup, the following conditions are equivalent to normality. Therefore, any one of them may be taken as the definition:
+Any two elements commute regarding the normal subgroup membership relation: ∀g, h ∈ G, gh ∈ N ⇔ hg ∈ N.
+The image of conjugation of N by any element of G is a subset of N: ∀g ∈ G, gNg−1 ⊆ N.
+The image of conjugation of N by any element of G is N: ∀g ∈ G, gNg−1 = N.
+The sets of left and right cosets of N in G coincide: ∀g ∈ G, gN = Ng.
+The product of an element of the left coset of N with respect to g and an element of the left coset of N with respect to h is an element of the left coset of N with respect to gh: ∀x, y, g, h ∈ G, x ∈ Ng and y ∈ Nh ⇒ xy ∈ N(gh).
+N is a union of conjugacy classes of G: N = ⋃g∈GCl(g).
+There is some homomorphism on G for which N is the kernel: ∃φ ∈ Hom(G) ∣ ker φ = N.
+The last condition accounts for some of the importance of normal subgroups; they are a way to internally classify all homomorphisms defined on a group. For example, a non-identity finite group is simple if and only if it is isomorphic to all of its non-identity homomorphic images, a finite group is perfect if and only if it has no normal subgroups of prime index, and a group is imperfect if and only if the derived subgroup is not supplemented by any proper normal subgroup.
+The subgroup {e} consisting of just the identity element of G and G itself are always normal subgroups of G. The former is called the trivial subgroup, and if these are the only normal subgroups, then G is said to be simple.
+The center of a group is a normal subgroup.
+The commutator subgroup is a normal subgroup.
+More generally, any characteristic subgroup is normal, since conjugation is always an automorphism.
+All subgroups, N, of an abelian group, G, are normal, because gN = Ng. A group that is not abelian but for which every subgroup is normal is called a Hamiltonian group.
+The translation group in any dimension is a normal subgroup of the Euclidean group (with the orthogonal group as the quotient group); for example in 3D rotating, translating, and rotating back results in only translation; also reflecting, translating, and reflecting again results in only translation (a translation seen in a mirror looks like a translation, with a reflected translation vector). The translations by a given distance in any direction form a conjugacy class; the translation group is the union of those for all distances.
+In the Rubik's Cube group, the subgroup consisting of operations which only affect the corner pieces is normal, because no conjugate transformation can make such an operation affect an edge piece instead of a corner. By contrast, the subgroup consisting of turns of the top face only is not normal, because a conjugate transformation can move parts of the top face to the bottom and hence not all conjugates of elements of this subgroup are contained in the subgroup.
+Normality is preserved upon surjective homomorphisms, and is also preserved upon taking inverse images.
+Normality is preserved on taking direct products.
+If H is a normal subgroup of G, and K is a subgroup of G containing H, then H is a normal subgroup of K.
+A normal subgroup of a normal subgroup of a group need not be normal in the group. That is, normality is not a transitive relation. The smallest group exhibiting this phenomenon is the dihedral group of order 8. However, a characteristic subgroup of a normal subgroup is normal. Also, a normal subgroup of a central factor is normal. In particular, a normal subgroup of a direct factor is normal. A group in which normality is transitive is called a T-group.
+Every subgroup of index 2 is normal. More generally, a subgroup, H, of finite index, n, in G contains a subgroup, K, normal in G and of index dividing n! called the normal core. In particular, if p is the smallest prime dividing the order of G, then every subgroup of index, p, is normal.
+The normal subgroups of a group, G, form a lattice under subset inclusion with least element, {e} , and greatest element, G. Given two normal subgroups, N and M, in G, meet is defined as
+        N
+        ∧
+        M
+        :=
+        N
+        ∩
+        M
+    {\displaystyle N\wedge M:=N\cap M}
+and join is defined as
+        N
+        ∨
+        M
+        :=
+        N
+        M
+        =
+        {
+        n
+        m
+          |
+        n
+        ∈
+        N
+          , and 
+        m
+        ∈
+        M
+        }
+        .
+    {\displaystyle N\vee M:=NM=\{nm\,|\,n\in N{\text{, and }}m\in M\}.}
+The lattice is complete and modular.
+If N is normal subgroup, we can define a multiplication on cosets by
+(a1N)(a2N) := (a1a2)N.
+This turns the set of cosets into a group called the quotient group, G/N. There is a natural homomorphism, f: G → G/N given by f(a) = aN. The image f(N) consists only of the identity element of G/N, the coset, eN = N.
+In general, a group homomorphism, f: G → H sends subgroups of G to subgroups of H. Also, the preimage of any subgroup of H is a subgroup of G. We call the preimage of the trivial group {e} in H the kernel of the homomorphism and denote it by ker(f). As it turns out, the kernel is always normal and the image, f(G), of G is always isomorphic to G/ker(f) (the first isomorphism theorem). In fact, this correspondence is a bijection between the set of all quotient groups, G/N, of G and the set of all homomorphic images of G (up to isomorphism). It is also easy to see that the kernel of the quotient map, f: G → G/N, is N itself, so we have shown that the normal subgroups are precisely the kernels of homomorphisms with domain, G.

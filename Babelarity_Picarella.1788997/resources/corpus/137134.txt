@@ -1,0 +1,9 @@
+In biology, galvanism is the contraction of a muscle that is stimulated by an electric current. In physics and chemistry, it is the induction of electrical current from a chemical reaction, typically between two chemicals with differing electronegativities.
+The effect was named after the scientist Luigi Galvani, who investigated the effect of electricity on dissected animals in the 1780s and 1790s. When Galvani was doing some dissection work in his lab, his scalpel touched the body of a frog, and he saw the muscles in the frog's leg twitch. Galvani referred to the phenomenon as animal electricity, believing that he had discovered a distinct form of electricity. His nephew Giovanni Aldini's most famous public demonstration of the electro-stimulation technique of deceased limbs was performed on the executed criminal George Foster at Newgate in London in 1803. The Newgate Calendar describes what happened when the galvanic process was used on the body:
+On the first application of the process to the face, the jaws of the deceased criminal began to quiver, and the adjoining muscles were horribly contorted, and one eye was actually opened. In the subsequent part of the process the right hand was raised and clenched, and the legs and thighs were set in motion.
+The modern study of galvanic effects in biology is called electrophysiology, the term galvanism being used only in historical contexts. The term is also used to describe the bringing to life of organisms using electricity, as popularly associated with, but only explicitly stated in the 1831 revised edition of, Mary Shelley's work Frankenstein, and people still speak of being "galvanized into action".
+Bioelectromagnetics
+Electrotherapy
+Electrotherapy (cosmetic)
+Frankenstein
+Hallerian physiology, for a counter-theory to Galvanism

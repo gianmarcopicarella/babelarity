@@ -1,0 +1,5 @@
+Zhje or Zhe with descender (Җ җ; italics: Җ җ) is a letter of the Cyrillic script. Its form is derived from the Cyrillic letter Zhe (Ж ж Ж ж).
+Zhje is used in the alphabets of the Dungan, Kalmyk, Tatar and Turkmen languages.
+Zhje corresponds to the digraphs 〈дж〉 or 〈чж〉 used in other Cyrillic alphabets, or to the letters Che with descender (Ҷ ҷ), Che with vertical stroke (Ҹ ҹ), Dzhe (Џ џ), Khakassian Che (Ӌ ӌ), Zhe with breve (Ӂ ӂ), or Zhe with diaeresis (Ӝ ӝ).
+The letter can potentially be used in Bulgarian to represent /ʒd/, or act as a voiced version of Щ (that represents /ʃt/ as opposed to /ɕɕ/ or /ʃt͡ʃ/ in Bulgarian), replacing the digraph 〈жд〉. An example is the Bulgarian word for birth: раждане (razhdane) would become раҗане.
+Cyrillic characters in Unicode

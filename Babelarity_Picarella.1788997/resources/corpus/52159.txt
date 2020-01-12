@@ -1,0 +1,10 @@
+Netvibes is a company.
+Common uses:
+Brand Monitoring – to track clients, customers and competitors across media sources all in one place, analyze live results with 3rd party reporting tools, and provide media monitoring dashboards for brand clients.
+E-Reputation Management – to visualize real-time conversations and social activity feeds, and track new trending topics.
+Product Marketing – to create interactive product microsites, with drag-and-drop publishing interface.
+Community Portals – to engage online communities
+Personalized Workspaces – to gather all essential company updates to support specific divisions (e.g. sales, marketing, HR) and localizations.
+The software is a multi-lingual Ajax-based start page or web portal. It is organized into tabs, with each tab containing user-defined modules. Built-in Netvibes modules include an RSS/Atom feed reader, local weather forecasts, a calendar supporting iCal, bookmarks, notes, to-do lists, multiple searches, support for POP3, IMAP4 email as well as several webmail providers including Gmail, Yahoo! Mail, Hotmail, and AOL Mail, Box.net web storage, Delicious, Meebo, Flickr photos, podcast support with a built-in audio player, and several others.
+A page can be personalized further through the use of existing themes or by creating personal theme. Customized tabs, feeds and modules can be shared with others individually or via the Netvibes Ecosystem. For privacy reasons, only modules with publicly available content can be shared.
+The company was founded by Tariq Krim and Florent Frémont in 2005. In August 2006, Netvibes closed a funding round of €12 million led by Accel Partners in London along with Index Ventures. Since May 2008, Freddy Mini is the Chief Executive Officer of Netvibes. On February 9, 2012 Dassault Systèmes announced the acquisition of Netvibes for an undisclosed amount.

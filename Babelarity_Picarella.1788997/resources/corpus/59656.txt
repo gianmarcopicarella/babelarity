@@ -1,0 +1,7 @@
+A heptose is a monosaccharide with seven carbon atoms.
+They have either an aldehyde functional group in position 1 (aldoheptoses) or a ketone functional group in position 2 (ketoheptoses).
+There are few examples of C-7 sugars in nature, among which are:
+Sedoheptulose or D-altro-heptulose (a ketose), an early intermediate in lipid A biosynthesis
+Mannoheptulose, found in avocados
+L-glycero-D-manno-heptose (an aldose), a late intermediate in lipid A biosynthesis.
+Ketoheptoses have 4 chiral centers, whereas aldoheptoses have 5.

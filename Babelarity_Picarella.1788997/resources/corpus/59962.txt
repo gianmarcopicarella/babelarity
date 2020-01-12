@@ -1,0 +1,10 @@
+Pyrazole is an organic compound with the formula C3H3N2H. It is a heterocycle characterized by a 5-membered ring of three carbon atoms and two adjacent nitrogen atoms. Pyrazole is a weak base, with pKb 11.5 (pKa of the conjugated acid 2.49 at 25 °C). Pyrazoles are also a class of compounds that have the ring C3N2 with adjacent nitrogen atoms. A notable drug containing a pyrazole ring is celecoxib (Celebrex).
+Pyrazoles are synthesized by the reaction of α,β-unsaturated aldehydes with hydrazine and subsequent dehydrogenation:
+Substituted pyrazoles are prepared by condensation of 1,3-diketones with hydrazine. For example, acetylacetone and hydrazine gives 3,5-dimethylpyrazole:
+CH3C(O)CH2C(O)CH3 + N2H4 → (CH3)2C3HN2H + 2 H2O
+The term pyrazole was given to this class of compounds by German Chemist Ludwig Knorr in 1883. In a classical method developed by German chemist Hans von Pechmann in 1898, pyrazole was synthesized from acetylene and diazomethane.
+Pyrazoles react with potassium borohydride to form a class of ligands known as scorpionate. Pyrazole itself reacts with potassium borohydride at high temperatures (~200 °C) to form a tridentate ligand known as Tp ligand:
+KBH4 + 3 C3H3N2H → KBH(C3H3N2)3 + 3 H2
+In medicine, derivatives of pyrazoles are used for their analgesic, anti-inflammatory, antipyretic, antiarrhythmic, tranquilizing, muscle relaxing, psychoanaleptic, anticonvulsant, monoamineoxidase inhibiting, antidiabetic, antifungal and antibacterial activities.
+In 1959, the first natural pyrazole, 1-pyrazolyl-alanine, was isolated from seeds of watermelons
+Imidazole is an analog of pyrazole with two non-adjacent nitrogen atoms. In isoxazole, another analog, the nitrogen atom in position 1 replaced by oxygen.

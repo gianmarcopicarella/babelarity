@@ -1,0 +1,59 @@
+The Pratt & Whitney F135 is an afterburning turbofan developed for the Lockheed Martin F-35 Lightning II single-engine strike fighter. The F135 family has several distinct variants, including a conventional, forward thrust variant and a multi-cycle STOVL variant that includes a forward lift fan. The first production engines were scheduled to be delivered in 2009.
+The origins of the F135 lie with the Lockheed Corporation Skunk Works's efforts to develop a stealthy STOVL strike fighter for the U.S. Marine Corps under a 1986 DARPA program. Lockheed employee Paul Bevilaqua developed and patented a concept aircraft and propulsion system, and then turned to Pratt & Whitney (P&W) to build a demonstrator engine. The demonstrator used the first stage fan from a F119 engine for the lift fan, the engine fan and core from the F100-220 for the core, and the larger low pressure turbine from the F100-229 for the low pressure turbine of the demonstrator engine. The larger turbine was used to provide the additional power required to operate the lift fan. Finally, a variable thrust deflecting nozzle was added to complete the "F100-229-Plus" demonstrator engine. This engine proved the lift-fan concept and led to the development of the current F135 engine.
+P&W developed the F135 from their F119 turbofan, which powers the F-22 Raptor, as the "F119-JSF". The F135 integrates the F119 core with new components optimized for the JSF. The F135 is assembled at a plant in Middletown, Connecticut. Some parts of the engine are made in Longueuil, Quebec, Canada, and in Poland.
+The first production propulsion system for operational service was scheduled for delivery in 2007. The F-35 will serve the U.S., UK, and other international customers. The initial F-35s will be powered by the F135, but the GE/Rolls-Royce team was developing the F136 turbofan as an alternate engine for the F-35 as of July 2009. Initial Pentagon planning required that after 2010, for the Lot 6 aircraft, the engine contracts will be competitively tendered. However since 2006 the Defense Department has not requested funding for the alternate F136 engine program, but Congress has maintained program funding.
+The F135 team is made up of Pratt & Whitney, Rolls-Royce and Hamilton Sundstrand. Pratt & Whitney is the prime contractor for the main engine, and systems integration. Rolls-Royce is responsible for the vertical lift system for the STOVL aircraft. Hamilton Sundstrand is responsible for the electronic engine control system, actuation system, PMAG, gearbox, and health monitoring systems. Woodward, Inc. is responsible for the fuel system.
+As of 2009, P&W was developing a more durable version of the F135 engine to increase the service life of key parts. These parts are primarily in the hot sections of the engine (combustor and high pressure turbine blades specifically) where current versions of the engine are running hotter than expected, reducing life expectancy. The test engine is designated XTE68/LF1, and testing is expected to begin in 2010. This redesign has caused “substantial cost growth.”
+P&W expects to deliver the F135 below the cost of the F119, even though it is a more powerful engine.
+In February 2013 a cracked turbine blade was found during a scheduled inspection. The crack was caused by operating for longer periods than typical at high turbine temperatures.
+The 100th engine was delivered in 2013. LRIP-6 was agreed in 2013 for $1.1 billion for 38 engines of various types, continuing the unit cost decreases.
+In 2013, a former P&W employee was caught attempting to ship "numerous boxes" of sensitive information about the F135 to Iran.
+In December 2013 the hollow first stage fan blisk failed at 77% of its expected life during a ground test. It will be replaced by a solid part adding 6 lb (2.7 kg) in weight.
+F-35 program office executive officer Air Force Lt. Gen. Christopher C. Bogdan has called out P&W for falling short on manufacturing quality of the engines and slow deliveries. His deputy director Rear Admiral Randy Mahr said that P&W stopped their cost cutting efforts after "they got the monopoly". In 2013 the price of the F135 increased by $4.3 billion.
+In July 2014 there was an uncontained failure of a fan rotor while the aircraft was preparing for take-off. The parts passed through a fuel tank and caused a fire, grounding the F-35 fleet. The failure was caused by excessive rubbing at the seal between the fan blisk and the fan stator during high-g maneuvering three weeks before the failure. The engine "flex" generated a temperature of over 1,000 °C (1,900 °F) in materials designed to fail at 540 °C (1,000 °F). Microcracks appeared in third-stage fan blades, according to program manager Christopher Bogdan, causing blades to separate from the disk; the failed blades punctured the fuel cell and hot air mixing with jet fuel caused the fire. As a short term fix, each aircraft is flown on a specific flight profile to allow the rotor seal to wear a mating groove in the stator to prevent excessive rubbing.
+In May 2014, Pratt & Whitney discovered conflicting documentation about the origin of titanium material used in some of its engines, including the F135. The company assessed that the uncertainty did not pose a risk to safety of flight but suspended engine deliveries as a result in May 2014. Bogdan supported P&W's actions and said the problem was now with A&P Alloys, the supplier. The US Defense Contract Management Agency wrote in June 2014 that Pratt & Whitney’s "continued poor management of suppliers is a primary driver for the increased potential problem notifications." A&P Alloys stated that it has not been given access to the parts to do its own testing but stood behind its product. Tracy Miner, an attorney with Boston-based Demeo LLP representing A&P Alloys said, "it is blatantly unfair to destroy A&P’s business without allowing A&P access to the materials in question".
+Pratt managed to meet their 2015 production goals, but "recurring manufacturing quality issues" in turbine blades and electronic control systems required engines to be pulled from the fleet.
+The F-135, a mixed-flow afterburning turbofan, was derived from the F-119 engine but was given a new fan and LP turbine.
+There are 3 F-135 variants with the -400 being similar to the -100, the major difference being the use of salt-corrosion resistant materials. The -600 is described below with an explanation of the engine configuration changes that take place for hovering. The engine and Rolls-Royce LiftSystem make up the Integrated Lift Fan Propulsion System (ILFPS).
+The lift for the STOVL version in the hover is obtained from a 2-stage lift fan (about 46%) in front of the engine, a vectoring exhaust nozzle (about 46%) and a nozzle in each wing using fan air from the bypass duct(about 8%). These relative contributions to the total lift are based on thrust values of 18,680lb, 18,680lb and 3,290lb respectively. Another source gives thrust values of 20,000lb, 18,000lb and 3,900lb respectively.
+In this configuration most of the bypass flow is ducted to the wing nozzles, known as roll posts. Some is used for cooling the rear exhaust nozzle, known as the 3-bearing swivel duct nozzle (3BSD). At the same time an auxiliary inlet is opened on top of the aircraft to provide additional air to the engine with low distortion during the hover.
+The lift fan is driven from the LP turbine through a shaft extension on the front of the LP rotor and a clutch. The engine is operating as a separate flow turbofan with a higher bypass ratio. The power to drive the fan (about 30,000 SHP) is obtained from the LP turbine by increasing the hot nozzle area.
+A higher bypass ratio increases the thrust for the same engine power as a fundamental consequence of transferring power from a small diameter propelling jet to a larger diameter one. The thrust augmentation for the F-135 in the hover using its higher bypass ratio is about 50% with no increase in fuel flow. Thrust augmentation in horizontal flight using the afterburner is about 52% but with a large increase in fuel flow.
+The transfer of approximately 1/3 of the power available for hot nozzle thrust to the lift fan reduces the temperature and velocity of the rear lift jet impinging on the ground.
+Improving engine reliability and ease of maintenance is a major objective for the F135. The engine has fewer parts than similar engines which should improve reliability. All line-replaceable components (LRCs) can be removed and replaced with a set of six common hand tools. The F135's health management system is designed to provide real time data to maintainers on the ground, allowing them to troubleshoot problems and prepare replacement parts before the aircraft returns to base. According to Pratt & Whitney, this data may help drastically reduce troubleshooting and replacement time, as much as 94% over legacy engines.
+The F-35 can achieve a limited 100% throttle cruise without afterburners of Mach 1.2 for 150 miles.
+Because the F135 is designed for a fifth generation jet fighter, it is the second afterburning jet engine to use special "low-observable coatings".
+Pratt and Whitney is cooperating with the US Navy on a two-block improvement plan for the F135 engine, although no service has issued a requirement for an upgraded engine. The goals are a 7-10% increase in thrust and a 5-7% lower fuel burn. Technology to better cool turbine blades is included in the plans, which would increase the longevity of the engine and substantially reduce maintenance costs. Related to the longer term Block 2 upgrade would be work with the US Air Force's Adaptive Engine Transition Program, intended to introduce technology for an engine rated at 45,000 lb of thrust, to be used in a sixth-generation fighter.
+F135-PW-100 : Used in the F-35A Conventional Take-Off and Landing variant
+F135-PW-400 : Used in the F-35C carrier variant
+F135-PW-600 : Used in the F-35B Short Take-Off Vertical Landing variant
+Lockheed Martin F-35 Lightning II
+Data from F135engine.com
+Type: afterburning turbofan
+Length: 220 in (559 cm)
+Diameter: 46 in (117 cm) max., 43 in (109 cm) at the fan inlet
+Dry weight: 3,750 lb (1,701 kg)
+Compressor: 3-stage fan, 6-stage high-pressure compressor
+Combustors: annular combustor
+Turbine: 1-stage high-pressure turbine, 1-stage low-pressure turbine
+Maximum thrust: 43,000 lbf (190 kN) max., 28,000 lbf (125 kN) intermediate
+Overall pressure ratio: 28:1 overall pressure ratio
+Thrust-to-weight ratio: 7.47:1 (dry), 11.467:1 (wet/afterburning)
+Data from F135engine.com
+Type: Afterburning Turbofan with shaft driven remote lift fan
+Length: 369 in (937.3 cm)
+Diameter: 46 in (116.8 cm) maximum, 43 in (109.2 cm) fan inlet, 53 in (134.6 cm) lift fan inlet
+Dry weight:
+Compressor: 3 stage fan,6 stage high-pressure compressor, 2 stage, contra-rotating, shaft driven lift fan
+Combustors: annular combustor
+Turbine: Single stage high pressure turbine, 2-stage low pressure turbine
+Maximum thrust: 41,000 lbf (182.38 kN) max, 27,000 lbf (120.1 kN) intermediate, 40,650 lbf (180.82 kN) hover
+Overall pressure ratio: 28:1 overall pressure ratio (conventional), 29:1 overall pressure ratio (powered lift),
+Power-to-weight ratio:
+Rolls-Royce LiftSystem
+Related development
+Pratt & Whitney F119
+Comparable engines
+General Electric/Rolls-Royce F136
+Related lists
+List of aircraft engines

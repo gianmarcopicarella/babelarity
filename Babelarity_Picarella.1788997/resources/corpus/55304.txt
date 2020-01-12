@@ -1,0 +1,30 @@
+In geometry, a chiliagon (pronounced /ˈkɪli.əɡɒn/) or 1000-gon is a polygon with 1000 sides. Several philosophers have used it to illustrate issues regarding thought.
+A regular chiliagon is represented by Schläfli symbol {1000} and can be constructed as a truncated 500-gon, t{500}, or a twice-truncated 250-gon, tt{250}, or a thrice-truncated 125-gon, ttt{125}.
+The measure of each internal angle in a regular chiliagon is 179.64°. The area of a regular chiliagon with sides of length a is given by
+        A
+        =
+        250
+          a
+            2
+        cot
+        ⁡
+            π
+            1000
+        ≃
+        79577.2
+          a
+            2
+    {\displaystyle A=250a^{2}\cot {\frac {\pi }{1000}}\simeq 79577.2\,a^{2}}
+This result differs from the area of its circumscribed circle by less than 4 parts per million.
+Because 1000 = 23 × 53, the number of sides is neither a product of distinct Fermat primes nor a power of two. Thus the regular chiliagon is not a constructible polygon. Indeed, it is not even constructible with the use of neusis or an angle trisector, as the number of sides is neither a product of distinct Pierpont primes, nor a product of powers of two and three.
+René Descartes uses the chiliagon as an example in his Sixth Meditation to demonstrate the difference between pure intellection and imagination. He says that, when one thinks of a chiliagon, he "does not imagine the thousand sides or see them as if they were present" before him – as he does when one imagines a triangle, for example. The imagination constructs a "confused representation," which is no different from that which it constructs of a myriagon (a polygon with ten thousand sides). However, he does clearly understand what a chiliagon is, just as he understands what a triangle is, and he is able to distinguish it from a myriagon. Therefore, the intellect is not dependent on imagination, Descartes claims, as it is able to entertain clear and distinct ideas when imagination is unable to. Philosopher Pierre Gassendi, a contemporary of Descartes, was critical of this interpretation, believing that while Descartes could imagine a chiliagon, he could not understand it: one could "perceive that the word 'chiliagon' signiﬁes a ﬁgure with a thousand angles [but] that is just the meaning of the term, and it does not follow that you understand the thousand angles of the ﬁgure any better than you imagine them."
+The example of a chiliagon is also referenced by other philosophers, such as Immanuel Kant. David Hume points out that it is "impossible for the eye to determine the angles of a chiliagon to be equal to 1996 right angles, or make any conjecture, that approaches this proportion." Gottfried Leibniz comments on a use of the chiliagon by John Locke, noting that one can have an idea of the polygon without having an image of it, and thus distinguishing ideas from images.
+Henri Poincaré uses the chiliagon as evidence that "intuition is not necessarily founded on the evidence of the senses" because "we can not represent to ourselves a chiliagon, and yet we reason by intuition on polygons in general, which include the chiliagon as a particular case."
+Inspired by Descartes's chiliagon example, Roderick Chisholm and other 20th-century philosophers have used similar examples to make similar points. Chisholm's speckled hen, which need not have a determinate number of speckles to be successfully imagined, is perhaps the most famous of these.
+The regular chiliagon has Dih1000 dihedral symmetry, order 2000, represented by 1000 lines of reflection. Dih100 has 15 dihedral subgroups: Dih500, Dih250, Dih125, Dih200, Dih100, Dih50, Dih25, Dih40, Dih20, Dih10, Dih5, Dih8, Dih4, Dih2, and Dih1. It also has 16 more cyclic symmetries as subgroups: Z1000, Z500, Z250, Z125, Z200, Z100, Z50, Z25, Z40, Z20, Z10, Z5, Z8, Z4, Z2, and Z1, with Zn representing π/n radian rotational symmetry.
+John Conway labels these lower symmetries with a letter and order of the symmetry follows the letter. He gives d (diagonal) with mirror lines through vertices, p with mirror lines through edges (perpendicular), i with mirror lines through both vertices and edges, and g for rotational symmetry. a1 labels no symmetry.
+These lower symmetries allows degrees of freedom in defining irregular chiliagons. Only the g1000 subgroup has no degrees of freedom but can seen as directed edges.
+A chiliagram is a 1000-sided star polygon. There are 199 regular forms given by Schläfli symbols of the form {1000/n}, where n is an integer between 2 and 500 that is coprime to 1000. There are also 300 regular star figures in the remaining cases.
+For example, the regular {1000/499} star polygon is constructed by 1000 nearly radial edges. Each star vertex has an internal angle of 0.36 degrees.
+Myriagon
+Megagon

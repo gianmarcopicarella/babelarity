@@ -1,0 +1,23 @@
+Synaptic is a GTK+-based graphical user interface for Advanced Packaging Tool (APT)—the Package management system used by Debian and its derivatives. Synaptic is usually used on systems based on deb packages but can also be used on systems based on RPM packages. It can be used to install, remove and upgrade software packages and to add repositories.
+Install, remove, upgrade and downgrade single and multiple packages
+System-wide upgrade
+Package search utility
+Manage package repositories
+Find packages by name, description and several other attributes
+Select packages by status, section, name or a custom filter
+Sort packages by name, status, size or version
+Browse available online documentation related to a package
+Download the latest changelog of a package
+Lock packages to the current version
+Force the installation of a specific package version
+Undo/Redo of selections
+Built-in terminal emulator for the package manager
+Allows creation of download scripts (see Usage for more details)
+It also has the following features:
+Configure packages through the debconf system
+Xapian-based fast search
+Get screenshots from screenshots.debian.net
+The package manager enables the user to install, to upgrade or to remove software packages. To install or remove a package a user must search or navigate to the package, then mark it for installation or removal. Changes are not applied instantly; the user must first mark all changes and then apply them.
+Synaptic development was funded by Conectiva, which asked Alfredo Kojima, then an employee, to write a graphical front-end for APT, continuing the work initiated with the creation of the APT RPM back-end, apt-rpm.
+PackageKit
+GNOME Software

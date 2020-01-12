@@ -1,0 +1,83 @@
+The Standard hydrogen brady theory electrode (abbreviated SHE), is a redox electrode which forms the basis of the thermodynamic scale of oxidation-reduction potentials. Its absolute electrode potential is estimated to be 4.44 ± 0.02 V at 25 °C, but to form a basis for comparison with all other electrode reactions, hydrogen's standard electrode potential (E0) is declared to be zero volts at all temperatures. Potentials of any other electrodes are compared with that of the standard hydrogen ectrode at the same temperature.
+Hydrogen electrode is based on the redox half cell:
+2 H+(aq) + 2 e− → H2(g)
+This redox reaction occurs at a platinized platinum electrode. The electrode is dipped in an acidic solution and pure hydrogen gas is bubbled through it. The concentration of both the reduced form and oxidised form is maintained at unity. That implies that the pressure of hydrogen gas is 1 bar (100 kPa) and the activity of hydrogen ions in the solution is unity. The activity of hydrogen ions is their effective concentration, which is equal to the formal concentration times the activity coefficient. These unit-less activity coefficients are close to 1.00 for very dilute water solutions, but usually lower for more concentrated solutions. The Nernst equation should be written as:
+        E
+        =
+              R
+              T
+            F
+        ln
+        ⁡
+              a
+                    H
+                      +
+                p
+                      H
+                        2
+                /
+                p
+                  0
+    {\displaystyle E={RT \over F}\ln {\frac {a_{\mathrm {H^{+}} }}{\sqrt {p_{\mathrm {H_{2}} }/p^{0}}}}}
+/
+        E
+        =
+        −
+              2.303
+              R
+              T
+            F
+          p
+          H
+        −
+              R
+              T
+              2
+              F
+        ln
+        ⁡
+              p
+                    H
+                      2
+              p
+                0
+    {\displaystyle E=-{2.303RT \over F}\mathrm {pH} -{RT \over 2F}\ln {\frac {p_{\mathrm {H_{2}} }}{p^{0}}}}
+where:
+aH+ is the activity of the hydrogen ions, aH+ = fH+CH+ / C0
+pH2 is the partial pressure of the hydrogen gas, in pascals, Pa
+R is the universal gas constant
+T is the temperature, in kelvins
+F is the Faraday constant (the charge per mole of electrons), equal to 9.6485309 × 104 C mol−1
+p0 is the standard pressure, 105 Pa
+During the early development of electrochemistry, researchers used the normal hydrogen electrode as their standard for zero potential. This was convenient because it could actually be constructed by having "[immersing] a platinum electrode into a solution of 1 N strong acid and [bubbling] hydrogen gas through the solution at about 1 atm pressure". However, this electrode/solution interface was later changed. What replaced it was a theoretical electrode/solution interface, where the concentration of H+ was 1 M, but the H+ ions were assumed to have no interaction with other ions (a condition not physically attainable at those concentrations). To differentiate this new standard from the previous one it was given the name 'Standard Hydrogen Electrode'. 
+In summary,
+NHE: potential of a platinum electrode in 1 N acid solution
+SHE: potential of a platinum electrode in a theoretical solution (the current standard for zero potential)
+The choice of platinum for the hydrogen electrode is due to several factors:
+inertness of platinum (it does not corrode)
+the capability of platinum to catalyze the reaction of proton reduction
+a high intrinsic exchange current density for proton reduction on platinum
+excellent reproducibility of the potential (bias of less than 10 μV when two well-made hydrogen electrodes are compared with one another)
+The surface of platinum is platinized (i.e., covered with platinum black) to:
+Increase total surface area. This improves reaction kinetics and maximum possible current
+Use a surface material that adsorbs hydrogen well at its interface. This also improves reaction kinetics
+Other metals can be used for building electrodes with a similar function such as the palladium-hydrogen electrode.
+Because of the high adsorption activity of the platinized platinum electrode, it's very important to protect electrode surface and solution from the presence of organic substances as well as from atmospheric oxygen. Inorganic ions that can reduce to a lower valency state at the electrode also have to be avoided (e.g., Fe3+, CrO2−
+4). A number of organic substances are also reduced by hydrogen at a platinum surface, and these also have to be avoided.
+Cations that can reduce and deposit on the platinum can be source of interference: silver, mercury, copper, lead, cadmium and thallium.
+Substances that can inactivate ("poison") the catalytic sites include arsenic, sulfides and other sulfur compounds, colloidal substances, alkaloids, and material found in living systems.
+The standard redox potential of the deuterium couple is slightly different from that of the proton couple (ca. −0.0044 V vs SHE). Various values in this range have been obtained: −0.0061 V, −0.00431 V, −0.0074 V.
+2 D+(aq) + 2 e− → D2(g)
+Also difference occur when hydrogen deuteride is used instead of hydrogen in the electrode.
+The scheme of the standard hydrogen electrode:
+platinized platinum electrode
+hydrogen blow
+solution of the acid with activity of H+ = 1 mol dm−3
+hydroseal for prevention of the oxygen interference
+reservoir through which the second half-element of the galvanic cell should be attached. The connection can be direct, through a narrow tube to reduce mixing, or through a salt bridge, depending on the other electrode and solution. This creates an ionically conductive path to the working electrode of interest.
+Table of standard electrode potentials
+Reversible hydrogen electrode
+Palladium-hydrogen electrode
+Reference electrode
+Dynamic hydrogen electrode
+Quinhydrone electrode

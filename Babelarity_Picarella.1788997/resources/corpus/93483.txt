@@ -1,0 +1,97 @@
+Conodonts (Greek kōnos, "cone", + odont, "tooth") are extinct chordates resembling eels, classified in the class Conodonta. For many years, they were known only from tooth-like microfossils found in isolation and now called conodont elements. Knowledge about soft tissues remains limited. The animals are also called Conodontophora (conodont bearers) to avoid ambiguity.
+Conodonts are considered index fossils, fossils used to define and identify geologic periods.
+The conodonts first appeared during the Cambrian Stage 2 (also referred as Tommotian).
+The still unnamed Cambrian Stage 10 might be defined as the first appearance of Eoconodontus notchpeakensis. The upper boundary is defined as the appearance of Iapetognathus fluctivagus which marks the beginning of the Tremadocian and is radiometrically dated as 485.4 ± 1.9 million years ago.
+The Cambrian–Ordovician extinction event occurred approximately 488 million years ago. This early Phanerozoic Eon extinction event eliminated many conodonts.
+The Lau event, a relatively minor mass extinctions during the Silurian period, had a major impact on conodont populations, about 420 million years ago.
+The Kačák Event was a period of significant extinctions. The group most affected was the Ammonoidea, although there were also faunal turnovers amongst conodonts and dacryoconarids.
+The entire class is postulated to have been wiped out in the Triassic–Jurassic extinction event, which occurred roughly 200 million years ago. Near the end of the Triassic deadly marine biocalcification began to occur, along with oceanic acidification, sea-level fluctuations and the Central Atlantic Magmatic Province (CAMP) releasing carbon dioxide, sulfur dioxide and aerosols. These environmental catastrophes caused the extinction of the conodonts and 34% of other marine genera to disappear.
+The 11 known fossil imprints of conodont animals record an eel-like creature with 15, or more rarely, 19 elements that form a bilaterally symmetrical array in the head.
+The organisms range from a centimeter or so to the large Promissum, 40 cm in length. It is now widely agreed that conodonts had large eyes, fins with fin rays, chevron-shaped muscles and a notochord.
+Conodont teeth are the earliest found in the fossil record. The evolution of mineralized tissues has been puzzling for more than a century. It has been hypothesized that the first mechanism of mammalian tissue mineralization began either in the oral skeleton of conodont or the dermal skeleton of early agnathans.
+The element array constituted a feeding apparatus that is radically different from the jaws of modern animals. They are now termed "conodont elements" to avoid confusion. The three forms of teeth, i.e., coniform cones, ramiform bars, and pectiniform platforms, may have performed different functions.
+For many years, conodonts were known only from enigmatic tooth-like microfossils (200 micrometers to 5 millimeters in length), which occur commonly, but not always in isolation, and were not associated with any other fossil. Until the early 1980s, conodont teeth had not been found in association with fossils of the host organism, in a konservat lagerstätte. This is because most of the conodont animal was soft-bodied, thus everything but the teeth was unsuited for preservation under normal circumstances.
+These microfossils are made of hydroxylapatite (a phosphatic mineral). The conodont elements can be extracted from rock using adequate solvents.
+They are widely used in biostratigraphy. Conodont elements are also used as paleothermometers, a proxy for thermal alteration in the host rock, because under higher temperatures, the phosphate undergoes predictable and permanent color changes, measured with the conodont alteration index. This has made them useful for petroleum exploration where they are known, in rocks dating from the Cambrian to the Late Triassic.
+The conodont apparatus may comprise a number of discrete elements, including the spathognathiform, ozarkodiniform, trichonodelliform, neoprioniodiform, and other forms.
+In the 1930s, the concept of conodont assemblages was described by Hermann Schmidt and by Harold W. Scott in 1934.
+The feeding apparatus of ozarkodinids is composed at the front of an axial Sa element, flanked by two groups of four close-set elongate Sb and Sc elements which were inclined obliquely inwards and forwards. Above these elements lay a pair of arched and inward pointing (makellate) M elements. Behind the S-M array lay transversely oriented and bilaterally opposed (pectiniform, i.e. comb-shaped) Pb and Pa elements.
+The "teeth" of some conodonts have been interpreted as filter-feeding apparatuses, filtering plankton from the water and passing it down the throat. Others have been interpreted as a "grasping and crushing array". The lateral position of the eyes makes it unlikely that conodonts were active predators. The preserved musculature suggests that some conodonts (Promissum at least) were efficient cruisers, but incapable of bursts of speed.
+As of 2012, scientists classify the conodonts in the phylum Chordata on the basis of their fins with fin rays, chevron-shaped muscles and notochord.
+Milsom and Rigby envision them as vertebrates similar in appearance to modern hagfish and lampreys, and phylogenetic analysis suggests they are more derived than either of these groups. However, this analysis comes with one caveat: early forms of conodonts, the protoconodonts, appear to form a distinct clade from the later paraconodonts and euconodonts. Protoconodonts likely represent a stem group to the phylum that includes chaetognath worms; this conclusion suggests that chaetognaths are not close relatives of true conodonts. Moreover, some analyses do not regard conodonts as either vertebrates or craniates, because they lack the main characteristics of these groups.
+Conodonta taxonomy based on Sweet & Donoghue and Mikko's Phylogeny Archive
+Conodonta Pander 1856 non Eichenberg 1930 sensu Sweet & Donoghue 2001 [Conodontia; Conodontophorida Eichenberg 1930; Conodontochordata]
+Paraconodontida Müller 1962
+Amphigeisinoidea
+Amphigeisinidae Miller 1981
+Furnishinoidea
+Westergaardodinidae Müller 1959
+Furnishinidae Müller & Nogami 1971
+Conodontophora Eichenberg 1930
+Caviodonti Sweet 1988
+Cordylodontidae Lindström 1970
+Proconodontida Sweet 1988 s.s.
+Proconodontidae Lindström 1981
+Fryxellodontida
+Fryxellodontidae Miller 1981
+Pygodontidae Bergstrom 1981
+Belodellida Sweet 1988
+Ansellidae Faohraeus & Hunter 1985
+Dapsilodontidae Sweet 1988
+Belodellidae Khodalevich & Tschernich 1973
+Conodonti Pander 1856 non Branson 1938
+ ?Strachanognathidae Bergström 1981
+ ?Pseudooneotodidae
+Oneotodontidae Miller 1981 [Teridontidae Miller 1981]
+Protopanderodontida Sweet 1988 [Distacodontida; Panderodontida]
+Pronodontidae Lindström 1970
+Cornuodontidae Faohraeus1966
+Protopanderodontidae Lindström 1970 [Juanognathidae Bergström 1981; Scolopodontidae Bergström 1981; Ulrichodinidae Bergström 1981]
+Clavohamulidae Lindström 1970
+Drepanoistodontidae Faohraeus 1978
+Acanthodontidae Lindström 1970
+Panderodontidae Lindström 1970
+Prioniodontida Dzik 1976 (paraphyletic)
+Oepikodontidae Bergström 1981
+Paracordylodontidae Bergström 1981
+Pterospathodontidae Cooper 1977
+Chosonodinidae
+Loxodontidae
+Carniodontidae
+Rossodus Repetski & Ethington 1983
+Multioistodontidae Harris 1964
+Oistodontidae Lindström 1970 [Tripodontidae]
+Periodontidae Lindström 1970
+Rhipidognathidae Lindström 1970 sensu Sweet 1988
+Prioniodontidae Bassler 1925
+Balognathidae Hass 1959
+Polyplacognathidae Bergström 1981
+Distomodontidae Klapper 1981
+Icriodellidae Sweet 1988
+Icriodontidae Müller & Müller 1957
+Cyrtoniodontidae Hass 1959 [Phragmodontidae Bergström 1981]
+Plectodinidae Sweet 1988
+Prioniodinida Sweet 1988
+Xaniognathidae Sweet 1981
+Chirognathidae Branson & Mehl 1944
+Prioniodinidae Bassler 1925 [Hibbardellidae Mueller 1956]
+Bactrognathidae Lindström 1970
+Ellisoniidae Clark 1972
+Gondolellidae Lindström 1970
+Ozarkodinida Dzik 1976 [Polygnathida]
+Cryptotaxidae Klapper & Philip 1971
+Spathognathodontidae Hass 1959
+Pterospathodontidae Cooper 1977
+Kockelellidae Klapper 1981
+Polygnathidae Bassler 1925
+Palmatolepidae Sweet 1988
+Anchignathodontidae Clark 1972
+Elictognathidae Austin & Rhodes 1981
+Gnathodontidae Sweet 1988
+Idiognathodontidae Harris & Hollingsworth 1933
+Mestognathidae Austin & Rhodes 1981
+Cavusgnathidae Austin & Rhodes 1981
+Sweetognathidae Ritter 1986
+Timeline of the evolutionary history of life
+Micropaleontology
+List of conodont genera

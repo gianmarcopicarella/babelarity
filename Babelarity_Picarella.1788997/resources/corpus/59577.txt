@@ -1,0 +1,15 @@
+Potassium bisulfate is an inorganic compound with the chemical formula KHSO4 and is the potassium acid salt of sulfuric acid.
+Mercallite, the mineralogical form of potassium bisulfate, occurs very rarely. Misenite is another, more complex, form of potassium bisulfate.
+Potassium bisulfate is prepared by neutralizing sulfuric acid with an equal molar amount of a potassium containing base, for example potassium hydroxide:
+H2SO4 + KOH → KHSO4 + H2O
+Potassium bisulfate is also formed by the union of sulfuric acid with potassium sulfate:
+H2SO4 + K2SO4 → 2 KHSO4
+Potassium bisulfate is also the main by-product in the production of nitric acid from potassium nitrate and sulfuric acid:
+KNO3 + H2SO4 → KHSO4 + HNO3
+Thermal decomposition of potassium bisulfate forms potassium pyrosulfate and water:
+2 KHSO4 → K2S2O7 + H2O
+Temperatures above 600°C further decompose potassium bisulfate to potassium sulfate and sulfur trioxide:
+KHSO4 → K2SO4 + SO3 + H2O
+Aqueous solutions of potassium bisulfate behave as two separate, uncombined compounds, K2SO4 and H2SO4. Adding ethanol to the solution precipitates out potassium sulfate.
+Potassium bisulfate is commonly used to prepare potassium bitartrate for winemaking. Potassium bisulfate is also used as a disintegrating agent in analytical chemistry or as a precursor to prepare potassium persulfate, a powerful oxidizing agent.
+Sodium bisulfate

@@ -1,0 +1,172 @@
+The azimuthal quantum number is a quantum number for an atomic orbital that determines its orbital angular momentum and describes the shape of the orbital. The azimuthal quantum number is the second of a set of quantum numbers which describe the unique quantum state of an electron (the others being the principal quantum number, following spectroscopic notation, the magnetic quantum number, and the spin quantum number). It is also known as the orbital angular momentum quantum number, orbital quantum number or second quantum number, and is symbolized as ℓ.
+Connected with the energy states of the atom's electrons are four quantum numbers: n, ℓ, mℓ, and ms. These specify the complete, unique quantum state of a single electron in an atom, and make up its wavefunction or orbital. The wavefunction of the Schrödinger equation reduces to three equations that when solved, lead to the first three quantum numbers. Therefore, the equations for the first three quantum numbers are all interrelated. The azimuthal quantum number arose in the solution of the polar part of the wave equation as shown below. To aid understanding of this concept of the azimuth, it may also prove helpful to review spherical coordinate systems, and/or other alternative mathematical coordinate systems besides the Cartesian coordinate system. Generally, the spherical coordinate system works best with spherical models, the cylindrical system with cylinders, the cartesian with general volumes, etc.
+An atomic electron's angular momentum, L, is related to its quantum number ℓ by the following equation:
+            L
+            2
+        Ψ
+        =
+          ℏ
+            2
+          ℓ
+          (
+          ℓ
+          +
+          1
+          )
+        Ψ
+    {\displaystyle \mathbf {L} ^{2}\Psi =\hbar ^{2}{\ell (\ell +1)}\Psi }
+where ħ is the reduced Planck's constant, L2 is the orbital angular momentum operator and 
+        Ψ
+    {\displaystyle \Psi }
+   is the wavefunction of the electron. The quantum number ℓ is always a nonnegative integer: 0,1,2,3, etc. While many introductory textbooks on quantum mechanics will refer to L by itself, L has no real meaning except in its use as the angular momentum operator. When referring to angular momentum, it is better to simply use the quantum number ℓ.
+Atomic orbitals have distinctive shapes denoted by letters. In the illustration, the letters s, p, and d describe the shape of the atomic orbital.
+Their wavefunctions take the form of spherical harmonics, and so are described by Legendre polynomials. The various orbitals relating to different values of ℓ are sometimes called sub-shells, and (mainly for historical reasons) are referred to by letters, as follows:
+The letters after the f sub-shell just follow f in alphabetical order except j and those already used. One mnemonic to remember the sequence S. P. D. F. G. H. ... is "Sober Physicists Don't Find Giraffes Hiding In Kitchens Like My Nephew". A few other mnemonics are Smart People Don't Fail, Silly People Drive Fast, silly professors dance funny, Scott picks dead flowers, some poor dumb fool! etc.
+Each of the different angular momentum states can take 2(2ℓ + 1) electrons. This is because the third quantum number mℓ (which can be thought of loosely as the quantized projection of the angular momentum vector on the z-axis) runs from −ℓ to ℓ in integer units, and so there are 2ℓ + 1 possible states. Each distinct n,ℓ,mℓ orbital can be occupied by two electrons with opposing spins (given by the quantum number ms), giving 2(2ℓ + 1) electrons overall. Orbitals with higher ℓ than given in the table are perfectly permissible, but these values cover all atoms so far discovered.
+For a given value of the principal quantum number n, the possible values of ℓ range from 0 to n − 1; therefore, the n = 1 shell only possesses an s subshell and can only take 2 electrons, the n = 2 shell possesses an s and a p subshell and can take 8 electrons overall, the n = 3 shell possesses s, p and d subshells and has a maximum of 18 electrons, and so on. Generally speaking, the maximum number of electrons in the nth energy level is 2n2.
+The angular momentum quantum number, ℓ, governs the number of planar nodes going through the nucleus. A planar node can be described in an electromagnetic wave as the midpoint between crest and trough, which has zero magnitude. In an s orbital, no nodes go through the nucleus, therefore the corresponding azimuthal quantum number ℓ takes the value of 0. In a p orbital, one node traverses the nucleus and therefore ℓ has the value of 1. L has the value √2ħ.
+Depending on the value of n, there is an angular momentum quantum number ℓ and the following series. The wavelengths listed are for a hydrogen atom:
+n = 1, L = 0, Lyman series (ultraviolet)
+n = 2, L = √2ħ, Balmer series (visible)
+n = 3, L = √6ħ, Ritz-Paschen series (near infrared)
+n = 4, L = 2√3ħ, Brackett series (short-wavelength infrared)
+n = 5, L = 2√5ħ, Pfund series (mid-wavelength infrared).
+Given a quantized total angular momentum 
+              ȷ
+              →
+    {\displaystyle {\vec {\jmath }}}
+   which is the sum of two individual quantized angular momenta 
+                ℓ
+                  1
+              →
+    {\displaystyle {\vec {\ell _{1}}}}
+   and 
+                ℓ
+                  2
+              →
+    {\displaystyle {\vec {\ell _{2}}}}
+  ,
+              ȷ
+              →
+        =
+                ℓ
+                  1
+              →
+        +
+                ℓ
+                  2
+              →
+    {\displaystyle {\vec {\jmath }}={\vec {\ell _{1}}}+{\vec {\ell _{2}}}}
+the quantum number 
+        j
+    {\displaystyle j}
+   associated with its magnitude can range from 
+          |
+          ℓ
+            1
+        −
+          ℓ
+            2
+          |
+    {\displaystyle |\ell _{1}-\ell _{2}|}
+   to 
+          ℓ
+            1
+        +
+          ℓ
+            2
+    {\displaystyle \ell _{1}+\ell _{2}}
+   in integer steps where 
+          ℓ
+            1
+    {\displaystyle \ell _{1}}
+   and 
+          ℓ
+            2
+    {\displaystyle \ell _{2}}
+   are quantum numbers corresponding to the magnitudes of the individual angular momenta.
+Due to the spin-orbit interaction in the atom, the orbital angular momentum no longer commutes with the Hamiltonian, nor does the spin. These therefore change over time. However the total angular momentum J does commute with the Hamiltonian and so is constant. J is defined through
+              J
+              →
+        =
+              L
+              →
+        +
+              S
+              →
+    {\displaystyle {\vec {J}}={\vec {L}}+{\vec {S}}}
+L being the orbital angular momentum and S the spin. The total angular momentum satisfies the same commutation relations as orbital angular momentum, namely
+        [
+          J
+            i
+        ,
+          J
+            j
+        ]
+        =
+        i
+        ℏ
+          ϵ
+            i
+            j
+            k
+          J
+            k
+    {\displaystyle [J_{i},J_{j}]=i\hbar \epsilon _{ijk}J_{k}}
+from which follows
+          [
+            J
+              i
+          ,
+            J
+              2
+          ]
+        =
+        0
+    {\displaystyle \left[J_{i},J^{2}\right]=0}
+where Ji stand for Jx, Jy, and Jz.
+The quantum numbers describing the system, which are constant over time, are now j and mj, defined through the action of J on the wavefunction 
+        Ψ
+    {\displaystyle \Psi }
+            J
+            2
+        Ψ
+        =
+          ℏ
+            2
+          j
+          (
+          j
+          +
+          1
+          )
+        Ψ
+    {\displaystyle \mathbf {J} ^{2}\Psi =\hbar ^{2}{j(j+1)}\Psi }
+            J
+            z
+        Ψ
+        =
+        ℏ
+            m
+              j
+        Ψ
+    {\displaystyle \mathbf {J} _{z}\Psi =\hbar {m_{j}}\Psi }
+So that j is related to the norm of the total angular momentum and mj to its projection along a specified axis.
+As with any angular momentum in quantum mechanics, the projection of J along other axes cannot be co-defined with Jz, because they do not commute.
+j and mj, together with the parity of the quantum state, replace the three quantum numbers ℓ, mℓ and ms (the projection of the spin along the specified axis). The former quantum numbers can be related to the latter.
+Furthermore, the eigenvectors of j, s, mj and parity, which are also eigenvectors of the Hamiltonian, are linear combinations of the eigenvectors of ℓ, s, mℓ and ms.
+Intrinsic (or spin) angular momentum quantum number, or simply spin quantum number
+orbital angular momentum quantum number (the subject of this article)
+magnetic quantum number, related to the orbital momentum quantum number
+total angular momentum quantum number
+The azimuthal quantum number was carried over from the Bohr model of the atom, and was posited by Arnold Sommerfeld. The Bohr model was derived from spectroscopic analysis of the atom in combination with the Rutherford atomic model. The lowest quantum level was found to have an angular momentum of zero. Orbits with zero angular momentum were considered as oscillating charges in one dimension and so described as "pendulum" orbits. In three-dimensions the orbits become spherical without any nodes crossing the nucleus, similar (in the lowest-energy state) to a skipping rope that oscillates in one large circle.
+Angular momentum operator
+Basic quantum mechanics
+Particle in a spherically symmetric potential
+Quantum number
+Magnetic quantum number
+Principal quantum number
+Spin quantum number
+Total angular momentum quantum number
+Angular momentum coupling
+Clebsch–Gordan coefficients

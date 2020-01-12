@@ -1,0 +1,272 @@
+In particle physics and physical cosmology, Planck units are a set of units of measurement defined exclusively in terms of five universal physical constants, in such a manner that these five physical constants take on the numerical value of 1 when expressed in terms of these units.
+Originally proposed in 1899 by German physicist Max Planck, these units are also known as natural units because the origin of their definition comes only from properties of nature and not from any human construct. Planck units are only one system of several systems of natural units, but Planck units are not based on properties of any prototype object or particle (that would be arbitrarily chosen), but rather on only the properties of free space.
+Planck units have significance for theoretical physics since they simplify several recurring algebraic expressions of physical law by nondimensionalization. They are relevant in research on unified theories such as quantum gravity. The Planck scale expresses the region in which the predictions of the Standard Model of quantum field theory and of general relativity are no longer reconcilable, and quantum effects of gravity are expected to dominate. This occurs at energy 7009195465531414000♠1.22×1019 GeV (the Planck energy), at times 6956538999999999999♠5.39×10−44 s (the Planck time) and length 6965162000000000000♠1.62×10−35 m (the Planck length).
+The five universal constants that Planck units, by definition, normalize to 1 are:
+the speed of light in a vacuum, c,
+the gravitational constant, G,
+the reduced Planck constant, ħ,
+the Coulomb constant, 1/4πε0
+the Boltzmann constant, kB
+Each of these constants can be associated with at a fundamental physical theory or concept: c with special relativity, G with general relativity, ħ with quantum mechanics, ε0 with electric charge (electromagnetism), and kB with the notion of temperature (statistical mechanics and thermodynamics).
+All systems of measurement feature base units: in the International System of Units (SI), for example, the base unit of length is the metre. In the system of Planck units, the Planck base unit of length is known simply as the Planck length, the base unit of time is the Planck time, and so on. These units are derived from the five dimensional universal physical constants of Table 1, in such a manner that these constants are eliminated from fundamental equations of physical law when physical quantities are expressed in terms of Planck units. For example, Newton's law of universal gravitation,
+        F
+        =
+        G
+                m
+                  1
+                m
+                  2
+              r
+                2
+        ,
+    {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}},}
+can be expressed as
+            F
+              F
+                P
+        =
+                (
+                        m
+                          1
+                        m
+                          P
+                )
+                (
+                        m
+                          2
+                        m
+                          P
+                )
+                (
+                      r
+                        l
+                          P
+                )
+                2
+        .
+    {\displaystyle {\frac {F}{F_{\text{P}}}}={\frac {\left({\dfrac {m_{1}}{m_{\text{P}}}}\right)\left({\dfrac {m_{2}}{m_{\text{P}}}}\right)}{\left({\dfrac {r}{l_{\text{P}}}}\right)^{2}}}.}
+Both equations are dimensionally consistent and equally valid in any system of units, but the second equation, with G missing, is relating only dimensionless quantities since any ratio of two like-dimensioned quantities is a dimensionless quantity. If, by a shorthand convention, it is axiomatically understood that all physical quantities are expressed in terms of Planck units, the ratios above may be expressed simply with the symbols of physical quantity, without being scaled by their corresponding unit:
+        F
+        =
+                m
+                  1
+                m
+                  2
+              r
+                2
+        .
+    {\displaystyle F={\frac {m_{1}m_{2}}{r^{2}}}\ .}
+In order for this last equation to be valid (without G present), F, m1, m2, and r are understood to be the dimensionless numerical values of these quantities measured in terms of Planck units. This is why Planck units or any other use of natural units should be employed with care; referring to G = c = 1, Paul S. Wesson wrote that, "Mathematically it is an acceptable trick which saves labour. Physically it represents a loss of information and can lead to confusion."
+Key: L = length, M = mass, T = time, Q = electric charge, Θ = temperature.
+As can be seen above, the gravitational attractive force of two bodies of 1 Planck mass each, set apart by 1 Planck length is 1 Planck force. Likewise, the distance traveled by light during 1 Planck time is 1 Planck length. To determine, in terms of SI or another existing system of units, the quantitative values of the five base Planck units, those two equations and three others must be satisfied to determine the five unknown quantities that define the base Planck units:
+          l
+            P
+        =
+        c
+          t
+            P
+    {\displaystyle l_{\text{P}}=c\ t_{\text{P}}}
+          F
+            P
+        =
+                m
+                  P
+                l
+                  P
+              t
+                P
+                2
+        =
+        G
+              m
+                P
+                2
+              l
+                P
+                2
+    {\displaystyle F_{\text{P}}={\frac {m_{\text{P}}l_{\text{P}}}{t_{\text{P}}^{2}}}=G\ {\frac {m_{\text{P}}^{2}}{l_{\text{P}}^{2}}}}
+          E
+            P
+        =
+                m
+                  P
+                l
+                  P
+                  2
+              t
+                P
+                2
+        =
+        ℏ
+            1
+              t
+                P
+    {\displaystyle E_{\text{P}}={\frac {m_{\text{P}}l_{\text{P}}^{2}}{t_{\text{P}}^{2}}}=\hbar \ {\frac {1}{t_{\text{P}}}}}
+          F
+            P
+        =
+                m
+                  P
+                l
+                  P
+              t
+                P
+                2
+        =
+            1
+              4
+              π
+                ε
+                  0
+              q
+                P
+                2
+              l
+                P
+                2
+    {\displaystyle F_{\text{P}}={\frac {m_{\text{P}}l_{\text{P}}}{t_{\text{P}}^{2}}}={\frac {1}{4\pi \varepsilon _{0}}}\ {\frac {q_{\text{P}}^{2}}{l_{\text{P}}^{2}}}}
+          E
+            P
+        =
+                m
+                  P
+                l
+                  P
+                  2
+              t
+                P
+                2
+        =
+          k
+            B
+          T
+            P
+        .
+    {\displaystyle E_{\text{P}}={\frac {m_{\text{P}}l_{\text{P}}^{2}}{t_{\text{P}}^{2}}}=k_{\text{B}}\ T_{\text{P}}.}
+Solving the five equations above for the five unknowns results in a unique set of values for the five base Planck units:
+Table 2: Base Planck units
+Table 2 clearly defines Planck units in terms of the fundamental constants. Yet relative to other units of measurement such as SI, the values of the Planck units are only known approximately. This is mostly due to uncertainty in the value of the gravitational constant G.
+Today the value of the speed of light c in SI units is not subject to measurement error, because the SI base unit of length, the metre, is now defined as the length of the path travelled by light in vacuum during a time interval of 1/299792458 of a second. Hence the value of c is now exact by definition, and contributes no uncertainty to the SI equivalents of the Planck units. The same is true of the value of the vacuum permittivity ε0, due to the definition of ampere which sets the vacuum permeability μ0 to 4π × 10−7 H/m and the fact that μ0ε0 = 1/c2. The numerical value of the reduced Planck constant ħ has been determined experimentally to 44 parts per billion, while that of G has been determined experimentally to no better than 1 part in 8300 (or 7005120000000000000♠120000 parts per billion). G appears in the definition of almost every Planck unit in Tables 2 and 3. Hence the uncertainty in the values of the Table 2 and 3 SI equivalents of the Planck units derives almost entirely from uncertainty in the value of G. (The propagation of the error in G is a function of the exponent of G in the algebraic expression for a unit. Since that exponent is ±1/2 for every base unit other than Planck charge, the relative uncertainty of each base unit is about one half that of G. This is indeed the case; according to CODATA, the experimental values of the SI equivalents of the base Planck units are known to about 1 part in 7004166000000000000♠16600, or 7004600000000000000♠60000 parts per billion.)
+Planck units are free of anthropocentric arbitrariness. Some physicists argue that communication with extraterrestrial intelligence would have to employ such a system of units in order to be understood. Unlike the metre and second, which exist as base units in the SI system for historical reasons, the Planck length and Planck time are conceptually linked at a fundamental physical level.
+Natural units help physicists to reframe questions. Frank Wilczek puts it succinctly:
+We see that the question [posed] is not, "Why is gravity so feeble?" but rather, "Why is the proton's mass so small?" For in natural (Planck) units, the strength of gravity simply is what it is, a primary quantity, while the proton's mass is the tiny number [1/(13 quintillion)].
+While it is true that the electrostatic repulsive force between two protons (alone in free space) greatly exceeds the gravitational attractive force between the same two protons, this is not about the relative strengths of the two fundamental forces. From the point of view of Planck units, this is comparing apples to oranges, because mass and electric charge are incommensurable quantities. Rather, the disparity of magnitude of force is a manifestation of the fact that the charge on the protons is approximately the unit charge but the mass of the protons is far less than the unit mass.
+ In Big Bang cosmology, the Planck epoch or Planck era refers to the earliest stage of the Big Bang, before the time passed was equal to the Planck time tP, or approximately 10−43 seconds. There is no currently available physical theory to describe such short times, and it is not clear in what sense the concept of time is meaningful for values smaller than the Planck time. It is generally assumed that quantum effects of gravity dominate physical interactions at this time scale. At this scale, the unified force of the Standard Model is assumed to be unified with gravitation. Inconceivably hot and dense, the state of the Planck epoch was succeeded by the Grand unification epoch, where gravitation is separated from the unified force of the Standard Model, in turn followed by the Inflationary epoch, which ended after about 10−32 seconds (or about 1010 tP).
+Relative to the Planck epoch, the universe today looks extreme when expressed in Planck units, as in this set of approximations:
+The recurrence of large numbers close or related to 1060 in the above table is a coincidence that intrigues some theorists. It is an example of the kind of large numbers coincidence that led theorists such as Eddington and Dirac to develop alternative physical theories (e.g. a variable speed of light or Dirac varying-G theory). After the measurement of the cosmological constant in 1998, estimated at 10−122 in Planck units, it was noted that this is suggestively close to the reciprocal of the age of the universe squared. Barrow and Shaw (2011) proposed a modified theory in which Λ is a field evolving in such a way that its value remains Λ ~ T−2 throughout the history of the universe.
+In any system of measurement, units for many physical quantities can be derived from base units. Table 3 offers a sample of derived Planck units, some of which in fact are seldom used. As with the base units, their use is mostly confined to theoretical physics because most of them are too large or too small for empirical or practical use and there are large uncertainties in their values (see Discussion and Uncertainties in values below).
+The charge, as other Planck units, was not originally defined by Planck. It is a unit of charge that is a natural addition to the other units of Planck, and is used in some publications. The elementary charge, measured in terms of the Planck charge, is
+        e
+        =
+            α
+        ⋅
+          q
+            P
+        ≈
+        0.085424543
+        ⋅
+          q
+            P
+    {\displaystyle e={\sqrt {\alpha }}\cdot q_{\text{P}}\approx 0.085424543\cdot q_{\text{P}}\,}
+where 
+          α
+    {\displaystyle {\alpha }\ }
+   is the fine-structure constant
+        α
+        =
+            (
+                e
+                  q
+                    P
+            )
+            2
+        =
+              e
+                2
+              4
+              π
+                ε
+                  0
+              ℏ
+              c
+        =
+            1
+            137.03599911
+    {\displaystyle \alpha =\left({\frac {e}{q_{\text{P}}}}\right)^{2}={\frac {e^{2}}{4\pi \varepsilon _{0}\hbar c}}={\frac {1}{137.03599911}}}
+Some Planck units are suitable for measuring quantities that are familiar from daily experience. For example:
+1 Planck mass is about 22 micrograms;
+1 Planck momentum is about 6.5 kg⋅m/s;
+1 Planck energy is about 500 kW⋅h;
+1 Planck charge is close to 11.7 elementary charges;
+1 Planck impedance is close to 30 ohms.
+However, most Planck units are many orders of magnitude too large or too small to be of practical use, so that Planck units as a system are really only relevant to theoretical physics. In fact, 1 Planck unit is often the largest or smallest value of a physical quantity that makes sense according to our current understanding. For example:
+A speed of 1 Planck length per Planck time is the speed of light in a vacuum, the maximum possible physical speed in special relativity; 1 nano-(Planck length per Planck time) is about 1.079 km/h.
+Our understanding of the Big Bang begins with the Planck epoch, when the universe was 1 Planck time old and 1 Planck length in diameter, and had a Planck temperature of 1. At that moment, quantum theory as presently understood becomes applicable. Understanding the universe when it was less than 1 Planck time old requires a theory of quantum gravity that would incorporate quantum effects into general relativity. Such a theory does not yet exist.
+At 1 Planck temperature, all symmetries broken since the early Big Bang would be restored, and the four fundamental forces of contemporary physical theory would become one force.
+Natural units began in 1881, when George Johnstone Stoney, noting that electric charge is quantized, derived units of length, time, and mass, now named Stoney units in his honor, by normalizing G, c, and the electron charge, e, to 1. In 1898, Max Planck discovered that action is quantized, and published the result in a paper presented to the Prussian Academy of Sciences in May 1899. At the end of the paper, Planck introduced, as a consequence of his discovery, the base units later named in his honor. The Planck units are based on the quantum of action, now usually known as Planck's constant. Planck called the constant b in his paper, though h is now common. Planck underlined the universality of the new unit system, writing:
+...ihre Bedeutung für alle Zeiten und für alle, auch außerirdische und außermenschliche Kulturen notwendig behalten und welche daher als »natürliche Maßeinheiten« bezeichnet werden können...
+...These necessarily retain their meaning for all times and for all civilizations, even extraterrestrial and non-human ones, and can therefore be designated as "natural units"...
+Planck considered only the units based on the universal constants G, ħ, c, and kB to arrive at natural units for length, time, mass, and temperature. Planck did not adopt any electromagnetic units. However, since the non-rationalized gravitational constant, G, is set to 1, a natural extension of Planck units to a unit of electric charge is to also set the non-rationalized Coulomb constant, ke, to 1 as well.  Another convention is to use the elementary charge as the basic unit of electric charge in Planck system. Such system is convenient for black hole physics. The two conventions for unit charge differ by a factor of the square root of the Fine-structure constant. Planck's paper also gave numerical values for the base units that were close to modern values.
+Physical quantities that have different dimensions (such as time and length) cannot be equated even if they are numerically equal (1 second is not the same as 1 metre). In theoretical physics, however, this scruple can be set aside, by a process called nondimensionalization. Table 4 shows how the use of Planck units simplifies many fundamental equations of physics, because this gives each of the five fundamental constants, and products of them, a simple numeric value of 1. In the SI form, the units should be accounted for. In the nondimensionalized form, the units, which are now Planck units, need not be written if their use is understood.
+As already stated above, Planck units are derived by "normalizing" the numerical values of certain fundamental constants to 1. These normalizations are neither the only ones possible nor necessarily the best. Moreover, the choice of what factors to normalize, among the factors appearing in the fundamental equations of physics, is not evident, and the values of the Planck units are sensitive to this choice.
+There are several possible alternative normalizations.
+In 1899, Newton's law of universal gravitation was still seen as exact, rather than as a convenient approximation holding for "small" velocities and masses (the approximate nature of Newton's law was shown following the development of general relativity in 1915). Hence Planck normalized to 1 the gravitational constant G in Newton's law. In theories emerging after 1899, G nearly always appears in formulae multiplied by 4π or a small integer multiple thereof. Hence, a choice to be made when designing a system of natural units is which, if any, instances of 4π appearing in the equations of physics are to be eliminated via the normalization.
+Normalizing 4πG to 1:
+Gauss's law for gravity becomes Φg = −M (rather than Φg = −4πM in Planck units).
+The Bekenstein–Hawking formula for the entropy of a black hole in terms of its mass mBH and the area of its event horizon ABH simplifies to SBH = πABH = (mBH)2, where ABH and mBH are both measured in a slight modification of reduced Planck units, described below.
+The characteristic impedance Z0 of gravitational radiation in free space becomes equal to 1. (It is normally expressed as 4πG/c)
+No factors of 4π appear in the gravitoelectromagnetic (GEM) equations, which hold in weak gravitational fields or locally flat space-time. These equations have the same form as Maxwell's equations (and the Lorentz force equation) of electromagnetism, with mass density replacing charge density, and with 1/4πG replacing ε0.
+Setting 8πG = 1. This would eliminate 8πG from the Einstein field equations, Einstein–Hilbert action, Friedmann equations, and the Poisson equation for gravitation. Planck units modified so that 8πG = 1 are known as reduced Planck units, because the Planck mass is divided by √8π. Also, the Bekenstein–Hawking formula for the entropy of a black hole simplifies to SBH = 2(mBH)2 = 2πABH.
+Setting 16πG = 1. This would eliminate the constant c4/16πG from the Einstein–Hilbert action. The form of the Einstein field equations with cosmological constant Λ becomes Rμν − Λgμν = 1/2(Rgμν − Tμν).
+Planck normalized to 1 the Coulomb force constant 1/4πε0 (as does the cgs system of units). This sets the Planck impedance, ZP equal to Z0/4π, where Z0 is the characteristic impedance of free space.
+Normalizing the permittivity of free space ε0 to 1:
+Sets the permeability of free space µ0 = 1 (because c = 1).
+Sets the unit impedance or unit resistance to the characteristic impedance of free space, ZP = Z0 (or sets the characteristic impedance of free space Z0 to 1).
+Eliminates 4π from the nondimensionalized form of Maxwell's equations.
+Eliminates ε0 from the nondimensionalized form of Coulomb's law, but has 4πr2 remaining in the denominator (which is the surface area of the enclosing sphere at radius r).
+Planck normalized to 1 the Boltzmann constant kB.
+Normalizing 1/2kB to 1:
+Removes the factor of 1/2 in the nondimensionalized equation for the thermal energy per particle per degree of freedom.
+Introduces a factor of 2 into the nondimensionalized form of Boltzmann's entropy formula.
+Does not affect the value of any base or derived Planck unit other than the Planck temperature, which it doubles.
+The factor 4π is ubiquitous in theoretical physics because the surface area of a sphere is 4πr2. This, along with the concept of flux is the basis for the inverse-square law. For example, gravitational and electrostatic fields produced by point charges have spherical symmetry (Barrow 2002: 214–15). The 4πr2 appearing in the denominator of Coulomb's law, for example, follows from the flux of an electrostatic field being distributed uniformly on the surface of a sphere. If space had more than three spatial dimensions, the factor 4π would have to be changed according to the geometry of the sphere in higher dimensions. Likewise for Newton's law of universal gravitation.
+Hence a substantial body of physical theory discovered since Planck (1899) suggests normalizing to 1 not G but 4nπG, for one of n = 1, 2, or 4. Doing so would introduce a factor of 1/4nπ into the nondimensionalized form of the law of universal gravitation, consistent with the modern formulation of Coulomb's law in terms of the vacuum permittivity. In fact, alternative normalizations frequently preserve the factor of 1/4π in the nondimensionalized form of Coulomb's law as well, so that the nondimensionalized Maxwell's equations for electromagnetism and gravitomagnetism both take the same form as those for electromagnetism in SI, which does not have any factors of 4π.
+Some theorists (such as Dirac and Milne) have proposed cosmologies that conjecture that physical "constants" might actually change over time (e.g. a variable speed of light or Dirac varying-G theory). Such cosmologies have not gained mainstream acceptance and yet there is still considerable scientific interest in the possibility that physical "constants" might change, although such propositions introduce difficult questions. Perhaps the first question to address is: How would such a change make a noticeable operational difference in physical measurement or, more fundamentally, our perception of reality? If some particular physical constant had changed, how would we notice it, how would physical reality be different? Which changed constants result in a meaningful and measurable difference in physical reality? If a physical constant that is not dimensionless, such as the speed of light, did in fact change, would we be able to notice it or measure it unambiguously? – a question examined by Michael Duff in his paper "Comment on time-variation of fundamental constants".
+George Gamow argued in his book Mr Tompkins in Wonderland that a sufficient change in a dimensionful physical constant, such as the speed of light in a vacuum, would result in obvious perceptible changes. But this idea is challenged:
+[An] important lesson we learn from the way that pure numbers like α define the world is what it really means for worlds to be different. The pure number we call the fine structure constant and denote by α is a combination of the electron charge, e, the speed of light, c, and Planck's constant, h. At first we might be tempted to think that a world in which the speed of light was slower would be a different world. But this would be a mistake. If c, h, and e were all changed so that the values they have in metric (or any other) units were different when we looked them up in our tables of physical constants, but the value of α remained the same, this new world would be observationally indistinguishable from our world. The only thing that counts in the definition of worlds are the values of the dimensionless constants of Nature. If all masses were doubled in value [including the Planck mass mP ] you cannot tell because all the pure numbers defined by the ratios of any pair of masses are unchanged.
+Referring to Duff's "Comment on time-variation of fundamental constants" and Duff, Okun, and Veneziano's paper "Trialogue on the number of fundamental constants", particularly the section entitled "The operationally indistinguishable world of Mr. Tompkins", if all physical quantities (masses and other properties of particles) were expressed in terms of Planck units, those quantities would be dimensionless numbers (mass divided by the Planck mass, length divided by the Planck length, etc.) and the only quantities that we ultimately measure in physical experiments or in our perception of reality are dimensionless numbers. When one commonly measures a length with a ruler or tape-measure, that person is actually counting tick marks on a given standard or is measuring the length relative to that given standard, which is a dimensionless value. It is no different for physical experiments, as all physical quantities are measured relative to some other like-dimensioned quantity.
+We can notice a difference if some dimensionless physical quantity such as fine-structure constant, α, changes or the proton-to-electron mass ratio, mp/me, changes (atomic structures would change) but if all dimensionless physical quantities remained unchanged (this includes all possible ratios of identically dimensioned physical quantity), we can not tell if a dimensionful quantity, such as the speed of light, c, has changed. And, indeed, the Tompkins concept becomes meaningless in our perception of reality if a dimensional quantity such as c has changed, even drastically.
+If the speed of light c, were somehow suddenly cut in half and changed to 1/2c (but with the axiom that all dimensionless physical quantities remain the same), then the Planck length would increase by a factor of 2√2 from the point of view of some unaffected observer on the outside. Measured by "mortal" observers in terms of Planck units, the new speed of light would remain as 1 new Planck length per 1 new Planck time – which is no different from the old measurement. But, since by axiom, the size of atoms (approximately the Bohr radius) are related to the Planck length by an unchanging dimensionless constant of proportionality:
+          a
+            0
+        =
+              4
+              π
+                ϵ
+                  0
+                ℏ
+                  2
+                m
+                  e
+                e
+                  2
+        =
+              m
+                P
+                m
+                  e
+              α
+          l
+            P
+        .
+    {\displaystyle a_{0}={\frac {4\pi \epsilon _{0}\hbar ^{2}}{m_{e}e^{2}}}={\frac {m_{\text{P}}}{m_{e}\alpha }}l_{\text{P}}.}
+Then atoms would be bigger (in one dimension) by 2√2, each of us would be taller by 2√2, and so would our metre sticks be taller (and wider and thicker) by a factor of 2√2. Our perception of distance and lengths relative to the Planck length is, by axiom, an unchanging dimensionless constant.
+Our clocks would tick slower by a factor of 4√2 (from the point of view of this unaffected observer) because the Planck time has increased by 4√2 but we would not know the difference (our perception of durations of time relative to the Planck time is, by axiom, an unchanging dimensionless constant). This hypothetical observer on the outside might observe that light now propagates at half the speed that it previously did (as well as all other observed velocities) but it would still travel 7008299792458000000♠299792458 of our new metres in the time elapsed by one of our new seconds (1/2c × 4√2 ÷ 2√2 continues to equal 7008299792458000000♠299792458 m/s). We would not notice any difference.
+This contradicts what George Gamow writes in his book Mr. Tompkins; there, Gamow suggests that if a dimension-dependent universal constant such as c changed, we would easily notice the difference. The disagreement is better thought of as the ambiguity in the phrase "changing a physical constant"; what would happen depends on whether (1) all other dimensionless constants were kept the same, or whether (2) all other dimension-dependent constants are kept the same. The second choice is a somewhat confusing possibility, since most of our units of measurement are defined in relation to the outcomes of physical experiments, and the experimental results depend on the constants. (The only exception is the kilogram.) Gamow does not address this subtlety; the thought experiments he conducts in his popular works assume the second choice for "changing a physical constant". And Duff or Barrow would point out that ascribing a change in measurable reality, i.e. α, to a specific dimensional component quantity, such as c, is unjustified. The very same operational difference in measurement or perceived reality could just as well be caused by a change in h or e.
+This unvarying aspect of the Planck-relative scale, or that of any other system of natural units, leads many theorists to conclude that a hypothetical change in dimensionful physical constants can only be manifest as a change in dimensionless physical constants. One such dimensionless physical constant is the fine-structure constant. There are some experimental physicists who assert they have in fact measured a change in the fine structure constant and this has intensified the debate about the measurement of physical constants. According to some theorists there are some very special circumstances in which changes in the fine-structure constant can be measured as a change in dimensionful physical constants. Others however reject the possibility of measuring a change in dimensionful physical constants under any circumstance. The difficulty or even the impossibility of measuring changes in dimensionful physical constants has led some theorists to debate with each other whether or not a dimensionful physical constant has any practical significance at all and that in turn leads to questions about which dimensionful physical constants are meaningful.
+Dimensional analysis
+Doubly special relativity
+Planck scale
+Planck particle
+Zero-point energy
+cGh physics

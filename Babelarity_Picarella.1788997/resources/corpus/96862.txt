@@ -1,0 +1,25 @@
+6 Nimmt! / Take 5! is a counting card game designed by Wolfgang Kramer in 1994 and published by Amigo Spiele. The French version is distributed by Gigamic. This game allows 2–10 players who start with ten randomly numbered cards. These are played in simultaneous turns onto four card stacks with the goal of limiting the number of points (in the form of Bulls' Heads distributed among the cards) you're forced to take. Each player attempts to play their cards without laying their 6th card on a stack, as this results in a penalty of collecting all cards in the stack. Each card indicates penalty points with the number of bull heads on top of the card. After any player reaches 66 points the player with the least penalty points wins.
+The game is sometimes called 6 who loses!, Take 6!, Category 5, or the original German name. The game can take from 2 to 10 players. The game's suggested minimum age is 10 years, and lasts on average about 45 minutes. The game consists of multiple rounds (typically 3–4) with cumulative scoring, each taking 10–15 minutes. It is possible to just play a single round as self-contained game.
+The goal is to be the player with the lowest number of points. To do this, the players should try to get rid of their cards, especially the ones with more cattle heads.
+6 Nimmt! is played using a special card deck that in the original version has a cattle head in the center of the card and a variable number of small cattle heads on the top. The cards are numbered 1 to 104, each giving 1, 2, 3, 5 or 7 points (i.e. cattle heads) to the person who picks it up.
+In the deck there are:
+1 card with 7 cattle heads—number 55
+8 cards with 5 cattle heads—the multiples of 11, i.e. 11, 22, 33, and so on through 99, except for 55
+10 cards with 3 cattle heads—the multiples of ten, i.e. 10, 20, 30, and so through 100
+9 cards with 2 cattle heads—the multiples of five which are not multiples of ten, i.e. 5, 15, 25, and so on through 95, except for 55
+76 cards with 1 cattle head—the rest of the cards from 1 through 104
+Ten cards are dealt to each player.
+Four uncovered cards are arranged on the table to form a vertical line.
+At each turn, each player selects a card to play, and puts the card face down on the table. When all the players have selected a card, the cards are uncovered.
+Starting with the lowest valued card, and continuing in increasing order, each player must put their card at the end of one of the four rows on the table, following these rules:
+The card must be put on a row where the latest (end) card is lower in value than the card that is about to be played.
+The card must be put on the row where the latest (end) card is the closest in value to the card that is about to be played (if your card is 33, then place it next to the 30 not the 29, for example)
+If the row where the played card must be placed already contains 5 cards (the player's card is the 6th), the player must gather the 5 cards on the table, leaving only the 6th card in their place to start a new row. The gathered cards must be taken separated and never mixed with the hand cards. The sum of the number of cattle head on the gathered cards will be calculated at the end of the round.
+If the played card is lower than all the latest cards present on the four rows, the player must choose a row and gather the cards on that row (usually the row with the fewest cattle heads), leaving only the played card on the row.
+The cards of all the players are played following these rules, from the lowest player card to the highest one.
+At the end of the turn, the players each select a new card to play; this is repeated for 10 turns until all the cards in the hand are played.
+After the 10 turns, each player counts the cattle heads on the cards gathered from the table during the round. The score of each player is collected on the paper and a new hand starts.
+The game ends when a player collects a total of 66 or more cattle heads. The winner is the player who has collected the fewest cattle heads.
+To make the game more complex, if there are fewer than 10 players, before starting, remove from the deck the cards higher than 10n + 4 (where n is the number of players). E.g. with 5 player you will use only the cards from 1 to 54, excluding the cards from 55 to 104, with 7 player only the cards from 1 to 74 are used. The other rules are unchanged.
+This variation is clearly more strategic than the basic rules since it is possible to know which cards has been already played and which one are available to other players.
+All cards are placed facing upwards on the table. Starting from a randomly selected player and continuing clockwise each player chooses a card. This continues until each player holds 10 cards. The remaining 4 cards are arranged on the table to form a vertical line. The other rules are unchanged.

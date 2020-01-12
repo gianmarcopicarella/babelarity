@@ -1,0 +1,8 @@
+Diammonium phosphate (DAP) (chemical formula (NH4)2HPO4, IUPAC name diammonium hydrogen phosphate) is one of a series of water-soluble ammonium phosphate salts that can be produced when ammonia reacts with phosphoric acid. Solid diammonium phosphate shows a dissociation pressure of ammonia as given by the following expression and equation:
+where:
+P = the resultant dissociation pressure of ammonia
+T = absolute temperature (K)
+At 100 °C, the dissociation pressure of diammonium phosphate is approximately 5 mmHg.
+DAP is used as a fertilizer. When applied as plant food, it temporarily increases the soil pH, but over a long term the treated ground becomes more acidic than before upon nitrification of the ammonium. It is incompatible with alkaline chemicals because its ammonium ion is more likely to convert to ammonia in a high-pH environment. The average pH in solution is 7.5–8. The typical formulation is 18-46-0 (18% N, 46% P2O5, 0% K2O).
+DAP can be used as a fire retardant. It lowers the combustion temperature of the material, decreases maximum weight loss rates, and causes an increase in the production of residue or char. These are important effects in fighting wildfires as lowering the pyrolysis temperature and increasing the amount of char formed reduces that amount of available fuel and can lead to the formation of a firebreak. It is the largest component of some popular commercial firefighting products.
+DAP is also used as a yeast nutrient in winemaking and mead brewing; as an additive in some brands of cigarettes purportedly as a nicotine enhancer; to prevent afterglow in matches, in purifying sugar; as a flux for soldering tin, copper, zinc and brass; and to control precipitation of alkali-soluble and acid-insoluble colloidal dyes on wool.

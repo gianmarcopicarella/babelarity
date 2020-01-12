@@ -1,0 +1,10 @@
+Foscarnet is the conjugate base of the chemical compound with the formula HO2CPO3H2. Foscarnet sodium is used as an antiviral medication.
+This phosphonic acid derivative (marketed by Clinigen as foscarnet sodium under the trade name Foscavir) is an antiviral medication used to treat herpes viruses, including drug-resistant cytomegalovirus (CMV) and herpes simplex viruses types 1 and 2 (HSV-1 and HSV-2). It is particularly used to treat CMV retinitis. Foscarnet can be used to treat highly treatment-experienced patients with HIV as part of salvage therapy.
+Foscarnet is a structural mimic of the anion pyrophosphate that selectively inhibits the pyrophosphate binding site on viral DNA polymerases at concentrations that do not affect human DNA polymerases.
+In individuals treated with the DNA polymerase inhibitors aciclovir or ganciclovir, HSV or CMV particles can develop mutant protein kinases (thymidine kinase or UL97 protein kinase, respectively) that make them resistant to these antiviral drugs. However, unlike aciclovir and ganciclovir, foscarnet is not activated by viral protein kinases, making it useful in aciclovir- or ganciclovir-resistant HSV and CMV infections.
+However, aciclovir- or ganciclovir-resistant mutants with alterations in viral DNA polymerase may also be resistant to foscarnet.
+Intravenous infusion only
+Nephrotoxicity - Increase in serum creatinine levels occurs on average in 45% of patients receiving foscarnet. Other nephrotoxic drugs should be avoided. Nephrotoxicity is usually reversible and can be reduced by dosage adjustment and adequate hydration.
+Electrolyte disturbances - Changes in calcium, magnesium (Harisson 16th ed page2244) potassium and phosphate levels occurs commonly and regular monitoring of electrolytes is necessary to avoid clinical toxicity.
+Genital ulceration - Occurs more commonly in men and usually occurs during induction use of foscarnet. It is most likely a contact dermatitis due to high concentrations of foscarnet in urine. It usually resolves rapidly following discontinuation of the drug.
+CNS - Paraesthesias,irritability and hallucinations

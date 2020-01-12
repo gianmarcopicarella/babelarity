@@ -1,0 +1,23 @@
+The Penguin anti-ship missile, designated AGM-119 by the U.S. military, is a Norwegian passive IR seeker-based short-to-medium range anti-ship guided missile, designed for naval use.
+Penguin was originally developed in a collaboration between the Norwegian Defence Research Establishment (NDRE; Norw. FFI) and Kongsberg Våpenfabrikk starting in the early 1960s, with financial support from the U.S. and West Germany. US Navy test facilities and technical assistance were made available to facilitate development. It was the first NATO AShM with an IR seeker (instead of the commonly used active radar technology) and both hardware and software has been updated since entering series production in 1972.
+Initial installation was in 500 kg deck-mounted box launchers with snap-open doors. These were designed for minimal deck intrusion, so as to be retrofitted to existing small ships. The first such installations were on Snogg- and Storm-class FPBs of the Norwegian Navy. The first airborne installations were on F-104Gs of the Norwegian Air Force, the missiles being fitted to standard Bullpup rails on the two underwing hardpoints.
+Fire-control was provided by a Kongsberg SM-3 computer which could cue the missiles based on either active radar or passive ESM data.
+The Penguin can be fired singly or in coordinated-arrival salvoes. Once launched the launching craft is free to turn-away as the missile is inertially guided until the autonomous terminal homing phase. Propelled by a solid rocket engine, latest variants of Penguin can perform random weaving maneuvres at target approach and strike the target close to the waterline.
+Of NATO's inventory of such missiles, it is the only variant that performs a terminal bunt and weave manoeuvre (although the US Harpoon missile retains its ability to execute a terminal bunt). The 120 kg warhead (originally based on that of the Bullpup ASM built under license by Kongsberg) detonates inside the target ship by using a delay fuze. The MK3 when launched from high altitudes can initially act as a glidebomb, only firing its rocket engine to extend range, or ideally to achieve maximum speed before hitting the target; for better penetration.
+In its various versions, the Penguin can be launched from a number of different weapons platforms:
+Surface vessels: Missile boats (its initial application) as well as larger ships
+Fighter aircraft: certified for F-16
+Helicopters (certified for the following aircraft):
+Bell 412 SP
+Kaman SH-2 Seasprite
+Sikorsky S-70 series (SH-60 Seahawk, UH-60 Black Hawk)
+Westland Super Lynx
+KDA's successor to the Penguin is the Naval Strike Missile (NSM), offered from 2007 onwards. NSM features an imaging IR-seeker, GPS navigation, a turbojet sustainer engine (for much longer ranges: 150+ km), and significantly more computer performance and digital signal processing power.
+ Brazil: Acquired for use in Brazilian Navy's S-70B helicopters at a cost of €33 million
+ Greece: In service with the Hellenic Navy (since 1980)
+ Norway: In service with both the Royal Norwegian Navy (since 1972) and Royal Norwegian Air Force (since 1989)
+ Spain: In service with the Spanish Navy (since 2003)
+ Sweden: In service with the Swedish Navy (since 1980)~as Robotsystem 12.
+ Turkey: In service with the Turkish Navy (since 1972)
+ United States: In service with the United States Navy as the AGM-119 (since 1994)
+ New Zealand: In service with the Royal New Zealand Navy Purchased the Royal Australian Navy's cancelled Super Seasprite helicopters, including Penguin Mk 2 Mod 7 missiles and simulator.

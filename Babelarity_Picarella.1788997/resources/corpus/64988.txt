@@ -1,0 +1,3160 @@
+Hooke's law is a principle of physics that states that the force F needed to extend or compress a spring by some distance X is proportional to that distance. That is: F = kX, where k is a constant factor characteristic of the spring: its stiffness, and X is small compared to the total possible deformation of the spring. The law is named after 17th-century British physicist Robert Hooke. He first stated the law in 1660 as a Latin anagram. He published the solution of his anagram in 1678 as: ut tensio, sic vis ("as the extension, so the force" or "the extension is proportional to the force").
+Hooke's equation holds (to some extent) in many other situations where an elastic body is deformed, such as wind blowing on a tall building, a musician plucking a string of a guitar, and the filling of a party balloon. An elastic body or material for which this equation can be assumed is said to be linear-elastic or Hookean.
+Hooke's law is only a first-order linear approximation to the real response of springs and other elastic bodies to applied forces. It must eventually fail once the forces exceed some limit, since no material can be compressed beyond a certain minimum size, or stretched beyond a maximum size, without some permanent deformation or change of state. Many materials will noticeably deviate from Hooke's law well before those elastic limits are reached.
+On the other hand, Hooke's law is an accurate approximation for most solid bodies, as long as the forces and deformations are small enough. For this reason, Hooke's law is extensively used in all branches of science and engineering, and is the foundation of many disciplines such as seismology, molecular mechanics and acoustics. It is also the fundamental principle behind the spring scale, the manometer, and the balance wheel of the mechanical clock.
+The modern theory of elasticity generalizes Hooke's law to say that the strain (deformation) of an elastic object or material is proportional to the stress applied to it. However, since general stresses and strains may have multiple independent components, the "proportionality factor" may no longer be just a single real number, but rather a linear map (a tensor) that can be represented by a matrix of real numbers.
+In this general form, Hooke's law makes it possible to deduce the relation between strain and stress for complex objects in terms of intrinsic properties of the materials it is made of. For example, one can deduce that a homogeneous rod with uniform cross section will behave like a simple spring when stretched, with a stiffness k directly proportional to its cross-section area and inversely proportional to its length.
+Consider a simple helical spring that has one end attached to some fixed object, while the free end is being pulled by a force whose magnitude is F. Suppose that the spring has reached a state of equilibrium, where its length is not changing anymore. Let X be the amount by which the free end of the spring was displaced from its "relaxed" position (when it is not being stretched). Hooke's law states that
+        F
+        =
+        k
+        X
+    {\displaystyle F=kX\,}
+or, equivalently,
+        X
+        =
+            F
+            k
+    {\displaystyle X={\frac {F}{k}}\,}
+where k is a positive real number, characteristic of the spring. Moreover, the same formula holds when the spring is compressed, with F and X both negative in that case. According to this formula, the graph of the applied force F as a function of the displacement X will be a straight line passing through the origin, whose slope is k.
+Hooke's law for a spring is often stated under the convention that F is the restoring (reaction) force exerted by the spring on whatever is pulling its free end. In that case the equation becomes
+        F
+        =
+        −
+        k
+        X
+    {\displaystyle F=-kX\,}
+since the direction of the restoring force is opposite to that of the displacement.
+Hooke's spring law usually applies to any elastic object, of arbitrary complexity, as long as both the deformation and the stress can be expressed by a single number that can be both positive and negative.
+For example, when a block of rubber attached to two parallel plates is deformed by shearing, rather than stretching or compression, the shearing force F and the sideways displacement of the plates X obey Hooke's law (for small enough deformations).
+Hooke's law also applies when a straight steel bar or concrete beam, supported at both ends, is bent by a weight F placed at some intermediate point. The displacement X in this case is the deviation of the beam, measured in the transversal direction, relative to its unloaded shape.
+The law also applies when a stretched steel wire is twisted by pulling on a lever attached to one end. In this case the stress F can be taken as the force applied to the lever, and X as the distance traveled by it along its circular path. Or, equivalently, one can let F be the torque applied by the lever to the end of the wire, and X be the angle by which that end turns. In either case F is proportional to X (although the constant k is different in each case.)
+In the case of a helical spring that is stretched or compressed along its axis, the applied (or restoring) force and the resulting elongation or compression have the same direction (which is the direction of said axis). Therefore, if F and X are defined as vectors, Hooke's equation still holds, and says that the force vector is the elongation vector multiplied by a fixed scalar.
+Some elastic bodies will deform in one direction when subjected to a force with a different direction. One example is a horizontal wood beam with non-square rectangular cross section that is bent by a transverse load that is neither vertical nor horizontal. In such cases, the magnitude of the displacement 
+        X
+    {\displaystyle X}
+   will be proportional to the magnitude of the force 
+        F
+    {\displaystyle F}
+  , as long as the direction of the latter remains the same (and its value is not too large); so the scalar version of Hooke's law 
+        F
+        =
+        k
+        X
+    {\displaystyle F=kX}
+   will hold. However, the force and displacement vectors will not be scalar multiples of each other, since they have different directions. Moreover, the ratio 
+        k
+    {\displaystyle k}
+   between their magnitudes will depend on the direction of the vector 
+        F
+    {\displaystyle F}
+  .
+Yet, in such cases there is often a fixed linear relation between the force and deformation vectors, as long as they are small enough. Namely, there is a function 
+        κ
+    {\displaystyle \kappa }
+   from vectors to vectors, such that 
+        F
+        =
+        κ
+        (
+        X
+        )
+    {\displaystyle F=\kappa (X)}
+  , and 
+        κ
+        (
+        α
+          X
+            1
+        +
+        β
+          X
+            2
+        )
+        =
+        α
+        κ
+        (
+          X
+            1
+        )
+        +
+        β
+        κ
+        (
+          X
+            2
+        )
+    {\displaystyle \kappa (\alpha X_{1}+\beta X_{2})=\alpha \kappa (X_{1})+\beta \kappa (X_{2})}
+   for any real numbers 
+        α
+        ,
+        β
+    {\displaystyle \alpha ,\beta }
+   and any displacement vectors 
+          X
+            1
+        ,
+          X
+            2
+    {\displaystyle X_{1},X_{2}}
+  . Such a function is called a (second-order) tensor.
+With respect to an arbitrary Cartesian coordinate system, the force and displacement vectors can be represented by 3×1 matrices of real numbers. Then the tensor 
+        κ
+    {\displaystyle \kappa }
+   connecting them can be represented by a 3×3 matrix 
+        κ
+    {\displaystyle \kappa }
+   of real coefficients, that, when multiplied by the displacement vector, gives the force vector:
+        F
+        =
+            [
+                    F
+                      1
+                    F
+                      2
+                    F
+                      3
+            ]
+        =
+            [
+                    κ
+                      1
+                      1
+                    κ
+                      1
+                      2
+                    κ
+                      1
+                      3
+                    κ
+                      2
+                      1
+                    κ
+                      2
+                      2
+                    κ
+                      2
+                      3
+                    κ
+                      3
+                      1
+                    κ
+                      3
+                      2
+                    κ
+                      3
+                      3
+            ]
+            [
+                    X
+                      1
+                    X
+                      2
+                    X
+                      3
+            ]
+        =
+        κ
+        X
+    {\displaystyle F\;=\;{\begin{bmatrix}F_{1}\\F_{2}\\F_{3}\end{bmatrix}}\;=\;{\begin{bmatrix}\kappa _{1\,1}&\kappa _{1\,2}&\kappa _{1\,3}\\\kappa _{2\,1}&\kappa _{2\,2}&\kappa _{2\,3}\\\kappa _{3\,1}&\kappa _{3\,2}&\kappa _{3\,3}\end{bmatrix}}{\begin{bmatrix}X_{1}\\X_{2}\\X_{3}\end{bmatrix}}\;=\;\kappa X}
+That is,
+          F
+            i
+        =
+          κ
+            i
+            1
+          X
+            1
+        +
+          κ
+            i
+            2
+          X
+            2
+        +
+          κ
+            i
+            3
+          X
+            3
+        =
+          ∑
+            j
+            =
+            1
+            3
+          κ
+            i
+            j
+          X
+            j
+    {\displaystyle F_{i}\;=\;\kappa _{i\,1}X_{1}+\kappa _{i\,2}X_{2}+\kappa _{i\,3}X_{3}\;=\;\sum _{j=1}^{3}\kappa _{i\,j}X_{j}}
+for 
+        i
+    {\displaystyle i}
+   equal to 1,2, and 3. Therefore, Hooke's law 
+        F
+        =
+        κ
+        X
+    {\displaystyle F=\kappa X}
+   can be said to hold also when 
+        X
+    {\displaystyle X}
+   and 
+        F
+    {\displaystyle F}
+   are vectors with variable directions, except that the stiffness of the object is a tensor 
+        κ
+    {\displaystyle \kappa }
+  , rather than a single real number 
+        k
+    {\displaystyle k}
+  .
+The stresses and strains of the material inside a continuous elastic material (such as a block of rubber, the wall of a boiler, or a steel bar) are connected by a linear relationship that is mathematically similar to Hooke's spring law, and is often referred to by that name.
+However, the strain state in a solid medium around some point cannot be described by a single vector. The same parcel of material, no matter how small, can be compressed, stretched, and sheared at the same time, along different directions. Likewise, the stresses in that parcel can be at once pushing, pulling, and shearing.
+In order to capture this complexity, the relevant state of the medium around a point must be represented by two second-order tensors, the strain tensor 
+        ϵ
+    {\displaystyle \epsilon }
+   (in lieu of the displacement 
+        X
+    {\displaystyle X}
+  ) and the stress tensor 
+        σ
+    {\displaystyle \sigma }
+   (replacing the restoring force 
+        F
+    {\displaystyle F}
+  ).The analogous of Hooke's spring law for continuous media is then
+        σ
+        =
+        −
+        c
+        ϵ
+        ,
+    {\displaystyle \sigma =-c\epsilon ,}
+where 
+        c
+    {\displaystyle c}
+   is a fourth-order tensor (that is, a linear map between second-order tensors) usually called the stiffness tensor or elasticity tensor. One may also write it as
+        ϵ
+        =
+        −
+        s
+        σ
+        ,
+    {\displaystyle \epsilon =-s\sigma ,}
+where the tensor 
+        s
+    {\displaystyle s}
+  , called the compliance tensor, represents the inverse of said linear map.
+In a Cartesian coordinate system, the stress and strain tensors can be represented by 3×3 matrices
+        ϵ
+        =
+            [
+                    ϵ
+                      1
+                      1
+                    ϵ
+                      1
+                      2
+                    ϵ
+                      1
+                      3
+                    ϵ
+                      2
+                      1
+                    ϵ
+                      2
+                      2
+                    ϵ
+                      2
+                      3
+                    ϵ
+                      3
+                      1
+                    ϵ
+                      3
+                      2
+                    ϵ
+                      3
+                      3
+            ]
+        σ
+        =
+            [
+                    σ
+                      1
+                      1
+                    σ
+                      1
+                      2
+                    σ
+                      1
+                      3
+                    σ
+                      2
+                      1
+                    σ
+                      2
+                      2
+                    σ
+                      2
+                      3
+                    σ
+                      3
+                      1
+                    σ
+                      3
+                      2
+                    σ
+                      3
+                      3
+            ]
+    {\displaystyle \epsilon ={\begin{bmatrix}\epsilon _{1\,1}&\epsilon _{1\,2}&\epsilon _{1\,3}\\\epsilon _{2\,1}&\epsilon _{2\,2}&\epsilon _{2\,3}\\\epsilon _{3\,1}&\epsilon _{3\,2}&\epsilon _{3\,3}\end{bmatrix}}\quad \quad \quad \quad \sigma ={\begin{bmatrix}\sigma _{1\,1}&\sigma _{1\,2}&\sigma _{1\,3}\\\sigma _{2\,1}&\sigma _{2\,2}&\sigma _{2\,3}\\\sigma _{3\,1}&\sigma _{3\,2}&\sigma _{3\,3}\end{bmatrix}}}
+Being a linear mapping between the nine numbers 
+          σ
+            i
+            j
+    {\displaystyle \sigma _{i\,j}}
+   and the nine numbers 
+          ϵ
+            k
+            ℓ
+    {\displaystyle \epsilon _{k\,\ell }}
+  , the stiffness tensor 
+        c
+    {\displaystyle c}
+   is represented by a matrix of 3×3×3×3 = 81 real numbers 
+          c
+            i
+            j
+            k
+            ℓ
+    {\displaystyle c_{i\,j\,k\,\ell }}
+  . Hooke's law then says that
+          σ
+            i
+            j
+        =
+        −
+          ∑
+            k
+            =
+            1
+            3
+          ∑
+            ℓ
+            =
+            1
+            3
+          c
+            i
+            j
+            k
+            ℓ
+          ϵ
+            k
+            ℓ
+    {\displaystyle \sigma _{i\,j}=-\sum _{k=1}^{3}\sum _{\ell =1}^{3}c_{i\,j\,k\,\ell }\epsilon _{k\,\ell }}
+where 
+        i
+    {\displaystyle i}
+   and 
+        j
+    {\displaystyle j}
+   are 1, 2, or 3.
+All three tensors generally vary from point to point inside the medium, and may vary with time as well. The strain tensor 
+        ϵ
+    {\displaystyle \epsilon }
+   merely specifies the displacement of the medium particles in the neighborhood of the point, while the stress tensor 
+        σ
+    {\displaystyle \sigma }
+   specifies the forces that neighboring parcels of the medium are exerting on each other. Therefore, they are independent of the composition and physical state of the material. The stiffness tensor 
+        c
+    {\displaystyle c}
+  , on the other hand, is a property of the material, and often depends on physical state variables such as temperature, pressure, and microstructure.
+Due to the inherent symmetries of 
+        σ
+    {\displaystyle \sigma }
+  , 
+        ϵ
+    {\displaystyle \epsilon }
+  , and 
+        c
+    {\displaystyle c}
+  , only 21 elastic coefficients of the latter are independent. For isotropic media (which have the same physical properties in any direction), 
+        c
+    {\displaystyle c}
+   can be reduced to only two independent numbers, the bulk modulus 
+        K
+    {\displaystyle K}
+   and the shear modulus 
+        G
+    {\displaystyle G}
+  , that quantify the material's resistance to changes in volume and to shearing deformations, respectively.
+Since Hooke's law is a simple proportionality between two quantities, its formulas and consequences are mathematically similar to those of many other physical laws, such as those describing the motion of fluids, or the polarization of a dielectric by an electric field.
+In particular, the tensor equation 
+        σ
+        =
+        c
+        ϵ
+    {\displaystyle \sigma =c\epsilon }
+   relating elastic stresses to strains is entirely similar to the equation 
+        τ
+        =
+        μ
+              ϵ
+              ˙
+    {\displaystyle \tau =\mu {\dot {\epsilon }}}
+   relating the viscous stress tensor 
+        τ
+    {\displaystyle \tau }
+   and the strain rate tensor 
+              ϵ
+              ˙
+    {\displaystyle {\dot {\epsilon }}}
+   in flows of viscous fluids; although the former pertains to static stresses (related to amount of deformation) while the latter pertains to dynamical stresses (related to the rate of deformation).
+In SI units, displacements are measured in metres (m), and forces in newtons (N or kg·m/s2). Therefore, the spring constant 
+        k
+    {\displaystyle k}
+  , and each element of the tensor 
+        κ
+    {\displaystyle \kappa }
+  , is measured in newtons per metre (N/m), or kilograms per second squared (kg/s2).
+For continuous media, each element of the stress tensor 
+        σ
+    {\displaystyle \sigma }
+   is a force divided by an area; it is therefore measured in units of pressure, namely pascals (Pa, or N/m2, or kg/(m·s2). The elements of the strain tensor 
+        ϵ
+    {\displaystyle \epsilon }
+   are dimensionless (displacements divided by distances). Therefore, the entries of 
+          c
+            i
+            j
+            k
+            ℓ
+    {\displaystyle c_{ijk\ell }}
+   are also expressed in units of pressure.
+Objects that quickly regain their original shape after being deformed by a force, with the molecules or atoms of their material returning to the initial state of stable equilibrium, often obey Hooke's law.
+Hooke's law only holds for some materials under certain loading conditions. Steel exhibits linear-elastic behavior in most engineering applications; Hooke's law is valid for it throughout its elastic range (i.e., for stresses below the yield strength). For some other materials, such as aluminium, Hooke's law is only valid for a portion of the elastic range. For these materials a proportional limit stress is defined, below which the errors associated with the linear approximation are negligible.
+Rubber is generally regarded as a "non-hookean" material because its elasticity is stress dependent and sensitive to temperature and loading rate.
+Generalizations of Hooke's law for the case of large deformations is provided by models of neo-Hookean solids and Mooney-Rivlin solids.
+A rod of any elastic material may be viewed as a linear spring. The rod has length L and cross-sectional area A. Its tensile stress σ is linearly proportional to its fractional extension or strain ε by the modulus of elasticity E:
+        σ
+        =
+        E
+        ε
+    {\displaystyle \sigma =E\varepsilon }
+  .
+The modulus of elasticity may often be considered constant. In turn,
+        ε
+        =
+              Δ
+              L
+            L
+    {\displaystyle \varepsilon ={\frac {\Delta L}{L}}}
+      (i.e., the fractional change in length),
+and since
+        σ
+        =
+            F
+            A
+    {\displaystyle \sigma ={\frac {F}{A}}}
+   ,
+it follows that:
+        ε
+        =
+            σ
+            E
+        =
+            F
+              A
+              E
+    {\displaystyle \varepsilon ={\frac {\sigma }{E}}={\frac {F}{AE}}}
+   .
+The change in length may be expressed as
+        Δ
+        L
+        =
+        ε
+        L
+        =
+              F
+              L
+              A
+              E
+    {\displaystyle \Delta L=\varepsilon L={\frac {FL}{AE}}}
+    .
+The potential energy 
+          U
+            e
+            l
+        (
+        x
+        )
+    {\displaystyle U_{el}(x)}
+   stored in a spring is given by
+          U
+            e
+            l
+        (
+        x
+        )
+        =
+            1
+            2
+        k
+          x
+            2
+    {\displaystyle U_{el}(x)={1 \over 2}kx^{2}}
+which comes from adding up the energy it takes to incrementally compress the spring. That is, the integral of force over displacement. Since the external force has the same general direction as the displacement, the potential energy of a spring is always non-negative.
+This potential "
+          U
+            e
+            l
+    {\displaystyle U_{el}}
+  " can be visualized as a parabola on the U-x plane such that 
+          U
+            e
+            l
+        (
+        x
+        )
+        =
+            1
+            2
+        k
+          x
+            2
+    {\displaystyle U_{el}(x)={1 \over 2}kx^{2}}
+  . As the spring is stretched in the positive x-direction, the potential energy increases parabolically (the same thing happens as the spring is compressed). Since the change in potential energy changes at a constant rate: 
+              d
+                2
+              d
+                x
+                  2
+          U
+            e
+            l
+        =
+        k
+    {\displaystyle {\frac {d^{2}}{dx^{2}}}U_{el}=k}
+  . Note that the change in the change in U is constant even when the displacement and acceleration are zero.
+Relaxed force constants (the inverse of generalized compliance constants) are uniquely defined for molecular systems, in contradistinction to the usual “rigid” force constants, and thus their use allows meaningful correlations to be made between force fields calculated for reactants, transition state, and product of a chemical reaction. Just as the potential energy can be written as a quadratic form in the internal coordinates, so it can also be written in terms of generalized forces. The resulting coefficients are termed compliance constants. A direct method for calculating the compliance constant for any internal coordinate of a molecule, without the need to do the normal mode analysis, has been given by Vijay M. Miriyala and S. Manogaran of the Department of Chemistry, Indian Institute of Technology Kanpur.  The suitability of relaxed force constants (inverse compliance constants) as covalent bond strength descriptors was demonstrated as early as ~1980, at the University of Cambridge. Recently, the suitability as non-covalent bond strength descriptors was demonstrated, too.
+A mass m attached to the end of a spring is a classic example of a harmonic oscillator. By pulling slightly on the mass and then releasing it, the system will be set in sinusoid oscillating motion about the equilibrium position. To the extent that the spring obeys Hooke's law, and that one can neglect friction and the mass of the spring, the amplitude of the oscillation will remain constant; and its frequency 
+        f
+    {\displaystyle f}
+   will be independent of its amplitude, determined only by the mass and the stiffness of the spring:
+        f
+        =
+            1
+              2
+              π
+              k
+              m
+    {\displaystyle f={1 \over 2\pi }{\sqrt {k \over m}}}
+This phenomenon made possible the construction of accurate mechanical clocks and watches that could be carried on ships and people's pockets.
+If the mass m were attached to a spring with force constant k and rotating in free space, the spring tension (Ft) would supply the required centripetal force (Fc):
+          F
+            t
+        =
+        k
+        x
+    {\displaystyle F_{t}=kx}
+          F
+            c
+        =
+        m
+          ω
+            2
+        r
+    {\displaystyle F_{c}=m\omega ^{2}r}
+Since Ft = Fc and x = r, then:
+        k
+        =
+        m
+          ω
+            2
+    {\displaystyle k=m\omega ^{2}}
+Given that ω = 2 π f, this leads to the same frequency equation as above:
+        f
+        =
+            1
+              2
+              π
+              k
+              m
+    {\displaystyle f={1 \over 2\pi }{\sqrt {k \over m}}}
+Note: the Einstein summation convention of summing on repeated indices is used below.
+(see viscosity for an analogous development for viscous fluids.)
+Isotropic materials are characterized by properties which are independent of direction in space. Physical equations involving isotropic materials must therefore be independent of the coordinate system chosen to represent them. The strain tensor is a symmetric tensor. Since the trace of any tensor is independent of any coordinate system, the most complete coordinate-free decomposition of a symmetric tensor is to represent it as the sum of a constant tensor and a traceless symmetric tensor. Thus in index notation:
+          ε
+            i
+            j
+        =
+          (
+                1
+                3
+            ε
+              k
+              k
+            δ
+              i
+              j
+          )
+        +
+          (
+            ε
+              i
+              j
+          −
+                1
+                3
+            ε
+              k
+              k
+            δ
+              i
+              j
+          )
+    {\displaystyle \varepsilon _{ij}=\left({\tfrac {1}{3}}\varepsilon _{kk}\delta _{ij}\right)+\left(\varepsilon _{ij}-{\tfrac {1}{3}}\varepsilon _{kk}\delta _{ij}\right)}
+where 
+          δ
+            i
+            j
+    {\displaystyle \delta _{ij}}
+   is the Kronecker delta. In direct tensor notation:
+          ε
+        =
+          v
+          o
+          l
+        (
+          ε
+        )
+        +
+          d
+          e
+          v
+        (
+          ε
+        )
+        ;
+          v
+          o
+          l
+        (
+          ε
+        )
+        :=
+              1
+              3
+          t
+          r
+        (
+          ε
+        )
+          I
+        ;
+          d
+          e
+          v
+        (
+          ε
+        )
+        :=
+          ε
+        −
+          v
+          o
+          l
+        (
+          ε
+        )
+    {\displaystyle {\boldsymbol {\varepsilon }}=\mathrm {vol} ({\boldsymbol {\varepsilon }})+\mathrm {dev} ({\boldsymbol {\varepsilon }})~;~~\mathrm {vol} ({\boldsymbol {\varepsilon }}):={\tfrac {1}{3}}~\mathrm {tr} ({\boldsymbol {\varepsilon }})~\mathbf {I} ~;~~\mathrm {dev} ({\boldsymbol {\varepsilon }}):={\boldsymbol {\varepsilon }}-\mathrm {vol} ({\boldsymbol {\varepsilon }})}
+where 
+          I
+    {\displaystyle \mathbf {I} }
+   is the second-order identity tensor. The first term on the right is the constant tensor, also known as the volumetric strain tensor, and the second term is the traceless symmetric tensor, also known as the deviatoric strain tensor or shear tensor.
+The most general form of Hooke's law for isotropic materials may now be written as a linear combination of these two tensors:
+          σ
+            i
+            j
+        =
+        3
+        K
+          (
+                1
+                3
+            ε
+              k
+              k
+            δ
+              i
+              j
+          )
+        +
+        2
+        G
+          (
+            ε
+              i
+              j
+          −
+                1
+                3
+            ε
+              k
+              k
+            δ
+              i
+              j
+          )
+        ;
+          σ
+        =
+        3
+        K
+          v
+          o
+          l
+        (
+          ε
+        )
+        +
+        2
+        G
+          d
+          e
+          v
+        (
+          ε
+        )
+    {\displaystyle \sigma _{ij}=3K\left({\tfrac {1}{3}}\varepsilon _{kk}\delta _{ij}\right)+2G\left(\varepsilon _{ij}-{\tfrac {1}{3}}\varepsilon _{kk}\delta _{ij}\right)\,~;~~{\boldsymbol {\sigma }}=3K~\mathrm {vol} ({\boldsymbol {\varepsilon }})+2G~\mathrm {dev} ({\boldsymbol {\varepsilon }})}
+where K is the bulk modulus and G is the shear modulus.
+Using the relationships between the elastic moduli, these equations may also be expressed in various other ways. A common form of Hooke's law for isotropic materials, expressed in direct tensor notation, is 
+          σ
+        =
+        λ
+          t
+          r
+        (
+          ε
+        )
+          I
+        +
+        2
+        μ
+          ε
+        =
+            c
+        :
+          ε
+        ;
+            c
+        =
+        λ
+          I
+        ⊗
+          I
+        +
+        2
+        μ
+            I
+    {\displaystyle {\boldsymbol {\sigma }}=\lambda ~\mathrm {tr} ({\boldsymbol {\varepsilon }})~\mathbf {I} +2\mu ~{\boldsymbol {\varepsilon }}={\mathsf {c}}:{\boldsymbol {\varepsilon }}~;~~{\mathsf {c}}=\lambda ~\mathbf {I} \otimes \mathbf {I} +2\mu ~{\mathsf {I}}}
+where 
+        λ
+        :=
+        K
+        −
+        2
+          /
+        3
+        G
+    {\displaystyle \lambda :=K-2/3G}
+   and 
+        μ
+        :=
+        G
+    {\displaystyle \mu :=G}
+   are the Lamé constants, 
+          I
+    {\displaystyle \mathbf {I} }
+   is the second-rank identity tensor, and 
+            I
+    {\displaystyle {\mathsf {I}}}
+   is the symmetric part of the fourth-rank identity tensor. In index notation:
+          σ
+            i
+            j
+        =
+        λ
+          ε
+            k
+            k
+          δ
+            i
+            j
+        +
+        2
+        μ
+          ε
+            i
+            j
+        =
+          c
+            i
+            j
+            k
+            ℓ
+          ε
+            k
+            ℓ
+        ;
+          c
+            i
+            j
+            k
+            ℓ
+        =
+        λ
+          δ
+            i
+            j
+          δ
+            k
+            ℓ
+        +
+        μ
+        (
+          δ
+            i
+            k
+          δ
+            j
+            ℓ
+        +
+          δ
+            i
+            ℓ
+          δ
+            j
+            k
+        )
+    {\displaystyle \sigma _{ij}=\lambda ~\varepsilon _{kk}~\delta _{ij}+2\mu ~\varepsilon _{ij}=c_{ijk\ell }~\varepsilon _{k\ell }~;~~c_{ijk\ell }=\lambda ~\delta _{ij}~\delta _{k\ell }+\mu ~(\delta _{ik}~\delta _{j\ell }+\delta _{i\ell }~\delta _{jk})}
+The inverse relationship is
+          ε
+        =
+              1
+                2
+                μ
+          σ
+        −
+              λ
+                2
+                μ
+                (
+                3
+                λ
+                +
+                2
+                μ
+                )
+          t
+          r
+        (
+          σ
+        )
+          I
+        =
+              1
+                2
+                G
+          σ
+        +
+          (
+                1
+                  9
+                  K
+          −
+                1
+                  6
+                  G
+          )
+          t
+          r
+        (
+          σ
+        )
+          I
+    {\displaystyle {\boldsymbol {\varepsilon }}={\tfrac {1}{2\mu }}~{\boldsymbol {\sigma }}-{\tfrac {\lambda }{2\mu (3\lambda +2\mu )}}~\mathrm {tr} ({\boldsymbol {\sigma }})~\mathbf {I} ={\tfrac {1}{2G}}~{\boldsymbol {\sigma }}+\left({\tfrac {1}{9K}}-{\tfrac {1}{6G}}\right)~\mathrm {tr} ({\boldsymbol {\sigma }})~\mathbf {I} }
+Therefore, the compliance tensor in the relation 
+          ε
+        =
+            s
+        :
+          σ
+    {\displaystyle {\boldsymbol {\varepsilon }}={\mathsf {s}}:{\boldsymbol {\sigma }}}
+   is
+            s
+        =
+        −
+              λ
+                2
+                μ
+                (
+                3
+                λ
+                +
+                2
+                μ
+                )
+          I
+        ⊗
+          I
+        +
+              1
+                2
+                μ
+            I
+        =
+          (
+                1
+                  9
+                  K
+          −
+                1
+                  6
+                  G
+          )
+          I
+        ⊗
+          I
+        +
+              1
+                2
+                G
+            I
+    {\displaystyle {\mathsf {s}}=-{\tfrac {\lambda }{2\mu (3\lambda +2\mu )}}~\mathbf {I} \otimes \mathbf {I} +{\tfrac {1}{2\mu }}~{\mathsf {I}}=\left({\tfrac {1}{9K}}-{\tfrac {1}{6G}}\right)~\mathbf {I} \otimes \mathbf {I} +{\tfrac {1}{2G}}~{\mathsf {I}}}
+In terms of Young's modulus and Poisson's ratio, Hooke's law for isotropic materials can then be expressed as
+          ε
+            i
+            j
+        =
+              1
+              E
+        (
+          σ
+            i
+            j
+        −
+        ν
+        [
+          σ
+            k
+            k
+          δ
+            i
+            j
+        −
+          σ
+            i
+            j
+        ]
+        )
+        ;
+          ε
+        =
+              1
+              E
+        (
+          σ
+        −
+        ν
+        [
+          t
+          r
+        (
+          σ
+        )
+          I
+        −
+          σ
+        ]
+        )
+        =
+                1
+                +
+                ν
+              E
+          σ
+        −
+              ν
+              E
+          t
+          r
+        (
+          σ
+        )
+          I
+    {\displaystyle \varepsilon _{ij}={\tfrac {1}{E}}(\sigma _{ij}-\nu [\sigma _{kk}\delta _{ij}-\sigma _{ij}])~;~~{\boldsymbol {\varepsilon }}={\tfrac {1}{E}}({\boldsymbol {\sigma }}-\nu [\mathrm {tr} ({\boldsymbol {\sigma }})~\mathbf {I} -{\boldsymbol {\sigma }}])={\tfrac {1+\nu }{E}}{\boldsymbol {\sigma }}-{\tfrac {\nu }{E}}\mathrm {tr} ({\boldsymbol {\sigma }})~\mathbf {I} }
+This is the form in which the strain is expressed in terms of the stress tensor in engineering. The expression in expanded form is
+                  ε
+                    11
+                =
+                      1
+                      E
+                  [
+                    σ
+                      11
+                  −
+                  ν
+                  (
+                    σ
+                      22
+                  +
+                    σ
+                      33
+                  )
+                  ]
+                  ε
+                    22
+                =
+                      1
+                      E
+                  [
+                    σ
+                      22
+                  −
+                  ν
+                  (
+                    σ
+                      11
+                  +
+                    σ
+                      33
+                  )
+                  ]
+                  ε
+                    33
+                =
+                      1
+                      E
+                  [
+                    σ
+                      33
+                  −
+                  ν
+                  (
+                    σ
+                      11
+                  +
+                    σ
+                      22
+                  )
+                  ]
+                  ε
+                    12
+                =
+                      1
+                        2
+                        G
+                  σ
+                    12
+                ;
+                  ε
+                    13
+                =
+                      1
+                        2
+                        G
+                  σ
+                    13
+                ;
+                  ε
+                    23
+                =
+                      1
+                        2
+                        G
+                  σ
+                    23
+    {\displaystyle {\begin{aligned}\varepsilon _{11}&={\tfrac {1}{E}}\left[\sigma _{11}-\nu (\sigma _{22}+\sigma _{33})\right]\\\varepsilon _{22}&={\tfrac {1}{E}}\left[\sigma _{22}-\nu (\sigma _{11}+\sigma _{33})\right]\\\varepsilon _{33}&={\tfrac {1}{E}}\left[\sigma _{33}-\nu (\sigma _{11}+\sigma _{22})\right]\\\varepsilon _{12}&={\tfrac {1}{2G}}~\sigma _{12}~;~~\varepsilon _{13}={\tfrac {1}{2G}}~\sigma _{13}~;~~\varepsilon _{23}={\tfrac {1}{2G}}~\sigma _{23}\end{aligned}}}
+where E is Young's modulus and 
+        ν
+    {\displaystyle \nu }
+   is Poisson's ratio. (See 3-D elasticity).
+In matrix form, Hooke's law for isotropic materials can be written as
+            [
+                    ε
+                      11
+                    ε
+                      22
+                    ε
+                      33
+                  2
+                    ε
+                      23
+                  2
+                    ε
+                      13
+                  2
+                    ε
+                      12
+            ]
+        =
+            [
+                    ε
+                      11
+                    ε
+                      22
+                    ε
+                      33
+                    γ
+                      23
+                    γ
+                      13
+                    γ
+                      12
+            ]
+        =
+                  1
+                  E
+            [
+                  1
+                  −
+                  ν
+                  −
+                  ν
+                  0
+                  0
+                  0
+                  −
+                  ν
+                  1
+                  −
+                  ν
+                  0
+                  0
+                  0
+                  −
+                  ν
+                  −
+                  ν
+                  1
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  2
+                  (
+                  1
+                  +
+                  ν
+                  )
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  2
+                  (
+                  1
+                  +
+                  ν
+                  )
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  2
+                  (
+                  1
+                  +
+                  ν
+                  )
+            ]
+            [
+                    σ
+                      11
+                    σ
+                      22
+                    σ
+                      33
+                    σ
+                      23
+                    σ
+                      13
+                    σ
+                      12
+            ]
+    {\displaystyle {\begin{bmatrix}\varepsilon _{11}\\\varepsilon _{22}\\\varepsilon _{33}\\2\varepsilon _{23}\\2\varepsilon _{13}\\2\varepsilon _{12}\end{bmatrix}}={\begin{bmatrix}\varepsilon _{11}\\\varepsilon _{22}\\\varepsilon _{33}\\\gamma _{23}\\\gamma _{13}\\\gamma _{12}\end{bmatrix}}={\cfrac {1}{E}}{\begin{bmatrix}1&-\nu &-\nu &0&0&0\\-\nu &1&-\nu &0&0&0\\-\nu &-\nu &1&0&0&0\\0&0&0&2(1+\nu )&0&0\\0&0&0&0&2(1+\nu )&0\\0&0&0&0&0&2(1+\nu )\end{bmatrix}}{\begin{bmatrix}\sigma _{11}\\\sigma _{22}\\\sigma _{33}\\\sigma _{23}\\\sigma _{13}\\\sigma _{12}\end{bmatrix}}}
+where 
+          γ
+            i
+            j
+        :=
+        2
+          ε
+            i
+            j
+    {\displaystyle \gamma _{ij}:=2\varepsilon _{ij}}
+   is the engineering shear strain. The inverse relation may be written as
+            [
+                    σ
+                      11
+                    σ
+                      22
+                    σ
+                      33
+                    σ
+                      23
+                    σ
+                      13
+                    σ
+                      12
+            ]
+        =
+                  E
+                  (
+                  1
+                  +
+                  ν
+                  )
+                  (
+                  1
+                  −
+                  2
+                  ν
+                  )
+            [
+                  1
+                  −
+                  ν
+                  ν
+                  ν
+                  0
+                  0
+                  0
+                  ν
+                  1
+                  −
+                  ν
+                  ν
+                  0
+                  0
+                  0
+                  ν
+                  ν
+                  1
+                  −
+                  ν
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  (
+                  1
+                  −
+                  2
+                  ν
+                  )
+                    /
+                  2
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  (
+                  1
+                  −
+                  2
+                  ν
+                  )
+                    /
+                  2
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  (
+                  1
+                  −
+                  2
+                  ν
+                  )
+                    /
+                  2
+            ]
+            [
+                    ε
+                      11
+                    ε
+                      22
+                    ε
+                      33
+                  2
+                    ε
+                      23
+                  2
+                    ε
+                      13
+                  2
+                    ε
+                      12
+            ]
+    {\displaystyle {\begin{bmatrix}\sigma _{11}\\\sigma _{22}\\\sigma _{33}\\\sigma _{23}\\\sigma _{13}\\\sigma _{12}\end{bmatrix}}={\cfrac {E}{(1+\nu )(1-2\nu )}}{\begin{bmatrix}1-\nu &\nu &\nu &0&0&0\\\nu &1-\nu &\nu &0&0&0\\\nu &\nu &1-\nu &0&0&0\\0&0&0&(1-2\nu )/2&0&0\\0&0&0&0&(1-2\nu )/2&0\\0&0&0&0&0&(1-2\nu )/2\end{bmatrix}}{\begin{bmatrix}\varepsilon _{11}\\\varepsilon _{22}\\\varepsilon _{33}\\2\varepsilon _{23}\\2\varepsilon _{13}\\2\varepsilon _{12}\end{bmatrix}}}
+which can be simplified thanks to the Lamé constants :
+            [
+                    σ
+                      11
+                    σ
+                      22
+                    σ
+                      33
+                    σ
+                      23
+                    σ
+                      13
+                    σ
+                      12
+            ]
+        =
+            [
+                  2
+                  μ
+                  +
+                  λ
+                  λ
+                  λ
+                  0
+                  0
+                  0
+                  λ
+                  2
+                  μ
+                  +
+                  λ
+                  λ
+                  0
+                  0
+                  0
+                  λ
+                  λ
+                  2
+                  μ
+                  +
+                  λ
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  μ
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  μ
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                  μ
+            ]
+            [
+                    ε
+                      11
+                    ε
+                      22
+                    ε
+                      33
+                  2
+                    ε
+                      23
+                  2
+                    ε
+                      13
+                  2
+                    ε
+                      12
+            ]
+    {\displaystyle {\begin{bmatrix}\sigma _{11}\\\sigma _{22}\\\sigma _{33}\\\sigma _{23}\\\sigma _{13}\\\sigma _{12}\end{bmatrix}}={\begin{bmatrix}2\mu +\lambda &\lambda &\lambda &0&0&0\\\lambda &2\mu +\lambda &\lambda &0&0&0\\\lambda &\lambda &2\mu +\lambda &0&0&0\\0&0&0&\mu &0&0\\0&0&0&0&\mu &0\\0&0&0&0&0&\mu \end{bmatrix}}{\begin{bmatrix}\varepsilon _{11}\\\varepsilon _{22}\\\varepsilon _{33}\\2\varepsilon _{23}\\2\varepsilon _{13}\\2\varepsilon _{12}\end{bmatrix}}}
+Under plane stress conditions 
+          σ
+            31
+        =
+          σ
+            13
+        =
+          σ
+            32
+        =
+          σ
+            23
+        =
+          σ
+            33
+        =
+        0
+    {\displaystyle \sigma _{31}=\sigma _{13}=\sigma _{32}=\sigma _{23}=\sigma _{33}=0}
+  . In that case Hooke's law takes the form
+            [
+                    ε
+                      11
+                    ε
+                      22
+                  2
+                    ε
+                      12
+            ]
+        =
+                  1
+                  E
+            [
+                  1
+                  −
+                  ν
+                  0
+                  −
+                  ν
+                  1
+                  0
+                  0
+                  0
+                  2
+                  (
+                  1
+                  +
+                  ν
+                  )
+            ]
+            [
+                    σ
+                      11
+                    σ
+                      22
+                    σ
+                      12
+            ]
+    {\displaystyle {\begin{bmatrix}\varepsilon _{11}\\\varepsilon _{22}\\2\varepsilon _{12}\end{bmatrix}}={\cfrac {1}{E}}{\begin{bmatrix}1&-\nu &0\\-\nu &1&0\\0&0&2(1+\nu )\end{bmatrix}}{\begin{bmatrix}\sigma _{11}\\\sigma _{22}\\\sigma _{12}\end{bmatrix}}}
+The inverse relation is usually written in the reduced form
+            [
+                    σ
+                      11
+                    σ
+                      22
+                    σ
+                      12
+            ]
+        =
+                  E
+                  1
+                  −
+                    ν
+                      2
+            [
+                  1
+                  ν
+                  0
+                  ν
+                  1
+                  0
+                  0
+                  0
+                            1
+                            −
+                            ν
+                            2
+            ]
+            [
+                    ε
+                      11
+                    ε
+                      22
+                  2
+                    ε
+                      12
+            ]
+    {\displaystyle {\begin{bmatrix}\sigma _{11}\\\sigma _{22}\\\sigma _{12}\end{bmatrix}}={\cfrac {E}{1-\nu ^{2}}}{\begin{bmatrix}1&\nu &0\\\nu &1&0\\0&0&{\cfrac {1-\nu }{2}}\end{bmatrix}}{\begin{bmatrix}\varepsilon _{11}\\\varepsilon _{22}\\2\varepsilon _{12}\end{bmatrix}}}
+The symmetry of the Cauchy stress tensor (
+          σ
+            i
+            j
+        =
+          σ
+            j
+            i
+    {\displaystyle \sigma _{ij}=\sigma _{ji}\,}
+  ) and the generalized Hooke's laws (
+          σ
+            i
+            j
+        =
+          c
+            i
+            j
+            k
+            ℓ
+          ϵ
+            k
+            ℓ
+    {\displaystyle \sigma _{ij}=c_{ijk\ell }~\epsilon _{k\ell }}
+  ) implies that 
+          c
+            i
+            j
+            k
+            ℓ
+        =
+          c
+            j
+            i
+            k
+            ℓ
+    {\displaystyle c_{ijk\ell }=c_{jik\ell }\,}
+  . Similarly, the symmetry of the infinitesimal strain tensor implies that 
+          c
+            i
+            j
+            k
+            ℓ
+        =
+          c
+            i
+            j
+            ℓ
+            k
+    {\displaystyle c_{ijk\ell }=c_{ij\ell k}\,}
+  . These symmetries are called the minor symmetries of the stiffness tensor (
+            c
+    {\displaystyle {\mathsf {c}}}
+  ). This reduces the number of elastic constants from 81 to 36.
+If in addition, since the displacement gradient and the Cauchy stress are work conjugate, the stress–strain relation can be derived from a strain energy density functional (
+        U
+    {\displaystyle U}
+  ), then
+          σ
+            i
+            j
+        =
+                  ∂
+                  U
+                  ∂
+                    ϵ
+                      i
+                      j
+        ⟹
+          c
+            i
+            j
+            k
+            ℓ
+        =
+                    ∂
+                      2
+                  U
+                  ∂
+                    ϵ
+                      i
+                      j
+                  ∂
+                    ϵ
+                      k
+                      ℓ
+        .
+    {\displaystyle \sigma _{ij}={\cfrac {\partial U}{\partial \epsilon _{ij}}}\quad \implies \quad c_{ijk\ell }={\cfrac {\partial ^{2}U}{\partial \epsilon _{ij}\partial \epsilon _{k\ell }}}~.}
+The arbitrariness of the order of differentiation implies that 
+          c
+            i
+            j
+            k
+            ℓ
+        =
+          c
+            k
+            ℓ
+            i
+            j
+    {\displaystyle c_{ijk\ell }=c_{k\ell ij}\,}
+  . These are called the major symmetries of the stiffness tensor. This reduces the number of elastic constants to 21 from 36. The major and minor symmetries indicate that the stiffness tensor has only 21 independent components.
+It is often useful to express the anisotropic form of Hooke's law in matrix notation, also called Voigt notation. To do this we take advantage of the symmetry of the stress and strain tensors and express them as six-dimensional vectors in an orthonormal coordinate system (
+            e
+            1
+        ,
+            e
+            2
+        ,
+            e
+            3
+    {\displaystyle \mathbf {e} _{1},\mathbf {e} _{2},\mathbf {e} _{3}}
+  ) as
+        [
+          σ
+        ]
+        =
+            [
+                    σ
+                      11
+                    σ
+                      22
+                    σ
+                      33
+                    σ
+                      23
+                    σ
+                      13
+                    σ
+                      12
+            ]
+        ≡
+            [
+                    σ
+                      1
+                    σ
+                      2
+                    σ
+                      3
+                    σ
+                      4
+                    σ
+                      5
+                    σ
+                      6
+            ]
+        ;
+        [
+          ϵ
+        ]
+        =
+            [
+                    ϵ
+                      11
+                    ϵ
+                      22
+                    ϵ
+                      33
+                  2
+                    ϵ
+                      23
+                  2
+                    ϵ
+                      13
+                  2
+                    ϵ
+                      12
+            ]
+        ≡
+            [
+                    ϵ
+                      1
+                    ϵ
+                      2
+                    ϵ
+                      3
+                    ϵ
+                      4
+                    ϵ
+                      5
+                    ϵ
+                      6
+            ]
+    {\displaystyle [{\boldsymbol {\sigma }}]={\begin{bmatrix}\sigma _{11}\\\sigma _{22}\\\sigma _{33}\\\sigma _{23}\\\sigma _{13}\\\sigma _{12}\end{bmatrix}}\equiv {\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{3}\\\sigma _{4}\\\sigma _{5}\\\sigma _{6}\end{bmatrix}}~;~~[{\boldsymbol {\epsilon }}]={\begin{bmatrix}\epsilon _{11}\\\epsilon _{22}\\\epsilon _{33}\\2\epsilon _{23}\\2\epsilon _{13}\\2\epsilon _{12}\end{bmatrix}}\equiv {\begin{bmatrix}\epsilon _{1}\\\epsilon _{2}\\\epsilon _{3}\\\epsilon _{4}\\\epsilon _{5}\\\epsilon _{6}\end{bmatrix}}}
+Then the stiffness tensor (
+            c
+    {\displaystyle {\mathsf {c}}}
+  ) can be expressed as
+        [
+            C
+        ]
+        =
+            [
+                    c
+                      1111
+                    c
+                      1122
+                    c
+                      1133
+                    c
+                      1123
+                    c
+                      1131
+                    c
+                      1112
+                    c
+                      2211
+                    c
+                      2222
+                    c
+                      2233
+                    c
+                      2223
+                    c
+                      2231
+                    c
+                      2212
+                    c
+                      3311
+                    c
+                      3322
+                    c
+                      3333
+                    c
+                      3323
+                    c
+                      3331
+                    c
+                      3312
+                    c
+                      2311
+                    c
+                      2322
+                    c
+                      2333
+                    c
+                      2323
+                    c
+                      2331
+                    c
+                      2312
+                    c
+                      3111
+                    c
+                      3122
+                    c
+                      3133
+                    c
+                      3123
+                    c
+                      3131
+                    c
+                      3112
+                    c
+                      1211
+                    c
+                      1222
+                    c
+                      1233
+                    c
+                      1223
+                    c
+                      1231
+                    c
+                      1212
+            ]
+        ≡
+            [
+                    C
+                      11
+                    C
+                      12
+                    C
+                      13
+                    C
+                      14
+                    C
+                      15
+                    C
+                      16
+                    C
+                      12
+                    C
+                      22
+                    C
+                      23
+                    C
+                      24
+                    C
+                      25
+                    C
+                      26
+                    C
+                      13
+                    C
+                      23
+                    C
+                      33
+                    C
+                      34
+                    C
+                      35
+                    C
+                      36
+                    C
+                      14
+                    C
+                      24
+                    C
+                      34
+                    C
+                      44
+                    C
+                      45
+                    C
+                      46
+                    C
+                      15
+                    C
+                      25
+                    C
+                      35
+                    C
+                      45
+                    C
+                      55
+                    C
+                      56
+                    C
+                      16
+                    C
+                      26
+                    C
+                      36
+                    C
+                      46
+                    C
+                      56
+                    C
+                      66
+            ]
+    {\displaystyle [{\mathsf {C}}]={\begin{bmatrix}c_{1111}&c_{1122}&c_{1133}&c_{1123}&c_{1131}&c_{1112}\\c_{2211}&c_{2222}&c_{2233}&c_{2223}&c_{2231}&c_{2212}\\c_{3311}&c_{3322}&c_{3333}&c_{3323}&c_{3331}&c_{3312}\\c_{2311}&c_{2322}&c_{2333}&c_{2323}&c_{2331}&c_{2312}\\c_{3111}&c_{3122}&c_{3133}&c_{3123}&c_{3131}&c_{3112}\\c_{1211}&c_{1222}&c_{1233}&c_{1223}&c_{1231}&c_{1212}\end{bmatrix}}\equiv {\begin{bmatrix}C_{11}&C_{12}&C_{13}&C_{14}&C_{15}&C_{16}\\C_{12}&C_{22}&C_{23}&C_{24}&C_{25}&C_{26}\\C_{13}&C_{23}&C_{33}&C_{34}&C_{35}&C_{36}\\C_{14}&C_{24}&C_{34}&C_{44}&C_{45}&C_{46}\\C_{15}&C_{25}&C_{35}&C_{45}&C_{55}&C_{56}\\C_{16}&C_{26}&C_{36}&C_{46}&C_{56}&C_{66}\end{bmatrix}}}
+and Hooke's law is written as
+        [
+          σ
+        ]
+        =
+        [
+            C
+        ]
+        [
+          ϵ
+        ]
+          or
+          σ
+            i
+        =
+          C
+            i
+            j
+          ϵ
+            j
+        .
+    {\displaystyle [{\boldsymbol {\sigma }}]=[{\mathsf {C}}][{\boldsymbol {\epsilon }}]\qquad {\text{or}}\qquad \sigma _{i}=C_{ij}\epsilon _{j}~.}
+Similarly the compliance tensor (
+            s
+    {\displaystyle {\mathsf {s}}}
+  ) can be written as
+        [
+            S
+        ]
+        =
+            [
+                    s
+                      1111
+                    s
+                      1122
+                    s
+                      1133
+                  2
+                    s
+                      1123
+                  2
+                    s
+                      1131
+                  2
+                    s
+                      1112
+                    s
+                      2211
+                    s
+                      2222
+                    s
+                      2233
+                  2
+                    s
+                      2223
+                  2
+                    s
+                      2231
+                  2
+                    s
+                      2212
+                    s
+                      3311
+                    s
+                      3322
+                    s
+                      3333
+                  2
+                    s
+                      3323
+                  2
+                    s
+                      3331
+                  2
+                    s
+                      3312
+                  2
+                    s
+                      2311
+                  2
+                    s
+                      2322
+                  2
+                    s
+                      2333
+                  4
+                    s
+                      2323
+                  4
+                    s
+                      2331
+                  4
+                    s
+                      2312
+                  2
+                    s
+                      3111
+                  2
+                    s
+                      3122
+                  2
+                    s
+                      3133
+                  4
+                    s
+                      3123
+                  4
+                    s
+                      3131
+                  4
+                    s
+                      3112
+                  2
+                    s
+                      1211
+                  2
+                    s
+                      1222
+                  2
+                    s
+                      1233
+                  4
+                    s
+                      1223
+                  4
+                    s
+                      1231
+                  4
+                    s
+                      1212
+            ]
+        ≡
+            [
+                    S
+                      11
+                    S
+                      12
+                    S
+                      13
+                    S
+                      14
+                    S
+                      15
+                    S
+                      16
+                    S
+                      12
+                    S
+                      22
+                    S
+                      23
+                    S
+                      24
+                    S
+                      25
+                    S
+                      26
+                    S
+                      13
+                    S
+                      23
+                    S
+                      33
+                    S
+                      34
+                    S
+                      35
+                    S
+                      36
+                    S
+                      14
+                    S
+                      24
+                    S
+                      34
+                    S
+                      44
+                    S
+                      45
+                    S
+                      46
+                    S
+                      15
+                    S
+                      25
+                    S
+                      35
+                    S
+                      45
+                    S
+                      55
+                    S
+                      56
+                    S
+                      16
+                    S
+                      26
+                    S
+                      36
+                    S
+                      46
+                    S
+                      56
+                    S
+                      66
+            ]
+    {\displaystyle [{\mathsf {S}}]={\begin{bmatrix}s_{1111}&s_{1122}&s_{1133}&2s_{1123}&2s_{1131}&2s_{1112}\\s_{2211}&s_{2222}&s_{2233}&2s_{2223}&2s_{2231}&2s_{2212}\\s_{3311}&s_{3322}&s_{3333}&2s_{3323}&2s_{3331}&2s_{3312}\\2s_{2311}&2s_{2322}&2s_{2333}&4s_{2323}&4s_{2331}&4s_{2312}\\2s_{3111}&2s_{3122}&2s_{3133}&4s_{3123}&4s_{3131}&4s_{3112}\\2s_{1211}&2s_{1222}&2s_{1233}&4s_{1223}&4s_{1231}&4s_{1212}\end{bmatrix}}\equiv {\begin{bmatrix}S_{11}&S_{12}&S_{13}&S_{14}&S_{15}&S_{16}\\S_{12}&S_{22}&S_{23}&S_{24}&S_{25}&S_{26}\\S_{13}&S_{23}&S_{33}&S_{34}&S_{35}&S_{36}\\S_{14}&S_{24}&S_{34}&S_{44}&S_{45}&S_{46}\\S_{15}&S_{25}&S_{35}&S_{45}&S_{55}&S_{56}\\S_{16}&S_{26}&S_{36}&S_{46}&S_{56}&S_{66}\end{bmatrix}}}
+If a linear elastic material is rotated from a reference configuration to another, then the material is symmetric with respect to the rotation if the components of the stiffness tensor in the rotated configuration are related to the components in the reference configuration by the relation
+          c
+            p
+            q
+            r
+            s
+        =
+          l
+            p
+            i
+          l
+            q
+            j
+          l
+            r
+            k
+          l
+            s
+            ℓ
+          c
+            i
+            j
+            k
+            ℓ
+    {\displaystyle c_{pqrs}=l_{pi}~l_{qj}~l_{rk}~l_{s\ell }~c_{ijk\ell }}
+where 
+          l
+            a
+            b
+    {\displaystyle l_{ab}}
+   are the components of an orthogonal rotation matrix 
+        [
+        L
+        ]
+    {\displaystyle [L]}
+  . The same relation also holds for inversions.
+In matrix notation, if the transformed basis (rotated or inverted) is related to the reference basis by
+        [
+            e
+            i
+          ′
+        ]
+        =
+        [
+        L
+        ]
+        [
+            e
+            i
+        ]
+    {\displaystyle [\mathbf {e} _{i}']=[L][\mathbf {e} _{i}]}
+then
+          C
+            i
+            j
+          ϵ
+            i
+          ϵ
+            j
+        =
+          C
+            i
+            j
+          ′
+          ϵ
+            i
+          ′
+          ϵ
+            j
+          ′
+        .
+    {\displaystyle C_{ij}~\epsilon _{i}~\epsilon _{j}=C_{ij}'~\epsilon '_{i}~\epsilon '_{j}~.}
+In addition, if the material is symmetric with respect to the transformation 
+        [
+        L
+        ]
+    {\displaystyle [L]}
+   then
+          C
+            i
+            j
+        =
+          C
+            i
+            j
+          ′
+        ⟹
+          C
+            i
+            j
+        (
+          ϵ
+            i
+          ϵ
+            j
+        −
+          ϵ
+            i
+          ′
+          ϵ
+            j
+          ′
+        )
+        =
+        0
+        .
+    {\displaystyle C_{ij}=C'_{ij}\quad \implies \quad C_{ij}~(\epsilon _{i}~\epsilon _{j}-\epsilon '_{i}~\epsilon '_{j})=0~.}
+Orthotropic materials have three orthogonal planes of symmetry. If the basis vectors (
+            e
+            1
+        ,
+            e
+            2
+        ,
+            e
+            3
+    {\displaystyle \mathbf {e} _{1},\mathbf {e} _{2},\mathbf {e} _{3}}
+  ) are normals to the planes of symmetry then the coordinate transformation relations imply that
+            [
+                    σ
+                      1
+                    σ
+                      2
+                    σ
+                      3
+                    σ
+                      4
+                    σ
+                      5
+                    σ
+                      6
+            ]
+        =
+            [
+                    C
+                      11
+                    C
+                      12
+                    C
+                      13
+                  0
+                  0
+                  0
+                    C
+                      12
+                    C
+                      22
+                    C
+                      23
+                  0
+                  0
+                  0
+                    C
+                      13
+                    C
+                      23
+                    C
+                      33
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                    C
+                      44
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                    C
+                      55
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                    C
+                      66
+            ]
+            [
+                    ϵ
+                      1
+                    ϵ
+                      2
+                    ϵ
+                      3
+                    ϵ
+                      4
+                    ϵ
+                      5
+                    ϵ
+                      6
+            ]
+    {\displaystyle {\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{3}\\\sigma _{4}\\\sigma _{5}\\\sigma _{6}\end{bmatrix}}={\begin{bmatrix}C_{11}&C_{12}&C_{13}&0&0&0\\C_{12}&C_{22}&C_{23}&0&0&0\\C_{13}&C_{23}&C_{33}&0&0&0\\0&0&0&C_{44}&0&0\\0&0&0&0&C_{55}&0\\0&0&0&0&0&C_{66}\end{bmatrix}}{\begin{bmatrix}\epsilon _{1}\\\epsilon _{2}\\\epsilon _{3}\\\epsilon _{4}\\\epsilon _{5}\\\epsilon _{6}\end{bmatrix}}}
+The inverse of this relation is commonly written as
+            [
+                    ϵ
+                        x
+                        x
+                    ϵ
+                        y
+                        y
+                    ϵ
+                        z
+                        z
+                  2
+                    ϵ
+                        y
+                        z
+                  2
+                    ϵ
+                        z
+                        x
+                  2
+                    ϵ
+                        x
+                        y
+            ]
+        =
+            [
+                        1
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              x
+                          E
+                              y
+                  −
+                          ν
+                              z
+                              x
+                          E
+                              z
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              y
+                          E
+                              x
+                        1
+                          E
+                              y
+                  −
+                          ν
+                              z
+                              y
+                          E
+                              z
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              z
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              z
+                          E
+                              y
+                        1
+                          E
+                              z
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              y
+                              z
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              z
+                              x
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              x
+                              y
+            ]
+            [
+                    σ
+                        x
+                        x
+                    σ
+                        y
+                        y
+                    σ
+                        z
+                        z
+                    σ
+                        y
+                        z
+                    σ
+                        z
+                        x
+                    σ
+                        x
+                        y
+            ]
+    {\displaystyle {\begin{bmatrix}\epsilon _{\rm {xx}}\\\epsilon _{\rm {yy}}\\\epsilon _{\rm {zz}}\\2\epsilon _{\rm {yz}}\\2\epsilon _{\rm {zx}}\\2\epsilon _{\rm {xy}}\end{bmatrix}}={\begin{bmatrix}{\tfrac {1}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yx}}}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {zx}}}{E_{\rm {z}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xy}}}{E_{\rm {x}}}}&{\tfrac {1}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {zy}}}{E_{\rm {z}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xz}}}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yz}}}{E_{\rm {y}}}}&{\tfrac {1}{E_{\rm {z}}}}&0&0&0\\0&0&0&{\tfrac {1}{G_{\rm {yz}}}}&0&0\\0&0&0&0&{\tfrac {1}{G_{\rm {zx}}}}&0\\0&0&0&0&0&{\tfrac {1}{G_{\rm {xy}}}}\\\end{bmatrix}}{\begin{bmatrix}\sigma _{\rm {xx}}\\\sigma _{\rm {yy}}\\\sigma _{\rm {zz}}\\\sigma _{\rm {yz}}\\\sigma _{\rm {zx}}\\\sigma _{\rm {xy}}\end{bmatrix}}}
+where
+            E
+              i
+    {\displaystyle {E}_{\rm {i}}\,}
+   is the Young's modulus along axis 
+        i
+    {\displaystyle i}
+          G
+              i
+              j
+    {\displaystyle G_{\rm {ij}}\,}
+   is the shear modulus in direction 
+        j
+    {\displaystyle j}
+   on the plane whose normal is in direction 
+        i
+    {\displaystyle i}
+          ν
+              i
+              j
+    {\displaystyle \nu _{\rm {ij}}\,}
+   is the Poisson's ratio that corresponds to a contraction in direction 
+        j
+    {\displaystyle j}
+   when an extension is applied in direction 
+        i
+    {\displaystyle i}
+  .
+Under plane stress conditions, 
+          σ
+            z
+            z
+        =
+          σ
+            z
+            x
+        =
+          σ
+            y
+            z
+        =
+        0
+    {\displaystyle \sigma _{zz}=\sigma _{zx}=\sigma _{yz}=0}
+  , Hooke's law for an orthotropic material takes the form
+            [
+                    ε
+                        x
+                        x
+                    ε
+                        y
+                        y
+                  2
+                    ε
+                        x
+                        y
+            ]
+        =
+            [
+                      1
+                        E
+                            x
+                  −
+                        ν
+                            y
+                            x
+                        E
+                            y
+                  0
+                  −
+                        ν
+                            x
+                            y
+                        E
+                            x
+                      1
+                        E
+                            y
+                  0
+                  0
+                  0
+                      1
+                        G
+                            x
+                            y
+            ]
+            [
+                    σ
+                        x
+                        x
+                    σ
+                        y
+                        y
+                    σ
+                        x
+                        y
+            ]
+        .
+    {\displaystyle {\begin{bmatrix}\varepsilon _{\rm {xx}}\\\varepsilon _{\rm {yy}}\\2\varepsilon _{\rm {xy}}\end{bmatrix}}={\begin{bmatrix}{\frac {1}{E_{\rm {x}}}}&-{\frac {\nu _{\rm {yx}}}{E_{\rm {y}}}}&0\\-{\frac {\nu _{\rm {xy}}}{E_{\rm {x}}}}&{\frac {1}{E_{\rm {y}}}}&0\\0&0&{\frac {1}{G_{\rm {xy}}}}\end{bmatrix}}{\begin{bmatrix}\sigma _{\rm {xx}}\\\sigma _{\rm {yy}}\\\sigma _{\rm {xy}}\end{bmatrix}}\,.}
+The inverse relation is
+            [
+                    σ
+                        x
+                        x
+                    σ
+                        y
+                        y
+                    σ
+                        x
+                        y
+            ]
+        =
+                  1
+                  1
+                  −
+                    ν
+                        x
+                        y
+                    ν
+                        y
+                        x
+            [
+                    E
+                        x
+                    ν
+                        y
+                        x
+                    E
+                        x
+                  0
+                    ν
+                        x
+                        y
+                    E
+                        y
+                    E
+                        y
+                  0
+                  0
+                  0
+                    G
+                        x
+                        y
+                  (
+                  1
+                  −
+                    ν
+                        x
+                        y
+                    ν
+                        y
+                        x
+                  )
+            ]
+            [
+                    ε
+                        x
+                        x
+                    ε
+                        y
+                        y
+                  2
+                    ε
+                        x
+                        y
+            ]
+        .
+    {\displaystyle {\begin{bmatrix}\sigma _{\rm {xx}}\\\sigma _{\rm {yy}}\\\sigma _{\rm {xy}}\end{bmatrix}}={\cfrac {1}{1-\nu _{\rm {xy}}\nu _{\rm {yx}}}}{\begin{bmatrix}E_{\rm {x}}&\nu _{\rm {yx}}E_{\rm {x}}&0\\\nu _{\rm {xy}}E_{\rm {y}}&E_{\rm {y}}&0\\0&0&G_{\rm {xy}}(1-\nu _{\rm {xy}}\nu _{\rm {yx}})\end{bmatrix}}{\begin{bmatrix}\varepsilon _{\rm {xx}}\\\varepsilon _{\rm {yy}}\\2\varepsilon _{\rm {xy}}\end{bmatrix}}\,.}
+The transposed form of the above stiffness matrix is also often used.
+A transversely isotropic material is symmetric with respect to a rotation about an axis of symmetry. For such a material, if 
+            e
+            3
+    {\displaystyle \mathbf {e} _{3}}
+   is the axis of symmetry, Hooke's law can be expressed as
+            [
+                    σ
+                      1
+                    σ
+                      2
+                    σ
+                      3
+                    σ
+                      4
+                    σ
+                      5
+                    σ
+                      6
+            ]
+        =
+            [
+                    C
+                      11
+                    C
+                      12
+                    C
+                      13
+                  0
+                  0
+                  0
+                    C
+                      12
+                    C
+                      11
+                    C
+                      13
+                  0
+                  0
+                  0
+                    C
+                      13
+                    C
+                      13
+                    C
+                      33
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                    C
+                      44
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                    C
+                      44
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                        2
+                  (
+                    C
+                      11
+                  −
+                    C
+                      12
+                  )
+            ]
+            [
+                    ϵ
+                      1
+                    ϵ
+                      2
+                    ϵ
+                      3
+                    ϵ
+                      4
+                    ϵ
+                      5
+                    ϵ
+                      6
+            ]
+    {\displaystyle {\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{3}\\\sigma _{4}\\\sigma _{5}\\\sigma _{6}\end{bmatrix}}={\begin{bmatrix}C_{11}&C_{12}&C_{13}&0&0&0\\C_{12}&C_{11}&C_{13}&0&0&0\\C_{13}&C_{13}&C_{33}&0&0&0\\0&0&0&C_{44}&0&0\\0&0&0&0&C_{44}&0\\0&0&0&0&0&{\tfrac {1}{2}}(C_{11}-C_{12})\end{bmatrix}}{\begin{bmatrix}\epsilon _{1}\\\epsilon _{2}\\\epsilon _{3}\\\epsilon _{4}\\\epsilon _{5}\\\epsilon _{6}\end{bmatrix}}}
+More frequently, the 
+        x
+        ≡
+            e
+            1
+    {\displaystyle x\equiv \mathbf {e} _{1}}
+   axis is taken to be the axis of symmetry and the inverse Hooke's law is written as 
+            [
+                    ϵ
+                        x
+                        x
+                    ϵ
+                        y
+                        y
+                    ϵ
+                        z
+                        z
+                  2
+                    ϵ
+                        y
+                        z
+                  2
+                    ϵ
+                        z
+                        x
+                  2
+                    ϵ
+                        x
+                        y
+            ]
+        =
+            [
+                        1
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              x
+                          E
+                              y
+                  −
+                          ν
+                              y
+                              x
+                          E
+                              y
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              y
+                          E
+                              x
+                        1
+                          E
+                              y
+                  −
+                          ν
+                              y
+                              z
+                          E
+                              y
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              y
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              z
+                          E
+                              y
+                        1
+                          E
+                              y
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                          2
+                          (
+                          1
+                          +
+                            ν
+                                y
+                                z
+                          )
+                          E
+                              y
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              x
+                              y
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              x
+                              y
+            ]
+            [
+                    σ
+                        x
+                        x
+                    σ
+                        y
+                        y
+                    σ
+                        z
+                        z
+                    σ
+                        y
+                        z
+                    σ
+                        z
+                        x
+                    σ
+                        x
+                        y
+            ]
+    {\displaystyle {\begin{bmatrix}\epsilon _{\rm {xx}}\\\epsilon _{\rm {yy}}\\\epsilon _{\rm {zz}}\\2\epsilon _{\rm {yz}}\\2\epsilon _{\rm {zx}}\\2\epsilon _{\rm {xy}}\end{bmatrix}}={\begin{bmatrix}{\tfrac {1}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yx}}}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {yx}}}{E_{\rm {y}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xy}}}{E_{\rm {x}}}}&{\tfrac {1}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {yz}}}{E_{\rm {y}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xy}}}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yz}}}{E_{\rm {y}}}}&{\tfrac {1}{E_{\rm {y}}}}&0&0&0\\0&0&0&{\tfrac {2(1+\nu _{\rm {yz}})}{E_{\rm {y}}}}&0&0\\0&0&0&0&{\tfrac {1}{G_{\rm {xy}}}}&0\\0&0&0&0&0&{\tfrac {1}{G_{\rm {xy}}}}\\\end{bmatrix}}{\begin{bmatrix}\sigma _{\rm {xx}}\\\sigma _{\rm {yy}}\\\sigma _{\rm {zz}}\\\sigma _{\rm {yz}}\\\sigma _{\rm {zx}}\\\sigma _{\rm {xy}}\end{bmatrix}}}
+Linear deformations of elastic materials can be approximated as adiabatic. Under these conditions and for quasistatic processes the first law of thermodynamics for a deformed body can be expressed as
+        δ
+        W
+        =
+        δ
+        U
+    {\displaystyle \delta W=\delta U\,}
+where 
+        δ
+        U
+    {\displaystyle \delta U}
+   is the increase in internal energy and 
+        δ
+        W
+    {\displaystyle \delta W}
+   is the work done by external forces. The work can be split into two terms
+        δ
+        W
+        =
+        δ
+          W
+            s
+        +
+        δ
+          W
+            b
+    {\displaystyle \delta W=\delta W_{s}+\delta W_{b}\,}
+where 
+        δ
+          W
+            s
+    {\displaystyle \delta W_{s}}
+   is the work done by surface forces while 
+        δ
+          W
+            b
+    {\displaystyle \delta W_{b}}
+   is the work done by body forces. If 
+        δ
+          u
+    {\displaystyle \delta \mathbf {u} }
+   is a variation of the displacement field 
+          u
+    {\displaystyle \mathbf {u} }
+   in the body, then the two external work terms can be expressed as
+        δ
+          W
+            s
+        =
+          ∫
+            ∂
+            Ω
+          t
+        ⋅
+        δ
+          u
+            d
+            S
+        ;
+        δ
+          W
+            b
+        =
+          ∫
+            Ω
+          b
+        ⋅
+        δ
+          u
+            d
+            V
+    {\displaystyle \delta W_{s}=\int _{\partial \Omega }\mathbf {t} \cdot \delta \mathbf {u} ~{\rm {dS}}~;~~\delta W_{b}=\int _{\Omega }\mathbf {b} \cdot \delta \mathbf {u} ~{\rm {dV}}}
+where 
+          t
+    {\displaystyle \mathbf {t} }
+   is the surface traction vector, 
+          b
+    {\displaystyle \mathbf {b} }
+   is the body force vector, 
+        Ω
+    {\displaystyle \Omega \,}
+   represents the body and 
+        ∂
+        Ω
+    {\displaystyle \partial \Omega }
+   represents its surface. Using the relation between the Cauchy stress and the surface traction, 
+          t
+        =
+          n
+        ⋅
+          σ
+    {\displaystyle \mathbf {t} =\mathbf {n} \cdot {\boldsymbol {\sigma }}}
+   (where 
+          n
+    {\displaystyle \mathbf {n} }
+   is the unit outward normal to 
+        ∂
+        Ω
+    {\displaystyle \partial \Omega }
+  ), we have
+        δ
+        W
+        =
+        δ
+        U
+        =
+          ∫
+            ∂
+            Ω
+        (
+          n
+        ⋅
+          σ
+        )
+        ⋅
+        δ
+          u
+            d
+            S
+        +
+          ∫
+            Ω
+          b
+        ⋅
+        δ
+          u
+            d
+            V
+    {\displaystyle \delta W=\delta U=\int _{\partial \Omega }(\mathbf {n} \cdot {\boldsymbol {\sigma }})\cdot \delta \mathbf {u} ~{\rm {dS}}+\int _{\Omega }\mathbf {b} \cdot \delta \mathbf {u} ~{\rm {dV}}}
+Converting the surface integral into a volume integral via the divergence theorem gives
+        δ
+        U
+        =
+          ∫
+            Ω
+        [
+          ∇
+        ⋅
+        (
+          σ
+        ⋅
+        δ
+          u
+        )
+        +
+          b
+        ⋅
+        δ
+          u
+        ]
+            d
+            V
+        .
+    {\displaystyle \delta U=\int _{\Omega }[{\boldsymbol {\nabla }}\cdot ({\boldsymbol {\sigma }}\cdot \delta \mathbf {u} )+\mathbf {b} \cdot \delta \mathbf {u} ]~{\rm {dV}}~.}
+Using the symmetry of the Cauchy stress and the identity
+          ∇
+        ⋅
+        (
+          A
+        ⋅
+          b
+        )
+        =
+        (
+          ∇
+        ⋅
+          A
+        )
+        ⋅
+          b
+        +
+              1
+              2
+        [
+            A
+            T
+        :
+          ∇
+          b
+        +
+          A
+        :
+        (
+          ∇
+          b
+          )
+            T
+        ]
+    {\displaystyle {\boldsymbol {\nabla }}\cdot ({\boldsymbol {A}}\cdot \mathbf {b} )=({\boldsymbol {\nabla }}\cdot {\boldsymbol {A}})\cdot \mathbf {b} +{\tfrac {1}{2}}[{\boldsymbol {A}}^{T}:{\boldsymbol {\nabla }}\mathbf {b} +{\boldsymbol {A}}:({\boldsymbol {\nabla }}\mathbf {b} )^{T}]}
+we have the following
+        δ
+        U
+        =
+          ∫
+            Ω
+        [
+          σ
+        :
+              1
+              2
+        {
+          ∇
+        δ
+          u
+        +
+        (
+          ∇
+        δ
+          u
+          )
+            T
+        }
+        +
+        {
+          ∇
+        ⋅
+          σ
+        +
+          b
+        }
+        ⋅
+        δ
+          u
+        ]
+            d
+            V
+        .
+    {\displaystyle \delta U=\int _{\Omega }[{\boldsymbol {\sigma }}:{\tfrac {1}{2}}\{{\boldsymbol {\nabla }}\delta \mathbf {u} +({\boldsymbol {\nabla }}\delta \mathbf {u} )^{T}\}+\{{\boldsymbol {\nabla }}\cdot {\boldsymbol {\sigma }}+\mathbf {b} \}\cdot \delta \mathbf {u} ]~{\rm {dV}}~.}
+From the definition of strain and from the equations of equilibrium we have
+        δ
+          ϵ
+        =
+              1
+              2
+        [
+          ∇
+        δ
+          u
+        +
+        (
+          ∇
+        δ
+          u
+          )
+            T
+        ]
+        ;
+          ∇
+        ⋅
+          σ
+        +
+          b
+        =
+          0
+        .
+    {\displaystyle \delta {\boldsymbol {\epsilon }}={\tfrac {1}{2}}[{\boldsymbol {\nabla }}\delta \mathbf {u} +({\boldsymbol {\nabla }}\delta \mathbf {u} )^{T}]~;~~{\boldsymbol {\nabla }}\cdot {\boldsymbol {\sigma }}+\mathbf {b} =\mathbf {0} ~.}
+Hence we can write
+        δ
+        U
+        =
+          ∫
+            Ω
+          σ
+        :
+        δ
+          ϵ
+            d
+            V
+    {\displaystyle \delta U=\int _{\Omega }{\boldsymbol {\sigma }}:\delta {\boldsymbol {\epsilon }}~{\rm {dV}}}
+and therefore the variation in the internal energy density is given by
+        δ
+          U
+            0
+        =
+          σ
+        :
+        δ
+          ϵ
+        .
+    {\displaystyle \delta U_{0}={\boldsymbol {\sigma }}:\delta {\boldsymbol {\epsilon }}~.}
+An elastic material is defined as one in which the total internal energy is equal to the potential energy of the internal forces (also called the elastic strain energy). Therefore, the internal energy density is a function of the strains, 
+          U
+            0
+        =
+          U
+            0
+        (
+          ϵ
+        )
+    {\displaystyle U_{0}=U_{0}({\boldsymbol {\epsilon }})}
+   and the variation of the internal energy can be expressed as
+        δ
+          U
+            0
+        =
+                  ∂
+                    U
+                      0
+                  ∂
+                    ϵ
+        :
+        δ
+          ϵ
+        .
+    {\displaystyle \delta U_{0}={\cfrac {\partial U_{0}}{\partial {\boldsymbol {\epsilon }}}}:\delta {\boldsymbol {\epsilon }}~.}
+Since the variation of strain is arbitrary, the stress–strain relation of an elastic material is given by
+          σ
+        =
+                  ∂
+                    U
+                      0
+                  ∂
+                    ϵ
+        .
+    {\displaystyle {\boldsymbol {\sigma }}={\cfrac {\partial U_{0}}{\partial {\boldsymbol {\epsilon }}}}~.}
+For a linear elastic material, the quantity 
+        ∂
+          U
+            0
+          /
+        ∂
+          ϵ
+    {\displaystyle \partial U_{0}/\partial {\boldsymbol {\epsilon }}}
+   is a linear function of 
+          ϵ
+    {\displaystyle {\boldsymbol {\epsilon }}}
+  , and can therefore be expressed as
+          σ
+        =
+            c
+        :
+          ϵ
+    {\displaystyle {\boldsymbol {\sigma }}={\mathsf {c}}:{\boldsymbol {\epsilon }}}
+where 
+            c
+    {\displaystyle {\mathsf {c}}}
+   is a fourth-rank tensor of material constants, also called the stiffness tensor. We can see why 
+            c
+    {\displaystyle {\mathsf {c}}}
+   must be a fourth-rank tensor by noting that, for a linear elastic material,
+                  ∂
+                  ∂
+                    ϵ
+        [
+          σ
+        (
+          ϵ
+        )
+        ]
+        =
+          constant
+        =
+            c
+        .
+    {\displaystyle {\cfrac {\partial }{\partial {\boldsymbol {\epsilon }}}}[{\boldsymbol {\sigma }}({\boldsymbol {\epsilon }})]={\text{constant}}={\mathsf {c}}\,.}
+In index notation
+                  ∂
+                    σ
+                      i
+                      j
+                  ∂
+                    ϵ
+                      k
+                      ℓ
+        =
+          constant
+        =
+          c
+            i
+            j
+            k
+            ℓ
+        .
+    {\displaystyle {\cfrac {\partial \sigma _{ij}}{\partial \epsilon _{k\ell }}}={\text{constant}}=c_{ijk\ell }\,.}
+The right-hand side constant requires four indices and is a fourth-rank quantity. We can also see that this quantity must be a tensor because it is a linear transformation that takes the strain tensor to the stress tensor. We can also show that the constant obeys the tensor transformation rules for fourth-rank tensors.
+Acoustoelastic effect
+Elastic potential energy
+Laws of science
+List of scientific laws named after people
+Quadratic form
+Series and parallel springs
+Spring system
+Simple harmonic motion of a mass on a spring
+Sine wave
+Solid mechanics
+Spring pendulum

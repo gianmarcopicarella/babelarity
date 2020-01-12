@@ -1,0 +1,47 @@
+A centered hexagonal number, or hex number, is a centered figurate number that represents a hexagon with a dot in the center and all other dots surrounding the center dot in a hexagonal lattice.
+The nth centered hexagonal number is given by the formula
+          n
+            3
+        −
+        (
+        n
+        −
+        1
+          )
+            3
+        =
+        3
+        n
+        (
+        n
+        −
+        1
+        )
+        +
+        1.
+    {\displaystyle n^{3}-(n-1)^{3}=3n(n-1)+1.\,}
+Expressing the formula as
+        1
+        +
+        6
+          (
+              1
+              2
+          n
+          (
+          n
+          −
+          1
+          )
+          )
+    {\displaystyle 1+6\left({1 \over 2}n(n-1)\right)}
+shows that the centered hexagonal number for n is 1 more than 6 times the (n − 1)th triangular number.
+The first few centered hexagonal numbers are (sequence A003215 in the OEIS):
+1, 7, 19, 37, 61, 91, 127, 169, 217, 271, 331, 397, 469, 547, 631, 721, 817, 919.
+In base 10 one can notice that the hexagonal numbers' rightmost (least significant) digits follow the pattern 1–7–9–7–1.
+Centered hexagonal numbers have practical applications in materials logistics management, for example, in packing round items into larger round containers, such as Vienna sausages into round cans, or combining individual wire strands into a cable.
+The sum of the first n centered hexagonal numbers is n3. That is, centered hexagonal pyramidal numbers and cubes are the same numbers, but they represent different shapes. Viewed from the opposite perspective, centered hexagonal numbers are differences of two consecutive cubes, so that the centered hexagonal numbers are the gnomon of the cubes. (This can be seen geometrically from the diagram.) In particular, prime centered hexagonal numbers are cuban primes.
+The difference between (2n)2 and the nth centered hexagonal number is a number of the form 3n2 + 3n − 1, while the difference between (2n − 1)2 and the nth centered hexagonal number is a pronic number.
+Hexagonal number
+Magic hexagon
+Star number

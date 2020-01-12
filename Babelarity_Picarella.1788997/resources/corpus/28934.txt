@@ -1,0 +1,26 @@
+A countermeasure is a measure or action taken to counter or offset another one. As a general concept it implies precision, and is any technological or tactical solution or system (often for a military application) designed to prevent an undesirable outcome in the process. The first known use of the term is in 1923.
+Countermeasures can refer to the following disciplinary spectrum:
+Defense
+Medicine
+Materials engineering
+Electro-magnetic engineering
+Policing
+Information technology
+Law
+Diplomatic security
+Pollution prevention
+Defense countermeasures are often subdivided into "active" and "passive" countermeasures.
+In military applications, "active" countermeasures which alter the electromagnetic, acoustic or other signature(s) of a target thereby altering the tracking and sensing behavior of an incoming threat (e.g., guided missile) are designated soft-kill measures. Measures that physically counterattack an incoming threat thereby destroying/altering its payload/warhead in such a way that the intended effect on the target is majorly impeded are designated hard-kill measures. Both are further described in active protection systems.
+"Passive" countermeasures include:
+Armor
+Camouflage
+Fortification
+Self-sealing fuel tank
+Anti-aircraft
+Anti-ballistic missile
+Electronic countermeasures
+Flare (countermeasure)
+Infrared countermeasures
+Mine countermeasures
+National Missile Defense
+Strategic Defense Initiative

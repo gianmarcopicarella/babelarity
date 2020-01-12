@@ -1,0 +1,16 @@
+The Nokia Lumia 720 is a Windows Phone 8 device manufactured by Nokia. It was announced at the 2013 Mobile World Congress.
+The phone features a range of back 'Shells' which will allow users to customize the look of their phone as well as adding functionality such as wireless charging (with the addition of a separate accessory case). A removable rear shell gives the device the benefit of easy replaceability (particularly in instances of damage). Action keys (volume, power and dedicated camera key) reside on the right, with a 3.5mm headphone jack mounted atop the device, and Micro-USB port at its base.
+At 9mm thick, the Nokia Lumia 720 was - at the time of announcement - amongst the thinnest uni-body polycarbonate shell smartphones Nokia had produced.
+Its 4.3 inch display has a WVGA resolution of 800 x 480 pixels and an aspect ratio of 15:9.
+Other features:
+ClearBlack for improved outdoor visibility
+SuperSensitive display for easy use even with gloves, nails and the like.
+Screen protection provided by Corning® Gorilla® Glass 2.
+Supports wireless charging using an optional accessory cover. Also can be recharged physically using conventional wired power adapter or USB cable.
+Uses a 2000 mAh capacity battery just as the larger Lumia 920 does and as a result has a longer battery life.
+This is the first Nokia phone to replace Nokia Maps with the Here suite of navigation services such as Here Maps, Here Transit and HERE Drive, but it lacks HERE Drive+ unlike other second generation Lumia devices.
+As with other Lumia devices, the 720 includes Nokia-exclusive apps which differentiate it from other Windows Phone 8 handsets, such as the HTC 8X, Samsung Ativ S, and Huawei Ascend W1.
+Announced in April 2014, the latest Lumia Windows Phone iteration - Lumia Cyan - included Windows Phone 8.1, and began worldwide roll-out later that year.
+In January 2015, Microsoft released the Lumia Denim update for Nokia 720. The update fixes the bugs and adds new features to the phone.
+Nokia doesn't expect operators currently using LTE to offer this device because this is a HSPA+ device and cannot take advantage of faster 4G LTE networks.
+Microsoft Lumia

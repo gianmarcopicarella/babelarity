@@ -1,0 +1,9 @@
+Nagware (also known as begware, annoyware or a nagscreen) is a type of shareware that persistently reminds (nags) the user to register it by paying a fee. It usually does this by popping up a message when the user starts the program, or intermittently while the user is using the application. These messages can appear as windows obscuring part of the screen, or as message boxes that can quickly be closed. Some nagware keeps the message up for a certain time period, forcing the user to wait to continue to use the program.
+The intent is generally that the user will register or buy the program to get rid of the trial version's annoyance.
+Nagware can also refer to software that requires an optical disc to be inserted into its drive; like with many classic CD-ROM games, and even modern DVD and Blu-ray ROM games as well, since that was a common method for copy protection, though ISO images have circumvented this mechanism to some extent.
+Damaged good
+Donationware
+Freeware
+Shareware
+TeamViewer
+Windows 10

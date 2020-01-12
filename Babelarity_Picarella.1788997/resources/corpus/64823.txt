@@ -1,0 +1,26 @@
+Paul Richard Halmos (Hungarian: Halmos Pál; March 3, 1916 – October 2, 2006) was a Hungarian-Jewish-born American mathematician who made fundamental advances in the areas of mathematical logic, probability theory, statistics, operator theory, ergodic theory, and functional analysis (in particular, Hilbert spaces). He was also recognized as a great mathematical expositor.
+Halmos arrived in the U.S. at 13 years of age, but never lost his Hungarian accent. Halmos obtained his B.A. from the University of Illinois, majoring in mathematics, but fulfilling the requirements for both a math and philosophy degree. He took only three years to obtain the degree, and was only 19 when he graduated. He then began a Ph.D. in philosophy; but, after failing his masters' oral exams, he shifted to mathematics, graduating in 1938. Joseph L. Doob supervised his dissertation, titled Invariants of Certain Stochastic Transformations: The Mathematical Theory of Gambling Systems.
+Shortly after his graduation, Halmos left for the Institute for Advanced Study, lacking both job and grant money. Six months later, he was working under John von Neumann, which proved a decisive experience. While at the Institute, Halmos wrote his first book, Finite Dimensional Vector Spaces, which immediately established his reputation as a fine expositor of mathematics.
+Halmos taught at Syracuse University, the University of Chicago (1946–60), the University of Michigan, the University of California at Santa Barbara (1976–78), the University of Hawaii, and Indiana University. From his 1985 retirement from Indiana until his death, he was affiliated with the Mathematics department at Santa Clara University.
+In a series of papers reprinted in his 1962 Algebraic Logic, Halmos devised polyadic algebras, an algebraic version of first-order logic differing from the better known cylindric algebras of Alfred Tarski and his students. An elementary version of polyadic algebra is described in monadic Boolean algebra.
+In addition to his original contributions to mathematics, Halmos was an unusually clear and engaging expositor of university mathematics. He won the Lester R. Ford Award in 1971 and again in 1977 (shared with W. P. Ziemer, W. H. Wheeler, S. H. Moolgavkar, J. H. Ewing and W. H. Gustafson). Halmos chaired the American Mathematical Society committee that wrote the AMS style guide for academic mathematics, published in 1973. In 1983, he received the AMS's Steele Prize for exposition.
+In the American Scientist 56(4): 375–389, Halmos argued that mathematics is a creative art, and that mathematicians should be seen as artists, not number crunchers. He discussed the division of the field into mathology and mathophysics, further arguing that mathematicians and painters think and work in related ways.
+Halmos's 1985 "automathography" I Want to Be a Mathematician is an account of what it was like to be an academic mathematician in 20th century America. He called the book "automathography" rather than "autobiography", because its focus is almost entirely on his life as a mathematician, not his personal life. The book contains the following quote on Halmos' view of what doing mathematics means:
+Don't just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?
+In these memoirs, Halmos claims to have invented the "iff" notation for the words "if and only if" and to have been the first to use the “tombstone” notation to signify the end of a proof, and this is generally agreed to be the case. The tombstone symbol ∎ (Unicode U+220E) is sometimes called a halmos.
+In 2005, Halmos and his wife Virginia funded the Euler Book Prize, an annual award given by the Mathematical Association of America for a book that is likely to improve the view of mathematics among the public. The first prize was given in 2007, the 300th anniversary of Leonhard Euler's birth, to John Derbyshire for his book about Bernhard Riemann and the Riemann hypothesis: Prime Obsession.
+1942. Finite-Dimensional Vector Spaces. Springer-Verlag.
+1950. Measure Theory. Springer Verlag.
+1951. Introduction to Hilbert Space and the Theory of Spectral Multiplicity. Chelsea.
+1956. Lectures on Ergodic Theory. Chelsea.
+1960. Naive Set Theory. Springer Verlag.
+1962. Algebraic Logic. Chelsea.
+1963. Lectures on Boolean Algebras. Van Nostrand.
+1967. A Hilbert Space Problem Book. Springer-Verlag.
+1978 (with V. S. Sunder). Bounded Integral Operators on L² Spaces. Springer Verlag
+1985. I Want to Be a Mathematician. Springer-Verlag.
+1987. I Have a Photographic Memory. Mathematical Association of America.
+1991. Problems for Mathematicians, Young and Old, Dolciani Mathematical Expositions, Mathematical Association of America.
+1996. Linear Algebra Problem Book, Dolciani Mathematical Expositions, Mathematical Association of America.
+1998 (with Steven Givant). Logic as Algebra, Dolciani Mathematical Expositions No. 21, Mathematical Association of America.
+Criticism of non-standard analysis

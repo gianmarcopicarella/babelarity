@@ -1,0 +1,46 @@
+Metamodel or surrogate model is a model of a model, and metamodeling is the process of generating such metamodels. Metamodeling or meta-modeling is the analysis, construction and development of the frames, rules, constraints, models and theories applicable and useful for modeling a predefined class of problems. As its name implies, this concept applies the notions of meta- and modeling in software engineering and systems engineering. Metamodels are of many types and have diverse applications. A thorough discussion is presented in the following text. 
+A metamodel or surrogate model is a model of the model, i.e. a simplified model of an actual model of a circuit, system, or software like entity.   Metamodel can be a mathematical relation or algorithm representing input and output relations. A model is an abstraction of phenomena in the real world; a metamodel is yet another abstraction, highlighting properties of the model itself. A model conforms to its metamodel in the way that a computer program conforms to the grammar of the programming language in which it is written. Various types of metamodels include polynomial equations, neural network, Kriging, etc. "Metamodeling" is the construction of a collection of "concepts" (things, terms, etc.) within a certain domain. Metamodeling typically involves studying the output and input relationships and then fitting right metamodels to represent that behavior.
+Common uses for metamodels are:
+As a schema for semantic data that needs to be exchanged or stored
+As a language that supports a particular method or process
+As a language to express additional semantics of existing information
+As a mechanism to create tools that work with a broad class of models at run time
+As a schema for modeling and automatically exploring sentences of a language with applications to automated test synthesis
+As an approximation of a higher-fidelity model for use when reducing computational cost is necessary
+Because of the "meta" character of metamodeling, both the praxis and theory of metamodels are of relevance to metascience, metaphilosophy, metatheories and systemics, and meta-consciousness. The concept can be useful in mathematics, and has practical applications in computer science and computer engineering/software engineering. The latter are the main focus of this article.
+In software engineering, the use of models is more and more recommended. This should be contrasted with the classical code-based development techniques. A model always conforms to a unique metamodel. One of the currently most active branch of Model Driven Engineering is the approach named model-driven architecture proposed by OMG. This approach is based on the utilization of a language to write metamodels called the Meta Object Facility or MOF. Typical metamodels proposed by OMG are UML, SysML, SPEM or CWM. ISO has also published the standard metamodel ISO/IEC 24744. All the languages presented below could be defined as MOF metamodels.
+Metadata modeling is a type of metamodeling used in software engineering and systems engineering for the analysis and construction of models applicable and useful to some predefined class of problems. (see also: data modeling).
+One important move in Model Driven Engineering is the systematic use of Model Transformation Languages. The OMG has proposed a standard for this called QVT for Queries/Views/Transformations. QVT is based on the Meta-Object Facility or MOF. Among many other Model Transformation Languages (MTLs), some examples of implementations of this standard are AndroMDA, VIATRA, Tefkat, MT, ManyDesigns Portofino.
+Meta-models are closely related to ontologies. Both are often used to describe and analyze the relations between concepts
+Ontologies: express something meaningful within a specified universe or domain of discourse by utilizing a grammar for using vocabulary. The grammar specifies what it means to be a well-formed statement, assertion, query, etc. (formal constraints) on how terms in the ontology’s controlled vocabulary can be used together.
+Meta-modeling: can be considered as an explicit description (constructs and rules) of how a domain-specific model is built. In particular, this comprises a formalized specification of the domain-specific notations. Typically, metamodels are – and always should follow - a strict rule set. "A valid metamodel is an ontology, but not all ontologies are modeled explicitly as metamodels".
+For software engineering, several types of models (and their corresponding modeling activities) can be distinguished:
+Metadata modeling (MetaData Model)
+Meta-Process Modeling (MetaProcess Model)
+Executable Meta-Modeling (combining both of the above and much more, as in the general purpose tool Kermeta)
+Model Transformation Language (see below)
+Polynomial Metamodels 
+Neural network Metamodels
+Kriging Metamodels
+Piecewise Polynomial (Spline) Metamodels
+A library of similar metamodels has been called a Zoo of metamodels. There are several types of meta-model zoos. Some are expressed in ECore. Others are written in MOF 1.4 - XMI 1.2. The metamodels expressed in UML-XMI1.2 may be uploaded in Poseidon for UML, a UML CASE tool.
+Business reference model
+Data governance
+Model Driven Engineering (MDE)
+Model-driven architecture (MDA)
+Domain Specific Language (DSL)
+Domain-Specific Modeling (DSM)
+Generic Eclipse Modeling System (GEMS)
+Kermeta (Kernel Meta-modeling)
+Metadata
+MetaCASE tool (tools for creating tools for Computer-aided software engineering tools)
+Method engineering
+MODAF Meta-Model
+MOF Queries/Views/Transformations (MOF QVT)
+Object Process Methodology
+Requirements analysis
+Space mapping
+Surrogate model
+Transformation language
+VIATRA (Viatra)
+XML transformation language (XML TL)

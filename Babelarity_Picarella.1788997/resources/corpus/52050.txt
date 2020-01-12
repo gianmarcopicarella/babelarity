@@ -1,0 +1,42 @@
+Query languages are computer languages used to make queries in databases and information systems.
+Broadly, query languages can be classified according to whether they are database query languages or information retrieval query languages. The difference is that a database query language attempts to give factual answers to factual questions, while an information retrieval query language attempts to find documents containing information that is relevant to an area of inquiry.
+Examples include:
+.QL is a proprietary object-oriented query language for querying relational databases; successor of Datalog;
+Contextual Query Language (CQL) a formal language for representing queries to information retrieval systems such as web indexes or bibliographic catalogues.
+CQLF (CODYASYL Query Language, Flat) is a query language for CODASYL-type databases;
+Concept-Oriented Query Language (COQL) is used in the concept-oriented model (COM). It is based on a novel data modeling construct, concept, and uses such operations as projection and de-projection for multi-dimensional analysis, analytical operations and inference;
+Cypher is a query language for the Neo4j graph database;
+DMX is a query language for Data Mining models;
+Datalog is a query language for deductive databases;
+F-logic is a declarative object-oriented language for deductive databases and knowledge representation.
+FQL enables you to use a SQL-style interface to query the data exposed by the Graph API. It provides advanced features not available in the Graph API.
+Gellish English is a language that can be used for queries in Gellish English Databases, for dialogues (requests and responses) as well as for information modeling and knowledge modeling;
+Gremlin is an Apache Software Foundation graph traversal language for OLTP and OLAP graph systems.
+HTSQL is a query language that translates HTTP queries to SQL;
+ISBL is a query language for PRTV, one of the earliest relational database management systems;
+LINQ query-expressions is a way to query various data sources from .NET languages
+LDAP is an application protocol for querying and modifying directory services running over TCP/IP;
+MQL is a cheminformatics query language for a substructure search allowing beside nominal properties also numerical properties;
+MDX is a query language for OLAP databases;
+N1QL is a Couchbase's query language finding data in Couchbase Servers;
+OQL is Object Query Language;
+OCL (Object Constraint Language). Despite its name, OCL is also an object query language and an OMG standard;
+OPath, intended for use in querying WinFS Stores;
+OttoQL, intended for querying tables, XML, and databases;
+Poliqarp Query Language is a special query language designed to analyze annotated text. Used in the Poliqarp search engine;
+QUEL is a relational database access language, similar in most ways to SQL;
+RDQL is a RDF query language;
+ReQL is a query language used in RethinkDB;
+SMARTS is the cheminformatics standard for a substructure search;
+SPARQL is a query language for RDF graphs;
+SPL is a search language for machine-generated big data, based upon Unix Piping and SQL.
+SQL is a well known query language and Data Manipulation Language for relational databases;
+SuprTool is a proprietary query language for SuprTool, a database access program used for accessing data in Image/SQL (formerly TurboIMAGE) and Oracle databases;
+TMQL Topic Map Query Language is a query language for Topic Maps;
+Tutorial D is a query language for truly relational database management systems (TRDBMS);
+XQuery is a query language for XML data sources;
+XPath is a declarative language for navigating XML documents;
+XSPARQL is an integrated query language combining XQuery with SPARQL to query both XML and RDF data sources at once;
+YQL is an SQL-like query language created by Yahoo!
+Search engine query languages, e.g., as used by Google or Bing
+Data Manipulation Language

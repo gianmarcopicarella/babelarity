@@ -1,0 +1,56 @@
+Bond order is the number of chemical bonds between a pair of atoms. For example, in diatomic nitrogen N≡N the bond order is 3, in acetylene H−C≡C−H the bond order between the two carbon atoms is also 3, and the C−H bond order is 1. Bond order gives an indication of the stability of a bond. The element with bond order value 0 cannot exist. Those with fractional values exist but are not stable.
+In molecules that have resonance or nonclassical bonding, bond order does not need to be an integer. In benzene, where the delocalized molecular orbitals contain 6 pi electrons over six carbons essentially yielding half a pi bond together with the sigma bond for each pair of carbon atoms, giving a calculated bond order of 1.5. Furthermore, bond orders of 1.1, for example, can arise under complex scenarios and essentially refer to bond strength relative to bonds with order 1.
+In molecular orbital theory, bond order is also defined as half the difference between the number of bonding electrons and the number of antibonding electrons as per the equation below. This often but not always yields the same result. Bond order is also an index of bond strength and is also used extensively in valence bond theory.
+          B.O.
+        =
+                number of bonding electrons
+              −
+                number of antibonding electrons
+            2
+    {\displaystyle {\text{B.O.}}={\frac {{\text{number of bonding electrons}}-{\text{number of antibonding electrons}}}{2}}\ }
+Generally, the higher the bond order, the stronger the bond. Bond orders of one-half can be stable, as shown by the stability of H+
+2 (bond length 106 pm, bond energy 269 kJ/mol) and He+
+2 (bond length 108 pm, bond energy 251 kJ/mol).
+The bond order concept is used in molecular dynamics and bond order potentials. The magnitude of the bond order is associated with the bond length. According to Linus Pauling in 1947, the bond order is experimentally described by:
+          s
+            i
+            j
+        =
+        exp
+        ⁡
+            [
+                    d
+                      1
+                  −
+                    d
+                      i
+                      j
+                b
+            ]
+    {\displaystyle s_{ij}=\exp {\left[{\frac {d_{1}-d_{ij}}{b}}\right]}}
+where 
+          d
+            1
+    {\displaystyle d_{1}}
+   is the single bond length, 
+          d
+            i
+            j
+    {\displaystyle d_{ij}}
+   is the bond length experimentally measured, and b is a constant, depending on the atoms. Pauling suggested a value of 0.353 Å for b, for carbon-carbon bonds in the original equation:
+          d
+            1
+        −
+          d
+            i
+            j
+        =
+        0.353
+            log
+            10
+          s
+            i
+            j
+    {\displaystyle d_{1}-d_{ij}=0.353~{\text{log}}_{10}s_{ij}}
+The value of the constant b depends in the atoms.
+The above definition of bond order is somewhat ad hoc and only easy to apply for diatomic molecules. A standard quantum mechanical definition for bond order has been debated for a long time.

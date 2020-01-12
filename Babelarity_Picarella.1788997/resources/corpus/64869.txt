@@ -1,0 +1,96 @@
+In vector calculus, a vector potential is a vector field whose curl is a given vector field. This is analogous to a scalar potential, which is a scalar field whose gradient is a given vector field.
+Formally, given a vector field v, a vector potential is a vector A such that
+          v
+        =
+        ∇
+        ×
+          A
+        .
+    {\displaystyle \mathbf {v} =\nabla \times \mathbf {A} .}
+If a vector field v admits a vector potential A, then from the equality
+        ∇
+        ⋅
+        (
+        ∇
+        ×
+          A
+        )
+        =
+        0
+    {\displaystyle \nabla \cdot (\nabla \times \mathbf {A} )=0}
+(divergence of the curl is zero) one obtains
+        ∇
+        ⋅
+          v
+        =
+        ∇
+        ⋅
+        (
+        ∇
+        ×
+          A
+        )
+        =
+        0
+        ,
+    {\displaystyle \nabla \cdot \mathbf {v} =\nabla \cdot (\nabla \times \mathbf {A} )=0,}
+which implies that v must be a solenoidal vector field.
+Let
+          v
+        :
+            R
+            3
+        →
+            R
+            3
+    {\displaystyle \mathbf {v} :\mathbb {R} ^{3}\to \mathbb {R} ^{3}}
+be a solenoidal vector field which is twice continuously differentiable. Assume that v(x) decreases sufficiently fast as ||x||→∞. Define
+          A
+        (
+          x
+        )
+        =
+            1
+              4
+              π
+          ∫
+                R
+                3
+                ∇
+                  y
+              ×
+                v
+              (
+                y
+              )
+              ∥
+                x
+              −
+                y
+              ∥
+          d
+            3
+          y
+        .
+    {\displaystyle \mathbf {A} (\mathbf {x} )={\frac {1}{4\pi }}\int _{\mathbb {R} ^{3}}{\frac {\nabla _{y}\times \mathbf {v} (\mathbf {y} )}{\left\|\mathbf {x} -\mathbf {y} \right\|}}\,d^{3}\mathbf {y} .}
+Then, A is a vector potential for v, that is,
+        ∇
+        ×
+          A
+        =
+          v
+        .
+    {\displaystyle \nabla \times \mathbf {A} =\mathbf {v} .}
+A generalization of this theorem is the Helmholtz decomposition which states that any vector field can be decomposed as a sum of a solenoidal vector field and an irrotational vector field.
+The vector potential admitted by a solenoidal field is not unique. If A is a vector potential for v, then so is
+          A
+        +
+        ∇
+        m
+    {\displaystyle \mathbf {A} +\nabla m}
+where m is any continuously differentiable scalar function. This follows from the fact that the curl of the gradient is zero.
+This nonuniqueness leads to a degree of freedom in the formulation of electrodynamics, or gauge freedom, and requires choosing a gauge.
+Fundamental theorem of vector analysis
+Magnetic potential
+Solenoid
+Closed and Exact Differential Forms

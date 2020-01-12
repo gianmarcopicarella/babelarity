@@ -1,0 +1,81 @@
+Frank Hyneman Knight (November 7, 1885 – April 15, 1972) was an American economist who spent most of his career at the University of Chicago, where he became one of the founders of the Chicago school. Nobel laureates Milton Friedman, George Stigler and James M. Buchanan were all students of Knight at Chicago. Ronald Coase said that Knight, without teaching him, was a major influence on his thinking.
+Knight (B.A., Milligan College,1911; B.S. and A.M., Tennessee, 1913; Ph.D., Cornell, 1916) was born in 1885 in McLean County, Illinois, the son of Julia Ann (Hyneman) and Winton Cyrus Knight. After his early study at the University of Tennessee, most of his academic career was spent at the University of Chicago, where he was the Morton D. Hall Distinguished Service Professor, Emeritus, of Social Science and Philosophy. Knight was one of the world's leading economists, having made significant contributions to many problems of both economic theory and social philosophy. He is best known for his Risk Uncertainty and Profit, a monumental study of the role of the entrepreneur in economic life. In 1950 he was president of the American Economic Association and in 1957 the recipient of its coveted Francis A. Walker Award, given "not more frequently than once every five years to the living (American) economist who in the judgment of the awarding body has during his career made the greatest contribution to economics." His ashes are interred in the crypt of First Unitarian Church of Chicago.
+Knight is best known as the author of the book Risk Uncertainty and Profit, based on his Ph.D. dissertation at Cornell University. In that book, he carefully distinguished between economic risk and uncertainty. Situations with risk were those where the outcomes were unknown but governed by probability distributions known at the outset. He argued that these situations, where decision making rules such as maximising expected utility can be applied, differ in a deep way from "uncertain" ones, in which not only the outcomes, but even the probability models that governed them, were unknown. Knight argued that uncertainty gave rise to economic profits that perfect competition could not eliminate.
+While most economists now acknowledge Knight's distinction between risk and uncertainty, the distinction has not resulted in much theoretical modelling or empirical work. A possible exception is the "Markets from Networks" model developed by sociologist Harrison White in 2002.
+Knight also famously debated A.C. Pigou about social costs. He also contributed to the argument for toll roads. He said that rather than congestion justifying government tolling of roads, privately owned roads would set tolls to reduce congestion to its efficient level. In particular, he developed the argument that forms the basis of analysis of traffic equilibrium, and has since become known as Wardrop's Principle:
+Suppose that between two points there are two highways, one of which is broad enough to accommodate without crowding all the traffic which may care to use it, but is poorly graded and surfaced; while the other is a much better road, but narrow and quite limited in capacity. If a large number of trucks operate between the two termini and are free to choose either of the two routes, they will tend to distribute themselves between the roads in such proportions that the cost per unit of transportation, or effective returns per unit of investment, will be the same for every truck on both routes. As more trucks use the narrower and better road, congestion develops, until at a certain point it becomes equally profitable to use the broader but poorer highway.
+Knight was a founder and vice president of the Mont Pelerin Society of like-minded economists.
+"The Concept of Normal Price in Value and Distribution", 1917, QJE.
+Risk, Uncertainty and Profit (pdf), 1921, ISBN 978-0-9840614-2-6.
+"Cost of Production and Price Over Long and Short Periods", 1921, Journal of Political Economy (JPE).
+"Cassel's Theoretische Sozialökonomie", 1921, JPE.
+"Ethics and the Economic Interpretation", 1922, QJE (repr. in 1999, I)
+"The Ethics of Competition", 1923, QJE (repr. in 1999, I)
+"Business Management: Science or Art?", 1923 Journal of Business.
+"Some Fallacies in the Interpretation of Social Cost", 1924, QJE (repr. in 1999, I)
+"The Limitations of Scientific Method in Economics", 1924, in Tugwell, editor, Trend of Economics (repr. in 1999, I)
+"Fact and Metaphysics in Economic Psychology", 1925, AER (repr. in 1999, I)
+"A Note on Professor Clark's Illustration of Marginal Productivity", 1925, JPE.
+"Economic Psychology and the Value Problem", 1925, QJE.
+"Economics at its Best: Review of Pigou", 1926, AER.
+"Historical and Theoretical Issues in the Problem of Modern Capitalism", 1928, Journal of Econ & Business History (repr. in 1956 & 1999, I)
+"A Suggestion for Simplifying the Statement of the General Theory of Price", 1928, JPE.
+"Freedom as Fact and Criterion", 1929, Int J of Ethics
+"Statics and Dynamics: Some queries regarding the mechanical analogy in economics", 1930, ZfN (repr. in 1956 & 1999, I)
+"Professor Fisher's Interest Theory: A case in point", 1931, JPE.
+"Modern Economic Society Further Considered", 1932, JPE.
+"The Newer Economics and the Control of Economic Activity", 1932, JPE (repr. in 1999, I)
+The Economic Organization, 1933.
+"Capitalistic Production, Time and the Rate of Return", 1933, in Essays in Honor of Gustav Cassel (repr. in 1999, I)
+"The Nature of Economic Science in Some Recent Discussion", 1934, AER.
+"Social Science and the Political Trend", 1934, Univ of Toronto Quarterly
+"Common-Sense of Political Economy: Wicksteed Reprinted", 1934, JPE (repr. in 1956)
+The Ethics of Competition and Other Essays, 1935.
+"The Ricardian Theory of Production and Distribution", 1935, Canadian JE (repr. in 1956 & 1999, I)
+"A Comment on Machlup", 1935, JPE.
+"Professor Hayek and the Theory of Investment", 1935, EJ.
+"The Theory of Investment Once More: Mr. Boulding and the Austrians", 1935, QJE.
+"Some Issues in the Economics of Stationary States", 1936, AER.
+"The Place of Marginal Economics in a Collectivist System", 1936, AER.
+"The Quantity of Capital and the Rate of Interest", 1936, JPE (repr. in 1999, I)
+"Pragmatism and Social Action: Review of Dewey", 1936, Int J of Ethics
+"Note on Dr. Lange's Interest Theory", 1937, RES.
+"Unemployment: and Mr. Keynes's revolution in economic theory", 1937, Canadian JE (repr. in 1999, I)
+"On the Theory of Capital: In reply to Mr. Kaldor", 1938, Econometrica.
+"Bertrand Russell on Power", 1939, Ethics.
+"The Ethics of Liberalism", 1939, Economica.
+"Socialism: The Nature of the Problem", 1940, Ethics (repr. in 1999, II)
+"'What is Truth' in Economics", 1940, JPE (repr. in 1956 & 1999, I)
+"The Significance and Basic Postulates of Economics: a rejoinder", 1941, JPE
+"Religion and Ethics in Modern Civilization", 1941, J of Liberal Religion
+"The Meaning of Democracy: its politico-economic structure and ideals", 1941, J of Negro Education
+"Social Science", 1941, Ethics (repr. in 1956)
+"The Business Cycle, Interest and Money: A methodological approach", 1941, REStat (repr. in 1956 & 1999, II)
+"Professor Mises and the Theory of Capital", 1941, Economica.
+"The Role of the Individual in the Economic World of the Future", 1941, JPE.
+"Anthropology and Economics", 1941, JPE.
+"Science, Philosophy and Social Procedure", 1942, Ethics
+"Fact and Value in Social Science", 1942, in Anshen, editor, Science and Man
+"Some Notes on the Economic Interpretation of History", 1942, Studies in the History of Culture (repr. in 1999, II)
+"Social Causation", 1943, American Journal of Sociology (repr. in 1956)
+"Diminishing Returns Under Investment", 1944, JPE.
+"Realism and Relevance in the Theory of Demand", 1944, JPE (repr. in 1999, II)
+"The Rights of Man and Natural Law", 1944, Ethics (repr. in 1999, II)
+"Human Nature and World Democracy", 1944, American J of Sociology.
+"Economics, Political Science and Education", 1944, AER
+The Economic Order and Religion, with T.W. Merriam, 1945.
+"Immutable Law in Economics: Its reality and limitations", 1946, AER.
+"The Sickness of Liberal Society", 1946, Ethics (repr. in 1999, II)
+"Salvation by Science: The gospel according to Professor Lundberg", 1947, JPE (repr. in 1956)
+Freedom and Reform: Essays in economics and social philosophy, 1947.
+"Free Society: Its basic nature and problem", 1948, Philosophical Review (repr. in 1956)
+"The Role of Principles in Economics and Politics", 1951, AER (repr. in 1956 & 1999, II)
+"Institutionalism and Empiricism in Economics", 1952, AER.
+On the History and Methods of Economics: Selected essays, 1956, ISBN 978-0-226-44689-9.
+Intelligence and Democratic Action, 1960.
+"Methodology in Economics", 1961, Southern EJ
+"Abstract Economics as Absolute Ethics", 1966, Ethics.
+"Laissez Faire: Pro and con", 1967, JPE (repr. in 1999, II)
+"The Case for Communism: From the Standpoint of an Ex-liberal." (published posthumously) in Research in the History of Economic Thought and Methodology, edited by Warren J. Samuels, archival supplement 2 (1991): 57–108.
+Selected Essays by Frank H. Knight, Volume 1: "What is Truth" in Economics?, (ed. by Ross B. Emmett), 1999, ISBN 978-0-226-44695-0
+Selected Essays by Frank H. Knight, Volume 2: Laissez Faire: Pro and Con, (ed. by Ross B. Emmett), 1999, ISBN 978-0-226-44697-4

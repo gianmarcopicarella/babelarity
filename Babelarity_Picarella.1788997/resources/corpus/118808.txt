@@ -1,0 +1,23 @@
+A Kirkwood gap is a gap or dip in the distribution of the semi-major axes (or equivalently of the orbital periods) of the orbits of main-belt asteroids. They correspond to the locations of orbital resonances with Jupiter.
+For example, there are very few asteroids with semimajor axis near 2.50 AU, period 3.95 years, which would make three orbits for each orbit of Jupiter (hence, called the 3:1 orbital resonance). Other orbital resonances correspond to orbital periods whose lengths are simple fractions of Jupiter's. The weaker resonances lead only to a depletion of asteroids, while spikes in the histogram are often due to the presence of a prominent asteroid family.
+The gaps were first noticed in 1866 by Daniel Kirkwood, who also correctly explained their origin in the orbital resonances with Jupiter while a professor at Jefferson College in Canonsburg, Pennsylvania.
+Most of the Kirkwood gaps are depleted, unlike the mean-motion resonances (MMR) of Neptune or Jupiter's 3:2 resonance, due to the overlapping of the ν5 and ν6 secular resonances within the mean-motion resonances. The orbital elements of the asteroids vary chaotically as a result and evolve onto planet-crossing orbits within a few million years. The 2:1 MMR has a few relatively stable islands within the resonance, however. These islands are depleted due to slow diffusion onto less stable orbits. This process, which has been linked to Jupiter and Saturn being near a 5:2 resonance, may have been more rapid when Jupiter's and Saturn's orbits were closer together.
+More recently, a relatively small number of asteroids have been found to possess high eccentricity orbits which do lie within the Kirkwood gaps. Examples include the Alinda family and the Griqua family. These orbits slowly increase their eccentricity on a timescale of tens of millions of years, and will eventually break out of the resonance due to close encounters with a major planet.
+The most prominent Kirkwood gaps are located at mean orbital radii of:
+2.06 AU (4:1 resonance)
+2.5 AU (3:1 resonance), home to the Alinda family of asteroids
+2.82 AU (5:2 resonance)
+2.95 AU (7:3 resonance)
+3.27 AU (2:1 resonance), home to the Griqua family of asteroids.
+Weaker and/or narrower gaps are also found at:
+1.9 AU (9:2 resonance)
+2.25 AU (7:2 resonance)
+2.33 AU (10:3 resonance)
+2.71 AU (8:3 resonance)
+3.03 AU (9:4 resonance)
+3.075 AU (11:5 resonance)
+3.47 AU (11:6 resonance)
+3.7 AU (5:3 resonance).
+Orbital resonance
+Alinda family
+Griqua family

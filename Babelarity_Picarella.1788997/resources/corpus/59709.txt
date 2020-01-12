@@ -1,0 +1,7 @@
+Sodium superoxide is the inorganic compound with the formula NaO2. This yellow-orange solid is a salt of the superoxide anion. It is an intermediate in the oxidation of sodium by oxygen.
+NaO2 is prepared by treating sodium peroxide with oxygen at high pressures:
+Na2O2 + O2 → 2 NaO2
+It can also be prepared by careful oxygenation of a solution of sodium in ammonia:
+Na(in NH3) + O2 → NaO2
+The product is paramagnetic, as expected for a salt of the O−
+2 anion. It hydrolyses readily to give a mixture of sodium hydroxide, oxygen and hydrogen peroxide. It crystallizes in the NaCl motif.

@@ -1,0 +1,6 @@
+An exopeptidase is any peptidase that catalyzes the cleavage of the terminal (or the penultimate) peptide bond; the process releases a single amino acid or dipeptide from the peptide chain. Depending on whether the amino acid is released from the amino or the carboxy terminal, an exopeptidase is further classified as an aminopeptidase or a carboxypeptidase, respectively. Thus, an aminopeptidase, an enzyme in the brush border of the small intestine, will cleave a single amino acid from the amino terminal, whereas carboxypeptidase, which is a digestive enzyme present in pancreatic juice, will cleave a single amino acid from the carboxylic end of the peptide.
+The Proteolysis Map
+Endopeptidase
+Edman degradation
+Dansyl chloride
+Protease

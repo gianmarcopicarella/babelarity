@@ -1,0 +1,17 @@
+Radia Joy Perlman (born January 1, 1951) is a software designer and network engineer. She is most famous for her invention of the spanning-tree protocol (STP), which is fundamental to the operation of network bridges, while working for Digital Equipment Corporation. She also made large contributions to many other areas of network design and standardization, such as link-state protocols, including TRILL, which she invented to correct some of the shortcomings of spanning-trees.
+She is currently employed by EMC Corporation.
+As an undergraduate at MIT she undertook a UROP (Undergraduate Research Opportunity), in lieu of course units, within the LOGO Lab at the (then) MIT Artificial Intelligence Laboratory. Working under the supervision of Seymour Papert, she developed a child-friendly version of the educational robotics language LOGO, called TORTIS ("Toddler's Own Recursive Turtle Interpreter System"). During research performed in 1974–6, young children—the youngest aged 3½ years, programmed a LOGO educational robot called a Turtle. Radia has been described as a pioneer of teaching young children computer programming.
+Perlman obtained a Bachelor's, Master's in Mathematics, and a Ph.D. in Computer Science from MIT in 1988. Her doctoral thesis at MIT addressed the issue of routing in the presence of malicious network failures.
+She is most famous for her invention of the Spanning Tree Protocol (STP), which is fundamental to the operation of network bridges, while working for Digital Equipment Corporation. She also made large contributions to many other areas of network design and standardization, such as link-state protocols, including TRILL, which she invented to correct some of the shortcomings of spanning-trees. She is sometimes referred to as the "Mother of the Internet", a title which she dislikes.
+Her work transformed the Ethernet protocol from using a few nodes over a limited distance, into something able to create large networks.
+Perlman is the author of one textbook on networking and coauthor of one textbook on network security. She holds more than 100 issued patents.
+National Inventors Hall of Fame induction (2016)
+Internet Hall of Fame induction (2014)
+SIGCOMM Award (2010)
+USENIX Lifetime Achievement Award (2006)
+Recipient of the first Anita Borg Institute Women of Vision Award for Innovation in 2005
+Silicon Valley Intellectual Property Law Association Inventor of the year (2003)
+Honorary Doctorate, Royal Institute of Technology (June 28, 2000)
+Twice named as one of the 20 most influential people in the industry by Data Communications magazine: in the 20th anniversary issue (January 15, 1992) and the 25th anniversary issue (January 15, 1997). Perlman is the only person to be named in both issues.
+Perlman, Radia (1999). Interconnections: Bridges, Routers, Switches, and Internetworking Protocols (2 ed.). Addison-Wesley Professional Computing Series. ISBN 978-0-201-63448-8. 
+Perlman, Radia; Kaufman, Charlie; Speciner, Mike. Network Security: Private Communication in a Public World (2 ed.). ISBN 978-0-13-061466-7. 

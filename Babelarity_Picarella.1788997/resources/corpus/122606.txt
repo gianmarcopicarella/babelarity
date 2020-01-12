@@ -1,0 +1,44 @@
+The ogonek (Polish: [ɔˈɡɔnɛk], "little tail", the diminutive of ogon; Lithuanian: nosinė, "nasal") is a diacritic hook placed under the lower right corner of a vowel in the Latin alphabet used in several European languages, and directly under a vowel in several Native American languages.
+Polish (letters ą, ę)
+Kashubian (ą)
+scholarly transcriptions of Old Church Slavonic and Proto-Slavic (ę, ǫ)
+scholarly transcriptions of Vulgar Latin and Proto-Romance (ę, ǫ)
+Lithuanian (ą, ę, į, ų)
+Cayuga (letters ę, ǫ)
+Creek (ą, ąą, ę, ęę, į, įį, ǫ, ǫǫ)
+Navajo and Western Apache language (ą, ąą, ę, ęę, į, įį, ǫ, ǫǫ, ą́ ,ę́, į́, ǫ́)
+Mescalero-Chiricahua (ą, ąą, ę, ęę, į, įį, ų, ųų),
+Tutchone (ą, ę, į, ų, y̨)
+Gwich’in (ą, ąą, ę, ęę, į, įį, ǫ, ǫǫ, ų, ųų)
+Dogrib (ą, ąą, ę, ęę, į, įį, ǫ, ǫǫ)
+Ho-Chunk (ą, ąą, į, įį, ų, ųų)
+Elfdalian (ą, ę, į, ų, y̨ and ą̊)
+Rheinische Dokumenta (ą̈, ǫ, ǫ̈, ą̈ą̈, ǫǫ, ǫ̈ǫ̈)
+Old Norse (ǫ, ǫ́)
+Example in Polish:
+Wół go pyta: „Panie chrząszczu,
+Po co pan tak brzęczy w gąszczu?“
+— Jan Brzechwa, Chrząszcz
+Example in Cayuga:
+Ęyǫgwędę́hte⁷ — we will become poor
+Example in Dogrib:
+dǫ sǫǫ̀łįį — native people
+Example in Lithuanian:
+Lydėdami gęstančią žarą vėlai
+Pakilo į dangų margi sakalai
+— Vincas Mykolaitis-Putinas, Margi sakalai
+Example in Elfdalian:
+"Ja, eð war įe plåg að gęslkallum, dar eð war slaik uondlostjyner i gęslun."
+— Vikar Margit Andersdotter, I fäbodlivet i gamla tider.
+Example in Western Apache: lęk'e' created
+The use of the ogonek to indicate nasality is common in the transcription of the indigenous languages of the Americas. This usage originated in the orthographies created by Christian missionaries to transcribe these languages. Later, the practice was continued by Americanist anthropologists and linguists who still follow this convention in phonetic transcription to the present day (see Americanist phonetic notation).
+The ogonek is also used in academic transliteration of Old Church Slavonic. In Polish, Old Church Slavonic, Navajo, Western Apache, Chiricahua, Tłįchǫ Yatiì, Slavey, Dëne Sųłiné and Elfdalian it indicates that the vowel is nasalized. Even if ę is nasalized e in Polish, ą is nasalized o not a (this is so because of the vowel change — "ą" was a long nasal "a", which turned into short nasal "o", when the vowel quantity distinction disappeared).
+In Lithuanian, the nosinė (literally, "nasal") mark originally indicated vowel nasalization but about the end of the 17th century nasal vowels gradually evolved into corresponding long non-nasal vowels in most dialects. Thus in modern Lithuanian the mark has de facto become an indicator of vowel length (though not the only one available; the length of etymologically non-nasal vowels is marked differently in writing). At the same time the nosinė mark performs the useful task of distinguishing different grammatical forms which otherwise would be written identically (though not identically pronounced).
+In Rheinische Dokumenta, it marks vowels which are more open than those denoted by their base letters Ää, Oo, Öö. Here it can be combined with umlaut marks in two cases.
+The E caudata (ę), a symbol similar to an e with ogonek, evolved from a ligature of a and e in medieval scripts, in Latin and Irish palaeography. The O caudata of Old Norse (letter ǫ, with ǫ́) is used to write the open-mid back rounded vowel, /ɔ/. Medieval Nordic manuscripts show this "hook" in both directions, in combination with several vowels. Despite this distinction, the term "ogonek" is sometimes used in discussions of typesetting and encoding Norse texts, as o caudata is typographically identical to o with ogonek.
+The ogonek is functionally equivalent to the cedilla and comma diacritics. If two of these three are used within the same orthography their respective use is restricted to certain classes of letters, i.e. usually the ogonek is used with vowels whereas the cedilla is applied to consonants. In handwritten text the marks may even look the same.
+The ogonek should be almost the same size as a descender (in larger type sizes may be relatively quite shorter) and should not be confused with the cedilla or comma diacritic marks used in other languages.
+When used for Native American languages, the ogonek should be placed directly under the letter rather than to the side as is the norm for European languages. European-style placement is acceptable when no other alternatives are available.
+In LaTeX2e, macro \k will typeset a letter with ogonek, if it is supported by the font encoding, e.g. \k{a} will typeset ą. (The default LaTeX OT1 encoding does not support it, but the newer T1 one does. It may be enabled by saying \usepackage[T1]{fontenc} in the preamble.)
+However, \k{e} rather places the diacritic "right-aligned" with the carrying e (ę), suitably for Polish, while \textogonekcentered horizontally centers the diacritic with respect to the carrier, suitably for Native American Languages as well as for e caudata and o caudata. So \textogonekcentered{e} better fits the latter purposes. Actually, \k{o} (for ǫ) is defined to result in \textogonekcentered{o}, and \k{O} is defined to result in \textogonekcentered{O}.
+The package TIPA, activated by using the command "\usepackage{tipa}", offers a different way: "\textpolhook{a}" will produce ą.

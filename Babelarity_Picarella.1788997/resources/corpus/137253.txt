@@ -1,0 +1,59 @@
+Nystatin, sold under the brandname Mycostatin among others, is an antifungal medication. It is used to treat Candida infections of the skin including diaper rash, thrush, esophageal candidiasis, and vaginal yeast infections. It may also be used to prevent candidiasis in those who are at high risk. Nystatin may be used by mouth, in the vagina, or applied to the skin.
+Common side effects when applied to the skin include burning, itching, and a rash. Common side effects when taken by mouth include vomiting and diarrhea. During pregnancy use in the vagina is safe while other formulations have not been studied in this group. It works by disrupting the cell membrane of the fungal cells.
+Nystatin was discovered in 1950 by Rachel Fuller Brown and Elizabeth Lee Hazen. It is on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system. It is available as a generic medication. The wholesale price of the cream in the developing world is about 0.70 USD per 30 gram tube. In the United States it is less than 25 USD for a course of treatment. It is made from the bacterium, Streptomyces noursei.
+Skin, vaginal, mouth, and esophageal Candida infections usually respond well to treatment with nystatin. It is available in many forms.
+Oral nystatin is often used as a preventive treatment in people who are at risk for fungal infections, such as AIDS patients with a low CD4+ count and patients receiving chemotherapy. It has been investigated for use in patients after liver transplantation, but fluconazole was found to be much more effective for preventing colonization, invasive infection, and death.
+It is also used in very low birth-weight (<1500 g) infants to prevent invasive fungal infections, although fluconazole is the preferred treatment. It has been found to reduce the rate of invasive fungal infections and also reduce deaths when used in these babies. Guidelines state that the use of these agents should be restricted to extremely low birth-weight infants (<1000 g) in neonatal intensive care units with high baselines of fungal infection.
+Liposomal nystatin is not commercially available, but investigational use has shown greater in vitro activity than colloidal formulations of amphotericin B, and demonstrated effectiveness against some amphotericin B-resistant forms of fungi. It offers an intriguing possibility for difficult-to-treat systemic infections, such as invasive aspergillosis, or infections that demonstrate resistance to amphotericin B. Additionally, liposomal nystatin appears to cause fewer cases of and less severe nephrotoxicity than observed with amphotericin B.
+Cryptococcus is also sensitive to nystatin. In the UK, its license for treating neonatal oral thrush is restricted to those over the age of one month (miconazole is an appropriate alternative for younger babies).
+It is prescribed in 'units', with doses varying from 100,000 (for oral infections) to 1 million (for intestinal ones). As it is not absorbed from the gut, it is safe for oral use and does not have problems of drug interactions. Although on occasion, serum levels of the drug can be identified from oral, vaginal, or cutaneous administration and lead to toxicity.
+The oral suspension form produces a number of adverse effects including but not limited to:
+Diarrhea
+Abdominal pain
+Rarely, tachycardia, bronchospasm, facial swelling, muscle aches
+Both the oral suspension and the topical form can cause:
+Hypersensitivity reactions, including Stevens-Johnson syndrome in some cases 
+Rash, itching, burning and acute generalized exanthematous pustulosis
+Like amphotericin B and natamycin, nystatin binds to ergosterol, a major component of the fungal cell membrane. When present in sufficient concentrations, it forms pores in the membrane that lead to K+ leakage, acidification, and death of the fungus. Ergosterol is unique to fungi, so the drug does not have such catastrophic effects on animals or plants. However, many of the systemic/toxic effects of nystatin are attributable to its effect on human cells via binding to mammalian sterols, namely cholesterol. This is the effect that accounts for the nephrotoxicity observed when high serum levels of nystatin are achieved.
+Nystatin A1 (or referred to as nystatin) is biosynthesized by a bacterial strain, Streptomyces noursei. The structure of this active compound is characterized as a polyene macrolide with a deoxysugar D-mycosamine, an amino glycoside. The genomic sequence of nystatin reveals the presence of the polyketide loading module (nysA) six polyketide synthases modules (nysB, nysC, nysI, nysJ, and nysK), two thioesterase (nysK and nysE). Thus, it is evident that the biosynthesis of the macrolide functionality follows the polyketide synthase I pathway.
+Following the biosynthesis of the macrolide, the compound undergoes post-synthetic modifications, which are aided by the following enzymes: GDP-mannose dehydratase (nysIII), P450 monooxygenase (nysL and nysN), aminotransferase (nysDII), and glycosyltransferase (nysDI). The biosynthetic pathway is thought to proceed as shown to yield nystatin.
+Like many other antifungals and antibiotics, nystatin is of bacterial origin. It was isolated from Streptomyces noursei in 1950 by Elizabeth Lee Hazen and Rachel Fuller Brown, who were doing research for the Division of Laboratories and Research of the New York State Department of Health. Hazen found a promising micro-organism in the soil of a friend's dairy farm. She named it Streptomyces noursei, after William Nourse, the farm's owner. Hazen and Brown named nystatin after the New York State Health Department Laboratory (now known as the Wadsworth Center) in 1954.
+It is also used in cellular biology as an inhibitor of the lipid raft-caveolae endocytosis pathway on mammalian cells, at concentrations around 3 µg/ml.
+In certain cases, nystatin has been used to prevent the spread of mold on objects such as works of art. For example, it was applied to wood panel paintings damaged as a result of the Arno River Flood of 1966 in Florence, Italy.
+Nystatin is also used as a tool by scientists performing "perforated" patch-clamp electrophysiologic recordings of cells. When loaded in the recording pipette, it allows for measurement of electrical currents without washing out the intracellular contents, because it forms pores in the cell membrane that are permeable to only monovalent ions.
+An oral suspension form is used for the prophylaxis or treatment of oropharyngeal thrush, a superficial candidal infection of the mouth and pharynx.
+A tablet form is preferred for candidal infections in the intestines.
+Nystatin is available as a topical cream and can be used for superficial candidal infections of the skin.
+Additionally, a liposomal formulation of nystatin was investigated in the 1980s and into the early 21st century. The liposomal form was intended to resolve problems arising from the poor solubility of the parent molecule and the associated systemic toxicity of the free drug.
+Due to its toxicity profile when high levels in the serum are obtained, no injectable formulations of this drug are currently on the US market. However, injectable formulations have been investigated in the past.
+The original brandname was Fungicidin
+Nyamyc
+Pedi-Dri
+Pediaderm AF Complete
+Candistatin
+Nyaderm
+Bio-Statin
+PMS-Nystatin
+Nystan (oral tablets, topical ointment, and pessaries, formerly from Bristol-Myers Squibb)
+Infestat
+Nystalocal from Medinova AG
+Nystamont
+Nystop (topical powder, Paddock)
+Nystex
+Mykinac
+Nysert (vaginal suppositories, Procter & Gamble)
+Nystaform (topical cream, and ointment and cream combined with iodochlorhydroxyquine and hydrocortisone; formerly Bayer now Typharm Ltd)
+Nilstat (vaginal tablet, oral drops, Lederle)
+Korostatin (vaginal tablets, Holland Rantos)
+Mycostatin (vaginal tablets, topical powder, suspension Bristol-Myers Squibb)
+Mycolog-II (topical ointment, combined with triamcinolone; Apothecon)
+Mytrex (topical ointment, combined with triamcinolone)
+Mykacet (topical ointment, combined with triamcinolone)
+Myco-Triacet II (topical ointment, combined with triamcinolone)
+Flagystatin II (cream, combined with metronidazole)
+Timodine (cream, combined with hydrocortisone and dimethicone)
+Nistatina (oral tablets, Antibiotice Iaşi)
+Nidoflor (cream, combined with neomycin sulfate and triamcinolone acetonide)
+Stamicin (oral tablets, Antibiotice Iaşi)
+Lystin
+Animax (veterinary topical ointment or cream; combined with neomycin sulfate, thiostrepton and triamcinolone acetonide)

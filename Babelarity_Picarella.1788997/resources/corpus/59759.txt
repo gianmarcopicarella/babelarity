@@ -1,0 +1,13 @@
+In chemistry, regioselectivity is the preference of one direction of chemical bond making or breaking over all other possible directions. It can often apply to which of many possible positions a reagent will affect, such as which proton a strong base will abstract from an organic molecule, or where on a substituted benzene ring a further substituent will add.
+A specific example is a halohydrin formation reaction with 2-propenylbenzene:
+Because of the preference for the formation of one product over another, the reaction is selective. This reaction is regioselective because it selectively generates one constitutional isomer rather than the other.
+Certain examples of regioselectivity have been formulated as rules for certain classes of compounds under certain conditions, many of which are named. Among the first introduced to chemistry students are Markovnikov's rule for the addition of protic acids to alkenes, and the Fürst-Plattner rule for the addition of nucleophiles to derivatives of cyclohexene, especially epoxide derivatives.
+Regioselectivity in ring-closure reactions is subject to Baldwin's rules. If there are two or more orientations that can be generated during a reaction, one of them is dominant (e.g., Markovnikov/anti-Markovnikov addition across a double bond)
+Regioselectivity can also be applied to specific reactions such as addition to pi ligands.
+Selectivity also occurs in carbene insertions, for example in the Baeyer-Villiger reaction. In this reaction an oxygen is regioselectively inserted near an adjacent carbonyl group. In ketones this insertion is directed toward the carbon which is more highly substituted (i.e. according to Markovnikov's rule). For example, in a study involving acetophenones this oxygen was preferentially inserted in-between the carbonyl and the aromatic ring to give acetyl aromatic esters, not methyl benzoates.
+Zaitsev's rule
+Cryptoregiochemistry
+Chemoselectivity
+Stereoselectivity
+Enantioselectivity
+Keto–enol tautomerism

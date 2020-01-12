@@ -1,0 +1,34 @@
+A lightweight Linux distribution is a Linux distribution that uses relatively few resources, which may result in performance improvements especially on old computers with slower CPUs and less RAM.
+One big factor that determines the resource usage and speed of a desktop distribution is the window manager it uses. For example, version 10.10 of Lubuntu uses the LXDE window manager and requires a minimum of 128 MB of RAM and a Pentium II processor; it is a lightweight variant of Ubuntu that, in comparison, uses Unity as a window manager and requires a 1 GHz processor and 1 GB of RAM. The window manager can be changed in most Linux distributions, and the same Linux distribution may also have various versions with different window managers; examples are Porteus, which comes in LXDE, Xfce and Mate versions, and Zenwalk, which comes in Xfce and Openbox versions.
+Alpine Linux – a security-oriented, lightweight Linux distribution (307 MB) based on musl and BusyBox. Mini download is 66 MB; base system (excluding kernel) is under 5 MB. Media download is 308 MB for version 3.1.3.
+Absolute Linux – a lightweight desktop-oriented distribution based on Slackware
+antiX – lightweight version (690 MB) of its parent distribution MEPIS Linux, based on Debian testing. Core install: 128 MB, Base approx. 300 MB. Package manager: Synaptic
+ArchBang – inspired by CrunchBang Linux but based on the Arch Linux distribution instead of Debian. It uses the lightweight Openbox Window Manager to achieve the same look and feel.
+BasicLinux – a very lightweight distribution (2.8 MB apparently) capable of running on an Intel 386 and 3 MB of RAM
+Bodhi Linux – a lightweight and minimalistic distribution
+CoreOS – a lightweight system (2×1 GB) than runs containers and provides cluster management capabilities
+Chrome OS
+CrunchBang Linux – No longer in development; succeeded by BunsenLabs. A relatively large (771 MB) Debian based distribution designed primarily for speed and ease of use.
+Damn Small Linux – download: 50 MB. Additional software available as "DSL Extensions" and using the Debian APT tool, which has to be installed. "Light enough to power a 486DX with 16 MB of RAM"
+Elive – a lightweight and complete distribution that can run in 64 MB of RAM and 100 MHz of CPU, based on Debian and using a customized Enlightenment as only Desktop environment
+Feather Linux – a lightweight Linux distribution (under 128 MB) derived from Knoppix. Now dormant.
+LinuxBBQ – a very lightweight (291.5 MB) and resource-friendly distribution based on Debian Sid with TUI productivity applications.
+Lightweight Portable Security – a lightweight live desktop-oriented distribution based on Arch Linux
+Linux Lite – A lightweight distribution designed with new Linux users in mind
+Lubuntu – lightweight (705 MB) in comparison to Ubuntu, it uses the LXDE desktop.
+LXLE – a full featured OS (apps preinstalled) for older hardware, using minimal resources, respun from Lubuntu. Media download, approx 1.3G.
+Nanolinux – a 14 MB distribution based on Tiny Core Linux.
+Peppermint Linux OS – download: 587 MB, based on Lubuntu
+Porteus – it weighs in at under 300 MB, making it a lightweight contender Comes with the LXDE and KDE desktops
+Puppy Linux – lightweight relative to most other Linux distributions Download: 133−162 MB. Package Manager: Puppy Package Manager (PPM)
+SliTaz – 35−42 MB distribution; Package Manager is Tazpkg with its repository of packages
+Tiny Core Linux – (9, 15 or 72 MB) distribution; Software repository: TCZ packages
+Trisquel Mini – lightweight version (603 MB) of Trisquel with LXDE
+TurnKey Linux Virtual Appliance Library - lightweight headless server software appliance library. Based on a minified Debian base. v14.1 Core ISO is 212MB and uses ~173MB RAM (idle in Live mode).
+Xubuntu – lightweight (980 MB) in comparison to Ubuntu. It uses the XFCE desktop.
+Zenwalk – a lightweight linux distribution (845 MB) based on Slackware
+Comparison of Linux distributions
+Comparison of lightweight web browsers
+List of Linux distributions that run from RAM
+List of live CDs
+Open-source computer hardware

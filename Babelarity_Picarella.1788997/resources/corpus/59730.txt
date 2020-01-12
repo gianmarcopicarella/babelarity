@@ -1,0 +1,14 @@
+Morpholine is an organic chemical compound having the chemical formula O(CH2CH2)2NH. This heterocycle features both amine and ether functional groups. Because of the amine, morpholine is a base; its conjugate acid is called morpholinium. For example, treating morpholine with hydrochloric acid makes the salt morpholinium chloride.
+Morpholine may be produced by the dehydration of diethanolamine with sulfuric acid:
+Morpholine is a common additive, in parts per million concentrations, for pH adjustment in both fossil fuel and nuclear power plant steam systems. Morpholine is used because its volatility is about the same as water, so once it is added to the water, its concentration becomes distributed rather evenly in both the water and steam phases. Its pH-adjusting qualities then become distributed throughout the steam plant to provide corrosion protection. Morpholine is often used in conjunction with low concentrations of hydrazine or ammonia to provide a comprehensive all-volatile treatment chemistry for corrosion protection for the steam systems of such plants. Morpholine decomposes reasonably slowly in the absence of oxygen at the high temperatures and pressures in these steam systems.
+Morpholine undergoes most chemical reactions typical for other secondary amines, though the presence of the ether oxygen withdraws electron density from the nitrogen, rendering it less nucleophilic (and less basic) than structurally similar secondary amines such as piperidine. For this reason, it forms a stable chloramine (CAS#23328-69-0).
+It is commonly used to generate enamines.
+Morpholine is widely used in organic synthesis. For example, it is a building block in the preparation of the antibiotic linezolid, the anticancer agent gefitinib (Iressa) and the analgesic dextromoramide.
+In research and in industry, the low cost and polarity of morpholine lead to its common use as a solvent for chemical reactions.
+Most (as above) is widespread in Europe and the USA; accordingly, producers in Europe and the USA are able to cover the domestic and export markets.
+Morpholine is used as a chemical emulsifier in the process of waxing fruit. Naturally, fruits make waxes to protect against insects and fungal contamination, but this can be lost as the fruit is cleaned. A small amount of new wax is applied to replace it. Morpholine is used as an emulsifier and solubility aid for shellac, which is used as a wax for fruit coating. The European Union has forbidden the use of morpholine in fruit coating.
+Morpholine derivatives used as agricultural fungicides in cereals are known as ergosterol biosynthesis inhibitors.
+Amorolfine
+Fenpropimorph
+Tridemorph
+Morpholino

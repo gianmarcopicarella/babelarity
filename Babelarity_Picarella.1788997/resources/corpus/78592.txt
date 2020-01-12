@@ -1,0 +1,6 @@
+The practice of using colours to determine the temperature of a piece of (usually) ferrous metal comes from blacksmithing. Long before thermometers were widely available it was necessary to know what state the metal was in for heat treating it and the only way to do this was to heat it up to a colour which was known to be best for the work.
+According to Chapman's "Workshop Technology" the colours which can be observed in steel are:
+In 1905 Stirling Consolidated Boiler Company published a slightly different set of values
+Color temperature
+Black-body radiation
+Process associate's values

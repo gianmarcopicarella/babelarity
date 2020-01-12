@@ -1,0 +1,34 @@
+The multiplication sign or times sign is the symbol ×. The symbol is similar to the lowercase letter x but is a more symmetric saltire, and has different uses. It is also known as St. Andrew's Cross and dimension sign.
+In mathematics, the symbol × has a number of uses, including
+Multiplication of two numbers, where it is read as "times" or "multiplied by"
+Cross product of two vectors, where it is usually read as "cross"
+Cartesian product of two sets, where it is usually read as "cross"
+Geometric dimension of an object, such as noting that a room is 10 feet × 12 feet in area, where it is usually read as "by" (for example: "10 feet by 12 feet")
+Dimensions of a matrix, where it is usually read as "by"
+In biology, the multiplication sign is used in a botanical hybrid name (botany), for instance Ceanothus papillosus × impressus (a hybrid between C. papillosus and C. impressus) or Crocosmia × crocosmiiflora (a hybrid between two other species of Crocosmia). However, the communication of these hybrid names with a standard non-multiplication "x" is common when the actual "×" symbol is not readily available.
+The multiplication sign is also used by historians for an event between two dates. When employed between two dates, for example 1225 and 1232, 1225×1232 means "no earlier than 1225 and no later than 1232". It can also be used in a date range: 1225×1232–1278.
+The multiplication sign (×), often attributed to William Oughtred (who first used it in an appendix to the 1618 edition of John Napier's Descriptio) apparently had been in occasional use since the mid 16th century.
+The letter "x" is sometimes used in place of the multiplication sign. This is considered incorrect in mathematical writing.
+In algebraic notation, widely used in mathematics, a multiplication symbol is usually omitted wherever it would not cause confusion: "a multiplied by b" can be written as ab or a b.
+Other symbols can also be used to denote multiplication, often to reduce confusion between the multiplication sign × and the commonly used variable x. In many non-Anglophone countries, rather than ×, the primary symbol for multiplication is U+22C5 ⋅ DOT OPERATOR, for which the interpunct · may be substituted as a more accessible character. This symbol is also used in mathematics wherever multiplication should be written explicitly, such as in "ab = a⋅2 for b = 2"; this usage is also seen in English-language texts. In some languages (especially Bulgarian) and French the use of full stop as a multiplication symbol, such as a.b, is common.
+In programming languages, the standard notation of multiplication operator is U+002A * ASTERISK due to traditional restriction of all syntax of computer languages to the ASCII character repertoire.
+The × symbol is listed in the Latin-1 Supplement character set and is U+00D7 × MULTIPLICATION SIGN (HTML &#215; ·  &times;) in Unicode. It can be invoked in various operating systems as per the table below.
+The × symbol is used by the APL programming language to denote the sign function.
+There is a similar character ⨯ at U+2A2F, but this is not always considered identical to U+00D7, as U+2A2F is intended to explicitly denote the cross product of two vectors.
+In Unicode, the basic character is U+00D7 × MULTIPLICATION SIGN (HTML &#215; ·  &times;)
+Other variants are encoded:
+U+2297 ⊗ CIRCLED TIMES (HTML &#8855; ·  &otimes;)
+U+2715 ✕ MULTIPLICATION X (HTML &#10005;)
+U+2716 ✖ HEAVY MULTIPLICATION X (HTML &#10006;)
+U+2A09 ⨉ N-ARY TIMES OPERATOR (HTML &#10761;)
+U+2A2F ⨯ VECTOR OR CROSS PRODUCT (HTML &#10799;)
+U+2A30 ⨰ MULTIPLICATION SIGN WITH DOT ABOVE (HTML &#10800;)
+U+2A31 ⨱ MULTIPLICATION SIGN WITH UNDERBAR (HTML &#10801;)
+U+2A34 ⨴ MULTIPLICATION SIGN IN LEFT HALF CIRCLE (HTML &#10804;)
+U+2A35 ⨵ MULTIPLICATION SIGN IN RIGHT HALF CIRCLE (HTML &#10805;)
+U+2A36 ⨶ CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT (HTML &#10806;)
+U+2A37 ⨷ MULTIPLICATION SIGN IN DOUBLE CIRCLE (HTML &#10807;)
+U+2A3B ⨻ MULTIPLICATION SIGN IN TRIANGLE (HTML &#10811;)
+U+2AC1 ⫁ SUBSET WITH MULTIPLICATION SIGN BELOW (HTML &#10945;)
+U+2AC2 ⫂ SUPERSET WITH MULTIPLICATION SIGN BELOW (HTML &#10946;)
+Table of mathematical symbols

@@ -1,0 +1,8 @@
+Cadmium sulfate is the name of a series of related inorganic compounds with the formula CdSO4·xH2O. The most common form is the monohydrate CdSO4·H2O, but two other forms are known CdSO4·8/3H2O and the anhydrous salt (CdSO4). All salts are colourless and highly soluble in water.
+Cadmium sulfate octohydrate can be prepared by the reaction of cadmium metal or its oxide or hydroxide with dilute sulfuric acid:
+CdO + H2SO4 → CdSO4 + H2O
+Cd + H2SO4 → CdSO4 + H2
+The anhydrous material is prepared using sodium persulfate:
+Cd + Na2S2O8 → CdSO4 + Na2SO4
+Cadmium sulfate is very rarely found naturally as the tetrahydrate mineral drobecite (CdSO4·4H2O) and as a basic salt in the mineral niedermayrite (Cu4Cd(SO4)2(OH)6·4H2O).
+Cadmium sulfate is used widely for the electroplating of cadmium in electronic circuits. It is also a precursor to cadmium-based pigment such as cadmium sulfide. It is also used for electrolyte in a Weston standard cell as well as a pigment in fluorescent screens.

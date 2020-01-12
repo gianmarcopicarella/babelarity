@@ -1,0 +1,77 @@
+A voxel represents a value on a regular grid in three-dimensional space. As with pixels in a bitmap, voxels themselves do not typically have their position (their coordinates) explicitly encoded along with their values. Instead, the position of a voxel is inferred based upon its position relative to other voxels (i.e., its position in the data structure that makes up a single volumetric image). In contrast to pixels and voxels, points and polygons are often explicitly represented by the coordinates of their vertices. A direct consequence of this difference is that polygons are able to efficiently represent simple 3D structures with lots of empty or homogeneously filled space, while voxels are good at representing regularly sampled spaces that are non-homogeneously filled.
+Voxels are frequently used in the visualization and analysis of medical and scientific data. Some volumetric displays use voxels to describe their resolution. For example, a display might be able to show 512×512×512 voxels.
+The word voxel is based on a contraction of vox ("volume") and el (for "element"); similar formations with el  for "element" include the words pixel and texel.
+A volume described as voxels can be visualized either by direct volume rendering or by the extraction of polygon iso-surfaces that follow the contours of given threshold values. The marching cubes algorithm is often used for isosurface extraction, however other methods exist as well.
+Both ray-tracing and ray-casting, as well as rasterisation, can be applied to voxel data to obtain 2D raster graphics to depict on a monitor.
+Another technique for voxels involves raster graphics where you simply raytrace every pixel of the display into the scene, tracking an error term to determine when to step. A typical implementation will raytrace each pixel of the display starting at the bottom of the screen using what is known as a y-buffer. When a voxel is reached that has a higher y value on the display it is added to the y-buffer overriding the previous value and connected with the previous y-value on the screen interpolating the color values. There is a major downside to voxel rasterization when transformation is applied which causes severe aliasing. The advantage was the ability to rasterise using cheap integer calculations on a CPU without hardware acceleration.
+Outcast, and other 1990s video games employed this graphics technique for effects such as reflection and bump-mapping and usually for terrain rendering. Outcast's graphics engine was mainly a combination of a ray casting (heightmap) engine, used to render the landscape, and a texture mapping polygon engine used to render objects. The "Engine Programming" section of the games credits in the manual has several subsections related to graphics, among them: "Landscape Engine", "Polygon Engine", "Water & Shadows Engine" and "Special effects Engine". Although Outcast is often cited as a forerunner of voxel technology, this is somewhat misleading. The game does not actually model three-dimensional volumes of voxels. Instead, it models the ground as a surface, which may be seen as being made up of voxels. The ground is decorated with objects that are modeled using texture-mapped polygons. When Outcast was developed, the term "voxel engine", when applied to computer games, commonly referred to a ray casting engine (for example the VoxelSpace engine). On the engine technology page of the game's website, the landscape engine is also referred to as the "Voxels engine". The engine is purely software-based; it does not rely on hardware-acceleration via a 3D graphics card.
+John Carmack also experimented with Voxels for the Quake III engine. One such problem cited by Carmack was the lack of graphics cards designed specifically for such rendering requiring them to be software rendered.
+Comanche was also the first commercial flight simulation based on voxel technology. NovaLogic used the proprietary Voxel Space engine developed for the company by Kyle Freeman (written entirely in Assembly language) to create open landscapes. This rendering technique allowed for much more detailed and realistic terrain compared to simulations based on vector graphics at that time.
+A voxel represents a single sample, or data point, on a regularly spaced, three-dimensional grid. This data point can consist of a single piece of data, such as an opacity, or multiple pieces of data, such as a color in addition to opacity. A voxel represents only a single point on this grid, not a volume; the space between each voxel is not represented in a voxel-based dataset. Depending on the type of data and the intended use for the dataset, this missing information may be reconstructed and/or approximated, e.g. via interpolation.
+The value of a voxel may represent various properties. In CT scans, the values are Hounsfield units, giving the opacity of material to X-rays. Different types of value are acquired from MRI or ultrasound.
+Voxels can contain multiple scalar values, essentially vector (tensor) data; in the case of ultrasound scans with B-mode and Doppler data, density, and volumetric flow rate are captured as separate channels of data relating to the same voxel positions.
+While voxels provide the benefit of precision and depth of reality, they are typically large data sets and are unwieldy to manage given the bandwidth of common computers. However, through efficient compression and manipulation of large data files, interactive visualization can be enabled on consumer market computers.
+Other values may be useful for immediate 3D rendering, such as a surface normal vector and color.
+Common uses of voxels include volumetric imaging in medicine and representation of terrain in games and simulations. Voxel terrain is used instead of a heightmap because of its ability to represent overhangs, caves, arches, and other 3D terrain features. These concave features cannot be represented in a heightmap due to only the top 'layer' of data being represented, leaving everything below it filled (the volume that would otherwise be the inside of the caves, or the underside of arches or overhangs).
+3D Dot Game Heroes uses voxels to present retro-looking graphics.
+7 Days to Die is a voxel based open world survival horror game developed by The Fun Pimps Entertainment.
+Ace of Spades used Ken Silverman's Voxlap engine before being rewritten in a bespoke OpenGL engine.
+Amok is a video game for the Sega Saturn makes use of voxels in its scenarios.
+Armored Fist 3 is a computer game made by Novalogic that used voxel-based rendering technology.
+Blade Runner is a video game that used voxels to render characters and artifacts.
+Block Ops, a voxel based First Person Shooter game.
+Castle Story, a castle building Real Time Strategy game in development, has terrain consisting of smoothed voxels
+Comanche series, a series of computer games made by NovaLogic that used the Voxel Space voxel rasterization for terrain rendering.
+Command & Conquer: Tiberian Sun, Command & Conquer: Red Alert 2 and Command & Conquer: Yuri's Revenge are computer games made by Westwood Studios that used voxels to render most vehicles.
+Crysis, as well as Cryengine 2 and Cryengine 3, use a combination of heightmaps and voxels for its terrain system.
+Cube World, an Indie voxel based game with RPG elements.
+Cubiverse a webGL sandbox game crafter, uses voxels for the terrain.
+Delta Force is a computer game made by Novalogic that used the proprietary Voxel Space rendering engine.
+Dual Universe is a single-shard universe MMORPG game that uses voxels to build spaceships, civilizations, and space stations.
+EverQuest Next and EverQuest Next: Landmark, upcoming MMORPGs by Sony Online Entertainment, make extensive use of voxels for world creation as well as player generated content
+From the Depths, a voxel-based vehicle building game. Vehicles and structures use voxels for vehicle and structure creation and display.
+Hexplore, a multi-player role playing game, uses a voxel engine allowing the player to rotate the isometric rendered playfield.
+Master of Orion III uses voxel graphics to render space battles and solar systems. Battles displaying 1000 ships at a time were rendered slowly on computers without hardware graphic acceleration.
+Medieval Engineers is the second voxel-based engineering game by Keen Software House inspired from medieval technology.
+Minecraft is a sandbox video game that uses voxels to store terrain data, but does not use voxel rendering techniques. Instead it uses polygon rendering to display each voxel as a cubic "block." Minecraft also contains "entities," such as the player and creatures, that exist outside of the voxel data structure.
+Miner Wars 2081 is a 6DOF open world game made by Keen Software House that uses its own VRage voxel rendering engine to let the user deform the terrain of asteroids allowing tunnels to be formed.
+Oort Online is a voxel-based multi-player sandbox game with building elements in connected voxel-worlds that is being developed and published by Wonderstruck Games.
+Outcast, is a third-person action computer game made by former Belgian video game developer Appeal, with landscapes rendered by a voxel engine.
+Planet Coaster is a 2016 construction and management simulation developed and published by Frontier Developments which uses a voxel-based terrain editor.
+Reality Capture LIVE is a volumetric video recording and streaming tool developed by Organic Motion.
+Resogun is a 2013 voxel-based side-scrolling shoot 'em up video game developed by Finnish developer Housemarque.
+Roblox also uses voxels for terrain.
+ScrumbleShip, a block-building MMO space simulator game in development, renders each in-game component and damage to those components using dozens to thousands of voxels.
+Shadow Warrior and Blood use Build engine for first-person shooter game voxel rendering, instead of sprites, as an option for many of the items pickups and scenery. Duke Nukem 3D has an fan-created pack in a similar style.
+Shattered Steel featured deforming landscapes using voxel technology.
+Sid Meier's Alpha Centauri uses voxel models to render units.
+Space Engineers is a voxel-based sandbox game set in space, developed and published by Keen Software House
+StarMade, a voxel-based sandbox game set in space, developed and published by Robin "Schema" Promesberger.
+Trove is a voxel-based MMORPG with building elements, being developed and published by Trion Worlds.
+Vangers is a computer game uses voxels for its two-level terrain system.
+Vox, released in 2012, is a voxel based exploration/RPG game focused on player generated content.
+Voxatron, a computer game produced by Lexaloffle, is composed and generated fully using voxels.
+Werewolf is a computer game made by Novalogic that used voxel-based rendering technology. It was originally bundled and shipped with the Comanche 2 game although they were two separate games.
+Worms 4: Mayhem uses a voxel-based engine to simulate land deformation similar to the older 2D Worms games.
+While scientific volume visualization doesn't require modifying the actual voxel data, voxel editors can be used to create art (especially 3D pixel art) and models for voxel based games. Some editors are focused on a single approach to voxel editing while others mix various approaches. Some common approaches are:
+Slice based: The volume is sliced in one or more axes and the user can edit each image individually using 2D raster editor tools. These generally store color information in voxels.
+Sculpture: Similar to the vector counterpart but with no topology constraints. These usually store density information in voxels and lack color information.
+Building blocks: The user can add and remove blocks just like a construction set toy.
+Many game developers use in-house editors that are not released to the public, but a few games have publicly available editors, some of them created by players.
+Slice based fan-made Voxel Section Editor III for Command & Conquer: Tiberian Sun and Command & Conquer: Red Alert 2.
+SLAB6 and VoxEd are sculpture based voxel editors used by Voxlap engine games, including Voxelstein 3D and Ace of Spades.
+The official Sandbox 2 editor for CryEngine 2 games (including Crysis) has support for sculpting voxel based terrain.
+The C4 Engine and editor support multiple detail level (LOD) voxel terrain by implementing the patent-free Transvoxel algorithm.
+Qubicle  is a simple, professional voxel editor. It has export support to the Unity game engine, as well as many of the more common 3d modeling formats.
+Atomontage Engine [1] is a professional voxel engine also including physics engine.
+There are a few voxel editors available that are not tied to specific games or engines. They can be used as alternatives or complements to traditional 3D vector modeling.
+A generalization of a voxel is the doxel, or dynamic voxel. This is used in the case of a 4D dataset, for example, an image sequence that represents 3D space together with another dimension such as time. In this way, an image could contain 100×100×100×100 doxels, which could be seen as a series of 100 frames of a 100×100×100 volume image (the equivalent for a 3D image would be showing a 2D cross section of the image in each frame). Although storage and manipulation of such data requires large amounts of memory, it allows the representation and analysis of spacetime systems.
+Pixel – picture element
+Resel – resolution element
+Sparse voxel octree
+Texel – texture element
+Maxel - material element
+Tixel
+Volume rendering
+Volume mesh
+Tomography

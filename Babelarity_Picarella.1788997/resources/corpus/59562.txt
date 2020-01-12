@@ -1,0 +1,5 @@
+Lithium sulfide is the inorganic compound with the formula Li2S. It crystallizes in the antifluorite motif, described as the salt (Li+)2S2−. It forms a solid yellow-white deliquescent powder. In air, it easily hydrolyses to release hydrogen sulfide (rotten egg odor).
+Lithium sulfide is prepared by treating lithium with sulfur. This reaction is conveniently conducted in anhydrous ammonia.
+2 Li + S → Li2S
+The THF-soluble triethylborane adduct of lithium sulfide can be generated using superhydride.
+Lithium sulfide has been considered for use in lithium-sulfur batteries.

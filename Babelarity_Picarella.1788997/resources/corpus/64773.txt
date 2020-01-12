@@ -1,0 +1,23 @@
+Ronald (Ron) Lewis Graham (born October 31, 1935) is a mathematician credited by the American Mathematical Society as being "one of the principal architects of the rapid development worldwide of discrete mathematics in recent years". He has done important work in scheduling theory, computational geometry, Ramsey theory, and quasi-randomness.
+He is currently the Chief Scientist at the California Institute for Telecommunications and Information Technology (also known as Cal-(IT)2) and the Irwin and Joan Jacobs Professor in Computer Science and Engineering at the University of California, San Diego (UCSD).
+Graham was born in Taft, California. In 1962, he received his Ph.D. in mathematics from the University of California, Berkeley and began working at Bell Labs and later AT&T Labs. He was director of information sciences in AT&T Labs, but retired from AT&T in 1999 after 37 years.
+His 1977 paper considered a problem in Ramsey theory, and gave a "large number" as an upper bound for its solution. This number has since become well known as the largest number ever used in a mathematical proof (was listed as such in the Guinness Book of Records), and is now known as Graham's number, although it has since then been surpassed by even larger numbers such as TREE(3).
+Graham popularized the concept of the Erdős number, named after the highly prolific Hungarian mathematician Paul Erdős (1913–1996). A scientist's Erdős number is the minimum number of coauthored publications away from a publication with Erdős. Graham's Erdős number is 1. He co-authored almost 30 papers with Erdős, and was also a good friend. Erdős often stayed with Graham, and allowed him to look after his mathematical papers and even his income. Graham and Erdős visited the young mathematician Jon Folkman when he was hospitalized with brain cancer.
+Between 1993 and 1994 Graham served as the president of the American Mathematical Society. Graham was also featured in Ripley's Believe It or Not for being not only "one of the world's foremost mathematicians", but also "a highly skilled trampolinist and juggler", and past president of the International Jugglers' Association.
+He has published about 320 papers and five books, including Concrete Mathematics with Donald Knuth and Oren Patashnik.
+He is married to Fan Chung Graham (known professionally as Fan Chung), who is the Akamai Professor in Internet Mathematics at the University of California, San Diego. He has four children: daughters Ché, Laura and Christy, and a son Marc.
+In 2003, Graham won the American Mathematical Society's annual Steele Prize for Lifetime Achievement. The prize was awarded on January 16 that year, at the Joint Mathematics Meetings in Baltimore, Maryland. In 1999 he was inducted as a Fellow of the Association for Computing Machinery. Graham has won many other prizes over the years; he was one of the laureates of the prestigious Pólya Prize the first year it was ever awarded, and among the first to win the Euler Medal. The Mathematical Association of America has also awarded him both the Lester R. Ford prize which was "...established in 1964 to recognize authors of articles of expository excellence published in The American Mathematical Monthly...", and the Carl Allendoerfer prize which was established in 1976 for the same reasons, however for a different magazine, the Mathematics Magazine. In 2012 he became a fellow of the American Mathematical Society.
+with Paul Erdős: Old and new results in combinatorial number theory. L’Enseignement Mathématique, 1980
+with Fan Chung: Erdős on Graphs. His legacy of unsolved problems. A. K. Peters, 1998
+with Jaroslav Nešetřil (ed.): The mathematics of Paul Erdős. 2 vols. Springer, 1997
+Rudiments of Ramsey Theory. American Mathematical Society, 1981
+with Donald E. Knuth & Oren Patashnik: Concrete Mathematics: a foundation for computer science. Addison-Wesley, 1989; 1994
+with Joel H. Spencer & Bruce L. Rothschild: Ramsey Theory. Wiley, 1980; 1990
+with Martin Grötschel & László Lovász (ed.): Handbook of Combinatorics. MIT Press, 1995
+with Persi Diaconis: Magical Mathematics: the mathematical ideas that animate great magic tricks. Princeton University Press, 2011 (won the Euler Book Prize)
+Rudiments of Ramsey Theory, Second Edition, American Math Society, (2015)
+Coffman–Graham algorithm
+Erdős–Graham problem
+Graham scan
+Biggest little polygon
+Boolean Pythagorean triples problem

@@ -1,0 +1,25 @@
+E is the third note of the C major scale, and mi in fixed-do solfège. It has enharmonic equivalents of F♭ (which is by definition a diatonic semitone above E♭) and D, amongst others.
+When calculated in equal temperament with a reference of A above middle C as 440 Hz, the frequency of Middle E (E4) is approximately 329.628 Hz. See pitch (music) for a discussion of historical variations in frequency.
+E Major: E F♯ G♯ A B C♯ D♯ E
+E Natural Minor: E F♯ G A B C D E
+E Harmonic Minor: E F♯ G A B C D♯ E
+E Melodic Minor Ascending: E F♯ G A B C♯ D♯ E
+E Melodic Minor Descending: E D C B A G F♯ E
+E Ionian: E F♯ G♯ A B C♯ D♯ E
+E Dorian: E F♯ G A B C♯ D E
+E Phrygian: E F G A B C D E
+E Lydian: E F♯ G♯ A♯ B C♯ D♯ E
+E Mixolydian: E F♯ G♯ A B C♯ D E
+E Aeolian: E F♯ G A B C D E
+E Locrian: E F G A B♭ C D E
+E Ascending Melodic Minor: E F♯ G A B C♯ D♯ E
+E Dorian ♭2: E F G A B C♯ D E
+E Lydian Augmented: E F♯ G♯ A♯ B♯ C♯ D♯ E
+E Lydian Dominant: E F♯ G♯ A♯ B C♯ D E
+E Mixolydian ♭6: E F♯ G♯ A B C D E
+E Locrian ♮2: E F♯ G A B♭ C D E
+E Altered: E F G A♭ B♭ C D E
+F♭ is a common enharmonic equivalent of E, but is not regarded as the same note. F♭ is commonly found after E♭ in the same measure in pieces where E♭ is in the key signature, in order to represent a diatonic, rather than a chromatic semitone; writing an E♭ with a following E♮ is regarded as a chromatic alteration of one scale degree.
+Piano key frequencies
+E major
+E minor

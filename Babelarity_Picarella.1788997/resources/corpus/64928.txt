@@ -1,0 +1,145 @@
+In fluid dynamics, Couette flow is the laminar flow of a viscous fluid in the space between two parallel plates, one of which is moving relative to the other. The flow is driven by virtue of viscous drag force acting on the fluid and the applied pressure gradient parallel to the plates. This type of flow is named in honor of Maurice Marie Alfred Couette, a Professor of Physics at the French University of Angers in the late 19th century.
+Couette flow is frequently used in undergraduate physics and engineering courses to illustrate shear-driven fluid motion. The simplest conceptual configuration finds two infinite, parallel plates separated by a distance h. One plate, say the top one, translates with a constant velocity u0 in its own plane. Neglecting pressure gradients, the Navier–Stokes equations simplify to
+                d
+                  2
+              u
+              d
+                y
+                  2
+        =
+        0
+        ,
+    {\displaystyle {\frac {d^{2}u}{dy^{2}}}=0,}
+where y is a spatial coordinate normal to the plates and u(y) is the velocity distribution. This equation reflects the assumption that the flow is uni-directional. That is, only one of the three velocity components 
+        (
+        u
+        ,
+        v
+        ,
+        w
+        )
+    {\displaystyle (u,v,w)}
+   is non-trivial. If y originates at the lower plate, the boundary conditions are u(0) = 0 and u(h) = u0. The exact solution
+        u
+        (
+        y
+        )
+        =
+          u
+            0
+            y
+            h
+    {\displaystyle u(y)=u_{0}{\frac {y}{h}}}
+can be found by integrating twice and solving for the constants using the boundary conditions.
+A notable aspect of this model is that shear stress is constant throughout the flow domain. In particular, the first derivative of the velocity, u0/h, is constant. (This is implied by the straight-line profile in the figure.) According to Newton's Law of Viscosity (Newtonian fluid), the shear stress is the product of this expression and the (constant) fluid viscosity.
+A more general Couette flow situation arises when a pressure gradient is imposed in a direction parallel to the plates. The Navier–Stokes equations, in this case, simplify to
+                d
+                  2
+              u
+              d
+                y
+                  2
+        =
+            1
+            μ
+              d
+              p
+              d
+              x
+        ,
+    {\displaystyle {\frac {d^{2}u}{dy^{2}}}={\frac {1}{\mu }}{\frac {dp}{dx}},}
+where 
+        d
+        p
+          /
+        d
+        x
+    {\displaystyle dp\!/\!dx}
+   is the pressure gradient parallel to the plates and 
+        μ
+    {\displaystyle \mu }
+   is fluid viscosity. Integrating the above equation twice and applying the boundary conditions (same as in the case of Couette flow without pressure gradient) to yield the following exact solution
+        u
+        (
+        y
+        )
+        =
+          u
+            0
+            y
+            h
+        +
+            1
+              2
+              μ
+          (
+                d
+                p
+                d
+                x
+          )
+          (
+            y
+              2
+          −
+          h
+          y
+          )
+        .
+    {\displaystyle u(y)=u_{0}{\frac {y}{h}}+{\frac {1}{2\mu }}\left({\frac {dp}{dx}}\right)\left(y^{2}-hy\right).}
+The shape of the above velocity profile depends on the dimensionless parameter
+        P
+        =
+        −
+              h
+                2
+              2
+              μ
+                u
+                  0
+          (
+                d
+                p
+                d
+                x
+          )
+        .
+    {\displaystyle P=-{\frac {h^{2}}{2\mu u_{0}}}\left({\frac {dp}{dx}}\right).}
+The pressure gradient can be positive (adverse pressure gradient) or negative (favorable pressure gradient).
+It may be noted that in the limiting case of stationary plates, the flow is referred to as plane Poiseuille flow with a symmetric (with reference to the horizontal mid-plane) parabolic velocity profile.
+The configuration shown in the figure cannot actually be realized, as two plates cannot extend infinitely in the flow direction. Sir Geoffrey Taylor was interested in shear-driven flows created by rotating co-axial cylinders. In his 1923 paper, Taylor reported the mathematical result (originally derived by Stokes in 1845) that accounts for curvature in the flow direction and has the form
+        u
+        (
+        r
+        )
+        =
+          C
+            1
+        r
+        +
+              C
+                2
+            r
+        ,
+    {\displaystyle u(r)=C_{1}r+{\frac {C_{2}}{r}},}
+where C1 and C2 are constants that depend on the rotation rates of the cylinders. (Note that r has replaced y in this result to reflect cylindrical rather than rectangular coordinates.) It is clear from this equation that curvature effects no longer allow for constant shear in the flow domain, as shown above. This model is incomplete in that it does not account for near-wall effects in finite-width cylinders, although it is a reasonable approximation if the width is large compared to the space between the cylinders. Generalizations of Taylor's basic model have also been examined. For example, the solution for the time-dependent "start-up" process can be expressed in terms of Bessel functions.
+Taylor's solution accounts for the curvature inherent in the cylindrical devices typically used to create Couette flows, but not the finite nature of the width. A complementary idealization accounts for finiteness, but not curvature. In the figure above, we might think of the "boundary plate" and the "moving plate" as the edges of two cylinders having large radii, say 
+          R
+            1
+    {\displaystyle R_{1}}
+   and 
+          R
+            2
+    {\displaystyle R_{2}}
+  , respectively, where 
+          R
+            2
+    {\displaystyle R_{2}}
+   is only slightly greater than 
+          R
+            1
+    {\displaystyle R_{1}}
+  . In this case, curvature can be neglected locally. The physicist/mathematician Ratip Berker reported a mathematical solution for this configuration in terms of a trigonometric expansion
+Actual co-axial cylinder devices used to create Couette flows have both curvature and finite geometry. The latter gives rise to increased drag in the wall region. A mathematical result that accounts for both of these aspects was given only recently by Michael Wendl. His solution takes the form of an expansion of modified (hyperbolic) Bessel functions of the first kind.
+Taylor–Couette flow
+Taylor number

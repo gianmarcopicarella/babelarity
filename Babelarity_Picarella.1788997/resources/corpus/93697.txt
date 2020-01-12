@@ -1,0 +1,41 @@
+The Xiphosura are an order of marine chelicerates that includes a large number of extinct lineages and only four extant species in the family Limulidae, which include the horseshoe crabs. The group has hardly changed in millions of years; the modern horseshoe crabs look almost identical to prehistoric genera such as the Jurassic Mesolimulus, and are considered to be living fossils. The most notable difference between ancient and modern forms is that the abdominal segments in present species are fused into a single unit in adults.
+Xiphosura were traditionally placed in the class Merostomata, although this term was intended to encompass also the eurypterids, whence it denoted what is now known to be an unnatural (paraphyletic) group (although this is a grouping recovered in some recent cladistic analyses). Although the name Merostomata is still seen in textbooks, without reference to the Eurypterida, some have urged that this usage should be discouraged. The Merostomata label originally did not include Eurypterida, although they were added in as a better understanding of the extinct group evolved (see Merostomata for additional details). However, as the similarities, which were once thought to tie the group together, are now understood to be symplesiomorphies, it seems that abandoning the term altogether to avoid any confusion arising from these historical usages of the term is the best strategy.
+Modern xiphosurans reach up to 60 cm (24 in) in adult length, but the Paleozoic species were often far smaller, some as small as 1 to 3 cm (0.39 to 1.18 in) long.
+Their bodies are covered with a tough cuticle, but do not contain any crystalline biominerals, and are divided into an anterior prosoma and a posterior opisthosoma, or abdomen. The upper surface of the prosoma is covered by a semicircular carapace, while the underside bears five pairs of walking legs and a pair of pincer-like chelicerae. The mouth is located below the forward tip of the carapace, and lies behind a lip-like structure called the labrum.
+Xiphosurans have up to four eyes, located in the carapace. A pair of compound eyes is on the side of the prosoma, with one or two median ocelli towards the front. The compound eyes are simpler in structure than those of other arthropods, with the individual ommatidia not being arranged in a compact pattern. They can probably detect movement, but are unlikely to be able to form a true image. In front of the ocelli is an additional organ that probably functions as a chemoreceptor.
+The first four pairs of legs end in pincers, and have a series of spines, called the gnathobase, on the inner surface. The spines are used to masticate the food, tearing it up before passing it to the mouth. The fifth and final pair of legs, however, has no pincers or spines, instead having structures for cleaning the gills and pushing mud out of the way while burrowing. Behind the walking legs is a sixth set of appendages, the chilaria, which are greatly reduced in size and covered in hairs and spines. These are thought to be vestiges of the limbs of an absorbed first opisthosomal segment.
+The opisthosoma is divided into a forward mesosoma, with flattened appendages, and a metasoma at the rear, which has no appendages. In modern forms, the whole of the opisthosoma is fused into a single unsegmented structure. The underside of the opisthosoma carries the genital openings and five pairs of flap-like gills.
+The opisthosoma terminates in a long caudal spine, commonly referred to as a telson (though this same term is also used for a different structure in crustaceans). The spine is highly mobile, and is used to push the animal upright if it is accidentally turned over.
+The mouth opens into a sclerotised oesophagus, which leads to a crop and gizzard. After grinding up its food in the gizzard, the animal regurgitates any inedible portions, and passes the remainder to the true stomach. The stomach secretes digestive enzymes, and is attached to an intestine and two large caeca that extend through much of the body, and absorb the nutrients from the food. The intestine terminates in a sclerotised rectum, which opens just in front of the base of the caudal spine.
+Xiphosurans have well-developed circulatory systems, with numerous arteries that send blood from the long tubular heart to the body tissues, and then to two longitudinal sinuses next to the gills. After being oxygenated, the blood flows into the body cavity, and back to the heart. The blood contains haemocyanin, a blue copper-based pigment performing the same function as haemoglobin in vertebrates, and also has blood cells that aid in clotting.
+The excretory system consists of two pairs of coxal glands connected to a bladder that opens near the base of the last pair of walking legs. The brain is relatively large, and, as in many arthropods, surrounds the oesophagus. In both sexes, the single gonad lies next to the intestine and opens on the underside of the opisthosoma.
+Xiphosurans move to shallow water to mate. The male climbs onto the back of the female, gripping her with his first pair of walking legs. The female digs out a depression in the sand, and lays from 200 to 300 eggs, which the male covers with sperm. The pair then separates, and the female buries the eggs.
+The egg is about 2–3 mm (0.08–0.12 in) across, and hatches into a larva that superficially resembles a trilobite. Indeed, it is often referred to as the 'trilobite larva'. Through a series of successive moults, the larva develops additional gills, increases the length of its caudal spine, and gradually assumes the adult form. Modern xiphosurans reach sexual maturity after about three years of growth.
+Order Xiphosura Latreille, 1802
+†Suborder Synziphosurida
+†Weinberginidae Richter & Richter, 1929 (Lower Devonian)
+†Bunodidae Packard, 1886
+†Bunodinae Packard, 1886 (Upper Silurian to Downtonian)
+†Limuloidinae Størmer, 1952 (Upper Silurian)
+†Pseudoniscidae Packard 1886 (Upper Silurian)
+†Kasibelinuridae Pickett, 1993 (Middle Devonian to Late Devonian)
+Suborder Xiphosurida
+†Infraorder Bellinurina
+†Elleriidae Raymond, 1944 (Upper Devonian to Upper Carboniferous)
+†Euproopidae Eller, 1938 (= Liomesaspidae Raymond, 1944) (Upper Carboniferous to Lower Permian)
+†Bellinuridae Zittel & Eastman, 1913 (Middle Devonian to Upper Carboniferous)
+Infraorder Limulina
+†Rolfeiidae Selden & Siveter, 1987 (Early Carboniferous to Early Permian)
+†Paleolimulidae Raymond, 1944 (Carboniferous to Permian)
+†Moravuridae Pribyl, 1967 (Mississippian)
+†Austrolimulidae + †Heterolimulidae (Middle Triassic)
+Limulidae Zittel, 1885
+†Mesolimulinae Størmer, 1952 (Lower Triassic to Cretaceous)
+Limulinae Zittel, 1885
+Tachypleini Pocock, 1902 (Miocene to recent)
+Limulini Zittel, 1885 (recent)
+Two groups were originally included in the Xiphosura, but since have been assigned to separate classes:
+Aglaspida Walcott, 1911 (Cambrian to Ordovician)
+Chasmataspida Caster & Brooks, 1956 (Lower Ordovician)
+Synziphosurine
+List of xiphosurans

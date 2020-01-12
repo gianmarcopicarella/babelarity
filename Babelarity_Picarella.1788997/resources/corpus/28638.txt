@@ -1,0 +1,51 @@
+The Vympel R-27 missile (NATO reporting name AA-10 Alamo) is a medium-to-long-range air-to-air missile developed by the Soviet Union. It remains in service with the Russian Air Force and air forces of the Commonwealth of Independent States.
+The R-27 is manufactured in infrared-homing (R-27T), semi-active-radar-homing (R-27R), and active-radar-homing (R-27EA) versions, in both Russia and Ukraine. The R-27 missile is carried by the Mikoyan MiG-29 and Sukhoi Su-27 fighters, and some of the later-model MiG-23MLD fighters have also been adapted to carry it. The R-27 missile is also license-produced in China, though the production license was bought from Ukraine instead of Russia.
+R-27R AA-10 Alamo-A, semi-active radar homing. Missile can be used at 20 to 25000 meters altitude (launch platform or target). Effective kill range for a target at same altitude: 2 to 42.5 km head-on, 0.7 to 7.5 km tail-on. Maximum range: 73 km. Maximum allowed vertical separation between target and launch platform: +/- 10 km.
+R-27T AA-10 Alamo-B, infrared homing, passive homing using the Avtomatika 9B-1032 (PRGS-27) IR seeker head. Missile can be used at 20 to 25000 meters altitude. Effective kill range for a target at same altitude: 2 to 33 km head-on, 0 to 5.5 km tail-on. Maximum range: 63 km. Maximum allowed vertical separation: +/-10 km.
+R-27ER AA-10 Alamo-C, the semi-active-radar homing extended-range version. Missile can be used at 20 to 27000 meters altitude. Effective kill range for a target at same altitude: 2 to 65.5 km head-on, 0.7 to 16.5 km tail-on. Missile cannot be fired at altitude less than 3 km againist a target with background earth, if launch range is less than 6 kilometers. Maximum range: 117 km. Maximum allowed vertical separation: 12 km.
+R-27ET AA-10 Alamo-D, the infrared-homing extended-range version, Weight 348 kg. Missile can be used at 20 to 27000 meters altitude. Effective kill range: 2 to 52.5 km head-on, 0.7 to 12.5 tail-on. Maximum range: 104 km. Maximum allowed vertical separation: 12 km.
+R-27R and ER variants can be used in any meteorological conditions. Launch can made at less than 5 g overload and less 50 deg/s roll rate. It is allowed to redesignate targets during flight, or sharing target illumination with other aircraft.
+R-27T and ET variants can be used out of cloudiness, at least 15 degrees away from the bearing of sun, and 4 degrees away from the bearing of moon and ground based head-contrasting conditions. In cases of maximum head-on range launches where lock-command cannot be utilised, missile can be fired in PPS: In this mode, missile will fly straight until achieves target lock. As missile lacks capability of maneuvering before lock, aircraft itself must maneuver so that missile will be pointed to no more than 15 degrees bearing of the target for confident capture by the IR seeker after launch. Equalising altitude is recommended but not required. On combat operations section of the Su-27 manual, this mode of usage is especially recommended for head-on usage for passive attacks at targets with 0 degrees approach angle (i.e. another fighter moving to intercept), leaving target unalerted to incoming missile. Launch can be made at 0 to 7 g, but limited to 6 g if roll induced slip is more than 2x diameter of the ball.
+Other Variants:
+R-27P AA-10 Alamo-E, passive radar homing with a range of up to 72 km.
+R-27EP AA-10 Alamo-F, a longer range passive anti-radiation missile with a range of up to 70 nm (110 km) 
+R-27EA, active radar homing with 9B-1103K active seeker, range of >130 km.
+In the 1999 Eritrean-Ethiopian War, Eritrean MiG-29s fought Ethiopian Su-27s both piloted by Russian mercenaries. There were possibly as many as 24 R-27s fired by both sides. Only one R-27 fired by an Ethiopian Su-27 at an Eritrean MiG-29 proximity-fuzed near enough the MiG that the damaged aircraft eventually crashed on landing, giving the R-27 a hit ratio of only 4%.
+During the War in Donbass, the Ukrainian Air Force claimed that one of its Su-25 was shot down by a Russian Air Force MiG-29 using a R-27T on 16 July 2014. Russian officials denied any involvement.
+ Algeria
+ Azerbaijan
+ Bangladesh
+ Belarus
+ Bulgaria
+ People's Republic of China
+ Cuba
+ Eritrea
+ Ethiopia
+ India
+ Indonesia (on Su-27s and Su-30s)
+ Iran
+ Kazakhstan
+ Malaysia
+ North Korea
+ Peru
+ Poland
+ Russia
+ Serbia
+ Slovakia
+ Sudan
+ Syria
+ Ukraine
+ Venezuela
+ Vietnam
+ Czechoslovakia
+ Czech Republic
+ East Germany (all given to West German Air Force in 1990)
+ Germany (all given to the Polish Air Force with MiG-29s in 2004)
+ Hungary
+ Iraq
+ Soviet Union (passed on to successor states except  Lithuania,  Latvia and  Estonia)
+ Romania
+ Yugoslavia/ Yugoslavia/Serbia and Montenegro
+List of missiles
+R-77
+AIM-7 Sparrow

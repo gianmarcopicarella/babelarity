@@ -1,0 +1,51 @@
+Dart is a general-purpose programming language originally developed by Google and later approved as a standard by Ecma (ECMA-408). It is used to build web, server and mobile applications, and for Internet of Things (IoT) devices. It is open-source software under a BSD license.
+Dart is a class-based, single inheritance, object-oriented language with C-style syntax which can optionally transcompile into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, and optional typing.
+Dart was unveiled at the GOTO conference in Aarhus, Denmark, October 10–12, 2011. The project was founded by Lars Bak and Kasper Lund.
+Standardization
+Ecma International has formed technical committee TC52 to work on standardizing Dart, and inasmuch as Dart can be compiled to standard JavaScript, it works effectively in any modern browser. Ecma International approved the Dart language specification first edition in July 2014, at its 107th General Assembly, and a second edition in December 2014.
+There are three main ways to run Dart code:
+Compiled as JavaScript
+To run in mainstream web browsers, Dart relies on a source-to-source compiler to JavaScript. According to the project site, Dart was "designed to be easy to write development tools for, well-suited to modern app development, and capable of high-performance implementations." When running Dart code in a web browser the code is precompiled into JavaScript using the dart2js compiler. Compiled as JavaScript, Dart code is compatible with all major browsers with no need for browsers to adopt Dart. Through optimizing the compiled JavaScript output to avoid expensive checks and operations, code written in Dart can, in some cases, run faster than equivalent code hand-written using JavaScript idioms.
+In the Dartium Browser
+The Dart software development kit (SDK) ships with a version of the Chromium web browser modified to include a Dart virtual machine (VM). This browser can run Dart code directly without compiling to JavaScript. It is intended as a development tool for applications written in this language, rather than as a general purpose web browser. There were originally plans to include Dart support directly in Chrome, but these were cancelled.
+Stand-alone
+The Dart SDK also ships with a stand-alone Dart VM, allowing dart code to run in a command-line interface environment. As the language tools included in the Dart SDK are written mostly in Dart, the stand-alone Dart VM is a critical part of the SDK. These tools include the dart2js compiler, and a package manager suite called pub. Dart ships with a complete standard library allowing users to write fully working system apps, such as custom web servers.
+Dart programs run in one of two modes. In checked mode, which is not the default mode and must be turned on, dynamic type assertions are enabled. These type assertions can turn on if static types are provided in the code, and can catch some errors when types do not match. For example, if a method is annotated to return a String, but instead returns an integer, the dynamic type assertion will catch this and throw an exception. Running in checked mode is recommended for development and testing.
+Dart programs run by default in production mode, which runs with all dynamic type assertions turned off. This is the default mode because it is the fastest way to run a Dart program.
+To achieve concurrency, Dart uses isolates, which are independent workers that do not share memory, but instead use message passing. This is similar to Erlang actors. Every Dart program uses at least one isolate, which is the main isolate. When compiled to JavaScript, isolates are transformed into Web workers.
+Snapshots are a core part of the Dart VM. Snapshots are files which store objects and other runtime data.
+Script snapshots
+Dart programs can be compiled into snapshot files. These files contain all of the program code and dependencies preparsed and ready to execute. This allows fast startups.
+Full snapshots
+The Dart core libraries can be compiled into a snapshot file which allows fast loading of the libraries. Most standard distributions of the main Dart VM have a prebuilt snapshot for the core libraries which is loaded at runtime.
+Object snapshots
+Dart is a very asynchronous language. With this, it uses isolates for concurrency. Since these are workers which pass messages, it needs a way to serialize a message. This is done using a snapshot, which is generated from a given object, and then this is transferred to another isolate for deserializing.
+Google is working on full Dart stacks for native mobile app development on both Android and iOS.
+The first compiler to generate JavaScript from Dart code was dartc, but it was deprecated. The second Dart-to-JavaScript compiler was Frog. It was written in Dart, but never implemented the full semantics of the language. As of 2015, the third Dart-to-JavaScript compiler is dart2js, from Google. An evolution of earlier compilers, it is written in Dart, and intended to implement the full Dart language specification and semantics.
+On March 28, 2013, the Dart team posted an update on their blog addressing Dart code compiled to JavaScript with the dart2js compiler, stating that it now runs faster than handwritten JavaScript on Chrome's V8 JavaScript engine for the DeltaBlue benchmark.
+On November 18, 2011, Google released Dart Editor, an open-source program based on Eclipse components, for Mac OS X, Windows, and Linux-based operating systems. The editor supports syntax highlighting, code completion, JavaScript compiling, running web and server Dart applications, and debugging.
+On August 13, 2012, Google announced the release of an Eclipse plugin for Dart development.
+On April 18, 2015, Google announced that the Dart Editor would be retired in favor of the JetBrains integrated development environment (IDE), which is now the recommended IDE for the language. The Dart plugin is available for IntelliJ IDEA, PyCharm, PhpStorm and WebStorm. This plugin supports many features such as syntax highlighting, code completion, analysis, refactoring, debugging, and more. Other plugins are available for editors like Sublime Text and Atom.
+It has been known since November 2013 that the Chromium team is working on an open source, Chrome App-based development environment with a reusable library of GUI widgets, codenamed Spark, later renamed as Chrome Dev Editor. It is built in Dart, and contains Spark which is powered by Polymer. A developer preview version is available in the Chrome Web Store.
+The Dart team created DartPad at the start of 2015, to provide an easier way to start using Dart. It is a fully online editor from which users can experiment with Dart application programming interfaces (APIs), and run Dart code. It provides syntax highlighting, code analysis, code completion, documentation, and HTML and CSS editing.
+In 2013, John McCutchan announced that he had created a performant interface to single instruction, multiple data (SIMD) instruction sets for Dart, bringing the benefits of SIMD to web programs for the first time, for users running Google's experimental Dartium browser. The interface consists of two types:
+Float32×4, 4× single precision floating point values
+Uint32×4, 4× 32-bit unsigned integer values
+Instances of these types are immutable and in optimized code are mapped directly to SIMD registers. Operations expressed in Dart typically are compiled into one instruction with no overhead. This is similar to C and C++ intrinsics. Benchmarks for 4×4 matrix multiplication, 3D vertex transformation, and Mandelbrot set visualization show near 400% speedup compared to scalar code written in Dart.
+A Hello World example:
+A function to calculate the nth Fibonacci number:
+A simple class:
+Dart is a descendant of the ALGOL language family, alongside C, Java, C#, JavaScript, and others.
+The method cascade syntax, which provides a syntactic shortcut for invoking several methods one after another on the same object, is adopted from Smalltalk.
+Dart's mixins were influenced by Strongtalk and Ruby.
+Dart makes use of isolates as a concurrency and security unit when structuring applications. The Isolate concept builds upon the Actor model, which is most famously implemented in Erlang.
+The Mirror API for performing controlled and secure reflection was first proposed in a paper by Gilad Bracha (who is a member of the Dart team) and David Ungar and originally implemented in Self.
+Dart initially had a mixed reception and the Dart initiative has been criticized by some for fragmenting the web, due to the original plans to include a Dart VM in Chrome. Those plans were dropped to focus instead on compiling Dart to JavaScript.
+CoffeeScript
+Fantom (programming language)
+Google Web Toolkit
+Haxe – a language that can be compiled to JavaScript and several other languages
+Opa (programming language)
+Pyjamas (software)
+TypeScript
+AtScript

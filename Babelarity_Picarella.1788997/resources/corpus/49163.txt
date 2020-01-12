@@ -1,0 +1,23 @@
+The manat (code: AZN) is the currency of Azerbaijan. It is subdivided into 100 qəpik. The word manat is borrowed from the Russian word Монета "moneta" (coin) which is pronounced as "manta" and is a loanword from Latin. Manat was also the designation of the Soviet ruble in both the Azerbaijani and Turkmen languages.
+The Azerbaijani manat symbol, , was assigned to Unicode U+20BC in 2013. A lowercase m. or man. can be used as a substitute for the manat symbol.
+The Azerbaijan Democratic Republic and its successor the Azerbaijani Soviet Socialist Republic issued their own currency between 1919 and 1923. The currency was called the manat (منات) in Azeri and the ruble (рубль) in Russian, with the denominations written in both languages (and sometimes also in French) on the banknotes. The manat replaced the first Transcaucasian ruble at par and was replaced by the second Transcaucasian ruble after Azerbaijan became part of the Transcaucasian Soviet Federal Socialist Republic. No subdivisions were issued, and the currency only existed as banknotes.
+The Democratic Republic issued notes in denominations of 25, 50, 100, 250 and 500 manat, whilst the Soviet Socialist Republic issued notes in denominations of 5; 100; 1,000; 5,000; 10,000; 25,000; 50,000; 100,000; 250,000; 1 million and 5 million manat.
+The second manat was introduced on 15 August 1992. It had the ISO 4217 code AZM and replaced the Soviet ruble at a rate of 10 rubles to 1 manat.
+From early 2002 to early 2005, the exchange rate was fairly stable (varying within a band of 4770–4990 manat per US dollar). Starting in the spring of 2005 there was a slight but steady increase in the value of the manat against the US dollar; the reason most likely being the increased flow of petrodollars into the country, together with the generally high price of oil on the world market. At the end of 2005, one dollar was worth 4591 manat. Banknotes below 100 manat had effectively disappeared by 2005, as had the qəpik coins.
+Coins were issued in denominations of 5, 10, 20 and 50 qəpik, dated 1992 and 1993. Although brass and cupro-nickel were used for some of the 1992 issues, later issues were all in aluminium.
+The following banknotes were issued for this currency
+1, 5, 10, 250 manat (all first issued on 15 August 1992)
+50, 100, 500, 1000 manat (all first issued in early 1993)
+10,000 manat (first issued in August 1994)
+50,000 manat (first issued in May 1996)
+Banknotes with denominations from 1 to 250 manat featured Baku's Maiden Tower.
+On 1 January 2006, a new manat (ISO 4217 code AZN, also called the "manat (national currency)") was introduced at a value of 5,000 old manat. Since 1 October 2005, prices have been indicated both in new manats and in old manats to ease transition. Coins denominated in qəpik, which had not been used from 1993 onwards due to inflation, have been reintroduced with the redenomination. The former manat (ISO code 4217 AZM) remained valid through 31 December 2006.
+The new banknotes and Azeri Manat symbol, ₼ (), were designed by Robert Kalina in 2006, and the symbol was added to Unicode (U+20BC) in 2013, after failed addition proposals between 2008 and 2011. The final Azeri Manat symbol design was inspired by the design of the Euro sign (€), based on an initial proposal by Mykyta Yevstifeyev, and resembles a single-bar Euro sign rotated 90° clockwise.
+Coins in circulation are 1, 3, 5, 10, 20 and 50 qəpik. Most coins closely resemble the size and shape of various euro coins. Most notably the bimetallic 50 qəpik (similar to €2 coin) and the 10 qəpik (Spanish flower, like the 20 cent coin). Coins were first put into circulation during January 2006 and do not feature a mint year.
+Banknotes in circulation are 1, 5, 10, 20, 50 and 100 manat. They were designed by Austrian Robert Kalina, who also designed the current banknotes of the euro and the Syrian Pound. Therefore, the notes look quite similar to those of the euro and the choice of motifs was inspired by the euro banknotes.
+In 2009 the Azərbaycan Milli Bankı (National Bank of Azerbaijan) was renamed the Azərbaycan Mərkəzi Bankı (Central Bank of Azerbaijan). In 2010, the 1-manat banknote was issued with the new name of the issuing bank, and in 2012 a 5-manat banknote was issued with the new name of the issuing bank.
+In 2011 the Azerbaijani ministry of finance announced it was considering to issue notes of 2 and 3 manat as well as notes with values larger than 100 manat In February 2013 the Central Bank of Azerbaijan announced it would not introduce larger denomination notes until at least 2014.
+Central Bank of Azerbaijan
+Turkmenistan manat
+Economy of Azerbaijan
+Banking in Azerbaijan

@@ -1,0 +1,15 @@
+A key generator (key-gen) is a computer program that generates a product licensing key, such as a serial number, necessary to activate for use a software application. Keygens may be legitimately distributed by software manufacturers for licensing software in commercial environments where software has been licensed in bulk for an entire site or enterprise, or they may be distributed illegitimately in circumstances of copyright infringement or software piracy. Illegitimate key generators are typically distributed by software crackers in the warez scene and demoscene, where keygens are often accompanied with chiptunes and artistic visual representations.
+A software license is a legal instrument that governs the usage and distribution of computer software. Often, such licenses are enforced by implementing in the software a product activation or digital rights management (DRM) mechanism, seeking to prevent unauthorized use of the software by issuing a code sequence that must be entered into the application when prompted or stored in its configuration.
+Many programs attempt to verify or validate licensing keys over the Internet by establishing a session with a licensing application of the software publisher. Advanced keygens bypass this mechanism, and include additional features for key verification, for example by generating the validation data which would otherwise be returned by an activation server. If the software offers phone activation then the keygen could generate the correct activation code to finish activation. Another method that has been used is activation server emulation, this patches the program memory to use the keygen as activation server.
+A multi-keygen is a keygen that offers key generation for multiple software applications. Multi-keygens are sometimes released over singular keygens if a series of products requires the same algorithm for generating product keys. In this case, only a single value encoded within the key has to be changed in order to target a different product.
+Unauthorised keygens that typically violate software licensing terms are written by programmers who engage in reverse engineering and software cracking, often called crackers, to circumvent copy protection of software or digital rights management for multimedia.
+Keygens are available for download on warez sites or through peer-to-peer (P2P) networks.
+Many unauthorised keygens, available through P2P networks or otherwise, contain malicious payloads. These key generators may or may not generate a valid key, but the embedded malware loaded invisibly at the same time may, for example, be a version of CryptoLocker (ransomware).
+Antivirus software may discover malware embedded in keygens; such software often also identifies unauthorised keygens which do not contain a payload as potentially unwanted software, often labelling them with a name such as Win32/Keygen or Win32/Gendows.
+Product activation
+Product key
+Software cracking
+Warez scene
+BSA (The Software Alliance)
+Canadian Alliance Against Software Theft
+Free Software Foundation

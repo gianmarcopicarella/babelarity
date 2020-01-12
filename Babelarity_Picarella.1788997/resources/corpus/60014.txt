@@ -1,0 +1,12 @@
+A tosyl group (abbreviated Ts or Tos) is CH3C6H4SO2. This group is usually derived from the compound tosyl chloride, CH3C6H4SO2Cl (abbreviated TsCl), which forms esters and amides of toluenesulfonic or tosylic acid. The para orientation illustrated (p-toluenesulfonyl) is most common, and by convention tosyl refers to the p-toluenesulfonyl group.
+Tosylate refers to the anion of p-toluenesulfonic acid (CH3C6H4SO3−) and it is abbreviated as TsO−, or it may refer to esters of p-toluenesulfonic acid.
+For SN2 reactions, alkyl alcohols can also be converted to alkyl tosylates, often through addition of tosyl chloride. In this reaction, the lone pair of the alcohol oxygen attacks the sulfur of the tosyl chloride, kicking off the chloride group and forming the tosylate with retention of reactant stereochemistry. This is useful because alcohols are poor leaving groups in SN2 reactions, in contrast to the tosylate group. It is the transformation of alkyl alcohols to alkyl tosylates that allows an SN2 reaction to occur in the presence of a good nucleophile.
+A tosyl group can function as a protecting group in organic synthesis. Alcohols can be converted to tosylate groups so that they do not react. The tosylate group may later be converted back into an alcohol. The use of these functional groups is exemplified in organic synthesis of the drug tolterodine, wherein one of the steps a phenol group is protected as its tosylate and the primary alcohol as its nosylate. The latter is a leaving group for displacement by diisopropylamine:
+The tosyl group is also useful as a protecting group for amines. The resulting sulfonamide structure is extremely stable. It can be deprotected to reveal the amine using reductive or strongly acidic conditions.
+Tosyl (Ts) group is commonly used as a protecting group for amines in organic synthesis.
+Tosyl chloride and pyridine in dichloromethane
+HBr and acetic acid at 70 °C
+Refluxing with TMSCl, sodium iodide and acetonitrile
+Closely related to the tosylates are the nosylates and brosylates. There are p-nitrobenzenesulfonates and p-bromobenzenesulfonates, respectively.
+Tosylic acid
+Sulfonyl group

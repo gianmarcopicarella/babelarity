@@ -1,0 +1,6 @@
+Femto- (symbol f) is a unit prefix in the metric system denoting a factor of 10−15 or 0.000000000000001. Adopted by the 11th General Conference on Weights and Measures, it was added in 1964 to the SI. It is derived from the Danish word femten, meaning "fifteen".
+Examples of use:
+The HIV-1 virus weighs about 1 x 10−18 kg or 1 fg. Orders of magnitude (mass)
+a proton has a diameter of about 1.6 to 1.7 femtometres.
+More examples available.
+The femtometre shares the unit symbol (fm) with the older non-SI unit fermi, to which it is equivalent. The fermi, named in honour of Enrico Fermi, is often encountered in nuclear physics.

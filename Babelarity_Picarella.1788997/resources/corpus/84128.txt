@@ -1,0 +1,14 @@
+Franz Reuleaux [fʁants ʁœlo] (30 September 1829 – 20 August 1905), was a mechanical engineer and a lecturer of the Berlin Royal Technical Academy, later appointed as the President of the Academy. He was often called the father of kinematics. He was a leader in his profession, contributing to many important domains of science and knowledge.
+Franz Reuleaux was born in Eschweiler in Germany (at the time part of Prussia). His father and grandfather were both machine builders. His technical training was at the Karlsruhe Polytechnic School. He then studied at universities in Berlin and Bonn.
+After a time spent in the family business he became a professor at the Swiss Federal Institute in Zurich. Eventually, in 1879 he became Rector at the Königs Technischen Hochschule Berlin – Charlottenburg. This was a major technical institute, with about 300 professors. He became widely known as an engineer-scientist — a professor and industrial consultant, education reformer and leader of the technical elite of Germany.
+Reuleaux was the appointed chairman of the German panel of judges for the Sixth World Industrial Fair opened in Philadelphia on 10 May 1876. He admitted that German-made goods were far inferior to those of other countries and that German industry's guiding principle was “billig und schlecht” (English: cheap and shoddy). This shook business and evoked wide comment in the press.
+Reuleaux served on several international juries and commissions and considerably involved in formation of a patent system, as he was active in German politics.
+He was a member of the Royal Swedish Academy of Sciences from 1882.
+Reuleaux believed that machines could be abstracted into chains of elementary links called kinematic pairs. Constraints on the machine are described by constraints on each kinematic pair, and the sequence of movements of pairs produces a kinematic chain.
+He developed a compact symbolic notation to describe the topology of a very wide variety of mechanisms, and showed how it could be used to classify them and even lead to the invention of new useful mechanisms. At the expense of the German government, he directed the design and manufacture of over 300 beautiful models of simple mechanisms, such as the four-bar linkage and the crank. These were sold to universities for pedagogical purposes. Today, the most complete set are at Cornell University College of Engineering.
+Using his notation and methods for systematically varying the elements (e.g. inversions, changing relative sizes of the links, etc.) he showed how the four-bar linkage could be mutated into 54 mechanisms, which fall within 12 classes.
+Today, he may be best remembered for the Reuleaux triangle, a curve of constant width that he helped develop as a useful mechanical form.
+Kinematics of Machinery (1875), ebook
+The Constructor (1861), ebook
+Kurzgefasste Geschichte der Dampfmaschine (1891)
+Thomassche Rechenmaschine (2d ed. 1892)

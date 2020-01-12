@@ -1,0 +1,6 @@
+The thermopause is the atmospheric boundary of Earth's energy system, located at the top of the thermosphere.
+Below this, the atmosphere is defined to be active on the insolation received, due to the increased presence of heavier gases such as monatomic oxygen. The solar constant is thus expressed at the thermopause. Beyond (above) this, the exosphere describes the thinnest remainder of atmospheric particles with large mean free path, mostly hydrogen and helium. As a limit for the exosphere this boundary is also called exobase.
+The exact altitude varies by the energy inputs of location, time of day, solar flux, season, etc. and can be between 500–1000 km (310-621 mi.) high at a given place and time because of these. A portion of the magnetosphere dips below this layer as well.
+Although these are all named layers of the atmosphere, the pressure is so negligible that the chiefly-used definitions of outer space are actually below this altitude. Orbiting satellites do not experience significant atmospheric heating, but their orbits do decay over time, depending on orbit altitude. Space missions such as the ISS, space shuttle, and Soyuz operate under this layer.
+Jet stream
+Maximum parcel level

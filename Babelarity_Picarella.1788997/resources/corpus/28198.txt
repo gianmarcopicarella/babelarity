@@ -1,0 +1,153 @@
+The Avro Shackleton was a British long-range maritime patrol aircraft used by the Royal Air Force (RAF) and the South African Air Force (SAAF). It was developed by Avro from the Avro Lincoln bomber, itself being a development of the famous wartime Avro Lancaster bomber. It was replaced by Nimrod maritime patrol aircraft in the 1970s. The aircraft was also adapted for airborne early warning (AEW) roles within the RAF, replaced by the Boeing E-3 Sentry in 1990. The type is named after the polar explorer Sir Ernest Shackleton.
+Entering service with the RAF in 1951, the Shackleton was used primarily in the anti-submarine warfare (ASW) and maritime patrol aircraft (MPA) roles; it also became used as a search and rescue (SAR) platform and for performing several other secondary roles such as being a troop-transport. In later life, a small number of the RAF's Shackletons were subsequently adapted for airborne early warning (AEW) duties, performing in this capacity until the type's retirement in 1991. The Shackleton was also procured by South Africa, and was operated by the SAAF between 1957 and 1984.
+The Battle of the Atlantic was a crucial element of the Second World War, in which Britain sought to protect its shipping from the German U-boat threat. The development of increasingly capable diesel-electric submarines had been rapid, in particular the elimination of oxygen restrictions that had previously limited underwater endurance via the use of a snorkel to eliminate the need for surfacing when recharging a vessel's batteries. Aircraft that had once been highly effective submarine-killers had very quickly become incapable in the face of these advances. In addition, lend-leased aircraft such as the Consolidated B-24 Liberator had been returned following the end of hostilities. Several Avro Lancasters had undergone rapid conversion - designated as Maritime Reconnaissance Mk 3 (MR3) - as a stopgap measure for maritime search and rescue and general reconnaissance duties; however, RAF Coastal Command had diminished to only a third of its size immediately prior to the Second World War.
+In the emerging climate of the Cold War and the potential requirement to guard the North Atlantic from an anticipated rapid expansion of the Soviet Navy's submarine force, a new aerial platform to perform the anti-submarine mission was required. Work had begun on the requirement for a new maritime patrol aircraft in 1944, at which point there had been an emphasis for long-range platforms for Far East operations; however, with the early end of the war in the Pacific, the requirement was refined considerably. In late 1945, the Air Staff had expressed interest in a conversion of the Avro Lincoln as general reconnaissance and air/sea rescue aircraft; they formalised their requirements for such an aircraft under Air Ministry specification R.5/46. Avro's Chief Designer Roy Chadwick initially led the effort to build an aircraft to this requirement, designated as the Avro Type 696.
+The Type 696 was a significant development upon the Lincoln. Elements of the Avro Tudor airliner were also reused in the design; Lincoln and Tudor had been derivatives of the successful wartime Avro Lancaster bomber. Crucially, the new aircraft was to be capable of a 3,000 nautical mile range while carrying up to 6,000 lb of weapons and equipment. In addition to featuring a large amount of electronic equipment, the Type 696 had a much improved crew environment over other aircraft types to allow them to be more effective during the lengthy mission times anticipated. During development the Type 696 was provisionally referred to as the Lincoln ASR.3 before the officially allocated name 'Shackleton' was selected.
+The first test flight of the prototype Shackleton GR.1, serial VW135, was made on 9 March 1949 from the manufacturer's airfield at Woodford, Cheshire in the hands of Avro's Chief Test Pilot J.H. "Jimmy" Orrell. The GR.1 was later redesignated "Maritime Reconnaissance Mark I" (MR 1). The prototype differed from subsequent production Shackletons in a number of areas; it featured a number of turrets and was equipped for air-to-air refuelling using the looped-line method. These did not feature on production aircraft due to judgments of ineffectiveness or performance difficulties incurred. However, the performance of the prototype had been such that, in addition to the go-ahead for the MR1's production, a specification for improved variant was issued in December 1949, before the first production Shackleton had even flown. By 1951, the MR1 had become officially considered as an interim type due to several shortcomings.
+The MR 2 was an improved version of the Shackleton, featuring numerous refinements that had been proposed for the MR1. The radar was upgraded to ASV Mk 13, and the radome relocated from the aircraft's nose to a ventral position aft of the bomb bay, the radome was retractable and could be fully extended only with the bomb bay doors open. It had improved allround radar coverage and minimised the risk of bird strikes. Both the nose and tail section were lengthened, the tailplane was redesigned, the undercarriage was strengthened and twin-retractable tailwheels were fitted. The Bristol dorsal turret was initially retained, but was later removed from all aircraft after delivery. The prototype, VW 126, was modified as an aerodynamic prototype at the end of 1950 and first flew with the MR 2 modification on 19 July 1951.
+VW 126 was tested at Boscombe Down in August 1951, particular attention being paid to changes made to improve its ground handling, such as the addition of toebrakes and a lockable rudder system. One production Mk 1 aircraft was modified on the line at Woodford with the Mk 2 changes and first flew on 17 June 1952. After trials were successful, it was decided to complete the last ten aircraft being built under the Mk 1 contract to MR 2 standard and further orders were placed for new aircraft. In order to keep pace with changing submarine threats, the Mk 2 force was progressively upgraded, with Phase I, II and III modifications introducing improved radar, weapons and other systems, as well as structural work to increase fatigue life. Production of the MR 2 ended in May 1954.
+The Type 716 Shackleton MR 3 was another redesign in response to crew feedback and observations. A new tricycle undercarriage was introduced, the fuselage was increased in all main dimensions and had new wings with better ailerons and tip tanks. The weapons capability was also upgraded to include homing torpedoes and Mk 101 Lulu nuclear depth bombs. To facilitate crews on 15-hour flights, the sound deadening was improved and a proper galley and sleeping space were included. Due to these upgrades, the takeoff weight of the RAF's MR 3s had risen by over 30,000 lb (13,600 kg) (Ph. III) and assistance from Armstrong Siddeley Viper Mk 203 turbojets was needed on takeoff (JATO). This extra strain took a toll on the airframe and flight life of the RAF MR 3s was so reduced that they were outlived by the MR 2s. Due to the arms embargo against South Africa, the SAAF's MR 3s never received these upgrades but were maintained independently by the SAAF.
+The Type 719 Shackleton IV, later known as the MR 4, was a projected variant intended to meet a Canadian requirement for a long-range patrol aircraft. The MR 4 would have been practically a new aircraft, sharing only the nose, cockpit, and outer wings with earlier variants; it would have also been powered by the Napier Nomad compound engine. The Shackleton IV was cancelled in 1955 and the Canadian requirement subsequently met by the Britannia Maritime Reconnaissance later to emerge as the Canadair Argus.
+In 1967, ten MR 2s were modified as training aircraft to replace the T 4 in-service with the Maritime Operational Training Unit; known as T 2s, the crew rest areas were replaced by additional radar equipment and the original radar fittings removed.
+The Shackleton was a purpose-built aircraft for the maritime patrol role; however, the legacy of Avro's preceding aircraft is present in many aspects of the overall design. The centre section of the Shackleton's wing originates from the Lincoln, while the outer wing and undercarriage were sourced from the Tudor outer wings; at one stage during development, the tailplane had closely resembled the Lincoln's, but was enlarged and changed soon after. An entirely new fuselage was adopted, being wider and deeper to provide a large space in which to accommodate the crew, their equipment, and a large bomb bay. Later variants of the Shackleton were substantially redesigned, adopting a new nosewheel undercarriage, redesigned wings and centre-section, and a larger fuel capacity for more range.
+Various armaments and equipment were carried by the Shackleton in order to perform its missions. In ASW operations, the ASV Mk 13 radar was the primary detection tool; it could detect a destroyer at a range of 40 nautical miles, a surfaced submarine at 20 nautical miles, and a submarine's conning tower at eight nautical miles, although rough seas considerably reduced the radar's effectiveness. Other equipment included droppable sonobuoys, electronic warfare support measures, an Autolycus diesel fume detection system and a magnetic anomaly detector (MAD) system. A special camera bay housed several reconnaissance cameras capable of medium altitude and nighttime vertical photography, and low-altitude oblique photography. The crew would also perform visual searches using various lookout positions that were provided for this purpose. Weapons carried included up to nine bombs, three homing torpedoes or depth-charges; the aircraft also had two 20 mm cannon in a Bristol dorsal turret. An in-flight refueling receptacle could be accommodated, but was not fitted on production aircraft.
+The Merlin engines were replaced with the larger, more powerful and slower-revving Rolls-Royce Griffons with 13 ft (4 m)-diameter contra-rotating propellers. This engine's distinctive noise often caused pilots to develop high-tone deafness. Use of the Griffon was necessitated by the Shackleton weighing more than the preceding Lincoln, and suffering from greater drag. The Griffon provided equivalent power to the Merlins but at lower engine speed, which led to greater fuel efficiency in the dense air encountered at low altitude; the Shackleton would often loiter for several hours at roughly 500 ft (150 m) or lower when hunting submarines. This use of the Griffons over the Merlins also made for less engine stress and hence greater reliability. Using conventional propellers would have needed an increase in propeller diameter to absorb the engine's power and torque, this not being possible due to space limitations imposed by the undercarriage length and engine nacelle positioning; the contra-rotating propellers gave greater blade area within the same propeller diameter.
+Numerous problems were encountered during the Shackleton's operational service. In practice, the diesel fume detection system was prone to false alarms and thus received little operational use. The engines, hydraulics, and elements of the avionics were known for their unreliability, and the aircraft proved to be fairly maintenance-intensive. The prototype MR 3 was lost due to poor stalling characteristics; this was rectified prior to production, although a satisfactory stall-warning device was not installed until 1969. The Shackleton is often incorrectly attributed the unfortunate distinction of holding the record for the highest number of aircrew killed in one type in peacetime in the RAF. The true figures suggest rather differently in that some of its contemporaries fared far worse, such as the Gloster Meteor with over 430 fatal losses of aircrew against the Shackleton's 156. Several programs to support and extend the fatigue life limits of the Shackleton's airframe were required; the fatigue life problems ultimately necessitated the rapid introduction of a whole new maritime patrol aircraft in the form of the Hawker Siddeley Nimrod, which began being introduced to RAF service in 1969.
+On 30 March 1951, the first Shackleton was delivered to No. 120 Squadron RAF; by the end of 1952 seven squadrons were operating the type. The first operational deployment of the Shackleton occurred in 1955 as a troop-transport for British Army movements to Cyprus; less than a year later, the type's first combat deployment took place during the Suez Crisis, codenamed Operation Musketeer.
+During the 1960s, the typical Shackleton crew comprised two pilots, two navigators, a flight engineer, an air electronics officer, and four air electronics operators. During this period, equipment upgrades had become routine in order to keep pace with ever more capable submarines; problems with airframe fatigue were identified, leading to several programs being carried out to strengthen the aircraft and thus extend its viable service life. In 1966, nuclear depth charges were introduced to the Shackleton's arsenal with the aim of countering the Soviets' development of deep-diving submarines.
+Maritime reconnaissance was a large element of the Shackleton's service. This mission was often performed to identify and monitor naval and merchant shipping and to demonstrate sovereignty. During the Indonesia–Malaysia confrontation in the 1960s, Shackletons monitored the seas for vessels involved in arms smuggling. Similar operations were conducted in Cyprus, and Shackletons operating from bases in Madagascar cooperated with Royal Navy vessels to enforce a United Nation-mandated oil blockade of Rhodesia.
+The Shackleton would often be used to perform search and rescue missions, at all times one crew being kept on standby somewhere across the UK for this role. The Shackleton had also replaced the Avro Lincoln in the colonial policing mission, aircraft often being stationed in the Aden Protectorate and Oman to carry out various support missions, including convoy escorting, supply dropping, photo reconnaissance, communication relaying, and ground-attack missions; the Shackleton was also employed in several short-term bombing operations. Other roles included weather reconnaissance and transport duties, in the latter role each Shackleton could carry freight panniers in the bomb bay or up to 16 fully equipped soldiers.
+In 1969, a jet-powered replacement patrol aircraft, the Hawker Siddeley Nimrod, began to enter RAF service, which was to spell the end for the Shackleton in most roles. While radically differing in external appearance, the Shackleton and the initial version of the Nimrod shared many sensor systems and onboard equipment.
+The intention to retire the Shackleton was thwarted by the need to provide AEW coverage in the North Sea and northern Atlantic following the withdrawal of the Fleet Air Arm's Fairey Gannet aircraft used in the AEW role in the 1970s. As an interim replacement, the existing AN/APS-20 radar was installed in modified Shackleton MR 2s, redesignated the AEW 2, as an interim measure from 1972. These were operated by No. 8 Sqn, based at RAF Lossiemouth. All 12 AEW aircraft were given names from The Magic Roundabout and The Herbs TV series. The intended replacement, the British Aerospace Nimrod AEW3, suffered considerable development difficulties which culminated in the Nimrod AEW 3 being cancelled in favor of an off-the-shelf purchasing of the Boeing E-3 Sentry, which allowed the last Shackletons to be retired in 1991.
+During the Second World War, the importance of securing the sea routes around the Cape of Good Hope had been made apparent, with over a hundred vessels being sunk in South African waters by enemy vessels between 1942 and 1945. In the postwar situation, the South African Air Force sought a large and capable platform to perform the maritime patrol role. After evaluating four RAF MR 2s in 1953, an order was placed for eight Shackletons as a replacement for the SAAF's aging Short Sunderland maritime patrol aircraft. Modifications were required to fulfill South African conditions and requirements, such as the ability to operate over the Indian Ocean, the resulting aircraft was designated the Shackleton MR 3.
+On 18 August 1957, the first two Shackletons were delivered to D.F. Malan Airport, Cape Town. Two more followed on 13 October 1957 and the remainder arrived in February 1958. Delivered to the same basic standard as the RAF's MR 3s, they were assigned single letter codes between "J" and "Q" and operated by 35 Squadron SAAF. The type typically patrolled the sea lanes around the Cape of Good Hope, often monitoring Soviet vessels traversing between the Indian and Atlantic oceans. The Shackleton was briefly used in low-level overland patrols along the Southern Rhodesian border, but these duties ended following concerns of the disturbance of wildlife.
+Often, the Shackleton would be called in to perform search and rescue operations in the treacherous waters around the Cape. In March 1971, Shackletons successfully intervened in the SS Wafra oil spill, deliberately sinking the stricken oil tanker with depth charges in order to prevent an ecological disaster. The only operational loss incurred was 1718 K, which crashed into the Wemmershoek mountains at night time on 8 August 1963 with the loss of all 13 crew.
+Due to an embargo imposed by the United Nations over South Africa's policy of apartheid, acquiring components for the Shackleton fleet became increasingly difficult and thus the aircraft's serviceability suffered. The fleet had been modified to Phase III standards prior to the implementation of the arms embargo, albeit without the auxiliary Viper engine. Two of the aircraft were re-sparred, 1716 J in the United Kingdom and 1717 O in South Africa by the SAAF, but the lack of engine spares and tyres, together with airframe fatigue, took a gradual toll. By November 1984, the fatigue lives of all but the two re-sparred aircraft had expired and the fleet was retired into storage. Although the joke has been applied to several aircraft, the Shackleton was often described as "a hundred thousand rivets flying in close formation." 
+Three prototype Type 696s were ordered in May 1947 to meet specification R 5/46:
+VW126
+The first prototype which initially flew on 9 March 1949.
+VW131
+First flown on 2 September 1949.
+VW135
+First flown on 29 March 1950.
+Shackleton MR.Mk.1
+The first production model for the RAF with dorsal turret with two 20 mm cannon, 29-built. First production aircraft flew on 28 March 1950 and the variant entered service with 120 Squadron at RAF Kinloss in March 1951.
+Shackleton MR.Mk.1A
+Variant powered by four Griffon 57A V12 piston engines, in service from April 1951, 47-built and all surviving MR.1s converted.
+Shackleton T.4
+Navigation trainer conversion from MR 1As between 1956 and 1961, removal of mid-upper turret, addition of radar and radio positions for trainees, 17 conversions.
+Shackleton MR.Mk.2
+Version with longer nose and radome moved to the ventral position. Lookout position in tail. Dorsal turret and two more 20 mm cannons in nose. Twin retractable tailwheels. One aircraft, WB833, originally ordered as a MR 1 was built as a MR 2 prototype and first flew on 17 June 1952 . The last ten MR.1s on the production line were completed as MR.2s and orders for 80 new-build aircraft were placed; the last 21 were completed as MR.3s and the total number of MR.2s built was 69. The first aircraft entered service with 42 Squadron at RAF St Eval in January 1953.
+The aircraft were later modified, in parallel with phased modifications to the Mk.3:Shackleton MR.Mk.2 Phase 1 or MR.Mk.2C
+As per Mk.3 Phase 1. Also received the sonics plotting table from the Mk.3
+Shackleton MR.Mk.2 Phase 2
+As per Mk.3 Phase 2.
+Shackleton MR.Mk.2 Phase 3
+As per Mk.3 Phase 3, except that the Viper engines were not fitted.
+Shackleton T.2
+Ten MR 2 Phase 3 aircraft were modified in 1967 as T.2s at Langar to replace the T.4s with the Maritime Operational Training Units as radar trainers, with master and slave radar positions for training installed.
+Shackleton AEW.2
+In 1971 Twelve MR 2s were converted at Woodford and Bitteswell as Airborne Early Warning aircraft, the first AEW.2 flew on 30 September 1971 and the type entered service with 8 Squadron on 1 January 1972.
+Shackleton MR.Mk.3
+Maritime reconnaissance, anti-shipping aircraft. The tailwheel configuration was replaced by a tricycle undercarriage, addition of a nose entrance hatch, wingtip tanks to increase fuel capacity. To increase crew comfort the inside was sound proofed, better crew seats and rearranged tactical team positions. To make room for some of the internal rearrangement the dorsal turret was not fitted. The first MR.3 flew on 2 September 1955, the aircraft had problems with stalling characteristics and crashed on 7 December 1956. The variant entered service with 220 Squadron at RAF St Eval in August 1957. The RAF ordered 52 aircraft but later following the 156 Defence Review it was reduced to 33 aircraft. An additional aircraft was also built to replace the aircraft lost during stalling trials. An additional eight aircraft were exported to South Africa.
+The aircraft underwent several phased modifications:
+Shackleton MR.Mk.3 Phase 1
+The Phase 1 update introduced changes mainly to the internal equipment.
+Shackleton MR.Mk.3 Phase 2
+The Phase 2 update introduced ECM equipment, the distinctive Orange Harvest 'spark plug' and an improved High Frequency radio.
+Shackleton MR.Mk.3 Phase 3
+The third of three MR 3 modification phases including the addition of two Armstrong Siddeley Viper turbojet engines at the rear of the outboard engine nacelles to be used for assisted takeoff. The wing main spars had to be strengthened due to the additional engines. A new navigation system was also fitted and there were some modification to the internal arrangement, including a shorter crew rest area to give more room for the tactical positions.
+Avro 717 and 719 Shackleton MR.Mk.4
+Project for a re-engined MR.Mk.1 using Napier Nomad engines. Two Nomads were installed in the outer nacelles of a Shackleton prototype to create the only Avro 717 example, but the program was cancelled before the aircraft could be flown. The Avro 719 would have replaced all four Griffons with Nomads.
+Shackleton MR.Mk.5
+MR.Mk.5 was a suggested designation for a Nomad-powered variant of the Mk.2.
+ South Africa
+South African Air Force
+35 Squadron SAAF received eight aircraft.
+ United Kingdom
+Royal Aircraft Establishment - Purchased a MR.3 in 1959.
+Royal Air Force
+No. 8 Squadron RAF - Formed in 1972 to operate the AEW.2 at RAF Kinloss, moved to RAF Lossiemouth in 1973.
+No. 37 Squadron RAF - 1953-67, converted to the MR2 from the Lancaster GR3 at RAF Luqa, moved to RAF Khormaksar in 1957, disbanded in 1967.
+No. 38 Squadron RAF - 1953-67, converted to the MR2 from the Lancaster GR3 at RAF Luqa, moved to RAF Hal Far in 1965, disbanded in 1967.
+No. 42 Squadron RAF - 1952-71, formed at RAF St Eval with the MR1A (1952–54) and the MR2 (from 1953), moved to RAF St Mawgan in 1958, converted to the MR3 in 1965-66, converted to the Nimrod MR1 in 1971.
+No. 120 Squadron RAF - 1951-71, converted to the MR1 from the Lancaster GR3 in 1951 at RAF Kinloss, moved to RAF Aldergrove in 1952, converted to the MR2 in 1953 and the MR3 in 1958, moved to RAF Kinloss in 1959, converted to the Nimrod MR1 in 1970.
+No. 201 Squadron RAF - 1958-70, re-numbered from 220 Squadron in 1958 operating the MR3 at RAF St Mawgan, moved to RAF Kinloss in 1965, converted to Nimrod MR1 in 1970.
+No. 203 Squadron RAF- 1958-71, re-numbered from 240 Squadron at RAF Ballykelly in 1958 with the MR1A and MR3, converted to the MR2 in 1962 and back to the MR3 in 1966, moved to RAF Luqa in 1969, converted to Nimrod MR1 in 1971.
+No. 204 Squadron RAF - 1954-71, formed at RAF Ballykelly with the MR2, also operated the MR1A (1958–60), and the MR2C (1959-71), disbanded in April 1971 and reformed at RAF Honington on the same day from the Majunga Detachment Support Unit with the MR2C, detachments to Majunga, Tengah and Masirah, disbanded in 1972.
+No. 205 Squadron RAF - 1958-71, converted to the MR1 from the Sunderland GR5 at RAF Changi, converted to the MR2C in 1962, disbanded in 1971.
+No. 206 Squadron RAF - 1952-70, formed at RAF St Eval with the MR1A, also operated the MR2 from 1953 to 1954, moved to RAF St Mawgan in 1958 and converted to the MR3, moved to RAF Kinloss in 1965, converted to the Nimrod MR1 in 1970.
+No. 210 Squadron RAF - 1958-71, re-numbered from 269 Squadron with the MR2 at RAF Ballykelly, disbanded in 1970, reformed the next day at RAF Sharjah, disbanded in November 1971.
+No. 220 Squadron RAF - 1951-1958, formed at RAF Kinloss with the MR1A, moved to RAF St Eval in 1951, also operated the MR2 (1953–54), moved to RAF St Mawgan in 1956, operated the MR2 (1957) and the MR3 (1957–58), renumbered 201 Squadron in October 1958.
+No. 224 Squadron RAF - 1951-66, converted to the MR1 from the Halifax GR6 at RAF Gibraltar, converted to the MR2 in 1953, disbanded in 1966.
+No. 228 Squadron RAF - 1954-59, formed with the MR2 from elements of 206 Squadron at RAF St Eval, moved to RAF St Mawgan in 1956, moved back to RAF St Eval in 1958, disbanded in 1959.
+No. 240 Squadron RAF - 1952-1958, formed with the MR1 from elements of 120 Squadron at RAF Aldergrove, moved to RAF St Eval in 1952 for a few months before moving to RAF Ballykelly, operated the MR2 from 1953 to 1954, renumbered 203 Squadron in 1958.
+No. 269 Squadron RAF - 1952-58, formed with the MR1 from elements of 224 Squadron at RAF Gibraltar, moved to RAF Ballykelly in 1952, also operated the MR2 (1953–54), also operated the MR2 in 1958 as they were renumbered 210 Squadron.
+No. 236 Operational Conversion Unit, RAF - 1951-56, received the first MR.1s in 1951 at RAF Kinloss, redesignated the Maritime Operational Training Unit in 1956.
+Maritime Operational Training Unit, RAF - Redesignated from 236 OCU in 1956 with 15 MR.1As, the MR.1As were slowly replaced by T.4s, moved to RAF St Mawgan in 1965, the last T.4 was replaced by a T.2 in 1968.
+Air Sea Warfare Development Unit, RAF - 1951-60 at RAF Ballykelly.
+Joint Anti-submarine School - Operated the MR.2 between 1954 and 1957 at RAF Ballykelly.
+SAAF 1722 P, commonly known as 'Pelican 22', is the only remaining airworthy Shackleton MR3. The aircraft is owned and operated by the South African Air Force Museum based at AFB Ysterplaat. It was one of eight Shackletons operated by the South African Air Force from 1957 to 1984. Airworthy but has been grounded for safety and preservation reasons as well as a lack of qualified crew.
+MR.2 WR963 (G-SKTN). In the care of the Shackleton Preservation Trust, under long-term restoration to flight. Aircraft is capable of taxying, and did so infrequently up to 2016, when it started taxiing much more frequently, with paying passengers onboard. Based at Coventry Airport, England.
+South Africa
+SAAF 1721 on display at the South African Air Force Museum in Swartkop.
+SAAF 1723 on display at Vic's Viking Garage, next to the Golden Highway in Meredale, Johannesburg.
+United Kingdom
+MR 1 VP293 (nose section only) at Coventry Airport, England.
+MR 1 WG511 (cockpit section only) at Flambards Theme Park.
+MR 2C WL795 on display at RAF St. Mawgan, England.
+AEW 2 WR960 on display at the Museum of Science and Industry in Manchester, England.
+MR 3 WR971 (nose section only) at West Walton.
+MR 3 WR974 at Bruntingthorpe Aerodrome, Leicestershire
+MR 3 WR977 on display at the Newark Air Museum, England.
+MR.3 WR982 on display at the Gatwick Aviation Museum, England. Engines can be run on this airframe.
+MR 3 WR985 privately owned at Long Marston, England.
+MR 3 XF708 on display at the Imperial War Museum, Duxford, England.
+United States
+AEW 2 WL790 on display at the Pima Air & Space Museum, Tucson, Arizona, USA.
+SAAF 1716 ('Pelican 16') was restored to flight in 1994, but later that year, while on its way to the UK, it crash landed in the Sahara desert (22°37′50″N 13°14′15″W) after a double engine failure. The crash did not result in any casualties, but the aircraft was abandoned in the desert.
+SAAF 1717 used to be on display at the Transport museum in Stanger. Was broken down in 2009.
+SAAF 1720 (painted as 1717) used to be on static display at AFB Ysterplaat, it was dismantled as scrap due to corrosion in March 2013.
+AEW 2 WL747 standing abandoned at the western end of runway 11/29 at Paphos Airport, Cyprus.
+AEW 2 WL757 standing abandoned at the western end of runway 11/29 at Paphos International Airport, Cyprus.
+T 2 WR967 (fuselage only) abandoned at Paphos Airport, Nicosia, Cyprus.
+MR 3 XF700 (airframe only) abandoned at Nicosia, Cyprus.
+MR 2 WL756 (nose section only) preserved until May 2014 at Caernarfon Air World Museum, UK. Current whereabouts unknown.
+Data from Flight International, Jones
+General characteristics
+Crew: ten
+Length: 87 ft 4 in (26.61 m)
+Wingspan: 120 ft (36.58 m)
+Height: 17 ft 6 in (5.33 m)
+Wing area: 1,421 ft² (132 m²)
+Airfoil: modified NACA 23018 at root, NACA 23012 at wingtip
+Empty weight: 51,400 lb (23,300 kg)
+Max. takeoff weight: 86,000 lb (39,000 kg
+Fuel capacity: 4,258 imperial gallons (19,360 L)
+Powerplant: four × Rolls-Royce Griffon 57 liquid-cooled V12 engine, 1,960 hp (1,460 kW) each
+Propellers: contra-rotating propeller, two per engine
+Propeller diameter: 13 ft (4 m)
+Performance
+Maximum speed: 260 kn (300 mph, 480 km/h)
+Range: 1,950 nmi (2,250 mi, 3,620 km)
+Endurance: 14.6 hours
+Service ceiling: 20,200 ft (6,200 m)
+Max. wing loading: 61 lb/ft² (300 kg/m²)
+Minimum power/mass: 91 hp/lb (150 W/kg))
+Armament
+Guns: 2 × 20 mm Hispano Mark V cannon in the nose
+Bombs: 10,000 lb (4,536 kg) of bombs, torpedoes, mines, or conventional or nuclear depth charges, such as the Mk 101 Lulu
+Related development
+Avro Lancaster
+Avro Lincoln
+Aircraft of comparable role, configuration and era
+Breguet Atlantic
+Canadair CL-28
+Lockheed P-2 Neptune
+Lockheed P-3 Orion
+Tupolev Tu-95
+Hawker Siddeley Nimrod
+Related lists
+List of aircraft of the RAF
+List of aircraft of the South African Air Force
+List of accidents and incidents involving the Avro Shackleton

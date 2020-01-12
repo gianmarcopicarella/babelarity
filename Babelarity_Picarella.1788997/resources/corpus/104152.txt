@@ -1,0 +1,50 @@
+European route E 90 is an A-Class West-East European route, extending from Lisbon in Portugal in the west to the Turkish-Iraqi border in the east.
+The E 90 routes through five European countries, and includes four sea-crossings: Barcelona, Spain - Mazara del Vallo, Italy; Messina, Italy to Reggio di Calabria, Italy; Brindisi, Italy to Igoumenitsa, Greece, and Eceabat, Turkey to Canakkale, Turkey.
+ Portugal
+ Lisbon - Setúbal (Start of Concurrency with ) - Landeira (End of Concurrency with )
+ Landeira () - Évora (Start of Concurrency with ) - Estremoz (End of Concurrency with ) - Elvas
+ Spain
+ Badajoz - Mérida () - Madrid
+ Madrid ()
+ Zaragoza ()
+ Zaragoza - Lleida - El Vendrell ()
+ El Vendrell (Start of Concurrency with ) - Rubí (End of Cncurrency with )
+ Rubí () - Barcelona
+ Barcelona
+ Barcelona
+ Barcelona
+Gap
+ Spain Barcelona -  Italy Mazara del Vallo
+ Italy
+ Mazara del Vallo () - Alcamo () - Palermo (Towards )
+ Palermo (Towards ) - Campofelice di Roccella
+ Campofelice di Roccella - Messina ()
+Gap
+ Messina - Villa San Giovanni
+ Villa San Giovanni () - Reggio Calabria
+ Reggio Calabria
+ Reggio Calabria - Catanzaro () - Crotone () - Sibari () - Metaponto () - Taranto ()
+ Taranto () - Brindisi ()
+ Brindisi ()
+Gap
+  Italy Brindisi -  Greece Igoumenitsa
+ Greece
+ Igoumenitsa () - Ioannina (, Towards ) - Kalabaka () - Kozani () - Thessaloniki () - Komotini () - Kipoi
+ Turkey
+  İpsala - Keşan ()
+  Keşan (, Start of Concurrency with ) - Gelibolu (End of Concurrency with )
+: Gelibolu - Lapseki
+  Lapseki - Karacabey (Start of Concurrency with ) - Bursa
+  Bursa (End of Concurrency with )
+  Bursa - Eskişehir - Sivrihisar () - Ankara ()
+  Ankara ()
+  Ankara () - Aksaray - Ulukışla
+  Ulukışla
+  Ulukışla - Tarsus ()
+  Tarsus () - Adana
+  Adana
+  Adana - Toprakkale () - Gaziantep - Şanlıurfa ()
+  Şanlıurfa - Nusaybin ( Qamishli) - Cizre
+  Cizre - Silopi
+ Iraq
+  Zakho

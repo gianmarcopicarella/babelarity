@@ -1,0 +1,25 @@
+Protein isoforms, or "protein variants" is an ambiguous term describing either several different forms of protein coded from the same gene, or proteins with amino acid sequence and functional similarities, even when they are products of different genes. Through RNA splicing mechanisms, mRNA has the ability to select different protein-coding segments (exons), or even different parts of exons from RNA to form different mRNA sequences. Each unique sequence produces a specific form of a protein. Among all RNA splicing mechanisms, alternative splicing is the most predominant one which is responsible for most of protein isoforms.
+The discovery of isoforms could explain the small number of protein coding regions genes revealed by the human genome project: different proteins encoded by the same gene could increase the diversity of the proteome. Isoforms at the DNA level are readily characterized by cDNA transcript studies. Many human genes possess confirmed alternative splicing isoforms. It has been estimated that ~100,000 ESTs can be identified in humans. Isoforms at the protein level can manifest in deletion of whole domains or shorter loops, usually located on the surface of the protein.
+One single gene has the ability to produce multiple proteins. All these proteins are different both in structure and composition and this process is regulated by alternative splicing of mRNA and have a large impact in proteome diversity. The specificity of produced proteins is derived by protein structure/function, development stage and even the cell type. It becomes more complicated when a protein has multiple subunits and each subunit has multiple isoforms.
+For example, the 5' AMP-activated protein kinase (AMPK), an enzyme, which performs different roles in human cells, has 3 subunits:
+α, catalytic domain, has two isoforms: α1 and α2 which are encoded from PRKAA1 and PRKAA2
+β, regulatory domain, has two isoforms: β1 and β2 which are encoded from PRKAB1 and PRKAB2
+γ, regulatory domain, has three isoforms: γ1, γ2, and γ3 which are encoded from PRKAG1, PRKAG2, and PRKAG3
+In human skeletal muscle, the preferred form is α2β2γ1. But in the human liver, the most abundant form is α1β2γ1.
+Main Article: Alternative Splicing
+Alternative Splicing is a post-transcriptional modification process which is the major molecular mechanism that contributes to the protein diversity.
+It was found that the spliceosome, a large ribonucleoprotein, is the place where the RNA cleavage and ligation proceeds for the removal of non protein coding segments or introns. It requires five subunits, U1,U2, U4/U6 and U5, to form an active spliceosome.
+There are three main components of a common alternative splicing mechanism:
+cis-acting regulatory sequences
+RNA-binding protein splicing factors
+RNA-RNA base pairing
+In short, during the transcription process, mRNA may include (enhance) or exclude (silent) one or multiple exons of a gene.
+Main Article: Glycoproteins
+A glycoform is an isoform of a protein that differs only with respect to the number or type of attached glycan. Glycoproteins often consist of a number of different glycoforms, with alterations in the attached saccharide or oligosaccharide. These modifications may result from differences in biosynthesis during the process of glycosylation, or due to the action of glycosidases or glycosyltransferases. Glycoforms may be detected through detailed chemical analysis of separated glycoforms, but more conveniently detected through differential reaction with lectins, as in lectin affinity chromatography and lectin affinity electrophoresis. Typical examples of glycoproteins consisting of glycoforms are the blood proteins as orosomucoid, antitrypsin, and haptoglobin. An unusual glycoform variation is seen in neuronal cell adhesion molecule, NCAM involving polysialic acids, PSA.***
+Since every protein has at least two isoforms, the proteins listed below just provide some examples.
+G-actin: despite its conserved nature, it has a varying number of isoforms (at least six in mammals).
+Creatine kinase, the presence of which in the blood can be used as an aid in the diagnosis of myocardial infarction, exists in 3 isoforms.
+Hyaluronan synthase, the enzyme responsible for the production of hyaluronan, has three isoforms in mammalian cells.
+UDP-glucuronosyltransferase, an enzyme superfamily responsible for the detoxification pathway of many drugs, environmental pollutants, and toxic endogenous compounds has 16 known isoforms encoded in the human genome.
+G6PDA: normal ratio of active isoforms in cells of any tissue is 1:1 shared with G6PDG. This is precisely the normal isoform ratio in hyperplasia. Only one of these isoforms is found during neoplasia.
+Gene isoform

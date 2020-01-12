@@ -1,0 +1,12 @@
+International maritime signal flags refers to various flags used to communicate with ships. The principal system of flags and associated codes is the International Code of Signals. Various navies have flag systems with additional flags and codes, and other flags are used in special uses, or have historical significance.
+There are various methods by which the flags can be used as signals:
+Each flag spells an alphabetic message, letter by letter.
+Individual flags have specific and standard meanings; for example, diving support vessels raise the "A" flag indicating their inability to move from their current location because they have a diver underwater and to warn other vessels to keep clear to avoid endangering the diver(s) with their propellers.
+One or more flags form a code word whose meaning can be looked up in a code book held by both parties. An example is the Popham numeric code used at the Battle of Trafalgar.
+In yacht racing and dinghy racing, flags have other meanings; for example, the P flag is used as the "preparatory" flag to indicate an imminent start, and the S flag means "shortened course" (for more details see Race signals).
+NATO uses the same flags, with a few unique to warships, alone or in short sets to communicate various unclassified messages. The NATO usage generally differs from the international meanings, and therefore warships will fly the Code/answer flag above the signal to indicate it should be read using the international meaning.
+During the Allied occupations of Axis countries after World War II, use and display of those nations' national flags was banned. In order to comply with the international legal requirement that a ship identify its registry by displaying the appropriate national ensign, swallow-tailed versions of the C, D, and E signal flags were designated as, respectively, provisional German, Okinawan, and Japanese civil ensigns. Being swallowtails, they are commonly referred to as the "C-pennant" (C-Doppelstander), "D-pennant", and "E-pennant".
+Notes
+Substitute or repeater flags allow messages with duplicate characters to be signaled without the need for multiple sets of flags.
+The four NATO substitute flags are as follows:
+The International Code of Signals includes only the first three of these substitute flags. To illustrate their use, here are some messages and the way they would be encoded:

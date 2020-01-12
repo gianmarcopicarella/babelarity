@@ -1,0 +1,167 @@
+There are several well-known theorems in functional analysis known as the Riesz representation theorem. They are named in honour of Frigyes Riesz.
+This article will describe his theorem concerning the dual of a Hilbert space, which is sometimes called the Fréchet-Riesz theorem. For the theorems relating linear functionals to measures, see Riesz–Markov–Kakutani representation theorem.
+This theorem establishes an important connection between a Hilbert space and its (continuous) dual space. If the underlying field is the real numbers, the two are isometrically isomorphic; if the underlying field is the complex numbers, the two are isometrically anti-isomorphic. The (anti-) isomorphism is a particular, natural one as will be described next.
+Let H be a Hilbert space, and let H* denote its dual space, consisting of all continuous linear functionals from H into the field R or C. If x is an element of H, then the function φx, for all y in H defined by
+          φ
+            x
+        (
+        y
+        )
+        =
+          ⟨
+          y
+          ,
+          x
+          ⟩
+        ,
+    {\displaystyle \varphi _{x}(y)=\left\langle y,x\right\rangle ,}
+where 
+        ⟨
+        ⋅
+        ,
+        ⋅
+        ⟩
+    {\displaystyle \langle \cdot ,\cdot \rangle }
+   denotes the inner product of the Hilbert space, is an element of H*. The Riesz representation theorem states that every element of H* can be written uniquely in this form.
+Theorem. The mapping 
+        Φ
+    {\displaystyle \Phi }
+  : H → H* defined by 
+        Φ
+        (
+        x
+        )
+    {\displaystyle \Phi (x)}
+   = 
+          φ
+            x
+    {\displaystyle \varphi _{x}}
+   is an isometric (anti-) isomorphism, meaning that:
+        Φ
+    {\displaystyle \Phi }
+   is bijective.
+The norms of 
+        x
+    {\displaystyle x}
+   and 
+          φ
+            x
+    {\displaystyle \varphi _{x}}
+   agree: 
+        ∥
+        x
+        ∥
+        =
+        ∥
+        Φ
+        (
+        x
+        )
+        ∥
+    {\displaystyle \Vert x\Vert =\Vert \Phi (x)\Vert }
+  .
+        Φ
+    {\displaystyle \Phi }
+   is additive: 
+        Φ
+        (
+          x
+            1
+        +
+          x
+            2
+        )
+        =
+        Φ
+        (
+          x
+            1
+        )
+        +
+        Φ
+        (
+          x
+            2
+        )
+    {\displaystyle \Phi (x_{1}+x_{2})=\Phi (x_{1})+\Phi (x_{2})}
+  .
+If the base field is R, then 
+        Φ
+        (
+        λ
+        x
+        )
+        =
+        λ
+        Φ
+        (
+        x
+        )
+    {\displaystyle \Phi (\lambda x)=\lambda \Phi (x)}
+   for all real numbers λ.
+If the base field is C, then 
+        Φ
+        (
+        λ
+        x
+        )
+        =
+              λ
+              ¯
+        Φ
+        (
+        x
+        )
+    {\displaystyle \Phi (\lambda x)={\bar {\lambda }}\Phi (x)}
+   for all complex numbers λ, where 
+              λ
+              ¯
+    {\displaystyle {\bar {\lambda }}}
+   denotes the complex conjugation of λ.
+The inverse map of 
+        Φ
+    {\displaystyle \Phi }
+   can be described as follows. Given a non-zero element 
+        φ
+    {\displaystyle \varphi }
+   of H*, the orthogonal complement of the kernel of 
+        φ
+    {\displaystyle \varphi }
+   is a one-dimensional subspace of H. Take a non-zero element z in that subspace, and set 
+        x
+        =
+              φ
+              (
+              z
+              )
+            ¯
+        ⋅
+        z
+          /
+              ∥
+              z
+              ∥
+            2
+    {\displaystyle x={\overline {\varphi (z)}}\cdot z/{\left\Vert z\right\Vert }^{2}}
+  . Then 
+        Φ
+        (
+        x
+        )
+    {\displaystyle \Phi (x)}
+   = 
+        φ
+    {\displaystyle \varphi }
+  .
+Historically, the theorem is often attributed simultaneously to Riesz and Fréchet in 1907 (see references).
+In the mathematical treatment of quantum mechanics, the theorem can be seen as a justification for the popular bra–ket notation. The theorem says that, every bra 
+        ⟨
+        ψ
+          |
+    {\displaystyle \langle \psi |}
+   has a corresponding ket 
+          |
+        ψ
+        ⟩
+    {\displaystyle |\psi \rangle }
+  , and the latter is unique.

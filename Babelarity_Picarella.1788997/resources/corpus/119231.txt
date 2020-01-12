@@ -1,0 +1,2302 @@
+An elastic collision is an encounter between two bodies in which the total kinetic energy of the two bodies after the encounter is equal to their total kinetic energy before the encounter. Elastic collisions occur only if there is no net conversion of kinetic energy into other forms (such as heat or noise).
+During the collision of small objects, kinetic energy is first converted to potential energy associated with a repulsive force between the particles (when the particles move against this force, i.e. the angle between the force and the relative velocity is obtuse), then this potential energy is converted back to kinetic energy (when the particles move with this force, i.e. the angle between the force and the relative velocity is acute).
+The collisions of atoms are elastic collisions (Rutherford backscattering is one example).
+The molecules—as distinct from atoms—of a gas or liquid rarely experience perfectly elastic collisions because kinetic energy is exchanged between the molecules’ translational motion and their internal degrees of freedom with each collision. At any one instant, half the collisions are, to a varying extent, inelastic collisions (the pair possesses less kinetic energy in their translational motions after the collision than before), and half could be described as “super-elastic” (possessing more kinetic energy after the collision than before). Averaged across the entire sample, molecular collisions can be regarded as essentially elastic as long as Planck's law forbids black-body photons to carry away energy from the system.
+In the case of macroscopic bodies, perfectly elastic collisions are an ideal never fully realized, but approximated by the interactions of objects such as billiard balls.
+When considering energies, possible rotational energy before and/or after a collision may also play a role.
+Consider two particles, denoted by subscripts 1 and 2. Let m1 and m2 be the masses, u1 and u2 the velocities before collision, and v1 and v2 the velocities after collision.
+The conservation of the total momentum demands that the total momentum before the collision is the same as the total momentum after the collision, and is expressed by the equation
+          m
+            1
+                u
+                →
+            1
+        +
+          m
+            2
+                u
+                →
+            2
+        =
+          m
+            1
+                v
+                →
+            1
+        +
+          m
+            2
+                v
+                →
+            2
+        .
+    {\displaystyle \,\!m_{1}{\vec {u}}_{1}+m_{2}{\vec {u}}_{2}=m_{1}{\vec {v}}_{1}+m_{2}{\vec {v}}_{2}.}
+Likewise, the conservation of the total kinetic energy is expressed by the equation
+                m
+                  1
+                u
+                  1
+                  2
+            2
+        +
+                m
+                  2
+                u
+                  2
+                  2
+            2
+        =
+                m
+                  1
+                v
+                  1
+                  2
+            2
+        +
+                m
+                  2
+                v
+                  2
+                  2
+            2
+        .
+    {\displaystyle {\frac {m_{1}u_{1}^{2}}{2}}+{\frac {m_{2}u_{2}^{2}}{2}}={\frac {m_{1}v_{1}^{2}}{2}}+{\frac {m_{2}v_{2}^{2}}{2}}.}
+These equations may be solved directly to find vi when ui are known or vice versa. An alternative solution is to first change the frame of reference such that one of the known velocities is zero. The unknown velocities in the new frame of reference can then be determined and followed by a conversion back to the original frame of reference to reach the same result. Once one of the unknown velocities is determined, the other can be found by symmetry.
+Solving these simultaneous equations for vi we get:
+          v
+            1
+        =
+                u
+                  1
+              (
+                m
+                  1
+              −
+                m
+                  2
+              )
+              +
+              2
+                m
+                  2
+                u
+                  2
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle v_{1}={\frac {u_{1}(m_{1}-m_{2})+2m_{2}u_{2}}{m_{1}+m_{2}}}}
+          v
+            2
+        =
+                u
+                  2
+              (
+                m
+                  2
+              −
+                m
+                  1
+              )
+              +
+              2
+                m
+                  1
+                u
+                  1
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle v_{2}={\frac {u_{2}(m_{2}-m_{1})+2m_{1}u_{1}}{m_{1}+m_{2}}}}
+or
+          v
+            1
+        =
+          u
+            1
+    {\displaystyle \ v_{1}=u_{1}}
+          v
+            2
+        =
+          u
+            2
+    {\displaystyle \ v_{2}=u_{2}}
+  .
+The latter is the trivial solution, corresponding to the case that no collision has taken place (yet).
+For example:
+Ball 1: mass = 3 kg, velocity = 4 m/s
+Ball 2: mass = 5 kg, velocity = −6 m/s
+After collision:
+Ball 1: velocity = −8.5 m/s
+Ball 2: velocity = 1.5 m/s
+Property:
+          v
+            1
+        −
+          v
+            2
+        =
+          u
+            2
+        −
+          u
+            1
+    {\displaystyle \ v_{1}-v_{2}=u_{2}-u_{1}}
+Derivation: Using the kinetic energy we can write
+          m
+            1
+          (
+            v
+              1
+              2
+          −
+            u
+              1
+              2
+          )
+        =
+          m
+            2
+          (
+            u
+              2
+              2
+          −
+            v
+              2
+              2
+          )
+    {\displaystyle \ m_{1}\left(v_{1}^{2}-u_{1}^{2}\right)=m_{2}\left(u_{2}^{2}-v_{2}^{2}\right)}
+        ⇒
+          m
+            1
+          (
+            v
+              1
+          −
+            u
+              1
+          )
+          (
+            v
+              1
+          +
+            u
+              1
+          )
+        =
+          m
+            2
+          (
+            u
+              2
+          −
+            v
+              2
+          )
+          (
+            u
+              2
+          +
+            v
+              2
+          )
+    {\displaystyle \Rightarrow m_{1}\left(v_{1}-u_{1}\right)\left(v_{1}+u_{1}\right)=m_{2}\left(u_{2}-v_{2}\right)\left(u_{2}+v_{2}\right)}
+Rearrange momentum equation:
+          m
+            1
+        (
+          v
+            1
+        −
+          u
+            1
+        )
+        =
+          m
+            2
+        (
+          u
+            2
+        −
+          v
+            2
+        )
+    {\displaystyle \ m_{1}(v_{1}-u_{1})=m_{2}(u_{2}-v_{2})}
+Dividing kinetic energy equation by the momentum equation we get:
+          v
+            1
+        +
+          u
+            1
+        =
+          u
+            2
+        +
+          v
+            2
+    {\displaystyle \ v_{1}+u_{1}=u_{2}+v_{2}}
+        ⇒
+          v
+            1
+        −
+          v
+            2
+        =
+          u
+            2
+        −
+          u
+            1
+    {\displaystyle \Rightarrow v_{1}-v_{2}=u_{2}-u_{1}}
+the relative velocity of one particle with respect to the other is reversed by the collision
+the average of the momenta before and after the collision is the same for both particles
+As can be expected, the solution is invariant under adding a constant to all velocities, which is like using a frame of reference with constant translational velocity.
+The velocity of the center of mass does not change by the collision:
+The center of mass at time 
+        t
+    {\displaystyle \ t}
+   before the collision and at time 
+          t
+          ′
+    {\displaystyle \ t'}
+   after the collision is given by two equations:
+              x
+              ¯
+        (
+        t
+        )
+        =
+                m
+                  1
+                x
+                  1
+              (
+              t
+              )
+              +
+                m
+                  2
+                x
+                  2
+              (
+              t
+              )
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\bar {x}}(t)={\frac {m_{1}x_{1}(t)+m_{2}x_{2}(t)}{m_{1}+m_{2}}}}
+  , and
+              x
+              ¯
+        (
+          t
+          ′
+        )
+        =
+                m
+                  1
+                x
+                  1
+              (
+                t
+                ′
+              )
+              +
+                m
+                  2
+                x
+                  2
+              (
+                t
+                ′
+              )
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\bar {x}}(t')={\frac {m_{1}x_{1}(t')+m_{2}x_{2}(t')}{m_{1}+m_{2}}}}
+Hence, the velocities of the center of mass before and after the collision are:
+          v
+                x
+                ¯
+        =
+                m
+                  1
+                u
+                  1
+              +
+                m
+                  2
+                u
+                  2
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle \ v_{\bar {x}}={\frac {m_{1}u_{1}+m_{2}u_{2}}{m_{1}+m_{2}}}}
+  , and
+          v
+                x
+                ¯
+          ′
+        =
+                m
+                  1
+                v
+                  1
+              +
+                m
+                  2
+                v
+                  2
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle \ v_{\bar {x}}'={\frac {m_{1}v_{1}+m_{2}v_{2}}{m_{1}+m_{2}}}}
+The numerator of 
+          v
+                x
+                ¯
+    {\displaystyle \ v_{\bar {x}}}
+   is the total momentum before the collision, and numerator of 
+          v
+                x
+                ¯
+          ′
+    {\displaystyle \ v_{\bar {x}}'}
+   is the total momentum after the collision. Since momentum is conserved, we have 
+          v
+                x
+                ¯
+        =
+          v
+                x
+                ¯
+          ′
+    {\displaystyle \ v_{\bar {x}}=\ v_{\bar {x}}'}
+  .
+With respect to the center of mass both velocities are reversed by the collision: in the case of particles of different mass, a heavy particle moves slowly toward the center of mass, and bounces back with the same low speed, and a light particle moves fast toward the center of mass, and bounces back with the same high speed.
+From the equations for 
+          v
+            1
+    {\displaystyle \ v_{1}}
+   and 
+          v
+            2
+    {\displaystyle \ v_{2}}
+   above we see that in the case of a large 
+          u
+            1
+    {\displaystyle \ u_{1}}
+  , the value of 
+          v
+            1
+    {\displaystyle \ v_{1}}
+   is small if the masses are approximately the same: hitting a much lighter particle does not change the velocity much, hitting a much heavier particle causes the fast particle to bounce back with high speed.
+This is why a neutron moderator (a medium which slows down fast neutrons, thereby turning them into thermal neutrons capable of sustaining a chain reaction) is a material full of atoms with light nuclei (with the additional property that they do not easily absorb neutrons): the lightest nuclei have about the same mass as a neutron.
+According to special relativity,
+        p
+        =
+              m
+              v
+              1
+              −
+                    v
+                      2
+                    c
+                      2
+    {\displaystyle p={\frac {mv}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}
+Where p denotes momentum of any particle with mass, v denotes velocity, and c is the speed of light.
+In the center of momentum frame where the total momentum equals zero,
+          p
+            1
+        =
+        −
+          p
+            2
+    {\displaystyle p_{1}=-p_{2}}
+          p
+            1
+            2
+        =
+          p
+            2
+            2
+    {\displaystyle p_{1}^{2}=p_{2}^{2}}
+              m
+                1
+                2
+              c
+                4
+            +
+              p
+                1
+                2
+              c
+                2
+        +
+              m
+                2
+                2
+              c
+                4
+            +
+              p
+                2
+                2
+              c
+                2
+        =
+        E
+    {\displaystyle {\sqrt {m_{1}^{2}c^{4}+p_{1}^{2}c^{2}}}+{\sqrt {m_{2}^{2}c^{4}+p_{2}^{2}c^{2}}}=E}
+          p
+            1
+        =
+        ±
+                E
+                  4
+              −
+              2
+                E
+                  2
+                m
+                  1
+                  2
+                c
+                  4
+              −
+              2
+                E
+                  2
+                m
+                  2
+                  2
+                c
+                  4
+              +
+                m
+                  1
+                  4
+                c
+                  8
+              −
+              2
+                m
+                  1
+                  2
+                m
+                  2
+                  2
+                c
+                  8
+              +
+                m
+                  2
+                  4
+                c
+                  8
+              c
+              E
+    {\displaystyle p_{1}=\pm {\frac {\sqrt {E^{4}-2E^{2}m_{1}^{2}c^{4}-2E^{2}m_{2}^{2}c^{4}+m_{1}^{4}c^{8}-2m_{1}^{2}m_{2}^{2}c^{8}+m_{2}^{4}c^{8}}}{cE}}}
+          u
+            1
+        =
+        −
+          v
+            1
+    {\displaystyle u_{1}=-v_{1}}
+Where 
+          m
+            1
+    {\displaystyle m_{1}}
+   represents the rest mass of the first colliding body, 
+          m
+            2
+    {\displaystyle m_{2}}
+   represents the rest mass of the second colliding body, 
+          u
+            1
+    {\displaystyle u_{1}}
+   represents the initial velocity of the first colliding body, 
+          u
+            2
+    {\displaystyle u_{2}}
+   represents the initial velocity of the second colliding body, 
+          v
+            1
+    {\displaystyle v_{1}}
+   represents the velocity after collision of the first colliding body, 
+          v
+            2
+    {\displaystyle v_{2}}
+   represents the velocity after collision of the second colliding body, 
+          p
+            1
+    {\displaystyle p_{1}}
+   denotes the momentum of the first colliding body, 
+          p
+            2
+    {\displaystyle p_{2}}
+   denotes the momentum of the second colliding body and 
+        c
+    {\displaystyle c}
+   denotes the speed of light in vacuum, 
+        E
+    {\displaystyle E}
+   denotes the total energy of the system (i.e. the sum of rest masses and kinetic energies of the colliding bodies).
+Since the total energy and momentum of the system are conserved and the rest masses of the colliding bodies do not change, it is shown that the momentum of the colliding body is decided by the rest masses of the colliding bodies, total energy and the total momentum. The magnitude of the momentum of the colliding body does not change after collision but the direction of movement is opposite relative to the center of momentum frame.
+Classical Mechanics is only a good approximation. It will give accurate results when it deals with the object which is macroscopic and running with much lower speed than the speed of light. Beyond the classical limits, it will give a wrong result. Total momentum of the two colliding bodies is frame-dependent. In the center of momentum frame, according to Classical Mechanics,
+          m
+            1
+          u
+            1
+        +
+          m
+            2
+          u
+            2
+        =
+          m
+            1
+          v
+            1
+        +
+          m
+            2
+          v
+            2
+        =
+          0
+    {\displaystyle m_{1}u_{1}+m_{2}u_{2}=m_{1}v_{1}+m_{2}v_{2}={0}\,\!}
+          m
+            1
+          u
+            1
+            2
+        +
+          m
+            2
+          u
+            2
+            2
+        =
+          m
+            1
+          v
+            1
+            2
+        +
+          m
+            2
+          v
+            2
+            2
+    {\displaystyle m_{1}u_{1}^{2}+m_{2}u_{2}^{2}=m_{1}v_{1}^{2}+m_{2}v_{2}^{2}\,\!}
+              (
+                m
+                  2
+                u
+                  2
+                )
+                  2
+              2
+                m
+                  1
+        +
+              (
+                m
+                  2
+                u
+                  2
+                )
+                  2
+              2
+                m
+                  2
+        =
+              (
+                m
+                  2
+                v
+                  2
+                )
+                  2
+              2
+                m
+                  1
+        +
+              (
+                m
+                  2
+                v
+                  2
+                )
+                  2
+              2
+                m
+                  2
+    {\displaystyle {\frac {(m_{2}u_{2})^{2}}{2m_{1}}}+{\frac {(m_{2}u_{2})^{2}}{2m_{2}}}={\frac {(m_{2}v_{2})^{2}}{2m_{1}}}+{\frac {(m_{2}v_{2})^{2}}{2m_{2}}}\,\!}
+        (
+          m
+            1
+        +
+          m
+            2
+        )
+        (
+          m
+            2
+          u
+            2
+          )
+            2
+        =
+        (
+          m
+            1
+        +
+          m
+            2
+        )
+        (
+          m
+            2
+          v
+            2
+          )
+            2
+    {\displaystyle (m_{1}+m_{2})(m_{2}u_{2})^{2}=(m_{1}+m_{2})(m_{2}v_{2})^{2}\,\!}
+          u
+            2
+        =
+        −
+          v
+            2
+    {\displaystyle u_{2}=-v_{2}\,\!}
+              (
+                m
+                  1
+                u
+                  1
+                )
+                  2
+              2
+                m
+                  1
+        +
+              (
+                m
+                  1
+                u
+                  1
+                )
+                  2
+              2
+                m
+                  2
+        =
+              (
+                m
+                  1
+                v
+                  1
+                )
+                  2
+              2
+                m
+                  1
+        +
+              (
+                m
+                  1
+                v
+                  1
+                )
+                  2
+              2
+                m
+                  2
+    {\displaystyle {\frac {(m_{1}u_{1})^{2}}{2m_{1}}}+{\frac {(m_{1}u_{1})^{2}}{2m_{2}}}={\frac {(m_{1}v_{1})^{2}}{2m_{1}}}+{\frac {(m_{1}v_{1})^{2}}{2m_{2}}}\,\!}
+        (
+          m
+            1
+        +
+          m
+            2
+        )
+        (
+          m
+            1
+          u
+            1
+          )
+            2
+        =
+        (
+          m
+            1
+        +
+          m
+            2
+        )
+        (
+          m
+            1
+          v
+            1
+          )
+            2
+    {\displaystyle (m_{1}+m_{2})(m_{1}u_{1})^{2}=(m_{1}+m_{2})(m_{1}v_{1})^{2}\,\!}
+          u
+            1
+        =
+        −
+          v
+            1
+    {\displaystyle u_{1}=-v_{1}\,\!}
+It is shown that 
+          u
+            1
+        =
+        −
+          v
+            1
+    {\displaystyle u_{1}=-v_{1}}
+   remains true in relativistic calculation despite other differences. One of the postulates in Special Relativity states that the Laws of Physics should be invariant in all inertial frames of reference. That is, if total momentum is conserved in a particular inertial frame of reference, total momentum will also be conserved in any inertial frame of reference, although the amount of total momentum is frame-dependent. Therefore, by transforming from an inertial frame of reference to another, we will be able to get the desired results. In a particular frame of reference where the total momentum could be any,
+                m
+                  1
+                u
+                  1
+              1
+              −
+                u
+                  1
+                  2
+                /
+                c
+                  2
+        +
+                m
+                  2
+                u
+                  2
+              1
+              −
+                u
+                  2
+                  2
+                /
+                c
+                  2
+        =
+                m
+                  1
+                v
+                  1
+              1
+              −
+                v
+                  1
+                  2
+                /
+                c
+                  2
+        +
+                m
+                  2
+                v
+                  2
+              1
+              −
+                v
+                  2
+                  2
+                /
+                c
+                  2
+        =
+          p
+            T
+    {\displaystyle {\frac {m_{1}\;u_{1}}{\sqrt {1-u_{1}^{2}/c^{2}}}}+{\frac {m_{2}\;u_{2}}{\sqrt {1-u_{2}^{2}/c^{2}}}}={\frac {m_{1}\;v_{1}}{\sqrt {1-v_{1}^{2}/c^{2}}}}+{\frac {m_{2}\;v_{2}}{\sqrt {1-v_{2}^{2}/c^{2}}}}=p_{T}}
+                m
+                  1
+                c
+                  2
+              1
+              −
+                u
+                  1
+                  2
+                /
+                c
+                  2
+        +
+                m
+                  2
+                c
+                  2
+              1
+              −
+                u
+                  2
+                  2
+                /
+                c
+                  2
+        =
+                m
+                  1
+                c
+                  2
+              1
+              −
+                v
+                  1
+                  2
+                /
+                c
+                  2
+        +
+                m
+                  2
+                c
+                  2
+              1
+              −
+                v
+                  2
+                  2
+                /
+                c
+                  2
+        =
+        E
+    {\displaystyle {\frac {m_{1}c^{2}}{\sqrt {1-u_{1}^{2}/c^{2}}}}+{\frac {m_{2}c^{2}}{\sqrt {1-u_{2}^{2}/c^{2}}}}={\frac {m_{1}c^{2}}{\sqrt {1-v_{1}^{2}/c^{2}}}}+{\frac {m_{2}c^{2}}{\sqrt {1-v_{2}^{2}/c^{2}}}}=E}
+We can look at the two moving bodies as one system of which the total momentum is 
+          p
+            T
+    {\displaystyle p_{T}}
+  , the total energy is 
+        E
+    {\displaystyle E}
+   and its velocity 
+          v
+            c
+    {\displaystyle v_{c}}
+   is the velocity of its center of mass. Relative to the center of momentum frame the total momentum equals zero. It can be shown that 
+          v
+            c
+    {\displaystyle v_{c}}
+   is given by:
+          v
+            c
+        =
+                p
+                  T
+                c
+                  2
+            E
+    {\displaystyle v_{c}={\frac {p_{T}c^{2}}{E}}}
+Now the velocities before the collision in the center of momentum frame 
+          u
+            1
+          ′
+    {\displaystyle u_{1}'}
+   and 
+          u
+            2
+          ′
+    {\displaystyle u_{2}'}
+   are:
+          u
+            1
+          ′
+        =
+                u
+                  1
+              −
+                v
+                  c
+              1
+              −
+                      u
+                        1
+                      v
+                        c
+                    c
+                      2
+    {\displaystyle u_{1}'={\frac {u_{1}-v_{c}}{1-{\frac {u_{1}v_{c}}{c^{2}}}}}}
+          u
+            2
+          ′
+        =
+                u
+                  2
+              −
+                v
+                  c
+              1
+              −
+                      u
+                        2
+                      v
+                        c
+                    c
+                      2
+    {\displaystyle u_{2}'={\frac {u_{2}-v_{c}}{1-{\frac {u_{2}v_{c}}{c^{2}}}}}}
+          v
+            1
+          ′
+        =
+        −
+          u
+            1
+          ′
+    {\displaystyle v_{1}'=-u_{1}'}
+          v
+            2
+          ′
+        =
+        −
+          u
+            2
+          ′
+    {\displaystyle v_{2}'=-u_{2}'}
+          v
+            1
+        =
+                v
+                  1
+                ′
+              +
+                v
+                  c
+              1
+              +
+                      v
+                        1
+                      ′
+                      v
+                        c
+                    c
+                      2
+    {\displaystyle v_{1}={\frac {v_{1}'+v_{c}}{1+{\frac {v_{1}'v_{c}}{c^{2}}}}}}
+          v
+            2
+        =
+                v
+                  2
+                ′
+              +
+                v
+                  c
+              1
+              +
+                      v
+                        2
+                      ′
+                      v
+                        c
+                    c
+                      2
+    {\displaystyle v_{2}={\frac {v_{2}'+v_{c}}{1+{\frac {v_{2}'v_{c}}{c^{2}}}}}}
+When 
+          u
+            1
+        ≪
+        c
+    {\displaystyle u_{1}\ll c}
+   and 
+          u
+            2
+        ≪
+        c
+    {\displaystyle u_{2}\ll c}
+  ,
+          p
+            T
+    {\displaystyle p_{T}}
+   ≈ 
+          m
+            1
+          u
+            1
+        +
+          m
+            2
+          u
+            2
+    {\displaystyle m_{1}u_{1}+m_{2}u_{2}}
+          v
+            c
+    {\displaystyle v_{c}}
+   ≈ 
+                m
+                  1
+                u
+                  1
+              +
+                m
+                  2
+                u
+                  2
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\frac {m_{1}u_{1}+m_{2}u_{2}}{m_{1}+m_{2}}}}
+          u
+            1
+          ′
+    {\displaystyle u_{1}'}
+   ≈ 
+          u
+            1
+        −
+          v
+            c
+    {\displaystyle u_{1}-v_{c}}
+   ≈ 
+                m
+                  1
+                u
+                  1
+              +
+                m
+                  2
+                u
+                  1
+              −
+                m
+                  1
+                u
+                  1
+              −
+                m
+                  2
+                u
+                  2
+                m
+                  1
+              +
+                m
+                  2
+        =
+                m
+                  2
+              (
+                u
+                  1
+              −
+                u
+                  2
+              )
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\frac {m_{1}u_{1}+m_{2}u_{1}-m_{1}u_{1}-m_{2}u_{2}}{m_{1}+m_{2}}}={\frac {m_{2}(u_{1}-u_{2})}{m_{1}+m_{2}}}}
+          u
+            2
+          ′
+    {\displaystyle u_{2}'}
+   ≈ 
+                m
+                  1
+              (
+                u
+                  2
+              −
+                u
+                  1
+              )
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\frac {m_{1}(u_{2}-u_{1})}{m_{1}+m_{2}}}}
+          v
+            1
+          ′
+    {\displaystyle v_{1}'}
+   ≈ 
+                m
+                  2
+              (
+                u
+                  2
+              −
+                u
+                  1
+              )
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\frac {m_{2}(u_{2}-u_{1})}{m_{1}+m_{2}}}}
+          v
+            2
+          ′
+    {\displaystyle v_{2}'}
+   ≈ 
+                m
+                  1
+              (
+                u
+                  1
+              −
+                u
+                  2
+              )
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\frac {m_{1}(u_{1}-u_{2})}{m_{1}+m_{2}}}}
+          v
+            1
+    {\displaystyle v_{1}}
+   ≈ 
+          v
+            1
+          ′
+        +
+          v
+            c
+    {\displaystyle v_{1}'+v_{c}}
+   ≈ 
+                m
+                  2
+                u
+                  2
+              −
+                m
+                  2
+                u
+                  1
+              +
+                m
+                  1
+                u
+                  1
+              +
+                m
+                  2
+                u
+                  2
+                m
+                  1
+              +
+                m
+                  2
+        =
+                u
+                  1
+              (
+                m
+                  1
+              −
+                m
+                  2
+              )
+              +
+              2
+                m
+                  2
+                u
+                  2
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\frac {m_{2}u_{2}-m_{2}u_{1}+m_{1}u_{1}+m_{2}u_{2}}{m_{1}+m_{2}}}={\frac {u_{1}(m_{1}-m_{2})+2m_{2}u_{2}}{m_{1}+m_{2}}}}
+          v
+            2
+    {\displaystyle v_{2}}
+   ≈ 
+                u
+                  2
+              (
+                m
+                  2
+              −
+                m
+                  1
+              )
+              +
+              2
+                m
+                  1
+                u
+                  1
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle {\frac {u_{2}(m_{2}-m_{1})+2m_{1}u_{1}}{m_{1}+m_{2}}}}
+Therefore, the classical calculation holds true when the speed of both colliding bodies is much lower than the speed of light (about 300 million m/s).
+We express the so-called parameter of velocity 
+        s
+    {\displaystyle s}
+  :
+        v
+          /
+        c
+        =
+          tanh
+        (
+        s
+        )
+        =
+                e
+                  s
+              −
+                e
+                  −
+                  s
+                e
+                  s
+              +
+                e
+                  −
+                  s
+    {\displaystyle v/c={\mbox{tanh}}(s)={\frac {e^{s}-e^{-s}}{e^{s}+e^{-s}}}}
+hence we get
+          e
+            s
+        =
+                c
+                +
+                v
+                c
+                −
+                v
+    {\displaystyle e^{s}={\sqrt {\frac {c+v}{c-v}}}}
+Relativistic energy and momentum are expressed as follows:
+        E
+        =
+              m
+                c
+                  2
+              1
+              −
+                    v
+                      2
+                    c
+                      2
+        =
+        m
+          c
+            2
+          cosh
+        (
+        s
+        )
+    {\displaystyle E={\frac {mc^{2}}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}=mc^{2}{\mbox{cosh}}(s)}
+        p
+        =
+              m
+              v
+              1
+              −
+                    v
+                      2
+                    c
+                      2
+        =
+        m
+        c
+           sinh
+        (
+        s
+        )
+    {\displaystyle p={\frac {mv}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}=mc{\mbox{ sinh}}(s)}
+Equations sum of energy and momentum colliding masses 
+            m
+              1
+    {\displaystyle {m_{1}}}
+   and 
+            m
+              2
+    {\displaystyle {m_{2}}}
+  , (velocities
+            v
+              1
+    {\displaystyle {v_{1}}}
+  , 
+            v
+              2
+    {\displaystyle {v_{2}}}
+  , 
+            u
+              1
+    {\displaystyle {u_{1}}}
+  ,
+            u
+              2
+    {\displaystyle {u_{2}}}
+   correspond to the velocity parameters 
+            s
+              1
+    {\displaystyle {s_{1}}}
+  , 
+            s
+              2
+    {\displaystyle {s_{2}}}
+  , 
+            s
+              3
+    {\displaystyle {s_{3}}}
+  , 
+            s
+              4
+    {\displaystyle {s_{4}}}
+  ), after dividing by adequate power 
+          c
+    {\displaystyle {c}}
+   are as follows:
+          m
+            1
+          cosh
+        (
+          s
+            1
+        )
+        +
+          m
+            2
+          cosh
+        (
+          s
+            2
+        )
+        =
+          m
+            1
+          cosh
+        (
+          s
+            3
+        )
+        +
+          m
+            2
+          cosh
+        (
+          s
+            4
+        )
+    {\displaystyle m_{1}{\mbox{cosh}}(s_{1})+m_{2}{\mbox{cosh}}(s_{2})=m_{1}{\mbox{cosh}}(s_{3})+m_{2}{\mbox{cosh}}(s_{4})}
+          m
+            1
+          sinh
+        (
+          s
+            1
+        )
+        +
+          m
+            2
+          sinh
+        (
+          s
+            2
+        )
+        =
+          m
+            1
+          sinh
+        (
+          s
+            3
+        )
+        +
+          m
+            2
+          sinh
+        (
+          s
+            4
+        )
+    {\displaystyle m_{1}{\mbox{sinh}}(s_{1})+m_{2}{\mbox{sinh}}(s_{2})=m_{1}{\mbox{sinh}}(s_{3})+m_{2}{\mbox{sinh}}(s_{4})}
+and dependent equation, the sum of above equations:
+          m
+            1
+          e
+              s
+                1
+        +
+          m
+            2
+          e
+              s
+                2
+        =
+          m
+            1
+          e
+              s
+                3
+        +
+          m
+            2
+          e
+              s
+                4
+    {\displaystyle m_{1}e^{s_{1}}+m_{2}e^{s_{2}}=m_{1}e^{s_{3}}+m_{2}e^{s_{4}}}
+subtract squares both sides equations "momentum" from "energy" and use the identity 
+            cosh
+            2
+        (
+        s
+        )
+        −
+            sinh
+            2
+        (
+        s
+        )
+        =
+        1
+    {\displaystyle {\mbox{cosh}}^{2}(s)-{\mbox{sinh}}^{2}(s)=1}
+  , after simplicity we get:
+        2
+          m
+            1
+          m
+            2
+        (
+          cosh
+        (
+          s
+            1
+        )
+          sinh
+        (
+          s
+            2
+        )
+        −
+          cosh
+        (
+          s
+            2
+        )
+          sinh
+        (
+          s
+            1
+        )
+        )
+        =
+        2
+          m
+            1
+          m
+            2
+        (
+          cosh
+        (
+          s
+            3
+        )
+          sinh
+        (
+          s
+            4
+        )
+        −
+          cosh
+        (
+          s
+            4
+        )
+          sinh
+        (
+          s
+            3
+        )
+        )
+    {\displaystyle 2m_{1}m_{2}({\mbox{cosh}}(s_{1}){\mbox{sinh}}(s_{2})-{\mbox{cosh}}(s_{2}){\mbox{sinh}}(s_{1}))=2m_{1}m_{2}({\mbox{cosh}}(s_{3}){\mbox{sinh}}(s_{4})-{\mbox{cosh}}(s_{4}){\mbox{sinh}}(s_{3}))}
+for non-zero mass, we get:
+          cosh
+        (
+          s
+            1
+        −
+          s
+            2
+        )
+        =
+          cosh
+        (
+          s
+            3
+        −
+          s
+            4
+        )
+    {\displaystyle {\mbox{cosh}}(s_{1}-s_{2})={\mbox{cosh}}(s_{3}-s_{4})}
+as functions 
+          cosh
+        (
+        s
+        )
+    {\displaystyle {\mbox{cosh}}(s)}
+   is even we get two solutions:
+          s
+            1
+        −
+          s
+            2
+        =
+          s
+            3
+        −
+          s
+            4
+    {\displaystyle s_{1}-s_{2}=s_{3}-s_{4}}
+          s
+            1
+        −
+          s
+            2
+        =
+        −
+          s
+            3
+        +
+          s
+            4
+    {\displaystyle s_{1}-s_{2}=-s_{3}+s_{4}}
+from the last equation, leading to a non-trivial solution, we solve 
+          s
+            2
+    {\displaystyle s_{2}}
+   and substitute into the dependent equation, we obtain 
+          e
+              s
+                1
+    {\displaystyle e^{s_{1}}}
+   and then 
+          e
+              s
+                2
+    {\displaystyle e^{s_{2}}}
+  , we have:
+          e
+              s
+                1
+        =
+          e
+              s
+                4
+                m
+                  1
+                e
+                    s
+                      3
+              +
+                m
+                  2
+                e
+                    s
+                      4
+                m
+                  1
+                e
+                    s
+                      4
+              +
+                m
+                  2
+                e
+                    s
+                      3
+    {\displaystyle e^{s_{1}}=e^{s_{4}}{\frac {m_{1}e^{s_{3}}+m_{2}e^{s_{4}}}{m_{1}e^{s_{4}}+m_{2}e^{s_{3}}}}}
+          e
+              s
+                2
+        =
+          e
+              s
+                3
+                m
+                  1
+                e
+                    s
+                      3
+              +
+                m
+                  2
+                e
+                    s
+                      4
+                m
+                  1
+                e
+                    s
+                      4
+              +
+                m
+                  2
+                e
+                    s
+                      3
+    {\displaystyle e^{s_{2}}=e^{s_{3}}{\frac {m_{1}e^{s_{3}}+m_{2}e^{s_{4}}}{m_{1}e^{s_{4}}+m_{2}e^{s_{3}}}}}
+It is a solution to the problem, but expressed by the parameters of velocity. Return substitution to get the solution for velocities is:
+          v
+            1
+          /
+        c
+        =
+          tanh
+        (
+          s
+            1
+        )
+        =
+                e
+                    s
+                      1
+              −
+                e
+                  −
+                    s
+                      1
+                e
+                    s
+                      1
+              +
+                e
+                  −
+                    s
+                      1
+    {\displaystyle v_{1}/c={\mbox{tanh}}(s_{1})={\frac {e^{s_{1}}-e^{-s_{1}}}{e^{s_{1}}+e^{-s_{1}}}}}
+          v
+            2
+          /
+        c
+        =
+          tanh
+        (
+          s
+            2
+        )
+        =
+                e
+                    s
+                      2
+              −
+                e
+                  −
+                    s
+                      2
+                e
+                    s
+                      2
+              +
+                e
+                  −
+                    s
+                      2
+    {\displaystyle v_{2}/c={\mbox{tanh}}(s_{2})={\frac {e^{s_{2}}-e^{-s_{2}}}{e^{s_{2}}+e^{-s_{2}}}}}
+Substitute the previous solutions and replace: 
+          e
+              s
+                3
+        =
+                c
+                +
+                  u
+                    1
+                c
+                −
+                  u
+                    1
+    {\displaystyle e^{s_{3}}={\sqrt {\frac {c+u_{1}}{c-u_{1}}}}}
+   and 
+          e
+              s
+                4
+        =
+                c
+                +
+                  u
+                    2
+                c
+                −
+                  u
+                    2
+    {\displaystyle e^{s_{4}}={\sqrt {\frac {c+u_{2}}{c-u_{2}}}}}
+  , after long transformation, with substituting: 
+        Z
+        =
+            (
+            1
+            −
+              u
+                1
+                2
+              /
+              c
+                2
+            )
+            (
+            1
+            −
+              u
+                2
+                2
+              /
+              c
+                2
+            )
+    {\displaystyle Z={\sqrt {(1-u_{1}^{2}/c^{2})(1-u_{2}^{2}/c^{2})}}}
+   we get:
+          v
+            1
+        =
+              2
+                m
+                  1
+                m
+                  2
+                c
+                  2
+                u
+                  2
+              Z
+              +
+              2
+                m
+                  2
+                  2
+                c
+                  2
+                u
+                  2
+              −
+              (
+                m
+                  1
+                  2
+              +
+                m
+                  2
+                  2
+              )
+                u
+                  1
+                u
+                  2
+                  2
+              +
+              (
+                m
+                  1
+                  2
+              −
+                m
+                  2
+                  2
+              )
+                c
+                  2
+                u
+                  1
+              2
+                m
+                  1
+                m
+                  2
+                c
+                  2
+              Z
+              −
+              2
+                m
+                  2
+                  2
+                u
+                  1
+                u
+                  2
+              −
+              (
+                m
+                  1
+                  2
+              −
+                m
+                  2
+                  2
+              )
+                u
+                  2
+                  2
+              +
+              (
+                m
+                  1
+                  2
+              +
+                m
+                  2
+                  2
+              )
+                c
+                  2
+    {\displaystyle v_{1}={\frac {2m_{1}m_{2}c^{2}u_{2}Z+2m_{2}^{2}c^{2}u_{2}-(m_{1}^{2}+m_{2}^{2})u_{1}u_{2}^{2}+(m_{1}^{2}-m_{2}^{2})c^{2}u_{1}}{2m_{1}m_{2}c^{2}Z-2m_{2}^{2}u_{1}u_{2}-(m_{1}^{2}-m_{2}^{2})u_{2}^{2}+(m_{1}^{2}+m_{2}^{2})c^{2}}}}
+          v
+            2
+        =
+              2
+                m
+                  1
+                m
+                  2
+                c
+                  2
+                u
+                  1
+              Z
+              +
+              2
+                m
+                  1
+                  2
+                c
+                  2
+                u
+                  1
+              −
+              (
+                m
+                  1
+                  2
+              +
+                m
+                  2
+                  2
+              )
+                u
+                  1
+                  2
+                u
+                  2
+              +
+              (
+                m
+                  2
+                  2
+              −
+                m
+                  1
+                  2
+              )
+                c
+                  2
+                u
+                  2
+              2
+                m
+                  1
+                m
+                  2
+                c
+                  2
+              Z
+              −
+              2
+                m
+                  1
+                  2
+                u
+                  1
+                u
+                  2
+              −
+              (
+                m
+                  2
+                  2
+              −
+                m
+                  1
+                  2
+              )
+                u
+                  1
+                  2
+              +
+              (
+                m
+                  1
+                  2
+              +
+                m
+                  2
+                  2
+              )
+                c
+                  2
+    {\displaystyle v_{2}={\frac {2m_{1}m_{2}c^{2}u_{1}Z+2m_{1}^{2}c^{2}u_{1}-(m_{1}^{2}+m_{2}^{2})u_{1}^{2}u_{2}+(m_{2}^{2}-m_{1}^{2})c^{2}u_{2}}{2m_{1}m_{2}c^{2}Z-2m_{1}^{2}u_{1}u_{2}-(m_{2}^{2}-m_{1}^{2})u_{1}^{2}+(m_{1}^{2}+m_{2}^{2})c^{2}}}}
+For the case of two colliding bodies in two dimensions, the overall velocity of each body must be split into two perpendicular velocities: one tangent to the common normal surfaces of the colliding bodies at the point of contact, the other along the line of collision. Since the collision only imparts force along the line of collision, the velocities that are tangent to the point of collision do not change. The velocities along the line of collision can then be used in the same equations as a one-dimensional collision. The final velocities can then be calculated from the two new component velocities and will depend on the point of collision. Studies of two-dimensional collisions are conducted for many bodies in the framework of a two-dimensional gas.
+In a center of momentum frame at any time the velocities of the two bodies are in opposite directions, with magnitudes inversely proportional to the masses. In an elastic collision these magnitudes do not change. The directions may change depending on the shapes of the bodies and the point of impact. For example, in the case of spheres the angle depends on the distance between the (parallel) paths of the centers of the two bodies. Any non-zero change of direction is possible: if this distance is zero the velocities are reversed in the collision; if it is close to the sum of the radii of the spheres the two bodies are only slightly deflected.
+Assuming that the second particle is at rest before the collision, the angles of deflection of the two particles, 
+          ϑ
+            1
+    {\displaystyle \vartheta _{1}}
+   and 
+          ϑ
+            2
+    {\displaystyle \vartheta _{2}}
+  , are related to the angle of deflection 
+        θ
+    {\displaystyle \theta }
+   in the system of the center of mass by
+        tan
+        ⁡
+          ϑ
+            1
+        =
+                m
+                  2
+              sin
+              ⁡
+              θ
+                m
+                  1
+              +
+                m
+                  2
+              cos
+              ⁡
+              θ
+        ,
+          ϑ
+            2
+        =
+                π
+              −
+                θ
+            2
+        .
+    {\displaystyle \tan \vartheta _{1}={\frac {m_{2}\sin \theta }{m_{1}+m_{2}\cos \theta }},\qquad \vartheta _{2}={\frac {{\pi }-{\theta }}{2}}.}
+The magnitudes of the velocities of the particles after the collision are:
+          v
+            1
+          ′
+        =
+          v
+            1
+                m
+                  1
+                  2
+              +
+                m
+                  2
+                  2
+              +
+              2
+                m
+                  1
+                m
+                  2
+              cos
+              ⁡
+              θ
+                m
+                  1
+              +
+                m
+                  2
+        ,
+          v
+            2
+          ′
+        =
+          v
+            1
+              2
+                m
+                  1
+                m
+                  1
+              +
+                m
+                  2
+        sin
+        ⁡
+            θ
+            2
+        .
+    {\displaystyle v'_{1}=v_{1}{\frac {\sqrt {m_{1}^{2}+m_{2}^{2}+2m_{1}m_{2}\cos \theta }}{m_{1}+m_{2}}},\qquad v'_{2}=v_{1}{\frac {2m_{1}}{m_{1}+m_{2}}}\sin {\frac {\theta }{2}}.}
+The final x and y velocities components of the first ball can be calculated as:
+                  v
+                    1
+                    x
+                  ′
+                =
+                        v
+                          1
+                      cos
+                      ⁡
+                      (
+                        θ
+                          1
+                      −
+                      φ
+                      )
+                      (
+                        m
+                          1
+                      −
+                        m
+                          2
+                      )
+                      +
+                      2
+                        m
+                          2
+                        v
+                          2
+                      cos
+                      ⁡
+                      (
+                        θ
+                          2
+                      −
+                      φ
+                      )
+                        m
+                          1
+                      +
+                        m
+                          2
+                cos
+                ⁡
+                (
+                φ
+                )
+                +
+                  v
+                    1
+                sin
+                ⁡
+                (
+                  θ
+                    1
+                −
+                φ
+                )
+                cos
+                ⁡
+                (
+                φ
+                +
+                    π
+                    2
+                )
+                  v
+                    1
+                    y
+                  ′
+                =
+                        v
+                          1
+                      cos
+                      ⁡
+                      (
+                        θ
+                          1
+                      −
+                      φ
+                      )
+                      (
+                        m
+                          1
+                      −
+                        m
+                          2
+                      )
+                      +
+                      2
+                        m
+                          2
+                        v
+                          2
+                      cos
+                      ⁡
+                      (
+                        θ
+                          2
+                      −
+                      φ
+                      )
+                        m
+                          1
+                      +
+                        m
+                          2
+                sin
+                ⁡
+                (
+                φ
+                )
+                +
+                  v
+                    1
+                sin
+                ⁡
+                (
+                  θ
+                    1
+                −
+                φ
+                )
+                sin
+                ⁡
+                (
+                φ
+                +
+                    π
+                    2
+                )
+    {\displaystyle {\begin{aligned}v'_{1x}&={\frac {v_{1}\cos(\theta _{1}-\varphi )(m_{1}-m_{2})+2m_{2}v_{2}\cos(\theta _{2}-\varphi )}{m_{1}+m_{2}}}\cos(\varphi )\\[0.2em]&\quad +v_{1}\sin(\theta _{1}-\varphi )\cos(\varphi +{\frac {\pi }{2}})\\[0.8em]v'_{1y}&={\frac {v_{1}\cos(\theta _{1}-\varphi )(m_{1}-m_{2})+2m_{2}v_{2}\cos(\theta _{2}-\varphi )}{m_{1}+m_{2}}}\sin(\varphi )\\[0.2em]&\quad +v_{1}\sin(\theta _{1}-\varphi )\sin(\varphi +{\frac {\pi }{2}})\end{aligned}}}
+where v1 and v2 are the scalar sizes of the two original speeds of the objects, m1 and m2 are their masses, θ1 and θ2 are their movement angles, that is, 
+          v
+            1
+            x
+        =
+          v
+            1
+        cos
+        ⁡
+          θ
+            1
+        ,
+          v
+            1
+            y
+        =
+          v
+            1
+        sin
+        ⁡
+          θ
+            1
+    {\displaystyle v_{1x}=v_{1}\cos \theta _{1},\;v_{1y}=v_{1}\sin \theta _{1}}
+   (meaning moving directly down to the right is either a -45° angle, or a 315°angle), and lowercase phi (φ) is the contact angle. (To get the x and y velocities of the second ball, one needs to swap all the '1' subscripts with '2' subscripts.)
+This equation is derived from the fact that the interaction between the two bodies is easily calculated along the contact angle, meaning the velocities of the objects can be calculated in one dimension by rotating the x and y axis to be parallel with the contact angle of the objects, and then rotated back to the original orientation to get the true x and y components of the velocities.
+In an angle-free representation, the changed velocities are computed using the centers x1 and x2 at the time of contact as
+                    v
+                    1
+                  ′
+                =
+                    v
+                    1
+                −
+                      2
+                        m
+                          2
+                        m
+                          1
+                      +
+                        m
+                          2
+                      ⟨
+                          v
+                          1
+                      −
+                          v
+                          2
+                      ,
+                          x
+                          1
+                      −
+                          x
+                          2
+                      ⟩
+                      ∥
+                          x
+                          1
+                      −
+                          x
+                          2
+                        ∥
+                          2
+                (
+                    x
+                    1
+                −
+                    x
+                    2
+                )
+                ,
+                    v
+                    2
+                  ′
+                =
+                    v
+                    2
+                −
+                      2
+                        m
+                          1
+                        m
+                          1
+                      +
+                        m
+                          2
+                      ⟨
+                          v
+                          2
+                      −
+                          v
+                          1
+                      ,
+                          x
+                          2
+                      −
+                          x
+                          1
+                      ⟩
+                      ∥
+                          x
+                          2
+                      −
+                          x
+                          1
+                        ∥
+                          2
+                (
+                    x
+                    2
+                −
+                    x
+                    1
+                )
+    {\displaystyle {\begin{aligned}\mathbf {v} '_{1}&=\mathbf {v} _{1}-{\frac {2m_{2}}{m_{1}+m_{2}}}\ {\frac {\langle \mathbf {v} _{1}-\mathbf {v} _{2},\,\mathbf {x} _{1}-\mathbf {x} _{2}\rangle }{\|\mathbf {x} _{1}-\mathbf {x} _{2}\|^{2}}}\ (\mathbf {x} _{1}-\mathbf {x} _{2}),\\\mathbf {v} '_{2}&=\mathbf {v} _{2}-{\frac {2m_{1}}{m_{1}+m_{2}}}\ {\frac {\langle \mathbf {v} _{2}-\mathbf {v} _{1},\,\mathbf {x} _{2}-\mathbf {x} _{1}\rangle }{\|\mathbf {x} _{2}-\mathbf {x} _{1}\|^{2}}}\ (\mathbf {x} _{2}-\mathbf {x} _{1})\end{aligned}}}
+where the angle brackets indicate the inner product (or dot product) of two vectors.
+Collision
+Inelastic collision
+Coefficient of restitution

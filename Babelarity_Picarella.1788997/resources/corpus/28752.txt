@@ -1,0 +1,85 @@
+An artillery tractor, also referred to as a gun tractor, is a specialized heavy-duty form of tractor unit used to tow artillery pieces of varying weights and calibres. It may be wheeled, tracked, or half-tracked.
+There are two main types of artillery tractors, depending on the type of traction: wheeled and tracked.
+Wheeled tractors are usually variations of lorries adapted for military service.
+Tracked tractors run on continuous track; in some cases are built on a modified tank chassis with the superstructure replaced with a compartment for the gun crew or ammunition.
+In addition, half-track tractors were used in the interwar period and in World War II, especially by the Wehrmacht. This type of tractor was mostly discontinued in the postwar.
+The first artillery tractors were designed prior to the outbreak of World War I, often based on agricultural machines such as the Holt tractor. Such vehicles allowed the tactical use of heavier guns to supplement the light horse drawn field guns. "Horseless artillery" available prior to World War I weighed 8 tons, had 70 horsepower and could go 8 mph. For example, in the British Army it allowed the heavy guns of the Royal Garrison Artillery to be used flexibly on the battlefield.
+In World War II the draft horse was still the most common source of motive power in many armies. Most nations were economically and industrially unable to fully motorise their forces. One compromise was to produce general purpose vehicles which could be used in the troop transport, logistics and prime mover roles, with heavy artillery tractors to move the heaviest guns.
+The British Army had fully mechanized prior to war. The Royal Artillery persisted with specialist artillery tractors - known as "Field Artillery Tractors" (FAT) - such as the Morris "Quad", Canadian Military Pattern (CMP) "Quad" and AEC Matador throughout World War II, rather than adopt a general purpose vehicle. Artillery tractors were different from "General Service" (GS) vehicles by having a compartment for the gun detachment immediately behind the cab and separated from the cargo space containing ammunition and gun stores.
+German forces used half-tracks as artillery tractors, such as the Sd.Kfz. 7. Half-tracked tractors were not commonly used in this role in other nations. Compared to wheeled vehicles they had better off-road capabilities, but were slower on roads and were more prone to breakdowns. However, for Germany horses remained the most common way of towing artillery throughout the war.
+In modern warfare, towed artillery has given way in part to self-propelled artillery, it is also common to find auxiliary power units built into the gun carriage to provide limited battlefield mobility.
+Traditional towed artillery can still be found in units where complexity and weight are liabilities: e.g. airmobile, amphibious and other light units. In such units, where organic transport is usually limited, any available transport can double as artillery tractors in order to reposition guns when needed. For example, engineer vehicles of a different primary purpose such as the U.S. Marines' Light Capacity Rough Terrain Forklift (LCRTF), a versatile telehandler forklift capable of towing gear from either end.
+The following is a non-comprehensive list of artillery tractors, classified by its traction system and era.
+pre- and First World War
+Thornycroft "steamer" - UK, Second Boer War
+Thornycroft Gun Tractor - UK, World War I
+Latil - France, World War I
+Interwar and Second World War
+Thornycroft Hathi - UK, 1924; early 4x4
+Krupp Protze – Germany, 1933; towed the 3.7 cm PaK
+Scammell Pioneer – British, 1937; lorry used for heavy artillery
+Morris C8 – UK, 1938; the "Quad" British tractor; towed the 25-pdr gun, 6-pdr AT gun, and 40-mm Bofors AA gun
+Karrier KT4 – UK; for the British Indian Army
+AEC Matador – UK, WWII; lorry used for pulling medium artillery such as the 5.5 inch gun and 3.7 inch AA Gun
+Laffly V15T – France, WWII; towed 25 mm AT guns
+Laffly S15T – France, WWII; towed the French 75 and short 105 mm field guns
+Mack NO - USA, WWII; 6x6 truck used to tow the 155mm “Long Tom” field gun and similar medium artillery pieces
+Dodge WC4 & WC22 - USA, WWII; 4x4 truck designed to tow the M3 anti-tank cannon, its crew and ammunition
+White Scout Car – USA, 1941; 4x4 utility armored car
+CMP FAT – Canada, WWII
+Radschlepper Ost – Germany, 1942
+Postwar
+Bedford 4x4 Gun Tractor - UK, introduced in the late 1950s to tow the 25-pdr
+Leyland Martian (FV1103) - UK, Medium Artillery Tractor, 10-ton, 6x6; replaced the Matador in the late 1950s.
+Pinzgauer High Mobility All-Terrain Vehicle – UK, 1971
+Land Rover 101 Forward Control – UK, 1972
+Coyote 6x6 TSV – UK, 2009
+Unic P107 – France, 1934; towed the French 75 and short 105 mm field guns
+SOMUA MCG – France; towed the French long 105 and short 155 mm field guns
+SdKfz 7 – Germany, 1938; 8-ton half track often towed the Flak 36 88 mm
+Sd.Kfz. 9 - Germany, 1938; used for heavy towed guns such as the 24 cm Kanone 3
+SdKfz 10 - Germany, 1938; also basis for the SdKfz 250 armored light half-track
+Sd.Kfz. 11 - Germany, 1938; 3-ton tractor for medium towed guns, including the 3.7 cm FlaK 43 anti-aircraft gun and the 10.5 cm leFH 18 field howitzer
+M2 Half Track Car – USA, 1940
+M3 Half-track – USA, 1940
+Dragon, Medium Mark IV – British army, 1928; developed from the Vickers 6-Ton mark E.
+T-24 chassis
+Komintern
+Voroshilovets
+M2 light tank chassis
+M4 High Speed Tractor – USA, 1943
+M3 Stuart chassis
+M5 High Speed Tractor – USA, 1942
+M3 Lee chassis
+M33 Prime Mover - converted by removing turret and recovery gear from M31 TRV. 109 converted in 1943-44.
+M4 Sherman chassis
+M34 Prime Mover - converted by removing recovery gear from M32B1 TRV (M4A1 Sherman tank chassis built as an Armoured recovery vehicle) and adding air brakes to tow heavy artillery. 24 converted by Chester Tank Depot in 1944.
+M35 Prime Mover - converted by removing turret from M10A1 tank destroyer (M4A3 Sherman tank chassis) and adding air brakes to tow 155 mm and 240 mm artillery.
+Sherman Gun Tower - British field conversion in Italy by removing turrets from old M4A2 Sherman tanks to tow 17 pdr AT gun and carry crew with ammunition
+Wolverine Gun Tower - British M10 (M4A2 chassis) or M10A1 (M4A3 chassis) converted by removing turret, 1944–45
+Crusader II, Gun Tractor Mk I – British army, variant of the Crusader tank
+M41 Walker Bulldog chassis
+M8 High Speed Tractor – USA, 1950
+pre- and First World War
+Hornsby tractor – British Army, 1910
+Holt Tractor
+Best
+Interwar and Second World War
+Renault UE Chenillette – France, 1932
+C7P – Poland, 1934
+STZ-5 - Soviet Union
+Universal Carrier – British, 1936; "Bren Gun Carrier", armored utility tractor
+Lloyd carrier - UK, 1940
+M6 High Speed Tractor – USA, 1944
+Raupenschlepper, Ost (RSO) - Nazi Germany, 1942
+Postwar
+Snow Trac – 1957, UK Royal Marines Light WOMBAT gun carrier
+AT-L - Soviet Union
+ATS-59 - Soviet Union
+AT-S - Soviet Union
+AT-T - Soviet Union
+MT-LBT - Soviet Union, mid-1970s, variant of the MT-LB armoured personnel carrier.
+Hitachi Type 73 – Japan, 1974
+Self-propelled artillery
+Ballast tractor
+G-numbers

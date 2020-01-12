@@ -1,0 +1,37 @@
+Daniel Julius Bernstein (sometimes known simply as djb; born October 29, 1971) is a German-American mathematician, cryptologist, programmer, and professor of mathematics and computer science at the Eindhoven University of Technology and research professor at the University of Illinois at Chicago. He is the author of the computer software programs qmail, publicfile, and djbdns which he released as license-free software, later as public domain software.
+He attended Bellport High School, a public high school on Long Island, and graduated at 15 in 1987. The same year, he ranked fifth place in the Westinghouse Science Talent Search. In 1987 (at the age of 16), he achieved a Top 10 ranking in the William Lowell Putnam Mathematical Competition. Bernstein earned his bachelor's degree in mathematics from New York University (1991) and has a PhD in mathematics from the University of California, Berkeley (1995), where he studied under Hendrik Lenstra.
+Bernstein brought the court case Bernstein v. United States. The ruling in the case declared software as protected speech under the First Amendment, and national restrictions on encryption software were overturned. Bernstein was originally represented by the Electronic Frontier Foundation, but he later represented himself despite having no formal training as a lawyer.
+In the autumn of 2004, Bernstein taught a course about computer software security, titled "UNIX Security Holes". The sixteen members of the class discovered 91 new UNIX security holes. Bernstein, long a promoter of the idea that full disclosure is the best method to promote software security and founder of the securesoftware mailing list, publicly announced 44 of them with sample exploit code.
+Bernstein explained, in 2005, that he is pursuing a strategy to "produce invulnerable computer systems". He plans to achieve this by putting the vast majority of computer software into an "extreme sandbox" that only allows it to transform input into output, and by writing bugfree replacements (like qmail and djbdns) for the remaining components that need additional privileges. He concludes: "I won’t be satisfied until I've put the entire security industry out of work."
+In spring 2005 Bernstein taught a course on "high speed cryptography". He demonstrated new results against implementations of AES (cache attacks) in the same time period.
+As of April 2008, Bernstein's stream cipher "Salsa20" was selected as a member of the final portfolio of the eSTREAM project, part of a European Union research directive.
+In 2011, Bernstein published RFSB, a variant of the Fast Syndrome Based Hash function.
+Bernstein has written a number of security-aware programs, including:
+qmail
+djbdns
+ucspi-tcp
+daemontools
+publicfile
+tinydns
+Bernstein offers a security guarantee for qmail and djbdns; while some claim there is a dispute over a reported potential qmail exploit, a functioning exploit targeting qmail running on 64-bit platforms has been published. Bernstein claims that the exploit does not fall within the parameters of the qmail security guarantee. In March 2009, Bernstein awarded $1000 to Matthew Dempsky for finding a security hole in djbdns.
+In August 2008, Bernstein announced DNSCurve, a proposal to secure the Domain Name System. DNSCurve uses techniques from elliptic curve cryptography to give a vast decrease in computational time over the RSA public-key algorithm used by DNSSEC, and uses the existing DNS hierarchy to propagate trust by embedding public keys into specially formatted (but backward-compatible) DNS records.
+As of 2014, Bernstein's algorithms are used exclusively in OpenSSH when optionally compiled without OpenSSL for a reduced feature set—Ed25519 key type, Curve25519 key exchange and ChaCha20-Poly1305 transport cipher (although the transport ciphers are also complemented by AES-CTR). Additionally, the cryptography used in OpenBSD for signing releases and packages is based entirely on the algorithms by Bernstein. Both the signed releases and the extra crypto in OpenSSH have first appeared in OpenBSD 5.5, which was also the first OpenBSD release to contain any of Bernstein's crypto.
+Bernstein has published a number of papers in mathematics and computation. Many of his papers deal with algorithms or implementations. He also wrote a survey titled "Multidigit multiplication for mathematicians".
+In 2001 Bernstein circulated "Circuits for integer factorization: a proposal," which caused a stir as it potentially suggested that if physical hardware implementations could be close to their theoretical efficiency, then perhaps current views about the number of bits required to store useful keys might be off by a factor of three, meaning that the numbers themselves are off by a power of three. 512-bit RSA was then breakable, and, therefore, perhaps 1536-bit RSA would be too. Bernstein was careful not to make any actual predictions, and emphasized the importance of correctly interpreting asymptotic expressions. However, several other important names in the field, Arjen Lenstra, Adi Shamir, Jim Tomlinson, and Eran Tromer disagreed strongly with Bernstein's conclusions. Bernstein has received funding to investigate whether this potential can be realized.
+He is also the author of the mathematical libraries DJBFFT, a fast portable FFT library, and of primegen, an asymptotically fast small prime sieve with low memory footprint based on the sieve of Atkin rather than the more usual sieve of Eratosthenes. Both have been used effectively to aid the search for large prime numbers.
+In algebraic geometry, he introduced in 2007 Twisted Edwards curves that are plane models of elliptic curves, a generalisation of Edwards curves. This is used in its Curve25519 elliptic curve cryptography, and its Ed25519 implementation of EdDSA.
+Bernstein proposed Internet Mail 2000, an alternative system for electronic mail, intended to replace Simple Mail Transfer Protocol (SMTP), Post Office Protocol (POP3) and Internet Message Access Protocol (IMAP).
+He is the primary author of a book on post-quantum cryptography.
+Bernstein is also known for his popular string hashing function djb2.
+Salsa20, Poly1305-AES, Snuffle, cryptographic primitives designed by Bernstein.
+Curve25519, Ed25519
+CubeHash, Bernstein's submission to the NIST hash function competition.
+SipHash
+Quick Mail Queuing Protocol (QMQP)
+Quick Mail Transport Protocol (QMTP)
+Bernstein v. United States
+Daniel J. Bernstein. "MCS 494: UNIX Security Holes". Unix. Retrieved September 23, 2005. 
+Lemos, Robert (2004-12-15). "Students uncover dozens of Unix software flaws". News.com. 
+"DJB Announces 44 Security Holes In *nix Software". Slashdot. 2004-12-15. 
+Daniel J. Bernstein. "Some thoughts on security after ten years of qmail 1.0" (PDF). Retrieved December 19, 2007. 
+Daniel J. Bernstein. "DNSCurve: Usable security for DNS". Retrieved August 31, 2008. 

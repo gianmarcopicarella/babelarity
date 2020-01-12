@@ -1,0 +1,41 @@
+In telecommunication, a line code is a code chosen for use within a communications system for transmitting a digital signal down a line. Line coding is often used for digital data transport. Some line codes are digital baseband modulation or digital baseband transmission methods, and these are baseband line codes that are used when the line can carry DC components.
+Line coding consists of representing the digital signal to be transported, by a waveform that is optimally tuned for the specific properties of the physical channel (and of the receiving equipment). The pattern of voltage, current or photons used to represent the digital data on a transmission link is called line encoding. The common types of line encoding are unipolar, polar, bipolar, and Manchester encoding.
+For reliable clock recovery at the receiver, one usually imposes a maximum run length constraint on the generated channel sequence, i.e., the maximum number of consecutive ones or zeros is bounded to a reasonable number. A clock period is recovered by observing transitions in the received sequence, so that a maximum run length guarantees such clock recovery, while sequences without such a constraint could seriously hamper the detection quality.
+After line coding, the signal is put through a "physical channel", either a "transmission medium" or "data storage medium". Sometimes the characteristics of two very different-seeming channels are similar enough that the same line code is used for them. The most common physical channels are:
+the line-coded signal can directly be put on a transmission line, in the form of variations of the voltage or current (often using differential signaling).
+the line-coded signal (the "baseband signal") undergoes further pulse shaping (to reduce its frequency bandwidth) and then modulated (to shift its frequency) to create an "RF signal" that can be sent through free space.
+the line-coded signal can be used to turn on and off a light source in free-space optical communication, most commonly used in an infrared remote control.
+the line-coded signal can be printed on paper to create a bar code.
+the line-coded signal can be converted to magnetized spots on a hard drive or tape drive.
+the line-coded signal can be converted to pits on an optical disc.
+Some of the more common or binary line codes include:
+Each line code has advantages and disadvantages. The particular line code used is chosen to meet one or more of the following criteria:
+Minimize transmission hardware
+Facilitate synchronization
+Ease error detection and correction
+Minimize spectral content
+Eliminate a dc component
+The disparity of a bit pattern is the difference in the number of one bits vs the number of zero bits. The running disparity is the running total of the disparity of all previously transmitted words.
+Unfortunately, most long-distance communication channels cannot transport a DC component. The DC component is also called the disparity, the bias, or the DC coefficient. The simplest possible line code, unipolar, gives too many errors on such systems, because it has an unbounded DC component.
+Most line codes eliminate the DC component –  such codes are called DC-balanced, zero-DC, DC-free, zero-bias, DC equalized, etc. There are three ways of eliminating the DC component:
+Use a constant-weight code. In other words, each transmitted code word is corrected such that every code word that contains some positive or negative levels also contains enough of the opposite levels, such that the average level over each code word is zero. For example, Manchester code and Interleaved 2 of 5.
+Use a paired disparity code. In other words, the transmitter has to make sure that every code word that averages to a negative level is paired with another code word that averages to a positive level. Therefore, it must keep track of the running DC buildup, and always pick the code word that pushes the DC level back towards zero. The receiver is designed so that either code word of the pair decodes to the same data bits. For example, AMI, 8B10B, 4B3T, etc.
+Use a scrambler. For example, the scrambler specified in RFC 2615 for 64b/66b encoding.
+Bipolar line codes have two polarities, are generally implemented as RZ, and have a radix of three since there are three distinct output levels One of the principle advantages of this type of code, is that it can completely eliminate any DC component. This is important if the signal must pass through a transformer or a long transmission line.
+Unfortunately, several long-distance communication channels have polarity ambiguity. To compensate, several people have designed polarity-insensitive transmission systems. There are three ways of providing unambiguous reception of "0" bits or "1" bits over such channels:
+Pair each code word with the polarity-inverse of that code word. The receiver is designed so that either code word of the pair decodes to the same data bits, such as alternate mark inversion, Differential Manchester encoding, coded mark inversion, Miller encoding, etc.
+differential coding each symbol relative to the previous symbol, such as MLT-3 encoding, NRZI, etc.
+invert the whole stream when inverted syncwords are detected
+Line coding should make it possible for the receiver to synchronize itself to the phase of the received signal. If the synchronization is not ideal, then the signal to be decoded will not have optimal differences (in amplitude) between the various digits or symbols used in the line code. This will increase the error probability in the received data.
+Biphase line codes require at least one transition per bit time. This makes it easier to synchronize the transceivers and detect errors, however, the baud rate is greater than that of NRZ codes.
+It is also preferred for the line code to have a structure that will enable error detection. Note that the line-coded signal and a signal produced at a terminal may differ, thus requiring translation.
+A line code will typically reflect technical requirements of the transmission medium, such as optical fiber or shielded twisted pair. These requirements are unique for each medium, because each one has different behavior related to interference, distortion, capacitance and loss of amplitude.
+Optical line codes:
+Carrier-Suppressed Return-to-Zero
+Alternate-Phase Return-to-Zero
+Three of Six, Fiber Optical (TS-FO)
+Channel coding
+Source coding
+Modulation
+Physical layer
+Self-synchronizing code and bit synchronization

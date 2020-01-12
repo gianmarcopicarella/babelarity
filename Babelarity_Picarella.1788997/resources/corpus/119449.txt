@@ -1,0 +1,35 @@
+Chang'e 1 (pronunciation: /tʃæŋˈʌ/; simplified Chinese: 嫦娥一号; traditional Chinese: 嫦娥一號; pinyin: Cháng'é yī hào) was an unmanned Chinese lunar-orbiting spacecraft, part of the first phase of the Chinese Lunar Exploration Program. The spacecraft was named after the Chinese Moon goddess, Chang'e.
+Chang'e 1 was launched on 24 October 2007 at 10:05:04 UTC from Xichang Satellite Launch Center. It left lunar transfer orbit on 31 October and entered lunar orbit on 5 November. The first picture of the Moon was relayed on 26 November 2007. On 12 November 2008, a map of the entire lunar surface was released, produced from data collected by Chang'e 1 between November 2007 and July 2008.
+The mission was scheduled to continue for a year, but was later extended and the spacecraft operated until 1 March 2009, when it was taken out of orbit. It impacted the surface of the Moon at 08:13 UTC. Data gathered by Chang'e 1 was able to create the most accurate and highest resolution 3-D map ever created of the lunar surface. Chang'e 1 is the first lunar probe to conduct passive, multi-channel, microwave remote sensing of the Moon by using a microwave radiator.
+Its sister orbital probe Chang'e 2 was launched on 1 October 2010.
+The Chang'e 1 mission had four major goals:
+Obtaining three-dimensional images of the landforms and geological structures of the lunar surface, so as to provide a reference for planned future soft landings. The orbit of Chang'e 1 around the Moon was designed to provide complete coverage, including areas near the north and south poles not covered by previous missions.
+Analysing and mapping the abundance and distribution of various chemical elements on the lunar surface as part of an evaluation of potentially useful resources on the Moon. China hopes to extend the number of elements studied to 14 (potassium (K), thorium (Th), uranium (U), oxygen (O), silicon (Si), magnesium (Mg), aluminium (Al), calcium (Ca), tellurium (Te), titanium (Ti), sodium (Na), manganese (Mn), chromium (Cr), and lanthanum (La)), compared with the 10 elements (K, U, Th, Fe (iron), Ti, O, Si, Al, Mg, and Ca) previously probed by NASA's Lunar Prospector.
+Probing the features of the lunar soil and assessing its depth, as well as the amount of helium-3 (³He) present.
+Probing the space environment between 40,000 km and 400,000 km from the Earth, recording data on the solar wind and studying the impact of solar activity on the Earth and the Moon.
+In addition, the lunar probe engineering system, composed of five major systems – the satellite system, the launch vehicle system, the launch site system, the monitoring and control system and the ground application system – accomplished five goals:
+Researching, developing and launching China's first lunar probe
+Mastering the basic technology of placing satellites in lunar orbit
+Conducting China's first scientific exploration of the Moon
+Initially forming a lunar probe space engineering system
+Accumulating experience for the later phases of China's lunar exploration program
+According to the schedule, detailed design of the first program milestone was completed by September 2004. Research and development of a prototype probe and relevant testing of the probe were finished before the end of 2005. Design, manufacture, general assembly, test and ground experiments of the lunar orbiter were finished before December 2006.
+Originally scheduled for April 2007, the launch was postponed until October as this was "a better time for sending a satellite into the Moon's orbit". Chang'e 1 was launched by a Long March 3A rocket at 10:05 GMT on October 24, 2007 from Xichang Satellite Launch Center in Sichuan Province.
+After liftoff, Chang'e 1 made three orbits around the Earth, a burn at perigee extending the orbit's apogee further each time, until a final translunar injection burn placed it on course for the Moon on October 31, 2007. Another burn placed it in a polar orbit around the Moon, with burns at the periselenium of the first three orbits decreasing the aposelenium until it entered a final circular orbit. Lunar orbit insertion was achieved on the November 5, 2007. To mark this occasion, the probe transmitted 30 classical Chinese songs and musical pieces, including "My Motherland", "The Song of the Yangtze River", and "High Mountains and Flowing Water".
+The probe was remotely controlled from stations at Qingdao and Kashgar, as the first use of the Chinese Deep Space Network. The ESA Maspalomas Tracking Station was also used to transmit signals to and from the probe.
+The first pictures of the Moon were relayed on November 26, 2007. The probe was designed to orbit the Moon for one year, but operations were later extended, and it remained in lunar orbit until March 1, 2009.
+On 1 March 2009, at 08:13:10 UTC, Chang'e 1 crashed onto the surface of the Moon, ending its mission. According to the State Administration of Science, Technology and Industry for National Defense (China), this was a planned and controlled impact. Impact point was 1.50°S 52.36°E﻿ / -1.50; 52.36. During its orbital mission the probe transmitted 1,400 gigabits or 175 gigabytes (GB) of data.
+The Chang'e 1 spacecraft had a mass of 2,350 kg, with a 130 kg payload, carrying 24 instruments including a Charge-coupled device (CCD) stereo camera, microprobe instruments, and a high-energy solar particle detector.
+Stereo camera with an optical resolution of 120 m and spectrometer imager operating at wavelengths of 0.48 µm to 0.96 µm.
+Laser altimeter with 1064 nm, 150 mJ laser, a range resolution of 1 m and a spot size of 300 m.
+Imaging spectrometer
+Gamma and X-ray spectrometer working in an energy range of 0.5 to 50 keV for X-rays and 300 keV to 9 MeV for gamma rays.
+Microwave radiometer detecting 3, 7.8, 19.35 and 37 GHz with a maximal penetration depth of 30, 20, 10, 1 m and a thermal resolution of 0.5 K.
+High energy particle detector and two solar wind detectors capable of the detection of electrons and heavy ions up to 730 MeV.
+Chang'e 1 created the most accurate and highest resolution 3-D map ever of the lunar surface, until it was surpassed by the LRO.
+Chang'e 1 conducted world's first passive, multi-channel, microwave remote sensing of the Moon.
+Chinese space program
+Chinese Lunar Exploration Program (CLEP)
+Exploration of the Moon
+List of future lunar missions
+Robotic exploration of the Moon

@@ -1,0 +1,40 @@
+The Kawasaki C-1 (川崎 C-1) is a twin-engined short-range military transport, used by the Japan Air Self-Defense Force (JASDF). Development began in 1966 as the JASDF sought to replace its aging World War II–era C-46 Commandos. Production commenced in 1971, and the aircraft remains in service.
+In 1966, the Japan Air Self-Defense Force transport fleet was composed primarily of Curtiss C-46 Commandos, a retired midwar American design built in large numbers before the end of World War II. While relatively capable for its time, the C-46 did not fare well in comparison to newer aircraft such as the Lockheed C-130 Hercules, and the JASDF therefore elected to replace it with a domestically-designed and -manufactured transport aircraft.
+For this purpose, they turned to the Nihon Aircraft Manufacturing Corporation, a consortium of several major corporations, which had begun to produce commercially its YS-11 airliner four years earlier. NAMC decided that Kawasaki Heavy Industries was to be the prime contractor, and the airplane thus bears that company's name. The aircraft has been used as military transport for the JASDF since its maiden flight in November 1970.
+Japanese policies at the time on military equipment were strict in that they were not to have offensive capabilities, and so the maximum range was cut in order to keep the aircraft's operational range inside Japan. This proved to be a problem after Okinawa was returned to Japan from the US, and the aircraft had trouble reaching the island from distant areas. Thus production was reduced and the C-130 was introduced.
+The Kawasaki C-1 has been in use since 1974 but will be replaced by the Kawasaki C-2, which has a longer range. The first of twenty C-2s is expected to be delivered in 2014.
+XC-1: Prototypes.
+C-1/C-1A: Medium-range military transport version.
+The last five C-1s ordered were fitted with an additional 4,730 litre fuel tank.
+EC-1: EW training aircraft.
+C-1FTB: Flight test bed used for testing various equipment.
+Asuka/QSTOL: Quiet STOL research aircraft, developed by the National Aerospace Laboratory.
+Powered by four FRJ710 turbofan engines and making use of the Coandă effect. It was built to research STOL using upper surface blowing, aircraft noise reduction, fly-by-wire systems and composite materials construction. The only example built is currently on display in Kakamigahara Museum in Gifu, Japan.
+Note: Three C-1s were allocated to the MSDF as airborne minelayers under the Fourth Defense Buildup Plan (1972–76). It is unknown what designation was given to them, or indeed whether they were ever actually delivered.
+ Japan
+Japan Air Self-Defense Force
+On 28 June 2000, a C-1 crashed into the sea on Japan's west coast during a test flight that was expected to take 90 minutes. The aircraft had five personnel on board.
+On 19 April 1983 2 C-1s crashed near Toba, Mie when the lead 2 airplanes of a formation of 5 en route from Komaki AB to Iruma AB flew into a hill while flying in low visibility at low altitude. A third airplane narrowly avoided also crashing and struck trees, but was able to return to Komaki AB. 14 personnel were killed in these 2 airplanes. 6 personnel were in airplane 68-1015 and 8 personnel were in airplane 58-1009.
+On 18 February 1986 1 C-1 (airplane 58-1010) suffered extensive damage in take off from Iruma AB and was declared a write-off. There were no personnel injured in this accident. 
+Data from Jane's All The World's Aircraft 1976–77 
+General characteristics
+Crew: Five (pilot, copilot, navigator, flight engineer, loadmaster)
+Capacity: 60 soldiers, 45 paratroopers, 36 patients with medics, or cargo
+Length: 29.00 m (95 ft 1¾ in)
+Wingspan: 30.60 m (100 ft 4¾ in)
+Height: 9.99 m (32 ft 9¼ in)
+Wing area: 120.5 m² (1,297 ft²)
+Empty weight: 23,320 kg (53,410 lb)
+Max. takeoff weight: 38,700 kg (85,320 lb)
+Powerplant: 2 × Mitsubishi-built Pratt & Whitney JT8D-M-9 turbofan, 64.5 kN (14500 lbf) each
+Performance
+Maximum speed: 806 km/h (435 knots, 501 mph) at 7,620 m (25,000 ft) at 35,450 kg (78,150 lb) AUW
+Cruise speed: 657 km/h (354 knots, 408 mph) at 10,670 m(35,000 ft) at 35,450 kg AUW
+Range: 1,300 km (700 nmi, 806 mi) (max payload)
+Service ceiling: 11,600 m (38,000 ft)
+Rate of climb: 17.8 m/s (3,500 ft/min)
+Aircraft of comparable role, configuration and era
+Kawasaki C-2
+Antonov An-72
+Related lists
+List of military aircraft of Japan

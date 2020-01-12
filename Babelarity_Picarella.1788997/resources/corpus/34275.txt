@@ -1,0 +1,82 @@
+The heterokonts or stramenopiles (formally, Heterokonta or Stramenopiles) are a major line of eukaryotes currently containing more than 25,000 known species. Most are algae, ranging from the giant multicellular kelp to the unicellular diatoms, which are a primary component of plankton. Other notable members of the Stramenopiles include the (generally parasitic) oomycetes, including Phytophthora of Irish potato famine infamy and Pythium which causes seed rot and damping off.
+The name "heterokont" also refers to the type of motile life cycle stage, in which the flagellate cells possess two differently shaped flagella (see zoospore).
+Many heterokont are algae with chloroplasts surrounded by four membranes, which are counted from the outermost to the innermost membrane. The first membrane is continuous with the host's chloroplast endoplasmic reticulum, or cER. The second membrane presents a barrier between the lumen of the endoplasmic reticulum and the primary endosymbiont or chloroplast, which represents the next two membranes, within which the thylakoid membranes are found. This arrangement of membranes suggest that heterokont chloroplasts were obtained from the reduction of a symbiotic red algal eukaryote, which had arisen by evolutionary divergence from the monophyletic primary endosymbiotic ancestor that is thought to have given rise to all eukaryotic photoautotrophs. The chloroplasts characteristically contain chlorophyll a and chlorophyll c, and usually the accessory pigment fucoxanthin, giving them a golden-brown or brownish-green color.
+Most basal heterokonts are colorless. This suggests that they diverged before the acquisition of chloroplasts within the group. However, fucoxanthin-containing chloroplasts are also found among the haptophytes. These two groups may have a common ancestry, and possibly also a common phylogenetic history with cryptomonads, being grouped by some authors in Chromista. This may be interpreted as suggesting that the ancestral heterokont was an alga, and all colorless groups arose through loss of the secondary endosymbiont and its chloroplast.
+Many heterokonts are unicellular flagellates, and most others produce flagellate cells at some point in their life-cycle, for instance as gametes or zoospores. The name heterokont refers to the characteristic form of these cells, which typically have two unequal flagella. The anterior straminipilous flagellum is covered with one or two rows of lateral bristles or mastigonemes, which are tripartite (with three regions each), while the posterior flagellum is whiplike, smooth, and usually shorter, or sometimes reduced to a basal body. The flagella are inserted subapically or laterally, and are usually supported by four microtubule roots in a distinctive pattern.
+Mastigonemes are manufactured from glycoproteins in the cell's endoplasmic reticulum before being transported to the anterior flagella's surface. When the straminipilous flagellum moves, the mastigonemes create a retrograde current, pulling the cell through the water or bringing in food. The mastigonemes have a peculiar tripartite structure, which may be taken as the defining characteristic of the heterokonts, thereby including a few protists that do not produce cells with the typical heterokont form. Mastigonemes have been lost in a few heterkont lines, most notably the diatoms.
+As noted above, classification varies considerably. Originally the heterokont algae were treated as two divisions, first within the kingdom Plantae and later the Protista:
+Division Chrysophyta
+Class Chrysophyceae (golden algae)
+Class Bacillariophyceae (diatoms)
+Division Phaeophyta (brown algae)
+In this scheme, however, the Chrysophyceae are paraphyletic to both other groups. As a result, various members have been given their own classes and often divisions. Recent systems often treat these as classes within a single division, called the Heterokontophyta, Chromophyta, or Ochrophyta. This is not universal, however: Round et al. treat the diatoms as a division.
+The discovery that oomycetes and hyphochytrids are related to these algae, rather than fungi, as previously thought, has led many authors to include these two groups among the heterokonts. Should it turn out that they evolved from colored ancestors, the heterokont group would be paraphyletic in their absence. Once again, however, usage varies. David J. Patterson named this extended group the stramenopiles, characterized by the presence of tripartite mastigonemes, mitochondria with tubular cristae, and open mitosis. He used the stramenopiles as a prototype for a classification without Linnaean rank. Their composition has been essentially stable, but their use within ranked systems varies.
+Thomas Cavalier-Smith treats the heterokonts as identical in composition with the stramenopiles; this is the definition followed here. He has proposed placing them in a separate kingdom Chromalveolata, together with the haptophytes, cryptomonads and alveolates. This is one of the most common revisions to the five-kingdom system, but has not been generally adopted, partly because some biologists doubt their monophyly. A few treat the Chromalveolata as identical in composition with the heterokonts, or list them as a kingdom Stramenopila.
+Some sources divide the heterokonts into the autotrophic Ochrophyta and heterotrophic Bigyra and Pseudofungi. However, some modifications to these classifications have been suggested.
+Heterokonta can be confused with the (much older) name Heterokontae, which is generally equivalent to the Xanthophyceae, a limited subset of Heterokonta.
+Some examples of classification of the heterokonts.
+Classification according to Cavalier-Smith & Chao, 2006:
+Heterokonta
+Phylum Ochrophyta
+Phaeista
+Limnista
+Eustigmatophyceae
+Chrysomonadea (= Chrysophyceae)
+Picophagea
+Marista
+Hypogyristia
+Hypogyristea
+Raphidoistia
+Raphidophyceae
+Fucistia
+Chrysomerophyceae
+Xanthophyceae
+Phaeophyceae
+Khakista
+Bolidophyceae
+Bacillariophyceae
+Phylum Pseudofungi
+Bigyromonadea
+Hyphochytrea
+Oomycetes
+Phylum Bigyra
+Opalozoa
+Nucleohelea
+Opalinata
+Proteromonadea
+Opalinea
+Blastocystea
+Bicoecia
+Bicoecea
+Sagenista
+Labyrinthulea
+Classification according to Adl et al., 2012:
+Eukaryota
+Sar
+Stramenopiles Patterson, 1989, emend. Adl et al., 2005
+Opalinata Wenyon, 1926, emend. Cavalier-Smith, 1997 (Slopalinida Patterson, 1985)
+Blastocystis Alexeev, 1911
+Bicosoecida Grassé, 1926, emend. Karpov, 1998
+Placidida Moriya et al., 2002
+Labyrinthulomycetes Dick, 2001
+Hyphochytriales Sparrow, 1960
+Peronosporomycetes Dick, 2001 (Öomycetes Winter, 1897, emend. Dick, 1976)
+Actinophryidae Claus 1874, emend. Hartmann 1926
+Bolidomonas Guillou & Chrétiennot-Dinet, 1999 (Bolidophyceae in Guillou et al., 1999)
+Chrysophyceae Pascher, 1914
+Dictyochophyceae Silva, 1980
+Eustigmatales Hibberd, 1981
+Pelagophyceae Andersen & Saunders, 1993
+Phaeothamniophyceae Andersen & Bailey, in Bailey et al., 1998
+Pinguiochrysidales Kawachi et al., 2003
+Raphidophyceae Chadefaud, 1950, emend. Silva, 1980
+Synurales Andersen, 1987
+Xanthophyceae Allorge, 1930, emend. Fritsch, 1935 (Heterokontae Luther, 1899, Heteromonadea Leedale, 1983, Xanthophyta Hibberd, 1990)
+Phaeophyceae Hansgirg, 1886 (not Kjellman, 1891, not Pfitzer, 1894)
+Schizocladia Henry et al., in Kawai et al., 2003 (Schizocladales Kawai et al., 2003) (M)
+Diatomea Dumortier, 1821 (= Bacillariophyta Haeckel, 1878)
+Alveolata
+Rhizaria
+Based on the following works of Ruggiero et al. 2015 & Silar 2016.
+The origin of the name stramenopile is explained by David (2002) and Adl et al. (2005):
+Regarding the spelling of stramenopile, it was originally spelled stramenopile. The Latin word for ‘‘straw’’ is straˉmiˇneˇus (the macron ˉ indicates long vowels, while the breve ˇ indicates short vowels), -a, -um, adj. [stramen], made of straw—thus, it should have been spelled straminopile or straminipile (these corrections are based on the fact that the genitive of stramen required for the correct formation of a compound is ‘‘straminis’’, and that the connective used since both parts are latin is ‘‘i’’). However, Patterson (1989) clearly stated that this is a common name (hence, lower case, not capitalized) and, as a common name, it can be spelled as Patterson chooses. If he had stipulated that the name was a formal name, governed by rules of nomenclature, then his spelling would have been an orthogonal mutation and one would simply correct the spelling in subsequent publications (e.g. Straminopiles). But, it was not Patterson’s desire to use the term in a formal sense. Thus, if we use it in a formal sense, it must be formally described (and in addition, in Latin, if it is to be used botanically). However, and here is the strange part of this, many people liked the name, but wanted it to be used formally. So they capitalized the ﬁrst letter, and made it Stramenopiles; others corrected the Latin spelling to Straminopiles.

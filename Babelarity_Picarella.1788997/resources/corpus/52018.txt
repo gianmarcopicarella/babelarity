@@ -1,0 +1,22 @@
+A barebone computer is a partially assembled platform or an unassembled kit of computer parts allowing more customization and lower costs than a retail computer system. They are available for desktop computer, notebook (see barebook) and server purposes, and in nearly any form factor. Manufacturers are also able to produce systems of a specialized or non-standard form factor, since the system is sold as a pre-built unit, with the motherboard and power supply already installed.
+Assembling a barebone computer by hand is usually less expensive than buying a pre-configured computer from a retailer, and may save time and labor compared with building a system from scratch. A typical barebone desktop system consists of a CPU, a computer case (or tower), with a pre-fitted motherboard and power supply. If not already provided, the purchaser of such a platform only has to equip it with a RAM, and optionally a hard drive (in some cases, an operating system is/can be installed to a lower cost flash drive instead). Additional input/output devices may be required depending on their needs. Sometimes, it is necessary to install an operating system if the one built into the motherboard is deemed insufficient (or not present at all). An audio adapter or network adapter may be added but this is less common as recent motherboards often already contain capable solutions.
+Peripherals, such as a keyboard, mouse and monitor, almost always must be acquired separately. Barebone systems sometimes include a graphics processor or RAM, but rarely any mass storage media (hard drives), operating system or other software. Sometimes PCs with everything a normal desktop PC has except Microsoft Windows operating systems are sold as a barebone computer, but may include free software such as Linux. Refurbished and used computers may also be repackaged as barebone computers, as many computers returned for refurbishing may have missing, broken, or obsolete parts such as hard drives and peripherals.
+Future upgradeability of a barebone system may be limited, especially the motherboard component, which may have less space for extra I/O devices and fewer memory and PCI card slots than desired. The motherboard may not be compatible with faster processors and memory than those originally purchased with the barebone system. Barebones may also have limit on the maximal processor thermal design power (TDP) and not be able to support CPUs that would otherwise fit into the socket.
+The following companies currently manufacture barebone computers:
+ASUSTeK Computer Inc.
+Biostar
+Gigabyte Technology Co. Ltd.
+Micro-Star International (MSI)
+Shuttle Inc.
+Systemax/Tiger Direct
+Supermicro (servers)
+ZOTAC.
+Intel
+This list is not absolute or exhaustive.
+Barebook
+Computer case
+Computer
+Small form factor
+Shuttle Inc.
+Supermicro (servers)
+Tyan (servers)

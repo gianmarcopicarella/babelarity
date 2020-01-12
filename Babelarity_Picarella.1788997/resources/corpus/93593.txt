@@ -1,0 +1,68 @@
+Archaeoceti ("ancient whales"), or Zeuglodontes in older literature, is a paraphyletic group of primitive cetaceans that lived from the Early Eocene to the late Oligocene (55 to 23 million years ago). Representing the earliest cetacean radiation, they include the initial amphibious stages in cetacean evolution and are thus the ancestors of both modern cetacean suborders, Mysticeti and Odontoceti. This initial diversification occurred in the shallow waters that separated India and Asia 53 to 45 mya, resulting in some 30 species adapted to a fully oceanic life; though both echolocation and filter-feeding evolved during a second radiation 36 to 35 mya.
+All archaeocetes from the Ypresian (56–47.8 mya) and most from the Lutetian (47.8–41.3 mya) are known exclusively from Indo-Pakistan, but Bartonian (41.3–38.0 mya) and Priabonian (38.0–33.9 mya) genera are known from across Earth, including North America, Egypt, New Zealand, and Europe. Although there is no consensus regarding the mode of locomotion cetaceans were capable of during the late Lutetian, they were very unlikely to be nearly as well-adapted to the open ocean as living cetaceans. They probably reached as far as North America along coastal waters: either around Africa and over to South America, or, more likely, over the Tethys Sea (between Eurasia and Africa) and along the coasts of Europe, Greenland, and North America.
+Some researchers are convinced, based on morphological similarities between archeocetes (stem cetaceans) and neocetes, that the two living suborders of cetacean (the crown cetaceans) emerged from within Archaeoceti and therefore consider Archaeoceti paraphyletic or a non-natural group. Uhen 2008 introduced the clade Pelagiceti to accommodate the fully marine basilosaurids. Other researchers argue, despite these morphological similarities, that no archaeocete fossil have been placed within Neoceti, and therefore that the radiation of extant whales can be described independently of Archaeoceti.
+First identified as cetaceans by West 1980, the Pakicetids, the most archaic of whales, had long slender legs, a long narrow tail, and could reach the size of a modern wolf. They have only been found in sediments from freshwater streams in north-western India and northern Pakistan and were probably waders rather than swimmers.
+Dozens of fossils are known, but only of skulls, teeth, and jaw fragments; no complete skeletons have been found. The dentition varied: the smallest species had teeth like modern fish eaters, and the largest were more like modern hyenas. The pakicetids may have been predators or carrion feeders. Neither the skull nor the dentition of pakicetids resemble those of modern whales, but the sigmoid process, involucrum, pachyostotic (compact) and rotated ossicles of their ears still reveal their cetacean nature.
+The next diverging family of whales, the Ambulocetids, were large, amphibious, and crocodile-like with large feet and a strong tail. Sediments indicate that they lived in coastal areas and their compact bones suggest that they were ambush rather than fast pursuit predators. Also known exclusively from Pakistan and India, the ambulocetids include the oldest known whale Himalayacetus, which is believed to be 53.5 million years old, some 4 million years older than the rest of its family.
+Of the less than ten fossils that have been described, one, Ambulocetus natans, is nearly complete and the main source of information concerning early cetacean evolution. The size of a male sea lion, it had a large head with a long snout and robust, strongly worn teeth. The lower jaw shows that Ambulocetus had an unusual soft tissue connecting the back of the jaw to the middle ear — a small equivalent to the large sound-receiving fat pad in modern odontocetes. Its eyes were placed dorsally on the head, but were facing laterally. The musculature of the head, neck, and back was strong and the fluke-less tail was long. The hindlimbs were short, but equipped with long feet. The forelimbs were also short and equipped with five short hooves. Ambulocetus probably swam with its hindfeet like a modern otter, but moved slowly on land. It probably was an ambush hunter like modern crocodiles.
+The Remingtonocetids had short limbs, and a strong and powerful tail with flattened vertebrae. Their long snout, tiny eyes, and ear morphology suggest their vision was poor and that hearing was their dominant sense. They too have only been found in Pakistan and India, and sediments suggest that they lived in turbid waters in coastal areas. Though they were probably able to live on land, they apparently used their tails to swim.
+Dozens of fossils have been described, but most are only skulls and lower jaws with few dental and postcranial remains. Remingtonocetids probably varied in size with the smallest species matching Pakicetus and the largest Ambulocetus. Remingtonocetids had longer snouts than other archaeocetes, but except that the cranial morphology also varied considerably, probably reflecting different diets. The eyes were small, but the ears were large and set far apart — probably reflecting an increased emphasis on underwater hearing. The fragmentary remains of Remintonocetid postcrania suggest that they had a long neck and large hindlimbs that were probably able to support the body weight on land.
+The remaining families and later crown cetaceans form a clade united by six synapomorphies: the anterior margin of external nares are located above or behind the third upper incisor, the rostrum is wide, the supraorbital processes are present but short, the anterior edge of the orbit is located above the second or third upper molar, the postorbital process forms a 90° angle with the sagittal crest, and the cervical vertebrae are short.
+The Protocetids, known from both Africa and America, were a diversified family with hind limbs and a strong tail, indicating that they were strong swimmers that colonized shallow and warm oceans, such as reefs. They greatly affected cetacean evolution 47 to 41 million years ago, because they spread across Earth's oceans. They had long snouts, large eyes, and a nasal opening located farther up the head than in earlier archaecetes — suggesting they could breathe with the head held horizontally, similar to modern cetaceans — a first step towards a blowhole. Their dentition varied, but started to evolve towards the non-masticating teeth of modern cetaceans, and they were probably active hunters. Their hindlimbs were reduced and probably short. In some species, the pelvis was not connected to the vertebral column, suggesting the hindlimbs could not have supported the body weight.
+Basilosaurids, which had tiny hindlimbs and flipper-shaped forelimbs, were obligatory aquatic and came to dominate the oceans. They still lacked the echolocation and baleen tooth of modern odontocetes and mysticeti. Basilosaurids and dorudontids are the oldest obligate aquatic cetaceans for which the entire skeleton is known. They display a number of aquatic adaptations not present in earlier archaeocetes: In the vertebral column, the neck vertebrae are short, the thoracic and lumbar vertebrae of similar length, the sacral vertebrae are unfused, the sacroiliac joints are absent, and the short tail has a ball vertebra (indicating the presence of a fluke). The scapulae are broad and fan-shaped with anterior acromions and small supraspinous fossae. The ulnae are large and have transversely flat olecranons, the wrists and distal forearms are flattened in the plane of the hands, and the hind limbs are tiny.
+Archaeoceti includes five well-established families: The status of Kekenodontidae is still disputed, and the family is placed in either Archaeoceti, Mysticeti, or even Delphinoidea.
+Cetartiodactyla
+Archaeoceti
+Pakicetidae (Thewissen, Madar & Hussain 1996)
+Pakicetus (Gingerich & Russell 1981)
+Nalacetus (Thewissen & Hussain 1998)
+Ichthyolestes (Dehm & Oettingen-Spielberg 1958)
+Ambulocetidae (Thewissen, Madar & Hussain 1996)
+Ambulocetus (Thewissen, Madar & Hussain 1996)
+Gandakasia (Dehm & Oettingen-Spielberg 1958)
+Himalayacetus (Bajpai & Gingerich 1998)
+Remingtonocetidae (Kumar & Sahni 1986)
+Andrewsiphius (Sahni & Mishra 1975)
+Attockicetus (Thewissen & Hussain 2000)
+Dalanistes (Gingerich, Arif & Clyde 1995)
+Kutchicetus (Bajpai & Thewissen 2000)
+Remingtonocetus (Kumar & Sahni 1986)
+Protocetidae (Stromer 1908)
+Georgiacetinae (Gingerich et al. 2005)
+Babiacetus (Trivedy & Satsangi 1984)
+Carolinacetus (Geisler, Sanders & Luo 2005)
+Eocetus (Fraas 1904)
+Georgiacetus (Hulbert, Jr et al. 1998)
+Natchitochia (Uhen 1998)
+Pappocetus (Andrews 1920)
+Makaracetinae (Gingerich et al. 2005)
+Makaracetus (Gingerich et al. 2005)
+Protocetinae (Gingerich et al. 2005)
+Aegyptocetus (Bianucci & Gingerich 2011)
+Artiocetus (Gingerich et al. 2001)
+Crenatocetus (McLeod & Barnes 2008)
+Gaviacetus (Gingerich, Arif & Clyde 1995)
+Indocetus (Sahni & Mishra 1975)
+Maiacetus (Gingerich et al. 2009)
+Protocetus (Fraas 1904)
+Qaisracetus (Gingerich et al. 2001)
+Rodhocetus (Gingerich et al. 1994)
+Takracetus (Gingerich, Arif & Clyde 1995)
+Togocetus (Gingerich & Cappetta 2014)
+Basilosauridae
+Basilotritus (Goldin & Zvonok 2013)
+Basilosaurus (Harlan 1834)
+Basiloterus (Gingerich et al. 1997)
+Ancalecetus (Gingerich & Uhen 1996)
+Chrysocetus (Uhen & Gingerich 2001)
+Cynthiacetus (Uhen 2005)
+Dorudon (Gibbes 1845)
+Masracetus (Gingerich 2007)
+Ocucajea (Uhen et al. 2011)
+Saghacetus (Gingerich 1992)
+Stromerius (Gingerich 2007)
+Supayacetus (Uhen et al. 2011)
+Zygorhiza (True 1908)
+Kekenodontidae
+Kekenodon (Hector 1881)
+Phococetus (Gervais 1876)

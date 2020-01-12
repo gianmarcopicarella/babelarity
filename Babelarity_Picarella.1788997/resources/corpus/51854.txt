@@ -1,0 +1,16 @@
+Syllable Desktop is a free and open source operating system for Pentium and compatible processors. Its purpose is to create an easy-to-use desktop operating system for the home and small office user. It was forked from the stagnant AtheOS in July 2002.
+It has a native web browser (Webster which is WebKit-based), email client (Whisper), media player, IDE, and many more applications.
+Features according to the official website include:
+Native 64-bit journaled file system, the AtheOS File System (usually abbreviated to AFS in this context; not to be confused with the Andrew File System which shares the same abbreviation)
+C++ oriented API
+Object-oriented graphical desktop environment on a native GUI architecture
+Mostly POSIX compliant
+Software ports, including Vim, Perl, Python, Apache, others.
+GNU toolchain (GCC, Glibc, Binutils, Make)
+Preemptive multitasking with multithreading
+Symmetric multiprocessing (multiple processor) support
+Device drivers for most common hardware (video, sound, network chips)
+File system drivers for FAT (read/write), NTFS (read) and ext2 (read)
+Rebol as system scripting language
+Another version of Syllable OS is the Syllable Server, which is based on Linux core.
+Haiku (operating system)

@@ -1,0 +1,13 @@
+A W Ursae Majoris variable, also known as a low mass contact binary, is a type of eclipsing binary variable star. These stars are close binaries of spectral types F, G, or K that share a common envelope of material and are thus in contact with one another. They are termed contact binaries because the two stars touch and transfer mass and energy through the connecting neck, although astronomer R.E. Wilson argues that the term "overcontact" is more appropriate.
+The class is divided into two subclasses: A-type and W-type A-type W UMa binaries are composed of two stars both hotter than the Sun, having spectral types A or F, and periods of 0.4 to 0.8 day. The W-types have cooler spectral types of G or K and shorter periods of 0.22 to 0.4 day. The difference between the surface temperatures of the components is less than several hundred kelvins. A new subclass was introduced in 1978: B-type. The B-types have larger surface temperature difference. In 2004 the H (high mass ratio) systems were discovered by Sz. Csizmadia and P. Klagyivik. The H-types have a higher mass ratio than 
+        q
+        =
+        0.72
+    {\displaystyle q=0.72}
+   (
+        q
+    {\displaystyle q}
+   = (secondary's mass)/(primary's mass)) and they have extra angular momentum.
+These stars were first shown to follow a period-color relation (shorter period systems are redder) by Olin J. Eggen. In 2012, Terrell, Gross and Cooney published a color-survey of 606 W UMa systems in the Johnson-Cousins photometric system.
+Their light curves differ from those of classical eclipsing binaries, undergoing a constant ellipsoidal variation rather than discrete eclipses. This is because the stars are gravitationally distorted by one another, and thus the projected area of the stars is constantly changing. The depths of the brightness minima are usually equal because both stars have nearly equal surface temperatures.
+W Ursae Majoris is the prototype of this class.

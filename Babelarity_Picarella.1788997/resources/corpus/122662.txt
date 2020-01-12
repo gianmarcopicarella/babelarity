@@ -1,0 +1,92 @@
+Fijian (Na Vosa Vakaviti) is an Austronesian language of the Malayo-Polynesian family spoken in Fiji. It has 450,000 first-language speakers, which is more than half the population of Fiji, but another 200,000 speak it as a second language. The 1997 Constitution established Fijian as an official language of Fiji, along with English and Hindustani, and there is discussion about establishing it as the "national language", though English and Hindustani would remain official. Fijian is a VOS language.
+Standard Fijian is based on the language of Bau, which is an East Fijian language.
+The consonant phonemes of Fijian are as shown in the following table:
+The consonant written 〈nr〉 has been described as a prenasalized trill [nr] or trilled fricative [ndr]. However, it is only rarely pronounced with a trilled release; the primary feature distinguishing it from 〈nd〉 is that it is postalveolar, [ɳɖ], rather than dental/alveolar.
+The sounds [p] and [f] occur only in loanwords from other languages. The sounds [x] and [h] only occur for speakers from certain regions of the country.
+Note the asymmetry between the fricative pairs: bilabial [β] vs. labiodental [f], and dental [ð] vs. alveolar [s].
+The vowel phonemes are:
+In addition, there is the rising diphthong i̯u.
+Syllables can consist of a consonant followed by a vowel (CV) or a single vowel (V). Word stress is based on moras: a short vowel is one mora, diphthongs and long vowels are two morae. Primary stress is on the penultimate mora of the phonological word. That is, if the last syllable of a word is short, then the penultimate syllable will be stressed, while if the last syllable contains either a long vowel or a diphthong, then it receives primary stress. Stress is not lexical and can shift when suffixes are attached to the root. Examples:
+Stress on the penultimate syllable (final short vowel): síga, "day";
+Stress on the final syllable (diphthong): cauravóu, "youth" (the stress extends over the whole diphthong).
+Stress shift: rábe, "kick" → rabé-ta, "kick-TR"
+The Fijian alphabet is based on the Latin script and consists of the following letters.
+A B C D E F G H I J K L M N O P Q R S T U V W Y Z
+a b c d e f g h i j k l m n o p q r s t u v w y z
+Among the consonants, there is almost a one-to-one correspondence between letters and phonemes:
+Note that for phonological reasons ti and di are pronounced [tʃi], [ndʒi] rather than [ti], [ndi] (cf. Japanese chi kana). Hence, the Fijian name for Fiji, Viti, from an allophonic pronunciation of [βitʃi] as [ɸidʒi].
+In addition, the digraph dr stands for postalveolar [n̠d̠], or a prenasalized trill [n̠ᵈ̠r̠] in careful pronunciation, or more commonly for some people and in some dialects.
+The vowel letters a e i o u have roughly their IPA values, [a ɛ~e i ɔ~o u]. The vowel length contrast is not usually indicated in writing, except in dictionaries and textbooks for learners of the language, where it is indicated by a macron over the vowel in question; Dixon, in the work cited below, doubles all long vowels in his spelling system. Diphthongs are ai au ei eu oi ou and iu, pronounced [ɛi̯ ɔu̯ ei̯ eu̯ oi̯ ou̯ i̯u].
+The pronominal system of Fijian is remarkably rich. Like many other languages, it recognises three persons; first person (speaker), second person (addressee), and third person (all other). In the third person, Fijian makes no distinction between human, non-human, animate, or inanimate. Four numbers are represented; singular, dual, paucal, and plural. Like many Oceanic languages, Fijian pronouns are marked for number and clusivity.
+Each pronoun can have five forms, though some person-number combinations may have the same form for more than one function as can be seen in the table above.
+The forms are:
+Cardinal - used when a pronoun occurs as the head of a NP. A cardinal pronoun is usually preceded by the proper article 'o', except when preceded by a preposition:
+Subject - the first constituent of a predicate, acts as person marking. Examples of these can be seen in examples (1) and (2) above: 'era' and 'au', and (3) below: 'o'
+Object - follows the -i-final form of a transitive verb:
+Possessive suffix - attaches to inalienable nouns, and
+Possessive - precedes the NP head of the 'possessed' constituent in a possessive construction.
+(For more information on the form and function of these possessive pronouns, see Possession.)
+The major clausal structure in Fijian minimally includes a predicate, which usually (but not always) has a verb at its head. The initial element in the predicate is the subject form pronoun:
+This 'subject marker + verb' predicate construction is obligatory, every other constituent is optional. The subject may be expanded upon by a NP following the predicate:
+The subject pronoun constituent of a predicate acts mainly as a person marker. Fijian is a VOS language, and while we may translate the subject pronoun as its equivalent in English, the subject NP of a clause in Fijian follows the verb and object when included.
+The social use of pronouns is largely driven by respect and hierarchy. Each of the non-singular second person pronouns can be used for a singular addressee. For example, when addressing ones actual or potential in-laws, the 2DU pronoun should be used. Similarly, when addressing a brother or sister of the opposite sex, speakers should use the 2PA pronoun; this can also be used for same sex siblings when the speaker wishes to show respect. The 2PL pronoun can be used to show respect to elders, particularly the village chief.
+Possession is a grammatical term for a special relationship between two entities – a "possessor" and a "possessed". The relationship may be one of legal ownership but in Fijian, in common with many other Austronesian languages, it is often much broader, encompassing kin relations, body parts, parts of an inanimate whole, as well as personal qualities and concepts such as control, association and belonging.
+Fijian has a complex system of possessive constructions, depending on the nature of the possessor and of the possessed. Choosing the appropriate structure depends on knowing whether the possessor is described by: a person or place name; a pronoun; or a common noun - with human or non-human animate, or inanimate reference - and also on whether the possessed is a free noun or a bound noun.
+Only an animate noun may be a possessor in the true possessive constructions shown below, with possession marked on the possessed NP in a number of ways. For personal and place name possessors, the possessive construction can be made by affixing the possessive suffix –i to the possessed noun, bound or free. Where the possessor is a pronoun, the possessed noun must be marked by one of the pronominal markers which specify person, number and inclusivity / exclusivity (see table). If the possessor is inanimate, it is usual for the possessive particle ni to be placed between the possessed NP and the possessor NP. The particle ni here indicates association rather than formal possession but this construction is still regarded as a possessive construction.
+Free nouns are those which can stand alone without needing any affix and most nouns in Fijian fall into this class. Bound nouns require a suffix to complete them and are written ending in a hyphen to indicate this requirement. Tama- (father) and tina- (mother) are examples of bound nouns. The classes of free and bound nouns roughly correspond with the concept, common in Austronesian languages, of alienable and inalienable possession respectively. Alienable possession denotes a relationship in which the thing possessed is not culturally considered an inherent part of the possessor while inalienable possession indicates a relationship where the possessed is regarded as an intrinsic part of the possessor. Body parts and kin relations are typical examples of inalienable possession. Inanimate objects are typical examples of alienable possession.
+The alienable nature of free nouns is further marked by prefixes indicating certain other characteristics. These markers are known as classifiers and some common examples are me- when the possessed noun is something drinkable, ke- (or ‘e) when the noun is something which can be eaten, and we- when the referent of the possessed noun is personal property.
+The word order of a possessive construction for all except inanimate possessors is: Possessed NP-Classifier(CLF).Possessive marker (POSS) + Possessor NP.
+For an inanimate Possessor, the word order is: Possessed NP + ni + Possessor NP
+Note that there is some degree of flexibility in the use of possessive constructions as described in this table.
+(1)
+a liga-i Paula
+ART Hand-POSS Paula
+Paula’s hand
+(2)
+a waqona me-i Paula
+ART kava CLF.DRINK-POSS Paula
+Paula’s kava
+(3a)
+a tama-mudrau
+ART father PRON.SUFF.2DUAL
+The father of you two
+(3b) a liga-qu
+ART hand – PRON.SUFF.1SG
+My hand
+(4a)
+a me-na ti
+ART CLF.DRINK-POSS.PRON.3SG tea
+His / her tea
+(4b)
+a ‘e-mu uvi
+ART CLF.EAT-POSS-PRON.2SG yam
+Your (SG) yam (for eating).
+(5)
+a liga-na
+ART Hand- PRON.3SG
+His / her hand
+(6)
+a we-irau waqa o yau ei Jone
+ART CLF.PROPERTY-POSS.PRON.1DUAL boat I and John
+John’s and my boat (thing owned).
+(7)
+na yaca ni waqa
+ART name POSS.PART boat
+The name of the boat (The name associated with the boat)
+(8)
+a vale ni kana
+ART house POSS.PART eat
+A house of eating (A house associated with eating)
+A restaurant
+The normal Fijian word order is VOS (verb–object–subject):
+E rai-c-a (1) na no-na (2) vale (3) na gone (4).
+3-sg.-sub. see-trans.-3-sg.-obj. (1) the 3-sg.-poss. (2) house (3) the child (4).
+(The child sees his house.)
+In May and June 2005, a number of prominent Fiji Islanders called for the status of Fijian to be upgraded. It was not an official language before the adoption of the 1997 Constitution, which made it co-official with English and Hindustani. It is still not a compulsory subject in schools, however; the present Education Minister, Ro Teimumu Kepa, has endorsed calls for it to be made so, as has Great Council of Chiefs Chairman Ratu Ovini Bokini. Similar calls came from Misiwini Qereqeretabua, the Director of the Institute of Fijian Language and Culture, and from Apolonia Tamata, a linguistics lecturer at Suva’s University of the South Pacific, who both said that recognition of the Fijian language is essential to the nation’s basic identity, as a unifying factor in Fiji’s multicultural society.
+Fiji Labour Party leader Mahendra Chaudhry also endorsed the call for Fijian to be made a national language and a compulsory school subject, provided that the same status be given to Fiji Hindi—a position echoed by Krishna Vilas of the National Reconciliation Committee.
+East Fijian languages
+Languages of Fiji
+West Fijian languages
+Dixon, R. M. W. (1988). A Grammar of Boumaa Fijian. Chicago: University of Chicago Press. ISBN 0-226-15428-9. 
+Dryer, Matthew S. & Haspelmath, Martin (eds.) 2013. The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wals.info, Accessed on 2015-05-04.)
+Schütz, Albert J. (1985). The Fijian Language. Honolulu: University of Hawaii Press. ISBN 0-8248-1005-8. 

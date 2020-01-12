@@ -1,0 +1,36 @@
+A logarithmic scale is a nonlinear scale used when there is a large range of quantities. Common uses include the earthquake strength, sound loudness, light intensity, and pH of solutions.
+It is based on orders of magnitude, rather than a standard linear scale, so each mark on the scale is the previous mark multiplied by a value.
+The following are examples of commonly used logarithmic scales, where a larger quantity results in a higher value:
+Richter magnitude scale and moment magnitude scale (MMS) for strength of earthquakes and movement in the earth.
+bel and decibel and neper for acoustic power (loudness) and electric power;
+cent, minor second, major second, and octave for the relative pitch of notes in music;
+logit for odds in statistics;
+Palermo Technical Impact Hazard Scale;
+logarithmic timeline;
+counting f-stops for ratios of photographic exposure;
+rating low probabilities by the number of 'nines' in the decimal expansion of the probability of their not happening: for example, a system which will fail with a probability of 10−5 is 99.999% reliable: "five nines".
+entropy in thermodynamics.
+information in information theory.
+particle-size-distribution curves of soil
+Energy Density of Uranium VS Fossil Fuels
+The following are examples of commonly used logarithmic scales, where a larger quantity results in a lower (or negative) value:
+pH for acidity;
+stellar magnitude scale for brightness of stars;
+Krumbein scale for particle size in geology.
+absorbance of light by transparent samples.
+Some of our senses operate in a logarithmic fashion (Weber–Fechner law), which makes logarithmic scales for these input quantities especially appropriate. In particular our sense of hearing perceives equal ratios of frequencies as equal differences in pitch. In addition, studies of young children in an isolated tribe have shown logarithmic scales to be the most natural display of numbers by humans.
+The top left graph is linear in the X and Y axis, and the Y-axis ranges from 0 to 10. A base-10 log scale is used for the Y axis of the bottom left graph, therefore the Y axis ranges from 0 to 1,000.
+The top right graph uses a log-10 scale for just the X axis, and the bottom right graph uses a log-10 scale for both the X axis and the Y axis.
+Presentation of data on a logarithmic scale can be helpful when the data
+Covers a large range of values, since the use of the logarithms of the values rather than the actual values reduces a wide range to a more manageable size
+May contain exponential laws or power laws, since these will show up as straight lines
+A slide rule has logarithmic scales, and nomograms often employ logarithmic scales. The geometric mean of two numbers is midway between the numbers. Before the advent of computer graphics, logarithmic graph paper was a commonly used scientific tool.
+If both the vertical and horizontal axes of a plot are scaled logarithmically, the plot is referred to as a log–log plot.
+If only the ordinate or abscissa is scaled logarithmically, the plot is referred to as a semi logarithmic plot.
+Bit
+Byte
+Decade
+Level (logarithmic quantity)
+Logarithm
+Logarithmic mean
+Preferred number

@@ -1,0 +1,54 @@
+In geometry, the tesseract is the four-dimensional analog of the cube; the tesseract is to the cube as the cube is to the square. Just as the surface of the cube consists of six square faces, the hypersurface of the tesseract consists of eight cubical cells. The tesseract is one of the six convex regular 4-polytopes.
+The tesseract is also called an 8-cell, C8, (regular) octachoron, octahedroid, cubic prism, and tetracube (although this last term can also mean a polycube made of four cubes). It is the four-dimensional hypercube, or 4-cube as a part of the dimensional family of hypercubes or "measure polytopes".
+According to the Oxford English Dictionary, the word tesseract was coined and first used in 1888 by Charles Howard Hinton in his book A New Era of Thought, from the Greek τέσσερεις ακτίνες (téssereis aktines, "four rays"), referring to the four lines from each vertex to other vertices. In this publication, as well as some of Hinton's later work, the word was occasionally spelled "tessaract".
+The tesseract can be constructed in a number of ways. As a regular polytope with three cubes folded together around every edge, it has Schläfli symbol {4,3,3} with hyperoctahedral symmetry of order 384. Constructed as a 4D hyperprism made of two parallel cubes, it can be named as a composite Schläfli symbol {4,3} × { }, with symmetry order 96. As a 4-4 duoprism, a Cartesian product of two squares, it can be named by a composite Schläfli symbol {4}×{4}, with symmetry order 64. As an orthotope it can be represented by composite Schläfli symbol { } × { } × { } × { } or { }4, with symmetry order 16.
+Since each vertex of a tesseract is adjacent to four edges, the vertex figure of the tesseract is a regular tetrahedron. The dual polytope of the tesseract is called the hexadecachoron, or 16-cell, with Schläfli symbol {3,3,4}.
+The standard tesseract in Euclidean 4-space is given as the convex hull of the points (±1, ±1, ±1, ±1). That is, it consists of the points:
+        {
+        (
+          x
+            1
+        ,
+          x
+            2
+        ,
+          x
+            3
+        ,
+          x
+            4
+        )
+        ∈
+            R
+            4
+        :
+        −
+        1
+        ≤
+          x
+            i
+        ≤
+        1
+        }
+    {\displaystyle \{(x_{1},x_{2},x_{3},x_{4})\in \mathbb {R} ^{4}\,:\,-1\leq x_{i}\leq 1\}}
+A tesseract is bounded by eight hyperplanes (xi = ±1). Each pair of non-parallel hyperplanes intersects to form 24 square faces in a tesseract. Three cubes and three squares intersect at each edge. There are four cubes, six squares, and four edges meeting at every vertex. All in all, it consists of 8 cubes, 24 squares, 32 edges, and 16 vertices.
+The construction of a hypercube can be imagined the following way:
+1-dimensional: Two points A and B can be connected to a line, giving a new line segment AB.
+2-dimensional: Two parallel line segments AB and CD can be connected to become a square, with the corners marked as ABCD.
+3-dimensional: Two parallel squares ABCD and EFGH can be connected to become a cube, with the corners marked as ABCDEFGH.
+4-dimensional: Two parallel cubes ABCDEFGH and IJKLMNOP can be connected to become a hypercube, with the corners marked as ABCDEFGHIJKLMNOP.
+It is possible to project tesseracts into three- or two-dimensional spaces, as projecting a cube is possible on a two-dimensional space.
+Projections on the 2D-plane become more instructive by rearranging the positions of the projected vertices. In this fashion, one can obtain pictures that no longer reflect the spatial relationships within the tesseract, but which illustrate the connection structure of the vertices, such as in the following examples:
+A tesseract is in principle obtained by combining two cubes. The scheme is similar to the construction of a cube from two squares: juxtapose two copies of the lower-dimensional cube and connect the corresponding vertices. Each edge of a tesseract is of the same length. This view is of interest when using tesseracts as the basis for a network topology to link multiple processors in parallel computing: the distance between two nodes is at most 4 and there are many different paths to allow weight balancing.
+The regular complex polytope 4{4}2, , in 
+            C
+            2
+    {\displaystyle \mathbb {C} ^{2}}
+   has a real representation as a tesseract or 4-4 duoprism in 4-dimensional space. 4{4}2 has 16 vertices, and 8 4-edges. This stereographic projection shows red and blue 4-edge squares. Its symmetry is 4[4]2, order 32. It also has a lower symmetry construction, , or 4{}×4{}, with symmetry 4[2]4, order 16. This is the symmetry if the red and blue 4-edges are considered distinct.
+The tesseract, along with all hypercubes, tessellates Euclidean space. The self-dual tesseractic honeycomb consisting of 4 tesseracts around each face has Schläfli symbol {4,3,3,4}. Hence, the tesseract has a dihedral angle of 90°.
+As a uniform duoprism, the tesseract exists in a sequence of uniform duoprisms: {p}×{4}.
+The regular tesseract, along with the 16-cell, exists in a set of 15 uniform 4-polytopes with the same symmetry. The tesseract {4,3,3} exists in a sequence of regular 4-polytopes and honeycombs, {p,3,3} with tetrahedral vertex figures, {3,3}. The tesseract is also in a sequence of regular 4-polytope and honeycombs, {4,3,p} with cubic cells.
+Since their discovery, four-dimensional hypercubes have been a popular theme in art, architecture, and fiction. Notable examples include:
+Crucifixion (Corpus Hypercubus) – Oil painting by Salvador Dalí featuring a four-dimensional hypercube unfolded into a three-dimensional Latin cross
+The Grande Arche – A monument and building near Paris, France said to resemble the projection of a hypercube
+"And He Built a Crooked House" – A science fiction story featuring a building in the form of a four-dimensional hypercube written by Robert Heinlein (1940)

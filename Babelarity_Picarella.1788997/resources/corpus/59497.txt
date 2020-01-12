@@ -1,0 +1,515 @@
+In a paramagnetic material the magnetization of the material is (approximately) directly proportional to an applied magnetic field. However, if the material is heated, this proportionality is reduced: for a fixed value of the field, the magnetization is (approximately) inversely proportional to temperature. This fact is encapsulated by Curie's law:
+          M
+        =
+        C
+        ⋅
+              B
+            T
+        ,
+    {\displaystyle \mathbf {M} =C\cdot {\frac {\mathbf {B} }{T}},}
+where
+          M
+    {\displaystyle \mathbf {M} }
+   is the resulting magnetisation
+          B
+    {\displaystyle \mathbf {B} }
+   is the magnetic field, measured in teslas
+        T
+    {\displaystyle T}
+   is absolute temperature, measured in kelvins
+        C
+    {\displaystyle C}
+   is a material-specific Curie constant.
+This relation was discovered experimentally (by fitting the results to a correctly guessed model) by Pierre Curie. It only holds for high temperatures, or weak magnetic fields. As the derivations below show, the magnetization saturates in the opposite limit of low temperatures, or strong fields.
+A simple model of a paramagnet concentrates on the particles which compose it which do not interact with each other. Each particle has a magnetic moment given by 
+              μ
+              →
+    {\displaystyle {\vec {\mu }}}
+  . The energy of a magnetic moment in a magnetic field is given by
+        E
+        =
+        −
+              μ
+              →
+        ⋅
+              B
+              →
+        .
+    {\displaystyle E=-{\vec {\mu }}\cdot {\vec {B}}.}
+To simplify the calculation, we are going to work with a 2-state particle: it may either align its magnetic moment with the magnetic field, or against it. So the only possible values of magnetic moment are then 
+        μ
+    {\displaystyle \mu }
+   and 
+        −
+        μ
+    {\displaystyle -\mu }
+  . If so, then such a particle has only two possible energies
+          E
+            0
+        =
+        −
+        μ
+        B
+    {\displaystyle E_{0}=-\mu B}
+and
+          E
+            1
+        =
+        μ
+        B
+        .
+    {\displaystyle E_{1}=\mu B.}
+When one seeks the magnetization of a paramagnet, one is interested in the likelihood of a particle to align itself with the field. In other words, one seeks the expectation value of the magnetization 
+        μ
+    {\displaystyle \mu }
+  :
+          ⟨
+          μ
+          ⟩
+        =
+        μ
+        P
+          (
+          μ
+          )
+        +
+        (
+        −
+        μ
+        )
+        P
+          (
+          −
+          μ
+          )
+        =
+            1
+            Z
+          (
+          μ
+            e
+              μ
+              B
+              β
+          −
+          μ
+            e
+              −
+              μ
+              B
+              β
+          )
+        =
+              2
+              μ
+            Z
+        sinh
+        ⁡
+        (
+        μ
+        B
+        β
+        )
+        ,
+    {\displaystyle \left\langle \mu \right\rangle =\mu P\left(\mu \right)+(-\mu )P\left(-\mu \right)={1 \over Z}\left(\mu e^{\mu B\beta }-\mu e^{-\mu B\beta }\right)={2\mu  \over Z}\sinh(\mu B\beta ),}
+where the probability of a configuration is given by its Boltzmann factor, and the partition function 
+        Z
+    {\displaystyle Z}
+   provides the necessary normalization for probabilities (so that the sum of all of them is unity.) The partition function of one particle is:
+        Z
+        =
+          ∑
+            n
+            =
+            0
+            ,
+            1
+          e
+            −
+              E
+                n
+            β
+        =
+          e
+            μ
+            B
+            β
+        +
+          e
+            −
+            μ
+            B
+            β
+        =
+        2
+        cosh
+        ⁡
+          (
+          μ
+          B
+          β
+          )
+        .
+    {\displaystyle Z=\sum _{n=0,1}e^{-E_{n}\beta }=e^{\mu B\beta }+e^{-\mu B\beta }=2\cosh \left(\mu B\beta \right).}
+Therefore, in this simple case we have:
+          ⟨
+          μ
+          ⟩
+        =
+        μ
+        tanh
+        ⁡
+          (
+          μ
+          B
+          β
+          )
+        .
+    {\displaystyle \left\langle \mu \right\rangle =\mu \tanh \left(\mu B\beta \right).}
+This is magnetization of one particle, the total magnetization of the solid is given by
+        M
+        =
+        N
+          ⟨
+          μ
+          ⟩
+        =
+        N
+        μ
+        tanh
+        ⁡
+          (
+                μ
+                B
+                k
+                T
+          )
+    {\displaystyle M=N\left\langle \mu \right\rangle =N\mu \tanh \left({\mu B \over kT}\right)}
+The formula above is known as the Langevin paramagnetic equation. Pierre Curie found an approximation to this law which applies to the relatively high temperatures and low magnetic fields used in his experiments. Let's see what happens to the magnetization as we specialize it to large 
+        T
+    {\displaystyle T}
+   and small 
+        B
+    {\displaystyle B}
+  . As temperature increases and magnetic field decreases, the argument of hyperbolic tangent decreases. Another way to say this is
+          (
+                μ
+                B
+                k
+                T
+          )
+        ≪
+        1
+    {\displaystyle \left({\mu B \over kT}\right)\ll 1}
+this is sometimes called the Curie regime. We also know that if 
+          |
+        x
+          |
+        ≪
+        1
+    {\displaystyle |x|\ll 1}
+  , then
+        tanh
+        ⁡
+        x
+        ≈
+        x
+    {\displaystyle \tanh x\approx x}
+so
+          M
+        (
+        T
+        →
+        ∞
+        )
+        =
+              N
+                μ
+                  2
+            k
+              B
+            T
+        ,
+    {\displaystyle \mathbf {M} (T\rightarrow \infty )={N\mu ^{2} \over k}{\mathbf {B}  \over T},}
+with a Curie constant given by 
+        C
+        =
+        N
+          μ
+            2
+          /
+        k
+    {\displaystyle C=N\mu ^{2}/k}
+  .
+In the regime of low temperatures or high fields, 
+        M
+    {\displaystyle M}
+   tends to a maximum value of 
+        N
+        μ
+    {\displaystyle N\mu }
+  , corresponding to all the particles being completely aligned with the field. Since this calculation doesn't describe the electrons embedded deep within the Fermi surface, forbidden by the Pauli Exclusion principle to flip their spins, it does not exemplify the quantum statistics of the problem at low temperatures. Using the Fermi-Dirac distribution, one will find that at low temperatures 
+        M
+    {\displaystyle M}
+   is linear dependent on the magnetic field, so that the magnetic susceptibility saturates to a constant.
+When the particles have an arbitrary spin (any number of spin states), the formula is a bit more complicated. At low magnetic fields or high temperature, the spin follows Curie's law, with
+        C
+        =
+              μ
+                B
+                2
+              3
+                k
+                  B
+        N
+          g
+            2
+        J
+        (
+        J
+        +
+        1
+        )
+    {\displaystyle C={\frac {\mu _{B}^{2}}{3k_{B}}}Ng^{2}J(J+1)}
+where 
+        J
+    {\displaystyle J}
+   is the total angular momentum quantum number and 
+        g
+    {\displaystyle g}
+   is the spin's g-factor (such that 
+        μ
+        =
+        g
+        J
+          μ
+            B
+    {\displaystyle \mu =gJ\mu _{B}}
+   is the magnetic moment).
+For this more general formula and its derivation (including high field, low temperature) see the article: Brillouin function. As the spin approaches infinity, the formula for the magnetization approaches the classical value derived in the following section.
+An alternative treatment applies when the paramagnetons are imagined to be classical, freely-rotating magnetic moments. In this case, their position will be determined by their angles in spherical coordinates, and the energy for one of them will be:
+        E
+        =
+        −
+        μ
+        B
+        cos
+        ⁡
+        θ
+        ,
+    {\displaystyle E=-\mu B\cos \theta ,}
+where 
+        θ
+    {\displaystyle \theta }
+   is the angle between the magnetic moment and the magnetic field (which we take to be pointing in the 
+        z
+    {\displaystyle z}
+   coordinate.) The corresponding partition function is
+        Z
+        =
+          ∫
+            0
+            2
+            π
+        d
+        ϕ
+          ∫
+            0
+            π
+        d
+        θ
+        sin
+        ⁡
+        θ
+        exp
+        ⁡
+        (
+        μ
+        B
+        β
+        cos
+        ⁡
+        θ
+        )
+        .
+    {\displaystyle Z=\int _{0}^{2\pi }d\phi \int _{0}^{\pi }d\theta \sin \theta \exp(\mu B\beta \cos \theta ).}
+We see there is no dependence on the 
+        ϕ
+    {\displaystyle \phi }
+   angle, and also we can change variables to 
+        y
+        =
+        cos
+        ⁡
+        θ
+    {\displaystyle y=\cos \theta }
+   to obtain
+        Z
+        =
+        2
+        π
+          ∫
+            −
+            1
+            1
+        d
+        y
+        exp
+        ⁡
+        (
+        μ
+        B
+        β
+        y
+        )
+        =
+        2
+        π
+              exp
+              ⁡
+              (
+              μ
+              B
+              β
+              )
+              −
+              exp
+              ⁡
+              (
+              −
+              μ
+              B
+              β
+              )
+              μ
+              B
+              β
+        =
+              4
+              π
+              sinh
+              ⁡
+              (
+              μ
+              B
+              β
+              )
+              μ
+              B
+              β
+              .
+    {\displaystyle Z=2\pi \int _{-1}^{1}dy\exp(\mu B\beta y)=2\pi {\exp(\mu B\beta )-\exp(-\mu B\beta ) \over \mu B\beta }={4\pi \sinh(\mu B\beta ) \over \mu B\beta .}}
+Now, the expected value of the 
+        z
+    {\displaystyle z}
+   component of the magnetization (the other two are seen to be null (due to integration over 
+        ϕ
+    {\displaystyle \phi }
+  ), as they should) will be given by
+          ⟨
+            μ
+              z
+          ⟩
+        =
+            1
+            Z
+          ∫
+            0
+            2
+            π
+        d
+        ϕ
+          ∫
+            0
+            π
+        d
+        θ
+        sin
+        ⁡
+        θ
+        exp
+        ⁡
+        (
+        μ
+        B
+        β
+        cos
+        ⁡
+        θ
+        )
+          [
+          μ
+          cos
+          ⁡
+          θ
+          ]
+        .
+    {\displaystyle \left\langle \mu _{z}\right\rangle ={1 \over Z}\int _{0}^{2\pi }d\phi \int _{0}^{\pi }d\theta \sin \theta \exp(\mu B\beta \cos \theta )\left[\mu \cos \theta \right].}
+To simplify the calculation, we see this can be written as a differentiation of 
+        Z
+    {\displaystyle Z}
+  :
+          ⟨
+            μ
+              z
+          ⟩
+        =
+            1
+              Z
+              B
+          ∂
+            β
+        Z
+        .
+    {\displaystyle \left\langle \mu _{z}\right\rangle ={1 \over ZB}\partial _{\beta }Z.}
+(This approach can also be used for the model above, but the calculation was so simple this is not so helpful.)
+Carrying out the derivation we find
+          ⟨
+            μ
+              z
+          ⟩
+        =
+        μ
+        L
+        (
+        μ
+        B
+        β
+        )
+        ,
+    {\displaystyle \left\langle \mu _{z}\right\rangle =\mu L(\mu B\beta ),}
+where 
+        L
+    {\displaystyle L}
+   is the Langevin function:
+        L
+        (
+        x
+        )
+        =
+        coth
+        ⁡
+        x
+        −
+            1
+            x
+        .
+    {\displaystyle L(x)=\coth x-{1 \over x}.}
+This function would appear to be singular for small 
+        x
+    {\displaystyle x}
+  , but it is not, since the two singular terms cancel each other. In fact, its behavior for small arguments is 
+        L
+        (
+        x
+        )
+        ≈
+        x
+          /
+        3
+    {\displaystyle L(x)\approx x/3}
+  , so the Curie limit also applies, but with a Curie constant three times smaller in this case. Similarly, the function saturates at 
+        1
+    {\displaystyle 1}
+   for large values of its argument, and the opposite limit is likewise recovered.
+Curie-Weiss law

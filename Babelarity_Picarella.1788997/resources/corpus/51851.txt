@@ -1,0 +1,45 @@
+Microsoft Plus, stylized as Microsoft Plus!, was a commercial operating system enhancement product by Microsoft. The last edition is the Plus! SuperPack, which includes an assortment of screensavers, themes, and games, as well as multimedia applications. The Microsoft Plus! product was first announced on January 31, 1994 under the internal codename "Frosting". The first one was an enhancement for Windows 95, Windows 95 Plus!.
+The enhancements that make up Microsoft Plus! were generally developed by Microsoft itself. The Plus! packs also included games and content from third-party companies; for example, in Plus! for Windows XP, the HyperBowl game developed by Hyper Entertainment Inc. was included. Plus! features that actually enhance the base operating system or provide utility are generally included for free in the next release of Windows.
+Microsoft Plus! was discontinued in favor of Windows Ultimate Extras in Windows Vista.
+This was the first version of Plus! and had an initial cost of $US49.99. It included Space Cadet Pinball, the Internet Jumpstart Kit (which was the introduction of Internet Explorer 1.0), DriveSpace 3 and Compression Agent disk compression utilities, the initial release of theme support along with a set of 12 themes, dial-up networking server, dial-up scripting tool, and the graphical improvements such as anti-aliased screen fonts, full-window drag, the ability to stretch or shrink the wallpaper to fit the screen and highcolor icons. Task Scheduler as it is present in later Windows versions was included as System Agent. A utility to notify the user of low disk space (DiskAlm.exe) also ran as part of System Agent. Plus! for Windows 95 was initially marketed for adding features for high-performance computers, the minimum system requirements were an 80386 CPU with 8 megabytes of RAM. Later releases of Windows 95 (OSR2 and onwards) included DriveSpace 3 and Internet Explorer 3.0. Windows 98 included all of the enhancements included in Plus! for Windows 95. The Pinball game was not installed by default, but included on the Windows 98 CD.
+The screen-saver and wallpaper files include images from the Codex Leicester, which Microsoft founder Bill Gates bought in 1994.
+This version was released in 1997 and targeted at children of ages 12 and under. It includes three new applications: Talk It!, a text-to-speech program that says what users type using various voices, Play It!, an electronic keyboard with music and sound effects, and Paint It!, a version of Paint oriented for kids. It also contained a picture picker along with clipart, fonts, 10 new desktop themes, and Protect It!, which are parental controls for Internet Explorer. Plus! for Kids! was the only Plus! release from the Microsoft Home and Entertainment division rather than the Windows Operating System development group. Four desktop themes from this collection - Baseball, Jungle, Space and Underwater - were included in Windows 98; the Underwater theme, however, was modified to have its sounds play in different events.
+There is also a demo version for Microsoft Plus! for Kids!. However, it only contains the readme for the program and the Underwater theme.
+As the sequel to the original suite of enhancements to Windows, Plus! 98 included the original set of themes along with eighteen new desktop themes (Some were based on popular comics such as FoxTrot and Garfield.), along with new programs and tools for Windows 98. An organic art 3D screensaver rendered unique infinite 3D visual shapes. A Start Menu cleanup utility was added to Windows 98's Maintenance Wizard. A Cybermedia Non-Critical File Cleaner utility was integrated into Disk Cleanup. ZIP file integration with Windows Explorer was first introduced with this version under the name of Compressed folders. New games, such as Microsoft Golf 98 Lite, Lose Your Marbles! and the now popular Spider Solitaire were also part of Plus! 98. A Deluxe CD Player with CDDB support and a basic "express" version of Picture It! were also included. Finally, Plus! 98 came with McAfee VirusScan 3.0, along with a six-month supply of free updates.
+Some Plus! 98 features such as Compressed folders and the Spider Solitaire game were included in Windows Me and later Windows versions. The Deluxe CD Player was included with Windows 2000. Although Windows Me does not include all of the Plus! 98 features and Plus! 98 Setup is blocked by Windows Me as incompatible, it can be installed on Windows Me by copying the setup files to the local hard disk and renaming Setup.exe before running it.
+This Plus! pack was released at the time of Windows Millennium Edition; however, it could also be installed on Windows 95, 98 and 2000. It included the Microsoft Entertainment Pack: The Puzzle Collection - a collection of 10 arcade games and Microsoft Bicycle Card Collection, another set of 12 card games (Hearts, Spades, Cribbage, Pinochle, Crazy 8's, Oh Hell!, Go Fish, Old Maid, Euchre, Gin Rummy, Schafkopf and Skat). A trial version of Microsoft Pandora's Box was also included.
+Marketed as “The Ultimate Companion for Windows XP”, Microsoft Plus! for Windows XP was launched alongside the Windows XP operating system on October 25, 2001. This version of Plus! was created to show off the enhanced capabilities that Windows XP presented with its updated Windows Media Player and DirectX 3D core technologies. Continuing the feature categories of the previous Plus! products, the product features were desktop themes, screen savers, games, and utilities.
+Plus! for Windows XP includes:
+Plus! Themes (Aquarium, Nature, da Vinci and Space)
+Plus! Screen Savers (Aquarium, Nature, da Vinci and Space, Robot Circus, Sand Pendulum, Mercury Pool and Plus! My Pictures Premium screensaver)
+Plus! Voice Command for Windows Media Player
+Plus! Personal DJ
+Plus! MP3 Converter
+Plus! CD Label Maker
+Plus! Speaker Enhancement
+Plus! 3D Visualizations for Windows Media Player (Oddworld: Munch's Odyssee, Maxx's Kingdom and Plus! Undersea Wonders)
+Plus! Skins for Windows Media Player
+Plus! Hyperbowl
+Plus! Russian Square
+Plus! Labyrinth
+Marketed as “The Ultimate Photo, Music, and Movie Enhancement Pack for Windows XP”, Microsoft launched Plus! Digital Media Edition along with Windows XP Media Center Edition. Plus! Digital Media Edition signified the first time Microsoft had released a second Plus! product based on the same base operating system. Microsoft Plus! Digital Media Edition was also the first Microsoft product to be made available for sale to consumers via e-commerce as full product download through online retailers.
+Released on January 7, 2003, Plus! Digital Media Edition built upon two newly enhanced Windows XP core components: Windows Media Player and Windows Movie Maker 2. This product version focused more on utility features for photos, music and movies rather than including the more traditional Plus! features like themes, screen savers, and games.
+Plus! Digital Media Edition includes:
+Plus! Photo Story 2
+Plus! Party Mode
+Plus! Analog Recorder
+Plus! CD Label Maker
+Plus! Dancer
+Plus! Audio Converter
+Plus! Effects and Transitions for Windows Movie Maker 2
+Plus! Alarm Clock
+Plus! Sleep Timer
+Plus! Skins for Windows Media Player 9 Series
+Plus! Sync & Go for Pocket PC
+Microsoft Plus! Digital Media Edition is the only version of Microsoft Plus! to include activation.
+Windows XP Media Center Edition 2005 includes some of the themes and screensavers from Microsoft Plus! for Windows XP, as it retains the Aquarium, Da Vinci, Nature and Space themes. It also includes some applications from Microsoft Plus! Digital Media Edition, namely, Audio Converter, CD Label Maker, Dancer and Party Mode and the My Pictures Premium screensaver. A Windows Media Player skin called Darkling, developed by The Skins Factory is included, the skin is exclusive to Microsoft Plus! Digital Media Edition. Space Cadet Pinball returns on the system.
+On October 19, 2004, Microsoft replaced its two separate Plus! products for Windows XP with a single combined version called the Microsoft Plus! SuperPack for Windows XP. There were no new features or functionality added nor are the two separate products integrated. On Windows XP Media Center Edition the Pack was not needed as it had included the Plus Pack features. The Plus! series has been discontinued, as some of its features have been integrated into other Microsoft products such as Windows Vista.
+Microsoft Photo Story
+Microsoft Picture It!
+Microsoft Windows Media Player
+Microsoft Windows Movie Maker

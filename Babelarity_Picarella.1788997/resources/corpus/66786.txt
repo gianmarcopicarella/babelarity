@@ -1,0 +1,6 @@
+Engel's law is an observation in economics stating that as income rises, the proportion of income spent on food falls, even if actual expenditure on food rises. In other words, the income elasticity of demand of food is between 0 and 1.
+The law was named after the statistician Ernst Engel (1821–1896).
+Engel's law doesn't imply that food spending remains unchanged as income increases: It suggests that consumers increase their expenditures for food products (in % terms) less than their increases in income.
+One application of this statistic is treating it as a reflection of the living standard of a country. As this proportion or "Engel coefficient" increases, the country is by nature poorer, conversely a low Engel coefficient indicates a higher standard of living.
+The interaction between Engel's law, technological progress and the process of structural change is crucial for explaining long term economic growth as suggested by Leon, and Pasinetti.
+Engel curve

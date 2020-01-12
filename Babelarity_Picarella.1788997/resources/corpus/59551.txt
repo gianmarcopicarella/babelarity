@@ -1,0 +1,19 @@
+Adiponitrile is the organic compound with the formula (CH2)4(CN)2. This dinitrile, a viscous, colourless liquid, is an important precursor to the polymer nylon-6,6. In 2005, about one billion kilograms were produced annually.
+Because of the industrial value of adiponitrile, many methods have been developed for its synthesis. Early industrial routes started from furfural and later by the chlorination of butadiene to give 1,4-dichloro-2-butene, which with sodium cyanide, converts to 3-hexenedinitrile, which in turn can be hydrogenated to adiponitrile:
+ClCH2CH=CHCH2Cl + 2 NaCN → NCCH2CH=CHCH2CN + 2 NaCl
+NCCH2CH=CHCH2CN + H2 → NC(CH2)4CN
+Adiponitrile has also been produced from adipic acid, by dehydration of the diamide, but this route is rarely employed.
+The majority of adiponitrile is prepared by the nickel-catalysed hydrocyanation of butadiene, as discovered at DuPont, pioneered by Drinkard. The net reaction is:
+CH2=CHCH=CH2 + 2 HCN → NCCH2CH2CH2CH2CN
+The process involves several stages, the first of which involves monohydrocyanation (addition of one molecule of HCN), affording isomers of pentenenitriles as well as 2- and 3-methylbutenenitriles. These unsaturated nitriles are subsequently isomerized to the 3-and 4-pentenenitriles. In the final stage, these pentenenitriles are subjected to a second hydrocyanation, in an anti-Markovnikov sense, to produce adiponitrile.
+Research has shown that the 3-pentenenitrile, formed in the first hydrocyanation, can undergo alkene metathesis to give dicyanobutenes, which are readily hydrogenated as described above.
+The other major industrial route involves electrosynthesis, starting from acrylonitrile, which is dimerized:
+2 CH2=CHCN + 2 e− + 2 H+ → NCCH2CH2CH2CH2CN
+The electrolytic coupling of acrylonitrile was discovered at Monsanto Company.
+Almost all adiponitrile is hydrogenated to 1,6-diaminohexane for the production of nylon:
+NC(CH2)4CN + 4 H2 → H2N(CH2)6NH2
+Like other nitriles, adiponitrile is susceptible to hydrolysis. The resulting adipic acid however is more cheaply prepared by other routes.
+The LD50 for adiponitrile is 300 mg/kg for oral ingestion by rats.
+In 1990, ACGIH adopted a time weighted average Threshold Limit Value of 2ppm for work related skin exposure.
+The NIOSH recommended skin exposure limit for a work related time weighted average concentration is 4ppm (18mg/m3).
+It is classified as an extremely hazardous substance in the United States as defined in Section 302 of the U.S. Emergency Planning and Community Right-to-Know Act (42 U.S.C. 11002), and is subject to strict reporting requirements by facilities which produce, store, or use it in significant quantities.

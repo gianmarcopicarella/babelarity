@@ -1,0 +1,26 @@
+In computer architecture, 4-bit integers, memory addresses, or other data units are those that are at most 4 bits wide. Also, 4-bit CPU and ALU architectures are those that are based on registers, address buses, or data buses of that size. A group of four bits is also called a nibble and has sixteen (24) possible values.
+Some of the first microprocessors had a 4-bit word length and were developed around 1970. The TMS 1000, the world's first single-chip microprocessor, was a 4-bit CPU; it had a Harvard architecture, with an on-chip instruction ROM with 8-bit-wide instructions and an on-chip data RAM with 4-bit words. The first commercial microprocessor was the binary coded decimal (BCD-based) Intel 4004, developed for calculator applications in 1971; it had a 4-bit word length, but had 8-bit instructions and 12-bit addresses.
+The HP Saturn processors, used in many Hewlett-Packard calculators between 1984 and 2015 (including the HP 48 series of scientific calculators) are 4-bit machines; as the Intel 4004 did, they string multiple 4-bit words together, e.g. to form a 20-bit memory address, and most of its registers are 64 bits, storing 16 4-bit digits.
+The 4-bit processors were programmed in assembly language or Forth, e.g. "MARC4 Family of 4 bit Forth CPU" because of the extreme size constraint on programs and common programming languages (for microcontrollers, 8-bit and larger), such as C programming language, do not support 4-bit (C requires that the size of the char data type be at least 8 bits, and that that all data types other than bitfields have a size that is a multiple of the character size). While larger than 4-bit values can be used by combining more than one manually, the language has to support the smaller values used in the combining. If not, assembly is the only option.
+The 1970s saw the emergence of 4-bit software applications for mass markets like pocket calculators.
+In the 1970s and 1980s, a number of research and commercial computers used bit slicing, in which the CPU's arithmetic logic unit (ALU) was built from multiple 4-bit-wide sections, each section including a chip such as an Am2901 or 74181 chip.
+The Zilog Z80, although it is an 8-bit microprocessor, has a 4-bit ALU.
+While 32- and 64-bit processors are more prominent in modern consumer electronics, 4-bit CPUs continue to be used (usually as part of a microcontroller) in cost-sensitive applications which require minimal computing power. For example, one bicycle computer specifies that it uses a "4 bit 1-chip microcomputer". Other typical uses include coffee makers, infrared remote controls, and security alarms.
+Use of 4-bit processors has declined relative to 8- or even 32-bit processors as they are hard to find cheaper in general computer supplier's stores. The simplest kinds are not available in any of them and others are "Non-stock" and more expensive (a few expensive ones can be found, as of 2014, on eBay).
+Electronics store still carry, as of 2014, non-CPU/non-MCU 4-bit chips, such as counters.
+As of 2015, most PC motherboards, especially laptop motherboards, use a 4-bit LPC bus (introduced in 1998) to connect the southbridge to the motherboard firmware flash ROM (UEFI or BIOS) and the Super I/O chip.
+With four bits, it is possible to create 16 different values. All single digit hexadecimal numbers can be written with four bits. Binary-coded decimal is a digital encoding method for numbers using decimal notation, with each decimal digit represented by four bits.
+10NES
+TMS 1000
+Intel 4004
+Intel 4040
+Atmel MARC4 core – (discontinued: "Last ship date: March 7, 2015")
+Samsung S3C7 (KS57 Series) 4-bit microcontrollers (RAM: 512 to 5264 nibbles, 6 MHz clock)
+Toshiba TLCS-47 series
+HP Saturn and Saturn+ series
+NEC μPD75X
+NEC (now Renesas) µPD612xA (discontinued), µPD613x, μPD6x and μPD1724x infrared remote control transmitter microcontrollers
+EM Microelectronic-Marin EM6600 family, EM6580, EM6682, etc.
+Epson S1C63 family
+GMC-4
+Low Pin Count

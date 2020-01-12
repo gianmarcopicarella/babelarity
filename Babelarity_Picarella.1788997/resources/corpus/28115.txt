@@ -1,0 +1,151 @@
+The M3 Stuart, formally Light Tank M3, is an American light tank of World War II. It was supplied to British and Commonwealth forces under lend-lease prior to the entry of the U.S. into the war. Thereafter, it was used by U.S. and Allied forces until the end of the war.
+The name General Stuart or Stuart given by the British comes from the American Civil War Confederate General J.E.B. Stuart and was used for both the M3 and the derivative M5 Light Tank. In British service, it also had the unofficial nickname of Honey after a tank driver remarked "She's a honey". To the United States Army, the tanks were officially known only as "Light Tank M3" and "Light Tank M5".
+The M3 Stuarts were the first American-crewed tanks in World War II to engage the enemy in tank versus tank combat.
+Observing events in Europe, American tank designers realized that the Light Tank M2 was becoming obsolete and set about improving it. The upgraded design, with thicker armor, modified suspension and new gun recoil system was called "Light Tank M3". Production of the vehicle started in March 1941 and continued until October 1943. Like its direct predecessor, the M2A4, the M3 was initially armed with a 37mm M5 gun and five .30-06 Browning M1919A4 machine guns: coaxial with the gun, on top of the turret in an M20 anti-aircraft mount, in a ball mount in right bow, and in the right and left hull sponsons. Later, the gun was replaced with the slightly longer M6, and the sponson machine guns were removed. For a light tank, the Stuart was fairly heavily armored. It had 38 mm of armor on the hull front, 44 mm on the hull bottom, 51 mm on the gun mantlet, 38 mm on the turret sides, 25 mm on the hull sides, and 25 mm on the hull rear.
+Internally, the radial engine was at the rear and the transmission to the driving sprockets at the front. The prop shaft connecting the two ran through the middle of the fighting compartment. The radial engine compounded the problem, having its crankshaft high off the hull bottom. When a turret floor was introduced, the crew had less room. The rear idler sprocket was moved to a trailing (ground contact) position.
+To relieve the demand for the radial aero-engines used in the M3, a new version was developed using twin Cadillac V-8 automobile engines and twin Hydra-Matic transmissions operating through a transfer case. This variation was quieter, cooler and roomier. Owing to its automatic transmission it also simplified crew training. The new model (initially called M4 but redesignated M5 to avoid confusion with the M4 Sherman) also featured a redesigned hull with sloped glacis plate and driver's hatches moved to the top. Although the main criticism from the units using it was that the Stuarts lacked firepower, the improved M5 series kept the same 37 mm gun. The M5 gradually replaced the M3 in production from 1942 and, after the M7 project proved unsatisfactory, was succeeded by the Light Tank M24 in 1944.
+The British Army was the first to use the Light Tank M3 as the "General Stuart" in combat. From mid-November 1941 to the end of the year, about 170 Stuarts (in a total force of over 700 tanks) took part in Operation Crusader during the North Africa Campaign, with poor results. This is despite the fact that the M3 was superior or comparable in most regards to most of the tanks used by the Axis forces. The most numerous German tank, the Panzer III Ausf G, had nearly identical armor and speed to the M3 (the M3 actually had thicker front and turret armor, while the Panzer III had slightly thicker side armor), and both tanks' guns could penetrate the other tank's front armor from beyond 1,000 meters. The most numerous Italian tank (and second most numerous Axis tank overall), the Fiat M13/40, was much slower than the Stuart, had slightly weaker armor all around, and could not penetrate the Stuart's front hull or turret armor at 1,000 meters, where the Stuart's gun could penetrate any spot on the M13/40. Although the high losses suffered by Stuart-equipped units during the operation had more to do with the better tactics and training of the Afrika Korps than the apparent superiority of German armored fighting vehicles used in the North African campaign, the operation revealed that the M3 had several technical faults. Mentioned in the British complaints were the 37 mm M5 gun and poor internal layout. The two-man turret crew was a significant weakness, and some British units tried to fight with three-man turret crews. The Stuart also had a limited range, which was a severe problem in the highly mobile desert warfare as units often outpaced their supplies and were stranded when they ran out of fuel.
+On the positive side, crews liked its relatively high speed and mechanical reliability, especially compared to the Crusader tank, which comprised a large portion of the British tank force in Africa up until 1942. The Crusader had similar armament and armor to the Stuart while being slower, less reliable, and several tons heavier. The Stuart also had the advantage of a gun that could deliver high-explosive shells; for the QF 2 pdr mounted by most Crusaders HE shells were not available, severely limiting their use against infantry. (however, by late 1942 the Crusader received the QF 6 pdr gun, significantly improving its anti-tank characteristics and giving it HE capability). The main drawback of the Stuart was its low fuel capacity and range; its operational range was only 75 miles (cross country), roughly half that of the Crusader.
+In the summer of 1942, the British usually kept Stuarts out of tank-to-tank combat, using them primarily for reconnaissance. The turret was removed from some examples to save weight and improve speed and range. These became known as "Stuart Recce". Some others were converted to armored personnel carriers known as the "Stuart Kangaroo", and some were converted command vehicles and known as "Stuart Command". M3s, M3A3s, and M5s continued in British service until the end of the war, but British units had a smaller proportion of these light tanks than U.S. units.
+The other major Lend-Lease recipient of the M3, the Soviet Union, was less happy with the tank, considering it under-gunned, under-armored, likely to catch fire, and too sensitive to fuel quality. The M3's radial aircraft engine required high-octane fuel, which complicated Soviet logistics as most of their tanks used diesel or low-octane fuel. High fuel consumption led to a poor range characteristic, especially sensitive for reconnaissance vehicle. Also, compared to Soviet tanks, the M3's narrower tracks resulted in a higher ground pressure, getting them more easily stuck in the spring and autumn mud and winter snow conditions on the Eastern Front. In 1943, the Red Army tried out the M5 and decided that the upgraded design was not much better than the M3. Being less desperate than in 1941, the Soviets turned down an American offer to supply the M5. M3s continued in Red Army service at least until 1944.
+The U.S. Army initially deployed 108 Stuart light tanks to the Philippines in September 1941, equipping the U.S. Army's 194th and 192nd Tank Battalions. The first U.S. tank versus tank combat to occur in World War II, began on 22 December 1941, when a platoon of five M3s led by Lieutenant Ben R. Morin engaged the Imperial Japanese Army (IJA) 4th Tank Regiment's Type 95 Ha-Go light tanks north of Damortis. Lt. Morin maneuvered his M3 off the road, but took a direct hit while doing so, and his tank began to burn. The other four M3s were also hit, but managed to leave the field under their own power. Lt. Morin was wounded, and he and his crew were captured by the enemy. M3s of the 194th and 192nd Tank Battalions continued to skirmish with the 4th Tank Regiment's tanks as they continued their retreat down the Bataan Peninsula, with the last tank versus tank combat occurring on 7 April 1942.
+Due to the naval nature of the Pacific campaign, steel for warship production took precedence over tanks for the IJA, creating by default an IJA light tank that performed admirably in the jungle terrain of the South Pacific. By the same measure, although the US was not hampered by industrial restrictions, the U.S. M3 light tank proved to be an effective armored vehicle for fighting in jungle environments. At least one was captured in the Philippines.
+With the IJA's drive toward India within the South-East Asian theatre of World War II, the United Kingdom hastily withdrew their 2nd Royal Tank Regiment and 7th Hussars Stuart tank units (which also contained some M2A4 light tanks) from North Africa, and deployed them against the Japanese 14th Tank Regiment. By the time the Japanese had been stopped at Imphal, only one British Stuart remained operational. When the U.S. entered the war in 1941, it began to supply China with AFVs including the M3 Stuarts, and later M4 Shermans and M18 Hellcats, which trickled in through Burma and formed part of the several well-equipped, well-trained armies that the Chinese Nationalists could deploy. These units were responsible for stopping numerous Japanese attacks during the later phases of the war.
+Although the U.S. light tanks had proven effective in jungle warfare, by late 1943, U.S. Marine Corps tank battalions were transitioning from their M3/M5 light tanks to M4 medium tanks. With the less common supplement of their Type 97 Chi-Ha medium tanks, the IJA was left to do battle against U.S. Marine M4 Sherman medium tanks, with armor that had been designed and fielded in the 1930s.
+When the U.S. Army joined the North African Campaign in late 1942, Stuart units still formed a large part of its armor strength. After the disastrous Battle of Kasserine Pass, the U.S. quickly followed the British in disbanding most of their light tank battalions and subordinating the Stuarts to medium tank battalions performing the traditional cavalry missions of scouting and screening. For the rest of the war, most U.S. tank battalions had three companies of M4 Shermans and one company of M3s or M5/M5A1s.
+In Europe, Allied light tanks had to be given cavalry and infantry fire support roles since their main cannon armament could not compete with heavier enemy armored fighting vehicles. However, the Stuart was still effective in combat in the Pacific Theater, as Japanese tanks were both relatively rare and were lighter in armor than even Allied light tanks. Japanese infantrymen were not well equipped with anti-tank weapons, and as such had to use close assault tactics. In this environment, the Stuart was only moderately more vulnerable than medium tanks. In addition, the terrain and poor roads common to the theater were unsuitable for the much heavier M4 medium tanks, and so initially, for both sides, it was advantageous to deploy light armor. Heavier M4s were eventually brought to overcome heavily entrenched positions, though the Stuart continued to serve in a combat capacity until the end of the war.
+Though the Stuart was to be completely replaced by the newer M24 Chaffee, the number of M3s/M5s produced was so great (over 25,000 including the 75mm HMC M8) that the tank remained in service until the end of the war, and well after. In addition to the U.S, UK and Soviet Union, who were the primary users, it was also used by France, China (M3A3s and, immediately post-war, M5A1s) and Josip Broz Tito's Partisans in Yugoslavia (M3A3s and few M3A1).
+After the war, some countries chose to equip their armies with cheap and reliable war surplus Stuarts. The Chinese Nationalist Army having suffered great attrition as a result of the ensuing civil war, rebuilt their armored forces by acquiring surplus vehicles left behind in the Philippines by the U.S. forces, including 21 M5A1s to equip two tank companies. They would have their finest hours during the Battle of Kuningtou in 1949, for which the tanks came to be known as the "Bear of Kinmen" (金門之熊).
+The M5 played a significant role in the First Kashmir War (1947) between India and Pakistan, including the battle of Zoji-la pass fought at an elevation of nearly 12,000 ft. The vehicle remained in service in several South American countries at least until 1996.
+M3A3s were used by British forces in Indonesia during the Indonesian National Revolution, where they suffered heavy losses due to the Stuart's thin armour plating. They were used until 1946, when the British left. The M3A3s were then passed on to the KNIL, which used them until the end of the fighting before passing on the tanks to the Indonesian National Army. The tank saw action during the DI/TII rebellions in Aceh and Java, RMS rebellions in South Maluku, PRRI rebellions in Sumatra, Permesta rebellions in Northern Sulawesi and the fighting against the 30 September movement.
+During the 1960s and 1970s, the Portuguese Army also used some in the war in Angola, where its all terrain capability (compared to wheeled vehicles) was greatly appreciated. In 1967, the Portuguese Army deployed three M5A1 Light Tanks – nicknamed "Milocas", "Licas", and "Gina" by their crews – in northern Angola, which served with the 1927th Cavalry Battalion commanded by Cavalry Major João Mendes Paulo, stationed at Nambuangongo. The vehicles were mostly employed for convoy escort and recovery duties, and limited counterinsurgency operations against National Liberation Front of Angola (FNLA) guerrillas, who dubbed them "Elefante Dundum”. "Milocas" was destroyed by an accidental fire in 1969, while "Gina" and "Licas" were withdrawn from active service in 1972, the former being sent to Luanda and the latter ended up in 1973 as an airfield security pillbox in the Portuguese Air Force’s Zala airfield. Period photographs show some modifications to the basic design, namely the omission of the bow machine gun, re-installed on a pintle mount in the roof of the turret, and a small searchlight fitted in front of the commander’s cupola.
+During the Football War, El Salvador invaded Honduras in a all-out-war strike using the M3 Stuart as the main battle tank. The use of the Stuart will prove success to El Salvador Army because of the rough terrain and the agility the vehicles have. El Salvador captured 8 major cities with the help of Stuarts.
+The South African Armoured Corps continued to use M3A1s in a reserve role until 1955. Some were refurbished locally in 1962 and remained in service as late as 1964. The fleet was withdrawn in 1968, owing to parts shortage.
+The M3 Stuart is still on the active list in the Armed Forces of Paraguay, with ten of the tanks being overhauled in 2014 to provide a training capability.
+M3 (British designation "Stuart I")
+5,811 vehicles were produced.
+1,285 M3s had Guiberson diesel installed and were called "Stuart II" by British.
+Late production M3s were fitted with turret developed for M3A1, though without turret basket. These tanks were dubbed "Stuart Hybrid".
+M3A1 (Stuart III)
+4,621 were produced from May 1942 to February 1943.
+New turret with turret basket and no cupola. Gun vertical stabilizer installed. Sponson machine guns were removed.
+M3A1s with Guiberson diesel were called "Stuart IV" by British.
+M3A3 (Stuart V)
+3,427 produced.
+Put into production to integrate hull improvements brought by the M5 into the M3 series. Turret with rear overhang to house SCR-508 radio. Welded hull with sloped armor, 20° in from the vertical, on front and sides.
+M5 (Stuart VI)
+2,075 produced.
+Twin Cadillac engines. Redesigned hull similar to M3A3, but with vertical sides and raised engine deck. Turret as for M3A1.
+M5A1 (Stuart VI)
+6,810 produced.
+M5 with the turret of the M3A3; this was the major variant in US units by 1943.
+75mm Howitzer Motor Carriage M8
+1,778 units produced.
+Based on M5 chassis. The gun was replaced with the 75 mm M2/M3 howitzer in open turret and a trailer hook was fitted so an ammunition trailer could be towed. Provided fire support to cavalry reconnaissance squadrons.
+75mm Howitzer Motor Carriage M8A1
+M8 HMC variant based on M5A1 chassis.
+T18 75 mm Howitzer Motor Carriage
+Self-propelled gun based on M3 chassis. 75 mm M1A1 pack howitzer was mounted in a boxy superstructure. The project started in September 1941 and was abandoned in April 1942. Only two were produced, 75 mm Howitzer Motor Carriage M8 was chosen to be produced instead.
+T82 Howitzer Motor Carriage
+Self-propelled 105 mm howitzer based on M5A1 chassis. Development began in 1943. Two prototypes built and tested in August 1944 at Aberdeen Proving Grounds. Project was discontinued on June 21, 1945.
+T56 3in Gun Motor Carriage
+Self-propelled gun based on M3A3 chassis. The engine was moved to the middle of the hull and a 3-inch gun was mounted in a superstructure in the rear. The project started in September 1942 and was abandoned in February 1943.
+T57 3in Gun Motor Carriage
+Variant of T56 with Continental engine of the Medium Tank M3. Also dropped in February 1943.
+T27 / T27E1 81 mm Mortar Motor Carriage
+M5A1 with turret replaced by superstructure in which an 81 mm mortar was installed. Also carried .50 cal Browning M2HB machine gun. The project was abandoned in April 1944 because of inadequate crew and storage space.
+T29 4.2in Mortar Motor Carriage
+Design similar to T27, with 4.2 inch (107 mm) mortar. Was abandoned for the same reason.
+T81 Chemical Mortar Motor Carriage
+M5A1-based 4.2 inch (107 mm) chemical mortar carrier.
+M3 with Maxson Turret
+Anti-aircraft variant developed in 1942. Was armed with four .50 cal. machine guns in a turret developed by Maxson Corp. The project was rejected because of the availability of the M16 MGMC.
+40 mm Gun Motor Carriage T65
+Anti-aircraft vehicle based on lengthened M5A1. Was armed with Bofors 40 mm gun. Was ordered into production, but on Light Tank M24 chassis, so became the M19 Gun Motor Carriage.
+20 mm Multiple Gun Motor Carriage T85
+Anti-aircraft vehicle based on same chassis as T65 (M5A1). Was armed with quad Oerlikon 20 mm cannons.
+M3/M5 Command Tank
+M3/M5 with turret replaced by small superstructure with a .50 cal. machine gun.
+T8 Reconnaissance Vehicle
+M5 with turret removed and mounting for .50 cal machine gun
+M3 with T2 Light Mine Exploder
+Developed in 1942, was rejected.
+M3/M3A1 with Satan Flame-gun
+Ronson flamethrower installed instead of the main gun. 20 tanks were converted for US Marine Corps in 1943.
+M5A1 with E5R1-M3 Flame Gun
+Flame thrower was installed instead of the hull machine gun.
+M3A1 with E5R2-M3 Flame-gun
+Flame thrower was installed in place of hull machine gun.
+M5 Dozer
+M5 with dozer blade. Turret was usually removed.
+M5 with T39 Rocket Launcher
+T39 launcher with 20 7.2" rockets mounted on the top of the turret. Never reached production.
+M5A1 with E7-7 Flame Gun
+Flame thrower was installed instead of the main gun.
+M5A1 with E9-9 Flame-throwing equipment
+Prototype only.
+M5A1 with E8 Flame-gun
+Turret replaced by boxy superstructure with flame thrower in a smaller turret. Prototype only.
+Stuart Recce
+Reconnaissance vehicle based on turretless Stuart.
+Stuart Command
+Stuart Kangaroo with extra radios.
+Stuart artillery tractor
+Another turretless variant similar in appearance to the Recce and Kangaroo. Used to tow the Ordnance QF 17 pounder. Not to be confused with the US M5 Tractor.
+In the 1970s, the Brazilian company Bernardini developed a series of radical Stuart upgrades for the Brazilian Army.
+X1A
+Based on M3A1, this design had new engine (280 hp (210 kW) Saab-Scania diesel), improved suspension, new upper hull armor, fire controls and DEFA 90 mm gun in a new turret. 80 vehicles were produced.
+X1A1
+An X1A with improved suspension with three bogies (instead of two) each side and raised idler. Didn't reach production.
+X1A2
+Based on the X1A1, this version retained almost nothing of the original Stuart as even its hull was redesigned. The vehicle weighed 19 short tons (17 t), had crew of 3, was armed with 90 mm gun and powered by Saab-Scania 300 hp (220 kW) diesel. 30 vehicles were produced in 1979–1983.
+ Australia
+ Belgium
+ Brazil — 350 M3A3/A5
+ Canada - Stuart V (M3A3) tanks were widely used in recce troop of armoured regiments. In 2 Canadian Armoured Brigade after the Normandy landings, the establishment for each regiment was 49 Sherman tanks, both 75mm and 17pdr, and up to 9 Stuart tanks.
+ Chile
+ People's Republic of China captured from Chinese Civil War
+ Republic of China
+ Colombia
+ Cuba
+ Czechoslovakia
+ Dominican Republic
+ Ecuador
+ El Salvador
+ France
+ Haiti — eight M3A1 and five M5A1
+ Hungary - captured at least 3 from the Soviets
+ India
+ Indonesia - M5A1 from Netherlands
+ Italy
+ Japan - Operated captured vehicles, for example in the Philippines and at the Battle of Imphal.
+ Mexico
+ Netherlands
+ New Zealand
+ Nicaragua — four M3A1 still in service with the National Guard (Nicaragua) in 1979
+ Paraguay — 12 still in service; 5 are operational in 2.R.C. 2010
+ Philippines — used by the Philippine Army and Philippine Constabulary from 1941 to 1959
+ Portugal — 70 vehicles in service with the Portuguese Army and other 20 with the Republican National Guard from 1956 to 1972
+ South Africa
+ Southern Rhodesia
+ Turkey
+ United Kingdom
+ Uruguay
+ United States
+ Soviet Union - 1,676 M3 series tanks received as part of Lend-Lease, and 5 M5.
+ Venezuela
+ Yugoslavia
+The 1941 US military propaganda short film The Tanks Are Coming features the M3 and its manufacturing process.
+In the 1945 Mexican film comedy "Un día con el diablo" (A Day with the devil), several Mexican army M3s appear - one of them is driven by the comic actor Mario Moreno "Cantinflas"
+Modified Stuarts were used in the movie Attack! as German tanks.
+An M3 Stuart tank was the center piece of The Green Hornet episode "Seek, Stalk, & Destroy" (airdate: January 6, 1967).
+A "24k Gold" M3 Stuart tank was created from gold bullion with plans stolen from the Hexagon (by The Penguin and Marsha Queen of Diamonds) in Batman episode "Penguin's Disastrous End" (airdate: February 2, 1967). It was stopped with the "Batzooka".
+Season 5 of the Twilight Zone TV series had an episode "The 7th Is Made Up of Phantoms" featuring an M3 Stuart tank and its crew going back in time fighting the Battle of Little Big Horn.
+"The Haunted Tank" was a DC Comics feature that appeared in G.I. Combat starring an M3 Stuart scout tank commanded by Lieutenant Jeb Stuart, a direct descendant and namesake of the Civil War cavalry general J.E.B. Stuart. The tank was haunted by the Confederate officer, who would appear to warn his kinsman of impending danger or offer (usually cryptic) advice on how to handle a combat action. The original series ran from 1961 to 1987.
+A heavily modified M5A1 Stuart was featured in the movie Tank Girl as the eponymous heroine's tank.
+A M5A1 Stuart tank was featured in the James Bond movie "Licence to kill". The tank opens fire on the Chinese hideout in the fictional country Isthmus, and saves Bond.
+Rhino tank
+SCR-245
+List of U.S. military vehicles by model number
+G-numbers
+M5 High Speed Tractor

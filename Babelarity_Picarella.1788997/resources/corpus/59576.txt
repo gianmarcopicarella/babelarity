@@ -1,0 +1,11 @@
+Wurtzite is a zinc iron sulfide mineral ((Zn,Fe)S) a less frequently encountered mineral form of sphalerite. The iron content is variable up to eight percent. It is trimorphous with matraite and sphalerite.
+It occurs in hydrothermal deposits associated with sphalerite, pyrite, chalcopyrite, barite and marcasite. It also occurs in low-temperature clay-ironstone concretions.
+It was first described in 1861 for an occurrence in the San José Mine, Oruro City, Cercado Province, Oruro Department, Bolivia, and named for French chemist Charles-Adolphe Wurtz. It has widespread distribution. In Europe it is reported from Příbram, Czech Republic; Hesse, Germany; and Liskeard, Cornwall, England. In the US it is reported from Litchfield County, Connecticut; Butte, Silver Bow County, Montana; at Frisco, Beaver County, Utah; and from the Joplin district, Jasper County, Missouri.
+The wurtzite group includes: Cadmoselite CdSe, Greenockite CdS, Mátraite ZnS and Rambergite MnS, in addition to wurtzite.
+Its crystal structure is called the wurtzite crystal structure, to which it lends its name. This structure is a member of the hexagonal crystal system and consists of tetrahedrally coordinated zinc and sulfur atoms that are stacked in an ABABABABAB pattern.
+The unit cell parameters of wurtzite are (-2H polytype):
+a = b = 3.82 Å = 382 pm
+c = 6.26 Å = 626 pm
+V = 79.11 Å3
+Z = 2
+Wurtzite crystal structure

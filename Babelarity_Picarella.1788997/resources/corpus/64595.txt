@@ -1,0 +1,614 @@
+In navigation, a rhumb line, rhumb, or loxodrome is an arc crossing all meridians of longitude at the same angle, i.e. a path with constant bearing as measured relative to true or magnetic north.
+A rhumb line is, together with the Great Circle Arc and an isoazimuthal, one of the three lines that can be drawn between any two points on the earth's surface.
+The effect of following a rhumb line course on the surface of a globe was first discussed by the Portuguese mathematician Pedro Nunes in 1537, in his Treatise in Defense of the Marine Chart, with further mathematical development by Thomas Harriot in the 1590s.
+A rhumb line can be contrasted with a great circle, which is the path of shortest distance between two points on the surface of a sphere. On a great circle, the bearing to the destination point does not remain constant. If one were to drive a car along a great circle one would hold the steering wheel fixed, but to follow a rhumb line one would have to turn the wheel, turning it more sharply as the poles are approached. In other words, a great circle is locally "straight" with zero geodesic curvature, whereas a rhumb line has non-zero geodesic curvature.
+Meridians of longitude and parallels of latitude provide special cases of the rhumb line, where their angles of intersection are respectively 0° and 90°. On a North-South passage the rhumb line course coincides with a great circle, as it does on an East-West passage along the equator.
+On a Mercator projection map, a rhumb line is a straight line; a rhumb line can be drawn on such a map between any two points on Earth without going off the edge of the map. But theoretically a loxodrome can extend beyond the right edge of the map, where it then continues at the left edge with the same slope (assuming that the map covers exactly 360 degrees of longitude).
+Rhumb lines which cut meridians at oblique angles are loxodromic curves which spiral towards the poles. On a Mercator projection the North and South poles occur at infinity and are therefore never shown. However the full loxodrome on an infinitely high map would consist of infinitely many line segments between the two edges. On a stereographic projection map, a loxodrome is an equiangular spiral whose center is the North (or South) Pole.
+All loxodromes spiral from one pole to the other. Near the poles, they are close to being logarithmic spirals (on a stereographic projection they are exactly, see below), so they wind round each pole an infinite number of times but reach the pole in a finite distance. The pole-to-pole length of a loxodrome is (assuming a perfect sphere) the length of the meridian divided by the cosine of the bearing away from true north. Loxodromes are not defined at the poles.
+Three views of a pole-to-pole loxodrome
+The word loxodrome comes from Greek λοξός loxós: "oblique" + δρόμος drómos: "running" (from δραμεῖν drameîn: "to run"). The word rhumb may come from Spanish or Portuguese rumbo/rumo ("course" or "direction") and Greek ῥόμβος rhómbos, from rhémbein.
+The 1878 edition of The Globe Encyclopaedia of Universal Information describes a loxodrome line as:
+Loxodrom'ic Line is a curve which cuts every member of a system of lines of curvature of a given surface at the same angle. A ship sailing towards the same point of the compass describes such a line which cuts all the meridians at the same angle. In Mercator's Projection (q.v.) the Loxodromic lines are evidently straight.
+A misunderstanding could arise because the term “rhumb” had no precise meaning when it came into use. It applied equally well to the windrose lines as it did to loxodromes because the term only applied “locally” and only meant whatever a sailor did in order to sail with constant bearing, with all the imprecision that that implies. Therefore “rhumb” was applicable to the straight lines on portolans when portolans were in use, as well as always applicable to straight lines on Mercator charts. For short distances portolan “rhumbs” do not meaningfully differ from Mercator rhumbs, but these days “rhumb” is synonymous with the mathematically precise “loxodrome” because it has been made synonymous retrospectively.
+As Leo Bagrow states:"..the word ("Rhumbline") is wrongly applied to the sea-charts of this period, since a loxodrome gives an accurate course only when the chart is drawn on a suitable projection. Cartometric investigation has revealed that no projection was used in the early charts, for which we therefore retain the name 'portolan'."
+For a sphere of radius 1, the azimuthal and polar angles 
+        λ
+    {\displaystyle \lambda }
+   and 
+        −
+        π
+          /
+        2
+        ≤
+        ϕ
+        ≤
+        π
+          /
+        2
+    {\displaystyle -\pi /2\leq \phi \leq \pi /2}
+   (defined here to correspond to latitude) and Cartesian unit vectors 
+              ı
+              ^
+    {\displaystyle {\hat {\imath }}}
+  , 
+              ȷ
+              ^
+    {\displaystyle {\hat {\jmath }}}
+  , and 
+              k
+              ^
+    {\displaystyle {\hat {k}}}
+   can be used to write the radius vector as
+              r
+              →
+        (
+        λ
+        ,
+        ϕ
+        )
+        =
+        (
+        cos
+        ⁡
+          λ
+        ⋅
+        cos
+        ⁡
+          ϕ
+        )
+              ı
+              ^
+        +
+        (
+        sin
+        ⁡
+          λ
+        ⋅
+        cos
+        ⁡
+          ϕ
+        )
+              ȷ
+              ^
+        +
+        (
+        sin
+        ⁡
+          ϕ
+        )
+              k
+              ^
+        .
+    {\displaystyle {\vec {r}}(\lambda ,\phi )=(\cos {\lambda }\cdot \cos {\phi })\,{\hat {\imath }}+(\sin {\lambda }\cdot \cos {\phi })\,{\hat {\jmath }}+(\sin {\phi })\,{\hat {k}}\ .}
+Orthogonal unit vectors in the azimuthal and polar directions of the sphere can be written
+              λ
+              ^
+        (
+        λ
+        ,
+        ϕ
+        )
+        =
+        sec
+        ⁡
+          ϕ
+              ∂
+                    r
+                    →
+              ∂
+              λ
+        =
+        (
+        −
+        sin
+        ⁡
+          λ
+        )
+              ı
+              ^
+        +
+        (
+        cos
+        ⁡
+          λ
+        )
+              ȷ
+              ^
+    {\displaystyle {\hat {\lambda }}(\lambda ,\phi )=\sec {\phi }{\frac {\partial {\vec {r}}}{\partial \lambda }}=(-\sin {\lambda })\,{\hat {\imath }}+(\cos {\lambda })\,{\hat {\jmath }}}
+              ϕ
+              ^
+        (
+        λ
+        ,
+        ϕ
+        )
+        =
+              ∂
+                    r
+                    →
+              ∂
+              ϕ
+        =
+        (
+        −
+        cos
+        ⁡
+          λ
+        ⋅
+        sin
+        ⁡
+          ϕ
+        )
+              ı
+              ^
+        +
+        (
+        −
+        sin
+        ⁡
+          λ
+        ⋅
+        sin
+        ⁡
+          ϕ
+        )
+              ȷ
+              ^
+        +
+        (
+        cos
+        ⁡
+          ϕ
+        )
+              k
+              ^
+    {\displaystyle {\hat {\phi }}(\lambda ,\phi )={\frac {\partial {\vec {r}}}{\partial \phi }}=(-\cos {\lambda }\cdot \sin {\phi })\,{\hat {\imath }}+(-\sin {\lambda }\cdot \sin {\phi })\,{\hat {\jmath }}+(\cos {\phi })\,{\hat {k}}}
+which have the scalar products
+              λ
+              ^
+        ⋅
+              ϕ
+              ^
+        =
+              λ
+              ^
+        ⋅
+              r
+              →
+        =
+              ϕ
+              ^
+        ⋅
+              r
+              →
+        =
+        0
+        .
+    {\displaystyle {\hat {\lambda }}\cdot {\hat {\phi }}={\hat {\lambda }}\cdot {\vec {r}}={\hat {\phi }}\cdot {\vec {r}}=0\ .}
+              λ
+              ^
+    {\displaystyle {\hat {\lambda }}}
+   for constant 
+        ϕ
+    {\displaystyle \phi }
+   traces out a parallel of latitude, while 
+              ϕ
+              ^
+    {\displaystyle {\hat {\phi }}}
+   for constant 
+        λ
+    {\displaystyle \lambda }
+   traces out a meridian of longitude.
+The unit vector
+              β
+              ^
+        (
+        λ
+        ,
+        ϕ
+        )
+        =
+        (
+        sin
+        ⁡
+          β
+        )
+              λ
+              ^
+        +
+        (
+        cos
+        ⁡
+          β
+        )
+              ϕ
+              ^
+    {\displaystyle {\hat {\beta }}(\lambda ,\phi )=(\sin {\beta })\,{\hat {\lambda }}+(\cos {\beta })\,{\hat {\phi }}}
+has a constant angle 
+        β
+    {\displaystyle \beta }
+   with the unit vector 
+              ϕ
+              ^
+    {\displaystyle {\hat {\phi }}}
+   for any 
+        λ
+    {\displaystyle \lambda }
+   and 
+        ϕ
+    {\displaystyle \phi }
+  , since their scalar product is
+              β
+              ^
+        ⋅
+              ϕ
+              ^
+        =
+        cos
+        ⁡
+          β
+        .
+    {\displaystyle {\hat {\beta }}\cdot {\hat {\phi }}=\cos {\beta }\ .}
+A loxodrome is defined as a curve on the sphere that has a constant angle 
+        β
+    {\displaystyle \beta }
+   with all meridians of longitude, and therefore must be parallel to the unit vector 
+              β
+              ^
+    {\displaystyle {\hat {\beta }}}
+  . As a result, a differential length 
+        d
+        s
+    {\displaystyle ds}
+   along the loxodrome will produce a differential displacement
+                d
+                      r
+                      →
+                =
+                      β
+                      ^
+                d
+                s
+                      ∂
+                            r
+                            →
+                      ∂
+                      λ
+                d
+                λ
+                +
+                      ∂
+                            r
+                            →
+                      ∂
+                      ϕ
+                d
+                ϕ
+                =
+                (
+                (
+                sin
+                ⁡
+                  β
+                )
+                      λ
+                      ^
+                +
+                (
+                cos
+                ⁡
+                  β
+                )
+                      ϕ
+                      ^
+                )
+                d
+                s
+                (
+                cos
+                ⁡
+                  ϕ
+                )
+                d
+                λ
+                      λ
+                      ^
+                +
+                d
+                ϕ
+                      ϕ
+                      ^
+                =
+                (
+                sin
+                ⁡
+                  β
+                )
+                d
+                s
+                      λ
+                      ^
+                +
+                (
+                cos
+                ⁡
+                  β
+                )
+                d
+                s
+                      ϕ
+                      ^
+                d
+                s
+                =
+                      cos
+                      ⁡
+                        ϕ
+                      sin
+                      ⁡
+                        β
+                d
+                λ
+                =
+                      d
+                      ϕ
+                      cos
+                      ⁡
+                        β
+                      d
+                      λ
+                      d
+                      ϕ
+                =
+                tan
+                ⁡
+                  β
+                ⋅
+                sec
+                ⁡
+                  ϕ
+                λ
+                (
+                ϕ
+                )
+                =
+                tan
+                ⁡
+                β
+                ⋅
+                artanh
+                ⁡
+                (
+                sin
+                ⁡
+                ϕ
+                )
+                +
+                  λ
+                    0
+                ϕ
+                (
+                λ
+                )
+                =
+                arcsin
+                ⁡
+                (
+                tanh
+                ⁡
+                (
+                (
+                λ
+                −
+                  λ
+                    0
+                )
+                cot
+                ⁡
+                β
+                )
+                )
+    {\displaystyle {\begin{aligned}d{\vec {r}}&={\hat {\beta }}\,ds\\{\frac {\partial {\vec {r}}}{\partial \lambda }}\,d\lambda +{\frac {\partial {\vec {r}}}{\partial \phi }}\,d\phi &=((\sin {\beta })\,{\hat {\lambda }}+(\cos {\beta })\,{\hat {\phi }})ds\\(\cos {\phi })\,d\lambda \,{\hat {\lambda }}+d\phi \,{\hat {\phi }}&=(\sin {\beta })\,ds\,{\hat {\lambda }}+(\cos {\beta })\,ds\,{\hat {\phi }}\\ds&={\frac {\cos {\phi }}{\sin {\beta }}}\,d\lambda ={\frac {d\phi }{\cos {\beta }}}\\{\frac {d\lambda }{d\phi }}&=\tan {\beta }\cdot \sec {\phi }\\\lambda (\phi )&=\tan \beta \cdot \operatorname {artanh} (\sin \phi )+\lambda _{0}\\\phi (\lambda )&=\arcsin(\tanh((\lambda -\lambda _{0})\cot \beta ))\end{aligned}}}
+With this relationship between 
+        λ
+    {\displaystyle \lambda }
+   and 
+        ϕ
+    {\displaystyle \phi }
+  , the radius vector becomes a parametric function of one variable, tracing out the loxodrome on the sphere:
+              r
+              →
+        (
+        λ
+        ,
+        β
+        )
+        =
+        (
+        cos
+        ⁡
+          λ
+        ⋅
+        sech
+        ⁡
+        (
+        (
+        λ
+        −
+          λ
+            0
+        )
+        cot
+        ⁡
+        β
+        )
+        )
+              ı
+              ^
+        +
+        (
+        sin
+        ⁡
+          λ
+        ⋅
+        sech
+        ⁡
+        (
+        (
+        λ
+        −
+          λ
+            0
+        )
+        cot
+        ⁡
+        β
+        )
+        )
+              ȷ
+              ^
+        +
+        (
+        tanh
+        ⁡
+        (
+        (
+        λ
+        −
+          λ
+            0
+        )
+        cot
+        ⁡
+        β
+        )
+        )
+              k
+              ^
+        .
+    {\displaystyle {\vec {r}}(\lambda ,\beta )=(\cos {\lambda }\cdot \operatorname {sech} ((\lambda -\lambda _{0})\cot \beta ))\,{\hat {\imath }}\;+\;(\sin {\lambda }\cdot \operatorname {sech} ((\lambda -\lambda _{0})\cot \beta ))\,{\hat {\jmath }}\;+\;(\tanh((\lambda -\lambda _{0})\cot \beta ))\,{\hat {k}}\ .}
+As the latitude 
+        ϕ
+        →
+            π
+            2
+        ,
+        sin
+        ⁡
+        ϕ
+        →
+        1
+        ,
+        artanh
+        ⁡
+        (
+        sin
+        ⁡
+        ϕ
+        )
+        →
+        ∞
+        ,
+    {\displaystyle \phi \,\to \,{\frac {\pi }{2}}\,,\sin \phi \,\to \,1\,,\operatorname {artanh} (\sin \phi )\,\to \,\infty \,,}
+   and 
+        λ
+    {\displaystyle \lambda }
+   increases without bound, circling the sphere endlessly in a spiral towards the pole.
+The quantity 
+        ψ
+        =
+        artanh
+        ⁡
+        (
+        sin
+        ⁡
+        ϕ
+        )
+    {\displaystyle \psi =\operatorname {artanh} (\sin \phi )}
+   is the isometric latitude. In terms of the Gudermannian function 
+        ϕ
+        =
+              g
+              d
+            (
+            (
+            λ
+            −
+              λ
+                0
+            )
+            cot
+            ⁡
+            β
+            )
+            .
+    {\displaystyle \phi ={\rm {{gd}((\lambda -\lambda _{0})\cot \beta )\,.}}}
+Let 
+        λ
+    {\displaystyle \lambda \,\!}
+   be the longitude of a point on the sphere, and 
+        ϕ
+    {\displaystyle \phi }
+   its latitude. Then, if we define the map coordinates of the Mercator projection as
+        x
+        =
+        λ
+        −
+          λ
+            0
+    {\displaystyle x=\lambda -\lambda _{0}}
+        y
+        =
+        arctanh
+        ⁡
+        (
+        sin
+        ⁡
+        ϕ
+        )
+    {\displaystyle y=\operatorname {arctanh} (\sin \phi )\,}
+a loxodrome with constant bearing 
+        β
+    {\displaystyle \beta }
+   from true north will be a straight line, since (using the expression in the previous section)
+        y
+        =
+        m
+        x
+    {\displaystyle y=mx}
+with a slope 
+        m
+        =
+        cot
+        ⁡
+        β
+    {\displaystyle m=\cot \beta \,}
+  .
+Finding the loxodromes between two given points can be done graphically on a Mercator map, or by solving a nonlinear system of two equations in the two unknowns 
+        m
+        =
+        cot
+        ⁡
+        β
+    {\displaystyle m=\cot \beta }
+   and 
+          λ
+            0
+    {\displaystyle \lambda _{0}}
+  . There are infinitely many solutions; the shortest one is that which covers the actual longitude difference, i.e. does not make extra revolutions, and does not go "the wrong way around".
+The distance between two points, measured along a loxodrome, is simply the absolute value of the secant of the bearing (azimuth) times the north-south distance (except for circles of latitude for which the distance becomes infinite).
+Its use in navigation is directly linked to the style, or projection of certain navigational maps. A rhumb line appears as a straight line on a Mercator projection map.
+The name is derived from Old French or Spanish respectively: "rumb" or "rumbo", a line on the chart which intersects all meridians at the same angle. On a plane surface this would be the shortest distance between two points. Over the Earth's surface at low latitudes or over short distances it can be used for plotting the course of a vehicle, aircraft or ship. Over longer distances and/or at higher latitudes the great circle route is significantly shorter than the rhumb line between the same two points. However the inconvenience of having to continuously change bearings while travelling a great circle route makes rhumb line navigation appealing in certain instances.
+The point can be illustrated with an East-West passage over 90 degrees of longitude along the equator, for which the great circle and rhumb line distances are the same at 5,400 nautical miles (10,000 km). At 20 degrees North the great circle distance is 4,997 miles (8,042 km) while the rhumb line distance is 5,074 miles (8,166 km), about 1½ percent further. But at 60 degrees North the great circle distance is 2,485 miles (3,999 km) while the rhumb line is 2,700 miles (4,300 km), a difference of 8½ percent. A more extreme case is the air route between New York and Hong Kong, for which the rhumb line path is 9,700 nautical miles (18,000 km). The great circle route over the North Pole is 7,000 nautical miles (13,000 km), or 5½ hours less flying time at a typical cruising speed.
+Some old maps in the Mercator projection have grids composed of lines of latitude and longitude but also show rhumb lines which are oriented directly towards North, at a right angle from the North, or at some angle from the North which is some simple rational fraction of a right angle. These rhumb lines would be drawn so that they would converge at certain points of the map: lines going in every direction would converge at each of these points. See compass rose. Such maps would necessarily have been in the Mercator projection therefore not all old maps would have been capable of showing rhumb line markings.
+The radial lines on a compass rose are also called rhumbs. The expression "sailing on a rhumb" was used in the 16th–19th centuries to indicate a particular compass heading.
+Early navigators in the time before the invention of the marine chronometer used rhumb line courses on long ocean passages, because the ship's latitude could be established accurately by sightings of the Sun or stars but there was no accurate way to determine the longitude. The ship would sail North or South until the latitude of the destination was reached, and the ship would then sail East or West along the rhumb line (actually a parallel, which is a special case of the rhumb line), maintaining a constant latitude and recording regular estimates of the distance sailed until evidence of land was sighted.
+The surface of the Earth can be understood mathematically as a Riemann sphere, that is, as a projection of the sphere to the complex plane. In this case, loxodromes can be understood as certain classes of Möbius transformations.
+The formulation above can be easily extended to a spheroid. The course of the rhumb line is found merely by using the ellipsoidal isometric latitude. Similarly distances are found by multiplying the ellipsoidal meridian arc length by the secant of the azimuth.
+Great circle
+Small circle
+Great ellipse
+Geodesics on an ellipsoid
+Rhumbline network
+Isoazimuthal

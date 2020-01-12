@@ -1,0 +1,10 @@
+The voiced labiodental fricative is a type of consonantal sound used in some spoken languages. The symbol in the International Phonetic Alphabet that represents this sound is 〈v〉, and the equivalent X-SAMPA symbol is v.
+Although this is a familiar sound to most European and Middle Eastern listeners, it is cross-linguistically a fairly uncommon sound, being only a quarter as frequent as [w]. The presence of [v] and absence of [w], is a very distinctive areal feature of European languages and those of adjacent areas of Siberia and Central Asia. Speakers of East Asian languages that lack this sound tend to pronounce it as [p] (Mandarin), [b] (Japanese), or [f]/[w] (Cantonese), thus failing to distinguish a number of English minimal pairs.
+Features of the voiced labiodental fricative:
+Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence.
+Its place of articulation is labiodental, which means it is articulated with the lower lip and the upper teeth.
+Its phonation is voiced, which means the vocal cords vibrate during the articulation.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+Because the sound is not produced with airflow over the tongue, the central–lateral dichotomy does not apply.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
+Index of phonetics articles

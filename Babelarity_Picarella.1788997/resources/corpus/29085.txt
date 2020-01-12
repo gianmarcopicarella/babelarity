@@ -1,0 +1,31 @@
+The International Ship and Port Facility Security (ISPS) Code is an amendment to the Safety of Life at Sea (SOLAS) Convention (1974/1988) on minimum security arrangements for ships, ports and government agencies. Having come into force in 2004, it prescribes responsibilities to governments, shipping companies, shipboard personnel, and port/facility personnel to "detect security threats and take preventative measures against security incidents affecting ships or port facilities used in international trade."
+The International Maritime Organization (IMO) states that "The International Ship and Port Facility Security Code (ISPS Code) is a comprehensive set of measures to enhance the security of ships and port facilities, developed in response to the perceived threats to ships and port facilities in the wake of the 9/11 attacks in the United States" (IMO).
+Development and implementation were sped up drastically in reaction to the September 11, 2001 attacks and the bombing of the French oil tanker Limburg. The U.S. Coast Guard, as the lead agency in the United States delegation to the IMO, advocated for the measure. The Code was agreed at a meeting of the 108 signatories to the SOLAS convention in London in December 2002. The measures agreed under the Code were brought into force on July 1, 2004.
+Scope
+The ISPS Code is implemented through chapter XI-2 Special measures to enhance maritime security in the International Convention for the Safety of Life at Sea (SOLAS).
+The Code is a two-part document describing minimum requirements for security of ships and ports. Part A provides mandatory requirements. Part B provides guidance for implementation.
+The ISPS Code applies to ships on international voyages (including passenger ships, cargo ships of 500 GT and upwards, and mobile offshore drilling units) and the port facilities serving such ships.
+The main objectives of the ISPS Code are:
+To detect security threats and implement security measures
+To establish roles and responsibilities concerning maritime security for governments, local administrations, ship and port industries at the national and international level
+To collate and promulgate security-related information
+To provide a methodology for security assessments so as to have in place plans and procedures to react to changing security levels
+The Code does not specify specific measures that each port and ship must take to ensure the safety of the facility against terrorism because of the many different types and sizes of these facilities. Instead it outlines "a standardized, consistent framework for evaluating risk, enabling governments to offset changes in threat with changes in vulnerability for ships and port facilities."
+For ships the framework includes requirements for:
+Ship security plans
+Ship security officers
+Company security officers
+Certain onboard equipment
+For port facilities, the requirements include:
+Port facility security plans
+Port facility security officers
+Certain security equipment
+In addition the requirements for ships and for port facilities include:
+Monitoring and controlling access
+Monitoring the activities of people and cargo
+Ensuring security communications are readily available
+Europe has enacted the International regulations with EC Regulation (EC) No 725/2004 of the European Parliament and of the Council of 31 March 2004, on enhancing ship and port facility security.
+The UK has enacted The Ship and Port Facility (Security) Regulations 2004, these bring the EU regulation 725/2004 into UK law. [1]
+The United States has issued regulations to enact the provisions of the Maritime Transportation Security Act of 2002 and to align domestic regulations with the maritime security standards of SOLAS and the ISPS Code. These regulations are found in Title 33 of the Code of Federal Regulations, Parts 101 through 107. Part 104 contains vessel security regulations, including some provisions that apply to foreign ships in U.S. waters.
+Supply Chain Security
+Port security

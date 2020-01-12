@@ -1,0 +1,32 @@
+Elwin Bruno Christoffel (German: [kʀɪˈstɔfəl]; November 10, 1829 – March 15, 1900) was a German mathematician and physicist. He introduced fundamental concepts of differential geometry, opening the way for the development of tensor calculus, which would later provide the mathematical basis for general relativity.
+Christoffel was born on 10 November 1829 in Montjoie (now Monschau) in Prussia in a family of cloth merchants. He was initially educated at home in languages and mathematics, then attended the Jesuit Gymnasium and the Friedrich-Wilhelms Gymnasium in Cologne. In 1850 he went to the University of Berlin, where he studied mathematics with Gustav Dirichlet (which had a strong influence over him) among others, as well as attending courses in physics and chemistry. He received his doctorate in Berlin in 1856 for a thesis on the motion of electricity in homogeous bodies written under the supervision of Martin Ohm, Ernst Kummer and Heinrich Gustav Magnus.
+After receiving his doctorate, Christoffel returned to Montjoie where he has spent the following three years in isolation from the academic community. However, he continued to study mathematics (especially mathematical physics) from books by Bernhard Riemann, Dirichlet and Augustin-Louis Cauchy. He also continued his research, publishing two papers in differential geometry.
+In 1859 Christoffel returned to Berlin, earning his habilitation and becoming a Privatdozent at the University of Berlin. In 1862 he was appointed to a chair at the Polytechnic School in Zürich left vacant by Dedekind. He organised a new institute of mathematics at the young institution (it had been established only seven years earlier) that was highly appreciated. He also continued to publish research, and in 1868 he was elected a corresponding member of the Prussian Academy of Sciences and of the Istituto Lombardo in Milan. In 1869 Christoffel returned to Berlin as a professor at the Gewerbeakademie (now part of the Technical University of Berlin), with Hermann Schwarz succeeding him in Zürich. However, strong competition from the close proximity to the University of Berlin meant that the Gewerbeakademie could not attract enough students to sustain advanced mathematical courses and Christoffel left Berlin again after three years.
+In 1872 Christoffel became a professor at the University of Strasbourg, a centuries-old institution that was being reorganized into a modern university after Prussia's annexation of Alsace-Loraine in the Franco-Prussian War. Christoffel, together with his colleague Theodor Reye, has built a reputable mathematics department at Strasbourg. He continued to publish research and had several doctoral students: Otto Pauls, Victor Doerr, Rikitaro Fujisawa, Ludwig Maurer, Joseph Wellstein and Paul Epstein. Christoffel retired from the University of Strasbourg in 1894, being succeeded by Heinrich Weber. After retirement he continued to work and publish, with the last treatise finished just before his death and published posthumously.
+Christoffel died on 15 March 1900 in Strasbourg. He was never married and has left no family behind.
+Christoffel is mainly remembered for his seminal contributions to differential geometry. In a famous 1869 paper on the equivalence problem for differential forms in n variables, published in Crelle's Journal, he introduced the fundamental technic later called covariant differentiation and used it to define the Riemann–Christoffel tensor (the most common method used to express the curvature of Riemannian manifolds). In the same paper he introduced the Christoffel symbols 
+          Γ
+            i
+            j
+            ,
+            k
+    {\displaystyle \Gamma _{ij,k}}
+   and 
+          Γ
+            i
+            j
+            k
+    {\displaystyle \Gamma _{ij}^{k}}
+   which express the components of the Levi-Civita connection with respect to a system of local coordinates. Christoffel's ideas were generalized and greatly developed by Gregorio Ricci-Curbastro and his student Tullio Levi-Civita, who turned them into the concept of tensors and the absolute differential calculus. The absolute differential calculus, later named tensor calculus, forms the mathematical basis of the general theory of relativity.
+Christoffel contributed to complex analysis, where the Schwarz–Christoffel mapping is the first nontrivial constructive application of the Riemann mapping theorem. The Schwarz–Christoffel mapping has many applications to the theory of elliptic functions and to areas of physics. In the field of elliptic functions he also published results concerning abelian integrals and theta functions.
+Christoffel generalized the Gaussian quadrature method for integration and, in connection to this, he also introduced the Christoffel–Darboux formula for Legendre polynomials (he later also published the formula for general orthogonal polynomials).
+Christoffel also worked on potential theory and the theory of differential equations, however much of his research in these areas went unnoticed. He published two papers on the propagation of discontinuities in the solutions of partial differential equations which represent pioneering work in the theory of shock waves. He also studied physics and published research in optics, however his contributions here quickly lost their utility with the abandonment of the concept of the luminiferous aether.
+Christoffel was elected as a corresponding member of several academies:
+Prussian Academy of Sciences (1868)
+Istituto Lombardo (1868)
+Göttingen Academy of Sciences (1869)
+Christoffel was also awarded two distinctions for his activity by the Kingdom of Prussia:
+Order of the Red Eagle 3rd Class with bow (Schleife) (1893)
+Order of the Crown 2nd Class (1895)
+Christoffel, E. B. (1858). "Über die Gaußische Quadratur und eine Verallgemeinerung derselben.". Journal für die reine und angewandte Mathematik (in German) 55: 61–82. doi:10.1515/crll.1858.55.61. ISSN 0075-4102. 
+Christoffel, E.B. (1869). "Ueber die Transformation der homogenen Differentialausdrücke zweiten Grades". Journal für die reine und angewandte Mathematik (de Gruyter) 70. Retrieved 6 October 2015. 

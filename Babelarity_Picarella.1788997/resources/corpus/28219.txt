@@ -1,0 +1,54 @@
+The Yakovlev Yak-23 (in Russian Як-23, USAF/DoD reporting name "Type 28"), NATO reporting name "Flora" was a jet fighter developed in the USSR in the 1940s and used in the early 1950s.
+The Yak-23 was developed as a simple lightweight jet fighter, on Yakovlev's own initiative. It was a development of the earlier Yak-15 and Yak-17 fighters, retaining their non-conventional layout with a jet engine in the fuselage nose and exhaust under the cockpit, but the construction was all new. Its wings were derived from the Yak-19. The Yak-23 used a Soviet copy of the British Rolls-Royce Derwent V turbojet engine, produced as the Klimov RD-500. It first flew on July 8, 1947. After successful flights, it underwent state trials in 1948 and was accepted for series production. It was evaluated as highly maneuverable, with a good acceleration and take-off and climb capabilities thanks to high thrust-to-weight ratio. Faults were poor directional stability at speeds around Mach 0.86 and lack of cockpit pressurization. Despite being one of the best straight-wing jet fighters, it was inferior to new swept-wing designs.
+The first aircraft were produced in a factory in Tbilisi in October 1949. In late 1949 they entered Soviet air force service, and were also ordered for export in 1949-50. The Yak-23 was quickly replaced in the Soviet service with the more complicated swept-wing MiG-15, which offered superior performance. In all, only 310 Yak-23 aircraft were built before production ended in 1950. Apart from the fighter there were two trainer versions of the Yak-23 which were built in small numbers. The Yak-23UTI two-seat trainer which appears to have had the unusual arrangement of having the instructor sat in front of the student, and the Yak-23DC trainer which was produced in Romania.
+Small numbers of Yak-23 were exported to Czechoslovakia (20 from 1949, named S-101), Bulgaria (from 1949), Poland (about 100, from 1950), Romania (62, from 1951) and probably Albania. Poland and Czechoslovakia acquired license of Yak-23, but didn't start production in favour of the MiG-15. Yak-23s were withdrawn by the late 1950s. They were not used in combat (there are reports of US pilots encountering Yak-23s during the Korean War, but their presence in North Korea is not confirmed).
+A single Yak-23 was acquired by US intelligence, via Yugoslavia, in November 1953. It was a Romanian Yak-23 flown by Mihail Diaconu who defected with it. The aircraft arrived disassembled, and was shipped to the Air Force Test and Evaluation Center at Wright Field near Dayton, Ohio. It was reassembled and made operational for several flight tests, during which time it was disguised with U.S. markings. Efforts were made to keep the aircraft's identity secret, and it was only flown in the early morning. On one occasion it was passed on the runway by a formation of F-86's, whose pilots inquired as to the plane's identity. A story was conceived that the aircraft was a Bell X-5, which had a similar layout. At the completion of design and flight evaluations the aircraft was again disassembled and shipped quietly back to Yugoslavia in its original paint scheme.
+On September 21, 1957, the Polish pilot Andrzej Abłamowicz set two FAI world records on Yak-23 with civilian markings SP-GLK, in its weight class, climbing to 3,000 m (9,843 ft) in 119 seconds (4,962.6 ft/min) and to 6,000 m (19,685 ft) in 197 seconds (5,995.4 ft/min). This plane was withdrawn in 1961, being possibly the last Yak-23 used in the world.
+Yak-23
+Fighter version, serial built.
+Yak-23UTI
+Two-seat training version with longer fuselage and lighter armament, 3 built.
+Yak-23DC
+Romanian-built two-seat training version. Four Yak-23 single-seaters were converted in 1956 by ASAM Pipera, two of them belonging to the Bulgarian AF.
+S-101
+Czech designation.
+ Bulgaria
+Bulgarian Air Force received at least 12 aircraft in 1949.
+ Czechoslovakia
+Czechoslovak Air Force received 20 aircraft in 1949.
+ Hungary
+Hungarian Air Force received an unknown number of aircraft in 1950.
+ Poland
+Polish Air Force received about 100 aircraft operated between 1950 and 1956
+ Romania
+Romanian Air Force received 62 aircraft in 1951, used them until 1958
+ Soviet Union
+Soviet Air Force operated aircraft between 1949 and 1951.
+ United States
+United States Air Force operated one aircraft in November 1953 for flight tests.
+Data from The Complete Book of Fighters
+General characteristics
+Crew: one
+Length: 8.13 m (26 ft 8 in)
+Wingspan: 8.73 m (28 ft 7 3⁄4 in)
+Height: 3.31 m (10 ft 10 1⁄3 in)
+Wing area: 13.50 m² (145.3 ft²)
+Empty weight: 1,980 kg (4,356 lb)
+Loaded weight: 3,384 kg (7,445 lb)
+Powerplant: 1 × Klimov RD-500 turbojet, 15.6 kN (3,500 lbf)
+Performance
+Maximum speed: 925 km/h (500 knots, 575 mph) at sea level
+Range: 1,200 km (648 nmi, 746 mi)
+Service ceiling: 14,800 m (48,500 ft)
+Rate of climb: 47 m/s (9250 ft/min)
+Armament
+Guns: 2 × 23 mm Nudelman-Rikhter NR-23 with 90 rpg
+Related development
+Yakovlev Yak-15
+Yakovlev Yak-17
+Yakovlev Yak-19
+Aircraft of comparable role, configuration and era
+Mikoyan-Gurevich MiG-9
+Related lists
+List of fighter aircraft
+List of military aircraft of the Soviet Union and CIS

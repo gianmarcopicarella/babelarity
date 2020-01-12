@@ -1,0 +1,71 @@
+Paul Painlevé (French: [pɔl pɛ̃ləve]; 5 December 1863 – 29 October 1933) was a French mathematician and statesman. He served twice as Prime Minister of the Third Republic: 12 September – 13 November 1917 and 17 April – 22 November 1925. His entry into politics came in 1906 after a professorship at the Sorbonne that began in 1892.
+His first term as prime minister lasted only nine weeks but dealt with weighty issues, such as the Russian Revolution, the American entry into the war, the failure of the Nivelle Offensive, quelling the French Army Mutinies and relations with the British. In the 1920s as Minister of War he was a key figure in building the Maginot Line. In his second term as prime minister he dealt with the outbreak of rebellion in Syria's Jabal Druze in July 1925 which had excited public and parliamentary anxiety over the general crisis of France's empire.
+Painlevé was born in Paris.
+Brought up within a family of skilled artisans (his father was a draughtsman) Painlevé showed early promise across the range of elementary studies and was initially attracted by either an engineering or political career. However, he finally entered the École Normale Supérieure in 1883 to study mathematics, receiving his doctorate in 1887 following a period of study at Göttingen, Germany with Felix Klein and Hermann Amandus Schwarz. Intending an academic career he became professor at Université de Lille, returning to Paris in 1892 to teach at the Sorbonne, École Polytechnique and later at the Collège de France and the École Normale Supérieure. He was elected a member of the Académie des Sciences in 1900.
+He married Marguerite Petit de Villeneuve in 1901. Marguerite died during the birth of their son Jean Painlevé in the following year.
+Painlevé's mathematical work on differential equations led him to encounter their application to the theory of flight and, as ever, his broad interest in engineering topics fostered an enthusiasm for the emerging field of aviation. In 1908, he became Wilbur Wright's first airplane passenger in France and in 1909 created the first university course in aeronautics.
+Some differential equations can be solved using elementary algebraic operations that involve the trigonometric and exponential functions (sometimes called elementary functions). Many interesting special functions arise as solutions of linear second order ordinary differential equations. Around the turn of the century, Painlevé, É. Picard, and B. Gambier showed that of the class of nonlinear second order ordinary differential equations with polynomial coefficients, those that possess a certain desirable technical property, shared by the linear equations (nowadays commonly referred to as the 'Painlevé property') can always be transformed into one of fifty canonical forms. Of these fifty equations, just six require 'new' transcendental functions for their solution. These new transcendental functions, solving the remaining six equations, are called the Painlevé transcendents, and interest in them has revived recently due to their appearance in modern geometry, integrable systems and statistical mechanics.
+In 1895 he gave a series of lectures at Stockholm University on differential equations, at the end stating the Painlevé conjecture about singularities of the n-body problem.
+In the nineteen twenties, Painlevé briefly turned his attention to the new theory of gravitation, general relativity, which had recently been introduced by Albert Einstein. In 1921, Painlevé proposed the Gullstrand–Painlevé coordinates for the Schwarzschild metric. The modification in the coordinate system was the first to reveal clearly that the Schwarzschild radius is a mere coordinate singularity (with however, profound global significance: it represents the event horizon of a black hole). This essential point was not generally appreciated by physicists until around 1963. In his diary, Harry Graf Kessler recorded that during a later visit to Berlin, Painlevé discussed pacifist international politics with Einstein, but there is no reference to discussions concerning the significance of the Schwarzschild radius.
+Between 1915 and 1917, Painlevé served as French Minister for Public Instruction and Inventions. In December 1915, he requested a scientific exchange agreement between France and Britain, resulting in Anglo-French collaboration that ultimately led to the parallel development by Paul Langevin in France and Robert Boyle in Britain of the first active sonar.
+Painlevé took his aviation interests, along with those in naval and military matters, with him when he became, in 1906, Deputy for Paris's 5th arrondissement, the so-called Latin Quarter. By 1910, he had vacated his academic posts and World War I led to his active participation in military committees, joining Aristide Briand's cabinet in 1915 as Minister for Public Instruction and Inventions.
+On his appointment as War Minister in March 1917 he was immediately called upon to give his approval, albeit with some misgivings, to Robert Georges Nivelle's wildly optimistic plans for a breakthrough offensive in Champagne. Painlevé reacted to the disastrous public failure of the plan by dismissing Nivelle and controversially replacing him with Henri Philippe Pétain. He was also responsible for isolating the Russian Expeditionary Force in France in the La Courtine camp, located in a remote spot on the plateau of Millevaches.
+On 7 September 1917, Prime Minister Alexandre Ribot lost the support of the Socialists and Painlevé was called upon to form a new government.
+Painlevé was a leading voice at the Rapallo conference that led to the establishment of the Supreme Allied Council, a consultative body of Allied powers that anticipated the unified Allied command finally established in the following year. He appointed Ferdinand Foch as French representative knowing that he was the natural Allied commander. On Painlevé's return to Paris he was defeated and resigned on 13 November 1917 to be succeeded by Georges Clemenceau. Foch was finally made commander-in-chief of all Allied armies on the Western and Italian fronts in March 1918.
+Painlevé then played little active role in politics until the election of November 1919 when he emerged as a leftist critic of the right-wing Bloc National. By the time the next election approached in May 1924 his collaboration with Édouard Herriot, a fellow member of Briand's 1915 cabinet, had led to the formation of the Cartel des Gauches. Winning the election, Herriot became Prime Minister in June, while Painlevé became President of the Chamber of Deputies. Though Painlevé ran for President of France in 1924 he was defeated by Gaston Doumergue. Herriot's administration publicly recognised the Soviet Union, accepted the Dawes Plan and agreed to evacuate the Ruhr. However, a financial crisis arose from the ensuing devaluation of the franc and in April 1925, Herriot fell and Painlevé became Prime Minister for a second time on 17 April. Unfortunately, he was unable to offer convincing remedies for the financial problems and was forced to resign on 21 November.
+Following Painlevé's resignation, Briand formed a new government with Painlevé as Minister for War. Though Briand was defeated by Raymond Poincaré in 1926, Painlevé continued in office. Poincaré stabilised the franc with a return to the gold standard, but ultimately acceded power to Briand. During his tenure as Minister of War, Painlevé was instrumental in the creation of the Maginot Line. This line of military fortifications along France's Eastern border was largely designed by Painlevé, yet named for André Maginot, owing to Maginot's championing of public support and funding. Painlevé remained in office as Minister for War until July 1929.
+Though he was proposed for President of France in 1932, Painlevé withdrew before the election. He became Minister of Air later that year, making proposals for an international treaty to ban the manufacture of bomber aircraft and to establish an international air force to enforce global peace. On the fall of the government in January 1933, his political career ended.
+Painlevé died in Paris in October of the same year. On 4 November, after a eulogy by Prime Minister Albert Sarraut, he was interred in the Panthéon.
+The aircraft carrier Painlevé was named in his honour.
+The asteroid 953 Painleva was named in his honour.
+Paul Painlevé – President of the Council and Minister of War
+Alexandre Ribot – Minister of Foreign Affairs
+Louis Loucheur – Minister of Armaments and War Manufacturing
+Théodore Steeg – Minister of the Interior
+Louis Lucien Klotz – Minister of Finance
+André Renard – Minister of Labour and Social Security Provisions
+Raoul Péret – Minister of Justice
+Charles Chaumet – Minister of Marine
+Charles Daniel-Vincent – Minister of Public Instruction and Fine Arts
+Fernand David – Minister of Agriculture
+Maurice Long – Minister of General Supply
+René Besnard – Minister of Colonies
+Albert Claveille – Minister of Public Works and Transport
+Étienne Clémentel – Minister of Commerce, Industry, Posts, and Telegraphs
+Louis Barthou – Minister of State
+Léon Bourgeois – Minister of State
+Paul Doumer – Minister of State
+Jean Dupuy – Minister of State
+Changes
+27 September 1917 – Henry Franklin-Bouillon entered the ministry as Minister of State.
+23 October 1917 – Louis Barthou succeeded Ribot as Minister of Foreign Affairs
+Paul Painlevé – President of the Council and Minister of War
+Aristide Briand – Minister of Foreign Affairs
+Abraham Schrameck – Minister of the Interior
+Joseph Caillaux – Minister of Finance
+Antoine Durafour – Minister of Labour, Hygiene, Welfare Work, and Social Security Provisions
+Théodore Steeg – Minister of Justice
+Émile Borel – Minister of Marine
+Anatole de Monzie – Minister of Public Instruction and Fine Arts.
+Louis Antériou – Minister of Pensions
+Jean Durand – Minister of Agriculture
+Orly André-Hesse – Minister of Colonies
+Pierre Laval – Minister of Public Works
+Charles Chaumet – Minister of Commerce and Industry
+Changes
+11 October 1925 – Anatole de Monzie succeeded Steeg as Minister of Justice. Yvon Delbos succeeded Monzie as Minister of Public Instruction and Fine Arts.
+Paul Painlevé – President of the Council and Minister of Finance
+Aristide Briand – Minister of Foreign Affairs
+Édouard Daladier – Minister of War
+Abraham Schrameck – Minister of the Interior
+Georges Bonnet – Minister of Budget
+Antoine Durafour – Minister of Labour, Hygiene, Welfare Work, and Social Security Provisions
+Camille Chautemps – Minister of Justice
+Émile Borel – Minister of Marine
+Yvon Delbos – Minister of Public Instruction and Fine Arts
+Louis Antériou – Minister of Pensions
+Jean Durand – Minister of Agriculture
+Léon Perrier – Minister of Colonies
+Anatole de Monazie – Minister of Public Works
+Charles Daniel-Vincent – Minister of Commerce and Industry
+List of people on the cover of Time Magazine: 1920s

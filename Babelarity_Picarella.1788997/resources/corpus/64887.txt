@@ -1,0 +1,1317 @@
+Lagrange's four-square theorem, also known as Bachet's conjecture, states that every natural number can be represented as the sum of four integer squares.
+        p
+        =
+          a
+            0
+            2
+        +
+          a
+            1
+            2
+        +
+          a
+            2
+            2
+        +
+          a
+            3
+            2
+    {\displaystyle p=a_{0}^{2}+a_{1}^{2}+a_{2}^{2}+a_{3}^{2}\ }
+where the four numbers 
+          a
+            0
+        ,
+          a
+            1
+        ,
+          a
+            2
+        ,
+          a
+            3
+    {\displaystyle a_{0},a_{1},a_{2},a_{3}}
+   are integers. For illustration, 3, 31 and 310 can be represented as the sum of four squares as follows:
+                3
+                =
+                  1
+                    2
+                +
+                  1
+                    2
+                +
+                  1
+                    2
+                +
+                  0
+                    2
+                31
+                =
+                  5
+                    2
+                +
+                  2
+                    2
+                +
+                  1
+                    2
+                +
+                  1
+                    2
+                310
+                =
+                  17
+                    2
+                +
+                  4
+                    2
+                +
+                  2
+                    2
+                +
+                  1
+                    2
+                .
+    {\displaystyle {\begin{aligned}3&=1^{2}+1^{2}+1^{2}+0^{2}\\[3pt]31&=5^{2}+2^{2}+1^{2}+1^{2}\\[3pt]310&=17^{2}+4^{2}+2^{2}+1^{2}.\end{aligned}}}
+This theorem was proved by Joseph Louis Lagrange in 1770.
+From examples given in the Arithmetica it is clear that Diophantus was aware of the theorem. This book was translated in 1621 into Latin by Bachet (Claude Gaspard Bachet de Méziriac), who stated the theorem in the notes of his translation. But the theorem was not proved until 1770 by Lagrange.
+Adrien-Marie Legendre completed the theorem in 1797–8 with his three-square theorem, by proving that a positive integer can be expressed as the sum of three squares if and only if it is not of the form 
+          4
+            k
+        (
+        8
+        m
+        +
+        7
+        )
+    {\displaystyle 4^{k}(8m+7)}
+   for integers 
+        k
+    {\displaystyle k}
+   and 
+        m
+    {\displaystyle m}
+  . Later, in 1834, Carl Gustav Jakob Jacobi discovered a simple formula for the number of representations of an integer as the sum of four squares with his own four-square theorem.
+The formula is also linked to Descartes' theorem of four "kissing circles", which involves the sum of the squares of the curvatures of four circles. This is also linked to Apollonian gaskets, which were more recently related to the Ramanujan–Petersson conjecture.
+Several very similar modern versions of Lagrange's proof are easy to find in the literature. The proof below is a slightly simplified version, in which the cases for which m is even or odd do not require separate arguments.
+It is sufficient to prove the theorem for every odd prime number p. This immediately follows from Euler's four-square identity (and from the fact that the theorem is true for the numbers 1 and 2).
+The residues of a2 modulo p are distinct for every a between 0 and (p − 1)/2 (inclusive). To see this, take some a and define c as a2 mod p. a is a root of the polynomial x2 − c over the field Z/pZ. So is p − a (which is different from a). In a field K, any polynomial of degree n has at most n distinct roots (Lagrange's theorem (number theory)), so there are no other a with this property, in particular not among 0 to (p − 1)/2.
+Similarly, for b taking integral values between 0 and (p − 1)/2 (inclusive), the −b2 − 1 are distinct. By the pigeonhole principle, there are a and b in this range, for which a2 and −b2 − 1 are congruent modulo p, that is for which
+a2 + b2 + 12 + 02 = np ,
+with 0 < n < p.
+Now let m be the smallest positive integer such that mp is the sum of four squares, x12 + x22 + x32 + x42 (we have just shown that there is some m (namely n) with this property, so there is a least one). We show by contradiction that m equals 1: supposing it is not the case, we prove the existence of a positive integer r less than m, for which rp is also the sum of four squares (this is in the spirit of the infinite descent method of Fermat).
+For this purpose, we consider for each xi the yi which is in the same residue class modulo m and between (–m + 1)/2 and m/2 (included). It follows that y12 + y22 + y32 + y42 = mr, for some strictly positive integer r less than m.
+Finally, another appeal to Euler's four-square identity shows that mpmr = z12 + z22 + z32 + z42, where each zi is divisible by m (indeed, since each xi is congruent to his corresponding yi, z1 is congruent modulo m to y12 + y22 + y32 + y42 = m r; for the same reason the other zi are also divisible by m). It follows that, for wi = zi/m, w12 + w22 + w32 + w42 = rp, and this is in contradiction with the minimality of m.
+In the descent above, we must rule out both the case y1 = y2 = y3 = y4 = m/2 (which would give r = m and no descent), and also the case y1 = y2 = y3 = y4 = 0 (which would give r = 0 rather than strictly positive). For both of those cases, one can check that mp = x12 + x22 + x32 + x42 would be a multiple of m2, contradicting the fact that p is prime greater than m.
+One of the ways to prove the theorem relies on Hurwitz quaternions, which are the analog of integers for quaternions. The Hurwitz quaternions consist of all quaternions with integer components and all quaternions with half-integer components. These two sets can be combined into a single formula
+        α
+        =
+            1
+            2
+          E
+            0
+        (
+        1
+        +
+          i
+        +
+          j
+        +
+          k
+        )
+        +
+          E
+            1
+          i
+        +
+          E
+            2
+          j
+        +
+          E
+            3
+          k
+        =
+          a
+            0
+        +
+          a
+            1
+          i
+        +
+          a
+            2
+          j
+        +
+          a
+            3
+          k
+    {\displaystyle \alpha ={\frac {1}{2}}E_{0}(1+\mathbf {i} +\mathbf {j} +\mathbf {k} )+E_{1}\mathbf {i} +E_{2}\mathbf {j} +E_{3}\mathbf {k} =a_{0}+a_{1}\mathbf {i} +a_{2}\mathbf {j} +a_{3}\mathbf {k} }
+where 
+          E
+            0
+        ,
+          E
+            1
+        ,
+          E
+            2
+        ,
+          E
+            3
+    {\displaystyle E_{0},E_{1},E_{2},E_{3}}
+   are integers. Thus, the quaternion components 
+          a
+            0
+        ,
+          a
+            1
+        ,
+          a
+            2
+        ,
+          a
+            3
+    {\displaystyle a_{0},a_{1},a_{2},a_{3}}
+   are either all integers or all half-integers, depending on whether 
+          E
+            0
+    {\displaystyle E_{0}}
+   is even or odd, respectively. The set of Hurwitz quaternions forms a ring; that is to say, the sum or product of any two Hurwitz quaternions is likewise a Hurwitz quaternion.
+The (arithmetic, or field) norm 
+          N
+        (
+        α
+        )
+    {\displaystyle \mathrm {N} (\alpha )}
+   of a rational quaternion 
+        α
+    {\displaystyle \alpha }
+   is the nonnegative rational number
+          N
+        (
+        α
+        )
+        =
+        α
+              α
+              ¯
+        =
+          a
+            0
+            2
+        +
+          a
+            1
+            2
+        +
+          a
+            2
+            2
+        +
+          a
+            3
+            2
+    {\displaystyle \mathrm {N} (\alpha )=\alpha {\bar {\alpha }}=a_{0}^{2}+a_{1}^{2}+a_{2}^{2}+a_{3}^{2}}
+where 
+              α
+              ¯
+        =
+          a
+            0
+        −
+          a
+            1
+          i
+        −
+          a
+            2
+          j
+        −
+          a
+            3
+          k
+    {\displaystyle {\bar {\alpha }}=a_{0}-a_{1}\mathbf {i} -a_{2}\mathbf {j} -a_{3}\mathbf {k} }
+   is the conjugate of 
+        α
+    {\displaystyle \alpha }
+  . Note that the norm of a Hurwitz quaternion is always an integer. (If the coefficients are half-integers, then their squares are of the form 
+              1
+              4
+        +
+        n
+        :
+        n
+        ∈
+          Z
+    {\displaystyle {\tfrac {1}{4}}+n:n\in \mathbb {Z} }
+  , and the sum of four such numbers is an integer.)
+Since quaternion multiplication is associative, and real numbers commute with other quaternions, the norm of a product of quaternions equals the product of the norms:
+          N
+        (
+        α
+        β
+        )
+        =
+        α
+        β
+        (
+              α
+              β
+            ¯
+        )
+        =
+        α
+        β
+              β
+              ¯
+              α
+              ¯
+        =
+        α
+          N
+        (
+        β
+        )
+              α
+              ¯
+        =
+        α
+              α
+              ¯
+          N
+        (
+        β
+        )
+        =
+          N
+        (
+        α
+        )
+          N
+        (
+        β
+        )
+        .
+    {\displaystyle \mathrm {N} (\alpha \beta )=\alpha \beta ({\overline {\alpha \beta }})=\alpha \beta {\bar {\beta }}{\bar {\alpha }}=\alpha \mathrm {N} (\beta ){\bar {\alpha }}=\alpha {\bar {\alpha }}\mathrm {N} (\beta )=\mathrm {N} (\alpha )\mathrm {N} (\beta ).}
+For any 
+        α
+        ≠
+        0
+    {\displaystyle \alpha \neq 0}
+  , 
+          α
+            −
+            1
+        =
+              α
+              ¯
+          N
+        (
+        α
+          )
+            −
+            1
+    {\displaystyle \alpha ^{-1}={\bar {\alpha }}\mathrm {N} (\alpha )^{-1}}
+  . It follows easily that 
+        α
+    {\displaystyle \alpha }
+   is a unit in the ring of Hurwitz quaternions if and only if 
+          N
+        (
+        α
+        )
+        =
+        1
+    {\displaystyle \mathrm {N} (\alpha )=1}
+  .
+The proof of the main theorem begins by reduction to the case of prime numbers. Euler's four-square identity implies that if Langrange's four-square theorem holds for two numbers, it holds for the product of the two numbers. Since any natural number can be factored into powers of primes, it suffices to prove the theorem for prime numbers. It is true for 
+        2
+        =
+          1
+            2
+        +
+          1
+            2
+        +
+          0
+            2
+        +
+          0
+            2
+    {\displaystyle 2=1^{2}+1^{2}+0^{2}+0^{2}}
+  . To show this for an odd prime integer 
+        p
+    {\displaystyle p}
+  , represent it as a quaternion 
+        (
+        p
+        ,
+        0
+        ,
+        0
+        ,
+        0
+        )
+    {\displaystyle (p,0,0,0)}
+   and assume for now (as we shall show later) that it is not a Hurwitz irreducible; that is, it can be factored into two non-unit Hurwitz quaternions
+        p
+        =
+        α
+        β
+        .
+    {\displaystyle p=\alpha \beta .}
+The norms of 
+        p
+        ,
+        α
+        ,
+        β
+    {\displaystyle p,\alpha ,\beta }
+   are integers such that
+          N
+        (
+        p
+        )
+        =
+          p
+            2
+        =
+          N
+        (
+        α
+        β
+        )
+        =
+          N
+        (
+        α
+        )
+          N
+        (
+        β
+        )
+    {\displaystyle \mathrm {N} (p)=p^{2}=\mathrm {N} (\alpha \beta )=\mathrm {N} (\alpha )\mathrm {N} (\beta )}
+and 
+          N
+        (
+        α
+        )
+        ,
+          N
+        (
+        β
+        )
+        >
+        1
+    {\displaystyle \mathrm {N} (\alpha ),\mathrm {N} (\beta )>1}
+  . This shows that both 
+          N
+        (
+        α
+        )
+    {\displaystyle \mathrm {N} (\alpha )}
+   and 
+          N
+        (
+        β
+        )
+    {\displaystyle \mathrm {N} (\beta )}
+   are equal to 
+        p
+    {\displaystyle p}
+   (since they are integers), and 
+        p
+    {\displaystyle p}
+   is the sum of four squares
+        p
+        =
+          N
+        (
+        α
+        )
+        =
+          a
+            0
+            2
+        +
+          a
+            1
+            2
+        +
+          a
+            2
+            2
+        +
+          a
+            3
+            2
+        .
+    {\displaystyle p=\mathrm {N} (\alpha )=a_{0}^{2}+a_{1}^{2}+a_{2}^{2}+a_{3}^{2}.}
+If it happens that the 
+        α
+    {\displaystyle \alpha }
+   chosen has half-integer coefficients, it can be replaced by another Hurwitz quaternion. Choose 
+        ω
+        =
+        (
+        ±
+        1
+        ±
+          i
+        ±
+          j
+        ±
+          k
+        )
+          /
+        2
+    {\displaystyle \omega =(\pm 1\pm \mathbf {i} \pm \mathbf {j} \pm \mathbf {k} )/2}
+   in such a way that 
+        γ
+        ≡
+        ω
+        +
+        α
+    {\displaystyle \gamma \equiv \omega +\alpha }
+   has even integer coefficients. Then
+        p
+        =
+        (
+              γ
+              ¯
+        −
+              ω
+              ¯
+        )
+        ω
+              ω
+              ¯
+        (
+        γ
+        −
+        ω
+        )
+        =
+        (
+              γ
+              ¯
+        ω
+        −
+        1
+        )
+        (
+              ω
+              ¯
+        γ
+        −
+        1
+        )
+        .
+    {\displaystyle p=({\bar {\gamma }}-{\bar {\omega }})\omega {\bar {\omega }}(\gamma -\omega )=({\bar {\gamma }}\omega -1)({\bar {\omega }}\gamma -1).}
+Since 
+        γ
+    {\displaystyle \gamma }
+   has even integer coefficients, 
+        (
+              ω
+              ¯
+        γ
+        −
+        1
+        )
+    {\displaystyle ({\bar {\omega }}\gamma -1)}
+   will have integer coefficients and can be used instead of the original 
+        α
+    {\displaystyle \alpha }
+   to give a representation of 
+        p
+    {\displaystyle p}
+   as the sum of four squares.
+As for showing that 
+        p
+    {\displaystyle p}
+   is not a Hurwitz irreducible, Lagrange proved that any odd prime 
+        p
+    {\displaystyle p}
+   divides at least one number of the form 
+        u
+        =
+        1
+        +
+          l
+            2
+        +
+          m
+            2
+    {\displaystyle u=1+l^{2}+m^{2}}
+  , where 
+        l
+    {\displaystyle l}
+   and 
+        m
+    {\displaystyle m}
+   are integers. This can be seen as follows: since 
+        p
+    {\displaystyle p}
+   is prime, 
+          a
+            2
+        ≡
+          b
+            2
+          (
+          mod
+          p
+          )
+    {\displaystyle a^{2}\equiv b^{2}{\pmod {p}}}
+   can hold for integers 
+        a
+        ,
+        b
+    {\displaystyle a,b}
+  , only when 
+        a
+        ≡
+        ±
+        b
+          (
+          mod
+          p
+          )
+    {\displaystyle a\equiv \pm b{\pmod {p}}}
+  . Thus, the set 
+        X
+        =
+        {
+          0
+            2
+        ,
+          1
+            2
+        ,
+        …
+        ,
+        (
+        (
+        p
+        −
+        1
+        )
+          /
+        2
+          )
+            2
+        }
+    {\displaystyle X=\{0^{2},1^{2},\dots ,((p-1)/2)^{2}\}}
+   of squares contains 
+        (
+        p
+        +
+        1
+        )
+          /
+        2
+    {\displaystyle (p+1)/2}
+   distinct residues modulo 
+        p
+    {\displaystyle p}
+  . Likewise, 
+        Y
+        =
+        {
+        −
+        (
+        1
+        +
+        x
+        )
+        :
+        x
+        ∈
+        X
+        }
+    {\displaystyle Y=\{-(1+x):x\in X\}}
+   contains 
+        (
+        p
+        +
+        1
+        )
+          /
+        2
+    {\displaystyle (p+1)/2}
+   residues. Since there are only 
+        p
+    {\displaystyle p}
+   residues in total, and 
+          |
+        X
+          |
+        +
+          |
+        Y
+          |
+        =
+        p
+        +
+        1
+        >
+        p
+    {\displaystyle |X|+|Y|=p+1>p}
+  , the sets 
+        X
+    {\displaystyle X}
+   and 
+        Y
+    {\displaystyle Y}
+   must intersect.
+The number 
+        u
+    {\displaystyle u}
+   can be factored in Hurwitz quaternions:
+        1
+        +
+          l
+            2
+        +
+          m
+            2
+        =
+        (
+        1
+        +
+        l
+          i
+        +
+        m
+          j
+        )
+        (
+        1
+        −
+        l
+          i
+        −
+        m
+          j
+        )
+        .
+    {\displaystyle 1+l^{2}+m^{2}=(1+l\;\mathbf {i} +m\;\mathbf {j} )(1-l\;\mathbf {i} -m\;\mathbf {j} ).}
+The norm on Hurwitz quaternions satisfies a form of the Euclidean property: for any quaternion 
+        α
+        =
+          a
+            0
+        +
+          a
+            1
+          i
+        +
+          a
+            2
+          j
+        +
+          a
+            3
+          k
+    {\displaystyle \alpha =a_{0}+a_{1}\mathbf {i} +a_{2}\mathbf {j} +a_{3}\mathbf {k} }
+   with rational coefficients we can choose a Hurwitz quaternion 
+        β
+        =
+          b
+            0
+        +
+          b
+            1
+          i
+        +
+          b
+            2
+          j
+        +
+          b
+            3
+          k
+    {\displaystyle \beta =b_{0}+b_{1}\mathbf {i} +b_{2}\mathbf {j} +b_{3}\mathbf {k} }
+   so that 
+          N
+        (
+        α
+        −
+        β
+        )
+        <
+        1
+    {\displaystyle \mathrm {N} (\alpha -\beta )<1}
+   by first choosing 
+          b
+            0
+    {\displaystyle b_{0}}
+   so that 
+          |
+          a
+            0
+        −
+          b
+            0
+          |
+        ≤
+        1
+          /
+        4
+    {\displaystyle |a_{0}-b_{0}|\leq 1/4}
+   and then 
+          b
+            1
+        ,
+          b
+            2
+        ,
+          b
+            3
+    {\displaystyle b_{1},b_{2},b_{3}}
+   so that 
+          |
+          a
+            i
+        −
+          b
+            i
+          |
+        ≤
+        1
+          /
+        2
+    {\displaystyle |a_{i}-b_{i}|\leq 1/2}
+   for 
+        i
+        =
+        1
+        ,
+        2
+        ,
+        3
+    {\displaystyle i=1,2,3}
+  . Then we obtain
+                  N
+                (
+                α
+                −
+                β
+                )
+                =
+                (
+                  a
+                    0
+                −
+                  b
+                    0
+                  )
+                    2
+                +
+                (
+                  a
+                    1
+                −
+                  b
+                    1
+                  )
+                    2
+                +
+                (
+                  a
+                    2
+                −
+                  b
+                    2
+                  )
+                    2
+                +
+                (
+                  a
+                    3
+                −
+                  b
+                    3
+                  )
+                    2
+                ≤
+                    (
+                        1
+                        4
+                    )
+                    2
+                +
+                    (
+                        1
+                        2
+                    )
+                    2
+                +
+                    (
+                        1
+                        2
+                    )
+                    2
+                +
+                    (
+                        1
+                        2
+                    )
+                    2
+                =
+                    13
+                    16
+                <
+                1.
+    {\displaystyle {\begin{aligned}\mathrm {N} (\alpha -\beta )&=(a_{0}-b_{0})^{2}+(a_{1}-b_{1})^{2}+(a_{2}-b_{2})^{2}+(a_{3}-b_{3})^{2}\\&\leq \left({\frac {1}{4}}\right)^{2}+\left({\frac {1}{2}}\right)^{2}+\left({\frac {1}{2}}\right)^{2}+\left({\frac {1}{2}}\right)^{2}={\frac {13}{16}}<1.\end{aligned}}}
+It follows that for any Hurwitz quaternions 
+        α
+        ,
+        β
+    {\displaystyle \alpha ,\beta }
+   with 
+        α
+        ≠
+        0
+    {\displaystyle \alpha \neq 0}
+  , there exists a Hurwitz quaternion 
+        γ
+    {\displaystyle \gamma }
+   such that
+          N
+        (
+        β
+        −
+        α
+        γ
+        )
+        <
+          N
+        (
+        α
+        )
+        .
+    {\displaystyle \mathrm {N} (\beta -\alpha \gamma )<\mathrm {N} (\alpha ).}
+The ring 
+        H
+    {\displaystyle H}
+   of Hurwitz quaternions is not commutative, hence it is not an actual Euclidean domain, and it does not have unique factorization in the usual sense. Nevertheless, the property above implies that every right ideal is principal. Thus, there is a Hurwitz quaternion 
+        α
+    {\displaystyle \alpha }
+   such that
+        α
+        H
+        =
+        p
+        H
+        +
+        (
+        1
+        −
+        l
+          i
+        −
+        m
+          j
+        )
+        H
+        .
+    {\displaystyle \alpha H=pH+(1-l\;\mathbf {i} -m\;\mathbf {j} )H.}
+In particular, 
+        p
+        =
+        α
+        β
+    {\displaystyle p=\alpha \beta }
+   for some Hurwitz quaternion 
+        β
+    {\displaystyle \beta }
+  . If 
+        β
+    {\displaystyle \beta }
+   were a unit, 
+        1
+        −
+        l
+          i
+        −
+        m
+          j
+    {\displaystyle 1-l\;\mathbf {i} -m\;\mathbf {j} }
+   would be a multiple of 
+        p
+    {\displaystyle p}
+  , however this is impossible as 
+        1
+          /
+        p
+        −
+        l
+          /
+        p
+          i
+        −
+        m
+          /
+        p
+          j
+    {\displaystyle 1/p-l/p\;\mathbf {i} -m/p\;\mathbf {j} }
+   is not a Hurwitz quaternion for 
+        p
+        >
+        2
+    {\displaystyle p>2}
+  . Similarly, if 
+        α
+    {\displaystyle \alpha }
+   were a unit, we would have
+        (
+        1
+        +
+        l
+          i
+        +
+        m
+          j
+        )
+        H
+        =
+        (
+        1
+        +
+        l
+          i
+        +
+        m
+          j
+        )
+        p
+        H
+        +
+        (
+        1
+        +
+        l
+          i
+        +
+        m
+          j
+        )
+        (
+        1
+        −
+        l
+          i
+        −
+        m
+          j
+        )
+        H
+        ⊆
+        p
+        H
+    {\displaystyle (1+l\;\mathbf {i} +m\;\mathbf {j} )H=(1+l\;\mathbf {i} +m\;\mathbf {j} )pH+(1+l\;\mathbf {i} +m\;\mathbf {j} )(1-l\;\mathbf {i} -m\;\mathbf {j} )H\subseteq pH}
+so 
+        p
+    {\displaystyle p}
+   divides 
+        1
+        +
+        l
+          i
+        +
+        m
+          j
+    {\displaystyle 1+l\;\mathbf {i} +m\;\mathbf {j} }
+  , which again contradicts the fact that 
+        1
+          /
+        p
+        −
+        l
+          /
+        p
+          i
+        −
+        m
+          /
+        p
+          j
+    {\displaystyle 1/p-l/p\;\mathbf {i} -m/p\;\mathbf {j} }
+   is not a Hurwitz quaternion. Thus, 
+        p
+    {\displaystyle p}
+   is not Hurwitz irreducible, as claimed.
+Lagrange's four-square theorem is a special case of the Fermat polygonal number theorem and Waring's problem. Another possible generalisation is the following problem: Given natural numbers 
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+    {\displaystyle a,b,c,d}
+  , can we solve
+        n
+        =
+        a
+          x
+            1
+            2
+        +
+        b
+          x
+            2
+            2
+        +
+        c
+          x
+            3
+            2
+        +
+        d
+          x
+            4
+            2
+    {\displaystyle n=ax_{1}^{2}+bx_{2}^{2}+cx_{3}^{2}+dx_{4}^{2}}
+for all positive integers 
+        n
+    {\displaystyle n}
+   in integers 
+          x
+            1
+        ,
+          x
+            2
+        ,
+          x
+            3
+        ,
+          x
+            4
+    {\displaystyle x_{1},x_{2},x_{3},x_{4}}
+  ? The case 
+        a
+        =
+        b
+        =
+        c
+        =
+        d
+        =
+        1
+    {\displaystyle a=b=c=d=1}
+   is answered in the positive by Lagrange's four-square theorem. The general solution was given by Ramanujan. He proved that if we assume, without loss of generality, that 
+        a
+        ≤
+        b
+        ≤
+        c
+        ≤
+        d
+    {\displaystyle a\leq b\leq c\leq d}
+   then there are exactly 54 possible choices for 
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+    {\displaystyle a,b,c,d}
+   such that the problem is solvable in integers 
+          x
+            1
+        ,
+          x
+            2
+        ,
+          x
+            3
+        ,
+          x
+            4
+    {\displaystyle x_{1},x_{2},x_{3},x_{4}}
+   for all 
+        n
+    {\displaystyle n}
+  . (Ramanujan listed a 55th possibility 
+        a
+        =
+        1
+        ,
+        b
+        =
+        2
+        ,
+        c
+        =
+        5
+        ,
+        d
+        =
+        5
+    {\displaystyle a=1,b=2,c=5,d=5}
+  , but in this case the problem is not solvable if 
+        n
+        =
+        15
+    {\displaystyle n=15}
+  .)
+Michael O. Rabin and Jeffrey Shallit have found randomized polynomial-time algorithms for computing a single representation 
+        n
+        =
+          x
+            1
+            2
+        +
+          x
+            2
+            2
+        +
+          x
+            3
+            2
+        +
+          x
+            4
+            2
+    {\displaystyle n=x_{1}^{2}+x_{2}^{2}+x_{3}^{2}+x_{4}^{2}}
+   for a given integer 
+        n
+    {\displaystyle n}
+  , in expected running time 
+          O
+        (
+        (
+        log
+        ⁡
+        n
+          )
+            2
+        )
+    {\displaystyle \mathrm {O} ((\log n)^{2})}
+  .
+The number of representations of a natural number n as the sum of four squares is denoted by r4(n). Jacobi's four-square theorem states that this is eight times the sum of the divisors of n if n is odd and 24 times the sum of the odd divisors of n if n is even (see divisor function), i.e.
+          r
+            4
+        (
+        n
+        )
+        =
+            {
+                  8
+                    ∑
+                      m
+                      ∣
+                      n
+                  m
+                    if 
+                  n
+                     is odd
+                  24
+                    ∑
+                              m
+                                |
+                              n
+                              m
+                                 odd
+                  m
+                    if 
+                  n
+                     is even
+                  .
+    {\displaystyle r_{4}(n)={\begin{cases}8\sum \limits _{m\mid n}m&{\text{if }}n{\text{ is odd}}\\[12pt]24\sum \limits _{\begin{smallmatrix}m|n\\m{\text{ odd}}\end{smallmatrix}}m&{\text{if }}n{\text{ is even}}.\end{cases}}}
+Equivalently, it is eight times the sum of all its divisors which are not divisible by 4, i.e.
+          r
+            4
+        (
+        n
+        )
+        =
+        8
+          ∑
+            m
+            :
+            4
+            ∤
+            m
+            ∣
+            n
+        m
+        .
+    {\displaystyle r_{4}(n)=8\sum _{m\,:\,4\nmid m\mid n}m.}
+We may also write this as
+          r
+            4
+        (
+        n
+        )
+        =
+        8
+        σ
+        (
+        n
+        )
+        −
+        32
+        σ
+        (
+        n
+          /
+        4
+        )
+        ,
+    {\displaystyle r_{4}(n)=8\sigma (n)-32\sigma (n/4)\ ,}
+where the second term is to be taken as zero if n is not divisible by 4. In particular, for a prime number p we have the explicit formula r4(p) = 8(p + 1).
+Some values of r4(n) occurs infinitely often as r4(n) = r4(2mn) whenever n is even. The values of r4(n)/n can be arbitrarily large: indeed, r4(n)/n is infinitely often larger than 8 √ log n.
+The sequence of positive integers which have only one representation as a sum of four squares (up to order) is:
+1, 2, 3, 5, 6, 7, 8, 11, 14, 15, 23, 24, 32, 56, 96, 128, 224, 384, 512, 896 ... (sequence A006431 in the OEIS).
+These integers consist of the seven odd numbers 1, 3, 5, 7, 11, 15, 23 and all numbers of the form 
+        2
+        (
+          4
+            k
+        )
+        ,
+        6
+        (
+          4
+            k
+        )
+    {\displaystyle 2(4^{k}),6(4^{k})}
+   or 
+        14
+        (
+          4
+            k
+        )
+    {\displaystyle 14(4^{k})}
+  .
+The sequence of positive integers which cannot be represented as a sum of four non-zero squares is:
+1, 2, 3, 5, 6, 8, 9, 11, 14, 17, 24, 29, 32, 41, 56, 96, 128, 224, 384, 512, 896 ... (sequence A000534 in the OEIS).
+These integers consist of the eight odd numbers 1, 3, 5, 9, 11, 17, 29, 41 and all numbers of the form 
+        2
+        (
+          4
+            k
+        )
+        ,
+        6
+        (
+          4
+            k
+        )
+    {\displaystyle 2(4^{k}),6(4^{k})}
+   or 
+        14
+        (
+          4
+            k
+        )
+    {\displaystyle 14(4^{k})}
+  .
+Fermat's theorem on sums of two squares
+Legendre's three-square theorem
+15 and 290 theorems

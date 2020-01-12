@@ -1,0 +1,52 @@
+In number theory, a natural number is called almost prime if there exists an absolute constant K such that the number has at most K prime factors. An almost prime n is denoted by Pr if and only if the number of prime factors of n, counted according to multiplicity, is at most r. A natural number is called k-almost prime if it has exactly k prime factors, counted with multiplicity. More formally, a number n is k-almost prime if and only if Ω(n) = k, where Ω(n) is the total number of primes in the prime factorization of n:
+        Ω
+        (
+        n
+        )
+        :=
+        ∑
+          a
+            i
+          if
+        n
+        =
+        ∏
+          p
+            i
+              a
+                i
+        .
+    {\displaystyle \Omega (n):=\sum a_{i}\qquad {\mbox{if}}\qquad n=\prod p_{i}^{a_{i}}.}
+A natural number is thus prime if and only if it is 1-almost prime, and semiprime if and only if it is 2-almost prime. The set of k-almost primes is usually denoted by Pk. The smallest k-almost prime is 2k. The first few k-almost primes are:
+The number πk(n) of positive integers less than or equal to n with at most k prime divisors (not necessarily distinct) is asymptotic to:
+          π
+            k
+        (
+        n
+        )
+        ∼
+          (
+              n
+                log
+                ⁡
+                n
+          )
+              (
+              log
+              ⁡
+              log
+              ⁡
+              n
+                )
+                  k
+                  −
+                  1
+              (
+              k
+              −
+              1
+              )
+              !
+        ,
+    {\displaystyle \pi _{k}(n)\sim \left({\frac {n}{\log n}}\right){\frac {(\log \log n)^{k-1}}{(k-1)!}},}
+a result of Landau. See also the Hardy–Ramanujan theorem.

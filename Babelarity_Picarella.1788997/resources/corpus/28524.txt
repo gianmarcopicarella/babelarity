@@ -1,0 +1,74 @@
+The Junkers Ju 390 was a German aircraft intended to be used as a heavy transport, maritime patrol aircraft, and long-range bomber, a long-range derivative of the Ju 290. It was one of the aircraft designs submitted for the abortive Amerika Bomber project, along with the Messerschmitt Me 264, the Focke-Wulf Ta 400, and by February 1943, the Heinkel He 277.
+Two prototypes were created by attaching an extra pair of inner-wing segments onto the wings of basic Ju 90 and Ju 290 airframes, and adding new sections to lengthen the fuselages.
+The first prototype, the V1, (bearing Stammkennzeichen code of GH+UK), was modified from the Ju 90 V6 airframe (Werknummer J4918, civil registration D-AOKD from July 1940 to April 1941, then to the Luftwaffe as KH+XC from April 1941 to April 1942, then returned to Junkers and used for Ju 390 V1 construction). It made its maiden flight on 20 October 1943 and performed well, resulting in an order for 26 aircraft, to be designated Ju 390 A-1. None of these were actually built by the time that the project was cancelled (along with Ju 290 production) in mid-1944.
+The second prototype, the V2 (RC+DA), was longer than the V1 because it was constructed from a Ju 290 airframe (using the fuselage of Ju 290 A-1 Werknummer J900155).
+The maritime reconnaissance and long-range bomber versions were to be designated the Ju 390 B and Ju 390 C, respectively.
+The V1 was constructed and largely assembled at Junkers' plant at Dessau, Germany, and the first test flight took place on 20 October 1943. Its performance was satisfactory enough that the Air Ministry ordered 26 in addition to the two prototypes. On 29 June 1944, the Luftwaffe Quartermaster General notes RLM paid Junkers to complete seven Ju-390 aircraft. However, the contracts for 26 Ju 390s were cancelled on 20 June 1944 and all work ceased in September 1944.
+On 26 November 1943, the Ju 390 V1 – with many other new aircraft and prototypes – was shown to Adolf Hitler at Insterburg, East Prussia.
+According to former Junkers test pilot Hans-Joachim Pancherz' logbook, the Ju 390 V1 was brought to Prague immediately after it had been displayed at Insterburg, and while there took part in a number of test flights, which continued until March 1944, including tests of inflight refueling.
+The Ju 390 V1 was returned to Dessau in November 1944, where it was stripped of parts and finally destroyed in late April 1945 as the US Army approached.
+Different sources present different accounts of the history of the Ju 390 V2.
+Historians Kössler and Ott state that the Ju 390 V2 was completed during June 1944, with flight tests beginning at the end of September 1944.
+Historians Griehl and Dressel state that the Ju 390 V2 was assembled in Bernburg and first flown in October 1943. This would place its construction and first flight at nearly the same time as that of the Ju 390 V1. They further said that it was configured for a maritime reconnaissance role. Its fuselage had been extended by 2.5 m (8.2 ft), and it was said to be equipped with FuG 200 Hohentwiel ASV (Air to Surface Vessel) radar and defensive armament consisting of five 20 mm MG 151/20 cannon. Historian Green claims different armament, specifically four 20 mm MG 151/20s and three 13 mm (.51 in) MG 131 machine guns.
+Ju-390 project pilot Haupt Hans Pancherz claimed after the war that only one Ju-390 was ever flown. At a hearing before British authorities on 26 September 1945 Professor Heinrich Hertel, chief designer and technical director of Junkers Aircraft & Motor Works also asserted the Ju-390 V2 had never been completed.
+German author Friedrich Georg claimed in his book that Test pilot Oberleutnant Joachim Eisermann recorded in his logbook that he flew the V2 prototype (RC+DA) on 9 February 1945 at Rechlin air base. The log is said to have recorded a handling flight lasting 50 minutes and composed of circuits around Rechlin, while a second 20-minute flight was used to ferry the prototype to Lärz.
+A Ju 390 is claimed by some to have made a test flight from Germany to Cape Town in early 1944. The sole source for the story is a speculative article which appeared in the Daily Telegraph in 1969 titled "Lone Bomber Raid on New York Planned by Hitler", in which Hans Pancherz reportedly claimed to have made the flight in question. Author James P. Duffy has carried out extensive research into this claim, which has proved fruitless. Authors Kössler and Ott make no mention of this claim either, despite having themselves interviewed Pancherz.
+The first public mention of an alleged flight of a Ju 390 to North America appeared in a letter published in the November 1955 issue of the British magazine RAF Flying Review, of which aviation writer William Green was an editor. The magazine's editors were sceptical of the claim, which asserted that two Ju 390s had made the flight, and that it included a one-hour stay over New York City. In March 1956, the Review published a letter from an RAF officer which claimed to clarify the account. According to Green's reporting, in June 1944, Allied Intelligence had learned from prisoner interrogations that a Ju 390 had been delivered in January 1944 to FAGr 5 (Fernaufklärungsgruppe 5), based at Mont-de-Marsan near Bordeaux, and that it had completed a 32-hour reconnaissance flight to within 19 km (12 mi) of the U.S. coast, north of New York City. This was rejected just after the war by British authorities. Aviation historian Dr. Kenneth P. Werrell states that the story of the flight originated in two British intelligence reports from August 1944 which were based in part on the interrogation of prisoners, and titled General Report on Aircraft Engines and Aircraft Equipment; the reports claimed that the Ju 390 had taken photographs of the coast of Long Island. But no photos or other evidence for the existence of such photos has ever been found.
+The claimed flight was mentioned in many books following the RAF Flying Review account, including Green's own respected Warplanes of the Second World War (1968) and Warplanes of the Third Reich (1970) but without ever citing reliable sources. Further authors then cited Green's books as their source for the claimed flight. Green himself told Kenneth P. Werrell many years later that he no longer placed much credence in the flight.
+Werrell later examined the available data regarding the Ju 390's range and concluded that although a great circle round trip from France to St. Johns, Newfoundland was possible, adding another 3,830 km (2,380 mi) for a round trip from St. Johns to Long Island made the flight "most unlikely".
+Authors Karl Kössler and Günter Ott, in their book Die großen Dessauer: Junkers Ju 89, 90, 290, 390. Die Geschichte einer Flugzeugfamilie ("The Big Dessauers... History of an Aircraft Family"), also examined the claimed flight, and debunked the flight north of New York. Assuming there was only one such aircraft in existence, Kössler and Ott note it was nowhere near France at the time when the flight was supposed to have taken place. According to Hans Pancherz' logbook, the Ju 390 V1 was brought to Prague on 26 November 1943. While there, it took part in test flights which continued until late March 1944.
+They also assert that the Ju 390 V1 prototype was unlikely to have been capable of taking off with the fuel load necessary for a flight of such duration due to strength concerns over its modified structure; it would have required a takeoff weight of 65 tonnes (72 tons), while the maximum takeoff weight during its trials had been 34 tonnes (38 tons). Another explanation for this is that prototypes are never flown at maximum gross weight for their maiden flight until testing can determine the aircraft's handling characteristics. According to Kössler and Ott, the Ju 390 V2 could not have made the US flight either, since they indicate that it was not completed before September/October 1944.
+In his book, The Bunker, author James P. O'Donnell mentions a flight to Japan. O'Donnell claimed that Albert Speer, in an early 1970s telephone interview, stated that there had been a secret Ju 390 flight to Japan "late in the war". The flight, by a Luftwaffe test pilot, had supposedly been nonstop via the polar route. O'Donnell is the sole source for the story. Speer never mentioned the story in any of his writings or other interviews. Kössler and Ott make no mention of the claim.
+Ju 390 V1
+First prototype.
+Ju 390 V2
+Second prototype.
+Ju 390 A-1
+Planned heavy transport version.
+Ju 390 B
+Planned maritime patrol version.
+Ju 390 C
+Planned long-range heavy bomber version.
+ Germany
+Luftwaffe
+Some sources claim that a Ju 390 was assigned to Fernaufklärungsgruppe 5. Kössler and Ott state that it was not.
+Data from
+General characteristics
+Crew: 10
+Length: 34.20 m (112 ft 2 in)
+Wingspan: 50.30 m (165 ft 1 in)
+Height: 6.89 m (22 ft 7 in)
+Wing area: 254 m² (2,730 ft²)
+Empty weight: 39,500 kg (87,100 lb)
+Loaded weight: 53,112 kg (117,092 lb)
+Max. takeoff weight: 75,500 kg (166,400 lb)
+Powerplant: 6 × BMW 801G-2 radial engines, 1,250 kW (1,700 PS) each
+Performance
+Maximum speed: 505 km/h (314 mph)
+Range: 9,700 km (6,030 mi)
+Service ceiling: 6,000 m (19,700 ft)
+Wing loading: 209 kg/m² (42.8 lb/ft²)
+Power/mass: 0.17 kW/kg (0.10 hp/lb)
+Armament
+Guns:2 × 20 mm MG 151/20 cannons in dorsal turrets
+1 × 20 mm MG 151/20 in tail
+2 × 13 mm (.51 in) MG 131 machine guns at waist
+2 × 13 mm (.51 in) MG 131s in gondola
+Proposed fitment of a pair of 4 x MG 131 Hecklafette HL 131V quadmount manned turrets, one in tail and one in nose.
+Related development
+Junkers Ju 89
+Junkers Ju 90
+Junkers Ju 290
+Aircraft of comparable role, configuration and era
+Boeing B-29 Superfortress
+Focke-Wulf Ta 400
+Heinkel He 277
+Messerschmitt Me 264
+Nakajima G8N
+Nakajima G10N Fugaku
+Project Z in Japan
+Related lists
+List of military aircraft of Germany
+List of World War II military aircraft of Germany
+List of World War II Luftwaffe aircraft prototype projects
+List of bomber aircraft

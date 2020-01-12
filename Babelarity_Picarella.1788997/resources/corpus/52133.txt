@@ -1,0 +1,17 @@
+Kent Beck (born 1961) is an American software engineer and the creator of Extreme Programming, a software development methodology which eschews rigid formal specification for a collaborative and iterative design process. Beck was one of the 17 original signatories of the Agile Manifesto, the founding document for agile software development. Extreme and Agile methods are closely associated with Test Driven Development, of which Beck is perhaps the leading proponent.
+Beck pioneered software design patterns as well as the commercial application of Smalltalk. He wrote the SUnit unit testing framework for Smalltalk, which spawned the xUnit series of frameworks, notably JUnit for Java, which Beck wrote with Erich Gamma. Beck popularized CRC cards with Ward Cunningham, the inventor of the wiki.
+He lives near Medford, Oregon and works at Facebook.
+Beck attended the University of Oregon between 1979 and 1987, receiving B.S. and M.S. degrees in computer and information science.
+In 1996 Beck was hired to work on the Chrysler Comprehensive Compensation System. Beck in turn brought in Ron Jeffries. In March 1996 the development team estimated the system would be ready to go into production around one year later. In 1997 the development team adopted a way of working which is now formalized as Extreme Programming.[1] The one-year delivery target was nearly achieved, with actual delivery being only a couple of months late.
+1996. Smalltalk Best Practice Patterns. Prentice Hall. (ISBN 978-0134769042)
+1996. Kent Beck's Guide to Better Smalltalk : A Sorted Collection. Cambridge University Press. (ISBN 978-0521644372)
+1999. Extreme Programming Explained: Embrace Change. Addison-Wesley. Winner of the Jolt Productivity Award. (ISBN 978-0321278654)
+2000. Planning Extreme Programming. With Martin Fowler. Addison-Wesley. (ISBN 978-0201710915)
+2002. Test-Driven Development: By Example. Addison-Wesley. Winner of the Jolt Productivity Award. (ISBN 978-0321146533)
+2003. Contributing to Eclipse: Principles, Patterns, and Plugins. With Erich Gamma. Addison-Wesley. (ISBN 978-0321205759)
+2004. JUnit Pocket Guide. O'Reilly. (ISBN 978-0596007430)
+2004. Extreme Programming Explained: Embrace Change, 2nd Edition. With Cynthia Andres. Addison-Wesley. Completely rewritten. (ISBN 978-0201616415)
+2008. Implementation Patterns. Addison-Wesley. (ISBN 978-0321413093)
+1987. "Using Pattern Languages for Object-Oriented Programs". With Ward Cunningham. OOPSLA'87.
+1989. "A Laboratory For Teaching Object-Oriented Thinking". With Ward Cunningham. OOPSLA'89.
+1989. "Simple Smalltalk Testing: With Patterns". SUnit framework, origin of xUnit frameworks.

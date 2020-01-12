@@ -1,0 +1,19 @@
+The Web Open Font Format (WOFF) is a font format for use in web pages. It was developed during 2009 and is now a World Wide Web Consortium (W3C) Recommendation.
+WOFF is essentially OpenType or TrueType with compression and additional metadata. The goal is to support font distribution from a server to a client over a network with bandwidth constraints.
+The WOFF specification was written by Jonathan Kew, Tal Leming, and Erik van Blokland, with reference conversion code written by Jonathan Kew. Following the submission of WOFF by the Mozilla Foundation, Opera Software and Microsoft in April 2010, the W3C commented that it expects WOFF to soon become the "single, interoperable [font] format" supported by all browsers. The W3C published WOFF as a working draft in July, and it became a W3C Recommendation in December that year.
+WOFF 2.0, with reference code provided by Google, is a proposed update to the existing WOFF 1.0 with improved compression is currently being evaluated. WOFF 2.0 uses Brotli as the byte-level compression format.
+WOFF is essentially a wrapper that contains SFNT-based fonts (TrueType or OpenType) that have been compressed using a WOFF encoding tool to enable them to be embedded in a Web page. The format uses zlib compression (specifically, the compress2 function), typically resulting in a file size reduction from TTF of over 40%. Like OpenType fonts, WOFF supports both PostScript and TrueType outlines for the glyphs.
+The format has received the backing of many of the main font foundries and has been supported by all major browsers:
+Firefox since version 3.6
+Google Chrome since version 6.0
+Internet Explorer since version 9
+Konqueror since KDE 4.4.1
+Opera since version 11.10 (Presto 2.7.81)
+Safari 5.1
+other WebKit-based browsers since WebKit build 528
+Some browsers enforce a same-origin policy, preventing WOFF fonts from being used across different domains. This restriction is part of the draft CSS 3 Fonts module, where it applies to all font formats and can be overridden by the server providing the font.
+Some servers may require the manual addition of WOFF's MIME type to serve the files correctly; the proper MIME type is application/font-woff, not application/x-font-woff, although font/woff is also commonly seen.
+WOFF 2.0, based on the Brotli compression algorithm and other improvements over WOFF 1.0 giving more than 30% reduction in file size, is supported in Chrome (since version 36), Opera (since version 26) and Firefox (since version 35).
+Web typography
+Comparison of layout engines (web typography)
+Embedded OpenType (EOT)

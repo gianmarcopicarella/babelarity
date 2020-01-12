@@ -1,0 +1,27 @@
+Pinball Fantasies is a pinball game for the Commodore Amiga personal computer developed by Digital Illusions Creative Entertainment (DICE) in late 1992, as a sequel to Pinball Dreams. A further sequel was released in 1995 called Pinball Illusions.
+Like Pinball Dreams, Pinball Fantasies contains four themed tables with various difficulty levels. "Party Land", the table included in the shareware release, is oriented around an amusement park, where the letters of either PARTY or CRAZY must be lit to start a high-scoring event. "Speed Devils" is focused on car racing, and the player must overtake cars to take the lead. "Billion Dollar Gameshow" is a game show-style table where the player attempts to win prizes by achieving certain combinations of ramps. "Stones 'N Bones" is based on a haunted house, where the player must light eight successively more rewarding modes by completing a bank of targets marked STONE-BONE and then cycle continuously through the modes.
+All four tables award one extra ball at the instant the highest score in the list is exceeded, and when the match at the end succeeds.
+Each table has one special ramp, usually one but with two on Speed Devils, which keeps track of the number of hits as a running total of Cyclones (Party Land), Miles (Speed Devils), Skills (Billion Dollar) or Screams (Stones). The first shot counts for two. Each of these shots is worth 100,000 in the bonus. Except for Party Land, the tables also award special awards at specific numbers.
+Each of the four tables has one or two high-scoring rounds that can be started by achieving certain objectives. Specific numbers of Miles and Skills trigger their respective tables' rounds. The scores for these modes, excluding Tower Hunt, are awarded as part of the bonus though not multiplied, and can be lost if the game is tilted.
+There are several programming glitches in conversions of Pinball Fantasies that do not occur in the original Amiga version. The most major error is the way Hold Bonus is treated. Most simulations such as Slam Tilt hold only the unmultiplied bonus to the next ball; Pinball Fantasies holds the full bonus awarded to the player. This has various effects on each table, depending on its features.
+The original, distributed on three Amiga floppy disks; this runs on all Amiga computers with 1MB of RAM.
+A special version with a fourth floppy, which allows it to run on 512KB Amigas.
+An Amiga CD32 version, released in 1993.
+An improved Amiga Advanced Graphics Architecture (AGA) version for the Amiga 1200 & 4000 was released later (4 floppies).
+It was later ported to PC 286 computers running DOS. The PC version offers high-quality, but quiet, music and sound for the PC speaker, which was formerly unheard of without a separate sound card. The port runs well even on a 12 MHz 286 and needs only a VGA card. It is fast because it uses Mode X and split-screen scrolling to avoid having to redraw the screen every frame. A shareware version was also released, with only the Party Land table available for play.
+An Atari Jaguar conversion with extra colours, but with slower ball movement.
+A Super NES version of the game, while it contains all four tables and the same music as the Amiga version (written by composer Olof Gustafsson), suffers from a limited color palette.
+A version for the original Game Boy.
+A compilation including the tables from Pinball Mania released as Pinball Fantasies Deluxe for DOS.
+A compilation including the tables from Pinball Dreams released as Pinball Fantasies Deluxe for PlayStation in Japan.
+A Game Boy Advance version of the game, under the title Pinball Challenge Deluxe, with tables added from Pinball Dreams.
+An iOS version was released July 20, 2009 by Cowboy Rodeo.
+A PlayStation Portable version was released October 1, 2009 by Cowboy Rodeo. It was later released as a digital download for PlayStation 3 on December 17, 2009.
+A Nokia N9 version was released July 20, 2011 by Cowboy Rodeo in the Nokia Store.
+A fully 3D/HD version was released for iOS in 2012 by Cowboy Rodeo.
+The four reviewers of Electronic Gaming Monthly gave the Game Boy version a 4 out of 10, citing a lack of excitement in any of the tables, overly simplistic graphics, and annoying sound effects.
+GamePro's The Unknown Gamer panned the Super NES version. He remarked that though there is a large number of tables, the scrolling is so jerky that the game is almost unplayable. He further criticized that the graphics are dull and fail to make the ramps and obstacles of the tables stand out from the backgrounds. A reviewer for Next Generation also found the fact that the Super NES version displays less than half of the table at a time to be a problem, in part because of the poor scrolling, but also because "Since a lot of the scoring devices are near the top of the table, it means that most of the time you're shooting blind." He gave it two out of five stars.
+Captain Squideo of GamePro gave the Jaguar version an only slightly more positive assessment. He praised the graphics but assessed the game to be completely lacking in fun due to the limited gameplay, stating that "anybody who thinks a $60 video game should offer some imaginative surprises will be severely disappointed."
+Pinball Dreams
+Pinball Illusions
+Digital Illusions CE

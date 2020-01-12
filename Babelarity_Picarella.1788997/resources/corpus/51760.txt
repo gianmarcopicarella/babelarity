@@ -1,0 +1,31 @@
+Jakob Nielsen (born 1957) is a web usability consultant. He holds a Ph.D. in human–computer interaction from the Technical University of Denmark in Copenhagen.
+Nielsen's earlier affiliations include Bellcore (now Telcordia Technologies) (Bell Communications Research), the Technical University of Denmark, and the IBM User Interface Institute at the Thomas J. Watson Research Center.
+From 1994 to 1998, he was a Sun Microsystems Distinguished Engineer. He was hired to make heavy-duty enterprise software easier to use, since large-scale applications had been the focus of most of his projects at the phone company and IBM. But luckily the job definition of a Distinguished Engineer is "you're supposed to be the world's leading expert in your field, so you figure out what would be most important for the company for you to work on." Therefore, Dr. Nielsen ended up spending most of his time at Sun defining the emerging field of web usability. He was the usability lead for several design rounds of Sun's website and intranet (SunWeb), including the original SunWeb design in 1994.
+Nielsen is on the editorial board of Morgan Kaufmann Publishers' book series in Interactive Technologies.
+Nielsen writes a fortnightly newsletter, Alertbox, on web design matters and has published several books on the subject of web design. After his regular articles on his Web site about usability research attracted media attention, he co-founded usability consulting company Nielsen Norman Group with fellow usability expert Donald Norman.
+Nielsen founded the "discount usability engineering" movement for fast and cheap improvements of user interfaces and has invented several usability methods, including heuristic evaluation. He holds 79 United States patents, mainly on ways of making the Web easier to use.
+Nielsen gave his name to Nielsen's Law, in which he stated that network connection speeds for high-end home users would increase 50% per year, or double every 21 months. As a corollary, he noted that, since this growth rate is slower than that predicted by Moore's Law of processor power, user experience would remain bandwidth-bound.
+Nielsen has also defined the five quality components of his "Usability Goals", which are:
+Learnability
+Efficiency
+Memorability
+Errors (as in low error rate)
+Satisfaction
+Nielsen has been criticized by some graphic designers for failing to balance the importance of other user experience considerations such as typography, readability, visual cues for hierarchy and importance, and eye appeal.
+Nielsen has been quoted in the computing and the mainstream press for his criticism of Windows 8's user interface. Tom Hobbs, creative director of the design firm Teague, criticized what he perceived to be some of Nielsen's points on the matter, and Nielsen responded with some clarifications.
+Nielsen's 2012 guidelines that web sites for mobile devices be designed separately from their desktop-oriented counterparts has come under fire from Webmonkey's Scott Gilbertson, as well as Josh Clark writing in .net magazine, and Opera's Bruce Lawson, writing in Smashing Magazine, and other technologists and web designers who advocate responsive web design. In an interview with .net magazine, Nielsen explained that he wrote his guidelines from a usability perspective, not from the viewpoint of implementation.
+In 2010, Nielsen was listed by Bloomberg Businessweek among 28 "World's Most Influential Designers".
+In recognition of Nielsen's contributions to usability studies, in 2013 SIGCHI awarded him the Lifetime Practice Award.
+His published books include:
+Hypertext and Hypermedia (1990) (ISBN 0-12-518410-7)
+Usability Engineering (1993) (ISBN 0-12-518406-9)
+Designing Web Usability: The Practice of Simplicity (1999) (ISBN 1-56205-810-X)
+E-Commerce User Experience (2001) (ISBN 0-970-60720-2) (coauthors: Rolf Molich, Carolyn Snyder, Susan Farrell)
+Homepage Usability: 50 Websites Deconstructed (2001) (ISBN 0-7357-1102-X) (coauthor: Marie Tahir)
+Prioritizing Web Usability (2006) (ISBN 0-321-35031-6) (coauthor: Hoa Loranger)
+Eyetracking Web Usability (2008) (ISBN 0-321-49836-4) (coauthor: Kara Pernice)
+Mobile Usability (2012) (ISBN 0-321-88448-5) (coauthor: Raluca Budiu)
+A list of Jakob Nielsen's research publications is maintained at Interaction-Design.org
+Usability
+Web design
+Website architecture

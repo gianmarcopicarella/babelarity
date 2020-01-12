@@ -1,0 +1,2406 @@
+In numerical analysis, a quadrature rule is an approximation of the definite integral of a function, usually stated as a weighted sum of function values at specified points within the domain of integration. (See numerical integration for more on quadrature rules.) An n-point Gaussian quadrature rule, named after Carl Friedrich Gauss, is a quadrature rule constructed to yield an exact result for polynomials of degree 2n − 1 or less by a suitable choice of the points xi and weights wi for i = 1, ..., n. The domain of integration for such a rule is conventionally taken as [−1, 1], so the rule is stated as
+          ∫
+            −
+            1
+            1
+        f
+        (
+        x
+        )
+        d
+        x
+        =
+          ∑
+            i
+            =
+            1
+            n
+          w
+            i
+        f
+        (
+          x
+            i
+        )
+        .
+    {\displaystyle \int _{-1}^{1}f(x)\,dx=\sum _{i=1}^{n}w_{i}f(x_{i}).}
+Gaussian quadrature as above will only produce good results if the function f(x) is well approximated by a polynomial function within the range [−1, 1]. The method is not, for example, suitable for functions with singularities. However, if the integrated function can be written as 
+        f
+        (
+        x
+        )
+        =
+        ω
+        (
+        x
+        )
+        g
+        (
+        x
+        )
+    {\displaystyle f(x)=\omega (x)g(x)\,}
+  , where g(x) is approximately polynomial and ω(x) is known, then alternative weights 
+          w
+            i
+          ′
+    {\displaystyle w_{i}'}
+   and points 
+          x
+            i
+          ′
+    {\displaystyle x_{i}'}
+   that depend on the weighting function ω(x) may give better results, where
+          ∫
+            −
+            1
+            1
+        f
+        (
+        x
+        )
+        d
+        x
+        =
+          ∫
+            −
+            1
+            1
+        ω
+        (
+        x
+        )
+        g
+        (
+        x
+        )
+        d
+        x
+        ≈
+          ∑
+            i
+            =
+            1
+            n
+          w
+            i
+          ′
+        g
+        (
+          x
+            i
+          ′
+        )
+        .
+    {\displaystyle \int _{-1}^{1}f(x)\,dx=\int _{-1}^{1}\omega (x)g(x)\,dx\approx \sum _{i=1}^{n}w_{i}'g(x_{i}').}
+Common weighting functions include 
+        ω
+        (
+        x
+        )
+        =
+        1
+          /
+            1
+            −
+              x
+                2
+    {\displaystyle \omega (x)=1/{\sqrt {1-x^{2}}}\,}
+   (Chebyshev–Gauss) and 
+        ω
+        (
+        x
+        )
+        =
+          e
+            −
+              x
+                2
+    {\displaystyle \omega (x)=e^{-x^{2}}}
+   (Gauss–Hermite).
+It can be shown (see Press, et al., or Stoer and Bulirsch) that the evaluation points xi are just the roots of a polynomial belonging to a class of orthogonal polynomials.
+For the simplest integration problem stated above, i.e. with 
+        ω
+        (
+        x
+        )
+        =
+        1
+    {\displaystyle \omega (x)=1}
+  , the associated polynomials are Legendre polynomials, Pn(x), and the method is usually known as Gauss–Legendre quadrature. With the n-th polynomial normalized to give Pn(1) = 1, the i-th Gauss node, xi, is the i-th root of Pn; its weight is given by (Abramowitz & Stegun 1972, p. 887)
+          w
+            i
+        =
+            2
+                (
+                1
+                −
+                  x
+                    i
+                    2
+                )
+              [
+                P
+                  n
+                ′
+              (
+                x
+                  i
+              )
+                ]
+                  2
+        .
+    {\displaystyle w_{i}={\frac {2}{\left(1-x_{i}^{2}\right)[P'_{n}(x_{i})]^{2}}}.}
+Some low-order rules for solving the integration problem are listed below.
+An integral over [a, b] must be changed into an integral over [−1, 1] before applying the Gaussian quadrature rule. This change of interval can be done in the following way:
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        =
+              b
+              −
+              a
+            2
+          ∫
+            −
+            1
+            1
+        f
+          (
+                b
+                −
+                a
+              2
+          x
+          +
+                a
+                +
+                b
+              2
+          )
+        d
+        x
+        .
+    {\displaystyle \int _{a}^{b}f(x)\,dx={\frac {b-a}{2}}\int _{-1}^{1}f\left({\frac {b-a}{2}}x+{\frac {a+b}{2}}\right)\,dx.}
+Applying the Gaussian quadrature rule then results in the following approximation:
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        =
+              b
+              −
+              a
+            2
+          ∑
+            i
+            =
+            1
+            n
+          w
+            i
+        f
+          (
+                b
+                −
+                a
+              2
+            x
+              i
+          +
+                a
+                +
+                b
+              2
+          )
+        .
+    {\displaystyle \int _{a}^{b}f(x)\,dx={\frac {b-a}{2}}\sum _{i=1}^{n}w_{i}f\left({\frac {b-a}{2}}x_{i}+{\frac {a+b}{2}}\right).}
+The integration problem can be expressed in a slightly more general way by introducing a positive weight function ω into the integrand, and allowing an interval other than [−1, 1]. That is, the problem is to calculate
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        f
+        (
+        x
+        )
+        d
+        x
+    {\displaystyle \int _{a}^{b}\omega (x)\,f(x)\,dx}
+for some choices of a, b, and ω. For a = −1, b = 1, and ω(x) = 1, the problem is the same as that considered above. Other choices lead to other integration rules. Some of these are tabulated below. Equation numbers are given for Abramowitz and Stegun (A & S).
+Let pn be a nontrivial polynomial of degree n such that
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+          x
+            k
+          p
+            n
+        (
+        x
+        )
+        d
+        x
+        =
+        0
+        ,
+          for all 
+        k
+        =
+        0
+        ,
+        1
+        ,
+        …
+        ,
+        n
+        −
+        1.
+    {\displaystyle \int _{a}^{b}\omega (x)\,x^{k}p_{n}(x)\,dx=0,\quad {\text{for all }}k=0,1,\ldots ,n-1.}
+If we pick the n nodes xi to be the zeros of pn, then there exist n weights wi which make the Gauss-quadrature computed integral exact for all polynomials h(x) of degree 2n − 1 or less. Furthermore, all these nodes xi will lie in the open interval (a, b) (Stoer & Bulirsch 2002, pp. 172–175).
+The polynomial pn is said to be an orthogonal polynomial of degree n associated to the weight function ω(x). It is unique up to a constant normalization factor. The idea underlying the proof is that, because of its sufficiently low degree, h(x) can be divided by 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+   to produce a quotient q(x) of degree strictly lower than n, and a remainder r(x) of still lower degree, so that both will be orthogonal to 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+  , by the defining property of 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+  . Thus
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        h
+        (
+        x
+        )
+        d
+        x
+        =
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        r
+        (
+        x
+        )
+        d
+        x
+        .
+    {\displaystyle \int _{a}^{b}\omega (x)\,h(x)\,dx=\int _{a}^{b}\omega (x)\,r(x)\,dx.}
+Because of the choice of nodes xi, the corresponding relation
+          ∑
+            i
+            =
+            1
+            n
+          w
+            i
+        h
+        (
+          x
+            i
+        )
+        =
+          ∑
+            i
+            =
+            1
+            n
+          w
+            i
+        r
+        (
+          x
+            i
+        )
+    {\displaystyle \sum _{i=1}^{n}w_{i}h(x_{i})=\sum _{i=1}^{n}w_{i}r(x_{i})}
+holds also. The exactness of the computed integral for 
+        h
+        (
+        x
+        )
+    {\displaystyle h(x)}
+   then follows from corresponding exactness for polynomials of degree only n or less (as is 
+        r
+        (
+        x
+        )
+    {\displaystyle r(x)}
+  ).
+The weights can be expressed as
+          w
+            i
+        =
+              a
+                n
+              a
+                n
+                −
+                1
+                ∫
+                  a
+                  b
+              ω
+              (
+              x
+              )
+                p
+                  n
+                  −
+                  1
+              (
+              x
+                )
+                  2
+              d
+              x
+                p
+                  n
+                ′
+              (
+                x
+                  i
+              )
+                p
+                  n
+                  −
+                  1
+              (
+                x
+                  i
+              )
+    {\displaystyle w_{i}={\frac {a_{n}}{a_{n-1}}}{\frac {\int _{a}^{b}\omega (x)p_{n-1}(x)^{2}dx}{p'_{n}(x_{i})p_{n-1}(x_{i})}}}
+   (1)
+where 
+          a
+            k
+    {\displaystyle a_{k}}
+   is the coefficient of 
+          x
+            k
+    {\displaystyle x^{k}}
+   in 
+          p
+            k
+        (
+        x
+        )
+    {\displaystyle p_{k}(x)}
+  . To prove this, note that using Lagrange interpolation one can express r(x) in terms of 
+        r
+        (
+          x
+            i
+        )
+    {\displaystyle r(x_{i})}
+   as
+        r
+        (
+        x
+        )
+        =
+          ∑
+            i
+            =
+            1
+            n
+        r
+        (
+          x
+            i
+        )
+          ∏
+                    1
+                    ≤
+                    j
+                    ≤
+                    n
+                    j
+                    ≠
+                    i
+              x
+              −
+                x
+                  j
+                x
+                  i
+              −
+                x
+                  j
+    {\displaystyle r(x)=\sum _{i=1}^{n}r(x_{i})\prod _{\begin{smallmatrix}1\leq j\leq n\\j\neq i\end{smallmatrix}}{\frac {x-x_{j}}{x_{i}-x_{j}}}}
+because r(x) has degree less than n and is thus fixed by the values it attains at n different points. Multiplying both sides by ω(x) and integrating from a to b yields
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        r
+        (
+        x
+        )
+        d
+        x
+        =
+          ∑
+            i
+            =
+            1
+            n
+        r
+        (
+          x
+            i
+        )
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+          ∏
+                    1
+                    ≤
+                    j
+                    ≤
+                    n
+                    j
+                    ≠
+                    i
+              x
+              −
+                x
+                  j
+                x
+                  i
+              −
+                x
+                  j
+        d
+        x
+    {\displaystyle \int _{a}^{b}\omega (x)r(x)dx=\sum _{i=1}^{n}r(x_{i})\int _{a}^{b}\omega (x)\prod _{\begin{smallmatrix}1\leq j\leq n\\j\neq i\end{smallmatrix}}{\frac {x-x_{j}}{x_{i}-x_{j}}}dx}
+The weights wi are thus given by
+          w
+            i
+        =
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+          ∏
+                    1
+                    ≤
+                    j
+                    ≤
+                    n
+                    j
+                    ≠
+                    i
+              x
+              −
+                x
+                  j
+                x
+                  i
+              −
+                x
+                  j
+        d
+        x
+    {\displaystyle w_{i}=\int _{a}^{b}\omega (x)\prod _{\begin{smallmatrix}1\leq j\leq n\\j\neq i\end{smallmatrix}}{\frac {x-x_{j}}{x_{i}-x_{j}}}dx}
+This integral expression for 
+          w
+            i
+    {\displaystyle w_{i}}
+   can be expressed in terms of the orthogonal polynomials 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+   and 
+          p
+            n
+            −
+            1
+        (
+        x
+        )
+    {\displaystyle p_{n-1}(x)}
+   as follows.
+We can write
+          ∏
+                    1
+                    ≤
+                    j
+                    ≤
+                    n
+                    j
+                    ≠
+                    i
+          (
+          x
+          −
+            x
+              j
+          )
+        =
+                ∏
+                  1
+                  ≤
+                  j
+                  ≤
+                  n
+                (
+                x
+                −
+                  x
+                    j
+                )
+              x
+              −
+                x
+                  i
+        =
+                p
+                  n
+              (
+              x
+              )
+                a
+                  n
+                (
+                x
+                −
+                  x
+                    i
+                )
+    {\displaystyle \prod _{\begin{smallmatrix}1\leq j\leq n\\j\neq i\end{smallmatrix}}\left(x-x_{j}\right)={\frac {\prod _{1\leq j\leq n}\left(x-x_{j}\right)}{x-x_{i}}}={\frac {p_{n}(x)}{a_{n}\left(x-x_{i}\right)}}}
+where 
+          a
+            n
+    {\displaystyle a_{n}}
+   is the coefficient of 
+          x
+            n
+    {\displaystyle x^{n}}
+   in 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+  . Taking the limit of x to 
+          x
+            i
+    {\displaystyle x_{i}}
+   yields using L'Hôpital's rule
+          ∏
+                    1
+                    ≤
+                    j
+                    ≤
+                    n
+                    j
+                    ≠
+                    i
+          (
+            x
+              i
+          −
+            x
+              j
+          )
+        =
+                p
+                  n
+                ′
+              (
+                x
+                  i
+              )
+              a
+                n
+    {\displaystyle \prod _{\begin{smallmatrix}1\leq j\leq n\\j\neq i\end{smallmatrix}}\left(x_{i}-x_{j}\right)={\frac {p'_{n}(x_{i})}{a_{n}}}}
+We can thus write the integral expression for the weights as
+          w
+            i
+        =
+            1
+                p
+                  n
+                ′
+              (
+                x
+                  i
+              )
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        d
+        x
+    {\displaystyle w_{i}={\frac {1}{p'_{n}(x_{i})}}\int _{a}^{b}\omega (x){\frac {p_{n}(x)}{x-x_{i}}}dx}
+   ---------(2)
+In the integrand, writing
+            1
+              x
+              −
+                x
+                  i
+        =
+              1
+              −
+                  (
+                      x
+                        x
+                          i
+                  )
+                  k
+              x
+              −
+                x
+                  i
+        +
+            (
+                x
+                  x
+                    i
+            )
+            k
+            1
+              x
+              −
+                x
+                  i
+    {\displaystyle {\frac {1}{x-x_{i}}}={\frac {1-\left({\frac {x}{x_{i}}}\right)^{k}}{x-x_{i}}}+\left({\frac {x}{x_{i}}}\right)^{k}{\frac {1}{x-x_{i}}}}
+yields
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+                x
+                  k
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        d
+        x
+        =
+          x
+            i
+            k
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        d
+        x
+    {\displaystyle \int _{a}^{b}\omega (x){\frac {x^{k}p_{n}(x)}{x-x_{i}}}dx=x_{i}^{k}\int _{a}^{b}\omega (x){\frac {p_{n}(x)}{x-x_{i}}}dx}
+provided 
+        k
+        ≤
+        n
+    {\displaystyle k\leq n}
+  , because
+              1
+              −
+                  (
+                      x
+                        x
+                          i
+                  )
+                  k
+              x
+              −
+                x
+                  i
+    {\displaystyle {\frac {1-\left({\frac {x}{x_{i}}}\right)^{k}}{x-x_{i}}}}
+is a polynomial of degree k-1 which is then orthogonal to 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+  . So, if q(x) is a polynomial of at most nth degree we have
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        d
+        x
+        =
+            1
+              q
+              (
+                x
+                  i
+              )
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+              q
+              (
+              x
+              )
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        d
+        x
+    {\displaystyle \int _{a}^{b}\omega (x){\frac {p_{n}(x)}{x-x_{i}}}dx={\frac {1}{q(x_{i})}}\int _{a}^{b}\omega (x){\frac {q(x)p_{n}(x)}{x-x_{i}}}dx}
+We can evaluate the integral on the right hand side for 
+        q
+        (
+        x
+        )
+        =
+          p
+            n
+            −
+            1
+        (
+        x
+        )
+    {\displaystyle q(x)=p_{n-1}(x)}
+   as follows. Because 
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+    {\displaystyle {\frac {p_{n}(x)}{x-x_{i}}}}
+   is a polynomial of degree n-1, we have
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        =
+          a
+            n
+          x
+            n
+            −
+            1
+        +
+        s
+        (
+        x
+        )
+    {\displaystyle {\frac {p_{n}(x)}{x-x_{i}}}=a_{n}x^{n-1}+s(x)}
+where s(x) is a polynomial of degree 
+        n
+        −
+        2
+    {\displaystyle n-2}
+  . Since s(x) is orthogonal to 
+          p
+            n
+            −
+            1
+        (
+        x
+        )
+    {\displaystyle p_{n-1}(x)}
+   we have
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        d
+        x
+        =
+              a
+                n
+                p
+                  n
+                  −
+                  1
+              (
+                x
+                  i
+              )
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+          p
+            n
+            −
+            1
+        (
+        x
+        )
+          x
+            n
+            −
+            1
+        d
+        x
+    {\displaystyle \int _{a}^{b}\omega (x){\frac {p_{n}(x)}{x-x_{i}}}dx={\frac {a_{n}}{p_{n-1}(x_{i})}}\int _{a}^{b}\omega (x)p_{n-1}(x)x^{n-1}dx}
+We can then write
+          x
+            n
+            −
+            1
+        =
+          (
+            x
+              n
+              −
+              1
+          −
+                  p
+                    n
+                    −
+                    1
+                (
+                x
+                )
+                a
+                  n
+                  −
+                  1
+          )
+        +
+                p
+                  n
+                  −
+                  1
+              (
+              x
+              )
+              a
+                n
+                −
+                1
+    {\displaystyle x^{n-1}=\left(x^{n-1}-{\frac {p_{n-1}(x)}{a_{n-1}}}\right)+{\frac {p_{n-1}(x)}{a_{n-1}}}}
+The term in the brackets is a polynomial of degree 
+        n
+        −
+        2
+    {\displaystyle n-2}
+  , which is therefore orthogonal to 
+          p
+            n
+            −
+            1
+        (
+        x
+        )
+    {\displaystyle p_{n-1}(x)}
+  . The integral can thus be written as
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+                p
+                  n
+              (
+              x
+              )
+              x
+              −
+                x
+                  i
+        d
+        x
+        =
+              a
+                n
+                a
+                  n
+                  −
+                  1
+                p
+                  n
+                  −
+                  1
+              (
+                x
+                  i
+              )
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+          p
+            n
+            −
+            1
+        (
+        x
+          )
+            2
+        d
+        x
+    {\displaystyle \int _{a}^{b}\omega (x){\frac {p_{n}(x)}{x-x_{i}}}dx={\frac {a_{n}}{a_{n-1}p_{n-1}(x_{i})}}\int _{a}^{b}\omega (x)p_{n-1}(x)^{2}dx}
+According to Eq. (2), the weights are obtained by dividing this by 
+          p
+            n
+          ′
+        (
+          x
+            i
+        )
+    {\displaystyle p'_{n}(x_{i})}
+   and that yields the expression in Eq. (1).
+          w
+            i
+    {\displaystyle w_{i}}
+   can also be expressed in terms of the orthogonal polynomials 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+   and now 
+          p
+            n
+            +
+            1
+        (
+        x
+        )
+    {\displaystyle p_{n+1}(x)}
+  . In the 3-term recurrence relation 
+          p
+            n
+            +
+            1
+        (
+          x
+            i
+        )
+        =
+        (
+        a
+        )
+          p
+            n
+        (
+          x
+            i
+        )
+        +
+        (
+        b
+        )
+          p
+            n
+            −
+            1
+        (
+          x
+            i
+        )
+    {\displaystyle p_{n+1}(x_{i})=(a)p_{n}(x_{i})+(b)p_{n-1}(x_{i})}
+   the term with 
+          p
+            n
+        (
+          x
+            i
+        )
+    {\displaystyle p_{n}(x_{i})}
+   vanishes, so 
+          p
+            n
+            −
+            1
+        (
+          x
+            i
+        )
+    {\displaystyle p_{n-1}(x_{i})}
+   in Eq. (1) can be replaced by 
+          p
+            n
+            +
+            1
+        (
+          x
+            i
+        )
+          /
+        b
+    {\displaystyle p_{n+1}(x_{i})/b}
+  .
+Consider the following polynomial of degree 2n-2
+        f
+        (
+        x
+        )
+        =
+          ∏
+                    1
+                    ≤
+                    j
+                    ≤
+                    n
+                    j
+                    ≠
+                    i
+        (
+        x
+        −
+          x
+            j
+          )
+            2
+    {\displaystyle f(x)=\prod _{\begin{smallmatrix}1\leq j\leq n\\j\neq i\end{smallmatrix}}(x-x_{j})^{2}}
+where as above the xj are the roots of the polynomial 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+  . Since the degree of f(x) is less than 2n-1, the Gaussian quadrature formula involving the weights and nodes obtained from 
+          p
+            n
+        (
+        x
+        )
+    {\displaystyle p_{n}(x)}
+   applies. Since 
+        f
+        (
+          x
+            j
+        )
+        =
+        0
+    {\displaystyle f(x_{j})=0}
+   for j not equal to i, we have
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        f
+        (
+        x
+        )
+        d
+        x
+        =
+          ∑
+            j
+            =
+            1
+            N
+          w
+            j
+        f
+        (
+          x
+            j
+        )
+        =
+          w
+            i
+        f
+        (
+          x
+            i
+        )
+        .
+    {\displaystyle \int _{a}^{b}\omega (x)f(x)dx=\sum _{j=1}^{N}w_{j}f(x_{j})=w_{i}f(x_{i}).}
+Since both 
+        ω
+        (
+        x
+        )
+    {\displaystyle \omega (x)}
+   and f(x) are non-negative functions, it follows that 
+          w
+            i
+        >
+        0
+    {\displaystyle w_{i}>0}
+  .
+For computing the nodes xi and weights wi of Gaussian quadrature rules, the fundamental tool is the three-term recurrence relation satisfied by the set of orthogonal polynomials associated to the corresponding weight function. For n points, these nodes and weights can be computed in O(n2) operations by an algorithm derived by Gautschi (1968).
+Gautschi's theorem (Gautschi, 1968) states that orthogonal polynomials 
+          p
+            r
+    {\displaystyle p_{r}}
+   with 
+        (
+          p
+            r
+        ,
+          p
+            s
+        )
+        =
+        0
+    {\displaystyle (p_{r},p_{s})=0}
+   for 
+        r
+        ≠
+        s
+    {\displaystyle r\neq s}
+   for a scalar product 
+        (
+        ,
+        )
+    {\displaystyle (,)}
+  , degree
+        (
+          p
+            r
+        )
+        =
+        r
+    {\displaystyle (p_{r})=r}
+   and leading coefficient one (i.e. monic orthogonal polynomials) satisfy the recurrence relation
+          p
+            r
+            +
+            1
+        (
+        x
+        )
+        =
+        (
+        x
+        −
+          a
+            r
+            ,
+            r
+        )
+          p
+            r
+        (
+        x
+        )
+        −
+          a
+            r
+            ,
+            r
+            −
+            1
+          p
+            r
+            −
+            1
+        (
+        x
+        )
+        …
+        −
+          a
+            r
+            ,
+            0
+          p
+            0
+        (
+        x
+        )
+    {\displaystyle p_{r+1}(x)=(x-a_{r,r})p_{r}(x)-a_{r,r-1}p_{r-1}(x)\ldots -a_{r,0}p_{0}(x)}
+and scalar product defined
+        (
+        f
+        (
+        x
+        )
+        ,
+        g
+        (
+        x
+        )
+        )
+        =
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        f
+        (
+        x
+        )
+        g
+        (
+        x
+        )
+        d
+        x
+    {\displaystyle (f(x),g(x))=\int _{a}^{b}\omega (x)f(x)g(x)dx}
+for 
+        r
+        =
+        0
+        ,
+        1
+        ,
+        …
+        ,
+        n
+        −
+        1
+    {\displaystyle r=0,1,\ldots ,n-1}
+   where n is the maximal degree which can be taken to be infinity, and where 
+          a
+            r
+            ,
+            s
+        =
+        (
+        x
+          p
+            r
+        ,
+          p
+            s
+        )
+          /
+        (
+          p
+            s
+        ,
+          p
+            s
+        )
+    {\displaystyle a_{r,s}=(xp_{r},p_{s})/(p_{s},p_{s})}
+  . First of all, the polynomials defined by the recurrence relation starting with 
+          p
+            0
+        (
+        x
+        )
+        =
+        1
+    {\displaystyle p_{0}(x)=1}
+   have leading coefficient one and correct degree. Given the starting point by 
+          p
+            0
+    {\displaystyle p_{0}}
+  , the orthogonality of 
+          p
+            r
+    {\displaystyle p_{r}}
+   can be shown by induction. For 
+        r
+        =
+        s
+        =
+        0
+    {\displaystyle r=s=0}
+   one has
+        (
+          p
+            1
+        ,
+          p
+            0
+        )
+        =
+        (
+        (
+        x
+        −
+          a
+            0
+            ,
+            0
+          p
+            0
+        ,
+          p
+            0
+        )
+        =
+        (
+        x
+          p
+            0
+        ,
+          p
+            0
+        )
+        −
+          a
+            0
+            ,
+            0
+        (
+          p
+            0
+        ,
+          p
+            0
+        )
+        =
+        (
+        x
+          p
+            0
+        ,
+          p
+            0
+        )
+        −
+        (
+        x
+          p
+            0
+        ,
+          p
+            0
+        )
+        =
+        0.
+    {\displaystyle (p_{1},p_{0})=((x-a_{0,0}p_{0},p_{0})=(xp_{0},p_{0})-a_{0,0}(p_{0},p_{0})=(xp_{0},p_{0})-(xp_{0},p_{0})=0.}
+Now if 
+          p
+            0
+        ,
+          p
+            1
+        ,
+        …
+        ,
+          p
+            r
+    {\displaystyle p_{0},p_{1},\ldots ,p_{r}}
+   are orthogonal, then also 
+          p
+            r
+            +
+            1
+    {\displaystyle p_{r+1}}
+  , because in
+        (
+          p
+            r
+            +
+            1
+        ,
+          p
+            s
+        )
+        =
+        (
+        x
+          p
+            r
+        ,
+          p
+            s
+        )
+        −
+          a
+            r
+            ,
+            r
+        (
+          p
+            r
+        ,
+          p
+            s
+        )
+        −
+          a
+            r
+            ,
+            r
+            −
+            1
+        (
+          p
+            r
+            −
+            1
+        ,
+          p
+            s
+        )
+        …
+        −
+          a
+            r
+            ,
+            0
+        (
+          p
+            0
+        ,
+          p
+            s
+        )
+    {\displaystyle (p_{r+1},p_{s})=(xp_{r},p_{s})-a_{r,r}(p_{r},p_{s})-a_{r,r-1}(p_{r-1},p_{s})\ldots -a_{r,0}(p_{0},p_{s})}
+all scalar products vanish except for the first one and the one where 
+          p
+            s
+    {\displaystyle p_{s}}
+   meets the same orthogonal polynomial. Therefore,
+        (
+          p
+            r
+            +
+            1
+        ,
+          p
+            s
+        )
+        =
+        (
+        x
+          p
+            r
+        ,
+          p
+            s
+        )
+        −
+          a
+            r
+            ,
+            s
+        (
+          p
+            s
+        ,
+          p
+            s
+        )
+        =
+        (
+        x
+          p
+            r
+        ,
+          p
+            s
+        )
+        −
+        (
+        x
+          p
+            r
+        ,
+          p
+            s
+        )
+        =
+        0.
+    {\displaystyle (p_{r+1},p_{s})=(xp_{r},p_{s})-a_{r,s}(p_{s},p_{s})=(xp_{r},p_{s})-(xp_{r},p_{s})=0.}
+However, if the scalar product satisfies 
+        (
+        x
+        f
+        ,
+        g
+        )
+        =
+        (
+        f
+        ,
+        x
+        g
+        )
+    {\displaystyle (xf,g)=(f,xg)}
+   (which is the case for Gaussian quadrature), the recurrence relation reduces to a three-term recurrence relation: For 
+        s
+        ≤
+        r
+        −
+        1
+        ,
+        x
+          p
+            s
+    {\displaystyle s\leq r-1,xp_{s}}
+   is a polynomial of degree less or equal to r − 1. On the other hand, 
+          p
+            r
+    {\displaystyle p_{r}}
+   is orthogonal to every polynomial of degree less or equal to r − 1. Therefore, one has 
+        (
+        x
+          p
+            r
+        ,
+          p
+            s
+        )
+        =
+        (
+          p
+            r
+        ,
+        x
+          p
+            s
+        )
+        =
+        0
+    {\displaystyle (xp_{r},p_{s})=(p_{r},xp_{s})=0}
+   and 
+          a
+            r
+            ,
+            s
+        =
+        0
+    {\displaystyle a_{r,s}=0}
+   for s < r − 1. The recurrence relation then simplifies to
+          p
+            r
+            +
+            1
+        (
+        x
+        )
+        =
+        (
+        x
+        −
+          a
+            r
+            ,
+            r
+        )
+          p
+            r
+        (
+        x
+        )
+        −
+          a
+            r
+            ,
+            r
+            −
+            1
+          p
+            r
+            −
+            1
+        (
+        x
+        )
+    {\displaystyle p_{r+1}(x)=(x-a_{r,r})p_{r}(x)-a_{r,r-1}p_{r-1}(x)}
+or
+          p
+            r
+            +
+            1
+        (
+        x
+        )
+        =
+        (
+        x
+        −
+          a
+            r
+        )
+          p
+            r
+        (
+        x
+        )
+        −
+          b
+            r
+          p
+            r
+            −
+            1
+        (
+        x
+        )
+    {\displaystyle p_{r+1}(x)=(x-a_{r})p_{r}(x)-b_{r}p_{r-1}(x)}
+(with the convention 
+          p
+            −
+            1
+        (
+        x
+        )
+        ≡
+        0
+    {\displaystyle p_{-1}(x)\equiv 0}
+  ) where
+          a
+            r
+        :=
+              (
+              x
+                p
+                  r
+              ,
+                p
+                  r
+              )
+              (
+                p
+                  r
+              ,
+                p
+                  r
+              )
+        ,
+          b
+            r
+        :=
+              (
+              x
+                p
+                  r
+              ,
+                p
+                  r
+                  −
+                  1
+              )
+              (
+                p
+                  r
+                  −
+                  1
+              ,
+                p
+                  r
+                  −
+                  1
+              )
+        =
+              (
+                p
+                  r
+              ,
+                p
+                  r
+              )
+              (
+                p
+                  r
+                  −
+                  1
+              ,
+                p
+                  r
+                  −
+                  1
+              )
+    {\displaystyle a_{r}:={\frac {(xp_{r},p_{r})}{(p_{r},p_{r})}},\qquad b_{r}:={\frac {(xp_{r},p_{r-1})}{(p_{r-1},p_{r-1})}}={\frac {(p_{r},p_{r})}{(p_{r-1},p_{r-1})}}}
+(the last because of 
+        (
+        x
+          p
+            r
+        ,
+          p
+            r
+            −
+            1
+        )
+        =
+        (
+          p
+            r
+        ,
+        x
+          p
+            r
+            −
+            1
+        )
+        =
+        (
+          p
+            r
+        ,
+          p
+            r
+        )
+    {\displaystyle (xp_{r},p_{r-1})=(p_{r},xp_{r-1})=(p_{r},p_{r})}
+  , since 
+        x
+          p
+            r
+            −
+            1
+    {\displaystyle xp_{r-1}}
+   differs from 
+          p
+            r
+    {\displaystyle p_{r}}
+   by a degree less than r).
+The three-term recurrence relation can be written in the matrix form 
+        J
+              P
+              ~
+        =
+        x
+              P
+              ~
+        −
+          p
+            n
+        (
+        x
+        )
+        ×
+            e
+            n
+    {\displaystyle J{\tilde {P}}=x{\tilde {P}}-p_{n}(x)\times \mathbf {e} _{n}}
+   where 
+              P
+              ~
+        =
+        [
+          p
+            0
+        (
+        x
+        )
+        ,
+          p
+            1
+        (
+        x
+        )
+        ,
+        .
+        .
+        .
+        ,
+          p
+            n
+            −
+            1
+        (
+        x
+        )
+          ]
+            T
+    {\displaystyle {\tilde {P}}=[p_{0}(x),p_{1}(x),...,p_{n-1}(x)]^{T}}
+  , 
+            e
+            n
+    {\displaystyle \mathbf {e} _{n}}
+   is the 
+        n
+    {\displaystyle n}
+  th standard basis vector, i.e. 
+            e
+            n
+        =
+        [
+        0
+        ,
+        .
+        .
+        .
+        ,
+        0
+        ,
+        1
+          ]
+            T
+    {\displaystyle \mathbf {e} _{n}=[0,...,0,1]^{T}}
+  , and J is the so-called Jacobi matrix:
+          J
+        =
+            (
+                    a
+                      0
+                  1
+                  0
+                  …
+                  …
+                  …
+                    b
+                      1
+                    a
+                      1
+                  1
+                  0
+                  …
+                  …
+                  0
+                    b
+                      2
+                    a
+                      2
+                  1
+                  0
+                  …
+                  0
+                  …
+                  …
+                  …
+                  …
+                  0
+                  …
+                  …
+                  0
+                    b
+                      n
+                      −
+                      2
+                    a
+                      n
+                      −
+                      2
+                  1
+                  …
+                  …
+                  …
+                  0
+                    b
+                      n
+                      −
+                      1
+                    a
+                      n
+                      −
+                      1
+            )
+    {\displaystyle \mathbf {J} ={\begin{pmatrix}a_{0}&1&0&\ldots &\ldots &\ldots \\b_{1}&a_{1}&1&0&\ldots &\ldots \\0&b_{2}&a_{2}&1&0&\ldots \\0&\ldots &\ldots &\ldots &\ldots &0\\\ldots &\ldots &0&b_{n-2}&a_{n-2}&1\\\ldots &\ldots &\ldots &0&b_{n-1}&a_{n-1}\end{pmatrix}}}
+The zeros 
+          x
+            j
+    {\displaystyle x_{j}}
+   of the polynomials up to degree n which are used as nodes for the Gaussian quadrature can be found by computing the eigenvalues of this tridiagonal matrix. This procedure is known as Golub–Welsch algorithm.
+For computing the weights and nodes, it is preferable to consider the symmetric tridiagonal matrix 
+            J
+    {\displaystyle {\mathcal {J}}}
+   with elements
+                      J
+                    i
+                    ,
+                    i
+                =
+                  J
+                    i
+                    ,
+                    i
+                =
+                  a
+                    i
+                    −
+                    1
+                i
+                =
+                1
+                ,
+                …
+                ,
+                n
+                      J
+                    i
+                    −
+                    1
+                    ,
+                    i
+                =
+                      J
+                    i
+                    ,
+                    i
+                    −
+                    1
+                =
+                      J
+                        i
+                        ,
+                        i
+                        −
+                        1
+                      J
+                        i
+                        −
+                        1
+                        ,
+                        i
+                =
+                      b
+                        i
+                        −
+                        1
+                i
+                =
+                2
+                ,
+                …
+                ,
+                n
+                .
+    {\displaystyle {\begin{aligned}{\mathcal {J}}_{i,i}&=J_{i,i}=a_{i-1}&&i=1,\ldots ,n\\{\mathcal {J}}_{i-1,i}={\mathcal {J}}_{i,i-1}&={\sqrt {J_{i,i-1}J_{i-1,i}}}={\sqrt {b_{i-1}}}&&i=2,\ldots ,n.\end{aligned}}}
+J and 
+            J
+    {\displaystyle {\mathcal {J}}}
+   are similar matrices and therefore have the same eigenvalues (the nodes). The weights can be computed from the corresponding eigenvectors: If 
+          ϕ
+            (
+            j
+            )
+    {\displaystyle \phi ^{(j)}}
+   is a normalized eigenvector (i.e., an eigenvector with euclidean norm equal to one) associated to the eigenvalue xj, the corresponding weight can be computed from the first component of this eigenvector, namely:
+          w
+            j
+        =
+          μ
+            0
+            (
+              ϕ
+                1
+                (
+                j
+                )
+            )
+            2
+    {\displaystyle w_{j}=\mu _{0}\left(\phi _{1}^{(j)}\right)^{2}}
+where 
+          μ
+            0
+    {\displaystyle \mu _{0}}
+   is the integral of the weight function
+          μ
+            0
+        =
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        d
+        x
+        .
+    {\displaystyle \mu _{0}=\int _{a}^{b}\omega (x)dx.}
+See, for instance, (Gil, Segura & Temme 2007) for further details.
+The error of a Gaussian quadrature rule can be stated as follows (Stoer & Bulirsch 2002, Thm 3.6.24). For an integrand which has 2n continuous derivatives,
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        f
+        (
+        x
+        )
+        d
+        x
+        −
+          ∑
+            i
+            =
+            1
+            n
+          w
+            i
+        f
+        (
+          x
+            i
+        )
+        =
+                f
+                  (
+                  2
+                  n
+                  )
+              (
+              ξ
+              )
+              (
+              2
+              n
+              )
+              !
+        (
+          p
+            n
+        ,
+          p
+            n
+        )
+    {\displaystyle \int _{a}^{b}\omega (x)\,f(x)\,dx-\sum _{i=1}^{n}w_{i}\,f(x_{i})={\frac {f^{(2n)}(\xi )}{(2n)!}}\,(p_{n},p_{n})}
+for some ξ in (a, b), where pn is the monic (i.e. the leading coefficient is 1) orthogonal polynomial of degree n and where
+        (
+        f
+        ,
+        g
+        )
+        =
+          ∫
+            a
+            b
+        ω
+        (
+        x
+        )
+        f
+        (
+        x
+        )
+        g
+        (
+        x
+        )
+        d
+        x
+        .
+    {\displaystyle (f,g)=\int _{a}^{b}\omega (x)f(x)g(x)\,dx.}
+In the important special case of ω(x) = 1, we have the error estimate (Kahaner, Moler & Nash 1989, §5.2)
+              (
+              b
+              −
+              a
+                )
+                  2
+                  n
+                  +
+                  1
+              (
+              n
+              !
+                )
+                  4
+              (
+              2
+              n
+              +
+              1
+              )
+              [
+              (
+              2
+              n
+              )
+              !
+                ]
+                  3
+          f
+            (
+            2
+            n
+            )
+        (
+        ξ
+        )
+        ,
+        a
+        <
+        ξ
+        <
+        b
+        .
+    {\displaystyle {\frac {(b-a)^{2n+1}(n!)^{4}}{(2n+1)[(2n)!]^{3}}}f^{(2n)}(\xi ),\qquad a<\xi <b.}
+Stoer and Bulirsch remark that this error estimate is inconvenient in practice, since it may be difficult to estimate the order 2n derivative, and furthermore the actual error may be much less than a bound established by the derivative. Another approach is to use two Gaussian quadrature rules of different orders, and to estimate the error as the difference between the two results. For this purpose, Gauss–Kronrod quadrature rules can be useful.
+If the interval [a, b] is subdivided, the Gauss evaluation points of the new subintervals never coincide with the previous evaluation points (except at zero for odd numbers), and thus the integrand must be evaluated at every point. Gauss–Kronrod rules are extensions of Gauss quadrature rules generated by adding n + 1 points to an n-point rule in such a way that the resulting rule is of order 2n + 1. This allows for computing higher-order estimates while re-using the function values of a lower-order estimate. The difference between a Gauss quadrature rule and its Kronrod extension are often used as an estimate of the approximation error.
+Also known as Lobatto quadrature (Abramowitz & Stegun 1972, p. 888), named after Dutch mathematician Rehuel Lobatto. It is similar to Gaussian quadrature with the following differences:
+The integration points include the end points of the integration interval.
+It is accurate for polynomials up to degree 2n–3, where n is the number of integration points (Quarteroni, Sacco & Saleri 2000).
+Lobatto quadrature of function f(x) on interval [−1, 1]:
+          ∫
+            −
+            1
+            1
+          f
+          (
+          x
+          )
+          d
+          x
+        =
+            2
+              n
+              (
+              n
+              −
+              1
+              )
+        [
+        f
+        (
+        1
+        )
+        +
+        f
+        (
+        −
+        1
+        )
+        ]
+        +
+          ∑
+            i
+            =
+            2
+            n
+            −
+            1
+            w
+              i
+          f
+          (
+            x
+              i
+          )
+        +
+          R
+            n
+        .
+    {\displaystyle \int _{-1}^{1}{f(x)\,dx}={\frac {2}{n(n-1)}}[f(1)+f(-1)]+\sum _{i=2}^{n-1}{w_{i}f(x_{i})}+R_{n}.}
+Abscissas: xi is the 
+        (
+        i
+        −
+        1
+        )
+    {\displaystyle (i-1)}
+  st zero of 
+          P
+            n
+            −
+            1
+          ′
+        (
+        x
+        )
+    {\displaystyle P'_{n-1}(x)}
+  .
+Weights:
+          w
+            i
+        =
+            2
+              n
+              (
+              n
+              −
+              1
+              )
+              [
+                P
+                  n
+                  −
+                  1
+              (
+                x
+                  i
+              )
+                ]
+                  2
+        ,
+          x
+            i
+        ≠
+        ±
+        1.
+    {\displaystyle w_{i}={\frac {2}{n(n-1)[P_{n-1}(x_{i})]^{2}}},\qquad x_{i}\neq \pm 1.}
+Remainder:
+          R
+            n
+        =
+              −
+              n
+              (
+              n
+              −
+              1
+                )
+                  3
+                2
+                  2
+                  n
+                  −
+                  1
+              [
+              (
+              n
+              −
+              2
+              )
+              !
+                ]
+                  4
+              (
+              2
+              n
+              −
+              1
+              )
+              [
+              (
+              2
+              n
+              −
+              2
+              )
+              !
+                ]
+                  3
+          f
+            (
+            2
+            n
+            −
+            2
+            )
+        (
+        ξ
+        )
+        ,
+        −
+        1
+        <
+        ξ
+        <
+        1.
+    {\displaystyle R_{n}={\frac {-n(n-1)^{3}2^{2n-1}[(n-2)!]^{4}}{(2n-1)[(2n-2)!]^{3}}}f^{(2n-2)}(\xi ),\qquad -1<\xi <1.}
+Some of the weights are:
+Euler–Maclaurin formula
+Clenshaw–Curtis quadrature

@@ -1,0 +1,81 @@
+Art of Illusion is a 3D modeling, texturing, ray tracing, and rendering application, used to create computer-generated stills or animations.
+Art of Illusion is capable of modeling and rendering photorealistic images and animations; it is capable of non-photorealistic rendering as well. Art of Illusion has features, such as mesh editing, texture mapping, and Boolean modeling, that are comparable to other high end commercial graphics software. Some of its features, like the use of online repositories and a built-in downloading tool for installing extensions, are not found in similar proprietary software.
+The primary creator and maintainer of the software is Peter Eastman.
+Art of Illusion is written in the Java programming language. Distributed under the GNU General Public License, it is free software.
+Interface
+Object list, scene layout windows, and animation score
+Tooltips and explanatory icons
+Bundled documentation and help interface
+Built-in "live help" chat client for connecting to the freenode Art of Illusion support channel
+Extensions available as scripts or plugins with automated installation and update from online repository (requires internet connection)
+Grid view and realtime display modes including Wireframe, Smooth, Textured.
+Modeling
+Primitives: cube, sphere, cone, tube, curve, triangle mesh, spline mesh
+Boolean modeling operations
+Lathe, sweep, extrude (straight or along a curve)
+Subdivision surfaces (smoothing) with edge creasing available for triangle meshes.
+Mesh editor featuring adjustable mesh tension, bevel, taper, various selection methods (including select edge loop/strip), etc.
+Object array tool (multidimensional arrays or arrays along a curve)
+Isosurface modeling (via procedural nodes or direct numeric input)
+Animation
+Distortion tracks for effects like bend, twist, and shatter
+Skeletal animation with weighting, constraints and inverse kinematics
+Poses and Gestures
+Keyframe editor with interpolating curves
+Path animation
+Animation through scripted objects, e.g. particles using Particle Jet script
+Textures
+Types: Uniform, image mapped, procedural 2D and 3D
+Mapping options: Projection, spherical, cylindrical, UV
+Per-vertex, per-face and per-face-per-vertex texture assignment (depending on textured object)
+Layered textures
+Graphical language for procedural texture/material design
+Procedural textures can be based on parameters like view angle (for fresnel-like effects), etc.
+Animateable textures via texture parameters and use of Time module
+Environment background can be mapped with any photo (HDR or RGB), as well as procedural textures
+Materials (Represent the internal properties of an object)
+Procedural and uniform materials
+Adjustable index of refraction, scattering, eccentricity
+Animatable materials via Time module
+Rendering
+Multithreading
+Global illumination rendering, along with caustics and subsurface scattering
+Global illumination methods: Monte carlo, photon mapping with final gathering, direct photon mapping, and ambient occlusion
+Light types: Point lights, spotlights (both with editable radii), and directional lights
+Soft shadows
+Light scattering for materials: Both Single Scattering and Photon Scattering (BSSRDF). User can specify either or both at rendertime.
+Raytraced depth of field
+Gloss/translucency (blurred reflections and blurry transparency)
+Motion blur
+HDRI scene illumination
+Save renders as HDRI images
+Post Processing
+Camera filters (Exposure Correction, Glow, Outline, Tint, Blur, etc.)
+Noise reduction for Global Illumination
+Scripting
+Scripting language (Beanshell) allowing development of new tools/commands
+Dynamic Scripts ("smart objects" - see flyswatter tutorial)
+File Handling
+3D Import: .obj natively; .dem, .dxf, .geo, .lwo, .pov, .inc, .3ds via plugins
+2D Import via scripts: .ai, .svg
+3D Export: .pov, .obj, VRML, all native; .stl via plugin
+2D Export/Save: .jpg, .bmp, .png, .tif, .hdr, all native; .svg via plugin
+Extended Functionality Through Scripts and Plugins
+Direct-to-disk rendering using presets like "Letter," "A4," with DPI and Bleed settings (Advanced Rendering plugin)
+Wireframe/polygon renders with antialiasing and SVG export (Vector Renderer plugin)
+Preview renders in sidebar (Preview Plugin)
+Subdivision (Ngon) modeler with tools for both open- and closed-mesh modeling and support for Catmull-Clark subdivision surfaces (Polymesh Editor plugin)
+ABF+ UV unwrapping available through Polymesh Editor plugin
+Procedural tree and plant creator (Tree and Plant Designer plugin)
+Other major features provided through script or plugin extensions such as: 3D text, mesh thickening, platonic solids, sculpt, fractal/image-based heightfields, hair, grunge, and more
+The first public version was released on October 29, 1999.
+Art of Illusion is a free and open source application, with independent developers contributing to the main program's source code, the scripts and plugins base and other aspects of the software. The program's creator, Peter Eastman, retains the control for deciding what code is included in the official version of Art of Illusion. Developers who wish for their plugins to be included in the repository should submit them to the maintainers at Scripts and Plugins Repository via e-mail.
+Prior to 2006, the development cycle for new Art of Illusion releases included two builds called "Early Access" (EA) releases, followed by a Beta, or "bug fix" version. Since then, the bug-fixing portion of development has been shifted to make sure that more bugs are fixed in existing features. Art of Illusion includes in-tool access to scripts and plugins, allowing the user access to the tools other people have found useful.
+Below is a listing of some of the artists who have placed in the Internet Ray Tracing Competition, an online computer graphics competition, using Art of Illusion for their submission:
+Nate Ryan's image won 1st place in the September - October 2003 "Decay" contest (Final ranking with gallery).
+Julian MacDonald's "Gladiators" animation won the Honorable Mention Artistic Merit in the July–October 2004 contest (Final ranking with gallery).
+"Bathtime Fun", also by Julian MacDonald, won 2nd place in the September–October 2004 contest (Final ranking with gallery).
+Kevin Lynn's "Is Juggling a Sport?" animation won 1st place in the July–October 2005 contest (Final ranking with gallery).
+The French Linux magazine Linux Pratique has published articles about Art of Illusion.
+Art of Illusion was the SourceForge.net Project of the Month for April, 2007.
+The book Extending Art of Illusion was published December 13, 2011.

@@ -1,0 +1,61 @@
+A tenrec is any species of mammal within the family Tenrecidae, found on Madagascar and in parts of the African mainland. Tenrecs are widely diverse; as a result of convergent evolution they resemble hedgehogs, shrews, opossums, mice and even otters. They occupy aquatic, arboreal, terrestrial and fossorial environments. Some of these species, including the greater hedgehog tenrec, can be found in the Madagascar dry deciduous forests.
+Tenrecs are small mammals of variable body form. The smallest species are the size of shrews, with a body length of around 4.5 cm (1.8 in), and weighing just 5 g (0.18 oz), while the largest, the common or tailless tenrec, is 25 to 39 cm (9.8 to 15.4 in) in length, and can weigh over 1 kilogram (2.2 lb). Although they may resemble shrews, hedgehogs, or otters, they are not closely related to any of these groups, their closest relatives being other African insectivorous mammals, such as golden moles and elephant shrews. The common ancestry of these animals, along with aardvarks, hyraxes, elephants, and sea cows in the group Afrotheria, was not recognized until the late 1990s. Continuing work on the molecular and morphological diversity of afrotherian mammals has provided ever increasing support for their common ancestry.
+Unusual among placental mammals, the anus and urogenital tracts of tenrecs share a common opening, or cloaca, a feature more commonly seen in birds, reptiles, and amphibians. They have a low body temperature, sufficiently so that they do not require a scrotum to cool their sperm as do most other mammals.
+All species appear to be at least somewhat omnivorous, with invertebrates forming the largest part of their diets. The three species found on the African mainland (Potamogale velox, Micropotamogale lamottei, M. ruwenzorii) have more specialized diets, centered on their habitat in fast-running streams of the African tropics, from Liberia in the west to Lake Victoria in the east. One species from Madagascar, Limnogale mergulus, is also semiaquatic. All of the species from Madagascar, semiaquatic or not, appear to have evolved from a single, common ancestor, with the mainland tenrecs comprising the next, most-closely related mammalian species. While the fossil record of tenrecs is scarce, at least some specimens from the early Miocene of Kenya show close affinities to living species from Madagascar, such as Geogale aurita.
+Most species are nocturnal and have poor eyesight. Their other senses are well developed, however, and they have especially sensitive whiskers. As with many of their other features, the dental formula of tenrecs varies greatly between species; they can have from 32 to 42 teeth in total. Unusual for mammals, the permanent dentition in tenrecs tends not to completely erupt until well after adult body size has been reached. This is one of several anatomical features shared by elephants, hyraxes, sengis, and golden moles (but apparently not aardvarks), consistent with their descent from a common ancestor.
+Tenrecs have a gestation period of 50 to 64 days, and give birth to a number of relatively undeveloped young. While the otter shrews have just two young per litter, the tailless tenrec can have as many as 32, and females possess up to 29 teats, more than any other mammal. At least some tenrec species are social, living in multigenerational family groups with over a dozen individuals.
+In the island nation of Mauritius, some of the inhabitants eat tenrec meat, though it is difficult to obtain (as it is not sold in shops or markets) and difficult to prepare correctly.
+The lesser hedgehog tenrec (Echinops telfairi) is one of 16 mammalian species that will have its genome sequenced as part of the Mammalian Genome Project. It is increasingly popular in the pet trade, and in the future may serve as an important model organism in biomedicine, as it is only distantly related to the mice, rats, guinea pigs, and rhesus macaques that comprise the most common research animals.
+There are four subfamilies, 10 genera, and 34 species of tenrecs:
+FAMILY TENRECIDAE
+Subfamily Geogalinae
+Genus Geogale
+Large-eared tenrec (Geogale aurita)
+Subfamily Oryzorictinae
+Genus Limnogale
+Web-footed tenrec (Limnogale mergulus)
+Genus Microgale
+Short-tailed shrew tenrec (Microgale brevicaudata)
+Cowan's shrew tenrec (Microgale cowani)
+Dobson's shrew tenrec (Microgale dobsoni)
+Drouhard's shrew tenrec (Microgale drouhardi)
+Dryad shrew tenrec (Microgale dryas)
+Pale shrew tenrec (Microgale fotsifotsy)
+Gracile shrew tenrec (Microgale gracilis)
+Grandidier's shrew tenrec (Microgale grandidieri)
+Naked-nosed shrew tenrec (Microgale gymnorhyncha)
+Jenkins' shrew tenrec (Microgale jenkinsae)
+Northern shrew tenrec (Microgale jobihely)
+Lesser long-tailed shrew tenrec (Microgale longicaudata)
+Microgale macpheei (extinct)
+Major's long-tailed tenrec (Microgale majori)
+Montane shrew tenrec (Microgale monticola)
+Nasolo's shrew tenrec (Microgale nasoloi)
+Pygmy shrew tenrec (Microgale parvula)
+Greater long-tailed shrew tenrec (Microgale principula)
+Least shrew tenrec (Microgale pusilla)
+Shrew-toothed shrew tenrec (Microgale soricoides)
+Taiva shrew tenrec (Microgale taiva)
+Talazac's shrew tenrec (Microgale talazaci)
+Thomas's shrew tenrec (Microgale thomasi)
+Genus Oryzorictes
+Mole-like rice tenrec (Oryzorictes hova)
+Four-toed rice tenrec (Oryzorictes tetradactylus)
+Subfamily Potamogalinae
+Genus Micropotamogale
+Nimba otter shrew (Micropotamogale lamottei)
+Ruwenzori otter shrew (Micropotamogale ruwenzorii)
+Genus Potamogale
+Giant otter shrew (Potamogale velox)
+Subfamily Tenrecinae
+Genus Echinops
+Lesser hedgehog tenrec (Echinops telfairi)
+Genus Hemicentetes
+Highland streaked tenrec (Hemicentetes nigriceps)
+Lowland streaked tenrec (Hemicentetes semispinosus)
+Genus Setifer
+Greater hedgehog tenrec (Setifer setosus)
+Genus Tenrec
+Common tenrec (Tenrec ecaudatus)
+Convergent evolution
+List of mammals of Madagascar

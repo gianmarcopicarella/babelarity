@@ -1,0 +1,18 @@
+Potassium ferrocyanide is the inorganic compound with formula K4[Fe(CN)6] · 3H2O. It is the potassium salt of the coordination complex [Fe(CN)6]4−. This salt forms lemon-yellow monoclinic crystals.
+Potassium ferrocyanide is produced industrially from hydrogen cyanide, ferrous chloride, and calcium hydroxide, the combination of which affords Ca2[Fe(CN)6] · 11H2O. This solution is then treated with potassium salts to precipitate the mixed calcium-potassium salt CaK2[Fe(CN)6], which in turn is treated with potassium carbonate to give the tetrapotassium salt.
+Historically, the compound was manufactured from organically derived nitrogenous carbon sources, iron filings, and potassium carbonate. Common nitrogen and carbon sources were torrified horn, leather scrap, offal, or dried blood.
+Treatment of potassium ferrocyanide with nitric acid gives H2[Fe(NO)(CN)5]. After neutralization of this intermediate with sodium carbonate, red crystals of sodium nitroprusside can be selectively crystallized.
+Upon treatment with chlorine gas, potassium ferrocyanide converts to potassium ferricyanide:
+2 K4[Fe(CN)6] + Cl2 → 2 K3[Fe(CN)6] + 2 KCl
+This reaction can be used to remove potassium ferrocyanide from a solution.
+A famous reaction involves treatment with ferric salts to give Prussian blue. With the approximate composition KFe2(CN)6, this insoluble but deeply coloured material is the blue of blueprinting.
+Potassium ferrocyanide finds many niche applications in industry. It and the related sodium salt are widely used as anticaking agents for both road salt and table salt. The potassium and sodium ferrocyanides are also used in the purification of tin and the separation of copper from molybdenum ores. Potassium ferrocyanide is used in the production of wine and citric acid.
+In the laboratory, potassium ferrocyanide is used to determine the concentration of potassium permanganate, a compound often used in titrations based on redox reactions. Potassium ferrocyanide is used in a mixture with potassium ferricyanide and phosphate buffered solution to provide a buffer for beta-galactosidase, which is used to cleave X-Gal, giving a bright blue visualization where an antibody (or other molecule), conjugated to Beta-gal, has bonded to its target.On reacting with Fe(3) it gives a Prussian blue colour.Thus it is used as an identifying reagent for iron in labs.
+Potassium ferrocyanide can be used as a fertilizer for plants.
+Prior to 1900 AD, before the invention of the Castner process, potassium ferrocyanide was the most important source of alkali metal cyanides. In this historical process, potassium cyanide was produced by decomposing potassium ferrocyanide:
+K4[Fe(CN)6] → 4 KCN + FeC2 + N2
+Like other metal cyanides, solid potassium ferrocyanide, both as the hydrate and anhydrous salts, has a complicated polymeric structure. The polymer consists of octahedral [Fe(CN)6]4- centers crosslinked with K+ ions that are bound to the CN ligands. The K+---NC linkages break when the solid is dissolved in water.
+Potassium ferrocyanide is nontoxic, and is not decomposed to cyanide in the body. The toxicity in rats is low, with lethal dose (LD50) at 6400 mg/kg.
+Ferrocyanide
+Potassium ferricyanide
+Ferricyanide

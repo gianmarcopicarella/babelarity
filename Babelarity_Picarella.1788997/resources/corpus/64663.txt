@@ -1,0 +1,928 @@
+In number theory, the Kronecker symbol, written as 
+          (
+              a
+              n
+          )
+    {\displaystyle \left({\frac {a}{n}}\right)}
+   or 
+        (
+        a
+          |
+        n
+        )
+    {\displaystyle (a|n)}
+  , is a generalization of the Jacobi symbol to all integers 
+        n
+    {\displaystyle n}
+  . It was introduced by Leopold Kronecker (1885, page 770).
+Let 
+        n
+    {\displaystyle n}
+   be a non-zero integer, with prime factorization
+        n
+        =
+        u
+        ⋅
+          p
+            1
+              e
+                1
+        ⋯
+          p
+            k
+              e
+                k
+        ,
+    {\displaystyle n=u\cdot p_{1}^{e_{1}}\cdots p_{k}^{e_{k}},}
+where 
+        u
+    {\displaystyle u}
+   is a unit (i.e., 
+        u
+        =
+        ±
+        1
+    {\displaystyle u=\pm 1}
+  ), and the 
+          p
+            i
+    {\displaystyle p_{i}}
+   are primes. Let 
+        a
+    {\displaystyle a}
+   be an integer. The Kronecker symbol 
+          (
+              a
+              n
+          )
+    {\displaystyle \left({\frac {a}{n}}\right)}
+   is defined by
+          (
+              a
+              n
+          )
+        =
+          (
+              a
+              u
+          )
+          ∏
+            i
+            =
+            1
+            k
+            (
+                a
+                  p
+                    i
+            )
+              e
+                i
+        .
+    {\displaystyle \left({\frac {a}{n}}\right)=\left({\frac {a}{u}}\right)\prod _{i=1}^{k}\left({\frac {a}{p_{i}}}\right)^{e_{i}}.}
+For odd 
+          p
+            i
+    {\displaystyle p_{i}}
+  , the number 
+          (
+              a
+                p
+                  i
+          )
+    {\displaystyle \left({\frac {a}{p_{i}}}\right)}
+   is simply the usual Legendre symbol. This leaves the case when 
+          p
+            i
+        =
+        2
+    {\displaystyle p_{i}=2}
+  . We define 
+          (
+              a
+              2
+          )
+    {\displaystyle \left({\frac {a}{2}}\right)}
+   by
+          (
+              a
+              2
+          )
+        =
+            {
+                  0
+                    if 
+                  a
+                     is even,
+                  1
+                    if 
+                  a
+                  ≡
+                  ±
+                  1
+                    (
+                    mod
+                    8
+                    )
+                  ,
+                  −
+                  1
+                    if 
+                  a
+                  ≡
+                  ±
+                  3
+                    (
+                    mod
+                    8
+                    )
+                  .
+    {\displaystyle \left({\frac {a}{2}}\right)={\begin{cases}0&{\mbox{if }}a{\mbox{ is even,}}\\1&{\mbox{if }}a\equiv \pm 1{\pmod {8}},\\-1&{\mbox{if }}a\equiv \pm 3{\pmod {8}}.\end{cases}}}
+Since it extends the Jacobi symbol, the quantity 
+        (
+        a
+          |
+        u
+        )
+    {\displaystyle (a|u)}
+   is simply 
+        1
+    {\displaystyle 1}
+   when 
+        u
+        =
+        1
+    {\displaystyle u=1}
+  . When 
+        u
+        =
+        −
+        1
+    {\displaystyle u=-1}
+  , we define it by
+          (
+              a
+                −
+                1
+          )
+        =
+            {
+                  −
+                  1
+                    if 
+                  a
+                  <
+                  0
+                  ,
+                  1
+                    if 
+                  a
+                  ≥
+                  0.
+    {\displaystyle \left({\frac {a}{-1}}\right)={\begin{cases}-1&{\mbox{if }}a<0,\\1&{\mbox{if }}a\geq 0.\end{cases}}}
+Finally, we put
+          (
+              a
+              0
+          )
+        =
+            {
+                  1
+                    if 
+                  a
+                  =
+                  ±
+                  1
+                  ,
+                  0
+                    otherwise.
+    {\displaystyle \left({\frac {a}{0}}\right)={\begin{cases}1&{\text{if }}a=\pm 1,\\0&{\text{otherwise.}}\end{cases}}}
+These extensions suffice to define the Kronecker symbol for all integer values 
+        a
+        ,
+        n
+    {\displaystyle a,n}
+  .
+Some authors only define the Kronecker symbol for more restricted values; for example, 
+        a
+    {\displaystyle a}
+   congruent to 
+        0
+        ,
+        1
+          mod
+            4
+    {\displaystyle 0,1{\bmod {4}}}
+   and 
+        n
+        >
+        0
+    {\displaystyle n>0}
+  .
+The following is a table of values of Kronecker symbol 
+          (
+              k
+              n
+          )
+    {\displaystyle \left({\frac {k}{n}}\right)}
+   with n, k ≤ 30.
+The Kronecker symbol shares many basic properties of the Jacobi symbol, under certain restrictions:
+          (
+                a
+                n
+          )
+        =
+        ±
+        1
+    {\displaystyle \left({\tfrac {a}{n}}\right)=\pm 1}
+   if 
+        gcd
+        (
+        a
+        ,
+        n
+        )
+        =
+        1
+    {\displaystyle \gcd(a,n)=1}
+  , otherwise 
+          (
+                a
+                n
+          )
+        =
+        0
+    {\displaystyle \left({\tfrac {a}{n}}\right)=0}
+  .
+          (
+                  a
+                  b
+                n
+          )
+        =
+          (
+                a
+                n
+          )
+          (
+                b
+                n
+          )
+    {\displaystyle \left({\tfrac {ab}{n}}\right)=\left({\tfrac {a}{n}}\right)\left({\tfrac {b}{n}}\right)}
+   unless 
+        n
+        =
+        −
+        1
+    {\displaystyle n=-1}
+  , one of 
+        a
+        ,
+        b
+    {\displaystyle a,b}
+   is zero and the other one is negative.
+          (
+                a
+                  m
+                  n
+          )
+        =
+          (
+                a
+                m
+          )
+          (
+                a
+                n
+          )
+    {\displaystyle \left({\tfrac {a}{mn}}\right)=\left({\tfrac {a}{m}}\right)\left({\tfrac {a}{n}}\right)}
+   unless 
+        a
+        =
+        −
+        1
+    {\displaystyle a=-1}
+  , one of 
+        m
+        ,
+        n
+    {\displaystyle m,n}
+   is zero and the other one has odd part (definition below) congruent to 
+        3
+          mod
+            4
+    {\displaystyle 3{\bmod {4}}}
+  .
+For 
+        n
+        >
+        0
+    {\displaystyle n>0}
+  , we have 
+          (
+                a
+                n
+          )
+        =
+          (
+                b
+                n
+          )
+    {\displaystyle \left({\tfrac {a}{n}}\right)=\left({\tfrac {b}{n}}\right)}
+   whenever 
+        a
+        ≡
+        b
+          mod
+              {
+                    4
+                    n
+                    ,
+                    n
+                    ≡
+                    2
+                      (
+                      mod
+                      4
+                      )
+                    ,
+                    n
+                      otherwise.
+    {\displaystyle a\equiv b{\bmod {\begin{cases}4n,&n\equiv 2{\pmod {4}},\\n&{\text{otherwise.}}\end{cases}}}}
+   If additionally 
+        a
+        ,
+        b
+    {\displaystyle a,b}
+   have the same sign, the same also holds for 
+        n
+        <
+        0
+    {\displaystyle n<0}
+  .
+For 
+        a
+        ≢
+        3
+          (
+          mod
+          4
+          )
+    {\displaystyle a\not \equiv 3{\pmod {4}}}
+  , 
+        a
+        ≠
+        0
+    {\displaystyle a\neq 0}
+  , we have 
+          (
+                a
+                m
+          )
+        =
+          (
+                a
+                n
+          )
+    {\displaystyle \left({\tfrac {a}{m}}\right)=\left({\tfrac {a}{n}}\right)}
+   whenever 
+        m
+        ≡
+        n
+          mod
+              {
+                    4
+                      |
+                    a
+                      |
+                    ,
+                    a
+                    ≡
+                    2
+                      (
+                      mod
+                      4
+                      )
+                    ,
+                      |
+                    a
+                      |
+                      otherwise.
+    {\displaystyle m\equiv n{\bmod {\begin{cases}4|a|,&a\equiv 2{\pmod {4}},\\|a|&{\text{otherwise.}}\end{cases}}}}
+The Kronecker symbol also satisfies the following versions of quadratic reciprocity law.
+For any nonzero integer 
+        n
+    {\displaystyle n}
+  , let 
+          n
+          ′
+    {\displaystyle n'}
+   denote its odd part: 
+        n
+        =
+          2
+            e
+          n
+          ′
+    {\displaystyle n=2^{e}n'}
+   where 
+          n
+          ′
+    {\displaystyle n'}
+   is odd (for 
+        n
+        =
+        0
+    {\displaystyle n=0}
+  , we put 
+          0
+          ′
+        =
+        1
+    {\displaystyle 0'=1}
+  ). Then the following symmetric version of quadratic reciprocity holds for every pair of integers 
+        m
+        ,
+        n
+    {\displaystyle m,n}
+   such that 
+        gcd
+        (
+        m
+        ,
+        n
+        )
+        =
+        1
+    {\displaystyle \gcd(m,n)=1}
+  :
+          (
+              m
+              n
+          )
+          (
+              n
+              m
+          )
+        =
+        ±
+        (
+        −
+        1
+          )
+                    m
+                    ′
+                  −
+                  1
+                2
+                    n
+                    ′
+                  −
+                  1
+                2
+        ,
+    {\displaystyle \left({\frac {m}{n}}\right)\left({\frac {n}{m}}\right)=\pm (-1)^{{\frac {m'-1}{2}}{\frac {n'-1}{2}}},}
+where the 
+        ±
+    {\displaystyle \pm }
+   sign is equal to 
+        +
+    {\displaystyle +}
+   if 
+        m
+        ≥
+        0
+    {\displaystyle m\geq 0}
+   or 
+        n
+        ≥
+        0
+    {\displaystyle n\geq 0}
+   and is equal to 
+        −
+    {\displaystyle -}
+   if 
+        m
+        <
+        0
+    {\displaystyle m<0}
+   and 
+        n
+        <
+        0
+    {\displaystyle n<0}
+  .
+There is also equivalent non-symmetric version of quadratic reciprocity that holds for every pair of relatively prime integers 
+        m
+        ,
+        n
+    {\displaystyle m,n}
+  :
+          (
+              m
+              n
+          )
+          (
+              n
+                  |
+                m
+                  |
+          )
+        =
+        (
+        −
+        1
+          )
+                    m
+                    ′
+                  −
+                  1
+                2
+                    n
+                    ′
+                  −
+                  1
+                2
+        .
+    {\displaystyle \left({\frac {m}{n}}\right)\left({\frac {n}{|m|}}\right)=(-1)^{{\frac {m'-1}{2}}{\frac {n'-1}{2}}}.}
+For any integer 
+        n
+    {\displaystyle n}
+   let 
+          n
+            ∗
+        =
+        (
+        −
+        1
+          )
+            (
+              n
+              ′
+            −
+            1
+            )
+              /
+            2
+        n
+    {\displaystyle n^{*}=(-1)^{(n'-1)/2}n}
+  . Then we have another equivalent non-symmetric version that states
+          (
+                m
+                  ∗
+              n
+          )
+        =
+          (
+              n
+                  |
+                m
+                  |
+          )
+    {\displaystyle \left({\frac {m^{*}}{n}}\right)=\left({\frac {n}{|m|}}\right)}
+for every pair of integers 
+        m
+        ,
+        n
+    {\displaystyle m,n}
+   (not necessarily relatively prime).
+The supplementary laws generalize to the Kronecker symbol as well. These laws follow easily from each version of quadratic reciprocity law stated above (unlike with Legendre and Jacobi symbol where both the main law and the supplementary laws are needed to fully describe the quadratic reciprocity).
+For any integer 
+        n
+    {\displaystyle n}
+   we have
+          (
+                −
+                1
+              n
+          )
+        =
+        (
+        −
+        1
+          )
+                  n
+                  ′
+                −
+                1
+              2
+    {\displaystyle \left({\frac {-1}{n}}\right)=(-1)^{\frac {n'-1}{2}}}
+and for any odd integer 
+        n
+    {\displaystyle n}
+   it's
+          (
+              2
+              n
+          )
+        =
+        (
+        −
+        1
+          )
+                  n
+                    2
+                −
+                1
+              8
+        .
+    {\displaystyle \left({\frac {2}{n}}\right)=(-1)^{\frac {n^{2}-1}{8}}.}
+If 
+        a
+        ≢
+        3
+          (
+          mod
+          4
+          )
+    {\displaystyle a\not \equiv 3{\pmod {4}}}
+   and 
+        a
+        ≠
+        0
+    {\displaystyle a\neq 0}
+  , the map 
+        χ
+        (
+        n
+        )
+        =
+          (
+                a
+                n
+          )
+    {\displaystyle \chi (n)=\left({\tfrac {a}{n}}\right)}
+   is a real Dirichlet character of modulus 
+            {
+                  4
+                    |
+                  a
+                    |
+                  ,
+                  a
+                  ≡
+                  2
+                    (
+                    mod
+                    4
+                    )
+                  ,
+                    |
+                  a
+                    |
+                  ,
+                    otherwise.
+    {\displaystyle {\begin{cases}4|a|,&a\equiv 2{\pmod {4}},\\|a|,&{\text{otherwise.}}\end{cases}}}
+   Conversely, every real Dirichlet character can be written in this form with 
+        a
+        ≡
+        0
+        ,
+        1
+          (
+          mod
+          4
+          )
+    {\displaystyle a\equiv 0,1{\pmod {4}}}
+   (for 
+        a
+        ≡
+        2
+          (
+          mod
+          4
+          )
+    {\displaystyle a\equiv 2{\pmod {4}}}
+   it's 
+          (
+                a
+                n
+          )
+        =
+          (
+                  4
+                  a
+                n
+          )
+    {\displaystyle \left({\tfrac {a}{n}}\right)=\left({\tfrac {4a}{n}}\right)}
+  ).
+In particular, primitive real Dirichlet characters 
+        χ
+    {\displaystyle \chi }
+   are in a 1–1 correspondence with quadratic fields 
+        F
+        =
+          Q
+        (
+            m
+        )
+    {\displaystyle F=\mathbb {Q} ({\sqrt {m}})}
+  , where 
+        m
+    {\displaystyle m}
+   is a nonzero square-free integer (we can include the case 
+          Q
+        (
+            1
+        )
+        =
+          Q
+    {\displaystyle \mathbb {Q} ({\sqrt {1}})=\mathbb {Q} }
+   to represent the principal character, even though it is not a proper quadratic field). The character 
+        χ
+    {\displaystyle \chi }
+   can be recovered from the field as the Artin symbol 
+          (
+                  F
+                    /
+                    Q
+                ⋅
+          )
+    {\displaystyle \left({\tfrac {F/\mathbb {Q} }{\cdot }}\right)}
+  : that is, for a positive prime 
+        p
+    {\displaystyle p}
+  , the value of 
+        χ
+        (
+        p
+        )
+    {\displaystyle \chi (p)}
+   depends on the behaviour of the ideal 
+        (
+        p
+        )
+    {\displaystyle (p)}
+   in the ring of integers 
+          O
+            F
+    {\displaystyle O_{F}}
+  :
+        χ
+        (
+        p
+        )
+        =
+            {
+                  0
+                  ,
+                  (
+                  p
+                  )
+                     is ramified,
+                  1
+                  ,
+                  (
+                  p
+                  )
+                     splits,
+                  −
+                  1
+                  ,
+                  (
+                  p
+                  )
+                     is inert.
+    {\displaystyle \chi (p)={\begin{cases}0,&(p){\text{ is ramified,}}\\1,&(p){\text{ splits,}}\\-1,&(p){\text{ is inert.}}\end{cases}}}
+Then 
+        χ
+        (
+        n
+        )
+    {\displaystyle \chi (n)}
+   equals the Kronecker symbol 
+          (
+                D
+                n
+          )
+    {\displaystyle \left({\tfrac {D}{n}}\right)}
+  , where
+        D
+        =
+            {
+                  m
+                  ,
+                  m
+                  ≡
+                  1
+                    (
+                    mod
+                    4
+                    )
+                  ,
+                  4
+                  m
+                  ,
+                  m
+                  ≡
+                  2
+                  ,
+                  3
+                    (
+                    mod
+                    4
+                    )
+    {\displaystyle D={\begin{cases}m,&m\equiv 1{\pmod {4}},\\4m,&m\equiv 2,3{\pmod {4}}\end{cases}}}
+is the discriminant of 
+        F
+    {\displaystyle F}
+  . The conductor of 
+        χ
+    {\displaystyle \chi }
+   is 
+          |
+        D
+          |
+    {\displaystyle |D|}
+  .
+Similarly, if 
+        n
+        >
+        0
+    {\displaystyle n>0}
+  , the map 
+        χ
+        (
+        a
+        )
+        =
+          (
+                a
+                n
+          )
+    {\displaystyle \chi (a)=\left({\tfrac {a}{n}}\right)}
+   is a real Dirichlet character of modulus 
+            {
+                  4
+                  n
+                  ,
+                  n
+                  ≡
+                  2
+                    (
+                    mod
+                    4
+                    )
+                  ,
+                  n
+                  ,
+                    otherwise.
+    {\displaystyle {\begin{cases}4n,&n\equiv 2{\pmod {4}},\\n,&{\text{otherwise.}}\end{cases}}}
+   However, not all real characters can be represented in this way, for example the character 
+          (
+                  −
+                  4
+                ⋅
+          )
+    {\displaystyle \left({\tfrac {-4}{\cdot }}\right)}
+   cannot be written as 
+          (
+                ⋅
+                n
+          )
+    {\displaystyle \left({\tfrac {\cdot }{n}}\right)}
+   for any 
+        n
+    {\displaystyle n}
+  . By the law of quadratic reciprocity, we have 
+          (
+                ⋅
+                n
+          )
+        =
+          (
+                  n
+                    ∗
+                ⋅
+          )
+    {\displaystyle \left({\tfrac {\cdot }{n}}\right)=\left({\tfrac {n^{*}}{\cdot }}\right)}
+  . A character 
+          (
+                a
+                ⋅
+          )
+    {\displaystyle \left({\tfrac {a}{\cdot }}\right)}
+   can be represented as 
+          (
+                ⋅
+                n
+          )
+    {\displaystyle \left({\tfrac {\cdot }{n}}\right)}
+   if and only if its odd part 
+          a
+          ′
+        ≡
+        1
+          (
+          mod
+          4
+          )
+    {\displaystyle a'\equiv 1{\pmod {4}}}
+  , in which case we can take 
+        n
+        =
+          |
+        a
+          |
+    {\displaystyle n=|a|}
+  .

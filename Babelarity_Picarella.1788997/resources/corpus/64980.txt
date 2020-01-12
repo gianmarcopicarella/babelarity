@@ -1,0 +1,683 @@
+In physics, a wave vector (also spelled wavevector) is a vector which helps describe a wave. Like any vector, it has a magnitude and direction, both of which are important: Its magnitude is either the wavenumber or angular wavenumber of the wave (inversely proportional to the wavelength), and its direction is ordinarily the direction of wave propagation (but not always, see below).
+In the context of special relativity the wave vector can also be defined as a four-vector.
+There are two common definitions of wave vector, which differ by a factor of 2π in their magnitudes. One definition is preferred in physics and related fields, while the other definition is preferred in crystallography and related fields. For this article, they will be called the "physics definition" and the "crystallography definition", respectively.
+A perfect one-dimensional traveling wave follows the equation:
+        ψ
+        (
+        x
+        ,
+        t
+        )
+        =
+        A
+        cos
+        ⁡
+        (
+        k
+        x
+        −
+        ω
+        t
+        +
+        φ
+        )
+    {\displaystyle \psi (x,t)=A\cos(kx-\omega t+\varphi )}
+where:
+x is position,
+t is time,
+        ψ
+    {\displaystyle \psi }
+   (a function of x and t) is the disturbance describing the wave (for example, for an ocean wave, 
+        ψ
+    {\displaystyle \psi }
+   would be the excess height of the water, or for a sound wave, 
+        ψ
+    {\displaystyle \psi }
+   would be the excess air pressure).
+A is the amplitude of the wave (the peak magnitude of the oscillation),
+        φ
+    {\displaystyle \varphi }
+   is a "phase offset" describing how two waves can be out of sync with each other,
+        ω
+    {\displaystyle \omega }
+   is the temporal angular frequency of the wave, describing how many oscillations it completes per unit of time, and related to the period 
+        T
+    {\displaystyle T}
+   by the equation 
+        ω
+        =
+        2
+        π
+          /
+        T
+    {\displaystyle \omega =2\pi /T}
+  ,
+        k
+    {\displaystyle k}
+   is the spatial angular frequency (wavenumber) of the wave, describing how many oscillations it completes per unit of space, and related to the wavelength by the equation 
+        k
+        =
+        2
+        π
+          /
+        λ
+    {\displaystyle k=2\pi /\lambda }
+  .
+This wave travels in the +x direction with speed (more specifically, phase velocity) 
+        ω
+          /
+        k
+    {\displaystyle \omega /k}
+  .
+In crystallography, the same waves are described using slightly different equations. In one and three dimensions respectively:
+        ψ
+        (
+        x
+        ,
+        t
+        )
+        =
+        A
+        cos
+        ⁡
+        (
+        2
+        π
+        (
+        k
+        x
+        −
+        ν
+        t
+        )
+        +
+        φ
+        )
+    {\displaystyle \psi (x,t)=A\cos(2\pi (kx-\nu t)+\varphi )}
+        ψ
+          (
+              r
+          ,
+          t
+          )
+        =
+        A
+        cos
+        ⁡
+          (
+          2
+          π
+          (
+              k
+          ⋅
+              r
+          −
+          ν
+          t
+          )
+          +
+          φ
+          )
+    {\displaystyle \psi \left({\mathbf {r} },t\right)=A\cos \left(2\pi ({\mathbf {k} }\cdot {\mathbf {r} }-\nu t)+\varphi \right)}
+The differences are:
+The frequency 
+        ν
+    {\displaystyle \nu }
+   instead of angular frequency 
+        ω
+    {\displaystyle \omega }
+   is used. They are related by 
+        2
+        π
+        ν
+        =
+        ω
+    {\displaystyle 2\pi \nu =\omega }
+  . This substitution is not important for this article, but reflects common practice in crystallography.
+The wavenumber k and wave vector k are defined in a different way. Here, 
+        k
+        =
+          |
+            k
+          |
+        =
+        1
+          /
+        λ
+    {\displaystyle k=|{\mathbf {k} }|=1/\lambda }
+  , while in the physics definition above, 
+        k
+        =
+          |
+            k
+          |
+        =
+        2
+        π
+          /
+        λ
+    {\displaystyle k=|{\mathbf {k} }|=2\pi /\lambda }
+  .
+The direction of k is discussed below.
+The direction in which the wave vector points must be distinguished from the "direction of wave propagation". The "direction of wave propagation" is the direction of a wave's energy flow, and the direction that a small wave packet will move, i.e. the direction of the group velocity. For light waves, this is also the direction of the Poynting vector. On the other hand, the wave vector points in the direction of phase velocity. In other words, the wave vector points in the normal direction to the surfaces of constant phase, also called wave fronts.
+In a lossless isotropic medium such as air, any gas, any liquid, or some solids (such as glass), the direction of the wavevector is exactly the same as the direction of wave propagation. If the medium is lossy, the wave vector in general points in directions other than that of wave propagation. The condition for wave vector to point in the same direction in which the wave propagates is that the wave has to be homogeneous, which isn't necessarily satisfied when the medium is lossy. In a homogeneous wave, the surfaces of constant phase are also surfaces of constant amplitude. In case of inhomogeneous waves, these two species of surfaces differ in orientation. Wave vector is always perpendicular to surfaces of constant phase.
+For example, when a wave travels through an anisotropic medium, such as light waves through an asymmetric crystal or sound waves through a sedimentary rock, the wave vector may not point exactly in the direction of wave propagation.
+In solid-state physics, the "wavevector" (also called k-vector) of an electron or hole in a crystal is the wavevector of its quantum-mechanical wavefunction. These electron waves are not ordinary sinusoidal waves, but they do have a kind of envelope function which is sinusoidal, and the wavevector is defined via that envelope wave, usually using the "physics definition". See Bloch wave for further details.
+A moving wave surface in special relativity may be regarded as a hypersurface (a 3D subspace) in spacetime, formed by all the events passed by the wave surface. A wavetrain (denoted by some variable X) can be regarded as a one-parameter family of such hypersurfaces in spacetime. This variable X is a scalar function of position in spacetime. The derivative of this scalar is a vector that characterizes the wave, the four-wavevector.
+The four-wavevector is a wave four-vector that is defined, in Minkowski coordinates, as:
+          K
+            μ
+        =
+          (
+              ω
+              c
+          ,
+                k
+                →
+          )
+        =
+          (
+              ω
+              c
+          ,
+              ω
+                v
+                  p
+                n
+                ^
+          )
+        =
+          (
+                2
+                π
+                c
+                T
+          ,
+                2
+                π
+                      n
+                      ^
+              λ
+          )
+    {\displaystyle K^{\mu }=\left({\frac {\omega }{c}},{\vec {k}}\right)=\left({\frac {\omega }{c}},{\frac {\omega }{v_{p}}}{\hat {n}}\right)=\left({\frac {2\pi }{cT}},{\frac {2\pi {\hat {n}}}{\lambda }}\right)\,}
+where the angular frequency 
+            ω
+            c
+    {\displaystyle {\frac {\omega }{c}}}
+   is the temporal component, and the wavenumber vector 
+              k
+              →
+    {\displaystyle {\vec {k}}}
+   is the spatial component.
+Alternately, the wavenumber 
+        k
+    {\displaystyle k}
+   can be written as the angular frequency 
+        ω
+    {\displaystyle \omega }
+   divided by the phase-velocity 
+          v
+            p
+    {\displaystyle v_{p}}
+  , or in terms of inverse period 
+        T
+    {\displaystyle T}
+   and inverse wavelength 
+        λ
+    {\displaystyle \lambda }
+  .
+When written out explicitly in its contravariant and covariant forms are:
+          K
+            μ
+        =
+          (
+              ω
+              c
+          ,
+            k
+              x
+          ,
+            k
+              y
+          ,
+            k
+              z
+          )
+    {\displaystyle K^{\mu }=\left({\frac {\omega }{c}},k_{x},k_{y},k_{z}\right)\,}
+          K
+            μ
+        =
+          (
+              ω
+              c
+          ,
+          −
+            k
+              x
+          ,
+          −
+            k
+              y
+          ,
+          −
+            k
+              z
+          )
+    {\displaystyle K_{\mu }=\left({\frac {\omega }{c}},-k_{x},-k_{y},-k_{z}\right)\,}
+In general, the Lorentz scalar magnitude of the wave four-vector is:
+          K
+            μ
+          K
+            μ
+        =
+            (
+                ω
+                c
+            )
+            2
+        −
+          k
+            x
+            2
+        −
+          k
+            y
+            2
+        −
+          k
+            z
+            2
+        =
+            (
+                  ω
+                    o
+                c
+            )
+            2
+        =
+            (
+                    m
+                      o
+                  c
+                ℏ
+            )
+            2
+    {\displaystyle K^{\mu }K_{\mu }=\left({\frac {\omega }{c}}\right)^{2}-k_{x}^{2}-k_{y}^{2}-k_{z}^{2}\ =\left({\frac {\omega _{o}}{c}}\right)^{2}=\left({\frac {m_{o}c}{\hbar }}\right)^{2}}
+The four-wavevector is null for massless (photonic) particles, where the rest mass 
+          m
+            o
+        =
+        0
+    {\displaystyle m_{o}=0}
+An example of a null four-wavevector would be a beam of coherent, monochromatic light, which has phase-velocity 
+          v
+            p
+        =
+        c
+    {\displaystyle v_{p}=c}
+          K
+            μ
+        =
+          (
+              ω
+              c
+          ,
+                k
+                →
+          )
+        =
+          (
+              ω
+              c
+          ,
+              ω
+              c
+                n
+                ^
+          )
+        =
+            ω
+            c
+          (
+          1
+          ,
+                n
+                ^
+          )
+    {\displaystyle K^{\mu }=\left({\frac {\omega }{c}},{\vec {k}}\right)=\left({\frac {\omega }{c}},{\frac {\omega }{c}}{\hat {n}}\right)={\frac {\omega }{c}}\left(1,{\hat {n}}\right)\,}
+   {for light-like/null}
+which would have the following relation between the frequency and the magnitude of the spatial part of the four-wavevector:
+          K
+            μ
+          K
+            μ
+        =
+            (
+                ω
+                c
+            )
+            2
+        −
+          k
+            x
+            2
+        −
+          k
+            y
+            2
+        −
+          k
+            z
+            2
+        =
+        0
+    {\displaystyle K^{\mu }K_{\mu }=\left({\frac {\omega }{c}}\right)^{2}-k_{x}^{2}-k_{y}^{2}-k_{z}^{2}\ =0}
+   {for light-like/null}
+The four-wavevector is related to the four-momentum as follows:
+          P
+            μ
+        =
+          (
+              E
+              c
+          ,
+                p
+                →
+          )
+        =
+        ℏ
+          K
+            μ
+        =
+        ℏ
+          (
+              ω
+              c
+          ,
+                k
+                →
+          )
+    {\displaystyle P^{\mu }=\left({\frac {E}{c}},{\vec {p}}\right)=\hbar K^{\mu }=\hbar \left({\frac {\omega }{c}},{\vec {k}}\right)}
+The four-wavevector is related to the four-frequency as follows:
+          K
+            μ
+        =
+          (
+              ω
+              c
+          ,
+                k
+                →
+          )
+        =
+          (
+                2
+                π
+              c
+          )
+          N
+            μ
+        =
+          (
+                2
+                π
+              c
+          )
+        (
+        ν
+        ,
+        c
+              n
+              →
+        )
+    {\displaystyle K^{\mu }=\left({\frac {\omega }{c}},{\vec {k}}\right)=\left({\frac {2\pi }{c}}\right)N^{\mu }=\left({\frac {2\pi }{c}}\right)(\nu ,c{\vec {n}})}
+The four-wavevector is related to the four-velocity as follows:
+          K
+            μ
+        =
+          (
+              ω
+              c
+          ,
+                k
+                →
+          )
+        =
+          (
+                ω
+                  o
+                c
+                  2
+          )
+          U
+            μ
+        =
+          (
+                ω
+                  o
+                c
+                  2
+          )
+        γ
+        (
+        c
+        ,
+              u
+              →
+        )
+    {\displaystyle K^{\mu }=\left({\frac {\omega }{c}},{\vec {k}}\right)=\left({\frac {\omega _{o}}{c^{2}}}\right)U^{\mu }=\left({\frac {\omega _{o}}{c^{2}}}\right)\gamma (c,{\vec {u}})}
+Taking the Lorentz transformation of the four-wavevector is one way to derive the relativistic Doppler effect. The Lorentz matrix is defined as
+        Λ
+        =
+            (
+                  γ
+                  −
+                  β
+                  γ
+                  0
+                  0
+                  −
+                  β
+                  γ
+                  γ
+                  0
+                  0
+                  0
+                  0
+                  1
+                  0
+                  0
+                  0
+                  0
+                  1
+            )
+    {\displaystyle \Lambda ={\begin{pmatrix}\gamma &-\beta \gamma &0&0\\-\beta \gamma &\gamma &0&0\\0&0&1&0\\0&0&0&1\end{pmatrix}}}
+In the situation where light is being emitted by a fast moving source and one would like to know the frequency of light detected in an earth (lab) frame, we would apply the Lorentz transformation as follows. Note that the source is in a frame Ss and earth is in the observing frame, Sobs. Applying the lorentz transformation to the wave vector
+          k
+            s
+            μ
+        =
+          Λ
+            ν
+            μ
+          k
+              o
+              b
+              s
+            ν
+    {\displaystyle k_{s}^{\mu }=\Lambda _{\nu }^{\mu }k_{\mathrm {obs} }^{\nu }\,}
+and choosing just to look at the 
+        μ
+        =
+        0
+    {\displaystyle \mu =0}
+   component results in
+          k
+            s
+            0
+        =
+          Λ
+            0
+            0
+          k
+              o
+              b
+              s
+            0
+        +
+          Λ
+            1
+            0
+          k
+              o
+              b
+              s
+            1
+        +
+          Λ
+            2
+            0
+          k
+              o
+              b
+              s
+            2
+        +
+          Λ
+            3
+            0
+          k
+              o
+              b
+              s
+            3
+    {\displaystyle k_{s}^{0}=\Lambda _{0}^{0}k_{\mathrm {obs} }^{0}+\Lambda _{1}^{0}k_{\mathrm {obs} }^{1}+\Lambda _{2}^{0}k_{\mathrm {obs} }^{2}+\Lambda _{3}^{0}k_{\mathrm {obs} }^{3}\,}
+So
+As an example, to apply this to a situation where the source is moving directly away from the observer (
+        θ
+        =
+        π
+    {\displaystyle \theta =\pi }
+  ), this becomes:
+              ω
+                  o
+                  b
+                  s
+              ω
+                s
+        =
+            1
+              γ
+              (
+              1
+              +
+              β
+              )
+        =
+              1
+              −
+                β
+                  2
+              1
+              +
+              β
+        =
+              (
+              1
+              +
+              β
+              )
+              (
+              1
+              −
+              β
+              )
+              1
+              +
+              β
+        =
+              1
+              −
+              β
+              1
+              +
+              β
+    {\displaystyle {\frac {\omega _{\mathrm {obs} }}{\omega _{s}}}={\frac {1}{\gamma (1+\beta )}}={\frac {\sqrt {1-\beta ^{2}}}{1+\beta }}={\frac {\sqrt {(1+\beta )(1-\beta )}}{1+\beta }}={\frac {\sqrt {1-\beta }}{\sqrt {1+\beta }}}\,}
+To apply this to a situation where the source is moving straight towards the observer (
+        θ
+        =
+        0
+    {\displaystyle \theta =0}
+  ), this becomes:
+              ω
+                  o
+                  b
+                  s
+              ω
+                s
+        =
+            1
+              γ
+              (
+              1
+              −
+              β
+              )
+        =
+              1
+              −
+                β
+                  2
+              1
+              −
+              β
+        =
+              (
+              1
+              +
+              β
+              )
+              (
+              1
+              −
+              β
+              )
+              1
+              −
+              β
+        =
+              1
+              +
+              β
+              1
+              −
+              β
+    {\displaystyle {\frac {\omega _{\mathrm {obs} }}{\omega _{s}}}={\frac {1}{\gamma (1-\beta )}}={\frac {\sqrt {1-\beta ^{2}}}{1-\beta }}={\frac {\sqrt {(1+\beta )(1-\beta )}}{1-\beta }}={\frac {\sqrt {1+\beta }}{\sqrt {1-\beta }}}\,}
+To apply this to a situation where the source is moving transversely with respect to the observer (
+        θ
+        =
+        π
+          /
+        2
+    {\displaystyle \theta =\pi /2}
+  ), this becomes:
+              ω
+                  o
+                  b
+                  s
+              ω
+                s
+        =
+            1
+              γ
+              (
+              1
+              −
+              0
+              )
+        =
+            1
+            γ
+    {\displaystyle {\frac {\omega _{\mathrm {obs} }}{\omega _{s}}}={\frac {1}{\gamma (1-0)}}={\frac {1}{\gamma }}\,}
+Plane wave expansion
+Plane of incidence

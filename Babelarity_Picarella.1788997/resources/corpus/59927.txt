@@ -1,0 +1,216 @@
+In electromagnetism, the magnetic susceptibility (Latin: susceptibilis, “receptive”; denoted χ) is one measure of the magnetic properties of a material. The susceptibility indicates whether a material is attracted into or repelled out of a magnetic field, which in turn has implications for practical applications. Quantitative measures of the magnetic susceptibility also provide insights into the structure of materials, providing insight into bonding and energy levels.
+See also Relative permeability.
+Magnetic susceptibility is a dimensionless proportionality constant that indicates the degree of magnetization of a material in response to an applied magnetic field. A related term is magnetizability, the proportion between magnetic moment and magnetic flux density. A closely related parameter is the permeability, which expresses the total magnetization of material and volume.
+The volume magnetic susceptibility, represented by the symbol 
+          χ
+            v
+    {\displaystyle \chi _{v}}
+   (often simply 
+        χ
+    {\displaystyle \chi }
+  , sometimes 
+          χ
+            m
+    {\displaystyle \chi _{m}}
+   – magnetic, to distinguish from the electric susceptibility), is defined in the International System of Units — in other systems there may be additional constants — by the following relationship:
+          M
+        =
+          χ
+            v
+          H
+        .
+    {\displaystyle \mathbf {M} =\chi _{v}\mathbf {H} .}
+Here
+M is the magnetization of the material (the magnetic dipole moment per unit volume), measured in amperes per meter, and
+H is the magnetic field strength, also measured in amperes per meter.
+          χ
+            v
+    {\displaystyle \chi _{v}}
+   is therefore a dimensionless quantity.
+Using SI units, the magnetic induction B is related to H by the relationship
+          B
+        =
+          μ
+            0
+        (
+          H
+        +
+          M
+        )
+        =
+          μ
+            0
+        (
+        1
+        +
+          χ
+            v
+        )
+          H
+        =
+        μ
+          H
+    {\displaystyle \mathbf {B} \ =\ \mu _{0}(\mathbf {H} +\mathbf {M} )\ =\ \mu _{0}(1+\chi _{v})\mathbf {H} \ =\ \mu \mathbf {H} }
+where μ0 is the magnetic constant (see table of physical constants), and 
+        (
+        1
+        +
+          χ
+            v
+        )
+    {\displaystyle (1+\chi _{v})}
+   is the relative permeability of the material. Thus the volume magnetic susceptibility 
+          χ
+            v
+    {\displaystyle \chi _{v}}
+   and the magnetic permeability 
+        μ
+    {\displaystyle \mu }
+   are related by the following formula:
+        μ
+        =
+          μ
+            0
+        (
+        1
+        +
+          χ
+            v
+        )
+    {\displaystyle \mu =\mu _{0}(1+\chi _{v})\,}
+   .
+Sometimes an auxiliary quantity called intensity of magnetization (also referred to as magnetic polarisation J) and measured in teslas, is defined as
+          I
+        =
+          μ
+            0
+          M
+    {\displaystyle \mathbf {I} =\mu _{0}\mathbf {M} \,}
+   .
+This allows an alternative description of all magnetization phenomena in terms of the quantities I and B, as opposed to the commonly used M and H.
+Note that these definitions are according to SI conventions. However, many tables of magnetic susceptibility give CGS values (more specifically emu-cgs, short for electromagnetic units, or Gaussian-cgs; both are the same in this context). These units rely on a different definition of the permeability of free space:
+            B
+            cgs
+        =
+            H
+            cgs
+        +
+        4
+        π
+            M
+            cgs
+        =
+        (
+        1
+        +
+        4
+        π
+          χ
+            v
+            cgs
+        )
+            H
+            cgs
+    {\displaystyle \mathbf {B} ^{\text{cgs}}\ =\ \mathbf {H} ^{\text{cgs}}+4\pi \mathbf {M} ^{\text{cgs}}\ =\ (1+4\pi \chi _{v}^{\text{cgs}})\mathbf {H} ^{\text{cgs}}}
+The dimensionless CGS value of volume susceptibility is multiplied by 4π to give the dimensionless SI volume susceptibility value:
+          χ
+            v
+            SI
+        =
+        4
+        π
+          χ
+            v
+            cgs
+    {\displaystyle \chi _{v}^{\text{SI}}=4\pi \chi _{v}^{\text{cgs}}}
+For example, the CGS volume magnetic susceptibility of water at 20 °C is −7.19×10−7 which is −9.04×10−6 using the SI convention.
+There are two other measures of susceptibility, the mass magnetic susceptibility (χmass or χg, sometimes χm), measured in m3·kg−1 in SI or in cm3·g−1 in CGS and the molar magnetic susceptibility (χmol) measured in m3·mol−1 (SI) or cm3·mol−1 (CGS) that are defined below, where ρ is the density in kg·m−3 (SI) or g·cm−3 (CGS) and M is molar mass in kg·mol−1 (SI) or g·mol−1 (CGS).
+          χ
+            mass
+        =
+          χ
+            v
+          /
+        ρ
+    {\displaystyle \chi _{\text{mass}}=\chi _{v}/\rho }
+          χ
+            mol
+        =
+        M
+          χ
+            mass
+        =
+        M
+          χ
+            v
+          /
+        ρ
+    {\displaystyle \chi _{\text{mol}}=M\chi _{\text{mass}}=M\chi _{v}/\rho }
+In physics it is common (in older literature) to see CGS mass susceptibility given in emu/g, so to convert to SI volume susceptibility we use the conversion 
+          χ
+            v
+            SI
+        =
+        (
+        4
+        π
+        ×
+          10
+            −
+            3
+        )
+        ρ
+          χ
+            m
+            cgs
+    {\displaystyle \chi _{v}^{\text{SI}}=(4\pi \times 10^{-3})\,\rho \,\chi _{m}^{\text{cgs}}}
+If χ is positive, a material can be paramagnetic. In this case, the magnetic field in the material is strengthened by the induced magnetization. Alternatively, if χ is negative, the material is diamagnetic. In this case, the magnetic field in the material is weakened by the induced magnetization. Generally, non-magnetic materials are said to be para- or diamagnetic because they do not possess permanent magnetization without external magnetic field. Ferromagnetic, ferrimagnetic, or antiferromagnetic materials have positive susceptibility and possess permanent magnetization even without external magnetic field.
+Volume magnetic susceptibility is measured by the force change felt upon a substance when a magnetic field gradient is applied. Early measurements are made using the Gouy balance where a sample is hung between the poles of an electromagnet. The change in weight when the electromagnet is turned on is proportional to the susceptibility. Today, high-end measurement systems use a superconductive magnet. An alternative is to measure the force change on a strong compact magnet upon insertion of the sample. This system, widely used today, is called the Evans balance. For liquid samples, the susceptibility can be measured from the dependence of the NMR frequency of the sample on its shape or orientation.
+The magnetic susceptibility of most crystals is not a scalar quantity. Magnetic response M is dependent upon the orientation of the sample and can occur in directions other than that of the applied field H. In these cases, volume susceptibility is defined as a tensor
+          M
+            i
+        =
+          χ
+            i
+            j
+          H
+            j
+    {\displaystyle M_{i}=\chi _{ij}H_{j}}
+where i and j refer to the directions (e.g., x and y in Cartesian coordinates) of the applied field and magnetization, respectively. The tensor is thus rank 2 (second order), dimension (3,3) describing the component of magnetization in the i-th direction from the external field applied in the j-th direction.
+In ferromagnetic crystals, the relationship between M and H is not linear. To accommodate this, a more general definition of differential susceptibility is used
+          χ
+            i
+            j
+            d
+        =
+              ∂
+                M
+                  i
+              ∂
+                H
+                  j
+    {\displaystyle \chi _{ij}^{d}={\frac {\partial M_{i}}{\partial H_{j}}}}
+where 
+          χ
+            i
+            j
+            d
+    {\displaystyle \chi _{ij}^{d}}
+   is a tensor derived from partial derivatives of components of M with respect to components of H. When the coercivity of the material parallel to an applied field is the smaller of the two, the differential susceptibility is a function of the applied field and self interactions, such as the magnetic anisotropy. When the material is not saturated, the effect will be nonlinear and dependent upon the domain wall configuration of the material.
+When the magnetic susceptibility is measured in response to an AC magnetic field (i.e. a magnetic field that varies sinusoidally), this is called AC susceptibility. AC susceptibility (and the closely related "AC permeability") are complex number quantities, and various phenomena (such as resonances) can be seen in AC susceptibility that cannot in constant-field (DC) susceptibility. In particular, when an AC field is applied perpendicular to the detection direction (called the "transverse susceptibility" regardless of the frequency), the effect has a peak at the ferromagnetic resonance frequency of the material with a given static applied field. Currently, this effect is called the microwave permeability or network ferromagnetic resonance in the literature. These results are sensitive to the domain wall configuration of the material and eddy currents.
+In terms of ferromagnetic resonance, the effect of an ac-field applied along the direction of the magnetization is called parallel pumping.
+For a tutorial with more information on AC susceptibility measurements, see here (external link).
+There are tables of magnetic susceptibility values published on-line that seem to have been uploaded from a substandard source, which itself has probably borrowed heavily from the CRC Handbook of Chemistry and Physics. Some of the data (e.g. for Al, Bi, and diamond) are apparently in CGS Molar Susceptibility units, whereas that for water is in Mass Susceptibility units (see discussion above). The susceptibility table in the CRC Handbook is known to suffer from similar errors, and even to contain sign errors. Effort should be made to trace the data in such tables to the original sources, and to double-check the proper usage of units.
+Curie constant
+Electric susceptibility
+Iron
+Magnetic constant
+Magnetic flux density
+Magnetism
+Magnetochemistry
+Magnetometer
+Maxwell's equations
+Paleomagnetism
+Permeability (electromagnetism)
+Quantitative susceptibility mapping
+Susceptibility weighted imaging

@@ -1,0 +1,14 @@
+In astronomy, a plutino is a trans-Neptunian object in 2:3 mean-motion resonance with Neptune. For every 2 orbits that a plutino makes, Neptune orbits 3 times. The term "plutino" derived from the dwarf planet Pluto, the largest and the first plutino discovered. The term does not imply common physical characteristics. Plutinos are named after mythological creatures associated with the underworld.
+Plutinos form the inner part of the Kuiper belt and represent about a quarter of the known Kuiper belt objects (KBOs). Plutinos are the largest class of the resonant trans-Neptunian objects (i.e. bodies in orbital resonances with Neptune).
+Aside from Pluto itself, the first plutino, (385185) 1993 RO, was discovered on September 16, 1993.
+It is thought that objects that are currently in mean orbital resonances with Neptune initially followed independent heliocentric paths. As Neptune migrated outward early in the Solar System's history (see origins of the Kuiper belt), the bodies it approached would have been scattered; during this process, some of them would have been captured into resonances. The 3:2 resonance is the strongest and most stable among all resonances. This is the main reason it contains the largest number of bodies.
+While the majority of plutinos have low orbital inclinations, a substantial number of them follow orbits similar to that of Pluto, with inclinations in the 10–25° range and eccentricities around 0.2–0.25, resulting in perihelia inside (or close to) the orbit of Neptune and aphelia close to the main Kuiper belt's outer edge (where objects have 1:2 resonance with Neptune).
+The orbital periods of plutinos cluster around 247.3 years (1.5 × Neptune's orbital period), varying by at most a few years from this value.
+Unusual plutinos include:
+2005 TV189, which follows the most highly inclined orbit (34.5°)
+(15875) 1996 TP66, which has the most elliptical orbit (its eccentricity is 0.33), with the perihelion halfway between Uranus and Neptune
+2007 JH43 following a quasi-circular orbit
+2002 VX130 lying almost perfectly on the ecliptic (inclination less than 1.5°)
+See also the comparison with the distribution of the cubewanos.
+The gravitational influence of Pluto is usually neglected given its small mass. However, the resonance width (the range of semi-axes compatible with the resonance) is very narrow and only a few times larger than Pluto’s Hill sphere (gravitational influence). Consequently, depending on the original eccentricity, some plutinos will be driven out of the resonance by interactions with Pluto. Numerical simulations suggest that the orbits of plutinos with an eccentricity 10%–30% smaller or larger than that of Pluto are not stable over Ga timescales.
+The plutinos brighter than HV=6 include:

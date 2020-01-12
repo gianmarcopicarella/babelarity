@@ -1,0 +1,20 @@
+Archaeolemur is an extinct genus of lemurs that includes two species, Archaeolemur edwardsi and A. majori.
+The genus was widespread throughout Madagascar through much of the Holocene epoch, and its remains are often abundant at fossil sites across the island. Jungers estimated their body weight to be between 15 and 35 kg. The wide geographical and temporal range of the genus may be attributed its generalist nature. Archaeolemur was a semiterrestrial quadruped that spent much of its time on the ground, although it was also well suited to arboreal locomotion. Despite its tendency for a mostly terrestrial lifestyle, it was not as well suited for cursorial locomotion as macaques or baboons, the extant primates the genus is often compared to. When compared to highly terrestrial baboons, Archaeolemur had shorter, more robust limbs, smaller digits, and a wider trunk. Its diet is thought to have encompassed a wide range of foods including seeds and savanna plants. The incisors of Archaeolemur were enlarged and adapted to remove hard shells and rinds from seeds and fruit. The eurytopic adaptation of Archaeolemur may explain why it was one of the last of the subfossil lemurs to have gone extinct. It disappeared from Madagascar around 1047–1280 CE.
+Order Primates
+Suborder Strepsirrhini: lemurs, galagos, and lorisids
+Infraorder Lemuriformes
+Superfamily Lemuroidea
+Family †Archaeolemuridae
+Genus †Archaeolemur
+Species †Archaeolemur edwardsi
+Species †Archaeolemur majori
+Genus †Hadropithecus
+Family Cheirogaleidae: dwarf and mouse lemurs
+Family Daubentoniidae: aye-aye
+Family Indriidae: woolly lemurs and allies
+Family Lemuridae: lemurs
+Family Lepilemuridae: sportive lemurs
+Family †Megaladapidae
+Family †Palaeopropithecidae
+Superfamily Lorisoidea: lorises, pottos, galagos and allies
+Suborder Haplorrhini: tarsiers, monkeys and apes

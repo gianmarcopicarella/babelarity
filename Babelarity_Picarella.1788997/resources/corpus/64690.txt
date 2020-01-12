@@ -1,0 +1,39 @@
+The Gutmann method is an algorithm for securely erasing the contents of computer hard disk drives, such as files. Devised by Peter Gutmann and Colin Plumb and presented in the paper Secure Deletion of Data from Magnetic and Solid-State Memory in July 1996, it involved writing a series of 35 patterns over the region to be erased.
+The selection of patterns assumes that the user does not know the encoding mechanism used by the drive, so it includes patterns designed specifically for three types of drives. A user who knows which type of encoding the drive uses can choose only those patterns intended for their drive. A drive with a different encoding mechanism would need different patterns.
+Most of the patterns in the Gutmann method were designed for older MFM/RLL encoded disks. Gutmann himself has noted that more modern drives no longer use these older encoding techniques, making parts of the method irrelevant. He said "In the time since this paper was published, some people have treated the 35-pass overwrite technique described in it more as a kind of voodoo incantation to banish evil spirits than the result of a technical analysis of drive encoding techniques".
+Since about 2001, some ATA IDE and SATA hard drive manufacturer designs include support for the ATA Secure Erase standard, obviating the need to apply the Gutmann method when erasing an entire drive. However, a 2011 research found that 4 out of 8 manufacturers did not implement ATA Secure Erase correctly.
+One standard way to recover data that have been overwritten on a hard drive is to capture and process the analog signal obtained from the drive's read/write head prior to this analog signal being digitized. This analog signal will be close to an ideal digital signal, but the differences will reveal important information. By calculating the ideal digital signal and then subtracting it from the actual analog signal, it is possible to amplify the signal remaining after subtraction and use it to determine what had previously been written on the disk.
+For example:
+Analog signal:        +11.1  -8.9  +9.1 -11.1 +10.9  -9.1
+Ideal digital signal: +10.0 -10.0 +10.0 -10.0 +10.0 -10.0
+Difference:            +1.1  +1.1  -0.9  -1.1  +0.9  +0.9
+Previous signal:      +11    +11   -9   -11    +9    +9
+This can then be done again to see the previous data written:
+Recovered signal:     +11    +11   -9   -11    +9    +9
+Ideal digital signal: +10.0 +10.0 -10.0 -10.0 +10.0 +10.0
+Difference:            +1    +1    +1    -1    -1    -1
+Previous signal:      +10   +10   -10   -10   +10   +10
+However, even when overwriting the disk repeatedly with random data it is theoretically possible to recover the previous signal. The permittivity of a medium changes with the frequency of the magnetic field. This means that a lower frequency field will penetrate deeper into the magnetic material on the drive than a high frequency one. So a low frequency signal will, in theory, still be detectable even after it has been overwritten hundreds of times by a high frequency signal.
+The patterns used are designed to apply alternating magnetic fields of various frequencies and various phases to the drive surface and thereby approximate degaussing the material below the surface of the drive.
+An overwrite session consists of a lead-in of four random write patterns, followed by patterns 5 to 31 (see rows of table below), executed in a random order, and a lead-out of four more random patterns.
+Each of patterns 5 to 31 was designed with a specific magnetic media encoding scheme in mind, which each pattern targets. The drive is written to for all the passes even though the table below only shows the bit patterns for the passes that are specifically targeted at each encoding scheme. The end result should obscure any data on the drive so that only the most advanced physical scanning (e.g., using a magnetic force microscope) of the drive is likely to be able to recover any data.
+The series of patterns is as follows:
+Encoded bits shown in bold are what should be present in the ideal pattern, although due to the encoding the complementary bit is actually present at the start of the track.
+The delete function in most operating systems simply marks the space occupied by the file as reusable (removes the pointer to the file) without immediately removing any of its contents. At this point the file can be fairly easily recovered by numerous recovery applications. However, once the space is overwritten with other data, there is no known way to use software to recover it. It cannot be done with software alone since the storage device only returns its current contents via its normal interface. Gutmann claims that intelligence agencies have sophisticated tools, including magnetic force microscopes, which together with image analysis, can detect the previous values of bits on the affected area of the media (for example hard disk).
+Daniel Feenberg of the National Bureau of Economic Research, an American private nonprofit research organization, criticized Gutmann's claim that intelligence agencies are likely to be able to read overwritten data, citing a lack of evidence for such claims. Nevertheless, some published government security procedures consider a disk overwritten once to still be sensitive.
+Gutmann himself has responded to some of these criticisms and also criticized how his algorithm has been abused in an epilogue to his original paper, in which he states:
+In the time since this paper was published, some people have treated the 35-pass overwrite technique described in it more as a kind of voodoo incantation to banish evil spirits than the result of a technical analysis of drive encoding techniques. As a result, they advocate applying the voodoo to PRML and EPRML drives even though it will have no more effect than a simple scrubbing with random data. In fact performing the full 35-pass overwrite is pointless for any drive since it targets a blend of scenarios involving all types of (normally-used) encoding technology, which covers everything back to 30+-year-old MFM methods (if you don't understand that statement, re-read the paper). If you're using a drive which uses encoding technology X, you only need to perform the passes specific to X, and you never need to perform all 35 passes. For any modern PRML/EPRML drive, a few passes of random scrubbing is the best you can do. As the paper says, "A good scrubbing with random data will do about as well as can be expected". This was true in 1996, and is still true now.
+CCleaner and Recuva, utilities developed by Piriform
+Darik's Boot and Nuke (DBAN) (whole disk only)
+Disk Utility a program provided with Mac OS X (whole disk or free space only)
+FreeOTFE and FreeOTFE Explorer (disk encryption system)
+Lavasoft Privacy Toolbox
+PeaZip Secure delete function (files/directories only)
+shred program of the GNU Core Utilities
+srm, also used by Mac OS X
+TrueCrypt (disk encryption system) (free space only)
+Shredit secure erase utility.
+LimagitoX File Mover Automation Tool.
+Data remanence
+Data recovery
+Computer forensics

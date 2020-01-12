@@ -1,0 +1,17 @@
+Oxalyl chloride is a chemical compound with the formula (COCl)2. This colourless, sharp-smelling liquid, the diacid chloride of oxalic acid, is a useful reagent in organic synthesis. It can be prepared by treating oxalic acid with phosphorus pentachloride.
+Oxalyl chloride reacts with water giving off gaseous products only: hydrogen chloride (HCl), carbon dioxide (CO
+2), and carbon monoxide (CO).
+(COCl)2 + H
+2O → 2 HCl + CO
+2 + CO
+In this, it is quite different from other acyl chlorides which hydrolyze with formation of hydrogen chloride and the original carboxylic acid.
+The solution comprising DMSO and oxalyl chloride, followed by quenching with triethylamine converts alcohols to the corresponding aldehydes and ketones via the process known as the Swern oxidation.
+Oxalyl chloride is mainly used together with a N,N-dimethylformamide catalyst in organic synthesis for the preparation of acyl chlorides from the corresponding carboxylic acids. Like thionyl chloride, the reagent degrades in volatile side products in this application, which simplifies workup. One of the minor by-products from this reaction is a potent carcinogen. Relative to thionyl chloride, oxalyl chloride tends to be a milder, more selective reagent. It is also more expensive than thionyl chloride so it tends to be used on a smaller scale.
+This reaction involves conversion of DMF to the imidoyl chloride derivative (Me2N=CHCl+), akin to the first stage in the Vilsmeier–Haack reaction. The imidoyl chloride is the active chlorinating agent.
+Oxalyl chloride reacts with aromatic compounds in the presence of aluminium chloride to give the corresponding acyl chloride in a process known as a Friedel-Crafts acylation. The resulting acyl chloride can be hydrolysed in water to form the corresponding carboxylic acid.
+Like other acyl chlorides, oxalyl chloride reacts with alcohols to give esters:
+2 RCH2OH + (COCl)2 → RCH2OC(O)C(O)OCH2R + 2 HCl
+Typically, such reactions are conducted in the presence of a base such as pyridine. The diester derived from phenol, phenyl oxalate ester, is Cyalume, the active ingredient in glow sticks.
+Oxalyl chloride was reportedly used in the first synthesis of dioxane tetraketone (C4O6), an oxide of carbon.
+In March 2000, a Malaysia Airlines Airbus A330 was damaged beyond repair after a falsely declared cargo of oxalyl chloride leaked into the cargo bay.
+Oxalyl

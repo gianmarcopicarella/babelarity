@@ -1,0 +1,416 @@
+A yield strength or yield point is the material property defined as the stress at which a material begins to deform plastically. Prior to the yield point the material will deform elastically and will return to its original shape when the applied stress is removed. Once the yield point is passed, some fraction of the deformation will be permanent and non-reversible. In the three-dimensional space of the principal stresses (
+          σ
+            1
+        ,
+          σ
+            2
+        ,
+          σ
+            3
+    {\displaystyle \sigma _{1},\sigma _{2},\sigma _{3}}
+  ), an infinite number of yield points form together a yield surface.
+The yield point determines the limits of performance for mechanical components, since it represents the upper limit to forces that can be applied without permanent deformation. In structural engineering, this is a soft failure mode which does not normally cause catastrophic failure or ultimate failure unless it accelerates buckling.
+Yield strength is the critical material property exploited by many fundamental techniques of material-working: to reshape material with pressure (such as forging, rolling, pressing, or hydroforming), to separate material by cutting (such as machining) or shearing, and to join components rigidly with fasteners.
+It is often difficult to precisely define yielding due to the wide variety of stress–strain curves exhibited by real materials. In addition, there are several possible ways to define yielding:
+True elastic limit
+The lowest stress at which dislocations move. This definition is rarely used, since dislocations move at very low stresses, and detecting such movement is very difficult.
+Proportionality limit
+Up to this amount of stress, stress is proportional to strain (Hooke's law), so the stress-strain graph is a straight line, and the gradient will be equal to the elastic modulus of the material.
+Elastic limit (yield strength)
+Beyond the elastic limit, permanent deformation will occur. The elastic limit is therefore the lowest stress at which permanent deformation can be measured. This requires a manual load-unload procedure, and the accuracy is critically dependent on the equipment used and operator skill. For elastomers, such as rubber, the elastic limit is much larger than the proportionality limit. Also, precise strain measurements have shown that plastic strain begins at low stresses.
+Yield point
+The point in the stress-strain curve at which the curve levels off and plastic deformation begins to occur.
+Offset yield point (proof stress)
+When a yield point is not easily defined based on the shape of the stress-strain curve an offset yield point is arbitrarily defined. The value for this is commonly set at 0.1 or 0.2% plastic strain. The offset value is given as a subscript, e.g., Rp0.2=310 MPa. High strength steel and aluminum alloys do not exhibit a yield point, so this offset yield point is used on these materials.
+Upper and lower yield points
+Some metals, such as mild steel, reach an upper yield point before dropping rapidly to a lower yield point. The material response is linear up until the upper yield point, but the lower yield point is used in structural engineering as a conservative value. If a metal is only stressed to the upper yield point, and beyond, Lüders bands can develop.
+A yield criterion, often expressed as yield surface, or yield locus, is a hypothesis concerning the limit of elasticity under any combination of stresses. There are two interpretations of yield criterion: one is purely mathematical in taking a statistical approach while other models attempt to provide a justification based on established physical principles. Since stress and strain are tensor qualities they can be described on the basis of three principal directions, in the case of stress these are denoted by 
+          σ
+            1
+    {\displaystyle \sigma _{1}\,\!}
+  , 
+          σ
+            2
+    {\displaystyle \sigma _{2}\,\!}
+  , and 
+          σ
+            3
+    {\displaystyle \sigma _{3}\,\!}
+  .
+The following represent the most common yield criterion as applied to an isotropic material (uniform properties in all directions). Other equations have been proposed or are used in specialist situations.
+Maximum Principal Stress Theory – by W.J.M Rankine(1850). Yield occurs when the largest principal stress exceeds the uniaxial tensile yield strength. Although this criterion allows for a quick and easy comparison with experimental data it is rarely suitable for design purposes. This theory gives good predictions for brittle materials.
+          σ
+            1
+        ≤
+          σ
+            y
+    {\displaystyle \ \sigma _{1}\leq \sigma _{y}\,\!}
+Maximum Principal Strain Theory – by St.Venant. Yield occurs when the maximum principal strain reaches the strain corresponding to the yield point during a simple tensile test. In terms of the principal stresses this is determined by the equation:
+          σ
+            1
+        −
+        ν
+        (
+          σ
+            2
+        +
+          σ
+            3
+        )
+        ≤
+          σ
+            y
+        .
+    {\displaystyle \ \sigma _{1}-\nu (\sigma _{2}+\sigma _{3})\leq \sigma _{y}.\,\!}
+Maximum Shear Stress Theory – Also known as the Tresca yield criterion, after the French scientist Henri Tresca. This assumes that yield occurs when the shear stress 
+        τ
+    {\displaystyle \tau \!}
+   exceeds the shear yield strength 
+          τ
+            y
+    {\displaystyle \tau _{y}\!}
+  :
+        τ
+        =
+                σ
+                  1
+              −
+                σ
+                  3
+            2
+        ≤
+          τ
+            y
+        .
+    {\displaystyle \ \tau ={\frac {\sigma _{1}-\sigma _{3}}{2}}\leq \tau _{y}.\,\!}
+Total Strain Energy Theory – This theory assumes that the stored energy associated with elastic deformation at the point of yield is independent of the specific stress tensor. Thus yield occurs when the strain energy per unit volume is greater than the strain energy at the elastic limit in simple tension. For a 3-dimensional stress state this is given by:
+          σ
+            1
+            2
+        +
+          σ
+            2
+            2
+        +
+          σ
+            3
+            2
+        −
+        2
+        ν
+        (
+          σ
+            1
+          σ
+            2
+        +
+          σ
+            2
+          σ
+            3
+        +
+          σ
+            1
+          σ
+            3
+        )
+        ≤
+          σ
+            y
+            2
+        .
+    {\displaystyle \ \sigma _{1}^{2}+\sigma _{2}^{2}+\sigma _{3}^{2}-2\nu (\sigma _{1}\sigma _{2}+\sigma _{2}\sigma _{3}+\sigma _{1}\sigma _{3})\leq \sigma _{y}^{2}.\,\!}
+Distortion Energy Theory – This theory proposes that the total strain energy can be separated into two components: the volumetric (hydrostatic) strain energy and the shape (distortion or shear) strain energy. It is proposed that yield occurs when the distortion component exceeds that at the yield point for a simple tensile test. This theory is also known as the von Mises yield criterion.
+Based on a different theoretical underpinning this expression is also referred to as octahedral shear stress theory.
+Other commonly used isotropic yield criteria are the
+Mohr-Coulomb yield criterion
+Drucker-Prager yield criterion
+Bresler-Pister yield criterion
+Willam-Warnke yield criterion
+The yield surfaces corresponding to these criteria have a range of forms. However, most isotropic yield criteria correspond to convex yield surfaces.
+When a metal is subjected to large plastic deformations the grain sizes and orientations change in the direction of deformation. As a result, the plastic yield behavior of the material shows directional dependency. Under such circumstances, the isotropic yield criteria such as the von Mises yield criterion are unable to predict the yield behavior accurately. Several anisotropic yield criteria have been developed to deal with such situations. Some of the more popular anisotropic yield criteria are:
+Hill's quadratic yield criterion
+Generalized Hill yield criterion
+Hosford yield criterion
+The stress at which yield occurs is dependent on both the rate of deformation (strain rate) and, more significantly, the temperature at which the deformation occurs. In general, the yield strength increases with strain rate and decreases with temperature. When the latter is not the case, the material is said to exhibit yield strength anomaly, which is typical for superalloys and leads to their use in applications requiring high strength at high temperatures.
+Early work by Alder and Philips in 1954 found that the relationship between yield strength and strain rate (at constant temperature) was best described by a power law relationship of the form
+          σ
+            y
+        =
+        C
+        (
+              ϵ
+              ˙
+          )
+            m
+    {\displaystyle \sigma _{y}=C({\dot {\epsilon }})^{m}\,\!}
+where C is a constant and m is the strain rate sensitivity. The latter generally increases with temperature, and materials where m reaches a value greater than ~0.5 tend to exhibit super plastic behavior. m can be found from a log-log plot of yield strength at a fixed plastic strain versus the strain rate.
+        m
+        =
+              ∂
+              ln
+              ⁡
+              σ
+              (
+              ϵ
+              )
+              ∂
+              ln
+              ⁡
+              (
+                    ϵ
+                    ˙
+              )
+    {\displaystyle m={\frac {\partial \ln \sigma (\epsilon )}{\partial \ln({\dot {\epsilon }})}}}
+Later, more complex equations were proposed that simultaneously dealt with both temperature and strain rate:
+          σ
+            y
+        =
+            1
+            α
+          sinh
+            −
+            1
+        ⁡
+            [
+                Z
+                A
+            ]
+            (
+            1
+              /
+            n
+            )
+    {\displaystyle \sigma _{y}={\frac {1}{\alpha }}\sinh ^{-1}\left[{\frac {Z}{A}}\right]^{(1/n)}\,\!}
+where α and A are constants and Z is the temperature-compensated strain-rate – often described by the Zener-Hollomon parameter:
+        Z
+        =
+        (
+              ϵ
+              ˙
+        )
+        exp
+        ⁡
+          (
+                Q
+                  H
+                  W
+                R
+                T
+          )
+    {\displaystyle Z=({\dot {\epsilon }})\exp \left({\frac {Q_{HW}}{RT}}\right)\,\!}
+where QHW is the activation energy for hot deformation and T is the absolute temperature.
+There are several ways in which crystalline and amorphous materials can be engineered to increase their yield strength. By altering dislocation density, impurity levels, grain size (in crystalline materials), the yield strength of the material can be fine tuned. This occurs typically by introducing defects such as impurities dislocations in the material. To move this defect (plastically deforming or yielding the material), a larger stress must be applied. This thus causes a higher yield stress in the material. While many material properties depend only on the composition of the bulk material, yield strength is extremely sensitive to the materials processing as well for this reason.
+These mechanisms for crystalline materials include
+Work hardening
+Solid solution strengthening
+Precipitation strengthening
+Grain boundary strengthening
+Where deforming the material will introduce dislocations, which increases their density in the material. This increases the yield strength of the material, since now more stress must be applied to move these dislocations through a crystal lattice. Dislocations can also interact with each other, becoming entangled.
+The governing formula for this mechanism is:
+        Δ
+          σ
+            y
+        =
+        G
+        b
+            ρ
+    {\displaystyle \Delta \sigma _{y}=Gb{\sqrt {\rho }}}
+where 
+          σ
+            y
+    {\displaystyle \sigma _{y}}
+   is the yield stress, G is the shear elastic modulus, b is the magnitude of the Burgers vector, and 
+        ρ
+    {\displaystyle \rho }
+   is the dislocation density.
+By alloying the material, impurity atoms in low concentrations will occupy a lattice position directly below a dislocation, such as directly below an extra half plane defect. This relieves a tensile strain directly below the dislocation by filling that empty lattice space with the impurity atom.
+The relationship of this mechanism goes as:
+        Δ
+        τ
+        =
+        G
+        b
+              C
+                s
+          ϵ
+            3
+              /
+            2
+    {\displaystyle \Delta \tau =Gb{\sqrt {C_{s}}}\epsilon ^{3/2}}
+where 
+        τ
+    {\displaystyle \tau }
+   is the shear stress, related to the yield stress, 
+        G
+    {\displaystyle G}
+   and 
+        b
+    {\displaystyle b}
+   are the same as in the above example, 
+          C
+            s
+    {\displaystyle C_{s}}
+   is the concentration of solute and 
+        ϵ
+    {\displaystyle \epsilon }
+   is the strain induced in the lattice due to adding the impurity.
+Where the presence of a secondary phase will increase yield strength by blocking the motion of dislocations within the crystal. A line defect that, while moving through the matrix, will be forced against a small particle or precipitate of the material. Dislocations can move through this particle either by shearing the particle, or by a process known as bowing or ringing, in which a new ring of dislocations is created around the particle.
+The shearing formula goes as:
+        Δ
+        τ
+        =
+                    r
+                        p
+                        a
+                        r
+                        t
+                        i
+                        c
+                        l
+                        e
+                    l
+                        i
+                        n
+                        t
+                        e
+                        r
+                        p
+                        a
+                        r
+                        t
+                        i
+                        c
+                        l
+                        e
+          γ
+              p
+              a
+              r
+              t
+              i
+              c
+              l
+              e
+              −
+              m
+              a
+              t
+              r
+              i
+              x
+    {\displaystyle \Delta \tau ={\cfrac {r_{\rm {particle}}}{l_{\rm {interparticle}}}}\gamma _{\rm {particle-matrix}}}
+and the bowing/ringing formula:
+        Δ
+        τ
+        =
+                  G
+                  b
+                    l
+                        i
+                        n
+                        t
+                        e
+                        r
+                        p
+                        a
+                        r
+                        t
+                        i
+                        c
+                        l
+                        e
+                  −
+                  2
+                    r
+                        p
+                        a
+                        r
+                        t
+                        i
+                        c
+                        l
+                        e
+    {\displaystyle \Delta \tau ={\cfrac {Gb}{l_{\rm {interparticle}}-2r_{\rm {particle}}}}}
+In these formulas, 
+          r
+              p
+              a
+              r
+              t
+              i
+              c
+              l
+              e
+    {\displaystyle r_{\rm {particle}}\,}
+   is the particle radius, 
+          γ
+              p
+              a
+              r
+              t
+              i
+              c
+              l
+              e
+              −
+              m
+              a
+              t
+              r
+              i
+              x
+    {\displaystyle \gamma _{\rm {particle-matrix}}\,}
+   is the surface tension between the matrix and the particle, 
+          l
+              i
+              n
+              t
+              e
+              r
+              p
+              a
+              r
+              t
+              i
+              c
+              l
+              e
+    {\displaystyle l_{\rm {interparticle}}\,}
+   is the distance between the particles.
+Where a buildup of dislocations at a grain boundary causes a repulsive force between dislocations. As grain size decreases, the surface area to volume ratio of the grain increases, allowing more buildup of dislocations at the grain edge. Since it requires a lot of energy to move dislocations to another grain, these dislocations build up along the boundary, and increase the yield stress of the material. Also known as Hall-Petch strengthening, this type of strengthening is governed by the formula:
+          σ
+            y
+        =
+          σ
+            0
+        +
+        k
+          d
+            −
+            1
+              /
+            2
+    {\displaystyle \sigma _{y}=\sigma _{0}+kd^{-1/2}\,}
+where
+          σ
+            0
+    {\displaystyle \sigma _{0}}
+   is the stress required to move dislocations,
+k is a material constant, and
+d is the grain size.
+Yield strength testing involves taking a small sample with a fixed cross-section area, and then pulling it with a controlled, gradually increasing force until the sample changes shape or breaks. This is called a Tensile Test. Longitudinal and/or transverse strain is recorded using mechanical or optical extensometers.
+Yield behaviour can also be characterised using virtual tests (on computer models of materials), particularly where macroscopic yield is governed by the microstructural architecture of the material being studied.
+Indentation hardness correlates linearly with tensile strength for most steels. Hardness testing can therefore be an economical substitute for tensile testing, as well as providing local variations in yield strength due to e.g. welding or forming operations.
+Yielded structures have a lower stiffness, leading to increased deflections and decreased buckling strength. The structure will be permanently deformed when the load is removed, and may have residual stresses. Engineering metals display strain hardening, which implies that the yield stress is increased after unloading from a yield state. Highly optimized structures, such as airplane beams and components, rely on yielding as a fail-safe failure mode. No safety factor is therefore needed when comparing limit loads (the highest loads expected during normal operation) to yield criteria.
+Note: many of the values depend on manufacturing process and purity/composition.
+Elastic modulus
+Linear elasticity
+Piola-Kirchhoff stress tensor
+Specified Minimum Yield Strength
+Strain tensor
+Stress concentration
+Tensile strength
+Virial stress
+Yield curve (physics)
+Yield surface

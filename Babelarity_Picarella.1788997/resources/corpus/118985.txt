@@ -1,0 +1,390 @@
+The Atwood machine (or Atwood's machine) was invented in 1784 by the English mathematician George Atwood as a laboratory experiment to verify the mechanical laws of motion with constant acceleration. Atwood's machine is a common classroom demonstration used to illustrate principles of classical mechanics.
+The ideal Atwood Machine consists of two objects of mass m1 and m2, connected by an inextensible massless string over an ideal massless pulley. 
+When m1 = m2, the machine is in neutral equilibrium regardless of the position of the weights.
+When m1 ≠ m2 both masses experience uniform acceleration.
+We are able to derive an equation for the acceleration by using force analysis. If we consider a massless, inextensible string and an ideal massless pulley, the only forces we have to consider are: tension force (T), and the weight of the two masses (W1 and W2). To find an acceleration we need to consider the forces affecting each individual mass. Using Newton's second law (with a sign convention of 
+          m
+            1
+        >
+          m
+            2
+    {\displaystyle m_{1}>m_{2}}
+  ) we can derive a system of equations for the acceleration (a).
+As a sign convention, we assume that a is positive when downward for 
+          m
+            1
+    {\displaystyle m_{1}}
+   and upward for 
+          m
+            2
+    {\displaystyle m_{2}}
+  . Weight of 
+          m
+            1
+    {\displaystyle m_{1}}
+   and 
+          m
+            2
+    {\displaystyle m_{2}}
+   is simply 
+          W
+            1
+        =
+          m
+            1
+        g
+    {\displaystyle W_{1}=m_{1}g}
+   and 
+          W
+            2
+        =
+          m
+            2
+        g
+    {\displaystyle W_{2}=m_{2}g}
+   respectively.
+Forces affecting m1:
+          m
+            1
+        g
+        −
+        T
+        =
+          m
+            1
+        a
+    {\displaystyle \;m_{1}g-T=m_{1}a}
+Forces affecting m2:
+        T
+        −
+          m
+            2
+        g
+        =
+          m
+            2
+        a
+    {\displaystyle \;T-m_{2}g=m_{2}a}
+and adding the two previous equations we obtain
+          m
+            1
+        g
+        −
+          m
+            2
+        g
+        =
+          m
+            1
+        a
+        +
+          m
+            2
+        a
+    {\displaystyle \;m_{1}g-m_{2}g=m_{1}a+m_{2}a}
+  ,
+and our concluding formula for acceleration
+        a
+        =
+        g
+                m
+                  1
+              −
+                m
+                  2
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle a=g{m_{1}-m_{2} \over m_{1}+m_{2}}}
+Conversely, the acceleration due to gravity, g, can be found by timing the movement of the weights, and calculating a value for the uniform acceleration a: 
+        a
+        =
+              2
+              d
+              t
+                2
+    {\displaystyle a={\frac {2d}{t^{2}}}}
+  .
+The Atwood machine is sometimes used to illustrate the Lagrangian method of deriving equations of motion. 
+It can be useful to know an equation for the tension in the string. To evaluate tension, substitute the equation for acceleration in either of the 2 force equations.
+        a
+        =
+        g
+                m
+                  1
+              −
+                m
+                  2
+                m
+                  1
+              +
+                m
+                  2
+    {\displaystyle a=g{m_{1}-m_{2} \over m_{1}+m_{2}}}
+For example substituting into 
+          m
+            1
+        a
+        =
+          m
+            1
+        g
+        −
+        T
+    {\displaystyle m_{1}a=m_{1}g-T}
+  , results in
+        T
+        =
+              2
+              g
+                m
+                  1
+                m
+                  2
+                m
+                  1
+              +
+                m
+                  2
+        =
+              2
+              g
+              1
+                /
+                m
+                  1
+              +
+              1
+                /
+                m
+                  2
+    {\displaystyle T={2gm_{1}m_{2} \over m_{1}+m_{2}}={2g \over 1/m_{1}+1/m_{2}}}
+For very small mass differences between m1 and m2, the rotational inertia I of the pulley of radius r cannot be neglected. The angular acceleration of the pulley is given by the no-slip condition:
+        α
+        =
+            a
+            r
+        ,
+    {\displaystyle \alpha ={a \over r},}
+where 
+        α
+    {\displaystyle \alpha }
+   is the angular acceleration. The net torque is then:
+          τ
+              n
+              e
+              t
+        =
+          (
+            T
+              1
+          −
+            T
+              2
+          )
+        r
+        −
+          τ
+              f
+              r
+              i
+              c
+              t
+              i
+              o
+              n
+        =
+        I
+        α
+    {\displaystyle \tau _{\mathrm {net} }=\left(T_{1}-T_{2}\right)r-\tau _{\mathrm {friction} }=I\alpha }
+Combining with Newton's second law for the hanging masses, and solving for T1, T2, and a, we get:
+Acceleration:
+        a
+        =
+              g
+              (
+                m
+                  1
+              −
+                m
+                  2
+              )
+              −
+                    τ
+                        f
+                        r
+                        i
+                        c
+                        t
+                        i
+                        o
+                        n
+                  r
+                m
+                  1
+              +
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+    {\displaystyle a={{g(m_{1}-m_{2})-{\tau _{\mathrm {friction} } \over r}} \over {m_{1}+m_{2}+{{I} \over {r^{2}}}}}}
+Tension in string segment nearest m1:
+          T
+            1
+        =
+                m
+                  1
+              g
+              (
+              2
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+              +
+                      τ
+                          f
+                          r
+                          i
+                          c
+                          t
+                          i
+                          o
+                          n
+                    r
+                    g
+              )
+                m
+                  1
+              +
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+    {\displaystyle T_{1}={{m_{1}g(2m_{2}+{{I} \over {r^{2}}}+{{\tau _{\mathrm {friction} }} \over {rg}})} \over {m_{1}+m_{2}+{{I} \over {r^{2}}}}}}
+Tension in string segment nearest m2:
+          T
+            2
+        =
+                m
+                  2
+              g
+              (
+              2
+                m
+                  1
+              +
+                    I
+                      r
+                        2
+              +
+                      τ
+                          f
+                          r
+                          i
+                          c
+                          t
+                          i
+                          o
+                          n
+                    r
+                    g
+              )
+                m
+                  1
+              +
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+    {\displaystyle T_{2}={{m_{2}g(2m_{1}+{{I} \over {r^{2}}}+{{\tau _{\mathrm {friction} }} \over {rg}})} \over {m_{1}+m_{2}+{{I} \over {r^{2}}}}}}
+Should bearing friction be negligible (but not the inertia of the pulley and not the traction of the string on the pulley rim), these equations simplify as the following results:
+Acceleration:
+        a
+        =
+              g
+              (
+                m
+                  1
+              −
+                m
+                  2
+              )
+                m
+                  1
+              +
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+    {\displaystyle a={{g(m_{1}-m_{2})} \over {m_{1}+m_{2}+{{I} \over {r^{2}}}}}}
+Tension in string segment nearest m1:
+          T
+            1
+        =
+                m
+                  1
+              g
+              (
+              2
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+              )
+                m
+                  1
+              +
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+    {\displaystyle T_{1}={{m_{1}g(2m_{2}+{{I} \over {r^{2}}})} \over {m_{1}+m_{2}+{{I} \over {r^{2}}}}}}
+Tension in string segment nearest m2:
+          T
+            2
+        =
+                m
+                  2
+              g
+              (
+              2
+                m
+                  1
+              +
+                    I
+                      r
+                        2
+              )
+                m
+                  1
+              +
+                m
+                  2
+              +
+                    I
+                      r
+                        2
+    {\displaystyle T_{2}={{m_{2}g(2m_{1}+{{I} \over {r^{2}}})} \over {m_{1}+m_{2}+{{I} \over {r^{2}}}}}}
+Atwood's original illustrations show the main pulley's axle resting on the rims of another four wheels, to minimize friction forces from the bearings. Many historical implementations of the machine follow this design.
+An elevator with a counterbalance approximates an ideal Atwood machine and thereby relieves the driving motor from the load of holding the elevator cab — it has to overcome only weight difference and inertia of the two masses. The same principle is used for funicular railways with two connected railway cars on inclined tracks, and for the elevators on the Eiffel Tower which counterbalance each other.
+Frictionless plane
+Kater's pendulum
+Spherical cow
+Swinging Atwood's machine

@@ -1,0 +1,908 @@
+In Euclidean geometry, a cyclic quadrilateral or inscribed quadrilateral is a quadrilateral whose vertices all lie on a single circle. This circle is called the circumcircle or circumscribed circle, and the vertices are said to be concyclic. The center of the circle and its radius are called the circumcenter and the circumradius respectively. Other names for these quadrilaterals are concyclic quadrilateral and chordal quadrilateral, the latter since the sides of the quadrilateral are chords of the circumcircle. Usually the quadrilateral is assumed to be convex, but there are also crossed cyclic quadrilaterals. The formulas and properties given below are valid in the convex case.
+The word cyclic is from the Ancient Greek κύκλος (kuklos) which means "circle" or "wheel".
+All triangles have a circumcircle, but not all quadrilaterals do. An example of a quadrilateral that cannot be cyclic is a non-square rhombus. The section characterizations below states what necessary and sufficient conditions a quadrilateral must satisfy to have a circumcircle.
+Any square, rectangle, isosceles trapezoid, or antiparallelogram is cyclic. A kite is cyclic if and only if it has two right angles. A bicentric quadrilateral is a cyclic quadrilateral that is also tangential and an ex-bicentric quadrilateral is a cyclic quadrilateral that is also ex-tangential.
+A convex quadrilateral is cyclic if and only if the four perpendicular bisectors to the sides are concurrent. This common point is the circumcenter.
+A convex quadrilateral ABCD is cyclic if and only if its opposite angles are supplementary, that is
+        α
+        +
+        γ
+        =
+        β
+        +
+        δ
+        =
+        π
+        =
+          180
+            ∘
+        .
+    {\displaystyle \alpha +\gamma =\beta +\delta =\pi =180^{\circ }.}
+The direct theorem was Proposition 22 in Book 3 of Euclid's Elements. Equivalently, a convex quadrilateral is cyclic if and only if each exterior angle is equal to the opposite interior angle.
+Another necessary and sufficient condition for a convex quadrilateral ABCD to be cyclic is that an angle between a side and a diagonal is equal to the angle between the opposite side and the other diagonal. That is, for example,
+        ∠
+        A
+        C
+        B
+        =
+        ∠
+        A
+        D
+        B
+        .
+    {\displaystyle \angle ACB=\angle ADB.}
+Ptolemy's theorem expresses the product of the lengths of the two diagonals e and f of a cyclic quadrilateral as equal to the sum of the products of opposite sides:
+          e
+          f
+          =
+          a
+          c
+          +
+          b
+          d
+          .
+    {\displaystyle \displaystyle ef=ac+bd.}
+The converse is also true. That is, if this equation is satisfied in a convex quadrilateral, then it is a cyclic quadrilateral.
+If two lines, one containing segment AC and the other containing segment BD, intersect at X, then the four points A, B, C, D are concyclic if and only if
+          A
+          X
+          ⋅
+          X
+          C
+          =
+          B
+          X
+          ⋅
+          X
+          D
+          .
+    {\displaystyle \displaystyle AX\cdot XC=BX\cdot XD.}
+The intersection X may be internal or external to the circle. In the former case, the cyclic quadrilateral is ABCD, and in the latter case, the cyclic quadrilateral is ABDC. When the intersection is internal, the equality states that the product of the segment lengths into which X divides one diagonal equals that of the other diagonal. This is known as the intersecting chords theorem since the diagonals of the cyclic quadrilateral are chords of the circumcircle.
+Yet another characterization is that a convex quadrilateral ABCD is cyclic if and only if
+        tan
+        ⁡
+            α
+            2
+        tan
+        ⁡
+            γ
+            2
+        =
+        tan
+        ⁡
+            β
+            2
+        tan
+        ⁡
+            δ
+            2
+        =
+        1.
+    {\displaystyle \tan {\frac {\alpha }{2}}\tan {\frac {\gamma }{2}}=\tan {\frac {\beta }{2}}\tan {\frac {\delta }{2}}=1.}
+The area K of a cyclic quadrilateral with sides a, b, c, d is given by Brahmagupta's formula
+        K
+        =
+            (
+            s
+            −
+            a
+            )
+            (
+            s
+            −
+            b
+            )
+            (
+            s
+            −
+            c
+            )
+            (
+            s
+            −
+            d
+            )
+    {\displaystyle K={\sqrt {(s-a)(s-b)(s-c)(s-d)}}\,}
+where s, the semiperimeter, is s = 1/2(a + b + c + d). This is a corollary of Bretschneider's formula for the general quadrilateral, since opposite angles are supplementary in the cyclic case. If also d = 0, the cyclic quadrilateral becomes a triangle and the formula is reduced to Heron's formula.
+The cyclic quadrilateral has maximal area among all quadrilaterals having the same sequence of side lengths. This is another corollary to Bretschneider's formula. It can also be proved using calculus.
+Four unequal lengths, each less than the sum of the other three, are the sides of each of three non-congruent cyclic quadrilaterals, which by Brahmagupta's formula all have the same area. Specifically, for sides a, b, c, and d, side a could be opposite any of side b, side c, or side d.
+The area of a cyclic quadrilateral with successive sides a, b, c, d and angle B between sides a and b can be expressed as
+        K
+        =
+              1
+              2
+        (
+        a
+        b
+        +
+        c
+        d
+        )
+        sin
+        ⁡
+          B
+    {\displaystyle K={\tfrac {1}{2}}(ab+cd)\sin {B}}
+or
+        K
+        =
+              1
+              2
+        (
+        a
+        c
+        +
+        b
+        d
+        )
+        sin
+        ⁡
+          θ
+    {\displaystyle K={\tfrac {1}{2}}(ac+bd)\sin {\theta }}
+where θ is either angle between the diagonals. Provided A is not a right angle, the area can also be expressed as
+        K
+        =
+              1
+              4
+        (
+          a
+            2
+        −
+          b
+            2
+        −
+          c
+            2
+        +
+          d
+            2
+        )
+        tan
+        ⁡
+          A
+        .
+    {\displaystyle K={\tfrac {1}{4}}(a^{2}-b^{2}-c^{2}+d^{2})\tan {A}.}
+Another formula is
+          K
+          =
+          2
+            R
+              2
+          sin
+          ⁡
+            A
+          sin
+          ⁡
+            B
+          sin
+          ⁡
+            θ
+    {\displaystyle \displaystyle K=2R^{2}\sin {A}\sin {B}\sin {\theta }}
+where R is the radius of the circumcircle. As a direct consequence,
+        K
+        ≤
+        2
+          R
+            2
+    {\displaystyle K\leq 2R^{2}}
+where there is equality if and only if the quadrilateral is a square.
+In a cyclic quadrilateral with successive vertices A, B, C, D and sides a = AB, b = BC, c = CD, and d = DA, the lengths of the diagonals p = AC and q = BD can be expressed in terms of the sides as
+        p
+        =
+                (
+                a
+                c
+                +
+                b
+                d
+                )
+                (
+                a
+                d
+                +
+                b
+                c
+                )
+                a
+                b
+                +
+                c
+                d
+    {\displaystyle p={\sqrt {\frac {(ac+bd)(ad+bc)}{ab+cd}}}}
+   and 
+        q
+        =
+                (
+                a
+                c
+                +
+                b
+                d
+                )
+                (
+                a
+                b
+                +
+                c
+                d
+                )
+                a
+                d
+                +
+                b
+                c
+    {\displaystyle q={\sqrt {\frac {(ac+bd)(ab+cd)}{ad+bc}}}}
+so showing Ptolemy's theorem
+        p
+        q
+        =
+        a
+        c
+        +
+        b
+        d
+        .
+    {\displaystyle pq=ac+bd.}
+According to Ptolemy's second theorem,
+            p
+            q
+        =
+              a
+              d
+              +
+              b
+              c
+              a
+              b
+              +
+              c
+              d
+    {\displaystyle {\frac {p}{q}}={\frac {ad+bc}{ab+cd}}}
+using the same notations as above.
+For the sum of the diagonals we have the inequality
+        p
+        +
+        q
+        ≥
+        2
+            a
+            c
+            +
+            b
+            d
+        .
+    {\displaystyle p+q\geq 2{\sqrt {ac+bd}}.}
+Equality holds if and only if the diagonals have equal length, which can be proved using the AM-GM inequality.
+Moreover,
+        (
+        p
+        +
+        q
+          )
+            2
+        ≤
+        (
+        a
+        +
+        c
+          )
+            2
+        +
+        (
+        b
+        +
+        d
+          )
+            2
+        .
+    {\displaystyle (p+q)^{2}\leq (a+c)^{2}+(b+d)^{2}.}
+In any convex quadrilateral, the two diagonals together partition the quadrilateral into four triangles; in a cyclic quadrilateral, opposite pairs of these four triangles are similar to each other.
+If M and N are the midpoints of the diagonals AC and BD, then
+              M
+              N
+              E
+              F
+        =
+            1
+            2
+          |
+                A
+                C
+                B
+                D
+          −
+                B
+                D
+                A
+                C
+          |
+    {\displaystyle {\frac {MN}{EF}}={\frac {1}{2}}\left|{\frac {AC}{BD}}-{\frac {BD}{AC}}\right|}
+where E and F are the intersection points of the extensions of opposite sides.
+If ABCD is a cyclic quadrilateral where AC meets BD at E, then
+              A
+              E
+              C
+              E
+        =
+              A
+              B
+              C
+              B
+        ⋅
+              A
+              D
+              C
+              D
+        .
+    {\displaystyle {\frac {AE}{CE}}={\frac {AB}{CB}}\cdot {\frac {AD}{CD}}.}
+A set of sides that can form a cyclic quadrilateral can be arranged in any of three distinct sequences each of which can form a cyclic quadrilateral of the same area in the same circumcircle (the areas being the same according to Brahmagupta's area formula). Any two of these cyclic quadrilaterals have one diagonal length in common.
+For a cyclic quadrilateral with successive sides a, b, c, d, semiperimeter s, and angle A between sides a and d, the trigonometric functions of A are given by
+        cos
+        ⁡
+        A
+        =
+                a
+                  2
+              +
+                d
+                  2
+              −
+                b
+                  2
+              −
+                c
+                  2
+              2
+              (
+              a
+              d
+              +
+              b
+              c
+              )
+        ,
+    {\displaystyle \cos A={\frac {a^{2}+d^{2}-b^{2}-c^{2}}{2(ad+bc)}},}
+        sin
+        ⁡
+        A
+        =
+              2
+                  (
+                  s
+                  −
+                  a
+                  )
+                  (
+                  s
+                  −
+                  b
+                  )
+                  (
+                  s
+                  −
+                  c
+                  )
+                  (
+                  s
+                  −
+                  d
+                  )
+              (
+              a
+              d
+              +
+              b
+              c
+              )
+        ,
+    {\displaystyle \sin A={\frac {2{\sqrt {(s-a)(s-b)(s-c)(s-d)}}}{(ad+bc)}},}
+        tan
+        ⁡
+            A
+            2
+        =
+                (
+                s
+                −
+                a
+                )
+                (
+                s
+                −
+                d
+                )
+                (
+                s
+                −
+                b
+                )
+                (
+                s
+                −
+                c
+                )
+        .
+    {\displaystyle \tan {\frac {A}{2}}={\sqrt {\frac {(s-a)(s-d)}{(s-b)(s-c)}}}.}
+The angle θ between the diagonals satisfies
+        tan
+        ⁡
+            θ
+            2
+        =
+                (
+                s
+                −
+                b
+                )
+                (
+                s
+                −
+                d
+                )
+                (
+                s
+                −
+                a
+                )
+                (
+                s
+                −
+                c
+                )
+        .
+    {\displaystyle \tan {\frac {\theta }{2}}={\sqrt {\frac {(s-b)(s-d)}{(s-a)(s-c)}}}.}
+If the extensions of opposite sides a and c intersect at an angle φ, then
+        cos
+        ⁡
+            φ
+            2
+        =
+                (
+                s
+                −
+                b
+                )
+                (
+                s
+                −
+                d
+                )
+                (
+                b
+                +
+                d
+                  )
+                    2
+                (
+                a
+                b
+                +
+                c
+                d
+                )
+                (
+                a
+                d
+                +
+                b
+                c
+                )
+    {\displaystyle \cos {\frac {\varphi }{2}}={\sqrt {\frac {(s-b)(s-d)(b+d)^{2}}{(ab+cd)(ad+bc)}}}}
+where s is the semiperimeter.
+A cyclic quadrilateral with successive sides a, b, c, d and semiperimeter s has the circumradius (the radius of the circumcircle) given by
+        R
+        =
+            1
+            4
+                (
+                a
+                b
+                +
+                c
+                d
+                )
+                (
+                a
+                c
+                +
+                b
+                d
+                )
+                (
+                a
+                d
+                +
+                b
+                c
+                )
+                (
+                s
+                −
+                a
+                )
+                (
+                s
+                −
+                b
+                )
+                (
+                s
+                −
+                c
+                )
+                (
+                s
+                −
+                d
+                )
+        .
+    {\displaystyle R={\frac {1}{4}}{\sqrt {\frac {(ab+cd)(ac+bd)(ad+bc)}{(s-a)(s-b)(s-c)(s-d)}}}.}
+This was derived by the Indian mathematician Vatasseri Parameshvara in the 15th century.
+Using Brahmagupta's formula, Parameshvara's formula can be restated as
+        4
+        K
+        R
+        =
+            (
+            a
+            b
+            +
+            c
+            d
+            )
+            (
+            a
+            c
+            +
+            b
+            d
+            )
+            (
+            a
+            d
+            +
+            b
+            c
+            )
+    {\displaystyle 4KR={\sqrt {(ab+cd)(ac+bd)(ad+bc)}}}
+where K is the area of the cyclic quadrilateral.
+Four line segments, each perpendicular to one side of a cyclic quadrilateral and passing through the opposite side's midpoint, are concurrent. These line segments are called the maltitudes, which is an abbreviation for midpoint altitude. Their common point is called the anticenter. It has the property of being the reflection of the circumcenter in the "vertex centroid". Thus in a cyclic quadrilateral, the circumcenter, the "vertex centroid", and the anticenter are collinear.
+If the diagonals of a cyclic quadrilateral intersect at P, and the midpoints of the diagonals are M and N, then the anticenter of the quadrilateral is the orthocenter of triangle MNP. The vertex centroid is the midpoint of the line segment joining the midpoints of the diagonals.
+In a cyclic quadrilateral, the "area centroid" Ga, the "vertex centroid" Gv, and the intersection P of the diagonals are collinear. The distances between these points satisfy
+        P
+          G
+            a
+        =
+              4
+              3
+        P
+          G
+            v
+        .
+    {\displaystyle PG_{a}={\tfrac {4}{3}}PG_{v}.}
+In a cyclic quadrilateral ABCD, the incenters in triangles ABC, BCD, CDA, and DAB are the vertices of a rectangle. This is one of the theorems known as the Japanese theorem. The orthocenters of the same four triangles are the vertices of a quadrilateral congruent to ABCD, and the centroids in those four triangles are vertices of another cyclic quadrilateral.
+In a cyclic quadrilateral ABCD with circumcenter O, let P be the point where the diagonals AC and BD intersect. Then angle APB is the arithmetic mean of the angles AOB and COD. This is a direct consequence of the inscribed angle theorem and the exterior angle theorem.
+There are no cyclic quadrilaterals with rational area and with unequal rational sides in either arithmetic or geometric progression.
+If a cyclic quadrilateral has side lengths that form an arithmetic progression the quadrilateral is also ex-bicentric.
+If the opposite sides of a cyclic quadrilateral are extended to meet at E and F, then the internal angle bisectors of the angles at E and F are perpendicular.
+A Brahmagupta quadrilateral is a cyclic quadrilateral with integer sides, integer diagonals, and integer area. All Brahmagupta quadrilaterals with sides a, b, c, d, diagonals e, f, area K, and circumradius R can be obtained by clearing denominators from the following expressions involving rational parameters t, u, and v:
+        a
+        =
+        [
+        t
+        (
+        u
+        +
+        v
+        )
+        +
+        (
+        1
+        −
+        u
+        v
+        )
+        ]
+        [
+        u
+        +
+        v
+        −
+        t
+        (
+        1
+        −
+        u
+        v
+        )
+        ]
+    {\displaystyle a=[t(u+v)+(1-uv)][u+v-t(1-uv)]}
+        b
+        =
+        (
+        1
+        +
+          u
+            2
+        )
+        (
+        v
+        −
+        t
+        )
+        (
+        1
+        +
+        t
+        v
+        )
+    {\displaystyle b=(1+u^{2})(v-t)(1+tv)}
+        c
+        =
+        t
+        (
+        1
+        +
+          u
+            2
+        )
+        (
+        1
+        +
+          v
+            2
+        )
+    {\displaystyle c=t(1+u^{2})(1+v^{2})}
+        d
+        =
+        (
+        1
+        +
+          v
+            2
+        )
+        (
+        u
+        −
+        t
+        )
+        (
+        1
+        +
+        t
+        u
+        )
+    {\displaystyle d=(1+v^{2})(u-t)(1+tu)}
+        e
+        =
+        u
+        (
+        1
+        +
+          t
+            2
+        )
+        (
+        1
+        +
+          v
+            2
+        )
+    {\displaystyle e=u(1+t^{2})(1+v^{2})}
+        f
+        =
+        v
+        (
+        1
+        +
+          t
+            2
+        )
+        (
+        1
+        +
+          u
+            2
+        )
+    {\displaystyle f=v(1+t^{2})(1+u^{2})}
+        K
+        =
+        u
+        v
+        [
+        2
+        t
+        (
+        1
+        −
+        u
+        v
+        )
+        −
+        (
+        u
+        +
+        v
+        )
+        (
+        1
+        −
+          t
+            2
+        )
+        ]
+        [
+        2
+        (
+        u
+        +
+        v
+        )
+        t
+        +
+        (
+        1
+        −
+        u
+        v
+        )
+        (
+        1
+        −
+          t
+            2
+        )
+        ]
+    {\displaystyle K=uv[2t(1-uv)-(u+v)(1-t^{2})][2(u+v)t+(1-uv)(1-t^{2})]}
+        4
+        R
+        =
+        (
+        1
+        +
+          u
+            2
+        )
+        (
+        1
+        +
+          v
+            2
+        )
+        (
+        1
+        +
+          t
+            2
+        )
+        .
+    {\displaystyle 4R=(1+u^{2})(1+v^{2})(1+t^{2}).}
+For a cyclic quadrilateral that is also orthodiagonal (has perpendicular diagonals), suppose the intersection of the diagonals divides one diagonal into segments of lengths p1 and p2 and divides the other diagonal into segments of lengths q1 and q2. Then (the first equality is Proposition 11 in Archimedes' Book of Lemmas)
+          D
+            2
+        =
+          p
+            1
+            2
+        +
+          p
+            2
+            2
+        +
+          q
+            1
+            2
+        +
+          q
+            2
+            2
+        =
+          a
+            2
+        +
+          c
+            2
+        =
+          b
+            2
+        +
+          d
+            2
+    {\displaystyle D^{2}=p_{1}^{2}+p_{2}^{2}+q_{1}^{2}+q_{2}^{2}=a^{2}+c^{2}=b^{2}+d^{2}}
+where D is the diameter of the circumcircle. This holds because the diagonals are perpendicular chords of a circle. These equations imply that the circumradius R can be expressed as
+        R
+        =
+              1
+              2
+              p
+                1
+                2
+            +
+              p
+                2
+                2
+            +
+              q
+                1
+                2
+            +
+              q
+                2
+                2
+    {\displaystyle R={\tfrac {1}{2}}{\sqrt {p_{1}^{2}+p_{2}^{2}+q_{1}^{2}+q_{2}^{2}}}}
+or, in terms of the sides of the quadrilateral, as
+        R
+        =
+              1
+              2
+              a
+                2
+            +
+              c
+                2
+        =
+              1
+              2
+              b
+                2
+            +
+              d
+                2
+        .
+    {\displaystyle R={\tfrac {1}{2}}{\sqrt {a^{2}+c^{2}}}={\tfrac {1}{2}}{\sqrt {b^{2}+d^{2}}}.}
+It also follows that
+          a
+            2
+        +
+          b
+            2
+        +
+          c
+            2
+        +
+          d
+            2
+        =
+        8
+          R
+            2
+        .
+    {\displaystyle a^{2}+b^{2}+c^{2}+d^{2}=8R^{2}.}
+Thus, according to Euler's quadrilateral theorem, the circumradius can be expressed in terms of the diagonals p and q, and the distance x between the midpoints of the diagonals as
+        R
+        =
+                  p
+                    2
+                +
+                  q
+                    2
+                +
+                4
+                  x
+                    2
+              8
+        .
+    {\displaystyle R={\sqrt {\frac {p^{2}+q^{2}+4x^{2}}{8}}}.}
+A formula for the area K of a cyclic orthodiagonal quadrilateral in terms of the four sides is obtained directly when combining Ptolemy's theorem and the formula for the area of an orthodiagonal quadrilateral. The result is
+        K
+        =
+              1
+              2
+        (
+        a
+        c
+        +
+        b
+        d
+        )
+        .
+    {\displaystyle K={\tfrac {1}{2}}(ac+bd).}
+In a cyclic orthodiagonal quadrilateral, the anticenter coincides with the point where the diagonals intersect.
+Brahmagupta's theorem states that for a cyclic quadrilateral that is also orthodiagonal, the perpendicular from any side through the point of intersection of the diagonals bisects the opposite side.
+If a cyclic quadrilateral is also orthodiagonal, the distance from the circumcenter to any side equals half the length of the opposite side.
+In a cyclic orthodiagonal quadrilateral, the distance between the midpoints of the diagonals equals the distance between the circumcenter and the point where the diagonals intersect.
+A spherical quadrilateral is cyclic if and only if the summations of the opposite sides are equal, i.e. α + γ = β + δ for consecutive sides α, β, γ, δ of the quadrilateral. One direction of this theorem was proved by I. A. Lexell in 1786. Lexell showed that in a spherical quadrilateral inscribed in a small circle of a sphere the sums of opposite angles are equal, and that in the circumscribed quadrilateral the sums of opposite sides are equal. The first of these theorems is the spherical analogue of a plane theorem, and the second theorem is its dual, that is, the result of interchanging great circles and their poles. Kiper et al. proved the converse of the theorem: If the summations of the opposite sides are equal in a spherical quadrilateral, then there exists an inscribing circle for this quadrilateral.
+Butterfly theorem
+Cyclic polygon
+Power of a point
+Ptolemy's table of chords
+Robbins pentagon

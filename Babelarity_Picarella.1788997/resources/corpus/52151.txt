@@ -1,0 +1,29 @@
+Microsoft Expression Studio is a discontinued suite of tools for designing and building web and Windows client applications and rich digital media contents.
+Microsoft introduced Microsoft Expression on September 16, 2005, at Microsoft's Professional Developers Conference in Los Angeles. Microsoft Expression Encoder was introduced at NAB 2007. Microsoft Expression Studio was released to manufacturing (RTM) on April 30, 2007. The RTM news was announced at Microsoft's MIX 07 conference for web developers and designers.
+Microsoft Expression Studio 2 was released on May 1, 2008, which also included a graphical makeover for the suite to an inverse of the previous black-on-white theme. This release brings all products in the suite to version 2, and now also includes Visual Studio Standard 2008. Microsoft Expression Studio is also available to students as downloads via Microsoft's DreamSpark program.
+Microsoft Expression Studio 3 was released on July 22, 2009, This release brings all products in the suite to version 3, with significant improvements especially targeting Silverlight 3. Expression Media is no longer a part of package, while all other products have been significantly improved and enriched.
+On June 7, 2010, Expression Studio 4 was released. Expression Studio 4 is a free upgrade version for licensed Expression Studio 3 users, but only for retail copies.
+On December 20, 2012, Microsoft announced that the Expression products would be deprecated, with Blend becoming a standalone tool with Visual Studio 2012 Update 2, Expression Studio 4 Ultimate and Expression Studio 4 Web Professional no longer available for sale but supported through their support lifecycle, Expression Design 4 and Expression Web 4 available as unsupported free editions, Expression Encoder 4 Pro available for purchase through 2013, Expression Encoder 4 remains available for download at no charge.
+As of version 4, there are two editions of Expression Studio available to general public: Web Professional and Ultimate
+Expression Studio Web Professional consists of:
+Expression Web, HTML editor and web design program
+Expression Design, vector graphics editor
+Expression Encoder Pro, video editing tool for authoring VC-1 and H.264/MPEG-4 AVC contents
+Expression Studio Ultimate consist of all previous components, as well as:
+Expression Blend, graphical user interface builder for XAML or HTML applications
+SuperPreview, complementary web design program for testing compatibility and performance
+SketchFlow, complementary user interface tool that facilitate workflow design
+Expression Encoder and SuperPreview are the only components that can be obtained individually. Expression Encoder consists of two editions: A freeware edition and a commercial Pro edition.
+Prior to version 3, the suite also consisted of Microsoft Expression Media, a digital asset management application sold to Phase One.
+Until version 2, Expression Web was the only application in the Expression Studio suite based on Microsoft Office code and dependencies. With version 3, Expression Web was rewritten in Windows Presentation Foundation, in line with the rest of the Expression Suite, without Microsoft Office dependencies, essentially making it a new managed code program. A result of the complete rewrite was features like customizable toolbars and menus, standard Windows color scheme, spell check, DLL addins, file menu export feature, drag-and-drop between remote sites, comparing sites by timestamp were removed in this version. Other features do not work reliably or are incomplete, like Undo for instance. Version 3 introduced Expression Web 3 SuperPreview tool for comparing and rendering webpage in various browsers. Also noted was the lack of support for root relative links, links that start with a "/" to refer to the root of a web server. This feature was added with Expression 3 Service Pack 1.
+The version of Expression Encoder Pro 4 available as part of Expression Studio in programs like DreamSpark, BizSpark, WebsiteSpark and through MSDN Ultimate does not include royalty incurring codec and standards support for exporting in MP4 format (H.264 video and AAC audio). It also does not include import filters for TS, M2TS, AVCHD, MPEG-2, and AC-3 although if third party DirectShow filters are installed, it is able to import these formats as is the free version. Expression Encoder Pro version available in retail does not have these limitations. The free version available to everyone and included in MSDN Premium lacks IIS Live Smooth Streaming and unlimited screen capture.
+With the release of Expression Studio 4, three editions of Expression Studio were introduced: Expression Studio 4 Web Professional (includes Expression Encoder, Design and Web), Expression Studio 4 Premium (adds Blend to the suite) and Expression Studio 4 Ultimate (adds SketchFlow). MSDN subscribers receive only the SKU of Expression Studio 4 that corresponds to their Visual Studio 2010 license. As such, MSDN Premium users do not get SketchFlow.
+Some editions of Expression Studio also include product activation.
+Relatives
+Microsoft FrontPage, the predecessor to Expression Web
+Creature House Expression, the predecessor to Expression Design
+iView Media, the predecessor to Expression Media
+Lists
+List of vector graphics editors
+Comparison of vector graphics editors
+Comparison of office suites

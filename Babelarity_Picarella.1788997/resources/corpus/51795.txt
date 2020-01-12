@@ -1,0 +1,30 @@
+Flock is a discontinued web browser that specialized in providing social networking and Web 2.0 facilities built into its user interface. Earlier versions of Flock used the Gecko HTML rendering engine by Mozilla. Version 2.6.2, released on January 27, 2011, was the last version based on Mozilla Firefox. Starting with version 3, Flock was based on Chromium and so used the WebKit rendering engine. Flock was available as a free download, and supported Microsoft Windows, Mac OS X and, at one time, Linux as well.
+Support for Flock was discontinued in April 2011.
+Flock was the successor to Round Two, who raised money from Bessemer Venture Partners, Catamount Ventures, Shasta Ventures and other angel investors. Bart Decrem and Geoffrey Arone co-founded the company. Flock raised $15 million in a fourth round of funding led by Fidelity Ventures on May 22, 2008, for an estimated total of $30 million, according to CNET. The company's previous investors, Bessemer Venture Partners, Catamount Ventures, and Shasta Ventures, also participated in the round.
+In January 2011, Flock Inc. was acquired by Zynga. The browser has been discontinued, with support ending April 26, 2011.
+Flock 2.5 integrated social networking and media services including MySpace, Facebook, YouTube, Twitter, Flickr, Blogger, Gmail, Yahoo! Mail, etc. When logging into any of the supported social services, Flock can track updates from friends: profiles, uploaded photos, and more. Flock's latest 2.5 version added Twitter Search functionality, multi-casting of status updates to multiple services, and the introduction of instant messaging via Facebook Chat in the browser.
+Other features include:
+Native sharing of text, links, photos and videos
+A "Media Bar" showing preview of online videos and photos as well as subscription to photo and video feeds
+A feed reader supporting Atom, RSS, and Media RSS feeds
+A blog editor and reader, allowing direct posting into any designated blog
+A Webkit-mail component allowing users to check supported web-based email off site, compose new messages, and drag-and-drop pictures and videos from the "Media Bar" or webclipboard into a new email message
+Support for third-party add-ons, including a number of Firefox extensions
+Download.com rated it 5 out of 5 
+Ranked no. 6 on PC World's list of the 100 best products of 2008 
+In December 2007, Flock won the Mashable Open Web Awards for Applications and Widgets and in March 2008, Flock won the South By Southwest Web Award for Community.
+CNET gave the Mac OS X version of Flock 1.0 the title of "Best Mac Software of 2007". PC World's Harry McCracken reviewed Flock as his "New Favorite Web Browser".
+In February 2008, AOL announced that it would discontinue support for the Netscape browser, and recommended Flock and Firefox as alternative browsers to its userbase of Netscape 9 users. For the Netscape 8 userbase, AOL recommended only the Flock browser to its users. In March 2008, Flock announced that they had seen "nearly 3 million downloads" and a 135% percent increase in active users in the first two months of 2008. They also announced "more than 70 percent of Flock users making it their default browser of choice".
+In May 2008, Flock won the Social Networking category of the Webby Awards. Flock was nominated for this award along with Facebook, Bebo and Ning.
+When Flock's discontinuation was announced in April 2011, reviewer Joey Sneddon of OMG! Ubuntu! offered the analysis: "Whether this was down to poor implementation design wise (one needs only glance at 'Rockmelt' for an example of a social browser done right) or just general apathy towards having alerts from twitter, flickr, facebook, digg et al. in your face all of the time is moot: Flock has flocked off and for all its innovation it never quite lived up to its own hype."
+Upon exiting beta, Flock won a number of awards:
+Webby Award in social networking, 2008
+SXSW community Award, 2008 
+Open Web Award for Applications and Widgets, 2007 
+"Eddy Winner": Flock 2.0 24th Annual Macworld Editors' Choice Awards 
+Comparison of feed aggregators
+Comparison of web browsers
+List of feed aggregators
+List of web browsers
+RockMelt, a competing social web browser
+Push technology

@@ -1,0 +1,82 @@
+The Sukhoi Su-34 (Russian: Сухой Су-34) (NATO reporting name: Fullback) is a Russian twin-engined, twin-seat strike fighter. It is intended to replace the Sukhoi Su-24.
+Based on the Sukhoi Su-27 'Flanker', the two-seat Su-34 is designed primarily for tactical deployment against ground and naval targets (tactical bombing/attack/interdiction roles, including against small and mobile targets) on solo and group missions in daytime and at night, under favourable and adverse weather conditions and in a hostile environment with counter-fire and EW counter-measures deployed, as well as for aerial reconnaissance.
+The Su-34 had a muddied and protracted beginning. In the mid-1980s, Sukhoi began developing a new tactical multirole combat aircraft to replace the swing-wing Su-24, which would incorporate a host of conflicting requirements. The bureau thus selected the Su-27, which excelled in maneuverability and range, and could carry a large payload, as the basis for the new fighter-bomber. More specifically, the aircraft was developed from T10KM-2, the naval trainer derivative of the Sukhoi Su-27K. The development, known internally as T-10V, was shelved at the end of the 1980s sharing the fate of Soviet aircraft carrier Ulyanovsk; this was the result of the political upheaval in the Soviet Union and its subsequent disintegration.
+In August 1990, a photograph taken by a TASS officer showed an aircraft making a dummy approach towards the aircraft carrier Tbilisi. The aircraft, subsequently and erroneously labelled Su-27KU by Western intelligence, made its maiden flight on 13 April 1990 with Anatoliy Ivanov at the controls. Converted from an Su-27UB with the new distinctive nose, while retaining the main undercarriage of previous Su-27s, it was a prototype for the Su-27IB (Istrebitel Bombardirovshchik, or "fighter bomber"). It was developed in parallel with the two-seat naval trainer, the Su-27KUB. However, contrary to earlier reports, the two aircraft are not directly related. Flight tests continued throughout 1990 and into 1991.
+In 1992, the Su-27IB was displayed to the public at the MosAeroshow (later renamed "MAKS Airshow"), where it demonstrated aerial refuelling with an Il-78, and performed an aerobatic display. The aircraft was officially unveiled on 13 February 1992 at Machulishi, where Russian President Boris Yeltsin and the CIS leaders were holding a summit. The following year the Su-27IB was again displayed at the MAKS Airshow.
+The next prototype, and first pre-production aircraft, T10V-2, first flew on 18 December 1993, with Igor Votintsev and Yevgeniy Revoonov at the controls. Built at Novosibirsk, where Su-24s were constructed, this aircraft was visibly different from the original prototype; it had modified vertical stabilizers, twin tandem main undercarriage and a longer "stinger", which houses a rearward-facing warning radar. The first aircraft built to production standard made its first flight on 28 December 1994. It was fitted with a fire-control system, at the heart of which was the Leninets OKB-designed V004 passive electronically scanned array radar. It was different enough from the earlier versions that it was re-designated the "Su-34". However, at the 1995 Paris Air Show, the Su-34 was allocated the "Su-32FN" designation, signalling the aircraft's potential role as a shore-based naval aircraft for the Russian Naval Aviation. Sukhoi also promoted the Su-34 as the "Su-32MF" (MnogoFunksionalniy, "multi-function").
+Budget restrictions caused the programme to stall repeatedly. Nevertheless, flight testing continued, albeit at a slow pace. The third pre-production aircraft first flew in late 1996.
+An initial batch of eight aircraft was completed by the Novosibirsk factory in 2004. In March 2006, Russia's Minister of Defence Sergei Ivanov announced the purchase of the first 5 pre-production Su-34s for the Russian Air Force. In late 2008, a second contract was signed for delivery of 32 aircraft by 2015. A total of 70 aircraft were to be purchased by 2015 to replace some 300 Russian Su-24s, which were then undergoing a modernization program. Ivanov claimed that as it is "many times more effective on all critical parameters", fewer of these newer bombers are required than the old Su-24 it replaces. In December 2006, Ivanov revealed that approximately 200 Su-34s were expected to be in service by 2020; and was confirmed by Air Force chief Vladimir Mikhaylov on 6 March 2007. Two Su-34s were delivered in 2006-2007, and three more were delivered by the end of 2009.
+On 9 January 2008, Sukhoi reported that the Su-34 had begun full-rate production. The final stage of the state tests were completed on 19 September 2011.
+The Russian Air Force received another four Su-34s on 28 December 2010, as combat units in airbases first received six Su-34s in 2011. Delivery came in the form of two contracts, the first in 2008 for 32 aircraft and the second in 2012 for a further 92 aircraft, totaling 124 to be delivered by 2020. In December 2012, Sukhoi reportedly delivered five aircraft under the 2012 State Defense Order. In January 2013, Sukhoi delivered a batch of 5 Su-34s, flying directly from the Novosibirsk aircraft plant to an air base in Voronezh, Russia. On 6 May 2013, the first Su-34s under the 2013 defence procurement plan were delivered.
+On 9 July 2013, three more Su-34s were delivered in an official acceptance ceremony held at the Novosibirsk Aircraft Plant. These three aircraft were already in the new Russian Air Force camouflage scheme. By the end of 2013, Sukhoi completed the 2008 contract and started deliveries on 2012 contract.
+In August 2013, Sukhoi signed a contract with the Kazan-based Radiopribor holding company for 184 "friend-or-foe" transponders for the Su-34 to be delivered by 2020.
+On 10 June 2014, Russia1 TV reported a further delivery of Su-34s was made to the 559th Regiment at Morozovsk. Another three aircraft were delivered on 18 July 2014. 18 aircraft were delivered in 2014, and 20 planned to be delivered in 2015.
+Sukhoi has delivered the first batch of Su-34s to the Russian Ministry of Defense under the 2015 order on 21 May 2015. On 16 July 2015, the Sukhoi Company handed over another batch of Su-34 frontline bombers to the Ministry of Defense of the Russian Federation. The transfer took place in the framework of the Unified Military Hardware Acceptance Day in the Sukhoi Company’s branch — V.P.Chkalov Novosibirsk aviation plant.
+After eight years of negotiations, Rosoboronexport received requests to supply the Su-34 to Algeria, for the Algerian Air Force.
+The aircraft shares most of its wing structure, tail, and engine nacelles with the Su-27/Su-30, with canards like the Su-30MKI, Su-33, and Su-27M/35 to increase static instability (higher manoeuvrability) and to reduce trim drag. The aircraft has an entirely new nose and forward fuselage with a cockpit providing side-by-side seating for a crew of two. The Su-34 is powered by a pair of Saturn AL-31FM1 turbofan engines, the same engines used on the Su-27SM; giving the aircraft a maximum speed of Mach 1.8+ when fully loaded. When equipped with a full weapons load, the Su-34 has a maximum range of 4,000 kilometres (2,500 mi) without refuelling, this can be extended further via aerial refueling. When operating at its operational maximum, the airframe can withstand an 'overload' of up to +9G.
+The Su-34 is a three-surface design having both a conventional horizontal tailplane at the rear and a canard foreplane in front of the main wings. The foreplane provides both additional lift (force) and greater manoeuvrability. It has twin tail fins like those of Su-27 from which it is derived. The Su-34 has 12 hardpoints for 8,000–12,000 kg (17,600–26,500 lb) of ordnance, intended to include the latest Russian precision-guided weapons. It retains the Su-27/Su-30's 30 mm GSh-30-1 cannon, and the ability to carry R-77 air-to-air missiles (6 pcs) and R-73 (also 6). The maximum weight of any single munition carried is 4000 kg, with a maximum munitions load the maximum attack range is 250 kilometres (160 mi). A Khibiny Electronic countermeasures (ECM) system is fitted as standard.
+The Su-34's most distinctive feature is the unusually large flight deck. Much of the design work went into crew comfort. The two crew members sit side by side in a large cabin, with the pilot-commander to the left and navigator/operator of weapons to the right in NPP Zvezda K-36dm ejection seats. An advantage of the side by side cockpit is that duplicate instruments are not required for each pilot. Since long missions require comfort, the pressurization system allows operation up to 10,000 metres (32,800 ft) without oxygen masks, which are available for emergencies and combat situations. The crew members have room to stand and move about the cabin during long missions. The space between the seats allows them to lie down in the corridor, if necessary. A galley and toilet are located behind the crew seats. A ladder attached to the nose landing gear and a hatch in the cockpit floor is used to enter the cockpit. The cockpit is a continuous capsule of armour (17 mm). The Helmet Mounted Display System (HMDS) acts as a command center: precision target designation of all onboard weapons is tied to the movement of the pilot's head and eyes.
+Maximum detection range for the passive electronically scanned array forward radar is 200–250 km, to cover the rear a second aft-facing radar is mounted. The main radar can simultaneously attack four targets (in the air, on land or on the water). The rear warning radar system can warn of attack from behind and allow it to fire its R-73s against pursuers without needing to turn the aircraft. The rear radar is unofficially called the N-012. The Su-34 reportedly has a frontal radar cross-section that is an order of magnitude smaller than prior generation fighters.
+The Su-34's long range was shown in a July 2010 exercise when Su-34s and Su-24Ms were moved from Russian bases in Europe to one on the Pacific coast, 6,000 kilometres away, which requires in-flight refuelling. The exercise included aircraft carrying weapons at full load, simulated delivering them on a target before arriving at the Pacific coast base. Su-24Ms were refuelled three times, while the Su-34 was refuelled twice.
+The Russian Air Force completed the final stage of the state tests on 19 September 2011. The aircraft entered service in early 2014. The Su-34 was rumoured to have been used by Russian command during the 2008 South Ossetia war. Russia plans to have 124 in use to 2020. This total is planned to increase to 200 later.
+On 4 June 2015, a Su-34 had an accident in Russia's Voronezh region while conducting a routine training mission. The airplane's parachute failed to open after landing and the Su-34 slid off the runway and flipped over. Nobody was killed.
+In September 2015, six Su-34s arrived at Latakia airport in Syria, for attacks against rebel and ISIL forces. Russian air attacks in Syria started on the 30 September, in the Homs region. On 1 October, the Su-34 was used to bomb Islamic State targets in Syria. The Russian Air Force Su-34 fighter-bombers destroyed an Islamic State command center and training camp south-west of the city of Raqqa. These included precision strikes from an altitude of over 5,000 m (16,400 ft). Russian Su-34 and Su-25 attack aircraft carried out air strikes the next day against Islamic State targets in Syria's Hama province using precision bombs. According to Russian Defense Ministry spokesman Maj. Gen. Igor Konashenkov, Su-34s hit an ISIL fortified bunker in the Hama province with guided bombs. Fortifications, ammunition depots, seven units of the military equipment near Syria's Maarrat al-Numan were also destroyed by the Russian Air Force. An ISIL command center and underground depot were also destroyed with explosives near Raqqa. Defense Ministry spokesman Maj. Gen. Igor Konashenkov said in a statement on 3 October, "Accurate delivery of a concrete-piercing bomb BETAB-500 launched from a Su-34 aircraft near Raqqa destroyed a hardened command centre of one of the illegal armed groups as well as an underground bunker with explosives and ammunition depot." A Russian Air Force representative stated Su-34s acquire targets using the GLONASS satellite system for bombing. On 14 October, an Su-34 reportedly used a KAB-500S to destroy a 9K33 Osa surface-to-air missile launcher system controlled by ISIL. With six Su-34s in Syria maintaining a 70 percent availability rate, about four are likely available at any one time for sorties. Eight more Su-34s arrived in Syria on 20 November 2015. Following the shooting down of an Su-24 by Turkey, Russia announced on 30 November 2015 that Su-34s in Syria had begun flying combat missions while armed with air-to-air missiles.
+ Algeria
+Algerian Air Force – Novosibirsk Aircraft announced that Algeria ordered 12 aircraft in January 2016.
+ Russia
+Russian Air Force – 84 aircraft as of May 2016
+Lipetsk Air Base – 14
+Akhtubinsk Air base – 6
+Voronezh Malshevo Air Base – 24
+Morozovsk Air Base – 36
+Khurba - 4
+Latakia Air base, Syria – (12)
+Data from Sukhoi data, Gordon and Davison, AF Technology, Airwar.ru, ria.ru
+General characteristics
+Crew: 2
+Length: 23.34 m (72 ft 2 in)
+Wingspan: 14.7 m (48 ft 3 in)
+Height: 6.09 m (19 ft 5 in)
+Wing area: 62.04 m² (667.8 ft²)
+Empty weight: 22,500 kg (49,608 lb)
+Loaded weight: 39,000 kg (85,980 lb)
+Max. takeoff weight: 45,100 kg (99,425 lb)
+Powerplant: 2 × 13,500 kgf (132 kN, 29,762 lbf) afterburning thrust Lyulka AL-31FM1 turbofans
+Internal fuel: 12,100 kg (15,400 l)
+Performance
+Maximum speed:High altitude: Mach 1.8+ (≈2,000 km/h, 1,200 mph)
+Low altitude: Mach 1.2 (1,400 km/h, 870 mph) at sea level
+Cruise speed: unknown
+Range: 1,100 km (680 mi) at low level altitude
+Combat radius: 1,000+ km (about 680 mi)
+Ferry range: 4,000 km (2,490 mi)
+Service ceiling: 15,000 m (49,200 ft)
+Thrust/weight: 0.68
+Maximum g-load: 9g
+Armament
+Guns: 1× 30 mm GSh-30-1 (9A-4071K) cannon, 150–180 rounds
+Hardpoints: 12× wing and fuselage stations with a capacity of 8,000–12,000 kg (17,600–26,500 lb) and provisions to carry combinations of:
+Rockets:S-8, S-13, S-25 rocket pods
+Missiles:R-27 (AA-10) air-to-air missile
+R-73 (AA-11) air-to-air missile
+R-77 (AA-12) air-to-air missile
+Kh-29L/T (AS-14) air-to-ground missile
+Kh-38 new generation air-to-ground missile with a range of 40 km
+Kh-25MT/ML/MP (AS-10) air-to-ground missile or anti-radiation missile
+Kh-59M (AS-18) air-to-ground missile
+Kh-58 (AS-11) anti-radiation missile
+Kh-31 (AS-17) anti-radiation or anti-ship missile
+Kh-35 (AS-20) anti-ship missile
+P-800 Oniks missile (SS-N-26 Strobile) anti-ship missile (version for the Air Force). Version named "Alpha", weight of 1500 kg with a range of up to 300 km and a speed in the range of numbers M = 2.2-3.0. Officially not in service.
+Kh-65SE or Kh-SD cruise missile
+Bombs:KAB-500L, KAB-500KR, KAB-500S and KAB-1500L/KR guided bombs
+OFAB-250-270, OFAB-100-120, FAB-500T, BETAB-500SHP, P-50T, ODAB-500PM unguided bombs, RBK-500 and SPBE-D cluster bombs, tactical nuclear bombs
+Other:3,000 litres PTB-3000 Suspended Fuel Tanks, EW and reconnaissance pods.
+Related development
+Sukhoi Su-30
+Sukhoi Su-33
+Sukhoi Su-35
+Aircraft of comparable role, configuration and era
+Boeing F/A-18E/F Super Hornet
+McDonnell Douglas F-15E Strike Eagle
+Shenyang J-16

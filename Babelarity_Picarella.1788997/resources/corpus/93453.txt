@@ -1,0 +1,34 @@
+Docodonta is an order of extinct mammaliaforms that lived during the mid- to late-Mesozoic era. Their most distinguishing physical features were their relatively sophisticated molar teeth, from which the order gets its name. Until recently, Docodonta were represented primarily by isolated teeth and bits of jawbones, with most of these specimens found across former Laurasia (modern-day North America, Europe, and Asia), and some from Gondwana (modern-day India and Southern Hemisphere). However, recent discoveries in China have included some exceptionally well preserved almost complete body fossils
+Docodonts are traditionally thought to have been primarily ground dwelling and insectivorous, but Castorocauda and Haldanodon were specialised for an aquatic lifestyle and had recurved molars, which suggests possible fish or aquatic invertebrate diet. It was thought likely that many docodonts had tendencies towards aquatic habits, given their presence in wetland environments. However, recent discoveries such as the specialised digging species Docofossor, and specialised tree-dweller Agilodocodon suggest Docodonta is more ecologically diverse than previously suspected. Docofossor shows many of the same physical traits as the modern day golden mole, such as wide, shortened digits in the hands for digging.
+Docodonts are not as closely related to the placentals and marsupials as the monotremes, and are not included in the crown-group mammals. The complexity of their molars and the fact that they possess the dentary-squamosal jaw joint, means that they are sometimes regarded as belonging to Mammalia. Some authors limit the term "Mammalia" to the crown group, however, excluding mammaliaforms like the docodonts.
+Order †Docodonta Kretzoi 1958 sensu Kielan-Jaworowska, Cifelli & Luo 2004Family †Docodontidae (Marsh 1887) Simpson 1929
+†Agilodocodon scansorius Meng et al. 2015
+†Docofossor brachydactylus Luo et al. 2015
+†Gondtherium dattai Prasad & Manhas 2007
+†Cyrtlatherium canei Freeman 1979 sensu Sigogneau-Russell 2001 [Simpsonodon oxfordensis Kermack et al. 1987]
+†Haldanodon exspectatus Kühne & Krusat 1972 sensu Sigoneau-Russell 2003
+†Borealestes Waldman & Savage 1972
+†B. serendipitus Waldman & Savage 1972
+†B. mussetti Sigogneau-Russell 2003
+†Dsugarodon zuoi Pfretzschner et al. 2005 [Acuodulodon Hu, Meng & Clark 2007; Acuodulodon sunae Hu, Meng & Clark 2007]
+†Castorocauda lutrasimilis Ji et al. 2006
+†Simpsonodon Kermack et al. 1987
+†S. splendens (Kühne 1969) [Cyrtlatherium spendens (Kühne 1968) emend Averianov et al. 2010]
+†S. sibiricus Averianov et al. 2010 [Cyrtlatherium sibiricus (Averianov et al. 2010)]
+†Krusatodon kirtlingtonensis Sigogneau-Russell 2003
+†Hutegotherium yaomingi Averianov et al. 2010
+†Tashkumyrodon desideratus Martin & Averianov 2004
+†Tegotherium gubini Tatarinov 1994
+†Sibirotherium rossicus Maschenko, Lopatin & Voronkevich 2002
+†Reigitherium bunodontum Bonaparte 1990
+†Peraiocynodon Simpson 1928
+†P. inexpectatus Simpson 1928
+†P. major Sigogneau-Russell 2003
+†Docodon Marsh 1881 [Dicrocynodon Marsh 1880; Diplocynodon Marsh 1880 non Pomel 1847; Ennacodon Marsh 1890; Enneodon Marsh 1887 non Prangner 1845; Dryolestes Marsh 1879]
+†D. apoxys Rougier et al. 2014
+†D. apoxys (Marsh 1880) Marsh 1881 [Dicrocynodon victor Marsh 1880; Diplocynodon victor Marsh 1880]
+†D. striatus (Marsh 1880) Marsh 1881 [Dicrocynodon striatus Marsh 1880]
+†D. affinis (Marsh 1887) [Enneodon affinis Marsh 1887]
+†D. crassus (Marsh 1887) [Enneodon crassus Marsh 1887; Ennacodon crassus (Marsh 1887)]
+†D. superus Simpson 1929 [Dicrocynodon victor Marsh 1880]
+Evolution of mammals

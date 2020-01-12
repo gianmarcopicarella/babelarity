@@ -1,0 +1,13 @@
+An open vowel is a vowel sound in which the tongue is positioned as far as possible from the roof of the mouth. Open vowels are sometimes also called low vowels in reference to the low position of the tongue.
+In the context of the phonology of any particular language, a low vowel can be any vowel that is more open than a mid vowel. That is, open-mid vowels, near-open vowels, and open vowels can all be considered low vowels.
+The open vowels with dedicated symbols in the International Phonetic Alphabet are:
+open front unrounded vowel [a]
+open front rounded vowel [ɶ]
+open back unrounded vowel [ɑ]
+open back rounded vowel [ɒ]
+There also are central vowels that do not have dedicated symbols in the IPA:
+open central unrounded vowel [ä] or [ɐ̞] (commonly written [a] as if it were front)
+open central rounded vowel [ɒ̈]
+There is not an unambiguous way of transcribing the open central vowels. The diaeresis indicates centralization, so 〈ä〉 could mean near-front and 〈ɒ̈〉 could mean near-back. In practice, however, the diaeresis is assumed to mean actually central, while 〈a̠〉 and 〈ɒ̟〉 would be used for the latter articulations.
+The extremely rare contrast between open front, central and back unrounded vowels has been reported to occur in the Hamont dialect of Limburgish, which features long versions of these sounds, as well as short versions of the open front and back vowels. The short versions do not contrast directly with the open central vowel, which can only be long.
+Close vowel

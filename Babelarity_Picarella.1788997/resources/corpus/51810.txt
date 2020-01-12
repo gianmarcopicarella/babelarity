@@ -1,0 +1,58 @@
+PROFIBUS (Process Field Bus) is a standard for fieldbus communication in automation technology and was first promoted in 1989 by BMBF (German department of education and research) and then used by Siemens. It should not be confused with the PROFINET standard for Industrial Ethernet. PROFIBUS is openly published as part of IEC 61158.
+The history of PROFIBUS goes back to a publicly promoted plan for an association which started in Germany in 1986 and for which 21 companies and institutes devised a master project plan called "fieldbus". The goal was to implement and spread the use of a bit-serial field bus based on the basic requirements of the field device interfaces. For this purpose, member companies agreed to support a common technical concept for production (i.e. discrete or factory automation) and process automation. First, the complex communication protocol Profibus FMS (Field bus Message Specification), which was tailored for demanding communication tasks, was specified. Subsequently in 1993, the specification for the simpler and thus considerably faster protocol PROFIBUS DP (Decentralised Peripherals) was completed. Profibus FMS is used for (non-deterministic) communication of data between Profibus Masters. Profibus DP is a protocol made for (deterministic) communication between Profibus masters and their remote I/O slaves.
+There are two variations of PROFIBUS in use today; the most commonly used PROFIBUS DP, and the lesser used, application specific, PROFIBUS PA:
+PROFIBUS DP (Decentralised Peripherals) is used to operate sensors and actuators via a centralised controller in production (factory) automation applications. The many standard diagnostic options, in particular, are focused on here.
+PROFIBUS PA (Process Automation) is used to monitor measuring equipment via a process control system in process automation applications. This variant is designed for use in explosion/hazardous areas (Ex-zone 0 and 1). The Physical Layer (i.e. the cable) conforms to IEC 61158-2, which allows power to be delivered over the bus to field instruments, while limiting current flows so that explosive conditions are not created, even if a malfunction occurs. The number of devices attached to a PA segment is limited by this feature. PA has a data transmission rate of 31.25 kbit/s. However, PA uses the same protocol as DP, and can be linked to a DP network using a coupler device. The much faster DP acts as a backbone network for transmitting process signals to the controller. This means that DP and PA can work tightly together, especially in hybrid applications where process and factory automation networks operate side by side.
+In excess of 30 million PROFIBUS nodes were installed by the end of 2009. 5 million of these are in the process industries.
+PROFIBUS Protocol (OSI reference model)
+To utilise these functions, various service levels of the DP protocol were defined:
+DP-V0 for cyclic exchange of data and diagnosis
+DP-V1 for acyclic data exchange and alarm handling
+DP-V2 for isochronous mode and data exchange broadcast (slave-to-slave communication)
+The security layer FDL (Field bus Data Link) works with a hybrid access method that combines token passing with a master-slave method. In a PROFIBUS DP network, the controllers or process control systems are the masters and the sensors and actuators are the slaves.
+Various telegram types are used. They can be differentiated by their start delimiter (SD):
+No data: SD1 = 0x10
+Variable length data:
+SD2 = 0x68
+Fixed length data:
+SD3 = 0xA2
+Token:
+SD4 = 0xDC
+Brief acknowledgement:
+SC = 0xE5
+SD
+Start Delimiter
+LE
+Length of protocol data unit, (incl. DA,SA,FC,DSAP,SSAP)
+LEr
+Repetition of length of protocol data unit, (Hamming distance = 4)
+FC
+Function Code
+DA
+Destination Address
+SA
+Source Address
+DSAP
+Destination Service Access Point
+SSAP
+Source Service Access Point
+Note: SAP55 is optional and may be disabled if the slave doesn't provide non-volatile storage memory for the station address.
+PDU: Protocol Data Unit (protocol data)
+FCS: Frame Checking Sequence
+ED: End Delimiter (= 0x16 !)
+The FCS is calculated by simply adding up the bytes within the specified length. An overflow is ignored here. Each byte is saved with an even parity and transferred asynchronously with a start and stop bit. There may not be a pause between a stop bit and the following start bit when the bytes of a telegram are transmitted. The master signals the start of a new telegram with a SYN pause of at least 33 bits (logical "1" = bus idle).
+Three different methods are specified for the bit-transmission layer:
+With electrical transmission pursuant to EIA-485, twisted pair cables with impedances of 150 ohms are used in a bus topology. Bit rates from 9.6 kbit/s to 12 Mbit/s can be used. The cable length between two repeaters is limited from 100 to 1200 m, depending on the bit rate used. This transmission method is primarily used with PROFIBUS DP.
+With optical transmission via fiber optics, star-, bus- and ring-topologies are used. The distance between the repeaters can be up to 15 km. The ring topology can also be executed redundantly.
+With MBP (Manchester Bus Powered) transmission technology, data and field bus power are fed through the same cable. The power can be reduced in such a way that use in explosion-hazardous environments is possible. The bus topology can be up to 1900 m long and permits branching to field devices (max. 60 m branches). The bit rate here is a fixed 31.25 kbit/s. This technology was specially established for use in process automation for PROFIBUS PA.
+For data transfer via sliding contacts for mobile devices or optical or radio data transmission in open spaces, products from various manufacturers can be obtained, however they do not conform to any standard.
+PROFIBUS DP uses two core screened cable with a violet sheath, and runs at speeds between 9.6kbit/s and 12Mbit/s. A particular speed can be chosen for a network to give enough time for communication with all the devices present in the network. If systems change slowly then lower communication speed is suitable, and if the systems change quickly then effective communication will happen through faster speed. The RS485 balanced transmission used in PROFIBUS DP only allows 126 devices to be connected at once; however, more devices can be connected or the network expanded with the use of hubs or repeaters.
+PROFIBUS PA is slower than PROFIBUS DP and runs at fixed speed of 31.2kbit/s via blue sheathed two core screened cable. The communication may be initiated to minimise the risk of explosion or for the systems that intrinsically need safe equipment. The message formats in PROFIBUS PA are identical to PROFIBUS DP.
+Note: PROFIBUS DP and PROFIBUS PA should not be confused with PROFINET.
+Profiles are pre-defined configurations of the functions and features available from PROFIBUS for use in specific devices or applications. They are specified by PI working groups and published by PI. Profiles are important for openness, interoperability and interchangeability, so that the end user can be sure that similar equipments from different vendors perform in a standardised way. User choice also encourages competition that drives vendors towards enhanced performance and lower costs.
+There are PROFIBUS profiles for Encoders, Laboratory instruments, Intelligent pumps, Robots and Numerically Controlled machines, for example. Profiles also exist for applications such as using HART and wireless with PROFIBUS, and process automation devices via PROFIBUS PA. Other profiles have been specified for Motion Control (PROFIdrive) and Functional Safety (PROFIsafe).
+PROFIBUS was defined in 1991/1993 in DIN 19245, was then included in EN 50170 in 1996 and, since 1999, established in IEC 61158/IEC 61784.
+The PROFIBUS Nutzerorganisation e.V. (PROFIBUS User Organisation, or PNO) was created in 1989. This group was composed mainly of manufacturers and users from Europe. In 1992, the first regional PROFIBUS organisation was founded (PROFIBUS Schweiz in Switzerland). In the following years, additional Regional PROFIBUS & PROFINET Associations (RPAs) were added.
+In 1995, all the RPAs joined together under the international umbrella association PROFIBUS & PROFINET International (PI). Today, PROFIBUS is represented by 25 RPAs around the world (including PNO) with over 1400 members, including most if not all major automation vendors and service suppliers, along with many end users.
+Fieldbus
+List of automation protocols

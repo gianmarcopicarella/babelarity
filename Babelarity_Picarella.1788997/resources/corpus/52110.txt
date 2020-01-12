@@ -1,0 +1,20 @@
+deb is the extension of the Debian software package format and the most often used name for such binary packages.
+Debian packages are standard Unix ar archives that include two tar archives optionally compressed with gzip (zlib), Bzip2, lzma, or xz (lzma2): one archive holds the control information and another contains the program data.
+The accepted program for handling these packages is dpkg, most commonly via other programs such as apt/aptitude, the Ubuntu Software Center, Synaptic or Gdebi.
+Debian packages can be converted into other packages and vice versa using alien, and created from source code using CheckInstall or Debian Package Maker.
+Some core Debian packages are available as udebs (“micro debs”), and are typically used only for bootstrapping a Debian installation. Although these files use the udeb filename extension, they adhere to the same structure specification as ordinary deb files. However, unlike their deb counterparts, udeb packages contain only essential functional files. In particular, documentation files are normally omitted. udeb packages are not installable on a standard Debian system, but are used in Debian-Installer.
+Since Debian 0.93, a deb file is implemented as an ar archive. Canonical contents of this archive are three files:
+debian-binary: deb format version number. This is "2.0" for current versions of Debian.
+control.tar, control.tar.gz or control.tar.xz: all package meta-information. It tells dpkg what to configure when the package is being installed.
+data.tar, data.tar.gz, data.tar.bz2, data.tar.lzma or data.tar.xz: the actual installable files.
+The debian-binary file must be the first entry in the archive, otherwise it will not be recognized as a Debian package.
+Debian packages are also used in distributions based on Debian, such as Ubuntu and others. They are also used in Cydia.
+List of archive formats
+AppStream
+Getdeb
+dpkg
+wpkg
+PackageKit
+RPM Package Manager
+CheckInstall
+jigdo

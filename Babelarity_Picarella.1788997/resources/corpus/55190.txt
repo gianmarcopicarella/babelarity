@@ -1,0 +1,214 @@
+The laws of science, scientific laws, or scientific principles are statements that describe or predict a range of phenomena behave as they appear to in nature. The term "law" has diverse usage in many cases: approximate, accurate, broad or narrow theories, in all natural scientific disciplines (physics, chemistry, biology, geology, astronomy etc.) Scientific laws summarize and explain a large collection of facts determined by experiment, and are tested based on their ability to predict the results of future experiments. They are developed either from facts or through mathematics, and are strongly supported by empirical evidence. It is generally understood that they reflect causal relationships fundamental to reality, and are discovered rather than invented.
+Laws reflect scientific knowledge that experiments have repeatedly verified (and never falsified). Their accuracy does not change when new theories are worked out, but rather the scope of application, since the equation (if any) representing the law does not change. As with other scientific knowledge, they do not have absolute certainty (as mathematical theorems or identities do), and it is always possible for a law to be overturned by future observations. A law can usually be formulated as one or several statements or equations, so that it can be used to predict the outcome of an experiment, given the circumstances of the processes taking place.
+Laws differ from hypotheses and postulates, which are proposed during the scientific process before and during validation by experiment and observation. These are not laws since they have not been verified to the same degree and may not be sufficiently general, although they may lead to the formulation of laws. A law is a more solidified and formal statement, distilled from repeated experiment. Laws are narrower in scope than scientific theories, which may contain one or several laws. Unlike hypotheses, theories and laws may be simply referred to as scientific fact. Although the nature of a scientific law is a question in philosophy and although scientific laws describe nature mathematically, scientific laws are practical conclusions reached by the scientific method; they are intended to be neither laden with ontological commitments nor statements of logical absolutes.
+According to the unity of science thesis, all scientific laws follow fundamentally from physics. Laws which occur in other sciences ultimately follow from physical laws. Often, from mathematically fundamental viewpoints, universal constants emerge from scientific laws.
+Most significant laws in science are conservation laws. These fundamental laws follow from homogeneity of space, time and phase, in other words symmetry.
+Noether's theorem: Any quantity which has a continuous differentiable symmetry in the action has an associated conservation law.
+Conservation of mass was the first law of this type to be understood, since most macroscopic physical processes involving masses, for example collisions of massive particles or fluid flow, provide the apparent belief that mass is conserved. Mass conservation was observed to be true for all chemical reactions. In general this is only approximative, because with the advent of relativity and experiments in nuclear and particle physics: mass can be transformed into energy and vice versa, so mass is not always conserved, but part of the more general conservation of mass-energy.
+Conservation of energy, momentum and angular momentum for isolated systems can be found to be symmetries in time, translation, and rotation.
+Conservation of charge was also realized since charge has never been observed to be created or destroyed, and only found to move from place to place.
+Conservation laws can be expressed using the general continuity equation (for a conserved quantity) can be written in differential form as:
+              ∂
+              ρ
+              ∂
+              t
+        =
+        −
+        ∇
+        ⋅
+          J
+    {\displaystyle {\frac {\partial \rho }{\partial t}}=-\nabla \cdot \mathbf {J} }
+where ρ is some quantity per unit volume, J is the flux of that quantity (change in quantity per unit time per unit area). Intuitively, the divergence (denoted ∇•) of a vector field is a measure of flux diverging radially outwards from a point, so the negative is the amount piling up at a point, hence the rate of change of density in a region of space must be the amount of flux leaving or collecting in some region (see main article for details). In the table below, the fluxes, flows for various physical quantities in transport, and their associated continuity equations, are collected for comparison.
+More general equations are the convection–diffusion equation and Boltzmann transport equation, which have their roots in the continuity equation.
+All of classical mechanics, including Newton's laws, Lagrange's equations, Hamilton's equations, etc., can be derived from this very simple principle:
+        δ
+            S
+        =
+        δ
+          ∫
+              t
+                1
+              t
+                2
+        L
+        (
+          q
+        ,
+              q
+              ˙
+        ,
+        t
+        )
+        d
+        t
+        =
+        0
+    {\displaystyle \delta {\mathcal {S}}=\delta \int _{t_{1}}^{t_{2}}L(\mathbf {q} ,\mathbf {\dot {q}} ,t)dt=0}
+where 
+            S
+    {\displaystyle {\mathcal {S}}}
+   is the action; the integral of the Lagrangian
+        L
+        (
+          q
+        ,
+              q
+              ˙
+        ,
+        t
+        )
+        =
+        T
+        (
+              q
+              ˙
+        ,
+        t
+        )
+        −
+        V
+        (
+          q
+        ,
+              q
+              ˙
+        ,
+        t
+        )
+    {\displaystyle L(\mathbf {q} ,\mathbf {\dot {q}} ,t)=T(\mathbf {\dot {q}} ,t)-V(\mathbf {q} ,\mathbf {\dot {q}} ,t)}
+of the physical system between two times t1 and t2. The kinetic energy of the system is T (a function of the rate of change of the configuration of the system), and potential energy is V (a function of the configuration and its rate of change). The configuration of a system which has N degrees of freedom is defined by generalized coordinates q = (q1, q2, ... qN).
+There are generalized momenta conjugate to these coordinates, p = (p1, p2, ..., pN), where:
+          p
+            i
+        =
+              ∂
+              L
+              ∂
+                      q
+                      ˙
+                  i
+    {\displaystyle p_{i}={\frac {\partial L}{\partial {\dot {q}}_{i}}}}
+The action and Lagrangian both contain the dynamics of the system for all times. The term "path" simply refers to a curve traced out by the system in terms of the generalized coordinates in the configuration space, i.e. the curve q(t), parameterized by time (see also parametric equation for this concept).
+The action is a functional rather than a function, since it depends on the Lagrangian, and the Lagrangian depends on the path q(t), so the action depends on the entire "shape" of the path for all times (in the time interval from t1 to t2). Between two instants of time, there are infinitely many paths, but one for which the action is stationary (to first order) is the true path. The stationary value for the entire continuum of Lagrangian values corresponding to some path, not just one value of the Lagrangian, is required (in other words it is not as simple as "differentiating a function and setting it to zero, then solving the equations to find the points of maxima and minima etc", rather this idea is applied to the entire "shape" of the function, see calculus of variations for more details on this procedure).
+Notice L is not the total energy E of the system due to the difference, rather than the sum:
+        E
+        =
+        T
+        +
+        V
+    {\displaystyle E=T+V}
+The following general approaches to classical mechanics are summarized below in the order of establishment. They are equivalent formulations, Newton's is very commonly used due to simplicity, but Hamilton's and Lagrange's equations are more general, and their range can extend into other branches of physics with suitable modifications.
+From the above, any equation of motion in classical mechanics can be derived.
+Corollaries in mechanics
+Euler's laws of motion
+Euler's equations (rigid body dynamics)
+Corollaries in fluid mechanics
+Equations describing fluid flow in various situations can be derived, using the above classical equations of motion and often conservation of mass, energy and momentum. Some elementary examples follow.
+Archimedes' principle
+Bernoulli's principle
+Poiseuille's law
+Stoke's law
+Navier–Stokes equations
+Faxén's law
+Special relativity
+Postulates of special relativity are not "laws" in themselves, but assumptions of their nature in terms of relative motion.
+Often two are stated as "the laws of physics are the same in all inertial frames" and "the speed of light is constant". However the second is redundant, since the speed of light is predicted by Maxwell's equations. Essentially there is only one.
+The said posulate leads to the Lorentz transformations – the transformation law between two frame of references moving relative to each other. For any 4-vector
+          A
+          ′
+        =
+        Λ
+        A
+    {\displaystyle A'=\Lambda A}
+this replaces the Galilean transformation law from classical mechanics. The Lorentz transformations reduce to the Galilean transformations for low velocities much less than the speed of light c.
+The magnitudes of 4-vectors are invariants - not "conserved", but the same for all inertial frames (i.e. every observer in an inertial frame will agree on the same value), in particular if A is the four-momentum, the magnitude can derive the famous invariant equation for mass-energy and momentum conservation (see invariant mass):
+        E
+        =
+        (
+        p
+        c
+          )
+            2
+        +
+        (
+        m
+          c
+            2
+        )
+    {\displaystyle E=(pc)^{2}+(mc^{2})}
+in which the (more famous) mass-energy equivalence E = mc2 is a special case.
+General relativity
+General relativity is governed by the Einstein field equations, which describe the curvature of space-time due to mass-energy equivalent to the gravitational field. Solving the equation for the geometry of space warped due to the mass distribution gives the metric tensor. Using the geodesic equation, the motion of masses falling along the geodesics can be calculated.
+Gravitomagnetism
+In a relatively flat spacetime due to weak gravitational fields, gravitational analogues of Maxwell's equations can be found; the GEM equations, to describe an analogous gravitomagnetic field. They are well established by the theory, and experimental tests form ongoing research.
+Kepler's Laws, though originally discovered from planetary observations (also due to Tycho Brahe), are true for any central forces.
+Newton's law of cooling
+Fourier's law
+Ideal gas law, combines a number of separately developed gas laws;
+Boyle's law
+Charles's law
+Gay-Lussac's law
+Avogadro's law, into one
+now improved by other equations of state
+Dalton's law (of partial pressures)
+Boltzmann equation
+Carnot's theorem
+Kopp's law
+Maxwell's equations give the time-evolution of the electric and magnetic fields due to electric charge and current distributions. Given the fields, the Lorentz force law is the equation of motion for charges in the fields.
+These equations can be modified to include magnetic monopoles, and are consistent with our observations of monopoles either existing or not existing; if they do not exist, the generalized equations reduce to the ones above, if they do, the equations become fully symmetric in electric and magnetic charges and currents. Indeed, there is a duality transformation where electric and magnetic charges can be "rotated into one another", and still satisfy Maxwell's equations.
+Pre-Maxwell laws
+These laws were found before the formulation of Maxwell's equations. They are not fundamental, since they can be derived from Maxwell's Equations. Coulomb's Law can be found from Gauss' Law (electrostatic form) and the Biot–Savart Law can be deduced from Ampere's Law (magnetostatic form). Lenz' Law and Faraday's Law can be incorporated into the Maxwell-Faraday equation. Nonetheless they are still very effective for simple calculations.
+Lenz's law
+Coulomb's law
+Biot–Savart law
+Other laws
+Ohm's law
+Kirchhoff's laws
+Joule's law
+Classically, optics is based on a variational principle: light travels from one point in space to another in the shortest time.
+Fermat's principle
+In geometric optics laws are based on approximations in Euclidean geometry (such as the paraxial approximation).
+Law of reflection
+Law of refraction, Snell's law
+In physical optics, laws are based on physical properties of materials.
+Brewster's angle
+Malus's law
+Beer–Lambert law
+In actuality, optical properties of matter are significantly more complex and require quantum mechanics.
+Quantum mechanics has its roots in postulates. This leads to results which are not usually called "laws", but hold the same status, in that all of quantum mechanics follows from them.
+One postulate that a particle (or a system of many particles) is described by a wavefunction, and this satisfies a quantum wave equation: namely the Schrödinger equation (which can be written as a non-relativistic wave equation, or a relativistic wave equation). Solving this wave equation predicts the time-evolution of the system's behaviour, analogous to solving Newton's laws in classical mechanics.
+Other postulates change the idea of physical observables; using quantum operators; some measurements can't be made at the same instant of time (Uncertainty principles), particles are fundamentally indistinguishable. Another postulate; the wavefunction collapse postulate, counters the usual idea of a measurement in science.
+Applying electromagnetism, thermodynamics, and quantum mechanics, to atoms and molecules, some laws of electromagnetic radiation and light are as follows.
+Stefan-Boltzmann law
+Planck's law of black body radiation
+Wien's displacement law
+Radioactive decay law
+Chemical laws are those laws of nature relevant to chemistry. Historically, observations lead to many empirical laws, though now it is known that chemistry has its foundations in quantum mechanics.
+Quantitative analysis
+The most fundamental concept in chemistry is the law of conservation of mass, which states that there is no detectable change in the quantity of matter during an ordinary chemical reaction. Modern physics shows that it is actually energy that is conserved, and that energy and mass are related; a concept which becomes important in nuclear chemistry. Conservation of energy leads to the important concepts of equilibrium, thermodynamics, and kinetics.
+Additional laws of chemistry elaborate on the law of conservation of mass. Joseph Proust's law of definite composition says that pure chemicals are composed of elements in a definite formulation; we now know that the structural arrangement of these elements is also important.
+Dalton's law of multiple proportions says that these chemicals will present themselves in proportions that are small whole numbers (i.e. 1:2 for Oxygen:Hydrogen ratio in water); although in many systems (notably biomacromolecules and minerals) the ratios tend to require large numbers, and are frequently represented as a fraction.
+More modern laws of chemistry define the relationship between energy and its transformations.
+Reaction kinetics and Equilibria
+In equilibrium, molecules exist in mixture defined by the transformations possible on the timescale of the equilibrium, and are in a ratio defined by the intrinsic energy of the molecules—the lower the intrinsic energy, the more abundant the molecule. Le Chatelier's principle states that the system opposes changes in conditions from equilibrium states, i.e. there is an opposition to change the state of an equilibrium reaction.
+Transforming one structure to another requires the input of energy to cross an energy barrier; this can come from the intrinsic energy of the molecules themselves, or from an external source which will generally accelerate transformations. The higher the energy barrier, the slower the transformation occurs.
+There is a hypothetical intermediate, or transition structure, that corresponds to the structure at the top of the energy barrier. The Hammond–Leffler postulate states that this structure looks most similar to the product or starting material which has intrinsic energy closest to that of the energy barrier. Stabilizing this hypothetical intermediate through chemical interaction is one way to achieve catalysis.
+All chemical processes are reversible (law of microscopic reversibility) although some processes have such an energy bias, they are essentially irreversible.
+The reaction rate has the mathematical parameter known as the rate constant. The Arrhenius equation gives the temperature and activation energy dependence of the rate constant, an empirical law.
+Thermochemistry
+Dulong–Petit law
+Gibbs–Helmholtz equation
+Hess's law
+Gas laws
+Raoult's law
+Henry's law
+Chemical transport
+Fick's laws of diffusion
+Graham's law
+Lamm equation
+Archie's law
+Buys-Ballot's law
+Birch's law
+Byerlee's law
+List of laws
+List of scientific laws named after people

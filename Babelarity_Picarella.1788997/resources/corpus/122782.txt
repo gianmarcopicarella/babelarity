@@ -1,0 +1,29 @@
+Ü, or ü, is a character that typically represents a close front rounded vowel [y]. It is classified as a separate letter in several extended Latin alphabets, or alternatively as the letter U with an umlaut/diaeresis in Azerbaijani, Catalan, Estonian, French, Galician, German, Hungarian, Occitan, Spanish, Turkish and Turkmen. Although not a part of their alphabet, it also appears in languages such as Swedish when retained in foreign names and words.
+A glyph, U with umlaut, appears in the German alphabet. It represents the umlauted form of u, which results in the same sound as the [y]. It can also represent [ʏ]. The letter is collated together with U, or as UE. In languages that have adopted German names or spellings, such as Swedish, the letter also occurs. It is however not a part of these languages' alphabets. In Swedish the letter is called tyskt y which means German y.
+In other languages that do not have the letter as part of the regular alphabet or in limited character sets such as ASCII, U-umlaut is frequently replaced with the two-letter combination "ue". Software for optical character recognition sometimes sees it falsely as ii.
+The letter Ü is present in the Hungarian, Karelian, Turkish, Uyghur Latin, Estonian, Azeri, Turkmen, Crimean Tatar, Kazakh Latin and Tatar Latin alphabets, where it represents a close front rounded vowel [y]. It is considered a distinct letter, collated separately, not a simple modification of U or Y, and is distinct from UE.
+This same letter appears in the Chinese Romanisations pinyin, Wade-Giles, and the German-based Lessing-Othmer, where it represents the same sound [y]: 玉 (jade) or 雨 (rain). Pinyin uses Ü only when ambiguity could arise with similarly romanised words containing a U; Wade-Giles and Lessing use Ü in all situations. As the letter "ü" is missing on most keyboards and the sound "v" is not present in standard Mandarin, the letter "v" is used on most computer Chinese input methods to enter the letter "ü". As a result, romanisation of Chinese with the letter "v" representing the ü sound is sometimes found.
+Several languages use diaeresis over the letter U to show that the letter is pronounced in its regular way, without dropping out, building diphthongs with neighbours, etc.
+In Spanish, it is used to distinguish between "gue"/"güe" and "gui"/"güi": nicaragüense (Nicaraguan), pingüino (penguin).
+Similarly in Catalan,
+"gue~güe" are [ɡe]~[ɡwe],
+"gui~güi" are [ɡi]~[ɡwi],
+"que~qüe" [ke]~[kwe],
+"qui~qüi" [ki]~[kwi],
+as in aigües, pingüins, qüestió, adeqüi. Also, ü is used to mark that vowel pairs that normally would form a diphthong must be pronounced as separate syllables, examples: Raül, diürn.
+In French, the diaeresis appears over the "u" only very rarely, in some uncommon words, capharnaüm [-aɔm] ('shambles'), Capharnaüm/Capernaüm [-aɔm] or Emmaüs [-ays]. After the 1990 spelling reforms, it is applied to a few more words, like aigüe (formerly aiguë), ambigüe (formerly ambiguë) and argüer [aʁɡɥe] (formerly without the diaeresis).
+In the Rheinische Dokumenta, a phonetic alphabet for many West Central German, the Low Rhenish, and few related vernacular languages, "ü" represents a range from [y] to [ʏ].
+Historically the unique letter Ü and U-diaeresis were written as a U with two dots above the letter. U-umlaut was written as a U with a small e written above: this minute e degenerated to two vertical bars in medieval handwritings. In most later handwritings these bars in turn nearly became dots.
+In modern typography there was insufficient space on typewriters and later computer keyboards to allow for both a U-with-dots (also representing Ü) and a U-with-bars. Since they looked near-identical the two glyphs were combined, which was also done in computer character encodings such as ISO 8859-1. As a result there was no way to differentiate between the three different characters. While Unicode theoretically provides a solution, this is almost never used.
+The methods available for entering 〈Ü〉 and 〈ü〉 from the keyboard depend on the operating system, the keyboard layout, and the application.
+Microsoft Windows – some keyboard layouts feature separate keys for 〈Ü〉
+Using the Swiss French keyboard, 〈ü〉 can be entered by typing ⇧ Shift+È
+Using the US International layout, 〈ü〉 can be entered by typing AltGR+Y
+Microsoft Windows: with the Number Lock on, hold down the Alt key while typing on the numeric keypad the decimal value of the code point from the active DOS/OEM code page without a leading zero, then release the Alt key; i.e. Alt+6+6+6 for 〈Ü〉 and Alt+1+2+9 for 〈ü〉
+Microsoft Windows: with the Number Lock on, hold down the Alt key while typing on the numeric keypad the decimal value of the code point from the active ANSI code page with a leading zero, then release the Alt key; i.e. Alt+0+2+2+0 for 〈Ü〉 and Alt+0+2+5+2 for 〈ü〉
+Microsoft Word for Windows: type Ctrl+: followed by ⇧ Shift+U for 〈Ü〉 or Ctrl+: then U for 〈ü〉
+OS X with an English keyboard layout (Australian, British, or US): type ⌥ Option+U followed by ⇧ Shift+U for 〈Ü〉 or ⌥ Option+U and then U for 〈ü〉 or by keeping the U key pressed and then typing 2
+In GTK-based GUI-Applications, Ctrl+⇧ Shift+ufollowed by the Hex-Code and ↵ Enter
+On systems with a Compose key, Compose, followed by " and U for 〈Ü〉, and Compose, ", u for 〈ü〉
+Umlaut (diacritic)
+Ӱ ӱ : Cyrillic letter U with diaeresis

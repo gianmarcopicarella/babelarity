@@ -1,0 +1,74 @@
+Selaginella is the sole genus of vascular plants in the family Selaginellaceae, the spikemosses or lesser clubmosses. This family is placed in the class Isoetopsida, distinguished from the sister group Lycopodiopsida (the clubmosses) by having scale-leaves bearing a ligule and by having spores of two types. They are sometimes included in an informal paraphyletic group called the "fern allies". S. moellendorffii is an important model organism. Its genome has been sequenced by the United States Department of Energy's Joint Genome Institute.
+Selaginella species are creeping or ascendant plants with simple, scale-like leaves (microphylls) on branching stems from which roots also arise. Unusually for the lycopods, which have microphylls with a single unbranched vein, the microphylls of Selaginella species contain a branching vascular trace. Each microphyll and sporophyll has a small scale-like outgrowth called a ligule at the base of the upper surface. The plants are heterosporous (megaspores and microspores). Under dry conditions, some species of Selaginella roll into brown balls (a phenomenon known as poikilohydry). In this state, they may be uprooted. Under moist conditions the brown balls become green and resume growth, because of which these are also known as resurrection plants (as in Selaginella bryopteris).
+Many scientists still place the Selaginellales in the class Lycopodiopsida (often misconstructed as "Lycopsida"). Some modern authors recognize three generic divisions of Selaginella: Selaginella, Bryodesma Sojak 1992, and Lycopodioides Boehm 1760. Lycopodioides would include the North American species S. apoda and S. eclipes, while Bryodesma would include S. rupestris (as Bryodesma rupestre). Stachygynandrum is also sometimes used to include the bulk of species.
+The first major attempt to define and subdivide the group was by Palisot de Beauvois in 1803-1805. He established the genus Selaginella as a monotypic genus, and placed the bulk of species in Stachygynandrum. Gymnogynum was another monotypic genus, but that name is superseded by his own earlier name of Didiclis. This turns out, today, to be a group of around 45-50 species also known as the Articulatae, since his Didiclis/Gymnogynum genus was based on Selaginella plumosa. He also described the genus Diplostachyum to include a group of species similar to Selaginella apoda. Spring inflated the genus Selaginella to hold all selaginelloid species four decades later.
+Phylogenetic studies by Korall & Kenrick determined that the Euselaginella group, comprising solely the type species, Selaginella selaginoides and a closely related Hawaiian species, Selaginella deflexa, is a basal and anciently diverging sister to all other Selaginella species. Beyond this, their study split the remainder of species into two broad groups, one including the Bryodesma species, the Articulatae, section Ericetorum Jermy and others, and the other centered on the broad Stachygynandrum group.
+In the Manual of Pteridology, the following classification was used by Walton & Alston:
+genus: Selaginella
+subgenus: Euselaginella
+group: selaginoides
+group: pygmaea
+group: uliginosa (Ericetorum)
+group: rupestris (Tetragonostachys or Bryodesma)
+subgenus: Stachygynandrum
+series: Decumbentes
+series: Ascendentes
+series: Sarmentosae
+series: Caulescentes
+series: Circinatae
+series: Articulatae
+subgenus: Homostachys
+subgenus: Heterostachys
+There are about 750 known species of Selaginella, showing a wide range of characters; the genus is overdue for a revision which might include subdivision into several genera. Better-known spikemosses include:
+Selaginella apoda - meadow spikemoss (eastern North America)
+Selaginella arizonica Maxon - (west Texas to Arizona and Sonora, Mexico)
+Selaginella asprella
+Selaginella bifida (Rodrigues Island)
+Selaginella biformis
+Selaginella bigelovii
+Selaginella braunii - Braun's spikemoss (China)
+Selaginella bryopteris - sanjeevani (India)
+Selaginella canaliculata - clubmoss (southeast Asia, Maluku Islands)
+Selaginella carinata
+Selaginella cinerascens
+Selaginella densa - lesser spikemoss (western North America)
+Selaginella denticulata
+Selaginella eclipes - hidden spikemoss (eastern North America)
+Selaginella elmeri
+Selaginella eremophila Maxon
+Selaginella erythropus*
+Selaginella galotteii
+Selaginella hansenii
+Selaginella kraussiana - Krauss's spikemoss (Africa, Azores)
+Selaginella lepidophylla - resurrection plant, dinosaur plant, and flower of stone (Chihuahuan Desert of North America)
+Selaginella martensii - variegated spikemoss
+Selaginella moellendorffii
+Selaginella oregana
+Selaginella plana - Asian spikemoss (Tropical Asia)
+Selaginella poulteri
+Selaginella pulcherrima
+Selaginella rupestris - rock spikemoss, festoon pine, and northern Selaginella (eastern North America)
+Selaginella rupincola Underw. - (west Texas to Arizona and Sonora, Mexico)
+Selaginella selaginoides - lesser clubmoss (north temperate Europe, Asia and North America)
+Selaginella sericea A.Braun - Ecuador
+Selaginella serpens
+Selaginella sibirica
+Selaginella stellata - starry spikemoss (Mexico, Central America)
+Selaginella substipitata
+Selaginella tamariscina
+Selaginella tortipila
+Selaginella uliginosa Australia
+Selaginella umbrosa
+Selaginella uncinata - peacock moss, peacock spikemoss, blue spikemoss
+Selaginella underwoodii Hieron. - (west Texas to Wyoming and west into Arizona)
+Selaginella wallacei
+Selaginella watsonii
+Selaginella willdenowii - Willdenow's spikemoss, peacock fern (southeast Asia)
+A few species of Selaginella are desert plants known as "resurrection plants", because they curl up in a tight, brown or reddish ball during dry times, and uncurl and turn green in the presence of moisture. Other species are tropical forest plants that appear at first glance to be ferns.
+A number of Selaginella species are popular plants for cultivation, mostly tropical species. Some of the species popularly cultivated and actively available commercially include:
+S. kraussiana: "golden clubmoss"
+S. moellendorfii: "gemmiferous spikemoss"
+S. erythropus: "red selaginella" or "ruby-red spikemoss"
+S. uncinata: "peacock moss"
+S. lepidophylla: "resurrection plant"
+S. braunii: "arborvitae fern"

@@ -1,0 +1,16 @@
+The Telescopio Nazionale Galileo (TNG, Italian for Galileo National Telescope) is a 3.58m Italian telescope, located at the Roque de los Muchachos Observatory on the island of La Palma in the Canary Islands. The TNG is operated by the "Fundación Galileo Galilei, Fundación Canaria", a non-profit institution, on behalf of the Italian National Institute of Astrophysics (INAF). The telescope saw first light in 1998 and is named after the Italian Renaissance astronomer Galileo Galilei.
+Observations at the TNG can be proposed through the Italian Time Allocation Committee (TAC) which assigns, based on the scientific merit of the proposals, 75% of the available time. The rest of the time is at disposal of the Spanish and international astronomical communities. The TNG is open to new proposals two times a year, typically in March–April and September–October.
+The TNG is an altazimuthal reflecting telescope with a Ritchey-Chretien optical configuration and a flat tertiary mirror feeding two opposite Nasmyth foci. It has a design derived from the New Technology Telescope (NTT), an ESO 4-meters class telescope located in La Silla (Chile). Therefore, the optical quality of the telescope is ensured by an active optics system performing real-time corrections of the optical components and compensating, in particular, for the deformations of the primary mirror, which is too thin to be completely rigid.
+The interface between the telescope fork and the instruments at both Nasmyth foci is provided by two rotator/adapters. Their main function is to compensate for the field rotation by a mechanical counter rotation. The best quality of the TNG is that all the available instruments are permanently mounted at the telescope. This guarantees flexibility during an observing session, since it is possible to change instrument during the night with a loss of time limited to a few minutes.
+The science based on observational data from the TNG is varied. Proposed observing programs go from the study of the planets and minor bodies of the solar system up to researches of cosmological interest (e.g. large-scale structure of the Universe and systems of galaxies).
+The TNG is equipped with four instruments:
+HARPS-N ("High Accuracy Radial velocity Planet Searcher"), echelle spectrograph dedicated to the discovery of extrasolar planets;
+DOLoRes ("Device Optimized for the Low Resolution"), CCD camera and low-resolution spectrograph for observations in the visible band;
+NICS ("Near Infrared Camera and Spectrometer"), camera and spectrograph for observations in the near-infrared;
+GIANO, high-resolution echelle spectrograph for observations in the near-infrared.
+Decommissioned instruments:
+SARG ("Spettrografo ad Alta Risoluzione del Galileo"), high-resolution spectrograph for observations in the visible band;
+OIG ("Optical Imager Galileo"), CCD camera dedicated to optical images at high resolution;
+Speckle camera, dedicated to observations in the visible band at the diffraction limit of the telescope;
+AdOpt@TNG, adaptive optics system working in the near-infrared.
+Reflecting telescope

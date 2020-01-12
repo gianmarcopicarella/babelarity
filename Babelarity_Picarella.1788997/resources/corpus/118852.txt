@@ -1,0 +1,33 @@
+The Venera 12 (Russian: Венера-12 meaning Venus 12) was an USSR unmanned space mission to explore the planet Venus. Venera 12 was launched on 14 September 1978 at 02:25:13 UTC.
+Separating from its flight platform on December 19, 1978, the lander entered the Venus atmosphere two days later at 11.2 km/s. During the descent, it employed aerodynamic braking followed by parachute braking and ending with atmospheric braking. It made a soft landing on the surface at 06:30 Moscow time (0330 UT) on 21 December after a descent time of approximately 1 hour. The touchdown speed was 7–8 m/s. Landing coordinates are 7°S 294°E. It transmitted data to the flight platform for 110 minutes after touchdown until the flight platform moved out of range while remaining in a heliocentric orbit. Identical instruments were carried on Venera 11 and 12.
+Venera 12 flight platform carried solar wind detectors, ionosphere electron instruments and two gamma ray burst detectors – the Soviet-built KONUS and the French-built SIGNE 2. The SIGNE 2 detectors were simultaneously flown on Venera 12 and Prognoz 7 to allow triangulation of gamma ray sources. Before and after Venus flyby, Venera 11 and Venera 12 yielded detailed time-profiles for 143 gamma-ray bursts, resulting in the first ever catalog of such events. The last gamma-ray burst reported by Venera 12 occurred on January 5, 1980. Venera 12 used its ultraviolet spectrometer to study Comet Bradfield on 13 February 1980, and reported spectrophotometric data until 19 March 1980.
+List of flight platform instruments and experiments:
+30–166 nm Extreme UV Spectrometer
+Compound Plasma Spectrometer
+KONUS Gamma-Ray Burst Detector
+SNEG Gamma-Ray Burst Detector
+Magnetometer
+4 Semiconductor Counters
+2 Gas-Discharge Counters
+4 Scintillation Counters
+Hemispherical Proton Telescope
+The active phase of the science mission for the flight platform ended in April, 1980.
+The Venera 12 descent craft carried instruments designed to study the detailed chemical composition of the atmosphere, the nature of the clouds, and the thermal balance of the atmosphere. Among the instruments on board was a gas chromatograph to measure the composition of the Venus atmosphere, instruments to study scattered solar radiation and soil composition, and a device named Groza which was designed to measure atmospheric electrical discharges. Results reported included evidence of lightning and thunder, a high Ar36/Ar40 ratio, and the discovery of carbon monoxide at low altitudes. Both Venera 11 and Venera 12 had landers with two cameras, each designed for color imaging. Each failed to return images when the lens covers did not separate after landing due to a design flaw.
+List of lander experiments and instruments:
+Backscatter Nephelometer
+Mass Spectrometer – MKh-6411
+Gas Chromatograph – Sigma
+X-Ray Fluorospectrometer
+360° Scanning Photometer – IOAV
+Spectrometer (430–1170 nm)
+Microphone/Anemometer
+Low-Frequency Radio Sensor
+4 Thermometers
+3 Barometers
+Accelerometer – Bizon
+Penetrometer – PrOP-V
+Soil Analysis Device
+2 Color Cameras
+Small solar batteries – MSB
+List of missions to Venus
+Timeline of artificial satellites and space probes

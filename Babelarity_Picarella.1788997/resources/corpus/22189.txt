@@ -1,0 +1,58 @@
+Digital Fortress is a techno-thriller novel written by American author Dan Brown and published in 1998 by St. Martin's Press. The book explores the theme of government surveillance of electronically stored information on the private lives of citizens, and the possible civil liberties and ethical implications using such technology.
+When the United States National Security Agency's code-breaking supercomputer TRANSLTR encounters a new and complex code—Digital Fortress—that it cannot break, Commander Trevor Strathmore calls in head cryptographer Susan Fletcher to crack it. She discovers that it was written by Ensei Tankado, a former NSA employee who became displeased with the NSA's intrusion into people's private lives. If the NSA doesn't reveal TRANSLTR to the public, Tankado intends to auction the code's algorithm on his website and have his partner, "North Dakota", release it for free if he dies, essentially holding the NSA hostage. The agency is determined to stop Digital Fortress from becoming a threat to national security.
+When Tankado does indeed die in Seville, of what appears to be a heart attack, Strathmore asks David Becker (Susan's fiancé) to travel to Seville and recover a ring that Tankado was wearing when he died. The ring is suspected to have the code that unlocks Digital Fortress. However, Becker soon discovers that Tankado gave the ring away just before his death. Each person he questions in the search for the ring is murdered by Hulohot, a mysterious deaf assassin.
+Meanwhile, telephone calls between North Dakota and Tokugen Numataka (chairman of the Japanese computer company Numatech) reveal that North Dakota hired Hulohot to kill Tankado in order to gain access to the passcode on his ring and speed up the release of the algorithm. At the NSA, Fletcher's investigation leads her to believe that Greg Hale, a fellow NSA employee, is North Dakota. Phil Chartrukian, an NSA technician who is unaware of the Digital Fortress code breaking failure and believes Digital Fortress to be a virus, conducts his own investigation into whether Strathmore allowed Digital Fortress to bypass Gauntlet (NSA's virus/worm filter). However, Chartrukian is murdered by being pushed off the catwalk in the sub-levels of TRANSLTR by an unknown assailant. Since Hale and Strathmore were both in the sub-levels, Fletcher assumes that Hale is the killer; however, Hale claims that he witnessed Strathmore killing Chartrukian. Chartrukian's fall also damages TRANSLTR's cooling system.
+Hale holds Fletcher and Strathmore hostage to prevent himself from being arrested for the murder. It is then that Hale explains that the e-mail he supposedly received from Tankado was actually in his inbox because he was snooping on Strathmore, who was also watching Tankado's e-mail account. After the encounter, Hale's name is cleared when Fletcher discovers through a tracer that North Dakota and Ensei Tankado are actually the same person, as "NDAKOTA" is an anagram of "Tankado". Strathmore exposes himself when he fatally shoots Hale, and arranges it to appear as a suicide. Susan later discovers through Strathmore's pager that he is the one who hired Hulohot. Becker later kills Hulohot in a violent confrontation.
+Chapters told from Strathmore's perspective reveal his motives. By hiring Hulohot to kill Tankado, having Becker recover his ring, and at the same time arranging for Hulohot to kill him, would facilitate a romantic relationship with Fletcher, regaining his lost honor, and enable him to unlock Digital Fortress. By making phone calls to Numataka posing as North Dakota, he thought he could partner with Numatech to make a Digital Fortress chip equipped with his own backdoor Trojan so that the NSA could spy on every computer equipped with these chips. However, Strathmore was unaware that Digital Fortress is actually a computer worm once unlocked, "eating away" at the NSA databank's security and allowing "any third-grader with a modem" to look at government secrets. When TRANSLTR overheats, Strathmore commits suicide by standing next to the machine as it explodes. The worm eventually gets into the database, but soon after David Becker figures out the password (3, the difference between the Hiroshima nuclear bomb, Isotope 235, and the Nagasaki nuclear bomb, isotope 238, a reference to the nuclear bombs that killed Tankado's mother and left him crippled), and is able to terminate the worm before hackers can get any significant data. The NSA allows Becker to return to the United States, reuniting him with Fletcher. In the epilogue, it is revealed that Numataka is Ensei Tankado's father. Numataka left Tankado the day he was born since Tankado was a deformed child.
+Susan Fletcher — The NSA's Head Cryptographer, and the story's lead character
+David Becker — A Professor of Modern Languages and the fiancé of Susan Fletcher
+Ensei Tankado — The author of Digital Fortress and a disgruntled former NSA employee.
+Commander Trevor Strathmore — NSA Deputy Director of Operations
+Phil Chartrukian — Sys-Sec Technician
+Greg Hale — NSA Cryptographer
+Leland Fontaine — Director of NSA
+"Hulohot" — an assassin hired by Strathmore to locate the Passkey
+Midge Milken — Fontaine's internal security analyst
+Chad Brinkerhoff — Fontaine's personal assistant
+"Jabba" — NSA's senior System Security Officer
+Soshi Kuta — Jabba's head technician and assistant
+Tokugen Numataka — Japanese Executive attempting to purchase Digital Fortress and Ensei Tankado's father.
+The book is loosely based around recent history of cryptography. In 1976 the Data Encryption Standard (DES) was approved with a 56-bit key rather than the 64-bit key originally proposed. It was widely believed that the National Security Agency had pushed through this reduction in security on the assumption that it could crack codes before anyone else.
+In fact the DES was first publicly broken in 1997, 96 days after the first of the DES Challenges. In 1998, the same year as Digital Fortress was published, the Electronic Frontier Foundation (featured in the book) built a piece of hardware costing less than $250,000 called the EFF DES cracker which broke it in 56 hours and by 1999 the record was under 24 hours.
+The brute force search used by TRANSLTR takes twice as long for each extra bit added to the key (if this is done sensibly), so the reaction of the industry has understandably been to lengthen the key. The Advanced Encryption Standard established in 2001 uses 128, 192 or 256 bits, which take at least 1021 times as long (i.e. 270) to solve by this technique.
+Unbreakable codes are not new to the industry. The one-time pad, invented in 1917 and used for the cold-war era Moscow-Washington hotline, was proved to be unconditionally secure by Claude Shannon in 1949 when properly implemented. However it is inconvenient to use in practice and is limited mainly to military and governments.
+The climax of the book is a solving a puzzle before a worm strips the protection from the US governments secret database. The puzzle is "Prime difference between elements responsible for Hiroshima and Nagasaki". The answer is given as U238-U235=3 but that is a bit of a stretch, it should be Pu239-U235=4. The fissile material in Fat Man was Pu239. Admittedly the Pu239 was made by transmuting U238 via neutron bombardment. There was also some U238 in Fat Man as a tamper but it's the fissile material that supplies the energy and undergoes a chain reaction. U235 and U238 can be referred to as isotopes of the same element (Uranium) but not as separate elements so the wording is poor.
+Imagine Entertainment announced in 2014 that it is set to produce a television series based on Digital Fortress, to be written by Josh Goldin and Rachel Abramowitz.
+Digital Fortress has been widely translated:
+French as Forteresse Digitale, ISBN 978-2-253-12707-9
+Arabic as الحصن الرقمي, ISBN 9953299129, 2005, Arab Scientific Publishers
+Dutch as Het Juvenalis Dilemma, ISBN 9789024553020
+Korean as 디지털 포트리스
+German as Diabolus, ISBN 978-3785721940
+Brazilian Portuguese as Fortaleza Digital, ISBN 972-25-1469-5
+Indonesian as Benteng Digital, ISBN 9791600910
+Turkish as Dijital Kale, ISBN 978-975-21-1165-3
+Danish as Tankados Kode
+Hebrew as שם הצופן: מבצר דיגיטלי
+Slovak as Digitálna pevnosť, ISBN 80-7145-9917
+Bulgarian as Цифрова крепост, ISBN 978-954-584-0173
+Hungarian as Digitális erőd, ISBN 978-963-689-3460
+Vietnamese as Pháo đài số, ISBN 978-604-50-2946-6
+Greek as ΨΗΦΙΑΚΟ ΟΧΥΡΟ , ISBN 960-14-1101-1
+Serbian as Дигитална тврђава
+Macedonian as Дигитална тврдина
+Russian as Цифровая крепость
+Spanish as La Fortaleza Digital, ISBN 8489367019
+Romanian as Fortăreața digitală
+Czech as Digitální pevnost
+Ukrainian as Цифрова фортеця
+Finnish as Murtamaton linnake
+Swedish as Gåtornas Palats
+Italian as Crypto, ISBN 978-880-45-7191-9
+Polish as Cyfrowa twierdza, ISBN 978-83-7885-752-5
+Albanian as Diabolus
+Chinese as 数字堡垒
+Cryptanalysis
+Eavesdropping
+Email privacy
+NSA call database

@@ -1,0 +1,5 @@
+Socket 563 is a microPGA CPU socket used exclusively for low-power (16 W and 25 W TDP) Athlon XP-M processors (Models 8 & 10).
+This socket can usually be found in laptops and requires a low-power mobile part in a special 563-pin µPGA package which is different from the Socket A (462 pin) package used for other Athlon processors.
+There are desktop computer motherboards equipped with Socket 563. PCChips is known to have marketed such a board, the M863G Ver3 (actually made by ECS), bundled with a socket 563 processor and a heatsink.
+List of AMD microprocessors
+Athlon XP-M

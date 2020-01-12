@@ -1,0 +1,5 @@
+Silver carbonate is the chemical compound with the formula Ag2CO3. Silver carbonate is yellow but typical samples are grayish due to the presence of elemental silver. It is poorly soluble in water, like most transition metal carbonates.
+Silver carbonate can be easily prepared by combining aqueous solutions of sodium carbonate with a deficiency of silver nitrate. Freshly prepared silver carbonate is colourless, but the solid quickly turns yellow. It reacts with ammonia to give the explosive silver fulminate. With hydrofluoric acid, it gives silver fluoride.
+The principal use of silver carbonate is for the production of silver powder for use in microelectronics. It is reduced with formaldehyde, producing silver free of alkali metals:
+Ag2CO3 + CH2O → 2 Ag + 2 CO2 + H2
+Silver carbonate is used as a reagent in organic synthesis such as the Koenigs-Knorr reaction. In the Fétizon oxidation, silver carbonate on celite acts as an oxidising agent to form lactones from diols. It is also employed to convert alkyl bromides into alcohols.

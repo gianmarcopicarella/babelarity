@@ -1,0 +1,71 @@
+Planescape is a campaign setting for the Dungeons & Dragons fantasy role-playing game, originally designed by Zeb Cook. The Planescape setting was published in 1994. As its name suggests, the setting crosses and comprises the numerous planes of existence, encompassing an entire cosmology called the Great Wheel, as originally developed in the Manual of the Planes by Jeff Grubb. This includes many of the other Dungeons & Dragons worlds, linking them via inter-dimensional magical portals.
+Planescape is an expansion of ideas presented in the Advanced Dungeons & Dragons Dungeon Master's Guide (First Edition) and the original Manual of the Planes. When Advanced Dungeons & Dragons 2nd edition was published, a decision was made not to include angelic or demonic creatures, and so the cosmology was largely ignored, being replaced (to a certain degree) by the Spelljammer setting. However, fan demand for a 2nd Edition Manual of the Planes was strong enough to justify its expansion into a full-fledged campaign setting, and so in 1994 Planescape was released.
+David "Zeb" Cook developed Planescape when he was assigned to create "a complete campaign world (not just a place to visit), survivable by low-level characters, as compatible with the old Manual of the Planes as possible, filled with a feeling of vastness without overwhelming the referee, distinct from all other TSR campaigns, free of the words "demon" and "devil" and explainable to Marketing in 25 words or less". For inspiration, Cook listened to Pere Ubu, Philip Glass and Alexander Nevsky, read The Dictionary of the Khazars, Einstein's Dreams, and The Narrow Road to the Deep North, and for fun at "Bad Movie Nights", watched such films as Naked Lunch and Wolf Devil Woman.
+Cook came up with the idea that everything would revolve around factions, and that those factions would be ideas taken to the extreme. He also felt that Sigil came about because it was natural, because the planes needed a crossroads, and that the campaign needs a center which could be both a place for adventure and a place to hide, where characters could get to and from it quickly. Cook decided to adapt the Manual of the Planes because the older material made survival on the planes too difficult or complex; he ignored anything that complicated gameplay, which left the "descriptions of twisted and strange creations".
+Cook conceived of the look for the setting from images such as "the gloomy prisons of Piranesi's Le Carceri etchings, and Brian Froud's illustrations and surrealist art", and Dana Knutson was assigned to draw whatever Cook wanted. "Before any of us knew it, [Knutson] drew the Lady of Pain. I'm very fond of the Lady of Pain; she really locks up the Planescape look. We all liked her so much that she became our logo.
+Planescape won the 1994 Origins Award and has received critical acclaim for its unique visual aspects, especially the work of artists Tony DiTerlizzi, Robh Ruppel, and Dana Knutson. Pyramid magazine reviewer Scott Haring said Planescape is "the finest game world ever produced for Advanced Dungeons & Dragons. Period." Haring described the writing as "wonderful," also saying that it "has got one of the most distinctive graphic looks I've seen in any game product" and that the "unusual drawings remind [him] a little of Dr. Seuss." Trenton Webb of British RPG magazine Arcane called Planescape "the premier AD&D world", noting its hallmark as "a bizarre juxtaposition of legend and nightmare". Game designer Rick Swan said that the original Manual of the Planes had in a sense been "reincarnated as the Planescape setting ... TSR's most ambitious campaign world to date. Abandoning the straightforward but dry approach of the Manual, the Planescape set reads less like a textbook and more like a story. Characters take precedence over game systems, high adventure supplants the physics lessons."
+The Dungeons & Dragons cosmology as reflected in Planescape consists of a number of planes, which can be divided into the following regions:
+The Inner Planes (representing planes of elemental nature, such as Water, Earth, Fire, and Air, as well as the Positive and Negative energy planes)
+The Ethereal Plane
+The Prime Material Plane
+The Astral Plane
+The Outer Planes (representing alignments and the primary domains of the various deities)
+The Concordant Domain of the Outlands, also known as the Concordant Opposition, is the Outer Plane where the souls of people of Neutral alignment are sent after death. It is popular as a meeting place for treaties between the powers. The Outlands are also home to the gate-towns. At the center of the Outlands is the Spire, atop which Sigil can be seen. The Outlands are the home plane of the neutral-minded rilmani. The Outlands are part of a series of rings that form the multiverse. Travel between the planes of the Outlands is accomplished via The Great Road.
+In first edition and second edition AD&D before Planescape, this plane is also at the center of the Outer Planes and known by its original name Concordant Opposition. The First Edition Manual Of Planes states that the center of the plane takes various forms at different times (a mountain, a huge tree, etc.) and godly powers are lost as one moves toward the center, as well as spells, beginning with the highest levels of spells at the farthest out and then gradually losing the lower ones step by step the further one moves inward. Within 100 miles (160 km) of the center, not even chemical reactions take place, and neither man nor deity can get closer than 100 miles (160 km). In Second Edition Outer Planes Monstrous Compendium, under the description of the Mediators of Nirvana (Mechanus), it states that this plane was originally intended for Neutral Powers (deities) and created by the Powers (deities) of creation, but each Neutral Deity asserted their individual influence causing it to become unbalanced, then were cast out by the powers of creation. It also states that three lights of balance exist at the center of this plane, one for each Mediator in Nirvana. (Mechanus) Before Planescape, there is also no mention whatsoever of Sigil being at the Center of this Plane.
+Gate-towns are settlements which are built around a permanent portal to a certain Outer Plane on the Great Wheel. Gate-towns are important strategically because they provide a (relatively) stable way to enter a desired Outer Plane. The gate-towns reflect the plane that they lead to, for example, Xaos (or aXos, soaX, etc.) is a town where everything changes from one moment to the next. Even the location of the portal to Limbo changes every day – not that there's any regularity to daybreak and nightfall in Xaos. The character of Xaos mirrors what the plane of Limbo is like.
+Sigil, the "City of Doors", is located atop the Spire in the Outlands. It has the shape of a torus, and the city itself is located on the inner surface of the ring. There is no sky, simply an all-pervasive light that waxes and wanes to create day and night. Sigil cannot be entered or exited save via portals. Although this makes it quite safe from any would-be invader, it also makes it a prison of sorts for those not possessing a portal key. Thus, many call Sigil "The Bird Cage" or "The Cage." Though Sigil is commonly held to be located "at the center of the planes" (where it is positioned atop the infinitely tall Spire), some argue that this is impossible since the planes are infinite in all dimensions, and therefore there can never truly be a center to any or all of them. Curiously, from the Outlands, one can see Sigil atop the supposedly infinite Spire.
+Within Sigil there are philosophically-deriven factions. Before the event known as the Faction War the groups controlled the political climate of Sigil. Each of these factions is based on one particular belief system; it should be noted that one faction's beliefs make them enemies while others make them allies. There are fifteen factions in total.
+In 1998, TSR published Faction War, an adventure that effectively closed the book on Planescape as it was then ending the product line. The culmination of several adventures leading up to that point, the Faction War brought an end to the factions' control of the city. Instigated by the power-hungry Duke Rowan Darkwood, factol of the Fated, in a bid to dethrone the Lady and rule Sigil himself, the war spread throughout the city before the Lady of Pain, with the aid of a group of adventurers (the players' characters), intervened.
+Sects are in many ways identical to the Factions, differing in that they are not based in Sigil. Sects are often highly specific to the particular planes they originate from, though historically many of the Factions were once Sects and some Sects were once Factions. A complete list of Sects is probably not possible due the infinite multitudes of the Planes.
+There are three principles (or heuristics) governing the world of Planescape: the Rule-of-Three, the Unity of Rings, and the Center of the Multiverse.
+The first principle, the Rule-of-Three, says simply that things tend to happen in threes. The principles which govern the planes are themselves subject to this rule.
+The second principle is the Unity of Rings, and notes that many things on the planes are circular, coming back around to where they started. This is true geographically as well as philosophically.
+The third principle (fitting neatly into the Rule-of-Three above) is the Center of All, and states that there is a center of everything — or, rather, wherever a person happens to be is the center of the multiverse... from their own perspective, at least. As most planes are functionally infinite, disproving anyone's centricity would be impossible. In Planescape, this is meant philosophically just as much as it is meant in terms of multiversal geography.
+The fact that anywhere could be the center of the multiverse in this view also implies that nowhere can be said to be the de facto true and only center. This sparks a lot of arguments and violence since some people believe the City of Doors to be the center due to its uncommon number of portals to other planes and position in the Outlands and some factions also claim different centers, each with their own significance.
+The campaign setting was followed by a series of expansions detailing the Planes of Chaos (by Wolfgang Baur and Lester Smith), the Planes of Law (by Colin McComb and Wolfgang Baur), and the Planes of Conflict (by Colin McComb and Dale Donovan).
+Other expansions and adventures followed, as listed below. Upon the release of 3rd Edition, Planescape, along with most other settings, were discontinued, although fan sites such as planewalker.com were allowed to continue to use the material and update it to the new edition. The 3rd Edition Manual of the Planes, the 3.5 Edition Dungeon Master's Guide, and the 2004 Planar Handbook also used the general layout of the planes and some of the details from the setting, including Sigil, but these are not part of the Planescape line. Similar material has surfaced in 4th Edition rulebooks, as the Dungeon Master Guide 2 includes a section on Sigil. The 5th Edition Player's Handbook also contains a section explaining the planes and Sigil.
+The series had a small number of novels. The novels were not generally well received.
+In 1995, Planescape won the Origins Award for Best Graphic Presentation of a Roleplaying Game, Adventure, or Supplement of 1994.
+2600 Planescape Campaign Setting
+2603 Planes of Chaos
+2607 Planes of Law
+2610 A Player’s Primer to the Outlands
+2615 Planes of Conflict
+2621 Hellbound: The Blood War
+Planescape Conspectus
+2609 In the Cage: A Guide to Sigil
+2611 The Factol’s Manifesto
+2620 The Planewalker's Handbook
+2623 On Hallowed Ground
+2624 Uncaged: Faces of Sigil
+2625 A Guide to the Astral Plane
+2630 Faces of Evil: The Fiends
+2633 A Guide to the Ethereal Plane
+2634 The Inner Planes
+2602 Planescape Monstrous Compendium Appendix
+2613 Planescape Monstrous Compendium Appendix II
+2635 Planescape Monstrous Compendium Appendix III
+The Planescape Sketchbook
+2601 The Eternal Boundary
+2604 Well of Worlds
+2605 In the Abyss
+2606 The Deva Spark
+2608 Fires of Dis
+2614 Harbinger House
+2619 Something Wild
+2626 Doors to the Unknown
+2628 The Great Modron March
+2629 Faction War
+2631 Dead Gods
+2632 Tales From the Infinite Staircase
+The setting was featured in the computer game Planescape: Torment, which portrayed the Planescape world (specifically Sigil, the Outlands, Baator, Carceri, and the Negative Energy Plane). It is now a cult game and was out of print until its DVD re-release as a budget title in 2009. It was released as a download on GOG.com in 2010 and soon became the "second most wanted game" on the site.
+TSR published a collectible card game based on the Planescape setting called Blood Wars. The game featured major locations, personalities, and features of the Planescape setting and also introduced new creatures that were added to the role playing game setting as part of subsequent products.
+Fire and Dust (1996), by James Alan Gardner, a rejected title that the author has since published as a free online manuscript. [1]
+Pages of Pain (December 1997), by Troy Denning, (ISBN 0-7869-0508-5)
+Torment (October 1999), by Ray Vallese and Valerie Vallese, (ISBN 0-7869-1527-7)
+Torment is based on an early script of Planescape: Torment.
+Blood Hostages (January 1996), by J. Robert King, (ISBN 0-7869-0473-9)
+Abyssal Warriors (June 1996), by J. Robert King, (ISBN 0-7869-0501-8)
+Planar Powers (August 1997), by J. Robert King, (ISBN 0-7869-0532-8)
+Major planar races
+Multiverse

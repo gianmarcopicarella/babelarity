@@ -1,0 +1,49 @@
+Mu (uppercase Μ, lowercase μ; Ancient Greek μῦ [mŷː], Modern Greek μι or μυ [mi]) is the 12th letter of the Greek alphabet. In the system of Greek numerals it has a value of 40. Mu was derived from the Egyptian hieroglyphic symbol for water (𓈖), which had been simplified by the Phoenicians and named after their word for water, to become(mem). Letters that arose from mu include the Roman M and the Cyrillic М.
+In Ancient Greek, the name of the letter was written μῦ and pronounced [mŷː].
+In Modern Greek, the letter is spelled μι and pronounced [mi]. In monotonic orthography, the ancient version is written with an acute accent instead of a circumflex: μύ.
+The lowercase letter mu (μ) is used as a special symbol in many academic fields. The uppercase mu is not used, because it is normally identical to Latin M.
+the SI prefix micro-, which represents one millionth, or 10−6
+the micron, an old unit that corresponds to the micrometre (which is now denoted "µm")
+This is not exhaustive, since any Greek letter may be used freely as a variable name.
+a measure in measure theory
+minimalization in computability theory and Recursion theory
+the mean in the normal distribution
+the integrating factor in ordinary differential equations
+the learning rate in artificial neural networks
+the Möbius function in number theory
+the population mean or expected value in probability and statistics
+In classical physics and engineering:
+the coefficient of friction (also used in aviation as braking coefficient)
+reduced mass in the two-body problem
+linear density, or mass per unit length, in strings and other one-dimensional objects
+permeability in electromagnetism
+the magnetic dipole moment of a current-carrying coil
+dynamic viscosity in fluid mechanics
+the amplification factor or voltage gain of a triode vacuum tube
+the electrical mobility of a charged particle
+a.k.a. rotor advance ratio; the ratio of aircraft airspeed to rotor tip speed in rotorcraft
+In particle physics:
+the elementary particles called the muon and antimuon
+In thermodynamics:
+the chemical potential of a system or component of a system
+In evolutionary algorithms:
+μ, population size from which in each generation λ offspring will generate (the terms μ and λ originate from evolution strategy notation)
+In chemistry:
+the prefix given in IUPAC nomenclature for a bridging ligand
+In pharmacology:
+an important opiate receptor
+In orbital mechanics:
+Standard gravitational parameter of a celestial body, the product of the gravitational constant G and the mass M
+planetary discriminant, represents an experimental measure of the actual degree of cleanliness of the orbital zone, a criterion for defining a planet. The value of µ is calculated by dividing the mass of the candidate body by the total mass of the other objects that share its orbital zone.
+Mu major chord
+Electronic musician Mike Paradinas runs the label Planet Mu which utilizes the letter as its logo, and releases music under the pseudonym µ-Ziq, pronounced "music"
+Used in the name of the popular school idol group μ's, pronounced "muse", consisting of nine singing teen girls in the anime Love Live! School Idol Project
+Official fandom name of Kpop group f(x), appearing as either MeU or 'µ'
+The Olympus Corporation manufactures a series of digital cameras called Olympus µ[mju:] (known as Olympus Stylus in North America)
+In phonology, it often stands for mora. In syntax, μP (mu phrase) can be used as the name for a functional projection.
+Greek Me / Coptic Mu
+Mathematical Me
+These characters are used only as mathematical symbols. Stylized Greek text should be encoded using the normal Greek letters, with markup and formatting to indicate text style.
+Greek letters used in mathematics, science, and engineering
+Л, л - El (Cyrillic)
+Fraser alphabet#Consonants

@@ -1,0 +1,95 @@
+The Nanchang Q-5 (Chinese: 强-5; pinyin: Qiang-5; NATO reporting name: Fantan), also known as the A-5 in its export versions, is a Chinese-built jet ground-attack aircraft based on the Soviet MiG-19. Its main role is close air support.
+The PRC was an enthusiastic user of the MiG-19, which it manufactured locally as the Shenyang J-6 from 1958. In August 1958 the People's Liberation Army requested development of a jet attack aircraft for the air support role.
+Lu Xiaopeng was appointed chief designer of this project. Lu also designed the J-12 fighter jet. Although based on the MiG-19, the new design, designated Qiangjiji-5 (fifth attack aircraft design), had a longer fuselage, area ruled to reduce transonic drag and accommodate a 4 m (13-ft) long internal weapons bay. The air intakes were moved to the fuselage sides to make space in the nose for a planned target radar (which was never actually fitted). New wings with greater area and reduced sweep were incorporated. The Q-5 shares the J-6's Liming Wopen WP-6 A (Tumansky RD-9) turbojet engines. The redesign cost some high-altitude speed, but the Q-5 is as fast as the MiG-19/J-6 at low level, thanks largely to the area-ruled fuselage.
+Fixed armament of the Q-5 was reduced to two Type 23-1 23 mm cannon with 100 rounds per gun, mounted in the wing roots. Two pylons under each wing and two pairs of tandem pylons under the engines were provided in addition to the weapons bay. A total of 1,000 kg (2,205 lb) of ordnance could be carried internally, with an additional 1,000 kg externally. On many aircraft the weapons bay is now used primarily for an auxiliary fuel tank.
+The first prototype was completed in 1960, but the political climate in China resulted in the project being canceled in 1961. A small team kept the program alive until it was re-opened in 1963, when production was shifted to Nanchang. The first flight finally occurred on 4 June 1965. Series production began in 1969, with squadron delivery starting in 1970.
+About 1,000 aircraft were produced, 600 of them being the updated Q-5A. A small number, perhaps a few dozen, Q-5As were modified to carry nuclear weapons; these are believed to retain their internal weapons bay. A long-range Q-5I, introduced in 1983, added a fuel tank instead of the internal weapons bay, compensating for that with the provision of two additional underwing pylons. Some of these aircraft serve with the PLA Navy, and have apparently been equipped with radar to guide anti-ship missiles. Subsequent minor upgrades include the Q-5IA, with a new gun/bomb sighting system and avionics, and the Q-5II, with radar warning receiver (RWR).
+In the 1980s, the aircraft was exported to nations such as Pakistan, Bangladesh, Myanmar, and is often known as the A-5 in those nations.
+Plans for an upgraded Q-5/A-5 with Western equipment and new navigation and attack (nav/attack) systems were largely aborted following the Tiananmen Square protests of 1989, but the aircraft continues in service. It is a capable light attack aircraft, although its limited navigation and weapons-delivery systems are inferior to more modern aircraft.
+In more recent years, the PLAAF has begun to field newer models of the Q-5, that incorporate some of the technology developed during the canceled Q-5M and Q-5K projects. The Q-5 introduces a nose-mounted laser rangefinder, and a laser designator is also likely to be fitted since the aircraft is said to be able to deliver laser-guided bombs. The Q-5A variant is believed to be capable of delivering nuclear munitions. The Q-5D is an upgrade with new avionics, including a HUD and a new navigation system. The Q-5E and Q-5F models are reportedly being worked on, though little is known about them at this time. One of them could potentially be the new two-seater that has been seen in a few photographs, although the two-seater could bear the designation Q-5J.
+During the 1996-2001 phase of the Afghan civil war Pakistan Air Force A-5s (of the now disbanded 16th and 26th Squadrons) are reported to have flown strike missions against Northern Alliance positions as part of the Pakistani support to the Taliban.
+Sudanese Air Force employed its A-5 attack jets during the War in Darfur.
+In March 2015, some Myanmar Air Force A-5C jets flying sorties against the Myanmar National Democratic Alliance Army, accidentally dropped bombs on a Chinese village in Gengma County, Yunnan inside the Chinese border, killing 4 villagers, with the PLA responding by deploying HQ-12 surface-to-air missiles and fighter jets.
+Q-5: Original production version with a total of 6 pylons, one under each wing and four under the fuselage, and was superseded by the Q-5A.
+Q-5 nuclear bomber: Q-5A modified to carry nuclear bombs, only a very limited number were built. One of such aircraft is currently on display at the aviation museum in Beijing.
+Q-5I: Q-5A with the internal weapon bay replaced by internal fuel tank, increasing fuel capacity over 70%. Like all previous Q-5 variants, navigation was still a bottle neck with the result being that aircraft must fly longer times in more complex search patterns in long range strikes. However, this problem is somewhat reduced by the increased fuel capacity.
+Q-5IA: The original weapon aiming sight of the Q-5 was developed by No. 5311 Factory, and named as SH-1, short for She – Hong (Shoot-Bomb-1 / 射轰-1), which only had limited capability because attacks could only be carried out at a fixed angle. No. 5311 Factory developed an improved version SH-1I (射轰-1甲) to allow the attack to be carried out at different angles. To solve the navigation problem, the Type 205 pulse doppler navigation radar was developed and installed. An indigenous Type 79Y4 laser rangefinder developed by No. 613 Institute was fitted.
+Q-5II: Q-5IA with added radar warning receivers, and a new HK-15 laser rangefinder developed by No. 613 Institute replaced the older Type 79Y4. A new weapon aiming sight SH-1II (射轰-1乙) replaced the older SH-1I (射轰-1甲), and No. 5311 Factory managed to successfully integrated this sight with the new laser rangefinder and Type 205 navigation radar.
+Q-5III: Domestic Chinese upgrade of Q-5II with indigenous inertial navigation system and JQ-1 Head-Up Display.
+Q-5IV: 28.8% change in comparison to the closest earlier version. Q-5III upgrade first appeared in the early 1990s. Two central computers like that of Q-5M and new RW-30 radar warning receivers were added. ALR-1 laser rangefinder and QHK-10 Head-Up Display developed by No. 613 Institute were added. Also known as Q-5D.
+Q-5A: Q-5 with 8 pylons, with 1 extra pylon under each wing for AA-2 Atoll air-to-air missiles.
+Hongdu Q-5D – An attack variant, developed at Hongdu, with ALR-1 Laser rangefinder/Marked Target seeker and possibly LLLTV/FLIR vision systems for a day/night capability. Other improvements include Head Up Display, GPS Rx, INS, TACAN, and chaff/flare dispensers. Weapons capability include the Chinese LS-500J laser-guided glide bombs with a 12 km range.
+Nanchang Q-5D – (Dian – electronic intelligence) An ELINT platform confusingly given the same designation as the Q-5D attack aircraft.
+Q-5E: Q-5IV development, with ability to drop laser-guided bombs such as LS-500J LGB via a laser targeting pod, and GPS was added.
+Q-5F: Further development of Q-5E with semi-buried electro-optical targeting pod that not only included laser designator/ranger, but also infrared imaging and television cameras. The separated inertial navigation system and the GPS in the Q-5IV/E was replaced by the DG-1 integrated inertial navigation/GPS system.
+Q-5J: Tandem two seater of Q-5. The manufacturer claimed that it can be used as forward air control like the OA-10A, and providing targeting information via data links. The rear seat is 286 millimetres higher than the front seat, enables the back-seat pilot to have a 5 degree field of vision, and the canopy opens to the right. When used as a trainer, the rear cockpit control can override that of the front cockpit.
+Q-5K Kong Yun: (Kong Yun – Cloud) Joint Chinese-French project to upgrade Q-5II with French avionics, such as VE110 head-Up Display, ULIS91 inertial navigation system, TMV630 laser rangefinder and other electro-optics. Like the Q-5M/A-5M, the project was also cancelled after the Tiananmen Square protest of 1989.
+Q-5M: Export designation A-5M. Joint Chinese-Italian project to upgrade the Q-5II with Italian avionics from the AMX International AMX attack fighter. Avionics would include a ranging radar, head-up display, inertial navigation system, air data computer and dual central computers all integrated via dual-redundant MIL-STD-1553B databus. Completion and first deliveries were to take place in late 1988 and early 1989 respectively. Although the project was eventually cancelled after the Tiananmen Square protest of 1989, the Chinese version of the radar was eventually used on J-7GB.
+A-5: Export designation for version of the Q-5 to North Korea that appeared in Chinese media. The designation contains more than one variant since the Chinese military aid to North Korea is protracted, but it's not clear whether this export version is derived from Q-5, Q-5A, Q-5I or Q-5IA.
+A-5B: Export version of Q-5II with capability to launch western missiles such as the French R550 Magic Air-to-air missiles. Reported sold to Myanmar.
+A-5C: Export version of Q-5III with more western equipment upon customers' requests, such as flight instrumentation made by Rockwell Collins, and western ejection seat made by Martin-Baker. Added the capability to fire western missiles such as the R550 Magic or AIM-9 Sidewinder. Exported to Bangladesh and Pakistan. Bangladesh Air Force's A-5Cs have been upgraded in 2008 to fire LS-6 and LT-2 ground attack munitions giving them advanced strike capability.
+A-5D: Export version of Q-5IV, with more western equipment upon customers' requests, such as flight instrumentation made by Rockwell Collins, and western ejection seat made by Martin-Baker. Added the capability to fire western missiles such as the R550 Magic or AIM-9 Sidewinder. No sales reported. Program terminated because all resources on this program was diverted to support the Q-5E.
+A-5K: Export version of Q-5K with more western equipment such as flight instrumentation made by Rockwell Collins, and western ejection seat made by Martin-Baker. Added the capability to fire western missiles such as the R550 Magic or AIM-9 Sidewinder. Cancelled with Q-5K after the Tiananmen Square protest of 1989.
+A-5M: Export version of Q-5M with more western equipment such as flight instrumentation made by Rockwell Collins, and western ejection seat made by Martin-Baker. Added the capability to fire western missiles such as the R550 Magic or AIM-9 Sidewinder. Cancelled with Q-5M after the Tiananmen Square protest of 1989. Evaluated by the Pakistan Air Force in 1990.
+ People's Republic of China
+People's Liberation Army Air Force – 130 Q-5s remain in service as of December 2013.
+People's Liberation Army Navy – 30 Q-5s remain in service as of December 2013.
+ Myanmar
+Myanmar Air Force – 2 A-5C/Bs remain in service as of December 2013.
+ North Korea
+Korean People's Air Force
+ Sudan
+Sudanese Air Force – 20 A-5s remain in service as of December 2013 
+ Bangladesh
+Bangladesh Air Force
+ Pakistan
+Pakistan Air Force
+No. 7 Squadron Bandits – operated A-5C from 1983 until circa 1991.
+No. 26 Squadron Black Spiders – operated A-5C from 1984 until February 2010.
+No. 16 Squadron Black Panthers – operated A-5C from 1983 until April 2011.
+Data from Wilson
+General characteristics
+Crew: 1
+Length: 15.65 m (51 ft 4 in)
+Wingspan: 9.68 m (31 ft 9 in)
+Height: 4.33 m (14 ft 3 in)
+Wing area: 27.95 m² (300.9 ft²)
+Empty weight: 6,375 kg (14,050 lb)
+Loaded weight: 9,486 kg (20,910 lb)
+Max. takeoff weight: 11,830 kg (26,080 lb)
+Powerplant: 2 × Liming Wopen-6A turbojets
+Dry thrust: 29.42 kN (6,614 lbf) each
+Thrust with afterburner: 36.78 kN (8,267 lbf) each
+Performance
+Maximum speed: Mach 1.12  (653 knots, 752 mph, 1210.23 km/h)
+Range: 2,000 km (1,100 NM, 1,200 mi (1,900 km))
+Combat radius: **On lo-lo-lo mission: 400 km (250 mi) with maximum payload
+On hi-lo-hi mission: 600 km (370 mi) (320 NM, 370 mi (600 km))
+Service ceiling: 16,500 m (54,133.9 ft)
+Rate of climb: 103 m/s (20,300 ft/min)
+Wing loading: 423.3 kg/m² (86.7 lb/ft²)
+Thrust/weight: 0.63
+Armament
+Guns: 2× Norinco Type 23-2K 23 mm (0.906 in) cannon, 100 rounds per gun
+Hardpoints: 10 (4× under-fuselage, 6× under-wing) with a capacity of 2,000 kg (4,400 lb)
+Rockets: 57 mm, 90 mm, 130 mm unguided rocket pods
+Missiles: PL-2, PL-5, PL-7 air-to-air missiles
+Bombs:
+50 kg (110 lb), 150 kg (330 lb), 250 kg (550 lb), 500 kg (1,100 lb) unguided bombs
+BL755 cluster bombs
+Matra Durandal anti-runway bombs
+Others:
+Fuel tanks: 105 U.S. gal (400 L), 200 U.S. gal (760 L), 300 U.S. gal (1,100 L)
+Ground-attack aircraft
+Related development
+Mikoyan-Gurevich MiG-19
+Shenyang J-6
+Aircraft of comparable role, configuration and era
+Soko J-22 Orao
+Sukhoi Su-7
+SEPECAT Jaguar
+F-105 Thunderchief
+A-4 Skyhawk
+F-11 Tiger
+Related lists
+List of military aircraft of the PRC

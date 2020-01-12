@@ -1,0 +1,20 @@
+Dingir (usually transliterated diĝir, pronounced /diŋir/) is a Sumerian word for "god." Its cuneiform sign is most commonly employed as the determinative for "deity" although it has related meanings as well. As a determinative, it is not pronounced, and is conventionally transliterated as a superscript "D" as in e.g. DInanna. Generically, dingir can be translated as "god" or "goddess".
+The sign in Sumerian cuneiform (DIĜIR,  𒀭) by itself represents the Sumerian word an ("sky" or "heaven"), the ideogram for An or the word diĝir ("god"), the supreme deity of the Sumerian pantheon. In Assyrian cuneiform, it (AN, DIĜIR, ) could be either an ideogram for "deity" (ilum) or a syllabogram for an, or ìl-. In Hittite orthography, the syllabic value of the sign was again an.
+The concept of "divinity" in Sumerian is closely associated with the heavens, as is evident from the fact that the cuneiform sign doubles as the ideogram for "sky", and that its original shape is the picture of a star. The original association of "divinity" is thus with "bright" or "shining" hierophanies in the sky. A possible loan relation of Sumerian dingir with Turkic Tengri "sky, sky god" has been suggested.
+The Sumerian sign DIĜIR  originated as a star-shaped ideogram indicating a god in general, or the Sumerian god An, the supreme father of the gods. Dingir also meant sky or heaven in contrast with ki which meant earth. Its emesal pronunciation was dimer.
+The plural of diĝir can be diĝir-diĝir, among others. 
+ The Assyrian sign DIĜIR could mean:
+the Akkadian nominal stem il- meaning "god" or "goddess", derived acrophonically from the Semitic ʾil-
+the god Anum
+the Akkadian word šamû meaning "sky"
+the syllables an and il
+a preposition meaning "at" or "to"
+a determinative indicating that the following word is the name of a god
+According to one interpretation, DINGIR could also refer to a priest or priestess although there are other Akkadian words ēnu and ēntu that are also translated priest and priestess. For example, nin-dingir (lady divine) meant a priestess who received foodstuffs at the temple of Enki in the city of Eridu.
+The cuneiform sign is encoded in Unicode (as of version 5.0) under its name AN at U+1202D 𒀭.
+Religions of the Ancient Near East
+Mesopotamian mythology
+Sumerian language
+Akkadian language
+Hittite language
+Eblaite language

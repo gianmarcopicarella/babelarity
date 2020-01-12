@@ -1,0 +1,42 @@
+The mortise and tenon joint has been used for thousands of years by woodworkers around the world to join pieces of wood, mainly when the adjoining pieces connect at an angle of 90°. In its basic form it is both simple and strong. Although there are many joint variations, the basic mortise and tenon comprises two components: the mortise hole and the tenon tongue. The tenon, formed on the end of a member generally referred to as a rail, is inserted into a square or rectangular hole cut into the corresponding member. The tenon is cut to fit the mortise hole exactly and usually has shoulders that seat when the joint fully enters the mortise hole. The joint may be glued, pinned, or wedged to lock it in place.
+This joint is also used with other materials. For example, it is a traditional method for stonemasons and blacksmiths.
+A mortise is a cavity cut into a timber to receive a tenon. There are several kinds of mortise:
+Open mortise
+a mortise that has only three sides. (See bridle joint).
+Stub mortise
+a shallow mortise, the depth of which depends on the size of the timber; also a mortise that does not go through the workpiece (as opposed to a "through mortise").
+Through mortise
+a mortise that passes entirely through a piece.
+Wedged half-dovetail
+a mortise in which the back is wider, or taller, than the front, or opening. The space for the wedge initially allows room for the tenon to be inserted; the presence of the wedge, after the tenon has been engaged, prevents its withdrawal. It is sometimes called a "suicide" joint, since it is a "one-way trip".
+Through-wedged half-dovetail
+a wedged half-dovetail mortise that passes entirely through the piece.
+A tenon is a projection on the end of a timber for insertion into a mortise. Usually the tenon is taller than it is wide. There are several kinds of tenon:
+Stub tenon
+short, the depth of which depends on the size of the timber; also a tenon that is shorter than the width of the mortised piece so the tenon does not show (as opposed to a "through tenon").
+Through tenon
+a tenon that passes entirely through the piece of wood it is inserted into, being clearly visible on the back side.
+Loose tenon
+a tenon that is a separate part of the joint, as opposed to a fixed tenon that is an integral part of one of the pieces to be joined.
+Biscuit tenon
+a thin oval piece of wood, shaped like a biscuit
+Pegged (or pinned) tenon
+the joint is strengthened by driving a peg or dowel pin through one or more holes drilled through mortise side wall and tenon; this is common in timber framing joints
+Tusk tenon
+a kind of mortise and tenon joint that uses a wedge-shaped key to hold the joint together.
+Teasel (or teazle) tenon
+a term used for the tenon on top of a jowled or gunstock post, which is typically received by the mortise in the underside of a tie beam. A common element of the English tying joint.
+Top tenon
+the tenon that occurs on top of a post.
+Hammer-headed tenon
+a method of forming a tenon joint when the shoulders cannot be tightened with a clamp.
+Half shoulder tenon
+An asymmetric tenon with a shoulder on one side only. A common use is in framed, ledged and braced doors.
+Generally the size of the mortise and tenon is related to the thickness of the timbers. It is considered good practice to proportion the tenon as one third the thickness of the rail, or as close to this as is practical. The haunch, the cut-away part of a sash corner joint that prevents the tenon coming loose, is one third the length of the tenon and one sixth of the width of the tenon in its depth. The remaining two-thirds of the rail, the tenon shoulders, help to counteract lateral forces that might tweak the tenon from the mortise, contributing to its strength. These also serve to hide imperfections in the opening of the mortise.
+Various mortises
+This is an ancient joint dating back 7,000 years. The first examples, tusked joints, were found in a well near Leipzig - the world's oldest intact wooden architecture. It has also been found joining the wooden planks of the "Khufu ship", a 43.6 m long vessel sealed into a pit in the Giza pyramid complex of the Fourth Dynasty around 2500 BC. The oldest known use dates from the Early Neolithic Linear Pottery culture, where it was used in the constructing of the wooden lining of water wells.
+It has also been found in ancient furniture from archaeological sites in the Middle East, Europe and Asia. Many instances are found, for example, in ruins of houses in the Silk Road kingdom of Cadota, dating from the first to the fourth century BC. In traditional Chinese architecture, wood components, such as beams, brackets, roof frames and struts, were made to interlock with perfect fit, without using fasteners or glues, enabling the wood to expand and contract according to humidity. Archaeological evidence from Chinese sites shows that, by the end of the Neolithic, mortise-and-tenon joinery was employed in Chinese construction.
+The thirty sarsen stones of Stonehenge were dressed and fashioned with mortise-and-tenon joints before they were erected between 2600 and 2400 BC.
+Box joint
+Dado
+Dovetail joint

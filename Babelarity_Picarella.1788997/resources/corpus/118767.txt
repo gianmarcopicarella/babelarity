@@ -1,0 +1,4 @@
+A sunshine recorder is a device that records the amount of sunshine at a given location. The results provide information about the weather and climate as well as the temperature of a geographical area. This information is useful in meteorology, science, agriculture, tourism, and other fields. It has also been called a heliograph.
+There are two basic types of sunshine recorders. One type uses the sun itself as a time-scale for the sunshine readings. The other type uses some form of clock for the time scale.
+Older recorders required a human observer to interpret the results; recorded results might differ among observers. Modern sunshine recorders use electronics and computers for precise data that do not depend on a human interpreter. Newer recorders can also measure the global and diffuse radiation.
+Global dimming

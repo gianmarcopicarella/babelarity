@@ -1,0 +1,53 @@
+The Gulfstream G650 is a twin-engine business jet airplane produced by Gulfstream Aerospace. The model is designated Gulfstream GVI in its type certificate, and may be configured to carry between 11 and 18 passengers. Gulfstream began the G650 program in 2005 and revealed it to the public in 2008. The G650 is the company's largest and fastest business jet with a top speed of Mach 0.925.
+The aircraft project was named the 2014 winner of the Collier Trophy, for having "strengthened business aviation through significant technological advancements in aircraft performance, cabin comfort, and safety." The G650ER is an extended-range version of the G650.
+The Gulfstream G650 was formally launched as an internal company project in May 2005, and publicly unveiled on March 13, 2008. At the public announcement occasion, company executives stated the new model would become Gulfstream's largest, fastest and most expensive business jet on entry to the market.
+The G650 has a cruise speed of Mach 0.85 to 0.90, with maximum speed of Mach 0.925 and a range of up to 7,000 nmi (13,000 km). It can be equipped with a full kitchen and bar and may be equipped with a variety of entertainment features including satellite phones and wireless Internet. The jet uses two Rolls-Royce BR725 engines, each producing a maximum thrust of 17,000 pounds-force (75.6 kN). Gulfstream states that with a weight of less than 100,000 pounds (45,400 kg), it is able to land at small airports avoiding the busy airports around the world.
+To provide better usage of the internal volume, Gulfstream designers rejected the usual circular fuselage cross-section in favor of an oval which uses a flatter lower portion. The cabin is 8 feet 6 inches (2.59 m) wide and 6 feet 5 inches (1.96 m) high, allowing the craft to be configured to carry between 11 and 18 passengers. The fuselage is of metal construction; composite materials are used for empennage, winglets, rear pressure bulkhead, engine cowlings, cabin floor structure and many fairings. The eight oval cabin windows on each side of the fuselage are 28 inches (71 cm) wide. Panels are bonded rather than riveted, reducing parts count compared to the G550.
+The wing uses greater sweep (36 degrees) than previous Gulfstream aircraft (for example, the G550 wing has 27 degrees of sweep). It does not use leading-edge high-lift devices, and tracks for rear-mounted flaps are completely enclosed within the airfoil contour. The wing's leading edge is a continuously-changing curve, and the airfoil varies continuously from root to tip, which incorporates winglets.
+The aircraft controls are completely fly-by-wire, with no mechanical control between pilot and flight surfaces. The surfaces are moved by dual hydraulic systems. The G650 shares its yokes and column with the G550 in an effort to receive a common type rating. More airliners are using fly-by-wire today, but only one other business jet (Dassault Falcon 7X) was so equipped as of 2008.
+The wing design was completed in 2006. A total of 1,400 hours of wind tunnel testing was completed by 2008. A pressure-test fuselage was built and tested, including an ultimate-pressure test of 18.37 psi.
+The G650 taxied under its own power for the first time on September 26, 2009. A public rollout ceremony was later held on September 29, 2009. The G650 had its maiden flight on November 25, 2009.
+Flight testing for the maximum operating speed of Mach 0.925 was announced as completed on May 4, 2010. Gulfstream reported on August 26, 2010 that the G650 hit a maximum speed of Mach 0.995 during a dive as part of its 1,800-hour flight test program. In April 2011, a G650 crashed during flight testing. The G650 test aircraft were grounded until May 28, 2011, when the remaining test aircraft were allowed to return to flight testing.
+On September 7, 2012, the G650 received its type certificate from the US Federal Aviation Administration (FAA). Its first delivery was to an American customer named Preston Henn on December 27, 2012.
+The G650 had a nominal list price of $64.5 million in 2013, but there was a three-year waiting list. Some aircraft produced for delivery in 2013 sold for more than $70 million to buyers that wanted to take immediate delivery.
+On May 18, 2014, Gulfstream announced at the annual European Business Aviation Association exhibition, that it had developed an extended range version called the G650ER. The G650ER is capable of flying 7,500 nautical miles (13,900 km; 8,600 mi) at Mach 0.85, due to its 4,000 pounds (1,814 kg) increase in fuel capacity. Gulfstream stated that a G650ER development aircraft had flown non-stop from Hong Kong to Teterboro, New Jersey, U.S. in March, a distance of 7,494 nautical miles (13,879 km; 8,624 mi); it had also flown non-stop from Los Angeles to Melbourne in Australia. The extra fuel is housed in existing space inside the G650's wings and aircraft already built may be quickly upgraded to the ER version. The G650ER received its certification in October 2014 and began deliveries in late 2014 ahead of its 2015 target. The G650ER attempted two world records from New York to Beijing to Savannah in February 2015.
+Also in May 2014, Gulfstream confirmed that the G650 would be offered to the United States Air Force for its program to replace the E-8C JSTARS air-to-ground surveillance and targeting aircraft. The still emerging requirements call for an aircraft with a 10-13 man crew and a belly-mounted radar 3.9–6 m (13–20 ft) long.
+G650
+Initial production version
+G650ER
+Extended Range version, with maximum takeoff weight increased by 4,000 pounds (1,814 kg) and an equivalent increase in fuel capacity; capable of flying 7,500 nautical miles (8,600 mi; 13,900 km) at Mach 0.85. Certified in October 2014. Fuel capacity of the wet wings is increased by a modification to the fuel system, through a service bulletin available as a $2 million retrofit for existing G650 aircraft. List price for new G650ER aircraft is $66.5 million in 2014.
+On April 2, 2011, the second G650 test aircraft crashed during takeoff from the Roswell International Air Center, New Mexico, killing the four Gulfstream employees on board (two pilots and two test engineers). The aircraft was conducting a takeoff-performance test during which an engine failure was simulated by reducing the right engine's thrust to idle. The G650 became airborne briefly at a high angle of attack before its right wingtip hit the runway, then slid on the ground and caught fire.
+The National Transportation Safety Board (NTSB) determined the probable cause of the crash was an aerodynamic stall of the aircraft due to a failure to properly develop and validate takeoff speeds, persistent and increasingly aggressive attempts to achieve a V2 speed that was too low. It found that Gulfstream's investigation of the two previous uncommanded roll events was inadequate. Following the crash, Gulfstream raised the V2 speed of the G650 from 135 knots (250 km/h) to 150 knots (280 km/h). The NTSB accused Gulfstream of withholding information, which the company denied. The NTSB also objected to Gulfstream's use of legal counsel during the investigation.
+Data from Gulfstream data, Flightglobal cabin details
+General characteristics
+Crew: 2 pilots
+Capacity: 11–18 passengers
+Payload: 6,500 lb (2,950 kg)
+Length: 99 ft 9 in (30.41 m)
+Wingspan: 99 ft 7 in (30.36 m)
+Height: 25 ft 4 in (7.72 m)
+Wing area: 1,283 ft² (119.2 m²)
+Aspect ratio: 7.7
+Max. takeoff weight: 99,600 lb (45,200 kg)
+Powerplant: 2 × Rolls-Royce Deutschland BR725 turbofan, 16,100 lbf (71.6 kN) each
+Maximum landing weight: 83,500 lb (37,876 kg)
+Wing sweep: 36 degrees
+Performance
+Maximum speed: Mach 0.925 (530 kn, 610 mph, 982 km/h) Fast cruise
+Cruise speed:
+Long range cruise: Mach 0.85 (488 kn, 562 mph, 904 km/h)
+Normal cruise: Mach 0.90 (516 kn, 595 mph, 956 km/h)
+Range:
+Long range cruise: 7,000 nautical miles (8,050 mi, 12,960 km)
+Fast cruise: 6,000 nmi (6,906 mi, 11,112 km)
+Service ceiling: 51,000 ft (15,500 m)
+Wing loading: 77.7 lb/ft² (3.72 kPa)
+Cabin pressurization: 10.7 psi (73.8 kPa)
+Related development
+Gulfstream G550
+Gulfstream G500
+Gulfstream G600
+Aircraft of comparable role, configuration and era
+Bombardier Global Express
+Dassault Falcon 7X
+Embraer Lineage 1000

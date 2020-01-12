@@ -1,0 +1,1566 @@
+In physics, a phonon is a collective excitation in a periodic, elastic arrangement of atoms or molecules in condensed matter, like solids and some liquids. Often designated a quasiparticle, it represents an excited state in the quantum mechanical quantization of the modes of vibrations of elastic structures of interacting particles.
+Phonons play a major role in many of the physical properties of condensed matter, like thermal conductivity and electrical conductivity. The study of phonons is an important part of condensed matter physics.
+The concept of phonons was introduced in 1932 by Soviet physicist Igor Tamm. The name phonon comes from the Greek word φωνή (phonē), which translates to sound or voice because long-wavelength phonons give rise to sound. Shorter-wavelength higher-frequency phonons give rise to heat.
+A phonon is a quantum mechanical description of an elementary vibrational motion in which a lattice of atoms or molecules uniformly oscillates at a single frequency. In classical mechanics this designates a normal mode of vibration. Normal modes are important because any arbitrary lattice vibration can be considered to be a superposition of these elementary vibration modes (cf. Fourier analysis). While normal modes are wave-like phenomena in classical mechanics, phonons have particle-like properties too, in a way related to the wave–particle duality of quantum mechanics.
+The equations in this section do not use axioms of quantum mechanics but instead use relations for which there exists a direct correspondence in classical mechanics.
+For example: a rigid regular, crystalline (not amorphous), lattice is composed of N particles. These particles may be atoms or molecules. N is a large number, say ~1023, or on the order of Avogadro's number for a typical sample of a solid. Since the lattice is rigid, the atoms must be exerting forces on one another to keep each atom near its equilibrium position. These forces may be Van der Waals forces, covalent bonds, electrostatic attractions, and others, all of which are ultimately due to the electric force. Magnetic and gravitational forces are generally negligible. The forces between each pair of atoms may be characterized by a potential energy function 
+        V
+    {\displaystyle \,V}
+   that depends on the distance of separation of the atoms. The potential energy of the entire lattice is the sum of all pairwise potential energies:
+          ∑
+            i
+            ≠
+            j
+        V
+        (
+          r
+            i
+        −
+          r
+            j
+        )
+    {\displaystyle \,\sum _{i\neq j}V(r_{i}-r_{j})}
+where 
+          r
+            i
+    {\displaystyle \,r_{i}}
+   is the position of the 
+        i
+    {\displaystyle \,i}
+  th atom, and 
+        V
+    {\displaystyle \,V}
+   is the potential energy between two atoms.
+It is difficult to solve this many-body problem explicitly in either classical or quantum mechanics. In order to simplify the task, two important approximations are usually imposed. First, the sum is only performed over neighboring atoms. Although the electric forces in real solids extend to infinity, this approximation is still valid because the fields produced by distant atoms are effectively screened. Secondly, the potentials 
+        V
+    {\displaystyle \,V}
+   are treated as harmonic potentials. This is permissible as long as the atoms remain close to their equilibrium positions. Formally, this is accomplished by Taylor expanding 
+        V
+    {\displaystyle \,V}
+   about its equilibrium value to quadratic order, giving 
+        V
+    {\displaystyle \,V}
+   proportional to the displacement 
+          x
+            2
+    {\displaystyle \,x^{2}}
+   and the elastic force simply proportional to 
+        x
+    {\displaystyle \,x}
+  . The error in ignoring higher order terms remains small if 
+        x
+    {\displaystyle \,x}
+   remains close to the equilibrium position.
+The resulting lattice may be visualized as a system of balls connected by springs. The following figure shows a cubic lattice, which is a good model for many types of crystalline solid. Other lattices include a linear chain, which is a very simple lattice which we will shortly use for modeling phonons. (For other common lattices, see crystal structure.)
+The potential energy of the lattice may now be written as
+          ∑
+            {
+            i
+            j
+            }
+            (
+            n
+            n
+            )
+            1
+            2
+        m
+          ω
+            2
+        (
+          R
+            i
+        −
+          R
+            j
+          )
+            2
+        .
+    {\displaystyle \sum _{\{ij\}(nn)}{1 \over 2}m\omega ^{2}(R_{i}-R_{j})^{2}.}
+Here, 
+        ω
+    {\displaystyle \,\omega }
+   is the natural frequency of the harmonic potentials, which are assumed to be the same since the lattice is regular. 
+          R
+            i
+    {\displaystyle \,R_{i}}
+   is the position coordinate of the 
+        i
+    {\displaystyle \,i}
+  th atom, which we now measure from its equilibrium position. The sum over nearest neighbors is denoted as (nn).
+Due to the connections between atoms, the displacement of one or more atoms from their equilibrium positions give rise to a set of vibration waves propagating through the lattice. One such wave is shown in the figure to the right. The amplitude of the wave is given by the displacements of the atoms from their equilibrium positions. The wavelength 
+        λ
+    {\displaystyle \,\lambda }
+   is marked.
+There is a minimum possible wavelength, given by twice the equilibrium separation a between atoms. Any wavelength shorter than this can be mapped onto a wavelength longer than 2a, due to the periodicity of the lattice.
+Not every possible lattice vibration has a well-defined wavelength and frequency. However, the normal modes do possess well-defined wavelengths and frequencies.
+In order to simplify the analysis needed for a 3-dimensional lattice of atoms it is convenient to model a 1-dimensional lattice or linear chain. This model is complex enough to display the salient features of phonons.
+The forces between the atoms are assumed to be linear and nearest-neighbour, and they are represented by an elastic spring. Each atom is assumed to be a point particle and the nucleus and electrons move in step (adiabatic approximation).
+    n−1   n   n+1   ←   d   →
+        ⋯
+    {\displaystyle \cdots }
+  o++++++o++++++o++++++o++++++o++++++o++++++o++++++o++++++o++++++o
+        ⋯
+    {\displaystyle \cdots }
+→→ → →→→
+          u
+            n
+            −
+            1
+          u
+            n
+          u
+            n
+            +
+            1
+    {\displaystyle u_{n-1}\qquad \quad u_{n}\qquad \quad u_{n+1}}
+Where 
+        n
+    {\displaystyle n}
+   labels the 
+        n
+    {\displaystyle n}
+  -th atom, 
+        d
+    {\displaystyle d}
+   is the distance between atoms when the chain is in equilibrium and 
+          u
+            n
+    {\displaystyle u_{n}}
+   the displacement of the 
+        n
+    {\displaystyle n}
+  -th atom from its equilibrium position.
+If 
+        C
+    {\displaystyle C}
+   is the elastic constant of the spring and 
+        m
+    {\displaystyle m}
+   the mass of the atom then the equation of motion of the 
+        n
+    {\displaystyle n}
+  -th atom is :
+        −
+        2
+        C
+          u
+            n
+        +
+        C
+        (
+          u
+            n
+            +
+            1
+        +
+          u
+            n
+            −
+            1
+        )
+        =
+        m
+                  d
+                    2
+              ⁡
+                u
+                  n
+              d
+              ⁡
+                t
+                  2
+    {\displaystyle -2Cu_{n}+C(u_{n+1}+u_{n-1})=m{\operatorname {d^{2}} u_{n} \over \operatorname {d} t^{2}}}
+This is a set of coupled equations and since the solutions are expected to be oscillatory, new coordinates can be defined by a discrete Fourier transform, in order to de-couple them.
+Put
+          u
+            n
+        =
+          ∑
+            k
+            =
+            1
+            N
+          U
+            k
+          e
+            i
+            k
+            n
+            d
+    {\displaystyle u_{n}=\sum _{k=1}^{N}U_{k}e^{iknd}}
+Here 
+        n
+        d
+    {\displaystyle nd}
+   replaces the usual continuous variable 
+        x
+    {\displaystyle x}
+  . The 
+          U
+            k
+    {\displaystyle U_{k}}
+   are known as the normal coordinates. Substitution into the equation of motion produces the following decoupled equations.(This requires a significant manipulation using the orthonormality and completeness relations of the discrete Fourier transform )
+        2
+        C
+        (
+        cos
+        k
+        d
+        −
+        1
+        )
+          U
+            k
+        =
+        m
+                  d
+                    2
+              ⁡
+                U
+                  k
+              d
+              ⁡
+                t
+                  2
+    {\displaystyle 2C(\cos \,kd-1)U_{k}=m{\operatorname {d^{2}} U_{k} \over \operatorname {d} t^{2}}}
+These are the equations for harmonic oscillators which have the solution:
+          U
+            k
+        =
+          A
+            k
+          e
+            i
+              ω
+                k
+            t
+        ;
+          ω
+            k
+        =
+                  2
+                  C
+                m
+            (
+            1
+            −
+            cos
+            ⁡
+              k
+              d
+            )
+    {\displaystyle U_{k}=A_{k}e^{i\omega _{k}t};\qquad \quad \omega _{k}={\sqrt {{2C \over m}(1-\cos {kd})}}}
+Each normal coordinate 
+          U
+            k
+    {\displaystyle U_{k}}
+   represents an independent vibrational mode of the lattice with wavenumber 
+        k
+    {\displaystyle k}
+   which is known as a normal mode. The second equation for 
+          ω
+            k
+    {\displaystyle \omega _{k}}
+   is known as the dispersion relation between the angular frequency and the wavenumber.
+A one-dimensional quantum mechanical harmonic chain consists of N identical atoms. This is the simplest quantum mechanical model of a lattice that allows phonons to arise from it. The formalism for this model is readily generalizable to two and three dimensions.
+As in the previous section, the positions of the masses are denoted by 
+          x
+            1
+        ,
+          x
+            2
+        ,
+        .
+        .
+        .
+    {\displaystyle x_{1},x_{2},...}
+  , as measured from their equilibrium positions (i.e. 
+          x
+            i
+        =
+        0
+    {\displaystyle x_{i}=0}
+   if particle 
+        i
+    {\displaystyle i}
+   is at its equilibrium position.) In two or more dimensions, the 
+          x
+            i
+    {\displaystyle x_{i}}
+   are vector quantities. The Hamiltonian for this system is
+          H
+        =
+          ∑
+            i
+            =
+            1
+            N
+              p
+                i
+                2
+              2
+              m
+        +
+            1
+            2
+        m
+          ω
+            2
+          ∑
+            {
+            i
+            j
+            }
+            (
+            n
+            n
+            )
+        (
+          x
+            i
+        −
+          x
+            j
+          )
+            2
+    {\displaystyle \mathbf {H} =\sum _{i=1}^{N}{p_{i}^{2} \over 2m}+{1 \over 2}m\omega ^{2}\sum _{\{ij\}(nn)}(x_{i}-x_{j})^{2}\ }
+where 
+        m
+    {\displaystyle \,m}
+   is the mass of each atom (assuming is equal for all), and 
+          x
+            i
+    {\displaystyle \,x_{i}}
+   and 
+          p
+            i
+    {\displaystyle \,p_{i}}
+   are the position and momentum operators, respectively, for the 
+        i
+    {\displaystyle \,i}
+  th atom and the sum is made over the nearest neighbors (nn). However one expects that in a lattice there could also appear waves that behave like particles. It is customary to deal with waves in Fourier space which uses normal modes of the wavevector as variables instead coordinates of particles. The number of normal modes is same as the number of particles. However, the Fourier space is very useful given the periodicity of the system.
+A set of 
+        N
+    {\displaystyle \,N}
+   "normal coordinates" 
+          Q
+            k
+    {\displaystyle \,Q_{k}}
+   may be introduced, defined as the discrete Fourier transforms of the 
+        x
+    {\displaystyle \,x}
+  's and 
+        N
+    {\displaystyle \,N}
+   "conjugate momenta" 
+        Π
+    {\displaystyle \,\Pi }
+   defined as the Fourier transforms of the 
+        p
+    {\displaystyle \,p}
+  's:
+          Q
+            k
+        =
+            1
+                N
+          ∑
+            l
+          e
+            i
+            k
+            a
+            l
+          x
+            l
+    {\displaystyle Q_{k}={1 \over {\sqrt {N}}}\sum _{l}e^{ikal}x_{l}}
+          Π
+            k
+        =
+            1
+                N
+          ∑
+            l
+          e
+            −
+            i
+            k
+            a
+            l
+          p
+            l
+        .
+    {\displaystyle \Pi _{k}={1 \over {\sqrt {N}}}\sum _{l}e^{-ikal}p_{l}.}
+The quantity 
+          k
+            n
+    {\displaystyle \,k_{n}}
+   turns out to be the wave number of the phonon, i.e. 
+        2
+        π
+    {\displaystyle \,2\,\pi }
+   divided by the wavelength.
+This choice retains the desired commutation relations in either real space or wave vector space
+                  [
+                    x
+                      l
+                  ,
+                    p
+                      m
+                  ]
+                =
+                i
+                ℏ
+                  δ
+                    l
+                    ,
+                    m
+                  [
+                    Q
+                      k
+                  ,
+                    Π
+                        k
+                        ′
+                  ]
+                =
+                    1
+                    N
+                  ∑
+                    l
+                    ,
+                    m
+                  e
+                    i
+                    k
+                    a
+                    l
+                  e
+                    −
+                    i
+                      k
+                      ′
+                    a
+                    m
+                [
+                  x
+                    l
+                ,
+                  p
+                    m
+                ]
+                =
+                      i
+                      ℏ
+                    N
+                  ∑
+                    l
+                  e
+                    i
+                    a
+                    l
+                      (
+                      k
+                      −
+                        k
+                        ′
+                      )
+                =
+                i
+                ℏ
+                  δ
+                    k
+                    ,
+                      k
+                      ′
+                  [
+                    Q
+                      k
+                  ,
+                    Q
+                        k
+                        ′
+                  ]
+                =
+                  [
+                    Π
+                      k
+                  ,
+                    Π
+                        k
+                        ′
+                  ]
+                =
+                0
+    {\displaystyle {\begin{aligned}\left[x_{l},p_{m}\right]&=i\hbar \delta _{l,m}\\\left[Q_{k},\Pi _{k'}\right]&={1 \over N}\sum _{l,m}e^{ikal}e^{-ik'am}[x_{l},p_{m}]\\&={i\hbar  \over N}\sum _{l}e^{ial\left(k-k'\right)}=i\hbar \delta _{k,k'}\\\left[Q_{k},Q_{k'}\right]&=\left[\Pi _{k},\Pi _{k'}\right]=0\end{aligned}}}
+From the general result
+                  ∑
+                    l
+                  x
+                    l
+                  x
+                    l
+                    +
+                    m
+                =
+                    1
+                    N
+                  ∑
+                    k
+                      k
+                      ′
+                  Q
+                    k
+                  Q
+                      k
+                      ′
+                  ∑
+                    l
+                  e
+                    i
+                    a
+                    l
+                      (
+                      k
+                      +
+                        k
+                        ′
+                      )
+                  e
+                    i
+                    a
+                    m
+                      k
+                      ′
+                =
+                  ∑
+                    k
+                  Q
+                    k
+                  Q
+                    −
+                    k
+                  e
+                    i
+                    a
+                    m
+                    k
+                  ∑
+                    l
+                      p
+                        l
+                    2
+                =
+                  ∑
+                    k
+                  Π
+                    k
+                  Π
+                    −
+                    k
+    {\displaystyle {\begin{aligned}\sum _{l}x_{l}x_{l+m}&={1 \over N}\sum _{kk'}Q_{k}Q_{k'}\sum _{l}e^{ial\left(k+k'\right)}e^{iamk'}=\sum _{k}Q_{k}Q_{-k}e^{iamk}\\\sum _{l}{p_{l}}^{2}&=\sum _{k}\Pi _{k}\Pi _{-k}\end{aligned}}}
+The potential energy term is
+            1
+            2
+        m
+          ω
+            2
+          ∑
+            j
+        (
+          x
+            j
+        −
+          x
+            j
+            +
+            1
+          )
+            2
+        =
+            1
+            2
+        m
+          ω
+            2
+          ∑
+            k
+          Q
+            k
+          Q
+            −
+            k
+        (
+        2
+        −
+          e
+            i
+            k
+            a
+        −
+          e
+            −
+            i
+            k
+            a
+        )
+        =
+            1
+            2
+          ∑
+            k
+        m
+              ω
+                k
+            2
+          Q
+            k
+          Q
+            −
+            k
+    {\displaystyle {1 \over 2}m\omega ^{2}\sum _{j}(x_{j}-x_{j+1})^{2}={1 \over 2}m\omega ^{2}\sum _{k}Q_{k}Q_{-k}(2-e^{ika}-e^{-ika})={1 \over 2}\sum _{k}m{\omega _{k}}^{2}Q_{k}Q_{-k}}
+where
+          ω
+            k
+        =
+            2
+              ω
+                2
+              [
+              1
+              −
+              cos
+              ⁡
+              (
+              k
+              a
+              )
+              ]
+        =
+        2
+        ω
+          |
+          sin
+          ⁡
+            (
+                  k
+                  a
+                2
+            )
+          |
+    {\displaystyle \omega _{k}={\sqrt {2\omega ^{2}\left[1-\cos(ka)\right]}}=2\omega \left|\sin \left({{ka} \over 2}\right)\right|\ }
+The Hamiltonian may be written in wave vector space as
+          H
+        =
+            1
+              2
+              m
+          ∑
+            k
+          (
+              Π
+                k
+              Π
+                −
+                k
+          +
+            m
+              2
+            ω
+              k
+              2
+            Q
+              k
+            Q
+              −
+              k
+          )
+    {\displaystyle \mathbf {H} ={1 \over {2m}}\sum _{k}\left({\Pi _{k}\Pi _{-k}}+m^{2}\omega _{k}^{2}Q_{k}Q_{-k}\right)}
+The couplings between the position variables have been transformed away; if the 
+        Q
+    {\displaystyle \,Q}
+  's and 
+        Π
+    {\displaystyle \,\Pi }
+  's were hermitian (which they are not), the transformed Hamiltonian would describe 
+        N
+    {\displaystyle \,N}
+   uncoupled harmonic oscillators.
+The form of the quantization depends on the choice of boundary conditions; for simplicity, periodic boundary conditions are imposed, defining the 
+        (
+        N
+        +
+        1
+        )
+    {\displaystyle \,(N+1)}
+  th atom as equivalent to the first atom. Physically, this corresponds to joining the chain at its ends. The resulting quantization is
+        k
+        =
+          k
+            n
+        =
+              2
+              π
+              n
+              N
+              a
+          for
+        n
+        =
+        0
+        ,
+        ±
+        1
+        ,
+        ±
+        2
+        ,
+        .
+        .
+        .
+        ,
+        ±
+            N
+            2
+        .
+    {\displaystyle k=k_{n}={2\pi n \over Na}\quad {\hbox{for}}\ n=0,\pm 1,\pm 2,...,\pm {N \over 2}.\ }
+The upper bound to 
+        n
+    {\displaystyle \,n}
+   comes from the minimum wavelength, which is twice the lattice spacing 
+        a
+    {\displaystyle \,a}
+  , as discussed above.
+The harmonic oscillator eigenvalues or energy levels for the mode 
+          ω
+            k
+    {\displaystyle \omega _{k}}
+   are :
+          E
+            n
+        =
+          (
+              1
+              2
+          +
+          n
+          )
+        ℏ
+          ω
+            k
+        n
+        =
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        3......
+    {\displaystyle E_{n}=\left({1 \over 2}+n\right)\hbar \omega _{k}\quad \quad \quad n=0,1,2,3......}
+The levels are evenly spaced at:
+            1
+            2
+        ℏ
+        ω
+        ,
+            3
+            2
+        ℏ
+        ω
+        ,
+            5
+            2
+        ℏ
+        ω
+        .
+        .
+        .
+        .
+        .
+        .
+    {\displaystyle {1 \over 2}\hbar \omega ,\quad {3 \over 2}\hbar \omega ,\quad {5 \over 2}\hbar \omega \quad ......}
+Where 
+            1
+            2
+        ℏ
+        ω
+    {\displaystyle {1 \over 2}\hbar \omega }
+   is the zero-point energy of a quantum harmonic oscillator.
+An exact amount of energy 
+        ℏ
+        ω
+    {\displaystyle \hbar \omega }
+   must be supplied to the harmonic oscillator lattice to push it to the next energy level. In comparison to the photon case when the electromagnetic field is quantized, the quantum of vibrational energy is called a phonon.
+All quantum systems show wave-like and particle-like properties simultaneously. The particle-like properties of the phonon are best understood using the methods of second quantization and operator techniques described later.
+This may be generalized to a three-dimensional lattice. The wave number k is replaced by a three-dimensional wave vector k. Furthermore, each k is now associated with three normal coordinates.
+The new indices s = 1, 2, 3 label the polarization of the phonons. In the one-dimensional model, the atoms were restricted to moving along the line, so the phonons corresponded to longitudinal waves. In three dimensions, vibration is not restricted to the direction of propagation, and can also occur in the perpendicular planes, like transverse waves. This gives rise to the additional normal coordinates, which, as the form of the Hamiltonian indicates, we may view as independent species of phonons.
+For a one-dimensional alternating array of two types of ion or atom of mass m1, m2 repeated periodically at a distance a, connected by springs of spring constant K, two modes of vibration result:
+          ω
+            ±
+            2
+        =
+        K
+          (
+              1
+                m
+                  1
+          +
+              1
+                m
+                  2
+          )
+        ±
+        K
+                (
+                    1
+                      m
+                        1
+                +
+                    1
+                      m
+                        2
+                )
+                2
+            −
+                  4
+                    sin
+                      2
+                  ⁡
+                  (
+                  k
+                  a
+                    /
+                  2
+                  )
+                    m
+                      1
+                    m
+                      2
+        ,
+    {\displaystyle \omega _{\pm }^{2}=K\left({\frac {1}{m_{1}}}+{\frac {1}{m_{2}}}\right)\pm K{\sqrt {\left({\frac {1}{m_{1}}}+{\frac {1}{m_{2}}}\right)^{2}-{\frac {4\sin ^{2}(ka/2)}{m_{1}m_{2}}}}}\ ,}
+where k is the wave-vector of the vibration related to its wavelength by k=2π/λ. The connection between frequency and wave-vector, ω=ω(k), is known as a dispersion relation. The plus sign results in the so-called optical mode, and the minus sign to the acoustic mode. In the optical mode two adjacent different atoms move against each other, while in the acoustic mode they move together.
+The speed of propagation of an acoustic phonon, which is also the speed of sound in the lattice, is given by the slope of the acoustic dispersion relation, 
+                ∂
+                  ω
+                    k
+                ∂
+                k
+    {\displaystyle \,{\tfrac {\partial \omega _{k}}{\partial k}}}
+   (see group velocity.) At low values of 
+        k
+    {\displaystyle \,k}
+   (i.e. long wavelengths), the dispersion relation is almost linear, and the speed of sound is approximately 
+        ω
+        a
+    {\displaystyle \,\omega a}
+  , independent of the phonon frequency. As a result, packets of phonons with different (but long) wavelengths can propagate for large distances across the lattice without breaking apart. This is the reason that sound propagates through solids without significant distortion. This behavior fails at large values of 
+        k
+    {\displaystyle \,k}
+  , i.e. short wavelengths, due to the microscopic details of the lattice.
+For a crystal that has at least two atoms in its primitive cell, the dispersion relations exhibit two types of phonons, namely, optical and acoustic modes corresponding to the upper blue and lower red of curve in the diagram, respectively. The vertical axis is the energy or frequency of phonon, while the horizontal axis is the wave-vector. The boundaries at -π/a and π/a are those of the first Brillouin zone. A crystal with N ≥ 2 different atoms in the primitive cell exhibits three acoustic modes: one longitudinal acoustic mode and two transverse acoustic modes. The number of optical modes is 3N – 3. The lower figure shows the dispersion relations for several phonon modes in GaAs as a function of wavevector k in the principal directions of its Brillouin zone.
+Many phonon dispersion curves have been measured by neutron scattering.
+The physics of sound in fluids differs from the physics of sound in solids, although both are density waves: sound waves in fluids only have longitudinal components, whereas sound waves in solids have longitudinal and transverse components. This is because fluids can't support shear stresses (but see viscoelastic fluids, which only apply to high frequencies, though).
+In fact, the above-derived Hamiltonian looks like the classical Hamiltonian function, but if it is interpreted as an operator, then it describes a quantum field theory of non-interacting bosons.
+The energy spectrum of this Hamiltonian is easily obtained by the method of ladder operators, similar to the quantum harmonic oscillator problem. We introduce a set of ladder operators defined by:
+          b
+            k
+        =
+            1
+                2
+          (
+                Q
+                  k
+                l
+                  k
+          +
+          i
+                Π
+                  −
+                  k
+                ℏ
+                  /
+                  l
+                    k
+          )
+        ,
+          Q
+            k
+        =
+          l
+            k
+            1
+                2
+        (
+              b
+                k
+            †
+        +
+          b
+            −
+            k
+        )
+    {\displaystyle b_{k}={1 \over {\sqrt {2}}}\left({Q_{k} \over l_{k}}+i{\Pi _{-k} \over \hbar /l_{k}}\right)\quad ,\quad Q_{k}=l_{k}{1 \over {\sqrt {2}}}({b_{k}}^{\dagger }+b_{-k})}
+              b
+                k
+            †
+        =
+            1
+                2
+          (
+                Q
+                  −
+                  k
+                l
+                  k
+          −
+          i
+                Π
+                  k
+                ℏ
+                  /
+                  l
+                    k
+          )
+        ,
+          Π
+            k
+        =
+            ℏ
+              l
+                k
+            i
+                2
+        (
+              b
+                k
+            †
+        −
+          b
+            −
+            k
+        )
+    {\displaystyle {b_{k}}^{\dagger }={1 \over {\sqrt {2}}}\left({Q_{-k} \over l_{k}}-i{\Pi _{k} \over \hbar /l_{k}}\right)\quad ,\quad \Pi _{k}={\hbar  \over l_{k}}{i \over {\sqrt {2}}}({b_{k}}^{\dagger }-b_{-k})}
+          l
+            k
+        =
+              ℏ
+                m
+                  ω
+                    k
+    {\displaystyle l_{k}={\sqrt {\hbar  \over m\omega _{k}}}}
+By direct insertion on the Hamiltonian, it is readily verified that
+          H
+            p
+            h
+        =
+          ∑
+            k
+        ℏ
+          ω
+            k
+          (
+                b
+                  k
+              †
+            b
+              k
+          +
+              1
+              2
+          )
+    {\displaystyle H_{ph}=\sum _{k}\hbar \omega _{k}\left({b_{k}}^{\dagger }b_{k}+{1 \over 2}\right)}
+        [
+          b
+            k
+        ,
+          b
+              k
+              ′
+            †
+        ]
+        =
+          δ
+            k
+            ,
+              k
+              ′
+        ,
+        [
+          b
+            k
+        ,
+          b
+              k
+              ′
+        ]
+        =
+        [
+          b
+            k
+            †
+        ,
+          b
+              k
+              ′
+            †
+        ]
+        =
+        0.
+    {\displaystyle [b_{k},b_{k'}^{\dagger }]=\delta _{k,k'},[b_{k},b_{k'}]=[b_{k}^{\dagger },b_{k'}^{\dagger }]=0.}
+As with the quantum harmonic oscillator, one can show that 
+          b
+            k
+            †
+    {\displaystyle \,b_{k}^{\dagger }}
+   and 
+          b
+            k
+    {\displaystyle \,b_{k}}
+   respectively create and destroy one excitation of energy 
+        ℏ
+          ω
+            k
+    {\displaystyle \,\hbar \omega _{k}}
+  . These excitations are phonons.
+Two important properties of phonons may be deduced. Firstly, phonons are bosons, since any number of identical excitations can be created by repeated application of the creation operator 
+          b
+            k
+            †
+    {\displaystyle \,b_{k}^{\dagger }}
+  . Secondly, each phonon is a "collective mode" caused by the motion of every atom in the lattice. This may be seen from the fact that the ladder operators contain sums over the position and momentum operators of every atom.
+It is not a priori obvious that these excitations generated by the 
+        b
+    {\displaystyle \,b}
+   operators are literally waves of lattice displacement, but one may convince oneself of this by calculating the position-position correlation function. Let 
+          |
+        k
+        ⟩
+    {\displaystyle \,|k\rangle }
+   denote a state with a single quantum of mode 
+        k
+    {\displaystyle \,k}
+   excited, i.e.
+                  |
+                k
+                ⟩
+                =
+                  b
+                    k
+                    †
+                  |
+                0
+                ⟩
+                .
+    {\displaystyle {\begin{matrix}|k\rangle =b_{k}^{\dagger }|0\rangle .\end{matrix}}}
+One can show that, for any two atoms 
+        j
+    {\displaystyle \,j}
+   and 
+        ℓ
+    {\displaystyle \,\ell }
+  ,
+        ⟨
+        k
+          |
+          x
+            j
+        (
+        t
+        )
+          x
+            ℓ
+        (
+        0
+        )
+          |
+        k
+        ⟩
+        =
+            ℏ
+              N
+              m
+                ω
+                  k
+        cos
+        ⁡
+          [
+          k
+          (
+          j
+          −
+          ℓ
+          )
+          a
+          −
+            ω
+              k
+          t
+          ]
+        +
+        ⟨
+        0
+          |
+          x
+            j
+        (
+        t
+        )
+          x
+            ℓ
+        (
+        0
+        )
+          |
+        0
+        ⟩
+    {\displaystyle \langle k|x_{j}(t)x_{\ell }(0)|k\rangle ={\frac {\hbar }{Nm\omega _{k}}}\cos \left[k(j-\ell )a-\omega _{k}t\right]+\langle 0|x_{j}(t)x_{\ell }(0)|0\rangle }
+which has the form of a lattice wave with frequency 
+          ω
+            k
+    {\displaystyle \,\omega _{k}}
+   and wave number 
+        k
+    {\displaystyle \,k}
+  .
+In three dimensions the Hamiltonian has the form
+          H
+        =
+          ∑
+            k
+          ∑
+            s
+            =
+            1
+            3
+        ℏ
+          ω
+            k
+            ,
+            s
+          (
+            b
+              k
+              ,
+              s
+              †
+            b
+              k
+              ,
+              s
+          +
+          1
+            /
+          2
+          )
+        .
+    {\displaystyle \mathbf {H} =\sum _{k}\sum _{s=1}^{3}\hbar \,\omega _{k,s}\left(b_{k,s}^{\dagger }b_{k,s}+1/2\right).}
+Solids with more than one atom in the smallest unit cell, exhibit two types of phonons: acoustic phonons and optical phonons.
+Acoustic phonons are coherent movements of atoms of the lattice out of their equilibrium positions. If the displacement is in the direction of propagation, then in some areas the atoms will be closer, in others farther apart, as in a sound wave in air (hence the name acoustic). Displacement perpendicular to the propagation direction is comparable to waves in water. If the wavelength of acoustic phonons goes to infinity, this corresponds to a simple displacement of the whole crystal, and this costs zero energy. Acoustic phonons exhibit a linear relationship between frequency and phonon wavevector for long wavelengths. The frequencies of acoustic phonons tend to zero with longer wavelength. Longitudinal and transverse acoustic phonons are often abbreviated as LA and TA phonons, respectively.
+Optical phonons are out-of-phase movements of the atoms in the lattice, one atom moving to the left, and its neighbour to the right. This occurs if the lattice basis consists of two or more atoms. They are called optical because in ionic crystals, like sodium chloride, they are excited by infrared radiation. The electric field of the light will move every positive sodium ion in the direction of the field, and every negative chloride ion in the other direction, sending the crystal vibrating. Optical phonons have a non-zero frequency at the Brillouin zone center and show no dispersion near that long wavelength limit. This is because they correspond to a mode of vibration where positive and negative ions at adjacent lattice sites swing against each other, creating a time-varying electrical dipole moment. Optical phonons that interact in this way with light are called infrared active. Optical phonons that are Raman active can also interact indirectly with light, through Raman scattering. Optical phonons are often abbreviated as LO and TO phonons, for the longitudinal and transverse modes respectively; the splitting between LO and TO frequencies is often described accurately by the Lyddane–Sachs–Teller relation.
+When measuring optical phonon energy by experiment, optical phonon frequencies are sometimes given in spectroscopic wavenumber notation, where the symbol 
+        ω
+    {\displaystyle \omega }
+   represents ordinary frequency (not angular frequency), and is expressed in units of cm−1. The value is obtained by dividing the frequency by the speed of light in vacuum. In other words, the frequency in cm−1 units corresponds to the inverse of the wavelength of a photon in vacuum, that has the same frequency as the measured phonon. The cm−1 is a unit of energy used frequently in the dispersion relations of both acoustic and optical phonons, see units of energy for more details and uses.
+By analogy to photons and matter waves, phonons have been treated with wave vector 
+        k
+    {\displaystyle \,k}
+   as though it has a momentum 
+        ℏ
+        k
+    {\displaystyle \,\hbar k}
+  , however, this is not strictly correct, because 
+        ℏ
+        k
+    {\displaystyle \,\hbar k}
+   is not actually a physical momentum; it is called the crystal momentum or pseudomomentum. This is because 
+        k
+    {\displaystyle \,k}
+   is only determined up to addition of constant vectors (the reciprocal lattice vectors and integer multiples thereof). For example, in the one-dimensional model, the normal coordinates 
+        Q
+    {\displaystyle \,Q}
+   and 
+        Π
+    {\displaystyle \,\Pi }
+   are defined so that
+          Q
+            k
+                =
+                  d
+                  e
+                  f
+          Q
+            k
+            +
+            K
+        ;
+          Π
+            k
+                =
+                  d
+                  e
+                  f
+          Π
+            k
+            +
+            K
+    {\displaystyle Q_{k}\ {\stackrel {\mathrm {def} }{=}}\ Q_{k+K}\quad ;\quad \Pi _{k}\ {\stackrel {\mathrm {def} }{=}}\ \Pi _{k+K}\quad }
+where
+        K
+        =
+        2
+        n
+        π
+          /
+        a
+    {\displaystyle \,K=2n\pi /a}
+for any integer 
+        n
+    {\displaystyle \,n}
+  . A phonon with wave number 
+        k
+    {\displaystyle \,k}
+   is thus equivalent to an infinite "family" of phonons with wave numbers 
+        k
+        ±
+                2
+                π
+              a
+    {\displaystyle \,k\pm {\tfrac {2\,\pi }{a}}}
+  , 
+        k
+        ±
+                4
+                π
+              a
+    {\displaystyle \,k\pm {\tfrac {4\,\pi }{a}}}
+  , and so forth. Physically, the reciprocal lattice vectors act as additional "chunks" of momentum which the lattice can impart to the phonon. Bloch electrons obey a similar set of restrictions.
+It is usually convenient to consider phonon wave vectors 
+        k
+    {\displaystyle \,k}
+   which have the smallest magnitude 
+        (
+          |
+        k
+          |
+        )
+    {\displaystyle \,(|k|)}
+   in their "family". The set of all such wave vectors defines the first Brillouin zone. Additional Brillouin zones may be defined as copies of the first zone, shifted by some reciprocal lattice vector.
+The thermodynamic properties of a solid are directly related to its phonon structure. The entire set of all possible phonons that are described by the above phonon dispersion relations combine in what is known as the phonon density of states which determines the heat capacity of a crystal.
+At absolute zero temperature, a crystal lattice lies in its ground state, and contains no phonons. A lattice at a non-zero temperature has an energy that is not constant, but fluctuates randomly about some mean value. These energy fluctuations are caused by random lattice vibrations, which can be viewed as a gas of phonons. (The random motion of the atoms in the lattice is what we usually think of as heat.) Because these phonons are generated by the temperature of the lattice, they are sometimes designated thermal phonons.
+Unlike the atoms which make up an ordinary gas, thermal phonons can be created and destroyed by random energy fluctuations. In the language of statistical mechanics this means that the chemical potential for adding a phonon is zero. This behavior is an extension of the harmonic potential, mentioned earlier, into the anharmonic regime. The behavior of thermal phonons is similar to the photon gas produced by an electromagnetic cavity, wherein photons may be emitted or absorbed by the cavity walls. This similarity is not coincidental, for it turns out that the electromagnetic field behaves like a set of harmonic oscillators; see Black-body radiation. Both gases obey the Bose–Einstein statistics: in thermal equilibrium and within the harmonic regime, the probability of finding phonons (or photons) in a given state with a given angular frequency is:
+        n
+        (
+          ω
+            k
+            ,
+            s
+        )
+        =
+            1
+              exp
+              ⁡
+              (
+              ℏ
+                ω
+                  k
+                  ,
+                  s
+                /
+                k
+                  B
+              T
+              )
+              −
+              1
+    {\displaystyle n(\omega _{k,s})={\frac {1}{\exp(\hbar \omega _{k,s}/k_{B}T)-1}}}
+where 
+          ω
+            k
+            ,
+            s
+    {\displaystyle \,\omega _{k,s}}
+   is the frequency of the phonons (or photons) in the state, 
+          k
+            B
+    {\displaystyle \,k_{B}}
+   is Boltzmann's constant, and 
+        T
+    {\displaystyle \,T}
+   is the temperature.
+The phonon Hamiltonian is given by
+          H
+        =
+            1
+            2
+          ∑
+            α
+        (
+          p
+            α
+            2
+        +
+          ω
+            α
+            2
+          q
+            α
+            2
+        −
+            1
+            2
+        ℏ
+          ω
+            α
+        )
+    {\displaystyle \mathbf {H} ={\frac {1}{2}}\sum _{\alpha }(p_{\alpha }^{2}+\omega _{\alpha }^{2}q_{\alpha }^{2}-{\frac {1}{2}}\hbar \omega _{\alpha })}
+In terms of the operators, these are given by
+          H
+        =
+          ∑
+            α
+        ℏ
+          ω
+            α
+          a
+            α
+            †
+          a
+            α
+    {\displaystyle \mathbf {H} =\sum _{\alpha }\hbar \omega _{\alpha }a_{\alpha }^{\dagger }a_{\alpha }}
+Here, in expressing the Hamiltonian in operator formalism, we have not taken into account the 
+            1
+            2
+        ℏ
+          ω
+            q
+    {\displaystyle {\frac {1}{2}}\hbar \omega _{q}}
+   term, since if we take an infinite lattice or, for that matter a continuum, the 
+            1
+            2
+        ℏ
+          ω
+            q
+    {\displaystyle {\frac {1}{2}}\hbar \omega _{q}}
+   terms will add up giving an infinity. Hence, it is "renormalized" by putting the factor of 
+            1
+            2
+        ℏ
+          ω
+            q
+    {\displaystyle {\frac {1}{2}}\hbar \omega _{q}}
+   to 0 arguing that the difference in energy is what we measure and not the absolute value of it. Hence, the 
+            1
+            2
+        ℏ
+          ω
+            q
+    {\displaystyle {\frac {1}{2}}\hbar \omega _{q}}
+   factor is absent in the operator formalised expression for the Hamiltonian.
+The ground state also called the "vacuum state" is the state composed of no phonons. Hence, the energy of the ground state is 0. When, a system is in state 
+          |
+          n
+            1
+          n
+            2
+          n
+            3
+        .
+        .
+        .
+        ⟩
+    {\displaystyle |n_{1}n_{2}n_{3}...\rangle }
+  , we say there are 
+          n
+            α
+    {\displaystyle n_{\alpha }}
+   phonons of type 
+        α
+    {\displaystyle \alpha }
+  . The 
+          n
+            α
+    {\displaystyle n_{\alpha }}
+   are called the occupation number of the phonons. Energy of a single phonon of type 
+        α
+    {\displaystyle \alpha }
+   being 
+        ℏ
+          ω
+            q
+    {\displaystyle \hbar \omega _{q}}
+  , the total energy of a general phonon system is given by 
+          n
+            1
+        ℏ
+          ω
+            1
+        +
+          n
+            2
+        ℏ
+          ω
+            2
+        +
+        .
+        .
+        .
+    {\displaystyle n_{1}\hbar \omega _{1}+n_{2}\hbar \omega _{2}+...}
+  . In other words, the phonons are non-interacting. The action of creation and annihilation operators are given by
+          a
+            α
+            †
+          |
+          n
+            1
+        .
+        .
+        .
+          n
+            α
+            −
+            1
+          n
+            α
+          n
+            α
+            +
+            1
+        .
+        .
+        .
+        ⟩
+        =
+              n
+                α
+            +
+            1
+          |
+          n
+            1
+        .
+        .
+        .
+        ,
+          n
+            α
+            −
+            1
+        ,
+          n
+            α
+        +
+        1
+        ,
+          n
+            α
+            +
+            1
+        .
+        .
+        .
+        ⟩
+    {\displaystyle a_{\alpha }^{\dagger }|n_{1}...n_{\alpha -1}n_{\alpha }n_{\alpha +1}...\rangle ={\sqrt {n_{\alpha }+1}}|n_{1}...,n_{\alpha -1},n_{\alpha }+1,n_{\alpha +1}...\rangle }
+and,
+          a
+            α
+          |
+          n
+            1
+        .
+        .
+        .
+          n
+            α
+            −
+            1
+          n
+            α
+          n
+            α
+            +
+            1
+        .
+        .
+        .
+        ⟩
+        =
+              n
+                α
+          |
+          n
+            1
+        .
+        .
+        .
+        ,
+          n
+            α
+            −
+            1
+        ,
+        (
+          n
+            α
+        −
+        1
+        )
+        ,
+          n
+            α
+            +
+            1
+        ,
+        .
+        .
+        .
+        ⟩
+    {\displaystyle a_{\alpha }|n_{1}...n_{\alpha -1}n_{\alpha }n_{\alpha +1}...\rangle ={\sqrt {n_{\alpha }}}|n_{1}...,n_{\alpha -1},(n_{\alpha }-1),n_{\alpha +1},...\rangle }
+i.e. 
+          a
+            α
+            †
+    {\displaystyle a_{\alpha }^{\dagger }}
+   creates a phonon of type 
+        α
+    {\displaystyle \alpha }
+   while 
+          a
+            α
+    {\displaystyle a_{\alpha }}
+   annihilates. Hence, they are respectively the creation and annihilation operator for phonons. Analogous to the Quantum harmonic oscillator case, we can define particle number operator as 
+        N
+        =
+          ∑
+            α
+          a
+            α
+            †
+          a
+            α
+    {\displaystyle N=\sum _{\alpha }a_{\alpha }^{\dagger }a_{\alpha }}
+  . The number operator commutes with a string of products of the creation and annihilation operators if, the number of 
+        a
+    {\displaystyle a}
+  's are equal to number of 
+          a
+            †
+    {\displaystyle a^{\dagger }}
+  's.
+Phonons are bosons since, 
+          |
+        α
+        ,
+        β
+        ⟩
+        =
+          |
+        β
+        ,
+        α
+        ⟩
+    {\displaystyle |\alpha ,\beta \rangle =|\beta ,\alpha \rangle }
+   i.e. they are symmetric under exchange.
+As well as photons, phonons can interact via parametric down conversion and form squeezed coherent states.
+As phonons carry information, it is theoretically possible to build a quantum computer using phonons.

@@ -1,0 +1,54 @@
+The NPO Almaz S-200 Angara/Vega/Dubna (Russian Ангара\Вега\Дубна), NATO reporting name SA-5 Gammon, is a very long range, medium-to-high altitude surface-to-air missile (SAM) system designed in the 1960s to defend large areas from bomber attack or other strategic aircraft. Each battalion has 6 single-rail missile launchers for the 10.8 m (35 ft) long missiles and a fire control radar. It can be linked to other, longer-range radar systems.
+The S-200 surface-to-air missile system was designed for the defense of the most important administrative, industrial and military installations from all types of air attack. S-200 provides defeat of modern and advanced aircraft, including air command and control centers, AWACS aircraft, aircraft jamming creation and other manned and unmanned aerial vehicles. The S-200 is an all-weather system that can be operated in various climatic conditions.
+By 1966, the S-200 was officially accepted into service in order to replace the failed anti-ballistic missile RZ-25/5V11 "Dal". The Dal was assigned the NATO reporting name SA-5 "Griffon" before it was cancelled.
+The first S-200 operational regiments were deployed in 1966 with 18 sites and 342 launchers in service by the end of the year. By 1968 there were 40 sites, and by 1969 there were 60 sites. The growth in numbers then gradually increased throughout the 1970s (1100 launchers) and early 1980s until the peak of 130 sites and 2030 launchers was reached in 1980-1990.
+Each missile is launched by 4 solid-fueled strap-on rocket boosters. After they burn out and drop away (between 3 and 5.1 seconds from launch) it fires a 5D67 liquid fueled sustainer rocket engine (for 51–150 seconds) which burns a fuel called TG-02 Samin (50% xylidine and 50% triethylamine), oxidized by an agent called AK-27P Melange (fuming nitric acid enriched with nitrogen oxides, phosphoric acid and hydrofluoric acid). Maximum range is between 150 km (81 nmi) and 300 km (160 nmi), depending on the model. The missile uses radio illumination mid-course correction to fly towards the target with a terminal semi-active radar homing phase. Maximum target speed is around Mach 4. Effective altitude is 300 m (980 ft) to 20,000 m (66,000 ft) for early models and up to 35,000 m (115,000 ft) for later models. The warhead is either 217 kg (478 lb) high-explosive fragmentation (16,000 × 2 g fragmentation pellets and 21,000 × 3.5 g pellets) triggered by radar proximity fuse or command signal, or a 25 kt nuclear warhead triggered by command signal only. Each missile weighs around 7,108 kg (15,670 lb) at takeoff.
+The system utilises radio semi active guidance throughout the missile's flight, which is far more accurate at long range than the command guidance method used by the earlier S-75 Dvina and other missiles. The existence of an optional terminal passive radar homing mode for use against AEW aircraft remains unconfirmed. Peak missile speed is around Mach 8 and the single-shot kill probability is quoted as 0.85, presumably against a high altitude bomber-type target.
+The fire control radar of the S-200 system is the 5N62 (NATO: Square Pair) CW H band radar, whose range is 270 km (170 mi). It is used for both the tracking of targets and their illumination.
+P-14/5N84A "Tall King" A-band early warning radar (range 600 km (370 mi), 2-6 RPM, maximum search altitude 46 km (29 mi))
+or "Big Back" E-band early warning radar (600 km (370 mi)
+Kabina 66/5N87 "Back Net" or "Back Trap" E-band early warning radar (with special low-altitude search mod, range 370 km (230 mi), 3-6 RPM)
+P-35/37 "Bar Lock\Bar Lock B" 1000 kW E\F-band target detection and tracking radar (with integrated IFF, range 392 km (244 mi), 7 RPM)
+"Side Net" or "Odd Pair" E-band height finding radar (also used by the SA-4, SA-4 and SA-6, range 240 km (150 mi), 3-6 RPM)
+P-15M(2) "Squat Eye" 380 kW C-band target detection radar (range 128 kilometres (80 mi)
+S-200A "Angara" (SA-5a), with the V-860/5V21 or V-860P/5V21A missile, introduced in 1967, range 17-180 km (110 mi), ceiling 20 km (12 mi)/0,5-40. The probability of hitting the target 0,45-0,98
+S-200V "Vega" (SA-5b), with the V-860PV/5V21P missile, introduced in 1970, range 240 km (150 mi) minimum 7 km, ceiling 29 km (18 mi) superior limit 35, minimum height 0,05 km. Five divisions. Division - one goal and missiles at targets a maximum of 2. Missile has a semi-active radar homing. The launch - reclining, with a constant angle of elevation, from the launcher, is rotated horizontally.
+S-200 "Vega" (SA-5b), with the V-870 missile, range increased to 300 km (190 mi) and ceiling to 40 km (25 mi) with the new, shorter missile and solid fuel motor. The probability of hitting the target 0,66-0,99.
+S-200M "Vega-M" (SA-5b), with the V-880/5V28 or V-880N/5V28N² missile, range 300 km (190 mi), ceiling 29 km (18 mi)
+S-200VE "Vega-E" (SA-5b), with the V-880E/5V28E missile, export version, high-explosive warhead only, range 240 km (150 mi) Minimum target size of 0.3 sq. meters. Speed of the target -1200 m / s  The number of simultaneously fired targets. Up to 5 (the number of radar targeting). Greater than previously opportunity fight against stealth.
+S-200D "Dubna" (SA-5c), with the 5V25V, V-880M/5V28M or V-880MN/5V28MN² missile, introduced in 1976, high-explosive or nuclear warhead, range 400 km (250 mi), ceiling 0,3-40 km (25 mi). The probability of hitting the target 0,72-0,99.
+Command post S - 300 (SA-20/SA-20A/SA-20B) can manage in any combination the elements of S - 200 and S-300. Missiles complex S - 200 Dubna can be controlled command post system S - 300, command post S - 300 may also be controlled by the command post S - 400 (S - 200 Dubna still have in service) Or through a higher-level command post (Organize Use PVO 73N6 "Baikal-1").
+Iranian air defense force has implemented several improvements on their S-200 systems such as using solid state parts and removing restrictions on working time. They destroyed a UAV target beyond 100 km range in military drill in recent years. They use two new solid propellant missile named Sayyad-2 and Sayyad-3 via interface systems Talash-2 and Talash-3 in cooperation with S-200 system. These missiles can cover medium and long ranges at high altitudes.
+َAlso Iran claims to have developed a mobile launcher for the system.
+ Russia - 2 battalions S-200 Dubna (there is in the service)
+ Algeria - 10
+ Azerbaijan - 15
+ Bulgaria -  1 battalion.
+ India - 
+ Iran -  10 battalions, in service.
+ Kazakhstan - 
+ North Korea - 4 battalions (2008). 40 systems in 2010 (number of constituent elements is unknown). C-125 (SA-3) 140 (2M-Pechora presumably), C-75 (SA-2) - 180.
+ Myanmar - 20 launchers from  North Korea
+ Poland - 2 squadrons.
+ Romania - unknown number 
+ Syria - 2 defense regiment comprising 2 divisions including 2 batteries S-200 (44 launchers / ≈50/ 48) in service as of 2010, S-200VE 48 launchers in 2012
+ Turkmenistan - 
+ Uzbekistan - 
+ Belarus - Approximately 4 battalions.
+ Czechoslovakia - 5 battalions, passed on to successor states.
+ Czech Republic - Inherited all Czechoslovak S-200 SAM systems, out of service since mid 1990s.
+ East Germany - 4 battalions.
+ Germany - 4 battalions former GDR, phased out around 1991
+ Hungary - 1 battalion.*
+ Libyan Arab Jamahiriya - 8 battalions.
+ Moldova -  1 Battalion
+ Georgia - 
+ Mongolia - The Mongolian People's Army operated SA-5 systems in 1985, but it is unlikely there are any operational as of 2011.
+ Ukraine - Last division was retired on October 30, 2013 
+ Soviet Union - Originally deployed with the ZA-PVO in the strategic air defense role. It was phased out starting in the 1980s and passed on to the successor states before the phasing out process could be completed.
+Siberia Airlines Flight 1812: a Ukrainian S-200 accidentally locked on to a Tupolev Tu-154 passenger aircraft when the target drone the missile was aimed at was destroyed by another missile. The airliner was destroyed over the Black Sea on 4 October 2001, killing all 78 people on board.
+S-75 Dvina
+Sayyad-2
+Sayyad-3
+List of NATO reporting names for surface-to-air missiles
+List of surface-to-air missiles

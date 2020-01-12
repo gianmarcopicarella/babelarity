@@ -1,0 +1,38 @@
+Procyonidae is a New World family of the order Carnivora. It includes the raccoons, coatis, kinkajous, olingos, olinguitos, ringtails and cacomistles. Procyonids inhabit a wide range of environments and are generally omnivorous.
+Procyonids are relatively small animals, with generally slender bodies and long tails (though the common raccoon tends to be bulky). Many procyonids have banded tails, and distinctive facial markings – these are especially visible in the raccoons. Like bears, procyonids are plantigrade, walking on the soles of their feet. Most species have non-retractile claws.
+Because of their general build, the Procyonidae are often popularly viewed as smaller cousins of the bear family. This is apparent in their German names: a raccoon is called a Waschbär (washing bear, as he "washes" his food before eating), a coati is a Nasenbär (nose-bear) while a kinkajou is a Honigbär (honey-bear). Dutch follows suit, calling the animals wasbeer, neusbeer and rolstaartbeer respectively. However, it is now believed that procyonids are more closely related to mustelids than to bears.
+Due to their omnivorous diet, procyonids have lost some of the adaptations for flesh-eating found in their carnivorous relatives. While they do have carnassial teeth, these are poorly developed in most species, especially the raccoons. Apart from the kinkajou, procyonids have the dental formula:
+for a total of 40 teeth. The kinkajou has one less premolar in each row:
+for a total of 36 teeth.
+While coatis are diurnal, all other procyonids are nocturnal. They are mostly solitary animals, and the mother raises litters of up to four young on her own.
+Procyonid fossils once believed to belong to the genus Bassariscus, which includes the modern ringtail and cacomistle, have been identified from the Miocene epoch, around 20 million years (Ma) ago. It has been suggested that early procyonids were an offshoot of the canids that adapted to a more omnivorous diet. The recent evolution of procyonids has been centered in Central America (where their diversity is greatest); they invaded formerly isolated South America as part of the Great American Interchange, beginning about 7.3 Ma ago in the late Miocene, with the appearance there of Cyonasua.
+Genetic studies have shown that kinkajous are a sister group to all other extant procyonids; they split off about 22.6 Ma ago. The clades leading to coatis and olingos on one hand, and to ringtails and raccoons on the other, separated about 17.7 Ma ago. The divergence between olingos and coatis is estimated to have occurred about 10.2 Ma ago, at about the same time that ringtails and raccoons parted ways.
+There has been considerable historical uncertainty over the correct classification of several members. The red panda was previously classified in this family, but it is now classified it in its own family, the Ailuridae, based on molecular biology studies. The status of the various olingos was disputed: some regarded them all as subspecies of Bassaricyon gabbii before DNA sequence data demonstrated otherwise.
+The traditional classification scheme shown below on the left predates the recent revolution in our understanding of procyonid phylogeny based on genetic sequence analysis. This outdated classification groups kinkajous and olingos together on the basis of similarities in morphology that are now known to be an example of parallel evolution; similarly, coatis are shown as being most closely related to raccoons, when in fact they are closest to olingos. Below to the right is a cladogram showing the results of the recent molecular studies. Genus Nasuella was not included in these studies, but in a separate study was found to nest within Nasua.
+FAMILY PROCYONIDAE
+Subfamily Procyoninae (nine species in four genera)
+Tribe Procyonini
+Subtribe Procyonina
+Raccoons, Procyon
+Crab-eating raccoon, Procyon cancrivorus
+Cozumel raccoon, Procyon pygmaeus
+Common raccoon, Procyon lotor
+Subtribe Nasuina
+Nasua
+South American coati or ring-tailed coati, Nasua nasua
+White-nosed coati, Nasua narica
+Nasuella
+Western mountain coati, Nasuella olivacea
+Eastern mountain coati, Nasuella meridensis
+Tribe Bassariscini
+Bassariscus
+Ringtail, Bassariscus astutus
+Cacomistle, Bassariscus sumichrasti
+Subfamily Potosinae (five species in two genera)
+Potos
+Kinkajou, Potos flavus
+Bassaricyon
+Northern olingo or Gabbi's olingo, Bassaricyon gabbii
+Eastern lowland olingo, Bassaricyon alleni
+Western lowland olingo, Bassaricyon medius
+Olinguito, Bassaricyon neblina

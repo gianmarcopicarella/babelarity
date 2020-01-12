@@ -1,0 +1,55 @@
+Ecotoxicology is the study of the effects of toxic chemicals on biological organisms, especially at the population, community, ecosystem level. Ecotoxicology is a multidisciplinary field, which integrates toxicology and ecology.
+The ultimate goal of this approach is to be able to predict the effects of pollution so that the most efficient and effective action to prevent or remediate any detrimental effect can be identified. In those ecosystems that are already impacted by pollution ecotoxicological studies can inform as to the best course of action to restore ecosystem services and functions efficiently and effectively.
+Ecotoxicology differs from environmental toxicology in that it integrates the effects of stressors across all levels of biological organisation from the molecular to whole communities and ecosystems, whereas environmental toxicology focuses upon effects at the level of the individual and below.
+The publication in 1962 of Rachel Carson's seminal volume, Silent Spring catalysed the separation of environmental toxicology - and, subsequently, ecotoxicology - from classical toxicology. The revolutionary element in Carson's work was her extrapolation from single-organism effects to effects at the whole ecosystem and the "balance of nature"
+The term "ecotoxicology" was coined by René Truhaut in 1969 who defined it as "the branch of toxicology concerned with the study of toxic effects, caused by natural or synthetic pollutants, to the constituents of ecosystems, animal (including human), vegetable and microbial, in an integral context”
+Although initially devoted to the study of anthropogenic toxicants, the term is now used to describe research into the ecological effects of diverse abiotic and biotic stresses, thereby integrating secondary effects of anthropogenic activities such as ocean acidification resulting from increased dissolution of carbon dioxide into the surface waters of the oceans  It has been proposed that this broadening of focus from purely toxicological effects to the consideration of more general stressors moves beyond the definition of "ecotoxicology". Van Straalen (2003), in particular, argued that the field had diversified to become Stress Ecology and that, as the effects of anthropogenic toxicants compound existing, natural stressors, exclusive study of their effects in an ecological context was nonsensical. Whilst this proposal is well argued, it is odd of Van Straalen to have specified solely "ecology" as the field when the original field of ecotoxicology was intended to cover all levels of biological organisation from molecular-level causes to ecosystem-level effects. Therefore, the term Stress Biology would seem more appropriate.
+PCBs (polychlorinated biphenyls) - found in coolant and insulating fluids, pesticide extenders, adhesives, and hydraulic fluids.
+Pesticides - used widely for preventing, destroying, or repelling any organism that may be considered harmful. Commonly found in commercially grown fruits, vegetables, and meats. Methyl parathion is a commonly used pesticide used for agricultural reasons. Methyl parathion causes the formation of toxic mediums for humans, soil and water, fresh water fish, and other hydrophilous organisms in the ecosystem. Methyl parathion proposes numerous health risk factors that are life-threatening.
+Mold and other mycotoxins.
+Phthalates are found in plastic wrap, plastic bottles, and plastic food storage containers, all of which make up a considerable part of household plastic waste.
+VOCs (volatile organic compounds) - such as formaldehyde; can be found in drinking water and sewage systems.
+Dioxins are a class of chemical compounds that are formed as a result of combustion processes such as waste incineration and from burning fuels like wood, coal, and oil.
+Asbestos is found in the insulation of flows, ceilings, water pipes, and heating ducts.
+Heavy metals include arsenic, mercury, lead, aluminum, and cadmium, which are found in fish, vaccines, and pesticides.
+Chloroform is used to make other chemicals.
+Chlorine is commonly found in household cleaners.
+- Chemicals propose the risk of killing off another animal's food supply that change the overall population of the prey
+- Animals can go to the brink of extinction because of the food chain that exists through the different communities. For example, bald eagles, ospreys, and peregrine falcons were facing extinction because their food sources(fish and other birds) were contaminated with toxins.
+- We are all connected between the communities of living things. Plants can absorb toxins through their roots and leaves. Animals and humans are always exposed to chemicals by the air we breathe, things we touch, and what we put in our mouth.
+- Animals and humans can also eat other animals or plants that are already poisoned, which will continue the spread of chemicals, which is referred to as secondary poisoning 
+- Direct effects- direct consumption of a toxin or something that has been contaminated with a toxin by breathing, eating, or drinking.
+- Developmental and reproductive problems
+- Indirect effects- organisms directly affected by the loss of food, which has declined due to toxins.
+- Sub-lethal effects- toxins that do not kill but make the organism sick or make it change its behavior;
+- With chronic use of pesticides, this runs the risk of causing abnormalities in chromosome structure in humans, as well as affecting the reproduction, nervous and cardiovascular system of any animals exposed.
+- The genetics can be affected by toxicant exposure, direct changes can occur to the DNA, and if not repaired, the changes can lead to the appearance mutations 
+- Contaminants can modify the distribution of individuals in a population, effective population size, mutation rate and migration rate 
+- Predator-prey relationships- either the predator is affected by the toxin resulting in a decline of predator population and thus increasing the prey population; or the prey population is affected by the toxin resulting in a decline in the prey population that, in essence, will cause a decline in the predator population due to lack of food resources 
+- Community ecotoxicology studies the effects of all contaminants on patterns and species abundance, diversity, community composition, and species interactions. Communities that rely heavily on competition and predation will have a difficult time responding and thriving in disturbances from contaminants. A community that is species-rich will have a better chance recovering from an exotoxin disturbance, rather than a community that is not species-rich. A species could be easily wiped out to the expense of a contamination from foreign chemicals. Protecting distinct community levels, such as species richness and diversity is essential for maintaining a healthy, well-balanced ecosystem 
+Chemicals are shown to prohibit the growth of seed germination of an arrangement of different plant species. Plants are what make up the most vital trophic level of the biomass pyramids, known as the primary producers. Because they are at the bottom of the pyramid, every other organism in an ecosystem relies on the health and abundance of the primary producers in order to survive. If plants are battling problems with diseases relating to exposure to chemicals, other organisms will either die because of starvation or obtain the disease by eating the plants or animals already infected. So ecotoxicology is an ongoing battle that stems from many sources and can affect everything and everyone in an ecosystem 
+Regulation:
+- In the United States, the Environmental Protection Agency (EPA) reviews all pesticides before the products are registered for sale to ensure that the benefits will outweigh the risks.
+-Food Quality Protection Act and the Safe Drinking Water Act were passed in 1996, which required EPA to screen pesticide chemical for potential to produce harmful effects.
+-Keep close track of the labeling when using a fertilizer, or pesticide. Try to look for products that will have less of an impact on the environment 
+- There are many federal and state laws protecting birds, animals, and rare plants. But the first order of protection comes from us taking steps to avoid harm since we are the main source of all the toxins.
+- Proper waste disposal
+Acute and chronic toxicity tests are performed for terrestrial organisms including avian, mammalian, nontarget arthropods, and earthworms.
+The Organization for Economic Cooperation and Development (OECD) test guideline has developed specific tests to test toxicity level in organisms. Ecotoxicological studies are generally performed in compliance with international guidelines, including EPA, OECD, EPPO, OPPTTS, SETAC, IOBC, and JMAFF.
+LC50 is the acute toxicity test that tests for the concentrate of tissue at which it is lethal to 50% within 96 hours. The test may start with eggs, embryos, or juveniles and last from 7 to 200 days.
+EC50 is the effective concentration at 50%, which is the concentration that causes adverse effects in 50% of the test organisms.
+Endocrine Disruptor Screening Program (EDSP)
+Tier 1 screening battery
+Endangered species assessments.
+Persistent, Bioaccumulative, and Inherently Toxic (PBiT) assessments using the Quantitative Structure-Activity Relationships (QSARs) to categorize regulated substances.
+Bioaccumulation in fish using the Bioconcentration Factor (BCF) methods.
+Total amount of acute toxicity is directly related to the classification of toxicity.
+< 1 part per million→ Class I
+1-10 parts per million→ Class II
+10-100 parts per million→ Class III 
+Aquatic toxicology
+Ecology
+Ecotoxicity
+Environmental toxicology
+Toxicity
+Toxicology

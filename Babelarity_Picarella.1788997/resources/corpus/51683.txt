@@ -1,0 +1,23 @@
+Google Sites is a structured wiki- and Web page-creation tool offered by Google as part of the Google Apps for Work productivity suite. The goal of Google Sites is for anyone to be able to create a team-oriented site where multiple people can collaborate and share files.
+Google Sites started out as JotSpot, the name and sole product of a software company that offered enterprise social software. It was targeted mainly at small-sized and medium-sized businesses. The company was founded by Joe Kraus and Graham Spencer, co-founders of Excite.
+In February 2006, JotSpot was named part of Business 2.0, "Next Net 25", and in May 2006, it was honored as one of InfoWorld's "15 Start-ups to Watch". In October 2006, JotSpot was acquired by Google. Google announced a prolonged data transition of webpages created using Google Page Creator (also known as "Google Pages") to Google Sites servers in 2007. On February 28, 2008, Google Sites was unveiled using the JotSpot technology. The service was free, but users needed a domain name, which Google offered for $10. However, as of May 21, 2008, Google Sites became available for free, separately from Google Apps, and without the need for a domain.
+In June 2016, Google introduced a complete rebuild of the Google Sites platform. At the time of writing, this is available on a limited trial basis to Apps customers who opt into the trial.
+Custom Domain Name Mapping — Owners of both personal Google accounts and Google Apps for Business accounts are allowed to map their Google Site to a custom domain name. One must own the domain and have access to change the CNAME records.
+Multi-tier Permissions and Accessibility — There are three levels of permissions within Google Sites: Owner, Editor and Viewer. Owners have full permissions to modify design and content of the entire Google Site, whereas editors cannot change the design of the site. Viewers can only view the site and are not permitted to make any changes to text or otherwise.
+Gadgets — XML modules that can be embedded in a Site and may contain custom CSS and JavaScript. Gadgets achieve two purposes:
+Separation or Abstraction — the custom code can be abstracted to a distinct file
+Reuse — the same gadget can be reused by multiple sites as it is published publicly
+HTML Box — allows embedding custom HTML, CSS and JavaScript, but with following limitations:
+one HTML Box cannot interact or refer to code outside including other HTML Boxes
+Script cannot create another script, image or link tags
+100 MB of storage (for free account) and 10 GB of storage for Google Apps users
+No open use of Cascading Style Sheets (CSS) or JavaScript. JavaScript can be used within the confines of an embedded gadget or the HTML box. Inline CSS can be used within the webpage content area.
+Limited e-store capabilities, have to use the Google i-store gadget to add a shopping cart, iframe a third-party e-store provider such as Amazon, or use a Google Buy Now button.
+Limited use of HTML coding. HTML is checked and modified when saved, Javascript is made safe with Caja. CSS cannot be incorporated in the theme templates; however, inline CSS can be used within the webpage content area.
+No longer serves .html/.htm Web pages, like Google Pages did. All static HTML Web pages previously hosted on Google Pages can be migrated to Google Sites, but users later attempting to access them, as well as Portable Document Format (PDF) or other migrated files, must download those files in order to view them.
+Sites that are hosted in Google Sites are not available to residents of countries where Google Services are blocked.
+Following a regional Turkish court ruling in 2009, all pages hosted on Google Sites had been blocked. It was done after one of the pages contained an alleged insult of Turkey's founder, Mustafa Kemal Atatürk. In 2012 the European Convention on Human Rights (ECHR) ruled this a breach of Article 10 of the European Convention on Human Rights (Yildirim v Turkey, 2012). However, as of October 2013, Google Sites remained fully blocked to users in Turkey.
+Google Web Designer
+Comparison of free web hosting services
+Google App Engine
+Blogger

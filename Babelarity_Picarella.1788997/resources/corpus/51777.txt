@@ -1,0 +1,25 @@
+HPFS or High Performance File System is a file system created specifically for the OS/2 operating system to improve upon the limitations of the FAT file system. It was written by Gordon Letwin and others at Microsoft and added to OS/2 version 1.2, at that time still a joint undertaking of Microsoft and IBM, and released in 1988.
+Among its improvements are:
+support for mixed case file names, in different code pages
+support for long file names (255 characters as opposed to FAT's 8.3 characters)
+more efficient use of disk space (files are not stored using multiple-sector clusters but on a per-sector basis)
+an internal architecture that keeps related items close to each other on the disk volume
+less fragmentation of data
+extent-based space allocation
+separate datestamps for last modification, last access, and creation (as opposed to FAT's last modification-only datestamp)
+a B+ tree structure for directories
+root directory located at the midpoint, rather than beginning of the disk, for faster average access
+HPFS also can keep 64 KiB of metadata ("extended attributes") per file.
+IBM offers two kind of IFS drivers for this file system:
+the standard one with a cache limited to 2 MiB
+HPFS386 provided with certain server versions of OS/2, or as added component for the server versions that did not come with it
+HPFS386's cache is limited by the amount of available memory in OS/2's system memory arena and was implemented in 32-bit assembly language. HPFS386 is a ring 0 driver (allowing it direct hardware access and direct interaction with the kernel) with built-in SMB networking properties that are utilizable by various server daemons, whereas HPFS is a ring 3 driver. Thus, HPFS386 is faster than HPFS and highly optimized for server applications. It is also highly tunable by experienced administrators.
+Though IBM still had rights to HPFS, their agreement with Microsoft to continue licensing the HPFS386 version is contingent upon them paying Microsoft a licensing fee for each copy sold. This was a result from the Microsoft and IBM collaboration that both IBM and Microsoft had right to use Windows and OS/2 technology. Microsoft used HPFS in Windows NT.
+Due to the Microsoft dependence, limited partition size, file size limit of 2 GiB and the long disk check times after a crash, IBM ported the journaling file system JFS to OS/2 as a substitute.
+DOS and Linux support HPFS via third-party drivers. Windows NT versions 3.51 and earlier had native support for HPFS.
+Windows 95 and its successors Windows 98, Windows Me can read/write HPFS only when mapped via a network share, but cannot read it from a local disk. They listed the NTFS partitions of networked computers as "HPFS", because NTFS and HPFS share the same filesystem identification number in the partition table.
+Windows NT 3.1 and 3.5 have native read/write support for local disks and can even be installed onto an HPFS partition. This is because NT was originally going to be a version of OS/2.
+Windows NT 3.51 can also read and write from local HPFS formatted drives. However, Microsoft discouraged using HPFS in Windows NT 4 and in subsequent versions despite upgrades to NT 4.1 operating satisfactorily with servers pre-formatted with HPFS. Microsoft even removed the ability of NT 3.51 to format an HPFS file system. Starting with Windows NT 4 the filesystem driver PINBALL.SYS enabling the read/write access is not included in a default installation anymore. Later Windows versions do not ship with this driver.
+Microsoft retained rights to OS/2 technologies, including the HPFS filesystem, after they ceased collaboration with IBM. Since Windows NT 3.1 was designed for more rigorous (enterprise-class) use than previous versions of Windows, it included support for HPFS (and NTFS) giving it a larger storage capacity than FAT filesystems. However, since HPFS lacks a journal, any recovery after an unexpected shutdown or other error state takes progressively longer as the filesystem grows. A utility such as CHKDSK would need to scan each entry in the filesystem to ensure no errors are present, a problem which is vastly reduced on NTFS where the journal is simply replayed.
+Comparison of file systems
+HPFS BPB

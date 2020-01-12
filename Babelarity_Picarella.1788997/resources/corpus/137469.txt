@@ -1,0 +1,51 @@
+Mastocytosis, one of the mast cell diseases, is a rare mast cell activation disorder of both children and adults caused by the presence of too many mast cells (mastocytes) and CD34+ mast cell precursors.
+People affected by mastocytosis are susceptible to itching, hives, and anaphylactic shock, caused by the release of histamine from mast cells. The current classifications, definitions and diagnostic criteria for mastocytosis are being reviewed for revision to better describe the collection of related disorders.
+Mastocytosis can occur in a variety of forms:
+Most cases are cutaneous (confined to the skin only), and there are several forms. The most common cutaneous mastocytosis is urticaria pigmentosa (UP), more common in children, although also seen in adults. Telangiectasia macularis eruptiva perstans (TMEP) is a much rarer form of cutaneous mastocytosis that affects adults. UP and TMEP can evolve into indolent systemic mastocytosis. This should be considered if patients develop any systemic symptoms .
+Systemic mastocytosis involves the bone marrow in some cases and in some cases other internal organs, usually in addition to involving the skin. Any organ can be involved. Mast cells collect in various tissues and can affect organs where mast cells do not normally inhabit such as the liver, spleen and lymph nodes, and organs which have normal populations but numbers are increased. In the bowel, it may manifest as mastocytic enterocolitis.
+There are three classes of systemic mastocytosis: indolent systemic mastocytosis, aggressive systemic mastocytosis, and Leukemic systemic (which affects 3% of cases).
+Other types of mast cell disease include:
+Monoclonal mast cell activation, defined by the World Health Organisation definitions 2010, also has increased mast cells but insufficient to be systemic mastocytosis (in World Health Organisation Definitions ) 
+Mast cell activation syndrome – has normal number of mast cells, but all the symptoms and in some cases the genetic markers of systemic mastocytosis.
+Other known but rare mast cell proliferation diseases are mast cell leukemia and mast cell sarcoma.
+When too many mast cells exist in a person's body and undergo degranulation, the additional chemicals can cause a number of symptoms which can vary over time and can range in intensity from mild to severe. Because mast cells play a role in allergic reactions, the symptoms of mastocytosis often are similar to the symptoms of an allergic reaction. They may include, but are not limited to:
+Fatigue
+Skin lesions (urticaria pigmentosa), itching, and dermatographic urticaria (skin writing)
+Abdominal discomfort
+Nausea and vomiting
+Diarrhea
+Olfactive intolerance
+Infections (bronchitis, rhinitis, and conjunctivitis)
+Ear/nose/throat inflammation
+Anaphylaxis (shock from allergic or immune causes)
+Episodes of very low blood pressure (including shock) and faintness
+Bone or muscle pain
+Decreased bone density or increased bone density (osteoporosis or osteosclerosis)
+Headache
+Depression
+Ocular discomfort
+Increased stomach acid production causing peptic ulcers (increased stimulation of enterochromaffin cell and direct histamine stimulation on parietal cell)
+Malabsorption (due to inactivation of pancreatic enzymes by increased acid)
+Mast cells are located in connective tissue, including the skin, the linings of the stomach and intestine, and other sites. They play an important role in helping defend these tissues from disease. By releasing chemical "alarms" such as histamine, mast cells attract other key players of the immune defense system to areas of the body where they are needed.
+Mast cells seem to have other roles as well. Because they gather together around wounds, mast cells may play a part in wound healing. For example, the typical itching felt around a healing scab may be caused by histamine released by mast cells. Researchers also think mast cells may have a role in the growth of blood vessels (angiogenesis). No one with too few or no mast cells has been found, which indicates to some scientists we may not be able to survive with too few mast cells.
+Mast cells express a cell surface receptor, c-kit (CD117), which is the receptor for stem cell factor (scf). In laboratory studies, scf appears to be important for the proliferation of mast cells. Mutations of the c-kit receptor, leading to uncontrolled stimulation of the receptor, is a cause for the disease. Inhibiting the tyrosine kinase receptor with imatinib (see below) may reduce the symptoms of mastocytosis.
+Doctors can diagnose urticaria pigmentosa (cutaneous mastocytosis, see above) by seeing the characteristic lesions that are dark-brown and fixed. A small skin sample (biopsy) may help confirm the diagnosis.
+By taking a biopsy from a different organ, such as the bone marrow, the doctor can diagnose systemic mastocytosis. Using special techniques on a bone marrow sample, the doctor looks for an increase in mast cells. Another sign of this disorder is high levels of certain mast-cell chemicals and proteins in a person's blood and sometimes in the urine. Serum tryptase level is the initial screening test for suspected systemic mastocytosis.
+No one is sure how many people have either type of mastocytosis, but mastocytosis generally has been considered to be an "orphan disease" (orphan diseases affect 200,000 or fewer people in the United States). Mastocytosis, however, often may be misdiagnosed, especially because it typically occurs secondary to another condition, and thus may occur more frequently than assumed.
+There is currently no cure for mastocytosis, but there are a number of medicines to help treat the symptoms:
+Antihistamines block receptors targeted by histamine released from mast cells. Both H1 and H2 blockers may be helpful.
+Leukotriene antagonists block receptors targeted by leukotrienes released from mast cells.
+Mast cell stabilizers help prevent mast cells from releasing their chemical contents. Cromolyn sodium oral solution (Gastrocrom / Cromoglicate) is the only medicine specifically approved by the FDA for the treatment of mastocytosis. Ketotifen is available in Canada and Europe, but is only available in the U.S. as eyedrops (Zaditor).
+Proton pump inhibitors help reduce production of gastric acid, which is often increased in patients with mastocytosis. Excess gastric acid can harm the stomach, esophagus, and small intestine.
+Epinephrine constricts blood vessels and opens airways to maintain adequate circulation and ventilation when excessive mast cell degranulation has caused anaphylaxis.
+Salbutamol and other beta-2 agonists open airways that can constrict in the presence of histamine.
+Corticosteroids can be used topically, inhaled, or systemically to reduce inflammation associated with mastocytosis.
+Antidepressants are an important and often overlooked tool in the treatment of mastocytosis. Depression and other neurological symptoms have been noted in mastocytosis. Some antidepressants, such as doxepin, are themselves potent antihistamines and can help relieve physical as well as cognitive symptoms.
+Dihydropyridines and calcium channel blockers are sometimes used to treat high blood pressure. At least one clinical study suggested nifedipine, one of the dihydropyridines, may reduce mast cell degranulation in patients who exhibit urticaria pigmentosa. A 1984 study by Fairly et al. included a patient with symptomatic urticaria pigmentosa who responded to nifedipine at dose of 10 mg po tid. However, nifedipine has not been approved by the FDA for treatment of mastocytosis.
+In rare cases in which mastocytosis is cancerous or associated with a blood disorder, the patient may have to use steroids and/or chemotherapy. The novel agent imatinib (Glivec or Gleevec) has been found to be effective in certain types of mastocytosis.
+There are clinical trials currently underway testing stem cell transplants as a form of treatment.
+National Institute of Allergy and Infectious Diseases scientists have been studying and treating patients with mastocytosis for several years at the National Institutes of Health (NIH) Clinical Center.
+Some of the most important research advances for this rare disorder include improved diagnosis of mast cell disease and identification of growth factors and genetic mechanisms responsible for increased mast cell production. Researchers are currently evaluating approaches to improve ways to treat mastocytosis.
+Scientists also are focusing on identifying disease-associated mutations (changes in genes). NIH scientists have identified some mutations, which may help researchers understand the causes of mastocytosis, improve diagnosis, and develop better treatments.
+Urticaria pigmentosa was first described in 1869. Systemic mastocytosis was first reported by French scientists in 1936.
+Mast cell tumors are found in many species of animals.

@@ -1,0 +1,1602 @@
+The Zeeman effect (/ˈzeɪmən/; Dutch pronunciation: [ˈzeːmɑn]), named after the Dutch physicist Pieter Zeeman, is the effect of splitting a spectral line into several components in the presence of a static magnetic field. It is analogous to the Stark effect, the splitting of a spectral line into several components in the presence of an electric field. Also similar to the Stark effect, transitions between different components have, in general, different intensities, with some being entirely forbidden (in the dipole approximation), as governed by the selection rules.
+Since the distance between the Zeeman sub-levels is a function of the magnetic field, this effect can be used to measure the magnetic field, e.g. that of the Sun and other stars or in laboratory plasmas. The Zeeman effect is very important in applications such as nuclear magnetic resonance spectroscopy, electron spin resonance spectroscopy, magnetic resonance imaging (MRI) and Mössbauer spectroscopy. It may also be utilized to improve accuracy in atomic absorption spectroscopy. A theory about the magnetic sense of birds assumes that a protein in the retina is changed due to the Zeeman effect.
+When the spectral lines are absorption lines, the effect is called inverse Zeeman effect.
+Historically, one distinguishes between the normal and an anomalous Zeeman effect (discovered by Thomas Preston in Dublin, Ireland ). The anomalous effect appears on transitions where the net spin of the electrons is an odd half-integer, so that the number of Zeeman sub-levels is even. It was called "anomalous" because the electron spin had not yet been discovered, and so there was no good explanation for it at the time that Zeeman observed the effect.
+At higher magnetic fields the effect ceases to be linear. At even higher field strength, when the strength of the external field is comparable to the strength of the atom's internal field, electron coupling is disturbed and the spectral lines rearrange. This is called the Paschen-Back effect.
+In the modern scientific literature, these terms are rarely used, with a tendency to use just the "Zeeman effect".
+The total Hamiltonian of an atom in a magnetic field is
+        H
+        =
+          H
+            0
+        +
+          V
+            M
+        ,
+    {\displaystyle H=H_{0}+V_{M},\ }
+where 
+          H
+            0
+    {\displaystyle H_{0}}
+   is the unperturbed Hamiltonian of the atom, and 
+          V
+            M
+    {\displaystyle V_{M}}
+   is the perturbation due to the magnetic field:
+          V
+            M
+        =
+        −
+              μ
+              →
+        ⋅
+              B
+              →
+        ,
+    {\displaystyle V_{M}=-{\vec {\mu }}\cdot {\vec {B}},}
+where 
+              μ
+              →
+    {\displaystyle {\vec {\mu }}}
+   is the magnetic moment of the atom. The magnetic moment consists of the electronic and nuclear parts; however, the latter is many orders of magnitude smaller and will be neglected here. Therefore,
+              μ
+              →
+        ≈
+        −
+                μ
+                  B
+              g
+                    J
+                    →
+            ℏ
+        ,
+    {\displaystyle {\vec {\mu }}\approx -{\frac {\mu _{B}g{\vec {J}}}{\hbar }},}
+where 
+          μ
+            B
+    {\displaystyle \mu _{B}}
+   is the Bohr magneton, 
+              J
+              →
+    {\displaystyle {\vec {J}}}
+   is the total electronic angular momentum, and 
+        g
+    {\displaystyle g}
+   is the Landé g-factor. A more accurate approach is to take into account that the operator of the magnetic moment of an electron is a sum of the contributions of the orbital angular momentum 
+              L
+              →
+    {\displaystyle {\vec {L}}}
+   and the spin angular momentum 
+              S
+              →
+    {\displaystyle {\vec {S}}}
+  , with each multiplied by the appropriate gyromagnetic ratio:
+              μ
+              →
+        =
+        −
+                μ
+                  B
+              (
+                g
+                  l
+                    L
+                    →
+              +
+                g
+                  s
+                    S
+                    →
+              )
+            ℏ
+        ,
+    {\displaystyle {\vec {\mu }}=-{\frac {\mu _{B}(g_{l}{\vec {L}}+g_{s}{\vec {S}})}{\hbar }},}
+where 
+          g
+            l
+        =
+        1
+    {\displaystyle g_{l}=1}
+   and 
+          g
+            s
+        ≈
+        2.0023192
+    {\displaystyle g_{s}\approx 2.0023192}
+   (the latter is called the anomalous gyromagnetic ratio; the deviation of the value from 2 is due to the effects of quantum electrodynamics). In the case of the LS coupling, one can sum over all electrons in the atom:
+        g
+              J
+              →
+        =
+          ⟨
+            ∑
+              i
+          (
+            g
+              l
+                  l
+                    i
+                →
+          +
+            g
+              s
+                  s
+                    i
+                →
+          )
+          ⟩
+        =
+          ⟨
+          (
+            g
+              l
+                L
+                →
+          +
+            g
+              s
+                S
+                →
+          )
+          ⟩
+        ,
+    {\displaystyle g{\vec {J}}=\left\langle \sum _{i}(g_{l}{\vec {l_{i}}}+g_{s}{\vec {s_{i}}})\right\rangle =\left\langle (g_{l}{\vec {L}}+g_{s}{\vec {S}})\right\rangle ,}
+where 
+              L
+              →
+    {\displaystyle {\vec {L}}}
+   and 
+              S
+              →
+    {\displaystyle {\vec {S}}}
+   are the total orbital momentum and spin of the atom, and averaging is done over a state with a given value of the total angular momentum.
+If the interaction term 
+          V
+            M
+    {\displaystyle V_{M}}
+   is small (less than the fine structure), it can be treated as a perturbation; this is the Zeeman effect proper. In the Paschen-Back effect, described below, 
+          V
+            M
+    {\displaystyle V_{M}}
+   exceeds the LS coupling significantly (but is still small compared to 
+          H
+            0
+    {\displaystyle H_{0}}
+  ). In ultrastrong magnetic fields, the magnetic-field interaction may exceed 
+          H
+            0
+    {\displaystyle H_{0}}
+  , in which case the atom can no longer exist in its normal meaning, and one talks about Landau levels instead. There are, of course, intermediate cases which are more complex than these limit cases.
+If the spin-orbit interaction dominates over the effect of the external magnetic field, 
+                L
+                →
+    {\displaystyle \scriptstyle {\vec {L}}}
+   and 
+                S
+                →
+    {\displaystyle \scriptstyle {\vec {S}}}
+   are not separately conserved, only the total angular momentum 
+                J
+                →
+          =
+                L
+                →
+          +
+                S
+                →
+    {\displaystyle \scriptstyle {\vec {J}}={\vec {L}}+{\vec {S}}}
+   is. The spin and orbital angular momentum vectors can be thought of as precessing about the (fixed) total angular momentum vector 
+                J
+                →
+    {\displaystyle \scriptstyle {\vec {J}}}
+  . The (time-)"averaged" spin vector is then the projection of the spin onto the direction of 
+                J
+                →
+    {\displaystyle \scriptstyle {\vec {J}}}
+  :
+                S
+                →
+            a
+            v
+            g
+        =
+              (
+                    S
+                    →
+              ⋅
+                    J
+                    →
+              )
+              J
+                2
+              J
+              →
+    {\displaystyle {\vec {S}}_{avg}={\frac {({\vec {S}}\cdot {\vec {J}})}{J^{2}}}{\vec {J}}}
+and for the (time-)"averaged" orbital vector:
+                L
+                →
+            a
+            v
+            g
+        =
+              (
+                    L
+                    →
+              ⋅
+                    J
+                    →
+              )
+              J
+                2
+              J
+              →
+        .
+    {\displaystyle {\vec {L}}_{avg}={\frac {({\vec {L}}\cdot {\vec {J}})}{J^{2}}}{\vec {J}}.}
+Thus,
+        ⟨
+          V
+            M
+        ⟩
+        =
+              μ
+                B
+            ℏ
+              J
+              →
+          (
+            g
+              L
+                      L
+                      →
+                ⋅
+                      J
+                      →
+                J
+                  2
+          +
+            g
+              S
+                      S
+                      →
+                ⋅
+                      J
+                      →
+                J
+                  2
+          )
+        ⋅
+              B
+              →
+        .
+    {\displaystyle \langle V_{M}\rangle ={\frac {\mu _{B}}{\hbar }}{\vec {J}}\left(g_{L}{\frac {{\vec {L}}\cdot {\vec {J}}}{J^{2}}}+g_{S}{\frac {{\vec {S}}\cdot {\vec {J}}}{J^{2}}}\right)\cdot {\vec {B}}.}
+Using 
+                L
+                →
+          =
+                J
+                →
+          −
+                S
+                →
+    {\displaystyle \scriptstyle {\vec {L}}={\vec {J}}-{\vec {S}}}
+   and squaring both sides, we get
+              S
+              →
+        ⋅
+              J
+              →
+        =
+            1
+            2
+        (
+          J
+            2
+        +
+          S
+            2
+        −
+          L
+            2
+        )
+        =
+              ℏ
+                2
+            2
+        [
+        j
+        (
+        j
+        +
+        1
+        )
+        −
+        l
+        (
+        l
+        +
+        1
+        )
+        +
+        s
+        (
+        s
+        +
+        1
+        )
+        ]
+        ,
+    {\displaystyle {\vec {S}}\cdot {\vec {J}}={\frac {1}{2}}(J^{2}+S^{2}-L^{2})={\frac {\hbar ^{2}}{2}}[j(j+1)-l(l+1)+s(s+1)],}
+and: using 
+                S
+                →
+          =
+                J
+                →
+          −
+                L
+                →
+    {\displaystyle \scriptstyle {\vec {S}}={\vec {J}}-{\vec {L}}}
+   and squaring both sides, we get
+              L
+              →
+        ⋅
+              J
+              →
+        =
+            1
+            2
+        (
+          J
+            2
+        −
+          S
+            2
+        +
+          L
+            2
+        )
+        =
+              ℏ
+                2
+            2
+        [
+        j
+        (
+        j
+        +
+        1
+        )
+        +
+        l
+        (
+        l
+        +
+        1
+        )
+        −
+        s
+        (
+        s
+        +
+        1
+        )
+        ]
+        .
+    {\displaystyle {\vec {L}}\cdot {\vec {J}}={\frac {1}{2}}(J^{2}-S^{2}+L^{2})={\frac {\hbar ^{2}}{2}}[j(j+1)+l(l+1)-s(s+1)].}
+Combining everything and taking 
+            J
+              z
+          =
+          ℏ
+            m
+              j
+    {\displaystyle \scriptstyle J_{z}=\hbar m_{j}}
+  , we obtain the magnetic potential energy of the atom in the applied external magnetic field,
+                  V
+                    M
+                =
+                  μ
+                    B
+                B
+                  m
+                    j
+                  [
+                    g
+                      L
+                        j
+                        (
+                        j
+                        +
+                        1
+                        )
+                        +
+                        l
+                        (
+                        l
+                        +
+                        1
+                        )
+                        −
+                        s
+                        (
+                        s
+                        +
+                        1
+                        )
+                        2
+                        j
+                        (
+                        j
+                        +
+                        1
+                        )
+                  +
+                    g
+                      S
+                        j
+                        (
+                        j
+                        +
+                        1
+                        )
+                        −
+                        l
+                        (
+                        l
+                        +
+                        1
+                        )
+                        +
+                        s
+                        (
+                        s
+                        +
+                        1
+                        )
+                        2
+                        j
+                        (
+                        j
+                        +
+                        1
+                        )
+                  ]
+                =
+                  μ
+                    B
+                B
+                  m
+                    j
+                  [
+                  1
+                  +
+                  (
+                    g
+                      S
+                  −
+                  1
+                  )
+                        j
+                        (
+                        j
+                        +
+                        1
+                        )
+                        −
+                        l
+                        (
+                        l
+                        +
+                        1
+                        )
+                        +
+                        s
+                        (
+                        s
+                        +
+                        1
+                        )
+                        2
+                        j
+                        (
+                        j
+                        +
+                        1
+                        )
+                  ]
+                ,
+                =
+                  μ
+                    B
+                B
+                  m
+                    j
+                  g
+                    j
+    {\displaystyle {\begin{aligned}V_{M}&=\mu _{B}Bm_{j}\left[g_{L}{\frac {j(j+1)+l(l+1)-s(s+1)}{2j(j+1)}}+g_{S}{\frac {j(j+1)-l(l+1)+s(s+1)}{2j(j+1)}}\right]\\&=\mu _{B}Bm_{j}\left[1+(g_{S}-1){\frac {j(j+1)-l(l+1)+s(s+1)}{2j(j+1)}}\right],\\&=\mu _{B}Bm_{j}g_{j}\end{aligned}}}
+where the quantity in square brackets is the Landé g-factor gJ of the atom (
+          g
+            L
+        =
+        1
+    {\displaystyle g_{L}=1}
+   and 
+          g
+            S
+        ≈
+        2
+    {\displaystyle g_{S}\approx 2}
+  ) and 
+          m
+            j
+    {\displaystyle m_{j}}
+   is the z-component of the total angular momentum. For a single electron above filled shells 
+        s
+        =
+        1
+          /
+        2
+    {\displaystyle s=1/2}
+   and 
+        j
+        =
+        l
+        ±
+        s
+    {\displaystyle j=l\pm s}
+  , the Landé g-factor can be simplified into:
+          g
+            j
+        =
+        1
+        ±
+                g
+                  S
+              −
+              1
+              2
+              l
+              +
+              1
+    {\displaystyle g_{j}=1\pm {\frac {g_{S}-1}{2l+1}}}
+Taking 
+          V
+            m
+    {\displaystyle V_{m}}
+   to be the perturbation, the Zeeman correction to the energy is
+                  E
+                    Z
+                    (
+                    1
+                    )
+                =
+                ⟨
+                n
+                l
+                j
+                  m
+                    j
+                  |
+                  H
+                    Z
+                      ′
+                  |
+                n
+                l
+                j
+                  m
+                    j
+                ⟩
+                =
+                ⟨
+                  V
+                    M
+                  ⟩
+                    Ψ
+                =
+                  μ
+                    B
+                  g
+                    J
+                  B
+                    e
+                    x
+                    t
+                  m
+                    j
+    {\displaystyle {\begin{aligned}E_{Z}^{(1)}=\langle nljm_{j}|H_{Z}^{'}|nljm_{j}\rangle =\langle V_{M}\rangle _{\Psi }=\mu _{B}g_{J}B_{ext}m_{j}\end{aligned}}}
+The Lyman alpha transition in hydrogen in the presence of the spin-orbit interaction involves the transitions
+        2
+          P
+            1
+              /
+            2
+        →
+        1
+          S
+            1
+              /
+            2
+    {\displaystyle 2P_{1/2}\to 1S_{1/2}}
+   and 
+        2
+          P
+            3
+              /
+            2
+        →
+        1
+          S
+            1
+              /
+            2
+        .
+    {\displaystyle 2P_{3/2}\to 1S_{1/2}.}
+In the presence of an external magnetic field, the weak-field Zeeman effect splits the 1S1/2 and 2P1/2 levels into 2 states each (
+          m
+            j
+        =
+        1
+          /
+        2
+        ,
+        −
+        1
+          /
+        2
+    {\displaystyle m_{j}=1/2,-1/2}
+  ) and the 2P3/2 level into 4 states (
+          m
+            j
+        =
+        3
+          /
+        2
+        ,
+        1
+          /
+        2
+        ,
+        −
+        1
+          /
+        2
+        ,
+        −
+        3
+          /
+        2
+    {\displaystyle m_{j}=3/2,1/2,-1/2,-3/2}
+  ). The Landé g-factors for the three levels are:
+          g
+            J
+        =
+        2
+    {\displaystyle g_{J}=2}
+   for 
+        1
+          S
+            1
+              /
+            2
+    {\displaystyle 1S_{1/2}}
+   (j=1/2, l=0)
+          g
+            J
+        =
+        2
+          /
+        3
+    {\displaystyle g_{J}=2/3}
+   for 
+        2
+          P
+            1
+              /
+            2
+    {\displaystyle 2P_{1/2}}
+   (j=1/2, l=1)
+          g
+            J
+        =
+        4
+          /
+        3
+    {\displaystyle g_{J}=4/3}
+   for 
+        2
+          P
+            3
+              /
+            2
+    {\displaystyle 2P_{3/2}}
+   (j=3/2, l=1).
+Note in particular that the size of the energy splitting is different for the different orbitals, because the gJ values are different. On the left, fine structure splitting is depicted. This splitting occurs even in the absence of a magnetic field, as it is due to spin-orbit coupling. Depicted on the right is the additional Zeeman splitting, which occurs in the presence of magnetic fields.
+The Paschen-Back effect is the splitting of atomic energy levels in the presence of a strong magnetic field. This occurs when an external magnetic field is sufficiently large to disrupt the coupling between orbital (
+              L
+              →
+    {\displaystyle {\vec {L}}}
+  ) and spin (
+              S
+              →
+    {\displaystyle {\vec {S}}}
+  ) angular momenta. This effect is the strong-field limit of the Zeeman effect. When 
+        s
+        =
+        0
+    {\displaystyle s=0}
+  , the two effects are equivalent. The effect was named after the German physicists Friedrich Paschen and Ernst E. A. Back.
+When the magnetic-field perturbation significantly exceeds the spin-orbit interaction, one can safely assume 
+        [
+          H
+            0
+        ,
+        S
+        ]
+        =
+        0
+    {\displaystyle [H_{0},S]=0}
+  . This allows the expectation values of 
+          L
+            z
+    {\displaystyle L_{z}}
+   and 
+          S
+            z
+    {\displaystyle S_{z}}
+   to be easily evaluated for a state 
+          |
+        ψ
+        ⟩
+    {\displaystyle |\psi \rangle }
+  . The energies are simply
+          E
+            z
+        =
+          ⟨
+          ψ
+            |
+              H
+                0
+            +
+                    B
+                      z
+                    μ
+                      B
+                ℏ
+            (
+              L
+                z
+            +
+              g
+                s
+              S
+                z
+            )
+            |
+          ψ
+          ⟩
+        =
+          E
+            0
+        +
+          B
+            z
+          μ
+            B
+        (
+          m
+            l
+        +
+          g
+            s
+          m
+            s
+        )
+        .
+    {\displaystyle E_{z}=\left\langle \psi \left|H_{0}+{\frac {B_{z}\mu _{B}}{\hbar }}(L_{z}+g_{s}S_{z})\right|\psi \right\rangle =E_{0}+B_{z}\mu _{B}(m_{l}+g_{s}m_{s}).}
+The above may be read as implying that the LS-coupling is completely broken by the external field. However 
+          m
+            l
+    {\displaystyle m_{l}}
+   and 
+          m
+            s
+    {\displaystyle m_{s}}
+   are still "good" quantum numbers. Together with the selection rules for an electric dipole transition, i.e., 
+        Δ
+        s
+        =
+        0
+        ,
+        Δ
+          m
+            s
+        =
+        0
+        ,
+        Δ
+        l
+        =
+        ±
+        1
+        ,
+        Δ
+          m
+            l
+        =
+        0
+        ,
+        ±
+        1
+    {\displaystyle \Delta s=0,\Delta m_{s}=0,\Delta l=\pm 1,\Delta m_{l}=0,\pm 1}
+   this allows to ignore the spin degree of freedom altogether. As a result, only three spectral lines will be visible, corresponding to the 
+        Δ
+          m
+            l
+        =
+        0
+        ,
+        ±
+        1
+    {\displaystyle \Delta m_{l}=0,\pm 1}
+   selection rule. The splitting 
+        Δ
+        E
+        =
+        B
+          μ
+            B
+        Δ
+          m
+            l
+    {\displaystyle \Delta E=B\mu _{B}\Delta m_{l}}
+   is independent of the unperturbed energies and electronic configurations of the levels being considered. It should be noted that in general (if 
+        s
+        ≠
+        0
+    {\displaystyle s\neq 0}
+  ), these three components are actually groups of several transitions each, due to the residual spin-orbit coupling.
+In general, one must now add spin-orbit coupling and relativistic corrections (which are of the same order, known as 'fine structure') as a perturbation to these 'unperturbed' levels. First order perturbation theory with these fine-structure corrections yields the following formula for the Hydrogen atom in the Paschen–Back limit:
+          E
+            z
+            +
+            f
+            s
+        =
+          E
+            z
+        +
+              α
+                2
+              2
+                n
+                  3
+          {
+              3
+                4
+                n
+          −
+            [
+                  l
+                  (
+                  l
+                  +
+                  1
+                  )
+                  −
+                    m
+                      l
+                    m
+                      s
+                  l
+                  (
+                  l
+                  +
+                  1
+                    /
+                  2
+                  )
+                  (
+                  l
+                  +
+                  1
+                  )
+            ]
+          }
+        .
+    {\displaystyle E_{z+fs}=E_{z}+{\frac {\alpha ^{2}}{2n^{3}}}\left\{{\frac {3}{4n}}-\left[{\frac {l(l+1)-m_{l}m_{s}}{l(l+1/2)(l+1)}}\right]\right\}.}
+In the magnetic dipole approximation, the Hamiltonian which includes both the hyperfine and Zeeman interactions is
+        H
+        =
+        h
+        A
+              I
+              →
+        ⋅
+              J
+              →
+        −
+              μ
+              →
+        ⋅
+              B
+              →
+    {\displaystyle H=hA{\vec {I}}\cdot {\vec {J}}-{\vec {\mu }}\cdot {\vec {B}}}
+        H
+        =
+        h
+        A
+              I
+              →
+        ⋅
+              J
+              →
+        +
+          μ
+            B
+        (
+          g
+            J
+              J
+              →
+        +
+          g
+            I
+              I
+              →
+        )
+        ⋅
+              B
+              →
+    {\displaystyle H=hA{\vec {I}}\cdot {\vec {J}}+\mu _{B}(g_{J}{\vec {J}}+g_{I}{\vec {I}})\cdot {\vec {B}}}
+To arrive at the Breit-Rabi formula we will include the hyperfine structure (interaction between the electron's spin and the magnetic moment of the nucleus), which is governed by the quantum number 
+        F
+        ≡
+          |
+              F
+              →
+          |
+        =
+          |
+              J
+              →
+        +
+              I
+              →
+          |
+    {\displaystyle F\equiv |{\vec {F}}|=|{\vec {J}}+{\vec {I}}|}
+  , where 
+              I
+              →
+    {\displaystyle {\vec {I}}}
+   is the spin angular momentum operator of the nucleus. Alternatively, the derivation could be done with 
+        J
+    {\displaystyle J}
+   only. The constant 
+        A
+    {\displaystyle A}
+   is known as the zero field hyperfine constant and is given in units of Hertz. 
+          μ
+            B
+    {\displaystyle \mu _{B}}
+   is the Bohr magneton. 
+        ℏ
+              J
+              →
+    {\displaystyle \hbar {\vec {J}}}
+   and 
+        ℏ
+              I
+              →
+    {\displaystyle \hbar {\vec {I}}}
+   are the electron and nuclear angular momentum operators. 
+          g
+            J
+    {\displaystyle g_{J}}
+   and 
+          g
+            F
+    {\displaystyle g_{F}}
+   can be found via a classical vector coupling model or a more detailed quantum mechanical calculation to be:
+          g
+            J
+        =
+          g
+            L
+              J
+              (
+              J
+              +
+              1
+              )
+              +
+              L
+              (
+              L
+              +
+              1
+              )
+              −
+              S
+              (
+              S
+              +
+              1
+              )
+              2
+              J
+              (
+              J
+              +
+              1
+              )
+        +
+          g
+            S
+              J
+              (
+              J
+              +
+              1
+              )
+              −
+              L
+              (
+              L
+              +
+              1
+              )
+              +
+              S
+              (
+              S
+              +
+              1
+              )
+              2
+              J
+              (
+              J
+              +
+              1
+              )
+    {\displaystyle g_{J}=g_{L}{\frac {J(J+1)+L(L+1)-S(S+1)}{2J(J+1)}}+g_{S}{\frac {J(J+1)-L(L+1)+S(S+1)}{2J(J+1)}}}
+          g
+            F
+        =
+          g
+            J
+              F
+              (
+              F
+              +
+              1
+              )
+              +
+              J
+              (
+              J
+              +
+              1
+              )
+              −
+              I
+              (
+              I
+              +
+              1
+              )
+              2
+              F
+              (
+              F
+              +
+              1
+              )
+        +
+          g
+            I
+              F
+              (
+              F
+              +
+              1
+              )
+              −
+              J
+              (
+              J
+              +
+              1
+              )
+              +
+              I
+              (
+              I
+              +
+              1
+              )
+              2
+              F
+              (
+              F
+              +
+              1
+              )
+    {\displaystyle g_{F}=g_{J}{\frac {F(F+1)+J(J+1)-I(I+1)}{2F(F+1)}}+g_{I}{\frac {F(F+1)-J(J+1)+I(I+1)}{2F(F+1)}}}
+As discussed, in the case of weak magnetic fields, the Zeeman interaction can be treated as a perturbation to the 
+          |
+        F
+        ,
+          m
+            f
+        ⟩
+    {\displaystyle |F,m_{f}\rangle }
+   basis. In the high field regime, the magnetic field becomes so large that the Zeeman effect will dominate, and we must use a more complete basis of 
+          |
+        I
+        ,
+        J
+        ,
+          m
+            I
+        ,
+          m
+            J
+        ⟩
+    {\displaystyle |I,J,m_{I},m_{J}\rangle }
+   or just 
+          |
+          m
+            I
+        ,
+          m
+            J
+        ⟩
+    {\displaystyle |m_{I},m_{J}\rangle }
+   since 
+        I
+    {\displaystyle I}
+   and 
+        J
+    {\displaystyle J}
+   will be constant within a given level.
+To get the complete picture, including intermediate field strengths, we must consider eigenstates which are superpositions of the 
+          |
+        F
+        ,
+          m
+            F
+        ⟩
+    {\displaystyle |F,m_{F}\rangle }
+   and 
+          |
+          m
+            I
+        ,
+          m
+            J
+        ⟩
+    {\displaystyle |m_{I},m_{J}\rangle }
+   basis states. For 
+        J
+        =
+        1
+          /
+        2
+    {\displaystyle J=1/2}
+  , the Hamiltonian can be solved analytically, resulting in the Breit-Rabi formula. Notably, the electric quadrupole interaction is zero for 
+        L
+        =
+        0
+    {\displaystyle L=0}
+   (
+        J
+        =
+        1
+          /
+        2
+    {\displaystyle J=1/2}
+  ), so this formula is fairly accurate.
+To solve this system, we note that at all times, the total angular momentum projection 
+          m
+            F
+        =
+          m
+            J
+        +
+          m
+            I
+    {\displaystyle m_{F}=m_{J}+m_{I}}
+   will be conserved. Furthermore, since 
+        J
+        =
+        1
+          /
+        2
+    {\displaystyle J=1/2}
+   between states 
+          m
+            J
+    {\displaystyle m_{J}}
+   will change between only 
+        ±
+        1
+          /
+        2
+    {\displaystyle \pm 1/2}
+  . Therefore, we can define a good basis as:
+          |
+        ±
+        ⟩
+        ≡
+          |
+          m
+            J
+        =
+        ±
+        1
+          /
+        2
+        ,
+          m
+            I
+        =
+          m
+            F
+        ∓
+        1
+          /
+        2
+        ⟩
+    {\displaystyle |\pm \rangle \equiv |m_{J}=\pm 1/2,m_{I}=m_{F}\mp 1/2\rangle }
+We now utilize quantum mechanical ladder operators, which are defined for a general angular momentum operator 
+        L
+    {\displaystyle L}
+   as
+          L
+            ±
+        ≡
+          L
+            x
+        ±
+        i
+          L
+            y
+    {\displaystyle L_{\pm }\equiv L_{x}\pm iL_{y}}
+These ladder operators have the property
+          L
+            ±
+          |
+          L
+            ,
+          m
+            L
+        ⟩
+        =
+            (
+            L
+            ∓
+              m
+                L
+            )
+            (
+            L
+            ±
+              m
+                L
+            +
+            1
+            )
+          |
+        L
+        ,
+          m
+            L
+        ±
+        1
+        ⟩
+    {\displaystyle L_{\pm }|L_{,}m_{L}\rangle ={\sqrt {(L\mp m_{L})(L\pm m_{L}+1)}}|L,m_{L}\pm 1\rangle }
+as long as 
+          m
+            L
+    {\displaystyle m_{L}}
+   lies in the range 
+          −
+          L
+          ,
+          …
+          .
+          .
+          .
+          ,
+          L
+    {\displaystyle {-L,\dots ...,L}}
+   (otherwise, they return zero). Using ladder operators 
+          J
+            ±
+    {\displaystyle J_{\pm }}
+   and 
+          I
+            ±
+    {\displaystyle I_{\pm }}
+   We can rewrite the Hamiltonian as
+        H
+        =
+        h
+        A
+          I
+            z
+          J
+            z
+        +
+              h
+              A
+            2
+        (
+          J
+            +
+          I
+            −
+        +
+          J
+            −
+          I
+            +
+        )
+        +
+          μ
+            B
+        B
+        (
+          g
+            J
+          J
+            z
+        +
+          g
+            I
+          I
+            Z
+        )
+    {\displaystyle H=hAI_{z}J_{z}+{\frac {hA}{2}}(J_{+}I_{-}+J_{-}I_{+})+\mu _{B}B(g_{J}J_{z}+g_{I}I_{Z})}
+Now we can determine the matrix elements of the Hamiltonian:
+        ⟨
+        ±
+          |
+        H
+          |
+        ±
+        ⟩
+        =
+        −
+            1
+            4
+        h
+        A
+        +
+          μ
+            B
+        B
+          g
+            I
+          m
+            F
+        ±
+            1
+            2
+        (
+        h
+        A
+          m
+            F
+        +
+          μ
+            B
+        B
+        (
+          g
+            J
+        −
+          g
+            I
+        )
+        )
+    {\displaystyle \langle \pm |H|\pm \rangle =-{\frac {1}{4}}hA+\mu _{B}Bg_{I}m_{F}\pm {\frac {1}{2}}(hAm_{F}+\mu _{B}B(g_{J}-g_{I}))}
+        ⟨
+        ±
+          |
+        H
+          |
+        ∓
+        ⟩
+        =
+            1
+            2
+        h
+        A
+            (
+            I
+            +
+            1
+              /
+            2
+              )
+                2
+            −
+              m
+                F
+                2
+    {\displaystyle \langle \pm |H|\mp \rangle ={\frac {1}{2}}hA{\sqrt {(I+1/2)^{2}-m_{F}^{2}}}}
+Solving for the eigenvalues of this matrix, (as can be done by hand, or more easily, with a computer algebra system) we arrive at the energy shifts:
+        Δ
+          E
+            F
+            =
+            I
+            ±
+            1
+              /
+            2
+        =
+        −
+              h
+              Δ
+              W
+              2
+              (
+              2
+              I
+              +
+              1
+              )
+        +
+          μ
+            B
+          g
+            I
+          m
+            F
+        B
+        ±
+              h
+              Δ
+              W
+            2
+            1
+            +
+                  2
+                    m
+                      F
+                  x
+                  I
+                  +
+                  1
+                    /
+                  2
+            +
+              x
+                2
+    {\displaystyle \Delta E_{F=I\pm 1/2}=-{\frac {h\Delta W}{2(2I+1)}}+\mu _{B}g_{I}m_{F}B\pm {\frac {h\Delta W}{2}}{\sqrt {1+{\frac {2m_{F}x}{I+1/2}}+x^{2}}}}
+        x
+        ≡
+                μ
+                  B
+              B
+              (
+                g
+                  J
+              −
+                g
+                  I
+              )
+              h
+              Δ
+              W
+        Δ
+        W
+        =
+        A
+          (
+          I
+          +
+              1
+              2
+          )
+    {\displaystyle x\equiv {\frac {\mu _{B}B(g_{J}-g_{I})}{h\Delta W}}\quad \quad \Delta W=A\left(I+{\frac {1}{2}}\right)}
+where 
+        Δ
+        W
+    {\displaystyle \Delta W}
+   is the splitting (in units of Hz) between two hyperfine sublevels in the absence of magnetic field 
+        B
+    {\displaystyle B}
+  ,
+        x
+    {\displaystyle x}
+   is referred to as the 'field strength parameter' (Note: for 
+        m
+        =
+        −
+        (
+        I
+        +
+        1
+          /
+        2
+        )
+    {\displaystyle m=-(I+1/2)}
+   the square root is an exact square, and should be interpreted as 
+        +
+        (
+        1
+        −
+        x
+        )
+    {\displaystyle +(1-x)}
+  ). This equation is known as the Breit-Rabi formula and is useful for systems with one valence electron in an 
+        s
+    {\displaystyle s}
+   (
+        J
+        =
+        1
+          /
+        2
+    {\displaystyle J=1/2}
+  ) level.
+Note that index 
+        F
+    {\displaystyle F}
+   in 
+        Δ
+          E
+            F
+            =
+            I
+            ±
+            1
+              /
+            2
+    {\displaystyle \Delta E_{F=I\pm 1/2}}
+   should be considered not as total angular momentum of the atom but as asymptotic total angular momentum. It is equal to total angular momentum only if 
+        B
+        =
+        0
+    {\displaystyle B=0}
+   otherwise eigenvectors corresponding different eigenvalues of the Hamiltonian are the superpositions of states with different 
+        F
+    {\displaystyle F}
+   but equal 
+          m
+            F
+    {\displaystyle m_{F}}
+   (the only exceptions are 
+          |
+        F
+        =
+        I
+        +
+        1
+          /
+        2
+        ,
+          m
+            F
+        =
+        ±
+        F
+        ⟩
+    {\displaystyle |F=I+1/2,m_{F}=\pm F\rangle }
+  ).
+George Ellery Hale was the first to notice the Zeeman effect in the solar spectra, indicating the existence of strong magnetic fields in sunspots. Such fields can be quite high, on the order of 0.1 tesla or higher. Today, the Zeeman effect is used to produce magnetograms showing the variation of magnetic field on the sun.
+The Zeeman effect is utilized in many laser cooling applications such as a magneto-optical trap and the Zeeman slower.
+Magneto-optic Kerr effect
+Voigt effect
+Faraday effect
+Cotton-Mouton effect
+Polarization spectroscopy
+Zeeman energy
+Lamb shift
+Electron configuration says at subshell p (l=1), there are 3 energy level ml=-1,0,1, but we see only two p1/2 and p3/2. for subshell s(l=0), there is only 1 energy level (ml=0), but here we have 2. l corresponding to fine structure, ml corresponding to hyperfine structure.

@@ -1,0 +1,39 @@
+Sinus tachycardia (also colloquially known as sinus tach or sinus tachy) is a sinus rhythm with an elevated rate of impulses, defined as a rate greater than 100 beats/min (bpm) in an average adult. The normal resting heart rate in the average adult ranges from 60–100 beats/min. Note that the normal heart rate varies with age, with infants having normal heart rate of 110–150 bpm, in contrast to the elderly, who have slower normals.
+Tachycardia is often asymptomatic. If the heart rate is too high, cardiac output may fall due to the markedly reduced ventricular filling time. Rapid rates, though they may be compensating for ischemia elsewhere, increase myocardial oxygen demand and reduce coronary blood flow, thus precipitating an ischemic heart or valvular disease. Sinus tachycardia accompanying a myocardial infarction may be indicative of cardiogenic shock.
+Sinus tachycardia is usually a response to normal physiological situations, such as exercise and an increased sympathetic tone with increased catecholamine release—stress, fright, flight, anger. Other causes include:
+Pain
+Fever
+Anxiety
+Dehydration
+Malignant hyperthermia
+Hypovolemia with hypotension and shock
+Anemia
+Heart failure
+Hyperthyroidism
+Mercury poisoning
+Kawasaki disease
+Pheochromocytoma
+Sepsis
+Pulmonary embolism
+Acute coronary ischemia and myocardial infarction
+Chronic pulmonary disease
+Hypoxia
+Intake of stimulants such as caffeine, theophylline, nicotine, cocaine, or amphetamines
+Hyperdynamic circulation
+Electric shock
+Drug withdrawal
+Acute Inflammatory Demyelinating Polyradiculoneuropathy
+Usually apparent on the ECG, but if heart rate is above 140 bpm the P wave may be difficult to distinguish from the previous T wave and one may confuse it with a paroxysmal supraventricular tachycardia or atrial flutter with a 2:1 block. Ways to distinguish the three are:
+Vagal maneuvers (such as carotid sinus massage or Valsalva's maneuver) to slow the rate and identification of P waves
+administer AV blockers (e.g., adenosine, verapamil) to identify atrial flutter with 2:1 block
+Rate: Greater than or equal to 100.
+Rhythm: Regular.
+P waves: Upright, consistent, and normal in morphology (if no atrial disease)
+P–R interval: Between 0.12–0.20 seconds and shortens with increasing heart rate
+QRS complex: Less than 0.12 seconds, consistent, and normal in morphology.
+Also known as chronic nonparoxysmal sinus tachycardia, patients have elevated resting heart rate and/or exaggerated heart rate in response to exercise. These patients have no apparent heart disease or other causes of sinus tachycardia. IST is thought to be due to abnormal autonomic control.
+Usually in women with no heart problems, this syndrome is characterized by normal resting heart rate but exaggerated postural sinus tachycardia with or without orthostatic hypotension.
+Not required for physiologic sinus tachycardia. Underlying causes are treated if present.
+Acute myocardial infarction. Sinus tachycardia can present in more than a third of the patients with AMI but this usually decreases over time. Patients with sustained sinus tachycardia reflects a larger infarct that are more anterior with prominent left ventricular dysfunction, associated with high mortality and morbidity. Tachycardia in the presence of AMI can reduce coronary blood flow and increase myocardial oxygen demand, aggravating the situation. Beta blockers can be used to slow the rate, but most patients are usually already treated with beta blockers as a routine regimen for AMI.
+Practically, many studies showed that there is no need for any treatment.
+IST and POTS. Beta blockers are useful if the cause is sympathetic overactivity. If the cause is due to decreased vagal activity, it is usually hard to treat and one may consider radiofrequency catheter ablation.

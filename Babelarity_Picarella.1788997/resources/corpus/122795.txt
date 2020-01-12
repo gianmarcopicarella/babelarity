@@ -1,0 +1,6 @@
+Ħ (minuscule: ħ) is a letter of the Latin alphabet, derived from H with the addition of a bar. It is used in Maltese for a voiceless pharyngeal fricative consonant (corresponding to the letter heth of Semitic abjads). Lowercase ħ is used in the International Phonetic Alphabet for the same sound.
+In quantum mechanics, an italic ℏ represents the reduced Planck constant. In this context, it is pronounced as "h-bar".
+The lowercase resembles the Cyrillic letter Tshe (ћ), or the astronomical symbol of Saturn (♄).
+A white uppercase Ħ on a red square is the logo of Heritage Malta.
+As a part of WGL-4, Ħ should be displayable on most computers.
+The codepoint U+210F is used for the reduced Planck constant: ℏ .

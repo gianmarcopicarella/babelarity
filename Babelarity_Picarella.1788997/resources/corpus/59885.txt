@@ -1,0 +1,19 @@
+Diethanolamine, often abbreviated as DEA or DEOA, is an organic compound with the formula HN(CH2CH2OH)2. Pure diethanolamine is a white solid at room temperature, but its tendency to absorb water and to supercool mean it is often encountered as a colorless, viscous liquid. Diethanolamine is polyfunctional, being a secondary amine and a diol. Like other organic amines, diethanolamine acts as a weak base. Reflecting the hydrophilic character of the secondary amine and hydroxyl groups, DEA is soluble in water. Amides prepared from DEA are often also hydrophilic. Recently, the chemical has been classified by the International Agency for Research on Cancer as "possibly carcinogenic to humans (Group 2B)".
+The reaction of ethylene oxide with aqueous ammonia first produces ethanolamine:
+C2H4O + NH3 → H2NCH2CH2OH
+which reacts with a second and third equivalent of ethylene oxide to give DEA and triethanolamine:
+C2H4O + H2NCH2CH2OH → HN(CH2CH2OH)2
+C2H4O + HN(CH2CH2OH)2 → N(CH2CH2OH)3
+About 300M kg are produced annually in this way. The ratio of the products can be controlled by changing the stoichiometry of the reactants.
+DEA is used as a surfactant and a corrosion inhibitor. It is used to remove hydrogen sulfide and carbon dioxide from natural gas.
+In oil refineries, a DEA in water solution is commonly used to remove hydrogen sulfide from sour gas. It has an advantage over a similar amine ethanolamine in that a higher concentration may be used for the same corrosion potential. This allows refiners to scrub hydrogen sulfide at a lower circulating amine rate with less overall energy usage.
+DEA is a chemical feedstock used in the production of morpholine.
+Amides derived from DEA and fatty acids, known as diethanolamides, are amphiphilic.
+DEA is used in the production of diethanolamides, which are common ingredients in cosmetics and shampoos added to confer a creamy texture and foaming action. Consequently, some cosmetics that include diethanolamides as ingredients may contain traces of DEA. Some of the most commonly used diethanolamides include:
+Cocamide DEA
+DEA-Cetyl Phosphate
+DEA Oleth-3 Phosphate
+Lauramide DEA
+Myristamide DEA
+Oleamide DEA
+DEA is a potential skin irritant in workers sensitized by exposure to water-based metalworking fluids. One study showed that DEA inhibits in baby mice the absorption of choline, which is necessary for brain development and maintenance; however, a study in humans determined that dermal treatment for 1 month with a commercially available skin lotion containing DEA resulted in DEA levels that were "far below those concentrations associated with perturbed brain development in the mouse". In a mouse study of chronic exposure to inhaled DEA at high concentrations (above 150 mg/m3), DEA was found to induce body and organ weight changes, clinical and histopathological changes, indicative of mild blood, liver, kidney and testicular systemic toxicity. A 2009 study found that DEA has potential acute, chronic and subchronic toxicity properties for aquatic species.

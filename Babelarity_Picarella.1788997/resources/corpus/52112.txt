@@ -1,0 +1,39 @@
+Avaya Inc. (/əˈvaɪ.ə/) is an American multinational technology company headquartered in Santa Clara, California that specializes in Internet telephony, wireless data communications, and Customer relationship management (CRM) software, and provides business communication solutions for customer and team engagement.
+Avaya currently services organizations at over 1 million customer locations worldwide with operations divided globally in 5 regions and is ranked at #101 on Forbes America's Largest Private Companies.
+In 1995, the company that would become Avaya was a part of Lucent Technologies. Before that it had been a part of AT&T.
+In 2000, Lucent's management decided to spin off this business, which was then known as its enterprise communications group for flexibility and accelerated innovation and improved operations. Avaya Inc., with the stock symbol, AV, became an independent company and started trading on the New York Stock Exchange on October 2, 2000.
+Many anecdotes and myths surround the origin of this name. The official statement at the time of announcement of the independent entity stated: “Avaya sounds open and fluid -- reflecting a company that’s open-minded and one that provides seamless, effortless interconnections among people and businesses."
+2001- Avaya Interaction Center for customer relationship management (CRM) debuted which enabled businesses to evolve multi-platform call centers to multimedia, multi-site contact centers.
+2002
+-Avaya IP Office, Avaya Unified Communication Center launched -Proposed "Converged Communications" roadmap focused on the crucial role applications would play in making communications an enabler of better business performance -Ran the communications networks for the FIFA World Cup games in Japan and Korea
+2003- Introduction of Avaya MultiVantage Communications Applications, integrated with Avaya Communications Manager
+2004- Avaya's Contact Center Express was launched as the first complete multimedia contact center solution designed solely for medium-sized businesses
+2006
+-Louis D'Ambrosio took over as the CEO and president of Avaya -Avaya one-X Quick Edition was launched based on the emerging SIP-based communications -FIFA World Cup games in Germany ran on Avaya communications Network
+2007
+-Avaya Customer Interaction Suite based on End-to-end Session Initiation Protocol (SIP) support was launched -Introduction of Avaya Communication Manager 4.0
+On October 26, 2007 Avaya was acquired by two private equity firms, TPG Capital and Silver Lake Partners, for $8.2 billion.
+-Avaya Speech to Text let people read their voicemail messages on their mobile devices or computers
+-Avaya Unified Communications focused on role-based communications needs for teleworkers, home agents, enterprise and small business mobile workers, branch office integration, retail stores and branch banking
+-Kevin Kennedy took over as the CEO and president of Avaya.
+-Integrated communication offering Avaya Aura was launched -Nortel Enterprise Solutions was acquired
+-official converged network equipment supplier for the Vancouver 2010 Olympic and Paralympic Winter Games
+-Avaya Aura Contact Center was launched
+In June 2011, Avaya filed with the SEC to raise up to $1 billion in an initial public offering. On October 4, 2011, Avaya reported that it was acquiring Sipera Systems for its session border controller (SBC) functionality and UC security applications. On October 19, 2011 it was reported that Avaya would buy Aurix.
+On April 30, 2012 the shareholders approved the acquisition of Radvision by Avaya for about $230 million.
+- Avaya Fabric Connect supported the network backbone at InteropNet 2013
+- Official Supplier of Network Equipment for Sochi 2014 Olympic Winter Games
+- Launch of Avaya Stadium in San Jose, California in 2015
+According to news articles citing "internal sources" in May 2016, Avaya's Private Equity owners Silver Lake Partners and TPG Capital are considering a sale of telecommunications equipment company Avaya Inc that could value it at between $6 billion and $10 billion, including debt.
+CEO Kevin Kennedy on the company's earnings call had earlier confirmed that Goldman Sachs was helping Avaya evaluate expressions of interest that have been received relative to specific assets, as well as in exploring other potential strategic opportunities.
+Since 2001, the company has sold and acquired several companies to support its current product set, including VPNet Technologies, Inc., VISTA Information Technologies Inc., RouteScience, Tenovis, Spectel, NimCat Networks, Traverse Networks, Ubiquity Software Corporation, Agile Software NZ Limited, Konftel, Sipera, Aurix, Radvision and Esnatech.
+Through Nortel's bankruptcy proceedings, certain assets related to their Enterprise Voice and Data business units were put up for auction. Avaya placed a $900 million bid and was formally announced as the winner of these assets on September 14, 2009.
+Avaya's headquarters are located at 4655 Great America Parkway, Santa Clara, California. The company has offices located in over 145 countries worldwide. The company also sponsors a users' group.
+Avaya sponsors training programs for IT professional certifications and training for use of Avaya's products.
+In 1985, Performance Engineering Corporation (later PEC Solutions Inc.) was formed to offer technology services government customers. On June 6, 2005, Nortel Networks Inc. completed the acquisition of PEC Solutions, Inc. to form Nortel PEC Solutions Inc. On January 18, 2006, Nortel PEC Solutions was renamed Nortel Government Solutions. On December 21, 2009, Avaya acquired Nortel's government business as part of Nortel's asset sale.
+Avaya bought Nortel Enterprise and acquired its patents, including the following:
+US20050007951 – Routed split multilink trunking
+7173934 – System, device, and method for improving communication network reliability using trunk splitting
+6496502 – Distributed multi-link trunking method and apparatus
+7068641 – UNIStim
+Avaya Stadium

@@ -1,0 +1,101 @@
+An electric piano is an electric musical instrument which produces sounds when a performer presses the keys of the piano-style musical keyboard. Pressing keys causes mechanical hammers to strike metal strings, metal reeds or wire tines, leading to vibrations which are converted into electrical signals by magnetic pickups, which are then connected to an instrument amplifier and loudspeaker to make a sound loud enough for the performer and audience to hear. Unlike a synthesizer, the electric piano is not an electronic instrument. Instead, it is an electro-mechanical instrument. Some early electric pianos used lengths of wire to produce the tone, like a traditional piano. Smaller electric pianos used short slivers of steel to produce the tone. The earliest electric pianos were invented in the late 1920s; the 1929 Neo-Bechstein electric grand piano was among the first. Probably the earliest stringless model was Lloyd Loar's Vivi-Tone Clavier. A few other noteworthy producers of electric pianos include Baldwin Piano and Organ Company and the Wurlitzer Company.
+Early electric piano recordings include Duke Ellington's in 1955 and Sun Ra's India as well as other tracks from the 1956 sessions included on his second album Super Sonic Jazz (aka Super Sonic Sounds). The popularity of the electric piano began to grow in the late 1950s after Ray Charles's 1959 hit record "What'd I Say", reaching its height during the 1970s, after which they were progressively displaced by more lightweight electronic pianos capable of piano-like sounds without the disadvantages of electric pianos' heavy weight and moving mechanical parts. Another factor driving their development and acceptance was the progressive electrification of popular music and the need for a portable keyboard instrument capable of high-volume amplification. Musicians adopted a number of types of domestic electric pianos for rock and pop use. This encouraged their manufacturers to modify them for stage use and then develop models primarily intended for stage use.
+Digital electronic stage pianos that provide an emulated electric piano sound have largely replaced most of the original electro-mechanical instruments in the 2010s, due to the small size, low weight and versatility of digital instruments, which can produce a huge range of tones besides piano tones (e.g., emulations of Hammond organ sounds, synthesizer sounds, etc). However, some performers still perform and record with vintage electric pianos. In 2009, Fender Rhodes produced a new line of electro-mechanical pianos, known as the Rhodes Mark 7 followed by an offering from Vintage Vibe.
+The Neo-Bechstein electric piano was built in 1929. The Vierlang-Forster electric piano was introduced in 1937. The RCA Storytone electric piano was built in 1939 in a joint venture between Story & Clark and RCA. The case was designed by John Vassos, the American industrial designer. It debuted at the 1939 World's Fair. The piano has normal strings and hammer action but no soundboard. The sound is amplified through electromagnetic pickups, circuitry and a speaker system, making it the world's first commercially available electric piano.
+Many types were initially designed as a less-expensive alternative to an acoustic piano for home or school use. Some electric pianos were designed for use in school or college piano labs, so that teachers could simultaneously instruct a group of students using headphones.
+The actual method of tone production varies from one model to another:
+Yamaha, Baldwin, Helpinstill and Kawai's electric pianos are actual grand or upright pianos with strings and hammers. The Helpinstill models have a traditional soundboard; the others have none, and are more akin to a solid-body electric guitar. On Yamaha, Baldwin and Kawai's pianos, the vibration of the strings is converted to an electrical signal by piezoelectric pickups under the bridge. Helpinstill's instruments use a set of electromagnetic pickups attached to the instrument's frame. All these instruments have a tonal character similar to that of an acoustic piano.
+Wurlitzer electric pianos (sometimes called "Wurli" as a nickname) use flat steel reeds struck by felt hammers. The reeds fit within a comb-like metal plate, and the reeds and plate together form an electrostatic or capacitive pickup system, using a DC voltage of 170v. This system produces a very distinctive tone – sweet and vibraphone-like when played gently, and developing a hollow resonance as the keys are played harder. The reeds are tuned by adding or removing mass from a lump of solder at the free end of the reed. Replacement reeds are furnished with a slight excess of solder, and thus tuned "flat"; the user is required – by repeated trial and error – to gradually file off the excess solder until the correct tuning is achieved. The Japanese "Columbia Elepian", also branded as "Maestro" and the Brazilian "Suette" uses a reed system similar to the Wurlitzer but uses electromagnetic pickups similar to the Rhodes piano.
+The tuning fork here refers to the struck element having two vibrating parts – physically it bears little resemblance to a traditional type. In Fender Rhodes instruments, the struck portion of the "fork" is a tine of stiff steel wire. The other part of the fork, parallel and adjacent to the tine, is the tonebar, a sturdy steel bar which acts as a resonator and adds sustain to the sound. The tine is fitted with a spring which can be moved along its length to allow the pitch to be varied for fine-tuning. The tine is struck by the small neoprene (originally felt) tip of a hammer activated by a greatly simplified piano action (each key has only three moving parts including the damper). Each tine has an electromagnetic pickup placed just beyond its tip (see also tonewheel). The Rhodes piano has a distinctive bell-like tone, fuller than the Wurlitzer, with longer sustain and with a "growl" when played hard. Hohner's "Electra-Piano" uses a similar system, with a metal reed replacing the Rhodes' tine. Its sound is correspondingly somewhere between the Rhodes and Wurlitzer.
+Hohner's original Pianet uses adhesive pads made from an undressed leather surface cushioned by a foam rubber backing. The leather is saturated with a viscous silicone oil to adhere to and pluck metal reeds. When the key is released, the pad acts as a damper. An electrostatic pickup system similar to Wurlitzer's is used. The tone produced resembles that of the Wurlitzer but brighter and with less sustain, largely owing to the design having no sustain pedal mechanism. The same firm's "Cembalet" uses rubber plectra and separate urethane foam dampers but is otherwise almost identical. Hohner's later "Pianet T" uses silicone rubber suction pads rather than adhesive pads and replaces the electrostatic system with passive electromagnetic pickups similar to those of the Rhodes, the reeds themselves however being magnetized. The Pianet T has a far mellower sound not unlike that of the Rhodes instruments. None of the above instruments have the facility for a sustain pedal.
+A close copy of the Cembalet is the "Weltmeister Claviset," also marketed as the "Selmer Pianotron." This has electromagnetic pickups with a battery-powered preamplifier, and later models have multiple tone filters and a sustain pedal.
+Although not technically pianos, the following are electric harpsichords and clavichords.
+Baldwin's "Solid-Body Electric Harpsichord" or "Combo Harpsichord" is an aluminum-framed instrument of fairly traditional form, with no soundboard and with two sets of electromagnetic pickups, one near the plectra and the other at the strings' midpoint. The instrument's sound has something of the character of an electric guitar, and has occasionally been used to stand in for one in modern chamber music. Roger Penney of Bermuda Triangle Band worked on the design and development of the original instrument for the Cannon Guild Company, a premier harpsichord maker located in Cambridge Massachusetts. This instrument had an aluminium bar frame, a spruce wood soundboard, bar magnetic pickups, and a Plexiglas (clear plastic) openable lid. The prototypes and design were sold to Baldwin who made some modifications, and then manufactured the instrument under their own name.
+Hohner's "Clavinet" is essentially an electric clavichord. A rubber pad under each key presses the string onto a metal anvil, causing the "fretted" portion of the string to vibrate. When the key is released, the whole string is theoretically free to vibrate but is immediately damped by yarn woven across the tuning machine-head end. Two electromagnetic single-coil pickups, one under and one over the strings, detect the vibrations which are then pre-amplified and filtered in preparation for amplification by a guitar amp.
+As with electric vs. acoustic guitars, the sound of most electric pianos differs considerably from that of an acoustic instrument, and the electric piano has thus acquired a musical identity of its own, far beyond that of simply being a portable, amplified piano. There are several reasons that performers were able to develop a distinctive sound for the instrument. Electric pianos are amplified through keyboard amplifiers, which enables a keyboard to have a loud sound needed for a large club or stadium rock music concert. As well, as an electric instrument, electronic effects, such as distortion, phasers, or reverb could be used to alter the tone.
+In particular, the Rhodes piano lends itself to long, sustained "floating" chords in a way which would be impossible on an acoustic instrument, while the Hohner Clavinet, often processed through electronic effects, has an instantly recognizable vocabulary of percussive riffs and figures which owe less to conventional keyboard styles than to funk rhythm guitar and slap bass.
+Early Wurlitzer models had vacuum tube amplifiers, which could be overdriven to create a distinctive distortion. Later transistorized models, while sharing a similar mechanical approach to sound generation, did not replicate the "fat" sound of the tube-based models, but instead had a soulful tremolo effect.
+Examples:
+Rhodes piano
+Hohner Cembalet, Clavinet, Pianet, Electra Piano
+Wurlitzer EP-200A
+Yamaha CP-70 Electric Grand Piano
+Piano Suette (Brazil)
+The Beatles: "Get Back", both on record and on the roof concert, "Don't Let Me Down", "One After 909" (played by Billy Preston)
+Phil Collins: "In the Air Tonight"; "If Leaving Me Is Easy"
+Chick Corea: "Spain", "La Fiesta"
+The Doors: "L.A. Woman", "Riders on the Storm"
+Peter Frampton: "Baby, I Love Your Way"
+Herbie Hancock: "Chameleon"
+Billy Joel: "Just the Way You Are"
+Elton John: "Daniel"; "Sorry Seems to Be the Hardest Word"; "Little Jeannie"
+Pink Floyd: "Breathe", "Dogs", "Hey You", "Sheep"
+One Day as a Lion: "Wild International"
+Stevie Wonder: "You Are the Sunshine of My Life", "Isn't She Lovely", "I Believe (When I Fall in Love It Will Be Forever)"
+The Rolling Stones: "Fool to Cry", "Memory Motel"
+Eagles: "New Kid in Town", "I Can't Tell You Why"
+Steely Dan: "Peg"
+Elvis Costello: "Veronica"
+Manfred Mann: "Do Wah Diddy Diddy"
+The Stranglers: "No More Heroes"
+Herman's Hermits: "I'm into Something Good"
+The Band: "Up on Cripple Creek"
+Gentle Giant: "Cogs in Cogs", "Experience", "So Sincere"
+Led Zeppelin: "Custard Pie", "Trampled Under Foot", "In the Light"
+Pink Floyd: "Pigs (Three Different Ones)", "Shine On You Crazy Diamond (Parts 6-9)", "Have a Cigar"
+Steely Dan: "Kid Charlemagne"
+Van der Graaf Generator: "The Undercover Man", "Scorched Earth", "Arrow"
+Stevie Wonder: "Superstition"
+John Lennon: "Whatever Gets You thru the Night", "#9 Dream", "Steel and Glass"
+The Rolling Stones: "Doo Doo Doo Doo Doo (Heartbreaker)", "100 Years Ago", "Dancing with Mr. D", "Fingerprint File" (played by Billy Preston)
+Fleetwood Mac: "You Make Loving Fun"
+Eagles: "Life in the Fast Lane"
+The Greg Kihn Band: "Jeopardy"
+Led Zeppelin: "Stairway to Heaven", "Misty Mountain Hop", "No Quarter", "Down by the Seaside" (studio recordings only, when played live these songs were played on a Fender Rhodes)
+The Association: "Never My Love"
+The Beatles: "The Night Before", "I Am the Walrus", "Tell Me What You See", "You Like Me Too Much", "Getting Better"
+Genesis: "Seven Stones", "Supper's Ready", "The Musical Box", "The Cinema Show" (the pianet was usually also used to replace acoustic piano parts during live performances, as the band did not transport a grand piano while on tour)
+The Guess Who: "These Eyes"
+The Kingsmen: "Louie Louie"
+The Lovin' Spoonful: "Summer in the City"
+Soft Machine: "Slightly All the Time", "Out-Bloody-Rageous"
+Van Der Graaf Generator: "A Plague of Lighthouse Keepers"
+The Zombies: "She's Not There"
+The Rolling Stones: "Get Off of My Cloud"
+Pink Floyd: "Apples and Oranges", "Chapter 24"
+Three Dog Night: "Joy to the World"
+Cannonball Adderley Quintet: "Mercy, Mercy, Mercy" Only first studio recording, all subsequent live versions are Fender Rhodes.
+Beck: "Where It's At"
+The Buckinghams: "Hey Baby (They're Playing Our Song)"
+Ray Charles: "What'd I Say"
+King Harvest: "Dancing in the Moonlight"
+Pink Floyd: "Time", "Money", "Have a Cigar", "Shine On You Crazy Diamond (Parts 6-9)"
+Queen: "You're My Best Friend"
+Steely Dan: "Do It Again"
+Supertramp: "Dreamer", "Bloody Well Right", "The Logical Song", "Goodbye Stranger"
+The Youngbloods: "Ride the Wind"
+John Lennon: "How Do You Sleep?"
+The Rolling Stones: "Miss You", "Emotional Rescue"
+Van Halen: "And the Cradle Will Rock..."
+Billy Joel: "It's Still Rock and Roll to Me"
+Eagles: "Outlaw Man"
+Faces: "Stay with Me"
+The Doors: "Queen of the Highway"
+The Association: "Along Comes Mary"
+The Beatles: "Because"
+Pink Floyd: "See Emily Play"
+Phil Collins: "A Groovy Kind of Love", "Do You Remember"
+Peter Gabriel: "Red Rain", "In Your Eyes"
+Genesis: "Duchess", "That's All", "Taking It All Too Hard", "Just a Job to Do", "In Too Deep"
+Toto: "Hold the Line"
+Joe Jackson: "Steppin' Out"
+Howard Jones: "No One Is to Blame"
+Hall and Oates: "Private Eyes", "Kiss on My List"
+Keane: "Somewhere Only We Know"
+Electronic piano
+Rhodes piano
+DX7 Rhodes
+Electric grand piano
+Celesta
+Rocksichord
+Digital piano

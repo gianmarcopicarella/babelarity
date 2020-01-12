@@ -1,0 +1,33 @@
+The Korean language has two regularly used sets of numerals, a native Korean system and Sino-Korean system.
+For both native and Sino- Korean numerals, the teens (11 through 19) are represented by a combination of tens and the ones places. For instance, 15 would be sib-o (십오(十五)), but not usually il-sib-o in the Sino-Korean system, and yeol-daseot (열다섯) in native Korean. Twenty through ninety are likewise represented in this place-holding manner in the Sino-Korean system, while Native Korean has its own unique set of words, as can be seen in the chart below. The grouping of large numbers in Korean follow the Chinese tradition of myriads (10000) rather than thousands (1000). The Sino-Korean system is nearly entirely based on the Chinese numerals.
+The distinction between the two numeral systems is very important. Everything that can be counted will use one of the two systems, but seldom both. Sino-Korean words are sometimes used to mark ordinal usage: yeol beon (열 번) means "ten times" while sip beon (십(十) 번(番)) means "number ten."
+When denoting the age of a person, one will usually use sal (살) for the native Korean numerals, and se (세(歲)) for Sino-Korean. For example, seumul-daseot sal (스물다섯 살) and i-sib-o se (이십오 세(二十五 歲)) both mean 'twenty-five-year-old'. See also East Asian age reckoning.
+The Sino-Korean numerals are used to denote the minute of time. For example, sam-sib-o bun (삼십오 분(三十五 分)) means "__:35" or "thirty-five minutes." The native Korean numerals are used for the hours in the 12-hour system and for the hours 0:00 to 12:00 in the 24-hour system. The hours 13:00 to 24:00 in the 24-hour system are denoted using both the native Korean numerals and the Sino-Korean numerals. For example, se si (세 시) means '03:00' or '3:00 a.m./p.m.' and sip-chil si (십칠 시(十七 時)) or yeol-ilgop si (열일곱 시) means '17:00'.
+For counting above 100, Sino-Korean words are used, sometimes in combination: 101 can be baek-hana or baeg-il.
+Some of the native numbers take a different form in front of measure words:
+The descriptive forms for 1, 2, 3, 4, and 20 are formed by "dropping the last letter" from the original native cardinal, so to speak. Examples:
+한 번 han beon ("once")
+두 개 du gae ("two things")
+세 시 se si ("three o'clock"), in contrast, in North Korea the Sino-Korean numeral 삼 "sam" would normally be used; making it 삼시 "sam si"
+네 명 ne myeong ("four people")
+스무 마리 seumu mari ("twenty animals")
+Something similar also occurs in some Sino-Korean cardinals:
+오뉴월 onyuwol ("May and June")
+유월 yuwol ("June")
+시월 siwol ("October")
+The cardinals for three and four have alternative forms in front of some measure words:
+석 달 seok dal ("three months")
+넉 잔 neok jan ("four cups")
+The initial consonants of measure words and numbers following the native cardinals 여덟 ("eight", only when the ㅂ is not pronounced) and 열 ("ten") become tensed consonants when possible. Thus for example:
+열셋 yeol-set (thirteen) is pronounced like [열쎗] yeol-sset
+여덟권 yeodeol-gwon (eight (books)) is pronounced like [여덜꿘] yeodeol-kkwon
+Several numerals have long vowels, namely 둘 (two), 셋 (three) and 넷 (four), but these become short when combined with other numerals / nouns (such as in twelve, thirteen, fourteen and so on).
+The usual liaison and consonant-tensing rules apply, so for example, 예순여섯 yesun-yeoseot (sixty-six) is pronounced like [예순녀섣] (yesun-nyeoseot) and 칠십 chil-sip (seventy) is pronounced like [칠씹] chil-ssip.
+번 (番), 호 (號), 차 (次), and 회 (回) are always used with Sino-Korean or Arabic ordinal numerals. For example, 이호선 (二號線) is Line Number Two in a metropolitan subway system. 37번국도 (37番國道) is highway number 37. They cannot be used interchangeably. 906호 (號) is 'Apt #906' in a mailing address. 906 without 호 is not used in spoken Korean to imply apartment number or office suite number. The special prefix 제(第) is usually used in combination with suffixes to designate a specific event in sequential things such as the Olympics.
+In commerce or the financial sector, some hanja for each Sino-Korean numbers are replaced by alternative ones to prevent ambiguity or retouching.
+For verbally communicating number sequences such as phone numbers, ID numbers, etc., especially over the phone, native Korean numbers for 1 and 2 are sometimes substituted for the Sino-Korean numbers. For example, o-o-o hana-dul-hana-dul (오오오 하나둘하나둘) instead of o-o-o il-i-il-i (오오오 일이일이) for '555-1212', or sa-o-i-hana (사-오-이-하나) instead of sa-o-i-il (사-오-이-일) for '4521', because of the potential confusion between the two similar-sounding Sino-Korean numbers.
+For the same reason, military transmissions are known to use mixed native Korean and Sino-Korean numerals: 공 하나 둘 삼 넷 오 여섯 칠 팔 아홉 (gong hana dul sam net o yeoseot chil pal ahop).
+Note 1: ^ Korean assimilation rules apply as if the underlying form were 십륙 |sip.ryuk|, giving sim-nyuk instead of the expected sib-yuk.
+Note 2: ^ ^ ^ ^ ^ These names are considered archaic, and are not used.
+Note 3: ^ ^ ^ ^ ^ ^ ^ The numbers higher than 1020 (hae) are not usually used.
+Note 4: ^ ^ ^ ^ The names for these numbers are from Buddhist texts; they are not usually used. Dictionaries sometimes disagree on which numbers the names represent.

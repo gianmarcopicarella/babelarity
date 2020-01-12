@@ -1,0 +1,10 @@
+Royalty-free, or RF, refers to the right to use copyright material or intellectual property without the need to pay royalties or license fees for each use or per volume sold, or some time period of use or sales.
+Many computer industry standards, especially those developed and submitted by industry consortium's or individual companies, involve royalties for the actual use of these standards. These royalties are typically charged on a "per port" basis, where the manufacturer of end-user devices has to pay a small fixed fee for each device sold, and also include a substantial annual fixed fee. With millions of devices sold each year, the royalties can amount to several millions of dollars, which is a significant burden for the manufacturer. Examples of such royalties-based standards include IEEE 1394, HDMI, and H.264/MPEG-4 AVC.
+Royalty-free standards do not include any "per-port" or "per-volume" charges or annual payments for the actual implementation of the standard, even though the text of the actual specification is typically protected by copyright and needs to be purchased from the standards body. Most open standards are royalty-free, and many proprietary standards are royalty-free as well. Examples of royalty-free standards include DisplayPort, VGA, VP8, and Matroska.
+In photography and the illustration industry, it refers to a copyright license where the user has the right to use the picture without many restrictions based on one-time payment to the licensor. The user can therefore use the image in several projects without having to purchase any additional licenses. RF licenses can not be given on an exclusive basis. In stock photography, RF is one of the common licenses sometimes contrasted with Rights Managed licenses and often employed in subscription-based or microstock photography business models.
+Open standard
+Royalty-free music
+American Society of Media Photographers, Rights-Managed vs. Royalty-Free Stock
+Stock Photo - Frequently Asked Questions
+30,000 images free for personal or commercial use
+The Royalty Free Music Charts

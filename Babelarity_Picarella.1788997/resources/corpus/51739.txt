@@ -1,0 +1,20 @@
+Samsung i8910 HD (also known as Omnia HD and by model number GT-I8910, not to be confused with Samsung GT-I8190) is a multimedia smartphone manufactured by Samsung, first announced at MWC 2009 on February 18, 2009. The device is most noted for being the first phone capable of playing and recording 720p HD video.
+The HD comes in two versions: with 8 or 16 GB of integrated storage, both having a hot-swappable microSD card slot handling up to 32 GB. The i8910 HD is a quad-band GSM/GPRS/EDGE handset with tri-band UMTS support, HSDPA (up to 7.2 Mbit/s) and HSUPA (up to 5.76 Mbit/s) support. The Australian release supports the UMTS 2100/900Mhz frequency band, making it dual band UMTS and operational on Optus' 'yes G' dual band network but not on Telstra's 'Next G' network, as that operates on the UMTS 850Mhz band only. In this instance the GSM network would be used (slower speeds, no video calls, etc.).
+This handset comes with a 3.7-inch AMOLED capacitive touchscreen (instead of Resistive) having a resolution of 640 x 360 pixels, capable of displaying up to 16 million colors.(instead of LCD(16:9 aspect ratio)
+It has an 8-megapixel camera with the industry-first 720p HD video recording at 24 frame/s. Other imaging assets include geotagging, face detection, smile detection and WDR (Wide Dynamic Range) setting. The i8910 HD runs on Symbian (on Symbian s60 5th edition), with Samsung's TouchWiz interface.** The camera at normal settings clicks photos at 4:3 aspect ratio. But can also click at 16:9 aspect ratio by downscaling to 6-megapixel (w6m).
+The device offers Wi-Fi with DLNA, Bluetooth 2.0 with A2DP, a standard microUSB port, a 3.5 mm audio jack and TV-out. A GPS receiver with S-GPS+Xtragps is included, along with the optional Samsung Mobile Navigator by Route 66.
+DivX/XviD, MPEG4 support, subtitles support
+HD (720p) output to compatible televisions via DLNA technology
+S60 5th edition
+Accelerometer for screen auto rotate and turn-to-mute
+Proximity sensor for auto screen turn-off
+Magnetometer for digital compass
+GPS receiver with A-GPS
+FM radio with RDS
+Virtual 5.1 channel surround (on headphones)
+Web browser with Flash video support
+Office document viewer
+Hobbyists have provided unofficial firmware updates.
+Although this device is not based on either Windows Mobile or Windows Phone, in 2010, Microsoft successfully made a modification on this device to be able to run Windows Phone just before the official debut of Samsung's first Windows Phone smartphone, Omnia 7. (The Windows Phone operating system can't run on the Omnia HD's original OMAP3 processor, as the WP7 handset had a Snapdragon-based processor.)
+OMAP
+Samsung Omnia

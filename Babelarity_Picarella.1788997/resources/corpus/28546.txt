@@ -1,0 +1,108 @@
+The Mil Mi-28 (NATO reporting name "Havoc") is a Russian all-weather, day-night, military tandem, two-seat anti-armor attack helicopter. It is a dedicated attack helicopter with no intended secondary transport capability, better optimized than the Mil Mi-24 gunship for the role. It carries a single gun in an undernose barbette, plus external loads carried on pylons beneath stub wings.
+In 1972, following completion of the Mil Mi-24, development began on a unique attack helicopter with transport capability. The new design had a reduced transport capability (3 troops instead of 8) and omitted the cabin, to provide better overall performance and higher top speed. Improved performance was important for its intended role fighting against tanks and enemy helicopters and covering helicopter landing operations. Initially, many different designs were considered, including an unconventional project with two main rotors, placed with engines on tips of wings (in perpendicular layout); and in one similarity with the late 1960s-era American Lockheed AH-56 Cheyenne attack helicopter design, with an additional pusher propeller on the tail. In 1977, a preliminary design was chosen, in a classic single-rotor layout. It lost its similarity to the Mi-24, and even the canopies were smaller, with flat surfaces.
+Design work on the Mi-28 began under Marat Tishchenko in 1980. In 1981, a design and a mock-up were accepted. The prototype (no. 012) was first flown on 10 November 1982. The second prototype (no. 022) was completed in 1983. In 1984, the Mi-28 completed the first stage of state trials, but in October 1984 the Soviet Air Force chose the more advanced Kamov Ka-50 as the new anti-tank helicopter. The Mi-28 development was continued, but given lower priority. In December 1987 Mi-28 production in Rosvertol in Rostov on Don was approved.
+An early production Mi-24 was fitted with an air data boom as an early test for the Mi-28's technologies. Later, a few Mi-24Ds were fitted up with the Mi-28's radome mount for testing the sighting-flight-navigational complex's abilities, and others had redesigned fuselages that closely resemble the future Mi-28, but with rounded cockpits.
+In January 1988, the first Mi-28A prototype (no. 032) flew. It was fitted with more powerful engines and an "X" type tail rotor instead of the three-blade version. The Mi-28A debuted at the Paris Air Show in June 1989. In 1991 the second Mi-28A (no. 042) was completed. The Mi-28A program was cancelled in 1993 because it was deemed uncompetitive with the Ka-50, and in particular, it was not all-weather capable.
+The Mi-28N was unveiled in 1995, the N designation meaning "night". The prototype (no. 014) first flew on 14 November 1996. The most significant feature is a radar in a round cover above the main rotor, similar to that of the American AH-64D Apache Longbow. Mi-28N also has improved tor vision and an aiming device under the nose, including a TV camera and FLIR. Due to funding problems, development was interrupted. A second prototype with an improved rotor design was unveiled in March 2004 at Rosvertol.
+Changes in the military situation after the Cold War made specialized anti-tank helicopters less useful. The advantages of the Mi-28N, like all-weather action ability, lower cost, and similarity to the Mi-24, have become important. In 2003, the head of Russian Air Forces stated that the Mi-28N and Ka-50 attack helicopters will become the standard Russian attack helicopter.
+The first serial Mi-28N was delivered to the Army on 5 June 2006. By 2015, 67 Mi-28Ns were planned to be purchased, when the Mi-24 was to be completely replaced. Rostvertol plant delivered about 140 Mi-28N and Mi-35M helicopters in 2012-14 to domestic and foreign customers; 28 helicopters were delivered in 2015.
+Mil also developed an export variant of the Mi-28N, designated Mi-28NE, and a simpler day helicopter variant, the Mi-28D, based on the Mi-28N design, but without radar and FLIR.
+The Mil Mi-40 was a projected utility version of the Mi-28, first initiated in 1983, announced in 1992 and shown at the Moscow Airshow in 1993. It was primarily intended for the "Aerial Infantry Fighting Vehicle" category as a successor to the Mil Mi-24 and Mi-8 assault helicopters.
+It was planned to use two 1,863 kW Klimov TV3-117 turboshaft engines, four-blade main rotor, four-blade Delta H tail rotor (both from the Mi-28), and retractable tricycle-type landing gear. It was expected to weigh 11–12,000 kg and estimated to attain a 3300 m ceiling, a 314 km/h maximum speed and a 260 km/h cruise speed.
+Specifications required the functioning in day, night and poor weather as well as carrying eight soldiers (the design achieved seven in practice), eight stretchers or large external loads. An emphasis was placed on survivability with a focus on redundancy, IR suppression and special shock absorbers for the crew to increase the maximum "safe" crash velocity.
+The design incorporated a 23 mm cannon (most likely GSh-23L) for defense in the forward hemisphere and a 12.7 mm machine gun (most likely Yak-B) for defense in the rear. Fuselage fairings containing fuel would replace stub wings with missiles mounted above on special hardpoints.
+Its design borrowed much from the Mil Mi-36 developed over the previous two years, and would itself be replaced after a year by the Mil Mi-42 project. Although the Mi-40 design would be resurrected for a short period in the 1990s, with optimization studies being completed, it did not reach the prototype stage.
+Russia will develop and test a prototype Mi-28 with 5th generation attack helicopter features by 2017. This improved version is named Mi-28NM and has been in development since 2008. Specific characteristics are not known, but may include a low radar signature, extended range, advanced weapons control systems, air-to-air engagement capability, and increased top speed of 600 km/h (370 mph). Recent press reports a new helmet imaging and targeting system which has been designed to display all the necessary visual information and for aiming at targets in any field of view.
+The Mi-28 is a new-generation attack helicopter that functions as an air-to-air and air-to-ground partner for the Mi-24 Hind and Ka-50 Hokum. The five-blade main rotor is mounted above the body midsection, and short, wide, tapered, weapon-carrying wings are mounted to the rear of body midsection. Two turboshaft engines in pods are mounted alongside the top of the fuselage with downturned exhausts. The fuselage is slender and tapers to the tail boom and nose. It features a tandem, stepped-up cockpits and a cannon mounted beneath the belly, with non-retractable tricycle tail-wheel type landing gear. This energy-absorbing landing gear and seats protect the crew in a crash landing or in a low-altitude vertical fall. The crew is able to survive a vertical fall of up to 12 m/s. The Mi-28 has a fully armoured cabin, including the windshield, which withstands impact by 7.62 and 12.7mm bullets and 20mm shell fragments.
+The helicopter design is based on the conventional pod and boom configuration, with a tail rotor. The main rotor head has elastomeric bearings and the main rotor blades are made from composite materials. The tail rotor is designed on a biplane configuration, with independently controlled X-shaped blades. A new design of all plastic rotor blades, which can sustain hits from 30 mm shells, has been installed on the Mi-28N Night attack variant.
+It is equipped with two heavily armored cockpits, a windshield able to withstand hits from 12.7–14.5 mm caliber bullets, in nose electronics, and a narrow-X tail rotor (55 deg), with reduced noise characteristics. It is powered by two 2,200 hp Isotov TV-3-117VM (t/n 014) turboshaft engines.
+While the Mi-28 is not intended for use as a transport, it does have a small passenger compartment capable of carrying three people. The planned purpose of this is to enable the rescue of downed helicopter crews.
+The Mi-28N features a helmet mounted display for the pilot. The pilot would designate targets for the Navigator/Weapons Officer, who proceeds to fire the weapons required to fulfill that particular task.The integrated surveillance and fire control system has two optical channels providing wide and narrow fields of view, a narrow-field-of-view optical television channel, and laser rangefinder. The system can move within 110 degrees in azimuth and from +13 to -40 degrees in elevation.
+The Night attack variant helicopter retains most of the structural design of the original Mi-28. The main difference is the installation of an integrated electronic combat system. Other modifications include: new main gearbox for transmitting higher power to the rotor; new high-efficiency blades with swept-shaped tips; and an engine fuel injection control.
+The pilot uses a helmet-mounted target designator, which allocates the target to the navigator's surveillance and fire control system. The navigator/weapons officer is then able to deploy guided weapons or guns against the target. The targeting system follows the direction of the pilot's eyes.
+The Mi-28 is equipped with a chin-mounted 30 mm Shipunov 2A42 autocannon. The cannon is select fire, and has a dual-feed, which allows for a cyclic rate of fire between 200 rounds per minute to 550 rounds per minute. Its effective range varies from 1,500 meters for ground vehicles to 2,500 meters for air targets. Rounds from High Explosive Incendiary (HEI) to Armour-Piercing Discarding Sabot (APDS) can be used. Stated penetration for the 3UBR8 is 25 mm of RHA at 1,500 meters.
+One common Mi-28 armament are a pair of 8 Ataka missile racks along with 2 B-13L rocket pods, each able to carry 5 S-13 rockets. Other rocket options include two B-8 rocket pods, each able to carry up to 20 S-8 rockets.
+There are four variants of the Ataka missile for different tasks. The 9M120 Tandem High Explosive Anti-Tank (HEAT) warhead variant is used against tanks fitted with Explosive Reactive Armor (ERA), its penetrative ability is stated at 800 mm Rolled Homogeneous Armour (RHA). The 9M120F Thermobaric variant is used against infantry, buildings, bunkers, and caves. The 9M120O expanding rod warhead variant is used against other helicopters. All the variants have a range of 6 km. The 9M120M improved version has a longer range (8 km) and better penetration (900 mm of RHA). All of the variants use SACLOS missile guidance.
+The S-8 and S-13 rockets used by the Mi-28 are usually unguided. In the most common configuration, one can expect 40 S-8 rockets or 10 S-13 rockets. Both rockets have their variants, from HEAT warheads to a Thermobaric warhead. The S-8 has a shorter range and smaller warhead than the S-13, but compensates with numbers. Currently, the Russian Air Force are upgrading their S-8 and S-13 rockets to laser guided missiles with the proposed Ugroza ("Menace") system. Rockets upgraded under Ugroza would receive designations S-8Kor and S-13Kor, respectively.
+The Russian Army received the first Mi-28 prototypes for testing in 2004. It received the first serial production Mi-28N in 2006, which then joined two prototype helicopters for army trials. The aircraft entered service in 2006. It has entered service under the name of "Night Hunter" (Russian: Ночной охотник). A squadron of Mi-28Ns from Torzhok took part in a joint army exercise in Belarus in June 2006.
+The Russian Air Force had 24 Mi-28s in service in February 2011.
+The Russian Defense Ministry will procure up to 60 Mi-28UB training versions by 2020. The version will speed up and improve pilot training. Four to six Mi-28UBs will be purchased for every unit that operates the Mi-28N. In 2013, it was reported that the Mi-28N was to replace the Mil Mi-24 in the Russian Armed Forces by 2015, however by 2016, Russian Air Force still operates a large number of Mi-24 and Mi-35 helicopters, including being deployed for combat in Syria.
+During the Battle of Palmyra in 2016, Russian Aerospace forces' Mil Mi-28 supported the Syrian Arab Army in their advance towards the city. On 12 April 2016, a Russian Mi-28 crashed in Syria, killing both crewmen.
+In late 2011, Kenya began the process of acquiring 16 Mi-28 ground attack helicopters for its Embakasi based 50th Air Cavalry Division. The attack helicopters were acquired, after senior military officers made several visits to Russia. The helicopter gunships were delivered to the 50th Air Cavalry Division in Kenya on 3 January 2012, from the Russian state owned corporation Rosoboronexport, which is an intermediary for all imports and exports of military related hardware.
+In October 2012, it was reported that Russia and Iraq may sign a $4.2–$5.0 billion weapons contract, including 30 Mi-28N helicopters. The deal was confirmed on 9 October. The deal was reportedly cancelled due to Iraqi concerns of corruption, but that concern was addressed, and the Iraqi defense minister stated that "the deal is going ahead." Despite early complications, all parts of the $4.2 billion contracts were signed, and are being executed. The first contract for 10 Mi-28NE helicopters for Iraq began delivery in September 2013. A batch of 13 Mi-28NE helicopters was delivered in January 2014.
+Iraqi Mi-28s have been used in combat against ISIS, including deployment in November, 2015 in the Battle of Ramadi.
+The Indian Military asked for a modified prototype of Mi-28 fitted with French and Belgian avionics. Russian manufacturers were discussing how to meet these requirements. In late October 2011, it was reported that the American AH-64D had emerged as the front-runner ahead of the Mi-28N to fill a requirement for 22 attack helicopters.
+In June 2010, Algeria was expected to place an order for 42 Mi-28NE helicopters.
+In April 2010, Venezuela agreed to order 10 Mi-28s for the Venezuelan Army.
+Mi-28
+Prototype version; first flight in 1982.
+Mi-28A
+Original production anti-tank helicopter.
+Mi-28N/MMW Havoc
+All weather day-night version. Equipped with a top-mounted millimeter wave radar station, thermographic camera-TV, and a laser rangefinder. Powered by two Russian Klimov TV3-117VMA-SB3 engines (2,500 hp each), produced by the Ukrainian Motor-Sich and replaced by Russian-made VK-2500 engines as of 2016. Max take off weight 11,500 kg, max payload 2,350 kg.
+Mi-28D
+simplified daylight operation version. Similar to Mi-28N, but without top-mounted radar and FLIR.
+Mi-28NAe
+export version offered to North Korea.
+Mi-40
+Proposed armed transport version. Never reached prototype stage.
+Mi-28UB
+(Učebno-Bojevoj - training-and-combat) version, designed for training for Mi-28N. Has dual hydromechanical flight controls that can be operated from tandem cockpits, a more spacious lower cockpit to house a flight instructor, a wider pilot canopy, and new energy-absorbing crew seats. Serves as a trainer but can perform attack helicopter tasks. Russian Defence Ministry ordered the first batch of 24 helicopters in April 2016.
+ Algeria
+Algerian Air Force (42 on order)
+ Iraq
+Iraqi Army Aviation
+ Russia
+Russian Air Force
+On 15 February 2011, a Mi-28 crashed in the southern Russian region of Stavropol. One of the pilots later died in the hospital.
+On 2 August 2015, an Mi-28 of the Berkut squadron crashed while performing in an aerobatics display with other helicopters in Ryazan. Of the crew, the pilot Lieutenant Colonel Igor Butenko died as a result of the crash while the co-pilot (as yet unnamed) survived. While the specific cause of the crash remains undetermined, the co-pilot indicated in his report that the aircraft suffered a hydraulics failure. As a result, the Russian military grounded all Mi-28s during the investigation.
+On 12 April 2016, a Mi-28N crashed in an accident near the city of Homs, Syria, killing two crewmen. 
+Data from Jane's, RIA Novosti, Russian Helicopters, JSC
+General characteristics
+Crew: Two: 1 pilot (rear), 1 navigator/weapons operator (front)
+Length: 17.91 m (58 ft 9 in)
+Rotor diameter: 17.20 m (56 ft 5 in)
+Height: 3.82 m (12.5 ft (150 in))
+Disc area: 232.35 m² (2,501 ft²)
+Empty weight: 7,890 kg (17,400 lb)
+Loaded weight: 10,500 kg (23,150 lb)
+Max. takeoff weight: 11,700 kg (25,800 lb)
+Powerplant: 2 × Klimov TV3-117 turboshaft, 1,636 kW (2,194 shp) each
+Performance
+Maximum speed: 324 km/h (175 knots, 201 mph)
+Cruise speed: 265 km/h (145 knots, 164 mph)
+Range: 435 km (234 nmi, 270 mi)
+Combat radius: 200 km (108 nmi, 124 mi) ; with 10 min loiter and 5% reserves
+Ferry range: 1,105 km (595 nmi, 685 mi)
+Service ceiling: 4,950 m (16,250 ft)
+Rate of climb: 13.6 m/s (816 m/min, 2,677 ft/min)
+Power/mass: 0.31 kw/kg for TV3-117 ()
+Hovering ceiling: 3,600 m (11,811 ft)
+Armament
+Guns: 1× chin-mounted 30 mm Shipunov 2A42 cannon with 250 rounds (±110° horizontal fire)
+Hardpoints: Two pylons under each stub wing to mount bombs, rockets, missiles, and gun pods. Main armament configurations include:
+16 Ataka-V anti-tank missiles and 40 S-8 rockets, Or
+16 Ataka-V anti-tank missiles, and 10 S-13 rocket, Or
+16 Ataka-V anti-tank missiles, and two 23 mm Gsh-23L gun pods with 250 rounds each.
+Other ordnance: 9K118 Sheksna and 9A-2200 anti-tank missiles, 8 Igla-V and Vympel R-73 air-to-air missiles, 2 KMGU-2 mine dispensers
+Related development
+Mil Mi-24
+Aircraft of comparable role, configuration and era
+Agusta A129 Mangusta
+AH-64 Apache
+AH-1Z Viper
+Denel Rooivalk
+Eurocopter Tiger
+HAL Light Combat Helicopter
+Kamov Ka-50/Ka-52
+TAI/AgustaWestland T-129
+WZ-10
+The initial version of this article was based on material from aviation.ru. It has been released under the GFDL by the copyright holder.
+Citations
+Bibliography
+Eden, Paul (ed.). The Encyclopedia of Modern Military Aircraft. London, UK: Amber Books, 2004. ISBN 1-904687-84-9. 
+Mi-28 page on army-technology.com
+Mi-28 page on helis.com
+Mi-28 on globalsecurity.org
+Airshow video on YouTube.com
+Russian Mi-28Ns to receive N025 radars in 2016 Jane's Information Group, IHS Jane's Defence Weekly, 27th of August 2015, Nikolai Novichkov, Moscow

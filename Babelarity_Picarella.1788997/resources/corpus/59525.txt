@@ -1,0 +1,20 @@
+Succinic acid (/səkˈsɪnᵻk/) is a dicarboxylic acid with chemical formula (CH2)2(CO2H)2. It is a white, odorless solid. In an aqueous solution, it ionizes to anions (that is, conjugates to a conjugate base) called succinate (/ˈsʌksᵻneɪt/), which plays a role in the citric acid cycle, an energy-yielding process in all living organisms. As a radical group it is called a succinyl (/ˈsʌksᵻnəl/) group. The name derives from Latin succinum, meaning amber, from which the acid may be obtained.
+Historically known as spirit of amber, succinic acid was originally obtained from amber by distillation.
+Common industrial routes include partial hydrogenation of maleic acid, oxidation of 1,4-butanediol, and carbonylation of ethylene glycol.
+In a 2004 report, the United States Department of Energy identified bio-succinic acid as one of the renewable building block chemicals with the greatest technical feasibility and commercial potential. Indeed, succinic acid is produced commercially through the fermentation of glucose from renewable feedstock.
+Salts formed by neutralizing succinic acid are called succinates. As a diprotic acid, succinic acid undergoes two successive reactions:
+(CH2)2(CO2H)2 → (CH2)2(CO2H)(CO2)− + H+
+(CH2)2(CO2H)(CO2)− → CH2)2(CO2)22− + H+
+These anions, collectively called succinates, are also colorless, and can be isolated as the salts, e.g., Na(CH2)2(CO2H)(CO2) and Na2(CH2)2(CO2)22−.
+Succinic acid also converts to diesters such are also referred to as succinates. One example is diethylsuccinate, (CH2CO2CH2CH3)2.
+Succinic acid can be converted into fumaric acid by oxidation. The diethyl ester is a substrate in the Stobbe condensation. Dehydration of succinic acid gives succinic anhydride.
+Succinic acid is a precursor to some polyesters. It is also a component of some alkyd resins. Global 1,4-butanediol (BDO), derived from succinic acid, market size was estimated at USD 4.72 billion in 2013. BDO is a precursor to THF, a solvent and monomer. BDO is also a precursor to polybutylene terephthalate (PBT), an engineering-grade thermoplastic. The automotive and electronics industries heavily rely on PBT to produce connectors, insulators, wheel covers, gearshift knobs and reinforcing beams.
+As a food additive and dietary supplement, succinic acid is generally recognized as safe for those uses by the U.S. Food and Drug Administration. As an excipient in pharmaceutical products it is used to control acidity and, more rarely, in effervescent tablets.
+Succinic acid is used in the food and beverage industry, primarily as an acidity regulator. Global production is estimated at 16,000 to 30,000 tonnes a year, with an annual growth rate of 10%.
+Succinate is an intermediate in the citric acid cycle. It serves as an electron donor to the electron transport chain:
+succinate + FAD → fumarate + FADH2.
+Click on genes, proteins and metabolites below to link to respective articles. 
+This conversion is catalysed by the enzyme succinate dehydrogenase (or complex II of the mitochondrial ETC). The complex is a 4 subunit membrane-bound lipoprotein which couples the oxidation of succinate to the reduction of ubiquinone. Intermediate electron carriers are FAD and three 2Fe-2S clusters part of subunit B.
+Succinic acid is created as a byproduct of the fermentation of sugar. It lends to fermented beverages such as wine and beer a common taste that is a combination of saltiness, bitterness and acidity.
+Succinic acid is an essential biosynthetic intermediate that occurs in all living creatures. Like most simple mono- and dicarboxylic acids, it is not dangerous but can be an irritant to skin and eyes.
+Oil of amber, procured by heating succinic acid.

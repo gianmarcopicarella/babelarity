@@ -1,0 +1,6 @@
+The Perkin reaction is an organic reaction developed by William Henry Perkin that is used to make cinnamic acids. It gives an α,β-unsaturated aromatic acid by the aldol condensation of an aromatic aldehyde and an acid anhydride, in the presence of an alkali salt of the acid. The alkali salt acts as a base catalyst, and other bases can be used instead.
+Several reviews have been written.
+The above mechanism is not universally accepted, as several other versions exist, including decarboxylation without acetic group transfer.
+Erlenmeyer-Plöchl azlactone and amino acid synthesis
+Stobbe condensation
+Pechmann condensation

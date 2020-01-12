@@ -1,0 +1,459 @@
+In physics (specifically, in kinetic theory) the Einstein relation (also known as Einstein–Smoluchowski relation) is a previously unexpected connection revealed independently by William Sutherland in 1905, Albert Einstein in 1905, and by Marian Smoluchowski in 1906 in their papers on Brownian motion. The more general form of the equation is
+        D
+        =
+        μ
+          k
+            B
+        T
+    {\displaystyle D=\mu \,k_{B}T}
+where
+D is the diffusion constant;
+μ is the "mobility", or the ratio of the particle's terminal drift velocity to an applied force, μ = vd / F;
+kB is Boltzmann's constant;
+T is the absolute temperature.
+This equation is an early example of a fluctuation-dissipation relation.
+Two frequently used important special forms of the relation are:
+        D
+        =
+                μ
+                  q
+                k
+                  B
+              T
+              q
+    {\displaystyle D={{\mu _{q}\,k_{B}T} \over {q}}}
+   (Electrical mobility equation, for diffusion of charged particles)
+        D
+        =
+                k
+                  B
+              T
+              6
+              π
+              η
+              r
+    {\displaystyle D={\frac {k_{B}T}{6\pi \,\eta \,r}}}
+   ("Stokes–Einstein equation", for diffusion of spherical particles through a liquid with low Reynolds number)
+where
+q is the electrical charge of a particle;
+μq, the electrical mobility of the charged particle;
+η is the dynamic viscosity;
+r is the radius of the spherical particle.
+For a particle with electrical charge q, its electrical mobility μq is related to its generalized mobility μ by the equation μ=μq/q. The parameter μq is the ratio of the particle's terminal drift velocity to an applied electric field. Hence, the equation in the case of a charged particle is given as
+        D
+        =
+                μ
+                  q
+                k
+                  B
+              T
+            q
+    {\displaystyle D={\frac {\mu _{q}\,k_{B}T}{q}}}
+In the limit of low Reynolds number, the mobility μ is the inverse of the drag coefficient 
+        ζ
+    {\displaystyle \zeta }
+  . A damping constant 
+        γ
+        =
+        ζ
+          /
+        m
+    {\displaystyle \gamma =\zeta /m}
+   is frequently used for the inverse momentum relaxation time (time needed for the inertia momentum to become negligible compared to the random momenta) of the diffusive object. For spherical particles of radius r, Stokes' law gives
+        ζ
+        =
+        6
+        π
+        η
+        r
+        ,
+    {\displaystyle \zeta =6\pi \,\eta \,r,}
+where 
+        η
+    {\displaystyle \eta }
+   is the viscosity of the medium. Thus the Einstein-Smoluchowski relation results into the Stokes-Einstein relation
+        D
+        =
+                k
+                    B
+              T
+              6
+              π
+              η
+              r
+    {\displaystyle D={\frac {k_{\mathrm {B} }T}{6\pi \,\eta \,r}}}
+In the case of Rotational diffusion, the friction is 
+          ζ
+              r
+        =
+        8
+        π
+        η
+          r
+            3
+    {\displaystyle \zeta _{\mathrm {r} }=8\pi \eta r^{3}}
+  , and the rotational diffusion constant 
+          D
+              r
+    {\displaystyle D_{\mathrm {r} }}
+   is
+          D
+              r
+        =
+                k
+                    B
+              T
+              8
+              π
+              η
+                r
+                  3
+    {\displaystyle D_{\mathrm {r} }={\frac {k_{\mathrm {B} }T}{8\pi \,\eta \,r^{3}}}}
+In a semiconductor with an arbitrary density of states, i.e. a relation of the form 
+        p
+        =
+        p
+        (
+        φ
+        )
+    {\displaystyle p=p(\varphi )}
+   between the density of holes or electrons 
+        p
+    {\displaystyle p}
+   and the corresponding quasi fermi level (or electrochemical potential) 
+        φ
+    {\displaystyle \varphi }
+  , the Einstein relation is:
+        D
+        =
+                μ
+                  q
+              p
+              q
+                      d
+                    p
+                      d
+                    φ
+        ,
+    {\displaystyle D={\frac {\mu _{q}p}{q{\frac {\mathrm {d} p}{\mathrm {d} \varphi }}}},}
+where 
+          μ
+            q
+    {\displaystyle \mu _{q}}
+   is the electrical mobility (see section below for a proof of this relation). An example assuming a parabolic dispersion relation for the density of states and the Maxwell-Boltzmann statistics, which is often used to describe inorganic semiconductor materials, one can compute (see Density of states):
+        p
+        (
+        φ
+        )
+        =
+          N
+            0
+          e
+            q
+            φ
+              /
+            (
+              k
+                B
+            T
+            )
+        ,
+    {\displaystyle p(\varphi )=N_{0}e^{q\varphi /(k_{B}T)},}
+where 
+          N
+            0
+    {\displaystyle N_{0}}
+   is the total density of available energy states, which gives the simplified relation:
+        D
+        =
+          μ
+            q
+                k
+                  B
+              T
+            q
+        .
+    {\displaystyle D=\mu _{q}{\frac {k_{B}T}{q}}.}
+The proof of the Einstein relation can be found in many references, for example see Kubo.
+Suppose some fixed, external potential energy 
+        U
+    {\displaystyle U}
+   generates a conservative force 
+        F
+        (
+          x
+        )
+        =
+        −
+        ∇
+        U
+        (
+          x
+        )
+    {\displaystyle F(\mathbf {x} )=-\nabla U(\mathbf {x} )}
+   (for example, an electric force) on a particle located at a given position 
+          x
+    {\displaystyle \mathbf {x} }
+  . We assume that the particle would respond by moving with velocity 
+        v
+        (
+          x
+        )
+        =
+        μ
+        (
+          x
+        )
+        F
+        (
+          x
+        )
+    {\displaystyle v(\mathbf {x} )=\mu (\mathbf {x} )F(\mathbf {x} )}
+  . Now assume that there are a large number of such particles, with local concentration 
+        ρ
+        (
+          x
+        )
+    {\displaystyle \rho (\mathbf {x} )}
+   as a function of the position. After some time, equilibrium will be established: particles will pile up around the areas with lowest potential energy 
+        U
+    {\displaystyle U}
+  , but still will be spread out to some extent because of diffusion. At equilibrium, there is no net flow of particles: the tendency of particles to get pulled towards lower 
+        U
+    {\displaystyle U}
+  , called the drift current, perfectly balances the tendency of particles to spread out due to diffusion, called the diffusion current (see drift-diffusion equation).
+The net flux of particles due to the drift current is
+            J
+              d
+              r
+              i
+              f
+              t
+        (
+          x
+        )
+        =
+        μ
+        (
+          x
+        )
+        F
+        (
+          x
+        )
+        ρ
+        (
+          x
+        )
+        =
+        −
+        ρ
+        (
+          x
+        )
+        μ
+        (
+          x
+        )
+        ∇
+        U
+        (
+          x
+        )
+        ,
+    {\displaystyle \mathbf {J} _{\mathrm {drift} }(\mathbf {x} )=\mu (\mathbf {x} )F(\mathbf {x} )\rho (\mathbf {x} )=-\rho (\mathbf {x} )\mu (\mathbf {x} )\nabla U(\mathbf {x} ),}
+i.e., the number of particles flowing past a given position equals the particle concentration times the average velocity.
+The flow of particles due to the diffusion current is, by Fick's law,
+            J
+              d
+              i
+              f
+              f
+              u
+              s
+              i
+              o
+              n
+        (
+          x
+        )
+        =
+        −
+        D
+        (
+          x
+        )
+        ∇
+        ρ
+        (
+          x
+        )
+        ,
+    {\displaystyle \mathbf {J} _{\mathrm {diffusion} }(\mathbf {x} )=-D(\mathbf {x} )\nabla \rho (\mathbf {x} ),}
+where the minus sign means that particles flow from higher to lower concentration.
+Now consider the equilibrium condition. First, there is no net flow, i.e.
+            J
+              d
+              r
+              i
+              f
+              t
+        +
+            J
+              d
+              i
+              f
+              f
+              u
+              s
+              i
+              o
+              n
+        =
+        0
+    {\displaystyle \mathbf {J} _{\mathrm {drift} }+\mathbf {J} _{\mathrm {diffusion} }=0}
+  . Second, for non-interacting point particles, the equilibrium density 
+        ρ
+    {\displaystyle \rho }
+   is solely a function of the local potential energy 
+        U
+    {\displaystyle U}
+  , i.e. if two locations have the same 
+        U
+    {\displaystyle U}
+   then they will also have the same 
+        ρ
+    {\displaystyle \rho }
+   (e.g. see Maxwell-Boltzmann statistics as discussed below.) That means, applying the chain rule,
+        ∇
+        ρ
+        =
+                d
+              ρ
+                d
+              U
+        ∇
+        U
+        .
+    {\displaystyle \nabla \rho ={\frac {\mathrm {d} \rho }{\mathrm {d} U}}\nabla U.}
+Therefore, at equilibrium:
+        0
+        =
+            J
+              d
+              r
+              i
+              f
+              t
+        +
+            J
+              d
+              i
+              f
+              f
+              u
+              s
+              i
+              o
+              n
+        =
+        −
+        μ
+        ρ
+        ∇
+        U
+        −
+        D
+        ∇
+        ρ
+        =
+          (
+          −
+          μ
+          ρ
+          −
+          D
+                  d
+                ρ
+                  d
+                U
+          )
+        ∇
+        U
+        .
+    {\displaystyle 0=\mathbf {J} _{\mathrm {drift} }+\mathbf {J} _{\mathrm {diffusion} }=-\mu \rho \nabla U-D\nabla \rho =\left(-\mu \rho -D{\frac {\mathrm {d} \rho }{\mathrm {d} U}}\right)\nabla U.}
+As this expression holds at every position 
+          x
+    {\displaystyle \mathbf {x} }
+  , it implies the general form of the Einstein relation:
+        D
+        =
+        −
+        μ
+            ρ
+                  d
+                ρ
+                  d
+                U
+        .
+    {\displaystyle D=-\mu {\frac {\rho }{\frac {\mathrm {d} \rho }{\mathrm {d} U}}}.}
+The relation between 
+        ρ
+    {\displaystyle \rho }
+   and 
+        U
+    {\displaystyle U}
+   for classical particles can be modeled through Maxwell-Boltzmann statistics
+        ρ
+        (
+          x
+        )
+        =
+        A
+          e
+            −
+                  U
+                  (
+                    x
+                  )
+                    k
+                      B
+                  T
+        ,
+    {\displaystyle \rho (\mathbf {x} )=Ae^{-{\frac {U(\mathbf {x} )}{k_{B}T}}},}
+where 
+        A
+    {\displaystyle A}
+   is a constant related to the total number of particles. Therefore
+                d
+              ρ
+                d
+              U
+        =
+        −
+            1
+                k
+                  B
+              T
+        ρ
+        .
+    {\displaystyle {\frac {\mathrm {d} \rho }{\mathrm {d} U}}=-{\frac {1}{k_{B}T}}\rho .}
+Under this assumption, plugging this equation into the general Einstein relation gives:
+        D
+        =
+        −
+        μ
+            ρ
+                  d
+                ρ
+                  d
+                U
+        =
+        μ
+          k
+            B
+        T
+        ,
+    {\displaystyle D=-\mu {\frac {\rho }{\frac {\mathrm {d} \rho }{\mathrm {d} U}}}=\mu k_{B}T,}
+which corresponds to the classical Einstein relation.
+Smoluchowski factor

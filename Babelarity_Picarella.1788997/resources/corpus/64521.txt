@@ -1,0 +1,1699 @@
+In geometry, the barycentric coordinate system is a coordinate system in which the location of a point of a simplex (a triangle, tetrahedron, etc.) is specified as the center of mass, or barycenter, of usually unequal masses placed at its vertices. Coordinates also extend outside the simplex, where one or more coordinates become negative. The system was introduced (1827) by August Ferdinand Möbius.
+Let 
+            x
+            1
+        ,
+        …
+        ,
+            x
+            n
+    {\displaystyle \mathbf {x} _{1},\ldots ,\mathbf {x} _{n}}
+   be the vertices of a simplex in an affine space A. If, for some point 
+          p
+    {\displaystyle \mathbf {p} }
+   in A,
+        (
+          a
+            1
+        +
+        ⋯
+        +
+          a
+            n
+        )
+          p
+        =
+          a
+            1
+            x
+            1
+        +
+        ⋯
+        +
+          a
+            n
+            x
+            n
+    {\displaystyle (a_{1}+\cdots +a_{n})\mathbf {p} =a_{1}\,\mathbf {x} _{1}+\cdots +a_{n}\,\mathbf {x} _{n}}
+and at least one of 
+          a
+            1
+        ,
+        …
+        ,
+          a
+            n
+    {\displaystyle a_{1},\ldots ,a_{n}}
+   does not vanish then we say that the coefficients (
+          a
+            1
+        ,
+        …
+        ,
+          a
+            n
+    {\displaystyle a_{1},\ldots ,a_{n}}
+  ) are barycentric coordinates of 
+          p
+    {\displaystyle \mathbf {p} }
+   with respect to 
+            x
+            1
+        ,
+        …
+        ,
+            x
+            n
+    {\displaystyle \mathbf {x} _{1},\ldots ,\mathbf {x} _{n}}
+  . The vertices themselves have the coordinates 
+            x
+            1
+        =
+        (
+        1
+        ,
+        0
+        ,
+        0
+        ,
+        …
+        ,
+        0
+        )
+        ,
+            x
+            2
+        =
+        (
+        0
+        ,
+        1
+        ,
+        0
+        ,
+        …
+        ,
+        0
+        )
+        ,
+        …
+        ,
+            x
+            n
+        =
+        (
+        0
+        ,
+        0
+        ,
+        0
+        ,
+        …
+        ,
+        1
+        )
+    {\displaystyle \mathbf {x} _{1}=(1,0,0,\ldots ,0),\mathbf {x} _{2}=(0,1,0,\ldots ,0),\ldots ,\mathbf {x} _{n}=(0,0,0,\ldots ,1)}
+  . Barycentric coordinates are not unique: for any b not equal to zero, (
+        b
+          a
+            1
+        ,
+        …
+        ,
+        b
+          a
+            n
+    {\displaystyle ba_{1},\ldots ,ba_{n}}
+  ) are also barycentric coordinates of p.
+When the coordinates are not negative, the point 
+          p
+    {\displaystyle \mathbf {p} }
+   lies in the convex hull of 
+            x
+            1
+        ,
+        …
+        ,
+            x
+            n
+    {\displaystyle \mathbf {x} _{1},\ldots ,\mathbf {x} _{n}}
+  , that is, in the simplex which has those points as its vertices.
+Barycentric coordinates, as defined above, are a form of homogeneous coordinates: indeed, the "usual" homogeneous coordinates are the barycentric coordinates defined in the extended affine n-space on the simplex whose vertices are the points at infinity on the coordinate axes, plus the origin. Sometimes values of coordinates are restricted with a condition
+        ∑
+          a
+            i
+        =
+        1
+    {\displaystyle \sum a_{i}=1}
+which makes them unique; then, they are affine coordinates.
+In the context of a triangle, barycentric coordinates are also known as area coordinates or areal coordinates, because the coordinates of P with respect to triangle ABC are equivalent to the (signed) ratios of the areas of PBC, PCA and PAB to the area of the reference triangle ABC. Areal and trilinear coordinates are used for similar purposes in geometry.
+Barycentric or areal coordinates are extremely useful in engineering applications involving triangular subdomains. These make analytic integrals often easier to evaluate, and Gaussian quadrature tables are often presented in terms of area coordinates.
+Consider a triangle 
+        T
+    {\displaystyle T}
+   defined by its three vertices, 
+            r
+            1
+    {\displaystyle \mathbf {r} _{1}\,}
+  , 
+            r
+            2
+    {\displaystyle \mathbf {r} _{2}\,}
+   and 
+            r
+            3
+    {\displaystyle \mathbf {r} _{3}\,}
+  . Each point 
+          r
+    {\displaystyle \mathbf {r} }
+   located inside this triangle can be written as a unique convex combination of the three vertices. In other words, for each 
+          r
+    {\displaystyle \mathbf {r} }
+   there is a unique sequence of three numbers, 
+          λ
+            1
+        ,
+          λ
+            2
+        ,
+          λ
+            3
+        ≥
+        0
+    {\displaystyle \lambda _{1},\lambda _{2},\lambda _{3}\geq 0}
+   such that 
+          λ
+            1
+        +
+          λ
+            2
+        +
+          λ
+            3
+        =
+        1
+    {\displaystyle \lambda _{1}+\lambda _{2}+\lambda _{3}=1}
+   and
+          r
+        =
+          λ
+            1
+            r
+            1
+        +
+          λ
+            2
+            r
+            2
+        +
+          λ
+            3
+            r
+            3
+        ,
+    {\displaystyle \mathbf {r} =\lambda _{1}\mathbf {r} _{1}+\lambda _{2}\mathbf {r} _{2}+\lambda _{3}\mathbf {r} _{3},}
+The three numbers 
+          λ
+            1
+        ,
+          λ
+            2
+        ,
+          λ
+            3
+    {\displaystyle \lambda _{1},\lambda _{2},\lambda _{3}}
+   indicate the "barycentric" or "area" coordinates of the point 
+          r
+    {\displaystyle \mathbf {r} }
+   with respect to the triangle. They are often denoted as 
+        α
+        ,
+        β
+        ,
+        γ
+    {\displaystyle \alpha ,\beta ,\gamma }
+   instead of 
+          λ
+            1
+        ,
+          λ
+            2
+        ,
+          λ
+            3
+    {\displaystyle \lambda _{1},\lambda _{2},\lambda _{3}}
+  . Note that although there are three coordinates, there are only two degrees of freedom, since 
+          λ
+            1
+        +
+          λ
+            2
+        +
+          λ
+            3
+        =
+        1
+    {\displaystyle \lambda _{1}+\lambda _{2}+\lambda _{3}=1}
+  . Thus every point is uniquely defined by any two of the barycentric coordinates.
+Switching back and forth between the barycentric coordinates and other coordinate systems makes some problems much easier to solve.
+Given a point 
+          r
+    {\displaystyle \mathbf {r} \,}
+   in a triangle's plane one can obtain the barycentric coordinates 
+          λ
+            1
+    {\displaystyle \lambda _{1}\,}
+  , 
+          λ
+            2
+    {\displaystyle \lambda _{2}\,}
+   and 
+          λ
+            3
+    {\displaystyle \lambda _{3}\,}
+   from the Cartesian coordinates 
+        (
+        x
+        ,
+        y
+        )
+    {\displaystyle (x,y)\,}
+   or vice versa.
+We can write the Cartesian coordinates of the point 
+          r
+    {\displaystyle \mathbf {r} }
+   in terms of the Cartesian components of the triangle vertices 
+            r
+            1
+    {\displaystyle \mathbf {r} _{1}}
+  , 
+            r
+            2
+    {\displaystyle \mathbf {r} _{2}}
+  , 
+            r
+            3
+    {\displaystyle \mathbf {r} _{3}}
+   where 
+            r
+            i
+        =
+        (
+          x
+            i
+        ,
+          y
+            i
+        )
+    {\displaystyle \mathbf {r} _{i}=(x_{i},y_{i})}
+   and in terms of the barycentric coordinates of 
+          r
+    {\displaystyle \mathbf {r} \,}
+   as
+                x
+                =
+                  λ
+                    1
+                  x
+                    1
+                +
+                  λ
+                    2
+                  x
+                    2
+                +
+                  λ
+                    3
+                  x
+                    3
+                y
+                =
+                  λ
+                    1
+                  y
+                    1
+                +
+                  λ
+                    2
+                  y
+                    2
+                +
+                  λ
+                    3
+                  y
+                    3
+    {\displaystyle {\begin{matrix}x=\lambda _{1}x_{1}+\lambda _{2}x_{2}+\lambda _{3}x_{3}\\y=\lambda _{1}y_{1}+\lambda _{2}y_{2}+\lambda _{3}y_{3}\\\end{matrix}}\,}
+That is, the Cartesian coordinates of any point are a weighted average of the Cartesian coordinates of the triangle's vertices, with the weights being the point's barycentric coordinates summing to unity.
+To find the reverse transformation, from Cartesian coordinates to barycentric coordinates, we first substitute 
+          λ
+            3
+        =
+        1
+        −
+          λ
+            1
+        −
+          λ
+            2
+    {\displaystyle \lambda _{3}=1-\lambda _{1}-\lambda _{2}\,}
+   into the above to obtain
+                x
+                =
+                  λ
+                    1
+                  x
+                    1
+                +
+                  λ
+                    2
+                  x
+                    2
+                +
+                (
+                1
+                −
+                  λ
+                    1
+                −
+                  λ
+                    2
+                )
+                  x
+                    3
+                y
+                =
+                  λ
+                    1
+                  y
+                    1
+                +
+                  λ
+                    2
+                  y
+                    2
+                +
+                (
+                1
+                −
+                  λ
+                    1
+                −
+                  λ
+                    2
+                )
+                  y
+                    3
+    {\displaystyle {\begin{matrix}x=\lambda _{1}x_{1}+\lambda _{2}x_{2}+(1-\lambda _{1}-\lambda _{2})x_{3}\\y=\lambda _{1}y_{1}+\lambda _{2}y_{2}+(1-\lambda _{1}-\lambda _{2})y_{3}\\\end{matrix}}\,}
+Rearranging, this is
+                  λ
+                    1
+                (
+                  x
+                    1
+                −
+                  x
+                    3
+                )
+                +
+                  λ
+                    2
+                (
+                  x
+                    2
+                −
+                  x
+                    3
+                )
+                +
+                  x
+                    3
+                −
+                x
+                =
+                0
+                  λ
+                    1
+                (
+                  y
+                    1
+                −
+                  y
+                    3
+                )
+                +
+                  λ
+                    2
+                (
+                  y
+                    2
+                −
+                  y
+                    3
+                )
+                +
+                  y
+                    3
+                −
+                y
+                =
+                0
+    {\displaystyle {\begin{matrix}\lambda _{1}(x_{1}-x_{3})+\lambda _{2}(x_{2}-x_{3})+x_{3}-x=0\\\lambda _{1}(y_{1}-y_{3})+\lambda _{2}(y_{2}-y_{3})+y_{3}-y=0\\\end{matrix}}\,}
+This linear transformation may be written more succinctly as
+          T
+        ⋅
+        λ
+        =
+          r
+        −
+            r
+            3
+    {\displaystyle \mathbf {T} \cdot \lambda =\mathbf {r} -\mathbf {r} _{3}\,}
+where 
+        λ
+    {\displaystyle \lambda }
+   is the vector of the first two barycentric coordinates, 
+          r
+    {\displaystyle \mathbf {r} }
+   is the vector of Cartesian coordinates, and 
+          T
+    {\displaystyle \mathbf {T} }
+   is a matrix given by
+          T
+        =
+          (
+                    x
+                      1
+                  −
+                    x
+                      3
+                    x
+                      2
+                  −
+                    x
+                      3
+                    y
+                      1
+                  −
+                    y
+                      3
+                    y
+                      2
+                  −
+                    y
+                      3
+          )
+    {\displaystyle \mathbf {T} =\left({\begin{matrix}x_{1}-x_{3}&x_{2}-x_{3}\\y_{1}-y_{3}&y_{2}-y_{3}\\\end{matrix}}\right)}
+Now the matrix 
+          T
+    {\displaystyle \mathbf {T} }
+   is invertible, since 
+            r
+            1
+        −
+            r
+            3
+    {\displaystyle \mathbf {r} _{1}-\mathbf {r} _{3}}
+   and 
+            r
+            2
+        −
+            r
+            3
+    {\displaystyle \mathbf {r} _{2}-\mathbf {r} _{3}}
+   are linearly independent (if this were not the case, then 
+            r
+            1
+    {\displaystyle \mathbf {r} _{1}}
+  , 
+            r
+            2
+    {\displaystyle \mathbf {r} _{2}}
+  , and 
+            r
+            3
+    {\displaystyle \mathbf {r} _{3}}
+   would be collinear and would not form a triangle). Thus, we can rearrange the above equation to get
+          (
+                    λ
+                      1
+                    λ
+                      2
+          )
+        =
+            T
+            −
+            1
+        (
+          r
+        −
+            r
+            3
+        )
+    {\displaystyle \left({\begin{matrix}\lambda _{1}\\\lambda _{2}\end{matrix}}\right)=\mathbf {T} ^{-1}(\mathbf {r} -\mathbf {r} _{3})\,}
+Finding the barycentric coordinates has thus been reduced to finding the 2×2 inverse matrix of 
+          T
+    {\displaystyle \mathbf {T} }
+  , an easy problem.
+Explicitly, the formulae for the barycentric coordinates of point 
+          r
+    {\displaystyle \mathbf {r} }
+   in terms of its Cartesian coordinates (x, y) and in terms of the Cartesian coordinates of the triangle's vertices are:
+          λ
+            1
+        =
+              (
+                y
+                  2
+              −
+                y
+                  3
+              )
+              (
+              x
+              −
+                x
+                  3
+              )
+              +
+              (
+                x
+                  3
+              −
+                x
+                  2
+              )
+              (
+              y
+              −
+                y
+                  3
+              )
+              det
+              (
+              T
+              )
+        =
+              (
+                y
+                  2
+              −
+                y
+                  3
+              )
+              (
+              x
+              −
+                x
+                  3
+              )
+              +
+              (
+                x
+                  3
+              −
+                x
+                  2
+              )
+              (
+              y
+              −
+                y
+                  3
+              )
+              (
+                y
+                  2
+              −
+                y
+                  3
+              )
+              (
+                x
+                  1
+              −
+                x
+                  3
+              )
+              +
+              (
+                x
+                  3
+              −
+                x
+                  2
+              )
+              (
+                y
+                  1
+              −
+                y
+                  3
+              )
+        ,
+    {\displaystyle \lambda _{1}={\frac {(y_{2}-y_{3})(x-x_{3})+(x_{3}-x_{2})(y-y_{3})}{\det(T)}}={\frac {(y_{2}-y_{3})(x-x_{3})+(x_{3}-x_{2})(y-y_{3})}{(y_{2}-y_{3})(x_{1}-x_{3})+(x_{3}-x_{2})(y_{1}-y_{3})}}\,,}
+          λ
+            2
+        =
+              (
+                y
+                  3
+              −
+                y
+                  1
+              )
+              (
+              x
+              −
+                x
+                  3
+              )
+              +
+              (
+                x
+                  1
+              −
+                x
+                  3
+              )
+              (
+              y
+              −
+                y
+                  3
+              )
+              det
+              (
+              T
+              )
+        =
+              (
+                y
+                  3
+              −
+                y
+                  1
+              )
+              (
+              x
+              −
+                x
+                  3
+              )
+              +
+              (
+                x
+                  1
+              −
+                x
+                  3
+              )
+              (
+              y
+              −
+                y
+                  3
+              )
+              (
+                y
+                  2
+              −
+                y
+                  3
+              )
+              (
+                x
+                  1
+              −
+                x
+                  3
+              )
+              +
+              (
+                x
+                  3
+              −
+                x
+                  2
+              )
+              (
+                y
+                  1
+              −
+                y
+                  3
+              )
+        ,
+    {\displaystyle \lambda _{2}={\frac {(y_{3}-y_{1})(x-x_{3})+(x_{1}-x_{3})(y-y_{3})}{\det(T)}}={\frac {(y_{3}-y_{1})(x-x_{3})+(x_{1}-x_{3})(y-y_{3})}{(y_{2}-y_{3})(x_{1}-x_{3})+(x_{3}-x_{2})(y_{1}-y_{3})}}\,,}
+          λ
+            3
+        =
+        1
+        −
+          λ
+            1
+        −
+          λ
+            2
+        .
+    {\displaystyle \lambda _{3}=1-\lambda _{1}-\lambda _{2}\,.}
+Another way to solve the conversion from Cartesian to barycentric coordinates is to rewrite the problem in matrix form so that
+          r
+        =
+          R
+          λ
+    {\displaystyle \mathbf {r} =\mathbf {R} {\boldsymbol {\lambda }}}
+with 
+          R
+        =
+          (
+                      r
+                      1
+                    |
+                      r
+                      2
+                    |
+                      r
+                      3
+          )
+    {\displaystyle \mathbf {R} =\left({\begin{matrix}\mathbf {r} _{1}|\mathbf {r} _{2}|\mathbf {r} _{3}\end{matrix}}\right)}
+   and 
+          λ
+        =
+            (
+              λ
+                1
+            ,
+              λ
+                2
+            ,
+              λ
+                3
+            )
+            ⊤
+    {\displaystyle {\boldsymbol {\lambda }}=\left(\lambda _{1},\lambda _{2},\lambda _{3}\right)^{\top }}
+  . Then, the condition 
+          λ
+            1
+        +
+          λ
+            2
+        +
+          λ
+            3
+        =
+        1
+    {\displaystyle \lambda _{1}+\lambda _{2}+\lambda _{3}=1}
+   reads 
+          (
+          1
+          ,
+          1
+          ,
+          1
+          )
+          λ
+        =
+        1
+    {\displaystyle \left(1,1,1\right){\boldsymbol {\lambda }}=1}
+   and the barycentric coordinates can be solved as the solution of the linear system
+          (
+                    x
+                      1
+                    x
+                      2
+                    x
+                      3
+                    y
+                      1
+                    y
+                      2
+                    y
+                      3
+                  1
+                  1
+                  1
+          )
+          λ
+        =
+          (
+                  x
+                  y
+                  1
+          )
+    {\displaystyle \left({\begin{matrix}x_{1}&x_{2}&x_{3}\\y_{1}&y_{2}&y_{3}\\1&1&1\end{matrix}}\right){\boldsymbol {\lambda }}=\left({\begin{matrix}x\\y\\1\end{matrix}}\right)}
+A point with trilinear coordinates x : y : z has barycentric coordinates ax : by : cz where a, b, c are the sidelengths of the triangle. Conversely, a point with barycentrics α : β : γ has trilinears α/a : β/b : γ/c.
+Using the above conversion between barycentric and trilinear coordinates, the various equations given in Trilinear coordinates#Formulas can be rewritten in terms of barycentric coordinates.
+The displacement vector of two normalized points 
+        P
+        =
+        (
+          p
+            1
+        ,
+          p
+            2
+        ,
+          p
+            3
+        )
+    {\displaystyle P=(p_{1},p_{2},p_{3})}
+   and 
+        Q
+        =
+        (
+          q
+            1
+        ,
+          q
+            2
+        ,
+          q
+            3
+        )
+    {\displaystyle Q=(q_{1},q_{2},q_{3})}
+   is
+              P
+              Q
+            →
+        =
+        (
+          p
+            1
+        −
+          q
+            1
+        ,
+          p
+            2
+        −
+          q
+            2
+        ,
+          p
+            3
+        −
+          q
+            3
+        )
+        .
+    {\displaystyle {\overrightarrow {PQ}}=(p_{1}-q_{1},p_{2}-q_{2},p_{3}-q_{3}).}
+The distance 
+        d
+    {\displaystyle d}
+   between 
+        P
+    {\displaystyle P}
+   and 
+        Q
+    {\displaystyle Q}
+  , or the length of the displacement vector 
+              P
+              Q
+            →
+        =
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        ,
+    {\displaystyle {\overrightarrow {PQ}}=(x,y,z),}
+   is
+          d
+            2
+        =
+            |
+            P
+            Q
+            |
+            2
+        =
+        −
+          a
+            2
+        y
+        z
+        −
+          b
+            2
+        z
+        x
+        −
+          c
+            2
+        x
+        y
+        ,
+    {\displaystyle d^{2}=\left|PQ\right|^{2}=-a^{2}yz-b^{2}zx-c^{2}xy,}
+where a, b, c are the sidelengths of the triangle.
+The barycentric coordinates of a point can be calculated based on distances di to the three triangle vertices by solving the equation
+          (
+                  −
+                    c
+                      2
+                    c
+                      2
+                    b
+                      2
+                  −
+                    a
+                      2
+                  −
+                    b
+                      2
+                    c
+                      2
+                  −
+                    a
+                      2
+                    b
+                      2
+                  1
+                  1
+                  1
+          )
+          λ
+        =
+          (
+                    d
+                      A
+                      2
+                  −
+                    d
+                      B
+                      2
+                    d
+                      A
+                      2
+                  −
+                    d
+                      C
+                      2
+                  1
+          )
+        .
+    {\displaystyle \left({\begin{matrix}-c^{2}&c^{2}&b^{2}-a^{2}\\-b^{2}&c^{2}-a^{2}&b^{2}\\1&1&1\end{matrix}}\right){\boldsymbol {\lambda }}=\left({\begin{matrix}d_{A}^{2}-d_{B}^{2}\\d_{A}^{2}-d_{C}^{2}\\1\end{matrix}}\right).}
+Although barycentric coordinates are most commonly used to handle points inside a triangle, they can also be used to describe a point outside the triangle. If the point is not inside the triangle, then we can still use the formulas above to compute the barycentric coordinates. However, since the point is outside the triangle, at least one of the coordinates will violate our original assumption that 
+          λ
+            1...3
+        ≥
+        0
+    {\displaystyle \lambda _{1...3}\geq 0}
+  . In fact, given any point in cartesian coordinates, we can use this fact to determine where this point is with respect to a triangle.
+If a point lies in the interior of the triangle, all of the Barycentric coordinates lie in the open interval 
+        (
+        0
+        ,
+        1
+        )
+        .
+    {\displaystyle (0,1).}
+   If a point lies on an edge of the triangle but not at a vertex, one of the area coordinates 
+          λ
+            1...3
+    {\displaystyle \lambda _{1...3}}
+   (the one associated with the opposite vertex) is zero, while the other two lie in the open interval 
+        (
+        0
+        ,
+        1
+        )
+        .
+    {\displaystyle (0,1).}
+   If the point lies on a vertex, the coordinate associated with that vertex equals 1 and the others equal zero. Finally, if the point lies outside the triangle at least one coordinate is negative.
+Summarizing,
+Point 
+          r
+    {\displaystyle \mathbf {r} }
+   lies inside the triangle if and only if 
+        0
+        <
+          λ
+            i
+        <
+        1
+        ∀
+        i
+           in 
+        1
+        ,
+        2
+        ,
+        3
+    {\displaystyle 0<\lambda _{i}<1\;\forall \;i{\text{ in }}1,2,3}
+  .
+Otherwise, 
+          r
+    {\displaystyle \mathbf {r} }
+   lies on the edge or corner of the triangle if 
+        0
+        ≤
+          λ
+            i
+        ≤
+        1
+        ∀
+        i
+           in 
+        1
+        ,
+        2
+        ,
+        3
+    {\displaystyle 0\leq \lambda _{i}\leq 1\;\forall \;i{\text{ in }}1,2,3}
+  .
+Otherwise, 
+          r
+    {\displaystyle \mathbf {r} }
+   lies outside the triangle.
+In particular, if a point lies on the opposite side of a sideline from the vertex opposite that sideline, then that point's barycentric coordinate corresponding to that vertex is negative.
+If 
+        f
+        (
+            r
+            1
+        )
+        ,
+        f
+        (
+            r
+            2
+        )
+        ,
+        f
+        (
+            r
+            3
+        )
+    {\displaystyle f(\mathbf {r} _{1}),f(\mathbf {r} _{2}),f(\mathbf {r} _{3})}
+   are known quantities, but the values of 
+        f
+    {\displaystyle f}
+   inside the triangle defined by 
+            r
+            1
+        ,
+            r
+            2
+        ,
+            r
+            3
+    {\displaystyle \mathbf {r} _{1},\mathbf {r} _{2},\mathbf {r} _{3}}
+   is unknown, we can approximate these values using linear interpolation. Barycentric coordinates provide a convenient way to compute this interpolation. If 
+          r
+    {\displaystyle \mathbf {r} }
+   is a point inside the triangle with barycentric coordinates 
+          λ
+            1
+    {\displaystyle \lambda _{1}\,}
+  , 
+          λ
+            2
+    {\displaystyle \lambda _{2}\,}
+  , 
+          λ
+            3
+    {\displaystyle \lambda _{3}\,}
+  , then
+        f
+        (
+          r
+        )
+        ≈
+          λ
+            1
+        f
+        (
+            r
+            1
+        )
+        +
+          λ
+            2
+        f
+        (
+            r
+            2
+        )
+        +
+          λ
+            3
+        f
+        (
+            r
+            3
+        )
+    {\displaystyle f(\mathbf {r} )\approx \lambda _{1}f(\mathbf {r} _{1})+\lambda _{2}f(\mathbf {r} _{2})+\lambda _{3}f(\mathbf {r} _{3})}
+In general, given any unstructured grid or polygon mesh, we can use this kind of technique to approximate the value of 
+        f
+    {\displaystyle f}
+   at all points, as long as the function's value is known at all vertices of the mesh. In this case, we have many triangles, each corresponding to a different part of the space. To interpolate a function 
+        f
+    {\displaystyle f}
+   at a point 
+          r
+    {\displaystyle \mathbf {r} }
+  , we must first find a triangle that contains it. To do so, we first transform 
+          r
+    {\displaystyle \mathbf {r} }
+   into the barycentric coordinates of each triangle. If we find some triangle such that the coordinates satisfy 
+        0
+        ≤
+          λ
+            i
+        ≤
+        1
+        ∀
+        i
+           in 
+        1
+        ,
+        2
+        ,
+        3
+    {\displaystyle 0\leq \lambda _{i}\leq 1\;\forall \;i{\text{ in }}1,2,3}
+  , then the point lies in that triangle or on its edge (explained in the previous section). We can then interpolate the value of 
+        f
+        (
+          r
+        )
+    {\displaystyle f(\mathbf {r} )}
+   as described above.
+These methods have many applications, such as the finite element method (FEM).
+The integral of a function over the domain of the triangle can be annoying to compute in a cartesian coordinate system. One generally has to split the triangle up into two halves, and great messiness follows. Instead, it is often easier to make a change of variables to any two barycentric coordinates, e.g. 
+          λ
+            1
+        ,
+          λ
+            2
+    {\displaystyle \lambda _{1},\lambda _{2}}
+  . Under this change of variables,
+          ∫
+            T
+        f
+        (
+          r
+        )
+        d
+          r
+        =
+        2
+        A
+          ∫
+            0
+            1
+          ∫
+            0
+            1
+            −
+              λ
+                2
+        f
+        (
+          λ
+            1
+            r
+            1
+        +
+          λ
+            2
+            r
+            2
+        +
+        (
+        1
+        −
+          λ
+            1
+        −
+          λ
+            2
+        )
+            r
+            3
+        )
+        d
+          λ
+            1
+        d
+          λ
+            2
+    {\displaystyle \int _{T}f(\mathbf {r} )\ d\mathbf {r} =2A\int _{0}^{1}\int _{0}^{1-\lambda _{2}}f(\lambda _{1}\mathbf {r} _{1}+\lambda _{2}\mathbf {r} _{2}+(1-\lambda _{1}-\lambda _{2})\mathbf {r} _{3})\ d\lambda _{1}\ d\lambda _{2}\,}
+where 
+        A
+    {\displaystyle A}
+   is the area of the triangle. This result follows from the fact that a rectangle in barycentric coordinates corresponds to a quadrilateral in cartesian coordinates, and the ratio of the areas of the corresponding shapes in the corresponding coordinate systems is given by 
+        2
+        A
+    {\displaystyle 2A}
+  .
+The circumcenter of a triangle ABC has barycentric coordinates
+          a
+            2
+        (
+        −
+          a
+            2
+        +
+          b
+            2
+        +
+          c
+            2
+        )
+        :
+          b
+            2
+        (
+          a
+            2
+        −
+          b
+            2
+        +
+          c
+            2
+        )
+        :
+          c
+            2
+        (
+          a
+            2
+        +
+          b
+            2
+        −
+          c
+            2
+        )
+    {\displaystyle a^{2}(-a^{2}+b^{2}+c^{2}):\;b^{2}(a^{2}-b^{2}+c^{2}):\;c^{2}(a^{2}+b^{2}-c^{2})\,}
+        =
+        sin
+        ⁡
+        2
+        A
+        :
+        sin
+        ⁡
+        2
+        B
+        :
+        sin
+        ⁡
+        2
+        C
+        ,
+    {\displaystyle =\sin 2A:\sin 2B:\sin 2C,}
+where a, b, c are edge lengths BC, CA, AB respectively of the triangle.
+The orthocenter has barycentric coordinates
+        (
+          a
+            2
+        +
+          b
+            2
+        −
+          c
+            2
+        )
+        (
+          a
+            2
+        −
+          b
+            2
+        +
+          c
+            2
+        )
+        :
+        (
+        −
+          a
+            2
+        +
+          b
+            2
+        +
+          c
+            2
+        )
+        (
+          a
+            2
+        +
+          b
+            2
+        −
+          c
+            2
+        )
+        :
+        (
+          a
+            2
+        −
+          b
+            2
+        +
+          c
+            2
+        )
+        (
+        −
+          a
+            2
+        +
+          b
+            2
+        +
+          c
+            2
+        )
+    {\displaystyle (a^{2}+b^{2}-c^{2})(a^{2}-b^{2}+c^{2}):\;(-a^{2}+b^{2}+c^{2})(a^{2}+b^{2}-c^{2}):\;(a^{2}-b^{2}+c^{2})(-a^{2}+b^{2}+c^{2})\,}
+        =
+        tan
+        ⁡
+        A
+        :
+        tan
+        ⁡
+        B
+        :
+        tan
+        ⁡
+        C
+        .
+    {\displaystyle =\tan A:\tan B:\tan C.}
+The incenter has barycentric coordinates
+        a
+        :
+        b
+        :
+        c
+        =
+        sin
+        ⁡
+        A
+        :
+        sin
+        ⁡
+        B
+        :
+        sin
+        ⁡
+        C
+        .
+    {\displaystyle a:b:c=\sin A:\sin B:\sin C.}
+The nine-point center has barycentric coordinates
+        a
+        cos
+        ⁡
+        (
+        B
+        −
+        C
+        )
+        :
+        b
+        cos
+        ⁡
+        (
+        C
+        −
+        A
+        )
+        :
+        c
+        cos
+        ⁡
+        (
+        A
+        −
+        B
+        )
+    {\displaystyle a\cos(B-C):b\cos(C-A):c\cos(A-B)}
+        =
+          a
+            2
+        (
+          b
+            2
+        +
+          c
+            2
+        )
+        −
+        (
+          b
+            2
+        −
+          c
+            2
+          )
+            2
+        :
+          b
+            2
+        (
+          c
+            2
+        +
+          a
+            2
+        )
+        −
+        (
+          c
+            2
+        −
+          a
+            2
+          )
+            2
+        :
+          c
+            2
+        (
+          a
+            2
+        +
+          b
+            2
+        )
+        −
+        (
+          a
+            2
+        −
+          b
+            2
+          )
+            2
+        .
+    {\displaystyle =a^{2}(b^{2}+c^{2})-(b^{2}-c^{2})^{2}:b^{2}(c^{2}+a^{2})-(c^{2}-a^{2})^{2}:c^{2}(a^{2}+b^{2})-(a^{2}-b^{2})^{2}.}
+Barycentric coordinates may be easily extended to three dimensions. The 3D simplex is a tetrahedron, a polyhedron having four triangular faces and four vertices. Once again, the barycentric coordinates are defined so that the first vertex 
+            r
+            1
+    {\displaystyle \mathbf {r} _{1}}
+   maps to barycentric coordinates 
+        λ
+        =
+        (
+        1
+        ,
+        0
+        ,
+        0
+        ,
+        0
+        )
+    {\displaystyle \lambda =(1,0,0,0)}
+  , 
+            r
+            2
+        →
+        (
+        0
+        ,
+        1
+        ,
+        0
+        ,
+        0
+        )
+    {\displaystyle \mathbf {r} _{2}\to (0,1,0,0)}
+  , etc.
+This is again a linear transformation, and we may extend the above procedure for triangles to find the barycentric coordinates of a point 
+          r
+    {\displaystyle \mathbf {r} }
+   with respect to a tetrahedron:
+          (
+                    λ
+                      1
+                    λ
+                      2
+                    λ
+                      3
+          )
+        =
+            T
+            −
+            1
+        (
+          r
+        −
+            r
+            4
+        )
+    {\displaystyle \left({\begin{matrix}\lambda _{1}\\\lambda _{2}\\\lambda _{3}\end{matrix}}\right)=\mathbf {T} ^{-1}(\mathbf {r} -\mathbf {r} _{4})\,}
+where 
+          T
+    {\displaystyle \mathbf {T} }
+   is now a 3×3 matrix:
+          T
+        =
+          (
+                    x
+                      1
+                  −
+                    x
+                      4
+                    x
+                      2
+                  −
+                    x
+                      4
+                    x
+                      3
+                  −
+                    x
+                      4
+                    y
+                      1
+                  −
+                    y
+                      4
+                    y
+                      2
+                  −
+                    y
+                      4
+                    y
+                      3
+                  −
+                    y
+                      4
+                    z
+                      1
+                  −
+                    z
+                      4
+                    z
+                      2
+                  −
+                    z
+                      4
+                    z
+                      3
+                  −
+                    z
+                      4
+          )
+    {\displaystyle \mathbf {T} =\left({\begin{matrix}x_{1}-x_{4}&x_{2}-x_{4}&x_{3}-x_{4}\\y_{1}-y_{4}&y_{2}-y_{4}&y_{3}-y_{4}\\z_{1}-z_{4}&z_{2}-z_{4}&z_{3}-z_{4}\end{matrix}}\right)}
+Once again, the problem of finding the barycentric coordinates has been reduced to inverting a 3×3 matrix. 3D barycentric coordinates may be used to decide if a point lies inside a tetrahedral volume, and to interpolate a function within a tetrahedral mesh, in an analogous manner to the 2D procedure. Tetrahedral meshes are often used in finite element analysis because the use of barycentric coordinates can greatly simplify 3D interpolation.
+Barycentric coordinates (a1, ..., an) that are defined with respect to a polytope instead of a simplex are called generalized barycentric coordinates. For these, the equation
+        (
+          a
+            1
+        +
+        ⋯
+        +
+          a
+            n
+        )
+        p
+        =
+          a
+            1
+          x
+            1
+        +
+        ⋯
+        +
+          a
+            n
+          x
+            n
+    {\displaystyle (a_{1}+\cdots +a_{n})p=a_{1}x_{1}+\cdots +a_{n}x_{n}}
+is still required to hold where x1, ..., xn are the vertices of the given polytope. Thus, the definition is formally unchanged but while a simplex with n vertices needs to be embedded in a vector space of dimension of at least n-1, a polytope may be embedded in a vector space of lower dimension. The simplest example is a quadrilateral in the plane. Consequently, even normalized generalized barycentric coordinates (i.e. coordinates such that the sum of the coefficients is 1) are in general not uniquely determined anymore while this is the case for normalized barycentric coordinates with respect to a simplex.
+More abstractly, generalized barycentric coordinates express a polytope with n vertices, regardless of dimension, as the image of the standard 
+        (
+        n
+        −
+        1
+        )
+    {\displaystyle (n-1)}
+  -simplex, which has n vertices – the map is onto: 
+          Δ
+            n
+            −
+            1
+        ↠
+        P
+        .
+    {\displaystyle \Delta ^{n-1}\twoheadrightarrow P.}
+   The map is one-to-one if and only if the polytope is a simplex, in which case the map is an isomorphism; this corresponds to a point not having unique generalized barycentric coordinates except when P is a simplex.
+Dual to generalized barycentric coordinates are slack variables, which measure by how much margin a point satisfies the linear constraints, and gives an embedding 
+        P
+        ↪
+        (
+            R
+            ≥
+            0
+          )
+            f
+    {\displaystyle P\hookrightarrow (\mathbf {R} _{\geq 0})^{f}}
+   into the f-orthant, where f is the number of faces (dual to the vertices). This map is one-to-one (slack variables are uniquely determined) but not onto (not all combinations can be realized).
+This use of the standard 
+        (
+        n
+        −
+        1
+        )
+    {\displaystyle (n-1)}
+  -simplex and f-orthant as standard objects that map to a polytope or that a polytope maps into should be contrasted with the use of the standard vector space 
+          K
+            n
+    {\displaystyle K^{n}}
+   as the standard object for vector spaces, and the standard affine hyperplane 
+        {
+        (
+          x
+            0
+        ,
+        …
+        ,
+          x
+            n
+        )
+        ∣
+        ∑
+          x
+            i
+        =
+        1
+        }
+        ⊂
+          K
+            n
+            +
+            1
+    {\displaystyle \{(x_{0},\ldots ,x_{n})\mid \sum x_{i}=1\}\subset K^{n+1}}
+   as the standard object for affine spaces, where in each case choosing a linear basis or affine basis provides an isomorphism, allowing all vector spaces and affine spaces to be thought of in terms of these standard spaces, rather than an onto or one-to-one map (not every polytope is a simplex). Further, the n-orthant is the standard object that maps to cones.
+Generalized barycentric coordinates have applications in computer graphics and more specifically in geometric modelling. Often, a three-dimensional model can be approximated by a polyhedron such that the generalized barycentric coordinates with respect to that polyhedron have a geometric meaning. In this way, the processing of the model can be simplified by using these meaningful coordinates. Barycentric coordinates are also used in geophysics 
+Ternary plot
+Convex combination

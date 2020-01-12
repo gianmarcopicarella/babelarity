@@ -1,0 +1,73 @@
+The hydrogen line, 21-centimeter line or H I line refers to the electromagnetic radiation spectral line that is created by a change in the energy state of neutral hydrogen atoms. This electromagnetic radiation is at the precise frequency of 7009142040575178600♠1420.405751786 MHz, which is equivalent to the vacuum wavelength of 6999211061140541300♠21.10611405413 cm in free space. This wavelength falls within the microwave radio region of the electromagnetic spectrum, and it is observed frequently in radio astronomy, since those radio waves can penetrate the large clouds of interstellar cosmic dust that are opaque to visible light.
+The microwaves of the hydrogen line come from the atomic transition of an electron between the two hyperfine levels of the hydrogen 1s ground state that have an energy difference of 6975941171340287870♠5.87433 µeV. The frequency, ν, of the quanta that are emitted by this transition between two different energy levels is given by the Planck–Einstein relation E = hν. The constant of proportionality, h, is known as the Planck constant.
+The ground state of neutral hydrogen consists of a spherically symmetric electron cloud bound to a proton. Both the electron and the proton have intrinsic magnetic dipole moments ascribed to their spin, whose interaction results in a slight increase in energy when the spins are parallel, and a decrease when antiparallel. The fact that only parallel and antiparallel states are allowed is a result of the quantum mechanical discretization of the total angular momentum of the system. When the spins are parallel, the magnetic dipole moments are antiparallel (because the electron and proton have opposite charge), thus one would expect this configuration to actually have lower energy just as two magnets will align so that the north pole of one is closest to the south pole of the other. This logic fails here because the electron is not spatially displaced from the proton, but encompasses it, and the magnetic dipole moments are best thought of as tiny current loops. As parallel currents attract, it is clear why the parallel magnetic dipole moments (i.e. antiparallel spins) have lower energy. The transition has an energy difference of 6975941171340287870♠5.87433 µeV that when applied in the Plank equation gives:
+        λ
+        =
+            1
+            ν
+        =
+            h
+            E
+        ×
+        c
+        =
+              4.1357
+              ×
+                10
+                  −
+                  15
+                eV
+                s
+              5.874
+              33
+              ×
+                10
+                  −
+                  6
+                eV
+        ×
+        2.9979
+        ×
+          10
+            8
+          m
+            s
+            −
+            1
+        =
+        0.211
+        06
+          m
+        =
+        21.106
+          cm
+    {\displaystyle \lambda ={\frac {1}{\nu }}={\frac {h}{E}}\times c={\frac {4.1357\times 10^{-15}\;{\text{eV}}\;{\text{s}}}{5.874\,33\times 10^{-6}\;{\text{eV}}}}\times 2.9979\times 10^{8}\;{\text{m}}\;{\text{s}}^{-1}=0.211\,06\;{\text{m}}=21.106\;{\text{cm}}}
+where h, is known as the Planck constant and c is the speed of light.
+This transition is highly forbidden with an extremely small rate of 6985290000000000000♠2.9×10−15 s−1, and a lifetime of around 10 million years. A spontaneous occurrence of the transition is unlikely to be seen in a laboratory on Earth, but it can be artificially induced using a hydrogen maser. It is commonly observed in astronomical settings such as hydrogen clouds in our galaxy and others. Owing to its long lifetime, the line has an extremely small natural width, so most broadening is due to Doppler shifts caused by bulk motion or nonzero temperature of the emitting regions.
+During the 1930s, it was noticed that there was a radio 'hiss' that varied on a daily cycle and appeared to be extraterrestrial in origin. After initial suggestions that this was due to the Sun, it was observed that the radio waves seemed to propagate from the centre of the Galaxy. These discoveries were published in 1940 and were noted by Jan Oort who knew that significant advances could be made in astronomy if there were emission lines in the radio part of the spectrum. He referred this to Hendrik van de Hulst who, in 1944, predicted that neutral hydrogen could produce radiation at a frequency of 1420.4058 MHz due to two closely spaced energy levels in the ground state of the hydrogen atom.
+The 21 cm line (1420.4 MHz) was first detected in 1951 by Ewen and Purcell at Harvard University, and published after their data was corroborated by Dutch astronomers Muller and Oort, and by Christiansen and Hindman in Australia. After 1952 the first maps of the neutral hydrogen in the Galaxy were made, and revealed for the first time the spiral structure of the Milky Way.
+The 21 cm spectral line appears within the radio spectrum (in the L band of the UHF band of the microwave window to be exact). Electromagnetic energy in this range can easily pass through the Earth's atmosphere and be observed from the Earth with little interference.
+Assuming that the hydrogen atoms are uniformly distributed throughout the galaxy, each line of sight through the galaxy will reveal a hydrogen line. The only difference between each of these lines is the doppler shift that each of these lines has. Hence, one can calculate the relative speed of each arm of our galaxy. The rotation curve of our galaxy has been calculated using the 21 cm hydrogen line. It is then possible to use the plot of the rotation curve and the velocity to determine the distance to a certain point within the galaxy.
+Hydrogen line observations have also been used indirectly to calculate the mass of galaxies, to put limits on any changes over time of the universal gravitational constant and to study the dynamics of individual galaxies.
+The line is of great interest in big bang cosmology because it is the only known way to probe the "dark ages" from recombination to reionization. Including the redshift, this line will be observed at frequencies from 200 MHz to about 9 MHz on Earth. It potentially has two applications. First, by mapping the intensity of redshifted 21 centimeter radiation it can, in principle, provide a very precise picture of the matter power spectrum in the period after recombination. Second, it can provide a picture of how the universe was reionized, as neutral hydrogen which has been ionized by radiation from stars or quasars will appear as holes in the 21 cm background.
+However, 21 cm observations are very difficult to make. Ground based experiments to observe the faint signal are plagued by interference from television transmitters and the ionosphere, so they must be made from very secluded sites care taken to eliminate interference. Space based experiments, even on the far side of the Moon (where they would be sheltered from interference from terrestrial radio signals), have been proposed to compensate for this. Little is known about other effects, such as synchrotron emission and free–free emission on the galaxy. Despite these problems, 21 cm observations, along with space-based gravity wave observations, are generally viewed as the next great frontier in observational cosmology, after the cosmic microwave background polarization.
+The Soil Moisture & Ocean Salinity (SMOS) satellite's main scientific instrument Microwave Imaging Radiometer with Aperture Synthesis (MIRAS) uses the 1400–1427 MHz frequencies (including 1420.406 MHz) to monitor the ocean surface salinity and the soil moisture of the Earth. The choice of the H I band results from much better radiative signature of salinity and moisture in microwave than at higher frequencies, and no electromagnetic interference from anthropogenic sources, as H I is reserved for radioastronomy.
+The Pioneer plaque, attached to the Pioneer 10 and Pioneer 11 spacecraft, portrays the hyperfine transition of neutral hydrogen and used the wavelength as a standard scale of measurement. For example, the height of the woman in the image is displayed as eight times 21 cm, or 168 cm. Similarly the frequency of the hydrogen spin-flip transition was used for a unit of time in a map to Earth included on the Pioneer plaques and also the Voyager 1 and Voyager 2 probes. On this map, the position of the Sun is portrayed relative to 14 pulsars whose rotation period circa 1977 is given as a multiple of the frequency of the hydrogen spin-flip transition. It is theorized by the plaque's creators that an advanced civilization would then be able to use the locations of these pulsars to locate the Solar System at the time the spacecraft were launched.
+The 21 cm hydrogen line is considered a favorable frequency by the SETI program in their search for signals from potential extraterrestrial civilizations. In 1959, Italian physicist Giuseppe Cocconi and American physicist Philip Morrison published "Searching for Interstellar Communications", a paper proposing the 21 cm hydrogen line and the potential of microwaves in the search for interstellar communications. According to George Basalla, the paper by Cocconi and Morrison "provided a reasonable theoretical basis" for the then nascent SETI program. Similarly, Pyotr Makovetsky proposed SETI use a frequency which is equal to either:
+π × 7009142040575177000♠1420.40575177 MHz = 7009446233627000000♠4.46233627 GHz
+or
+2π × 7009142040575177000♠1420.40575177 MHz = 7009892467255000000♠8.92467255 GHz
+Since π is an irrational number, such a frequency couldn't possibly be produced in a natural way as a harmonic, and would clearly signify its artificial origin. Such a signal would not be overwhelmed by the H I line itself, or by any of its harmonics.
+Dark Ages Radio Explorer (DARE)
+H-alpha, the visible red spectral line with wavelength of 6562.8 ångstroms
+Hydrogen spectral series
+Hydrogen atom
+Intensity mapping
+Radio astronomy
+Rydberg formula
+Spectral line
+Wow! signal
+Timeline of the Big Bang
+Chronology of the universe
+Big Bang
+Schelling point

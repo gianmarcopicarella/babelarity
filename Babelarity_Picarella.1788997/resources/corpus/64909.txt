@@ -1,0 +1,141 @@
+In geometry, a set of points in space are coplanar if there exists a geometric plane that contains them all. For example, three points are always coplanar, and if the points are distinct and non-collinear, the plane they determine is unique. However, a set of four or more distinct points will, in general, not lie in a single plane.
+Two lines in three-dimensional space are coplanar if there is a plane that includes them both. This occurs if the lines are parallel, or if they intersect each other. Two lines that are not coplanar are called skew lines.
+Distance geometry provides a solution technique for the problem of determining whether a set of points is coplanar, knowing only the distances between them.
+In three-dimensional space, two independent vectors with the same initial point determine a plane through that point. Their cross product is a normal vector to that plane, and any vector orthogonal to this cross product through the initial point will lie in the plane. This leads to the following coplanarity test. Four distinct points, x1, x2, x3 and x4 are coplanar if and only if,
+        (
+          x
+            3
+        −
+          x
+            1
+        )
+        ⋅
+        [
+        (
+          x
+            2
+        −
+          x
+            1
+        )
+        ×
+        (
+          x
+            4
+        −
+          x
+            3
+        )
+        ]
+        =
+        0.
+    {\displaystyle (x_{3}-x_{1})\cdot [(x_{2}-x_{1})\times (x_{4}-x_{3})]=0.}
+If three vectors a, b and c are coplanar, then if a⋅b = 0 (i.e., a and b are orthogonal) then
+        (
+          c
+        ⋅
+              a
+              ^
+        )
+              a
+              ^
+        +
+        (
+          c
+        ⋅
+              b
+              ^
+        )
+              b
+              ^
+        =
+          c
+        ,
+    {\displaystyle (\mathbf {c} \cdot \mathbf {\hat {a}} )\mathbf {\hat {a}} +(\mathbf {c} \cdot \mathbf {\hat {b}} )\mathbf {\hat {b}} =\mathbf {c} ,}
+where 
+              a
+              ^
+    {\displaystyle \mathbf {\hat {a}} }
+   denotes the unit vector in the direction of a. That is, the vector projections of c on a and c on b add to give the original c.
+Since three or fewer points are always coplanar, the problem of determining when a set of points are coplanar is generally of interest only when there are at least four points involved. In the case that there are exactly four points, several ad hoc methods can be employed, but a general method that works for any number of points uses vector methods and the property that a plane is determined by two linearly independent vectors.
+In an n-dimensional space (n ≥ 3), a set of k points, {p0, p1, ..., pk − 1} are coplanar if and only if the matrix of their relative differences, that is, the matrix whose columns (or rows) are the vectors 
+                p
+                  0
+                p
+                  1
+            →
+        ,
+                p
+                  0
+                p
+                  2
+            →
+        ,
+        …
+        ,
+                p
+                  0
+                p
+                  k
+                  −
+                  1
+            →
+    {\displaystyle {\overrightarrow {p_{0}p_{1}}},{\overrightarrow {p_{0}p_{2}}},\ldots ,{\overrightarrow {p_{0}p_{k-1}}}}
+   is of rank 2 or less.
+For example, given four points, X = (x1, x2, ... , xn), Y = (y1, y2, ... , yn), Z = (z1, z2, ... , zn), and W = (w1, w2, ... , wn), if the matrix
+            [
+                    x
+                      1
+                  −
+                    w
+                      1
+                    x
+                      2
+                  −
+                    w
+                      2
+                  …
+                    x
+                      n
+                  −
+                    w
+                      n
+                    y
+                      1
+                  −
+                    w
+                      1
+                    y
+                      2
+                  −
+                    w
+                      2
+                  …
+                    y
+                      n
+                  −
+                    w
+                      n
+                    z
+                      1
+                  −
+                    w
+                      1
+                    z
+                      2
+                  −
+                    w
+                      2
+                  …
+                    z
+                      n
+                  −
+                    w
+                      n
+            ]
+    {\displaystyle {\begin{bmatrix}x_{1}-w_{1}&x_{2}-w_{2}&\dots &x_{n}-w_{n}\\y_{1}-w_{1}&y_{2}-w_{2}&\dots &y_{n}-w_{n}\\z_{1}-w_{1}&z_{2}-w_{2}&\dots &z_{n}-w_{n}\\\end{bmatrix}}}
+is of rank 2 or less, the four points are coplanar.
+In the special case of a plane that contains the origin, the property can be simplified in the following way: A set of k points and the origin are coplanar if and only if the matrix of the coordinates of the k points is of rank 2 or less.
+A skew polygon is a polygon whose vertices are not coplanar. Such a polygon must have at least four vertices; there are no skew triangles.
+A polyhedron that has positive volume has vertices that are not all coplanar.
+Collinearity

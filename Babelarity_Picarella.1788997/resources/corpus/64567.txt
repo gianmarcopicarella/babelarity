@@ -1,0 +1,20 @@
+Edmond Nicolas Laguerre (April 9, 1834, Bar-le-Duc – August 14, 1886, Bar-le-Duc) was a French mathematician, a member of the Académie française (1885). His main works were in the areas of geometry and complex analysis. He also investigated orthogonal polynomials (see Laguerre polynomials). Laguerre's method is a root-finding algorithm tailored to polynomials. He laid the foundations of a geometry of oriented spheres (Laguerre geometry and Laguerre plane), including the Laguerre transformation or transformation by reciprocal directions.
+Notes sur la résolution des équations numériques. Paris: Gauthier-Villars. 1880. 
+Laguerre, Edmond (1881). "Sur la transformation par directions réciproques". Comptes rendus 92: 71–73. 
+Laguerre, Edmond (1882). "Transformations par semi-droites réciproques". Nouvelles annales de mathématiques 1: 542–556. 
+Théorie des équations numériques, Paris: Gauthier-Villars. 1884 on Google Books
+Recherches sur la géométrie de direction; méthodes de transformation; anticaustiques. Gauthier-Villars. 1885. 
+(French) Oeuvres de Laguerre publ. sous les auspices de l'Académie des sciences par MM. Charles Hermite, Henri Poincaré, et Eugène Rouché. (Paris, 1898-1905) (reprint: New York : Chelsea publ., 1972 ISBN 0-8284-0263-9)
+More than 80 articles on Nundam.org.p
+Big q-Laguerre polynomials
+Gauss–Laguerre quadrature
+Gaussian beam
+Laguerre form
+Laguerre's method
+Laguerre–Pólya class
+Laguerre plane
+Laguerre polynomials
+Meixner polynomials
+Orthogonal polynomials
+q-Laguerre polynomials
+Samuelson's inequality

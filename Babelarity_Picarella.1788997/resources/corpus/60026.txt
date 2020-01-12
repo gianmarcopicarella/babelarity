@@ -1,0 +1,6 @@
+Flint glass is optical glass that has relatively high refractive index and low Abbe number (high dispersion). Flint glasses are arbitrarily defined as having an Abbe number of 50 to 55 or less. The currently known flint glasses have refractive indices ranging between 1.45 and 2.00. A concave lens of flint glass is commonly combined with a convex lens of crown glass to produce an achromatic doublet lens because of their compensating optical properties, which reduces chromatic aberration (colour defects).
+With respect to glass, the term flint derives from the flint nodules found in the chalk deposits of southeast England that were used as a source of high purity silica by George Ravenscroft, c. 1662, to produce a potash lead glass that was the precursor to English lead crystal.
+Traditionally, flint glasses were lead glasses containing around 4–60% lead(II) oxide; however, the manufacture and disposal of these glasses were sources of pollution. In many modern flint glasses, lead oxides are replaced with other metal oxides such as titanium dioxide and zirconium dioxide without significantly altering the optical properties of the glass.
+Crown glass (optics)
+Chromatic aberration
+Cup plate

@@ -1,0 +1,78 @@
+An exciton is a bound state of an electron and an electron hole which are attracted to each other by the electrostatic Coulomb force. It is an electrically neutral quasiparticle that exists in insulators, semiconductors and in some liquids. The exciton is regarded as an elementary excitation of condensed matter that can transport energy without transporting net electric charge.
+An exciton can form when a photon is absorbed by a semiconductor. This excites an electron from the valence band into the conduction band. In turn, this leaves behind a positively charged electron hole (an abstraction for the location from which an electron was moved). The electron in the conduction band is then effectively attracted to this localized hole by the repulsive Coulomb forces from large numbers of electrons surrounding the hole and excited electron. This attraction provides a stabilizing energy balance. Consequently, the exciton has slightly less energy than the unbound electron and hole. The wavefunction of the bound state is said to be hydrogenic, an exotic atom state akin to that of a hydrogen atom. However, the binding energy is much smaller and the particle's size much larger than a hydrogen atom. This is because of both the screening of the Coulomb force by other electrons in the semiconductor (i.e., its dielectric constant), and the small effective masses of the excited electron and hole. The recombination of the electron and hole, i.e. the decay of the exciton, is limited by resonance stabilization due to the overlap of the electron and hole wave functions, resulting in an extended lifetime for the exciton.
+The electron and hole may have either parallel or anti-parallel spins. The spins are coupled by the exchange interaction, giving rise to exciton fine structure. In periodic lattices, the properties of an exciton show momentum (k-vector) dependence.
+The concept of excitons was first proposed by Yakov Frenkel in 1931, when he described the excitation of atoms in a lattice of insulators. He proposed that this excited state would be able to travel in a particle-like fashion through the lattice without the net transfer of charge.
+Excitons may be treated in two limiting cases, depending on the properties of the material in question.
+In materials with a small dielectric constant, the Coulomb interaction between an electron and a hole may be strong and the excitons thus tend to be small, of the same order as the size of the unit cell. Molecular excitons may even be entirely located on the same molecule, as in fullerenes. This Frenkel exciton, named after Yakov Frenkel, has a typical binding energy on the order of 0.1 to 1 eV. Frenkel excitons are typically found in alkali halide crystals and in organic molecular crystals composed of aromatic molecules, such as anthracene and tetracene.
+In semiconductors, the dielectric constant is generally large. Consequently, electric field screening tends to reduce the Coulomb interaction between electrons and holes. The result is a Wannier exciton, which has a radius larger than the lattice spacing. Small effective mass of electrons that is typical of semiconductors also favors large exciton radii. As a result, the effect of the lattice potential can be incorporated into the effective masses of the electron and hole. Likewise, because of the lower masses and the screened Coulomb interaction, the binding energy is usually much less than that of a hydrogen atom, typically on the order of 0.01eV. This type of exciton was named for Gregory Wannier and Nevill Francis Mott. Wannier-Mott excitons are typically found in semiconductor crystals with small energy gaps and high dielectric constants, but have also been identified in liquids, such as liquid xenon. They are also known as large excitons.
+In single-wall carbon nanotubes, excitons have both Wannier-Mott and Frenkel character. This is due to the nature of the Coulomb interaction between electrons and holes in one-dimension. The dielectric function of the nanotube itself is large enough to allow for the spatial extent of the wave function to extend over a few to several nanometers along the tube axis, while poor screening in the vacuum or dielectric environment outside of the nanotube allows for large (0.4 to 1.0eV) binding energies.
+Often there is more than one band to choose from for the electron and the hole leading to different types of excitons in the same material. Even high-lying bands can be effective as femtosecond two-photon experiments have shown. At cryogenic temperatures, many higher excitonic levels can be observed approaching the edge of the band, forming a series of spectral absorption lines that are in principle similar to hydrogen spectral series.
+An intermediate case between Frenkel and Wannier excitons, charge-transfer excitons (sometimes called simply CT excitons) occur when the electron and the hole occupy adjacent molecules. They occur primarily in ionic crystals. Unlike Frenkel and Wannier excitons they display a static electric dipole moment.
+At surfaces it is possible for so called image states to occur, where the hole is inside the solid and the electron is in the vacuum. These electron-hole pairs can only move along the surface.
+Alternatively, an exciton may be an excited state of an atom, ion, or molecule, the excitation wandering from one cell of the lattice to another.
+When a molecule absorbs a quantum of energy that corresponds to a transition from one molecular orbital to another molecular orbital, the resulting electronic excited state is also properly described as an exciton. An electron is said to be found in the lowest unoccupied orbital and an electron hole in the highest occupied molecular orbital, and since they are found within the same molecular orbital manifold, the electron-hole state is said to be bound. Molecular excitons typically have characteristic lifetimes on the order of nanoseconds, after which the ground electronic state is restored and the molecule undergoes photon or phonon emission. Molecular excitons have several interesting properties, one of which is energy transfer (see Förster resonance energy transfer) whereby if a molecular exciton has proper energetic matching to a second molecule's spectral absorbance, then an exciton may transfer (hop) from one molecule to another. The process is strongly dependent on intermolecular distance between the species in solution, and so the process has found application in sensing and molecular rulers.
+The hallmark of molecular excitons in organic molecular crystals are doublets and/or triplets of exciton absorption bands strongly polarized along crystallographic axes. In these crystals an elementary cell includes several molecules sitting in symmetrically identical positions, which results in the level degeneracy that is lifted by intermolecular interaction. As a result, absorption bands are polarized along the symmetry axes of the crystal. Such multiplets were discovered by Antonina Prikhot'ko and their genesis was proposed by Alexander Davydov. It is known as 'Davydov splitting'.
+Excitons are lowest excited states of the electronic subsystem of pure crystals. Impurities can bind excitons, and when the bound state is shallow, the oscillator strength for producing bound excitons is so high that impurity absorption can compete with intrinsic exciton absorption even at rather low impurity concentrations. This phenomenon is generic and applicable both to the large radius (Wannier-Mott) excitons and molecular (Frenkel) excitons. Hence, excitons bound to impurities and defects possess giant oscillator strength.
+In crystals excitons interact with phonons, the lattice vibrations. If this coupling is weak as in typical semiconductors such as GaAs or Si, excitons are scattered by phonons. However, when the coupling is strong, excitons can be self-trapped. Self-trapping results in dressing excitons with a dense cloud of virtual phonons which strongly suppresses the ability of excitons to move across the crystal. In simpler terms, this means a local deformation of the crystal lattice around the exciton. Self-trapping can be achieved only if the energy of this deformation can compete with the width of the exciton band. Hence, it should be of atomic scale, of about an electron-volt.
+Self-trapping of excitons is similar to forming strong-coupling polarons but with three essential differences. First, self-trapped exciton states are always of a small radius, of the order of lattice constant, due to their electric neutrality. Second, there exists a self-trapping barrier separating free and self-trapped states, hence, free excitons are metastable. Third, this barrier enables coexistence of free and self-trapped states of excitons. This means that spectral lines of free excitons and wide bands of self-trapped excitons can be seen simultaneously in absorption and luminescence spectra. It is interesting that while the self-trapped states are of lattice-spacing scale, the barrier has typically much larger scale. Indeed, its spatial scale is about 
+          r
+            b
+        ∼
+        m
+          γ
+            2
+          /
+          ω
+            2
+    {\displaystyle r_{b}\sim m\gamma ^{2}/\omega ^{2}}
+   where 
+        m
+    {\displaystyle m}
+   is effective mass of the exciton, 
+        γ
+    {\displaystyle \gamma }
+   is the exciton-phonon coupling constant, and 
+        ω
+    {\displaystyle \omega }
+   is the characteristic frequency of optical phonons. Excitons are self-trapped when 
+        m
+    {\displaystyle m}
+   and 
+        γ
+    {\displaystyle \gamma }
+   are large, and then the spatial size of the barrier is large compared with the lattice spacing. Transforming a free exciton state into a self-trapped one proceeds as a collective tunneling of coupled exciton-lattice system (an instanton). Because 
+          r
+            b
+    {\displaystyle r_{b}}
+   is large, tunneling can be described by a continuum theory. The height of the barrier 
+        W
+        ∼
+          ω
+            4
+          /
+          m
+            3
+          γ
+            4
+    {\displaystyle W\sim \omega ^{4}/m^{3}\gamma ^{4}}
+  . Because both 
+        m
+    {\displaystyle m}
+   and 
+        γ
+    {\displaystyle \gamma }
+   appear in the denominator of 
+        W
+    {\displaystyle W}
+  , the barriers are basically low. Therefore, free excitons can be seen in crystals with strong exciton-phonon coupling only in pure samples and at low temperatures. Coexistence of free and self-trapped excitons was observed in rare-gas solids, alkali-halides, and in molecular crystal of pyrene.
+Excitons are the main mechanism for light emission in semiconductors at low temperature (when the characteristic thermal energy kT is less than the exciton binding energy), replacing the free electron-hole recombination at higher temperatures.
+The existence of exciton states may be inferred from the absorption of light associated with their excitation. Typically, excitons are observed just below the band gap.
+When excitons interact with photons a so-called polariton (also exciton-polariton) is formed. These excitons are sometimes referred to as dressed excitons.
+Provided the interaction is attractive, an exciton can bind with other excitons to form a biexciton, analogous to a dihydrogen molecule. If a large density of excitons is created in a material, they can interact with one another to form an electron-hole liquid, a state observed in k-space indirect semiconductors.
+Additionally, excitons are integer-spin particles obeying Bose statistics in the low-density limit. In some systems, where the interactions are repulsive, a Bose–Einstein condensed state is predicted to be the ground state. Exciton condensates have been seen in a double quantum well systems.
+Normally, excitons in a semiconductor have a very short lifetime due to the close proximity of the electron and hole. However, by placing the electron and hole in spatially separated quantum wells with an insulating barrier layer in between so called 'spatially indirect' excitons can be created. In contrast to ordinary (spatially direct), these spatially indirect excitons can have large spatial separation between the electron and hole, and thus possess a much longer lifetime. This is often used to cool excitons to very low temperatures in order to study Bose Einstein condensation (or rather its 2 dimensional analog).
+Polaron
+Phonon
+Polariton superfluid
+Oscillator strength
+Giant oscillator strength

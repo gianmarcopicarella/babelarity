@@ -1,0 +1,17 @@
+Isocyanic acid is an organic compound with the formula HNCO, discovered in 1830 by Liebig and Wöhler. This colourless substance is volatile and poisonous, with a boiling point of 23.5 °C. Isocyanic acid is the simplest stable chemical compound that contains carbon, hydrogen, nitrogen, and oxygen, the four most commonly found elements in organic chemistry and biology.
+Isocyanic acid can be made by protonation of the cyanate anion, such as from salts like potassium cyanate, by either gaseous hydrogen chloride or acids such as oxalic acid.
+H+ + NCO- → HNCO
+HNCO also can be made by the high-temperature thermal decomposition of cyanuric acid, a trimer.
+C3H3N3O3 → 3 HNCO
+Isocyanic acid hydrolyses to carbon dioxide and ammonia:
+HNCO + H2O → CO2 + NH3
+At sufficiently high concentrations, isocyanic acid oligomerizes to give cyanuric acid and cyamelide, a polymer. These species usually are easily separated from liquid- or gas-phase reaction products. Dilute solutions of isocyanic acid are stable in inert solvents, e.g. ether and chlorinated hydrocarbons.
+Isocyanic acid reacts with amines to give ureas (carbamides):
+HNCO + RNH2 → RNHC(O)NH2.
+This reaction is called carbamylation.
+HNCO adds across electron-rich double bonds, such as vinylethers, to give the corresponding isocyanates.
+Isocyanic acid is also present in various forms of smoke, including smog and cigarette smoke. It was detected using mass spectrometry, and easily dissolves in water, posing a health risk to the lungs.
+Low-temperature photolysis of solids containing HNCO has been shown to make H-O-C≡N, known as cyanic acid or hydrogen cyanate; it is a tautomer of isocyanic acid. Pure cyanic acid has not been isolated, and isocyanic acid is the predominant form in all solvents. Note that sometimes information presented for cyanic acid in reference books is actually for isocyanic acid.
+Cyanic and isocyanic acids are isomers of fulminic acid (H-C=N-O), an unstable compound.
+Cyanate
+Thiocyanic acid

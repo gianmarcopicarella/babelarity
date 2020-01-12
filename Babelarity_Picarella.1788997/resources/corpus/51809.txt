@@ -1,0 +1,41 @@
+Interactive media normally refers to products and services on digital computer-based systems which respond to the user’s actions by presenting content such as text, moving image, animation, video, audio, and video games.
+Interactive media is a method of communication in which the output from the media comes from the input of the users. Interactive media works with the user's participation. The media still has the same purpose but the user's input adds interaction and brings interesting features to the system for better enjoyment.
+The analogue videodisc developed by NV Philips was the pioneering technology for interactive media. Additionally, there are several elements that encouraged the development of interactive media including the following:
+The laser disc technology was first invented in 1958. It enabled the user to access high-quality analogue images on the computer screen. This increased the ability of interactive video systems.
+The concept of the graphical user interface (GUI), which was developed in the 1970s, popularized by Apple Computer, Inc. was essentially about visual metaphors, intuitive feel and sharing information on the virtual desktop. Additional power was the only thing needed to move into multimedia.
+The sharp fall in hardware costs and the unprecedented rise in the computer speed and memory transformed the personal computer into an affordable machine capable of combining audio and color video in advanced ways.
+Another element is the release of Windows 3.0 in 1990 by Microsoft into the mainstream IBM clone world. It accelerated the acceptance of GUI as the standard mechanism for communicating with small computer systems.
+The development by NV Philips of optical digital technologies built around the compact disk (CD) in 1979 is also another leading element in the interactive media development as it raised the issue of developing interactive media.
+All of the prior elements contributed in the development of the main hardware and software systems used in interactive media.
+Though the word media is plural, the term is often used as a singular noun.
+Interactive media is related to the concepts interaction design, new media, interactivity, human computer interaction, cyberculture, digital culture, interactive design, and includes augmented reality.
+An essential feature of interactivity is that it is mutual: user and machine each take an active role (see interaction). Most interactive computing systems are for some human purpose and interact with humans in human contexts. Manovich complains that ‘In relation to computer-based media, the concept of interactivity is a tautology. .... Therefore, to call computer media “interactive” is meaningless – it simply means stating the most basic fact about computers.’. Nevertheless, the term is useful to denote an identifiable body of practices and technologies.
+Interactive media are an instance of a computational method influenced by the sciences of cybernetics, autopoiesis and system theories, and challenging notions of reason and cognition, perception and memory, emotions and affection.
+Any form of interface between the end user/audience and the medium may be considered interactive. Interactive media is not limited to electronic media or digital media. Board games, pop-up books, gamebooks, flip books and constellation wheels are all examples of printed interactive media. Books with a simple table of contents or index may be considered interactive due to the non-linear control mechanism in the medium, but are usually considered non-interactive since the majority of the user experience is non-interactive reading.
+Interactive media is helpful in the following four development dimensions in which young children learn: social and emotional, language development, cognitive and general knowledge, and approaches toward learning. Using computers and educational computer software in a learning environment helps children increase communication skills and their attitudes about learning. Children who use educational computer software are often found using more complex speech patterns and higher levels of verbal communication. A study found that basic interactive books that simply read a story aloud and highlighted words and phrases as they were spoken were beneficial for children with lower reading abilities. Children have different styles of learning, and interactive media helps children with visual, verbal, auditory, and tactile learning styles.
+Interactive media makes technology more intuitive to use. Interactive products such as smartphones, iPad's/iPod's, interactive whiteboards and websites are all easy to use. The easy usage of these products encourages consumers to experiment with their products rather than reading instruction manuals.
+Interactive media promotes dialogic communication. This form of communication allows senders and receivers to build long term trust and cooperation. This plays a critical role in building relationships. Organizations also use interactive media to go further than basic marketing and develop more positive behavioral relationships.
+The media which allows several geographically remote users to interact synchronously with the media application/system is known as Distributed Interactive Media. Some common examples of this type of Media include Online Gaming, Distributed Virtual Environment, Whiteboards which are used for interactive conferences and many more.
+A couple of basic examples of interactive media are video games and websites. Websites, especially social networking websites provide the interactive use of text and graphics to its users, who interact with each other in various ways such as chatting, playing online games, sharing posts that may include their thoughts and/or pictures and so forth. Video games are also one of the common examples of Interactive Media as the players make use of the joystick/controller to interactively respond to the actions and changes taking place on the game screen generated by the game application, which in turn reacts to the response of the players through the joystick/controller.
+Interactive media can be implemented in a wide variety of platforms and applications encompassing virtually all areas of technology. Some examples include mobile platforms such as touch screen smartphones and tablets, was well as other interactive mediums that are created exclusively to solve a unique problem or set of problems. Interactive media is not limited to a certain field of IT, it instead encompasses any technology that supplies for movie parts or feedback based on the users actions. This can include javascript and AJAX utilization in web pages, but can further be extended to any programming languages that share the same or similar functionality. One of the most recent innovations to supply for interactivity to solve a problem the plagues individuals on a daily bases is Delta Airlines “Photon Shower.” This device was developed from Delta’s collaboration with Professor Russell Foster of Cambridge University. The device is designed to reduce the effect of jet lag on customers that often take long flights across time zones. The systems interactivity is evident because of the way in which it solves this commonplace problem.. By observing what time zones a person has crossed and matching those to the basic known sleep cycles of the individual, the machine is able to predict when a persons body is expecting light, and when it is expecting darkness. It then bombards the individual with the appropriate light source variations for the time, as well as an instructional card to inform them of what times their body expects light and what times it expects darkness.Growth of interactive media continues to advance today, with the advent of more and more powerful machines the limit to what can be input and manipulated on a display in real time is become virtually non-existent.   
+Artmedia
+Collective intelligence
+Digital art
+Digital media
+Immersive virtual reality
+Information theory
+Interactive advertising
+Interactive art
+Interactive cinema
+International Interactive Communications Society
+Internet think tanks
+Mass collaboration
+Mass media
+Media Psychology
+Media theory
+Multimedia
+New media art
+Social media
+User-generated content
+Video Game
+Web documentary

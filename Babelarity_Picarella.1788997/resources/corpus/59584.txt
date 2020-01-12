@@ -1,0 +1,21 @@
+Cheminformatics (also known as chemoinformatics, chemioinformatics and chemical informatics) is the use of computer and informational techniques applied to a range of problems in the field of chemistry. These in silico techniques are used in, for example, pharmaceutical companies in the process of drug discovery. These methods can also be used in chemical and allied industries in various other forms.
+The term chemoinformatics was defined by F.K. Brown  in 1998:
+Chemoinformatics is the mixing of those information resources to transform data into information and information into knowledge for the intended purpose of making better decisions faster in the area of drug lead identification and optimization.
+Since then, both spellings have been used, and some have evolved to be established as Cheminformatics, while European Academia settled in 2006 for Chemoinformatics. The recent establishment of the Journal of Cheminformatics is a strong push towards the shorter variant.
+Cheminformatics combines the scientific working fields of chemistry, computer science and information science for example in the areas of topology, chemical graph theory, information retrieval and data mining in the chemical space. Cheminformatics can also be applied to data analysis for various industries like paper and pulp, dyes and such allied industries.
+The primary application of cheminformatics is in the storage, indexing and search of information relating to compounds. The efficient search of such stored information includes topics that are dealt with in computer science as data mining, information retrieval, information extraction and machine learning. Related research topics include:
+Unstructured data
+Information retrieval
+Information extraction
+Structured Data Mining and mining of Structured data
+Database mining
+Graph mining
+Molecule mining
+Sequence mining
+Tree mining
+Digital libraries
+The in silico representation of chemical structures uses specialized formats such as the XML-based Chemical Markup Language or SMILES. These representations are often used for storage in large chemical databases. While some formats are suited for visual representations in 2 or 3 dimensions, others are more suited for studying physical interactions, modeling and docking studies.
+Chemical data can pertain to real or virtual molecules. Virtual libraries of compounds may be generated in various ways to explore chemical space and hypothesize novel compounds with desired properties.
+Virtual libraries of classes of compounds (drugs, natural products, diversity-oriented synthetic products) were recently generated using the FOG (fragment optimized growth) algorithm.  This was done by using cheminformatic tools to train transition probabilities of a Markov chain on authentic classes of compounds, and then using the Markov chain to generate novel compounds that were similar to the training database.
+In contrast to high-throughput screening, virtual screening involves computationally screening in silico libraries of compounds, by means of various methods such as docking, to identify members likely to possess desired properties such as biological activity against a given target. In some cases, combinatorial chemistry is used in the development of the library to increase the efficiency in mining the chemical space. More commonly, a diverse library of small molecules or natural products is screened.
+This is the calculation of quantitative structure-activity relationship and quantitative structure property relationship values, used to predict the activity of compounds from their structures. In this context there is also a strong relationship to Chemometrics. Chemical expert systems are also relevant, since they represent parts of chemical knowledge as an in silico representation. There is a relatively new concept of Matched molecular pair analysis or Prediction driven MMPA which is coupled with QSAR model in order to identify activity cliff.

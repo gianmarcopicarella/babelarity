@@ -1,0 +1,45 @@
+The Open Geospatial Consortium (OGC), an international voluntary consensus standards organization, originated in 1994. In the OGC, more than 500 commercial, governmental, nonprofit and research organizations worldwide collaborate in a consensus process encouraging development and implementation of open standards for geospatial content and services, sensor web< and Internet of Things, GIS data processing and data sharing.
+A predecessor organization, OGF, the Open GRASS Foundation, started in 1992.
+From 1994 to 2004 the organization also used the name Open GIS Consortium.
+The OGC website gives a detailed history of the OGC.
+Most of the OGC standards depend on a generalized architecture captured in a set of documents collectively called the Abstract Specification, which describes a basic data model for representing geographic features. Atop the Abstract Specification members have developed and continue to develop a growing number of specifications, or standards to serve specific needs for interoperable location and geospatial technology, including GIS.
+More information here: http://www.opengeospatial.org/standards
+The OGC standards baseline comprises more than 30 standards, including:
+CSW – Catalog Service for the Web: access to catalog information
+GML – Geography Markup Language: XML-format for geographical information
+GeoXACML – Geospatial eXtensible Access Control Markup Language (as of 2009 in the process of standardization)
+KML – Keyhole Markup Language: XML-based language schema for expressing geographic annotation and visualization on existing (or future) Web-based, two-dimensional maps and three-dimensional Earth browsers
+Observations and Measurements
+OGC Reference Model – a complete set of reference models
+OGC Web Services Context Document defines the application state of an OGC Integrated Client
+OWS – OGC Web Service Common
+SOS – Sensor Observation Service
+SPS – Sensor Planning Service
+SensorML – Sensor Model Language
+SensorThings API - an open and unified framework to interconnect IoT devices, data, and applications over the Web. Currently a candidate standard waiting for votes.
+SFS – Simple Features – SQL
+SLD - Styled Layer Descriptor
+SRID, an identification for spatial coordinate systems
+WaterML – Information model for the representation of hydrological observation data
+WCS – Web Coverage Service: provides access, subsetting, and processing on coverage objects
+WCPS – Web Coverage Processing Service: provides a raster query language for ad-hoc processing and filtering on raster coverages
+WFS – Web Feature Service: for retrieving or altering feature descriptions
+WMS – Web Map Service: provides map images
+WMTS – Web Map Tile Service: provides map image tiles
+WPS – Web Processing Service: remote processing service
+GeoSPARQL – Geographic SPARQL Protocol and RDF Query Language: representation and querying of geospatial data for the Semantic Web
+WTS – Web Terrain Service (WTS)
+The design of standards were originally built on the HTTP web services paradigm for message-based interactions in web-based systems, but meanwhile has been extended with a common approach for SOAP protocol and WSDL bindings. Considerable progress has been made in defining Representational State Transfer (REST) web services, e.g., OGC SensorThings API.
+The OGC has three operational units:
+the Specification program
+the Interoperability Program
+Outreach and Community Adoption
+The OGC has a close relationship with ISO/TC 211 (Geographic Information/Geomatics). Volumes from the ISO 19100 series under development by this committee progressively replace the OGC abstract specification. Further, the OGC standards Web Map Service, GML, Web Feature Service, Observations and Measurements, and Simple Features Access have become ISO standards.
+The OGC works with more than 20 international standards-bodies including W3C, OASIS, WfMC, and the IETF.
+GeoTools – implements OGC standards as OGC releases them
+Open Source Geospatial Foundation (OSGeo)
+List of geographic information systems software
+Comparison of geographic information systems software
+OpenLayers
+Semantic Sensor Web
+Weather Information Exchange Model

@@ -1,0 +1,11 @@
+A turn-based strategy (TBS) game is a strategy game (usually some type of wargame, especially a strategic-level wargame) where players take turns when playing. This is distinguished from real time strategy where all players play simultaneously.
+Many board games are turn based. For example, chess is one of the oldest and most competitive games of its kind. But many other games such as Reversi, checkers, Hare games and Go are also turn based.
+Main article Turn-based tactics
+Turn-based tactical game-play is characterized by the expectation of players to complete their tasks by using the combat forces provided to them, and usually by the provision of a realistic (or at least believable) representation of military tactics and operations. Tactical role-playing games are a part of this genre. Examples include Fire Emblem, The Battle for Wesnoth, Poxnora, Silent Storm, Steel Panthers: World at War!, King's Bounty, Great Big War Game, Nintendo Wars, UniWar, and uTanks.
+After a period of converting board and historic TBS games to computer games, companies began basing computer turn-based strategy games on completely original properties or concepts. The presence of a computer to calculate and arbitrate allows game complexity which is not feasible in a traditional board game.
+Some well known turn-based strategy games are Sid Meier's Civilization series, Heroes of Might and Magic series, Panzer General series, and Age of Wonders series.
+A further market trend is the rise of "Indie" TBS games (games produced by small groups, independent or only somewhat affiliated with the major elements in the computer games industry). These games often extend or refine already existing TBS strategy games. Examples include Freeciv.
+Since turn-based strategy games do not typically require vast amounts of art or modeling, developers willing to volunteer their time can focus on gameplay. Directories like Freecode provide large lists of open-source, turn-based strategy projects.
+Because they do not require users to install files and are often free, online browser-based games are becoming very popular. All that they require is any device with a web browser and Internet connection. Many will work just as well on a smartphone as they do on a desktop computer.
+Chronology of turn-based strategy video games
+Time-keeping systems in games

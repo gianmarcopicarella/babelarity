@@ -1,0 +1,39 @@
+Cadherins (named for "calcium-dependent adhesion") are a class of type-1 transmembrane proteins. They play important roles in cell adhesion, forming adherens junctions to bind cells within tissues together. They are dependent on calcium (Ca2+) ions to function, hence their name. Cell-cell adhesion is mediated by extracellular cadherin domains, whereas the intracellular cytoplasmic tail associates with a large number of adaptor and signaling proteins, collectively referred to as the cadherin adhesome.
+The cadherin superfamily includes cadherins, protocadherins, desmogleins, and desmocollins, and more. In structure, they share cadherin repeats, which are the extracellular Ca2+-binding domains. There are multiple classes of cadherin molecule, each designated with a prefix (in general, noting the type of tissue with which it is associated). It has been observed that cells containing a specific cadherin subtype tend to cluster together to the exclusion of other types, both in cell culture and during development. For example, cells containing N-cadherin tend to cluster with other N-cadherin-expressing cells. However, it has been noted that the mixing speed in the cell culture experiments can have an effect on the extent of homotypic specificity. In addition, several groups have observed heterotypic binding affinity (i.e., binding of different types of cadherin together) in various assays. One current model proposes that cells distinguish cadherin subtypes based on kinetic specificity rather than thermodynamic specificity, as different types of cadherin homotypic bonds have different lifetimes.
+Cadherins are synthesized as polypeptides and undergo many post-translational modifications to become the proteins which mediate cell-cell adhesion and recognition. These polypeptides are approximately 720–750 amino acids long. Each cadherin has a small cytoplasmic component, a transmembrane component, and the remaining bulk of the protein is extra-cellular (outside the cell). To date, over 100 types of cadherins in humans have been identified and sequenced.
+Cadherins behave as both receptors and ligands for other molecules. During development, their behavior assists in properly positioning cells: they are responsible for the separation of the different tissue layers, and for cellular migration. In the very early stages of development, E-cadherin (epithelial cadherin) is most greatly expressed. During the next stage, the development of the neural plate, N-cadherin (neural cadherin) is expressed and there is a decrease in E-cadherin. Finally, during the development of the notochord and the condensation of somites, E- P- and N-cadherin expression increases. After development, cadherins play a role in maintaining cell and tissue structure, and in cellular movement. Regulation of cadherin expression can occur through promoter methylation among other epigenetic mechanisms.
+The E-cadherin - catenin complex plays a key role in cellular adhesion; loss of this function has been associated with greater tumour metastasis.
+There are said to be over 100 different types of cadherins found in vertebrates, which can be classified into four groups: classical, desmosomal, protocadherins, and unconventional. This large amount of diversity is accomplished by having multiple cadherin encoding genes combined with alternative RNA splicing mechanisms. Invertebrates contain fewer than 20 types of cadherins.
+Different members of the cadherin family are found in different locations.
+CDH1 - E-cadherin (epithelial): E-cadherins are found in epithelial tissue
+CDH2 - N-cadherin (neural): N-cadherins are found in neurons
+CDH12 - cadherin 12, type 2 (N-cadherin 2)
+CDH3 - P-cadherin (placental): P-cadherins are found in the placenta.
+Desmoglein (DSG1, DSG2, DSG3, DSG4)
+Desmocollin (DSC1, DSC2, DSC3)
+Protocadherins
+PCDH1; PCDH10; PCDH11X; PCDH11Y; PCDH12;
+PCDH15; PCDH17; PCDH18; PCDH19; PCDH20; PCDH7; PCDH8; PCDH9; PCDHA1; PCDHA10; PCDHA11; PCDHA12; PCDHA13; PCDHA2; PCDHA3; PCDHA4; PCDHA5; PCDHA6; PCDHA7; PCDHA8; PCDHA9; PCDHAC1; PCDHAC2; PCDHB1; PCDHB10; PCDHB11; PCDHB12; PCDHB13; PCDHB14; PCDHB15; PCDHB16; PCDHB17; PCDHB18; PCDHB2; PCDHB3; PCDHB4; PCDHB5; PCDHB6; PCDHB7; PCDHB8; PCDHB9; PCDHGA1; PCDHGA10; PCDHGA11; PCDHGA12; PCDHGA2; PCDHGA3; PCDHGA4; PCDHGA5; PCDHGA6; PCDHGA7; PCDHGA8; PCDHGA9; PCDHGB1; PCDHGB2; PCDHGB3; PCDHGB4; PCDHGB5; PCDHGB6; PCDHGB7; PCDHGC3; PCDHGC4; PCDHGC5
+FAT; FAT2; FAT4;
+CDH9 - cadherin 9, type 2 (T1-cadherin)
+CDH10 - cadherin 10, type 2 (T2-cadherin)
+CDH4 - R-cadherin (retinal)
+CDH5 - VE-cadherin (vascular endothelial)
+CDH6 - K-cadherin (kidney)
+CDH7 - cadherin 7, type 2
+CDH8 - cadherin 8, type 2
+CDH11 - OB-cadherin (osteoblast)
+CDH13 - T-cadherin - H-cadherin (heart)
+CDH15 - M-cadherin (myotubule)
+CDH16 - KSP-cadherin
+CDH17 - LI cadherin (liver-intestine)
+CDH18 - cadherin 18, type 2
+CDH19 - cadherin 19, type 2
+CDH20 - cadherin 20, type 2
+CDH23 - cadherin 23, (neurosensory epithelium)
+CDH10; CDH11; CDH13; CDH15; CDH16; CDH17;
+CDH18; CDH19; CDH20; CDH22; CDH23; CDH24; CDH26; CDH28; CDH4; CDH5; CDH6; CDH7; CDH8; CDH9;
+CELSR1; CELSR2; CELSR3; CLSTN1; CLSTN2; CLSTN3; DCHS1; DCHS2; LOC389118;
+PCLKC; RESDA1; RET;
+Catenin
+List of target antigens in pemphigus

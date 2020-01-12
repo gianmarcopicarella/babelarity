@@ -1,0 +1,39 @@
+Game Boy Micro (ゲームボーイミクロ, Gēmu Bōi mikuro) (stylized as Game Boy micro) is a handheld game console developed and manufactured by Nintendo. It was first released in September 2005. The system is the very last console for the original Game Boy line. It is essentially a much smaller Game Boy Advance, albeit without backwards-compatibility with Game Boy and Game Boy Color games.
+The Game Boy Micro was officially unveiled by Nintendo of America's vice president of sales and marketing, Reggie Fils-Aime, at the company's E3 press conference on May 17, 2005. The system was released in Japan on September 13, 2005 and in North America on September 19, 2005. It was released in Europe on November 4, 2005 and Australia on November 3, 2005. It was released in China as the iQue Game Boy Micro on October 1, 2005, and later released in South Korea on November 9, 2005.
+The Game Boy Micro retains some of the functionality of the Game Boy Advance SP, but with an updated form factor. It is unable to play original Game Boy and Game Boy Color games due to design changes. Even though it still has the required Z80 processor and graphics hardware necessary to run the old games, it is missing other circuitry necessary to be compatible with them. It is officially incompatible with the Nintendo e-Reader and some other peripherals due to design issues. It is smaller than previous Game Boy systems. Additionally, it features a backlit screen with the ability to adjust the brightness so as to adapt to lighting. The shape itself is kept to a more simple oblong—similar to the style of the Nintendo Entertainment System controller.
+The Game Boy Micro features a removable face plate that allows consumers to purchase alternative designs.
+Dimensions: 50×101×17.2 mm (2×4×0.7 in)
+Weight: 80 g (2.8 oz)
+Processor: 32-bit 16.8 MHz ARM processor (ARM7TDMI)
+Case Colors: various
+Screen: 51 mm / 2 inches, backlight with adjustable brightness.
+Resolution: 240×160 pixels
+Colors: 512 (character cell mode) or 32,768 (bitmap mode)
+Battery: built-in rechargeable lithium-ion battery, up to 5 hours of battery life with top brightness and sound or 8 hours with both features on default
+Headphones: standard 3.5mm headphone jack
+The Game Boy Micro has a two-way switch on its right side for adjusting volume up or down. By holding down the L shoulder button, the switch can also be used to adjust the backlight between five levels of brightness.
+The Game Boy Micro is compatible with Game Boy Advance games, including Game Boy Advance Video Game Paks.
+According to the Game Boy Micro's Instruction Manual, the following games/accessories are not compatible with the Game Boy Micro system:
+Original Game Boy Game Paks
+Game Boy Color Game Paks
+Game Boy or Game Boy Advance Game Link cables
+Game Boy Advance Wireless Adapter
+Game Boy Advance e-Reader
+Nintendo GameCube Game Boy Advance cable
+Game Boy Printer
+Game Boy Camera
+While Game Boy or Game Boy Advance Game Link cables and the Game Boy Advance Wireless Adapter are not compatible with the Game Boy Micro system, adapters and a Game Boy Micro-compatible Wireless adapter have been released Nintendo has also redesigned their Play-Yan music/video adapter to better fit the Game Boy Micro. This device can play MP3 and digital video files from SD cards.
+As with the Game Boy Advance and Game Boy Advance SP systems, there are no regional lockouts on software, so North American games can be played on Japanese or European hardware and vice versa.
+In Japan, the handheld has been released in four colors and styles each. The four colors are black, blue, purple, and silver. The Game Boy Micro also has four limited edition styles: one based on the original Famicom video game console's controller, a blue bodied model with a faceplate based on Final Fantasy IV, a red bodied and red faced edition for the release of the game Mother 3, and a red bodied model with a black faceplate containing the silhouette of the iconic Pikachu from the Pokémon franchise.
+In the United States and Canada, the Game Boy Micro is available in two regular colors, each sold with three interchangeable faceplates included: silver with black, "Ammonite" and "Ladybug" faceplates, and black with silver, "Flame" and "Camouflage" faceplates. The "20th Anniversary" edition was released in December 2005, which resembles the Famicom controller.
+In Europe the Game Boy Micro is available in four different colors, with one matching faceplate: silver, green, blue and pink. Game Boy Micro sold in Australia have the same colors (except Green which replaced by red color) as Europe.
+There are reportedly no plans to sell additional faceplates in the US retail locations (as indicated in the letter page in issue 200 of Nintendo Power) or the UK. Nintendo of Europe cannot supply replacement faceplates of any kind, and the feature is omitted from the product's marketing, packaging, and manual in Europe. However, some third parties are manufacturing such faceplates for sale in the US and Europe, and some importers stock faceplates acquired from Japan. Nintendo of America sells some of the faceplates individually online.
+The Game Boy Micro sold over 170,000 units during its first days in Japan.
+The North American release drew some criticism; with a formal release of September 19, 2005, many stores simply ignored it, some delaying it until September 26, 2005 or as late as September 30, 2005.
+According to a Q1 2007 Nintendo earnings release, 2.42 million Game Boy Micro units had been sold worldwide as of March 31, 2007, including 610,000 units in Japan, 950,000 units in the Americas, and 870,000 in other territories such as Europe and Oceania.
+As of July 30, 2007, the Game Boy Micro has sold 2.5 million units, according to GamePro. It was ranked #8 in their "The 10 Worst-Selling Handhelds of All Time".
+Generally, the Game Boy Micro did not sell well, and failed to reach the company's aim of units sold.
+Satoru Iwata stated that the marketing of the Nintendo DS may have hurt the Micro in the marketplace and admitted that Game Boy Micro sales did not meet Nintendo's expectations.
+The system retailed for US$99, compared to US$79 for the Game Boy Advance SP. The system was originally available in black and silver, and a red 20th Anniversary Edition was later released to commemorate the 20th anniversary of the Nintendo Entertainment System.
+The Game Boy Micro's backlit screen, which is superior to the original Game Boy Advance SP's (a later remodel added a similar high quality screen to SP systems), has been praised for its visibility. Due to a finer dot pitch, the screen is more evenly lit, and the brightness is adjustable. The smaller dot pitch has also improved the apparent sharpness of the display.
+The removable faceplates have also been praised because they allow for personalization and protect the high-resolution backlit screen.

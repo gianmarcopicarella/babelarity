@@ -1,0 +1,38 @@
+Rhythmbox is an audio player that plays and helps organize digital music. Rhythmbox is free software, designed to work well under the GNOME Desktop using the GStreamer media framework. However, Rhythmbox functions on desktop environments other than GNOME.
+Rhythmbox offers a significant number of features, including:
+rhythmdb
+Playback from a variety of digital music sources is supported. The most common playback is music stored locally as files on the computer (the 'Library'). Rhythmbox supports playing streamed Internet radio and podcasts as well. The ReplayGain standard is also supported. Rhythmbox also supports searching of music in the library.
+Playlists may be created to group and order music. Users may also create 'smart playlists,' ones that are automatically updated (like a database query) based on a customized rule of selection criteria rather than an arbitrary list of tracks. Music may be played back in shuffle (random) mode or repeat mode.
+Track ratings are supported and used by the shuffle mode algorithm to play higher-rated tracks more often.
+Enabling the crossfading backend option with a duration of 0.0 switches Rhythmbox into gapless playback mode for music formats that support it. Gapless playback is not enabled by default.
+Audio CD ripping (requires the optional Sound Juicer package)
+Comprehensive audio format support through GStreamer
+iPod support
+Since the 0.9 release, Rhythmbox can create audio CDs from playlists.
+Since the 0.9.5 release, Rhythmbox can display cover art of the currently playing album. The plugin can search the internet to find corresponding artwork, and as of 0.12.6, can read artwork from ID3 tags. If an image file is saved in the same directory as the audio track this is used instead.
+Since the 0.9.5 release, Rhythmbox can provide song lyrics of the currently playing song with pressing ctrl-L. (as long as they are stored in a lyrics database).
+Since the 0.9.6 release, Rhythmbox can submit played songs info to your Last.fm account (known as "scrobbling"). Since release 0.9.7 it can also play Last.fm's radio streams.
+The open-source drop-in replacement, Libre.fm, is also supported. Music can be scrobbled to both services at the same time.
+Beginning in the 0.9.6 release, Rhythmbox was able to browse and play all the Jamendo free (as in freedom) music library. The integration was discontinued in 2011 due to technical issues.
+Version 0.10.0 supports DAAP sharing.
+Rhythmbox has been extensively integrated with a number of external programs, services and devices including:
+Nautilus file manager context-menu integration, "hover mode" playback in Nautilus
+XChat, via an XChat plugin.
+Pidgin-Rhythmbox automatically updates the Pidgin user profile with details of the currently playing track
+Gajim and Pidgin include options for automatically updating the user status with details of currently playing track
+aMSN and emesene can change the user's personal message to current track via the "music" plugin (aMSN) and the "CurrentSong" plugin (emsene), similar to Messenger Plus! Live
+Music Applet (previously known as the Rhythmbox Applet), a GNOME panel applet that provides Rhythmbox playback controls from within the panel. Music Applet has since been superseded by Panflute
+Rhythmlet, another gDesklet that retrieves album art locally or from Amazon.com, has configurable display strings, playback controls, editable ratings and a seek bar
+SideCandyRhythmbox, a gDesklet-based Rhythmbox control and SideCandy display
+Rhythmbox XSLT allows the music library to be viewed as a web page
+Drivel inserts the name of the track Rhythmbox is currently playing into a LiveJournal blog entry
+Rhythmbox Tune Publisher publishes the currently playing Rhythmbox track to XMPP via the User Tune protocol (used by the Jabber World Map)
+FoxyTunes, a Mozilla Firefox extension that provides Rhythmbox playback controls from within the web browser
+Plugins for browsing and listening to Creative Commons licensed albums from Jamendo and Magnatune.
+Rhythmbox Remote helps you to remotely control Rhythmbox through an Android powered device.
+Ubuntu as of version 12.04 LTS ships Rhythmbox as the default media player instead of Banshee.
+Rhythmbox WebMenu is a fully personalizable plugin that integrates Rhythmbox with several music websites.
+Rhythmbox uses the Linux udev subsystem to detect player devices.
+Software audio players (free and open-source)
+List of feed aggregators
+Comparison of feed aggregators

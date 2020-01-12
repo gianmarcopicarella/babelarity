@@ -1,0 +1,7 @@
+Ammonium bisulfate, also known as ammonium hydrogen sulfate, is a white, crystalline solid with formula (NH4)HSO4. It is the product of the half-neutralization of sulfuric acid by ammonia.
+It is commonly collected as a byproduct of the "acetone cyanohydrin route" to the commodity chemical methyl methacrylate.
+It can also be obtained by hydrolysis of sulfamic acid in aqueous solution, which produces the salt in high purity:
+H3NSO3 + H2O → [NH4]+[HSO4]−
+It also arises by the thermal decomposition of ammonium sulfate:
+(NH4)2SO4 → (NH4)HSO4 + NH3
+It can be further neutralized with ammonia to form ammonium sulfate, a valuable fertilizer. It can be used as a weaker alternative to sulfuric acid, although sodium bisulfate is much more common.

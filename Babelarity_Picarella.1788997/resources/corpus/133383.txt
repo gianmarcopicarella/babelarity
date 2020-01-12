@@ -1,0 +1,86 @@
+In philosophy, infinity late be attributed to infinite dimensions, as for instance in Kant's first antinomy. In both theology and philosophy, infinity is explored in articles such as the Ultimate, the Absolute, God, and Zeno's paradoxes. In Greek philosophy, for example in Anaximander, 'the Boundless' is the origin of all that is. He took the beginning or first principle to be an endless, unlimited primordial mass (ἄπειρον, apeiron). The Jain metaphysics and mathematics was the first to define and delineate different "types" of infinities (see history), including the difference between countably infinite and uncountably infinite - a difference which came into being much later in modern mathematics by the work of Georg Cantor. In Judeo-Christian theology, for example in the work of theologians such as Duns Scotus, the infinite nature of God invokes a sense of being without constraint, rather than a sense of being unlimited in quantity. In ethics infinity plays an important role designating that which cannot be defined or reduced to knowledge or power.
+An early engagement with the idea of infinity was made by Anaximander who considered infinity to be a foundational and primitive basis of reality. Anaximander was the first in the Greek philosophical tradition to recognise the universe was infinite.
+Anaxagoras (500–428 BCE) was of the opinion that matter of the universe had an innate capacity for infinite division.
+A group of thinkers of ancient Greece (later identified as the Atomists) all similarly considered matter to be made of an infinite number of structures as considered by imagining an dividing or separating matter from itself an infinite number of times.
+Aristotle, alive for the period 384–322 BCE, is credited with being the root of a field of thought, in his influence of succeeding thinking for a period spanning more than one subsequent millennium, by his rejection of the idea of actual infinity.
+In Book 3 of the work entitled Physics, written by Aristotle, Aristotle deals with the concept of infinity in terms of his notion of actuality and of potentiality.
+... It is always possible to think of a larger number: for the number of times a magnitude can be bisected is infinite. Hence the infinite is potential, never actual; the number of parts that can be taken always surpasses any assigned number.
+This is often called potential infinity; however there are two ideas mixed up with this. One is that it is always possible to find a number of things that surpasses any given number, even if there are not actually such things. The other is that we may quantify over infinite sets without restriction. For example, 
+        ∀
+        n
+        ∈
+          Z
+        (
+        ∃
+        m
+        ∈
+          Z
+        [
+        m
+        >
+        n
+        ∧
+        P
+        (
+        m
+        )
+        ]
+        )
+    {\displaystyle \forall n\in \mathbb {Z} (\exists m\in \mathbb {Z} [m>n\wedge P(m)])}
+  , which reads, "for any integer n, there exists an integer m > n such that P(m)". The second view is found in a clearer form by medieval writers such as William of Ockham:
+Sed omne continuum est actualiter existens. Igitur quaelibet pars sua est vere existens in rerum natura. Sed partes continui sunt infinitae quia non tot quin plures, igitur partes infinitae sunt actualiter existentes.
+But every continuum is actually existent. Therefore any of its parts is really existent in nature. But the parts of the continuum are infinite because there are not so many that there are not more, and therefore the infinite parts are actually existent.
+The parts are actually there, in some sense. However, on this view, no infinite magnitude can have a number, for whatever number we can imagine, there is always a larger one: "There are not so many (in number) that there are no more." Aquinas also argued against the idea that infinity could be in any sense complete, or a totality.
+Aristotle deals with infinity in the context of the prime mover, in Book 7 of the same work, the reasoning of which was later studied and commented on by Simplicius.
+Plotinus considered infinity, while he was alive, during the 3rd century A.D.
+Simplicius, alive circa 490 to 560 AD, thought the concept "Mind" was infinte.
+Augustine thought infinity to be "incomprehensible for the human mind".
+The Jain mathematical text Surya Prajnapti (c. 400 BC) classifies all numbers into three sets: enumerable, innumerable, and infinite. Each of these was further subdivided into three orders:
+Enumerable: lowest, intermediate and highest
+Innumerable: nearly innumerable, truly innumerable and innumerably innumerable
+Infinite: nearly infinite, truly infinite, infinitely infinite
+The Jains were the first to discard the idea that all infinites were the same or equal. They recognized different types of infinities: infinite in length (one dimension), infinite in area (two dimensions), infinite in volume (three dimensions), and infinite perpetually (infinite number of dimensions).
+According to Singh (1987), Joseph (2000) and Agrawal (2000), the highest enumerable number N of the Jains corresponds to the modern concept of aleph-null 
+          ℵ
+            0
+    {\displaystyle \aleph _{0}}
+   (the cardinal number of the infinite set of integers 1, 2, ...), the smallest cardinal transfinite number. The Jains also defined a whole system of infinite cardinal numbers, of which the highest enumerable number N is the smallest.
+In the Jaina work on the theory of sets, two basic types of infinite numbers are distinguished. On both physical and ontological grounds, a distinction was made between asaṃkhyāta ("countless, innumerable") and ananta ("endless, unlimited"), between rigidly bounded and loosely bounded infinities.
+The Isha Upanishad of the Yajurveda (c. 4th to 3rd century BC) states that "if you remove a part from infinity [pūrṇa] or add a part to infinity, still what remains is infinity".
+Galileo Galilei (February 1564 - January 1642 ) discussed the example of comparing the square numbers {1, 4, 9, 16, ...} with the natural numbers {1, 2, 3, 4, ...} as follows:
+1 → 1
+2 → 4
+3 → 9
+4 → 16
+…
+It appeared by this reasoning as though a "set" (Galileo did not use the terminology) which is naturally smaller than the "set" of which it is a part (since it does not contain all the members) is in some sense the same "size". Galileo found no way around this problem:
+So far as I see we can only infer that the totality of all numbers is infinite, that the number of squares is infinite, and that the number of their roots is infinite; neither is the number of squares less than the totality of all numbers, nor the latter greater than the former; and finally the attributes "equal," "greater," and "less," are not applicable to infinite, but only to finite, quantities.
+The idea that size can be measured by one-to-one correspondence is today known as Hume's principle, although Hume, like Galileo, believed the principle could not be applied to the infinite. The same concept, earlier applied rigorously by Georg Cantor, is used in relation to infinite sets as a standard mathematics.
+Famously, the ultra-empiricist Hobbes ( April 1588 - December 1679 ) tried to defend the idea of a potential infinity in light of the discovery, by Evangelista Torricelli, of a figure (Gabriel's Horn) whose surface area is infinite, but whose volume is finite. Not reported, this motivation of Hobbes came too late as curves having infinite length yet bounding finite areas were known much before.
+Locke ( August 1632 - October 1704 ) in common with most of the empiricist philosophers, also believed that we can have no proper idea of the infinite. They believed all our ideas were derived from sense data or "impressions," and since all sensory impressions are inherently finite, so too are our thoughts and ideas. Our idea of infinity is merely negative or privative.
+Whatever positive ideas we have in our minds of any space, duration, or number, let them be never so great, they are still finite; but when we suppose an inexhaustible remainder, from which we remove all bounds, and wherein we allow the mind an endless progression of thought, without ever completing the idea, there we have our idea of infinity... yet when we would frame in our minds the idea of an infinite space or duration, that idea is very obscure and confused, because it is made up of two parts very different, if not inconsistent. For let a man frame in his mind an idea of any space or number, as great as he will, it is plain the mind rests and terminates in that idea; which is contrary to the idea of infinity, which consists in a supposed endless progression.
+He considered that in considerations on the subject of eternity, which he classified as an infinity, humans are likely to make mistakes.
+Modern discussion of the infinite is now regarded as part of set theory and mathematics. This discussion is generally avoided by philosophers. An exception was Wittgenstein (April 1889 Vienna - April 1951 Cambridge, England ), who made an impassioned attack upon axiomatic set theory, and upon the idea of the actual infinite, during his "middle period".
+Does the relation 
+        m
+        =
+        2
+        n
+    {\displaystyle m=2n}
+   correlate the class of all numbers with one of its subclasses? No. It correlates any arbitrary number with another, and in that way we arrive at infinitely many pairs of classes, of which one is correlated with the other, but which are never related as class and subclass. Neither is this infinite process itself in some sense or other such a pair of classes... In the superstition that 
+        m
+        =
+        2
+        n
+    {\displaystyle m=2n}
+   correlates a class with its subclass, we merely have yet another case of ambiguous grammar.
+Unlike the traditional empiricists, he thought that the infinite was in some way given to sense experience.
+... I can see in space the possibility of any finite experience... we recognise [the] essential infinity of space in its smallest part." "[Time] is infinite in the same sense as the three-dimensional space of sight and movement is infinite, even if in fact I can only see as far as the walls of my room.
+... what is infinite about endlessness is only the endlessness itself.
+The philosopher Emmanuel Levinas ( January 1906, Lithuania - December 25 1995, Paris  ) uses infinity to designate that which cannot be defined or reduced to knowledge or power. In Levinas' magnum opus Totality and Infinity he says :
+...infinity is produced in the relationship of the same with the other, and how the particular and the personal, which are unsurpassable, as it were magnetize the very field in which the production of infinity is enacted...
+The idea of infinity is not an incidental notion forged by a subjectivity to reflect the case of an entity encountering on the outside nothing that limits it, overflowing every limit, and thereby infinite. The production of the infinite entity is inseparable from the idea of infinity, for it is precisely in the disproportion between the idea of infinity and the infinity of which it is the idea that this exceeding of limits is produced. The idea of infinity is the mode of being, the infinition, of infinity... All knowing qua intentionality already presupposes the idea of infinity, which is preeminently non-adequation.
+Levinas also wrote a work entitled Philosophy and the Idea of Infinity, which was published during 1957.
+Besides the mathematical infinity and the physical infinity, there could also be a philosophical infinity. There are scientists who hold that all three really exist and there are scientists who hold that none of the three exists. And in between there are the various possibilities. Rudy Rucker, in his book Infinity and the Mind—the Science and Philosophy of the Infinite (1982), has worked out a model list of representatives of each of the eight possible standpoints. The footnote on p. 335 of his book suggests the consideration of the following names: Abraham Robinson, Plato, Thomas Aquinas, L.E.J. Brouwer, David Hilbert, Bertrand Russell, Kurt Gödel and Georg Cantor.
+Infinite monkey theorem
+Philosophy of space and time

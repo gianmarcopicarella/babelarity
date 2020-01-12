@@ -1,0 +1,555 @@
+In chemistry, the law of mass action is the proposition that the rate of a chemical reaction is directly proportional to the product of the activities or concentrations of the reactants. It explains and predicts behaviors of solutions in dynamic equilibrium. Specifically, it implies that for a chemical reaction mixture that is in equilibrium, the ratio between the concentration of reactants and products is constant.
+Two aspects are involved in the initial formulation of the law: 1) the equilibrium aspect, concerning the composition of a reaction mixture at equilibrium and 2) the kinetic aspect concerning the rate equations for elementary reactions. Both aspects stem from the research performed by Cato M. Guldberg and Peter Waage between 1864 and 1879 in which equilibrium constants were derived by using kinetic data and the rate equation which they had proposed. Guldberg and Waage also recognized that chemical equilibrium is a dynamic process in which rates of reaction for the forward and backward reactions must be equal at chemical equilibrium. In order to derive the expression of the equilibrium constant appealing to kinetics, the expression of the rate equation must be used. The expression of the rate equations was rediscovered later independently by Jacobus Henricus van 't Hoff.
+The law is a statement about equilibrium and gives an expression for the equilibrium constant, a quantity characterizing chemical equilibrium. In modern chemistry this is derived using equilibrium thermodynamics.
+Two chemists generally expressed the composition of a mixture in terms of numerical values relating the amount of the product to describe the equilibrium state. Cato Maximilian Guldberg and Peter Waage, building on Claude Louis Berthollet’s ideas about reversible chemical reactions, proposed the Law of Mass Action in 1864. These papers, in Norwegian, went largely unnoticed, as did the later publication (in French) of 1867 which contained a modified law and the experimental data on which that law was based.
+In 1877 van 't Hoff independently came to similar conclusions, but was unaware of the earlier work, which prompted Guldberg and Waage to give a fuller and further developed account of their work, in German, in 1879. Van 't Hoff then accepted their priority.
+In their first paper, Guldberg and Waage suggested that in a reaction such as
+            A
+          +
+          B
+                      ↽
+                      −
+                      −
+                      ⇀
+              A
+              ′
+          +
+            B
+            ′
+    {\displaystyle {\ce {{A}+B<=>{A'}+B'}}}
+the "chemical affinity" or "reaction force" between A and B did not just depend on the chemical nature of the reactants, as had previously been supposed, but also depended on the amount of each reactant in a reaction mixture. Thus the Law of Mass Action was first stated as follows:
+When two reactants, A and B, react together at a given temperature in a "substitution reaction," the affinity, or chemical force between them, is proportional to the active masses, [A] and [B], each raised to a particular power
+          affinity
+        =
+        α
+        [
+          A
+          ]
+            a
+        [
+          B
+          ]
+            b
+    {\displaystyle {\text{affinity}}=\alpha [{\ce {A}}]^{a}[{\ce {B}}]^{b}}
+  .
+In this context a substitution reaction was one such as 
+            alcohol
+          +
+          acid
+                      ↽
+                      −
+                      −
+                      ⇀
+            ester
+          +
+          water
+    {\displaystyle {\ce {{alcohol}+acid<=>{ester}+water}}}
+  . Active mass was defined in the 1879 paper as "the amount of substance in the sphere of action". For species in solution active mass is equal to concentration. For solids active mass is taken as a constant. 
+        α
+    {\displaystyle \alpha }
+  , a and b were regarded as empirical constants, to be determined by experiment.
+At equilibrium the chemical force driving the forward reaction must be equal to the chemical force driving the reverse reaction. Writing the initial active masses of A,B, A' and B' as p, q, p' and q' and the dissociated active mass at equilibrium as 
+        ξ
+    {\displaystyle \xi }
+  , this equality is represented by
+        α
+        (
+        p
+        −
+        ξ
+          )
+            a
+        (
+        q
+        −
+        ξ
+          )
+            b
+        =
+          α
+          ′
+        (
+          p
+          ′
+        +
+        ξ
+          )
+              a
+              ′
+        (
+          q
+          ′
+        +
+        ξ
+          )
+              b
+              ′
+    {\displaystyle \alpha (p-\xi )^{a}(q-\xi )^{b}=\alpha '(p'+\xi )^{a'}(q'+\xi )^{b'}\!}
+        ξ
+    {\displaystyle \xi }
+   represents the amount of reagents A and B that has been converted into A' and B'. Calculations based on this equation are reported in the second paper.
+The third paper of 1864 was concerned with the kinetics of the same equilibrium system. Writing the dissociated active mass at some point in time as x, the rate of reaction was given as
+            (
+                  d
+                  x
+                  d
+                  t
+            )
+            f
+            o
+            r
+            w
+            a
+            r
+            d
+        =
+        k
+        (
+        p
+        −
+        x
+          )
+            a
+        (
+        q
+        −
+        x
+          )
+            b
+    {\displaystyle \left({\frac {dx}{dt}}\right)_{forward}=k(p-x)^{a}(q-x)^{b}}
+Likewise the reverse reaction of A' with B' proceeded at a rate given by
+            (
+                  d
+                  x
+                  d
+                  t
+            )
+            r
+            e
+            v
+            e
+            r
+            s
+            e
+        =
+          k
+          ′
+        (
+          p
+          ′
+        +
+        x
+          )
+              a
+              ′
+        (
+          q
+          ′
+        +
+        x
+          )
+              b
+              ′
+    {\displaystyle \left({\frac {dx}{dt}}\right)_{reverse}=k'(p'+x)^{a'}(q'+x)^{b'}}
+The overall rate of conversion is the difference between these rates, so at equilibrium (when the composition stops changing) the two rates of reaction must be equal. Hence
+        (
+        p
+        −
+        x
+          )
+            a
+        (
+        q
+        −
+        x
+          )
+            b
+        =
+              k
+              ′
+            k
+        (
+          p
+          ′
+        +
+        x
+          )
+              a
+              ′
+        (
+          q
+          ′
+        +
+        x
+          )
+              b
+              ′
+    {\displaystyle (p-x)^{a}(q-x)^{b}={\frac {k'}{k}}(p'+x)^{a'}(q'+x)^{b'}}
+  ...
+The rate expressions given in the 1864 paper could not be integrated, so they were simplified as follows. The chemical force was assumed to be directly proportional to the product of the active masses of the reactants.
+          affinity
+        =
+        α
+        [
+        A
+        ]
+        [
+        B
+        ]
+    {\displaystyle {\mbox{affinity}}=\alpha [A][B]\!}
+This is equivalent to setting the exponents a and b of the earlier theory to one. The proportionality constant was called an affinity constant, k. The equilibrium condition for an "ideal" reaction was thus given the simplified form
+        k
+        [
+        A
+          ]
+            eq
+        [
+        B
+          ]
+            eq
+        =
+          k
+          ′
+        [
+          A
+          ′
+          ]
+            eq
+        [
+          B
+          ′
+          ]
+            eq
+    {\displaystyle k[A]_{\text{eq}}[B]_{\text{eq}}=k'[A']_{\text{eq}}[B']_{\text{eq}}\!}
+[A]eq, [B]eq etc. are the active masses at equilibrium. In terms of the initial amounts reagents p,q etc. this becomes
+        (
+        p
+        −
+        ξ
+        )
+        (
+        q
+        −
+        ξ
+        )
+        =
+              k
+              ′
+            k
+        (
+          p
+          ′
+        +
+        ξ
+        )
+        (
+          q
+          ′
+        +
+        ξ
+        )
+    {\displaystyle (p-\xi )(q-\xi )={\frac {k'}{k}}(p'+\xi )(q'+\xi )}
+The ratio of the affinity coefficients, k'/k, can be recognized as an equilibrium constant. Turning to the kinetic aspect, it was suggested that the velocity of reaction, v, is proportional to the sum of chemical affinities (forces). In its simplest form this results in the expression
+        v
+        =
+        ψ
+        (
+        k
+        (
+        p
+        −
+        x
+        )
+        (
+        q
+        −
+        x
+        )
+        −
+          k
+          ′
+        (
+          p
+          ′
+        +
+        x
+        )
+        (
+          q
+          ′
+        +
+        x
+        )
+        )
+    {\displaystyle v=\psi (k(p-x)(q-x)-k'(p'+x)(q'+x))\!}
+where 
+        ψ
+    {\displaystyle \psi }
+   is the proportionality constant. Actually, Guldberg and Waage used a more complicated expression which allowed for interaction between A and A', etc. By making certain simplifying approximations to those more complicated expressions, the rate equation could be integrated and hence the equilibrium quantity 
+        ξ
+    {\displaystyle \xi }
+   could be calculated. The extensive calculations in the 1867 paper gave support to the simplified concept, namely,
+The rate of a reaction is proportional to the product of the active masses of the reagents involved.
+This is an alternative statement of the Law of Mass Action.
+In the 1879 paper the assumption that reaction rate was proportional to the product of concentrations was justified microscopically in terms of collision theory, as had been developed for gas reactions. It was also proposed that the original theory of the equilibrium condition could be generalised to apply to any arbitrary chemical equilibrium.
+          affinity
+        =
+        k
+        [
+          A
+          ]
+            α
+        [
+          B
+          ]
+            β
+        …
+    {\displaystyle {\text{affinity}}=k[{\ce {A}}]^{\alpha }[{\ce {B}}]^{\beta }\dots \!}
+The exponents α, β etc. are explicitly identified for the first time as the stoichiometric coefficients for the reaction. Since reaction rate was considered to be proportional to chemical affinity, it follows that for a general reaction of the type
+            α
+            A
+          +
+            β
+            B
+          +
+          ⋯
+                      ↽
+                      −
+                      −
+                      ⇀
+            σ
+            S
+          +
+          τ
+          T
+          …
+    {\displaystyle {\ce {{\alpha A}+{\beta B}+\cdots <=>{\sigma S}+\tau T\dots }}}
+          forward reaction rate
+        =
+          k
+            +
+        [
+          A
+          ]
+            α
+        [
+          B
+          ]
+            β
+        …
+    {\displaystyle {\text{forward reaction rate}}=k_{+}[{\ce {A}}]^{\alpha }[{\ce {B}}]^{\beta }\dots \,\!}
+          backward reaction rate
+        =
+          k
+            −
+        [
+          S
+          ]
+            σ
+        [
+          T
+          ]
+            τ
+        …
+    {\displaystyle {\text{backward reaction rate}}=k_{-}[{\ce {S}}]^{\sigma }[{\ce {T}}]^{\tau }\dots \,\!}
+where [A], [B], [S] and [T] are active masses and k+ and k− are affinity constants. Since at equilibrium the affinities and reaction rates for forward and backward reactions are equal, it follows that
+        K
+        =
+              k
+                +
+              k
+                −
+        =
+              [
+                S
+                ]
+                  σ
+              [
+                T
+                ]
+                  τ
+              …
+              [
+                A
+                ]
+                  α
+              [
+                B
+                ]
+                  β
+              …
+    {\displaystyle K={\frac {k_{+}}{k_{-}}}={\frac {[{\ce {S}}]^{\sigma }[{\ce {T}}]^{\tau }\dots }{[{\ce {A}}]^{\alpha }[{\ce {B}}]^{\beta }\dots }}}
+The affinity constants, k+ and k-, of the 1879 paper can now be recognised as rate constants. The equilibrium constant, K, was derived by setting the rates of forward and backward reactions to be equal. This also meant that the chemical affinities for the forward and backward reactions are equal. The resultant expression
+        K
+        =
+              [
+              S
+                ]
+                  σ
+              [
+              T
+                ]
+                  τ
+              …
+              [
+              A
+                ]
+                  α
+              [
+              B
+                ]
+                  β
+              …
+    {\displaystyle K={\frac {[S]^{\sigma }[T]^{\tau }\dots }{[A]^{\alpha }[B]^{\beta }\dots }}\,}
+is correct even from the modern perspective, apart from the use of concentrations instead of activities (the concept of chemical activity was developed by Josiah Willard Gibbs, in the 1870s, but was not widely known in Europe until the 1890s). The derivation from the reaction rate expressions is no longer considered to be valid. Nevertheless, Guldberg and Waage were on the right track when they suggested that the driving force for both forward and backward reactions is equal when the mixture is at equilibrium. The term they used for this force was chemical affinity. Today the expression for the equilibrium constant is derived by setting the chemical potential of forward and backward reactions to be equal. The generalisation of the Law of Mass Action, in terms of affinity, to equilibria of arbitrary stoichiometry was a bold and correct conjecture.
+The hypothesis that reaction rate is proportional to reactant concentrations is, strictly speaking, only true for elementary reactions (reactions with a single mechanistic step), but the empirical rate expression
+          r
+            f
+        =
+          k
+            f
+        [
+        A
+        ]
+        [
+        B
+        ]
+    {\displaystyle r_{f}=k_{f}[A][B]\,}
+is also applicable to second order reactions that may not be concerted reactions. Guldberg and Waage were fortunate in that reactions such as ester formation and hydrolysis, on which they originally based their theory, do indeed follow this rate expression.
+In general many reactions occur with the formation of reactive intermediates, and/or through parallel reaction pathways. However, all reactions can be represented as a series of elementary reactions and, if the mechanism is known in detail, the rate equation for each individual step is given by the 
+          r
+            f
+    {\displaystyle r_{f}}
+   expression so that the overall rate equation can be derived from the individual steps. When this is done the equilibrium constant is obtained correctly from the rate equations for forward and backward reaction rates.
+In biochemistry, there has been significant interest in the appropriate mathematical model for chemical reactions occurring in the intracellular medium. This is in contrast to the initial work done on chemical kinetics, which was in simplified systems where reactants were in a relatively dilute, pH-buffered, aqueous solution. In more complex environments, where bound particles may be prevented from disassociation by their surroundings, or diffusion is slow or anomalous, the model of mass action does not always describe the behavior of the reaction kinetics accurately. Several attempts have been made to modify the mass action model, but consensus has yet to be reached. Popular modifications replace the rate constants with functions of time and concentration. As an alternative to these mathematical constructs, one school of thought is that the mass action model can be valid in intracellular environments under certain conditions, but with different rates than would be found in a dilute, simple environment.
+The fact that Guldberg and Waage developed their concepts in steps from 1864 to 1867 and 1879 has resulted in much confusion in the literature as to which equation the Law of Mass Action refers. It has been a source of some textbook errors. Thus, today the "law of mass action" sometimes refers to the (correct) equilibrium constant formula,           and at other times to the (usually incorrect) 
+          r
+            f
+    {\displaystyle r_{f}}
+   rate formula.  
+The law of mass action also has implications in semiconductor physics. Regardless of doping, the product of electron and hole densities is a constant at equilibrium. This constant depends on the thermal energy of the system (i.e. the product of the Boltzmann constant, 
+          k
+            B
+    {\displaystyle k_{B}}
+  , and temperature, 
+        T
+    {\displaystyle T}
+  ), as well as the band gap (the energy separation between conduction and valence bands, 
+          E
+            g
+        ≡
+          E
+            C
+        −
+          E
+            V
+    {\displaystyle E_{g}\equiv E_{C}-E_{V}}
+  ) and effective density of states in the valence 
+        (
+          N
+            V
+        (
+        T
+        )
+        )
+    {\displaystyle (N_{V}(T))}
+   and conduction 
+        (
+          N
+            C
+        (
+        T
+        )
+        )
+    {\displaystyle (N_{C}(T))}
+   bands. When the equilibrium electron 
+        (
+          n
+            o
+        )
+    {\displaystyle (n_{o})}
+   and hole 
+        (
+          p
+            o
+        )
+    {\displaystyle (p_{o})}
+   densities are equal, their density is called the intrinsic carrier density 
+        (
+          n
+            i
+        )
+    {\displaystyle (n_{i})}
+   as this would be the value of 
+          n
+            o
+    {\displaystyle n_{o}}
+   and 
+          p
+            o
+    {\displaystyle p_{o}}
+   in a perfect crystal. Note that the final product is independent of the Fermi level 
+        (
+          E
+            F
+        )
+    {\displaystyle (E_{F})}
+  :
+          n
+            o
+          p
+            o
+        =
+          (
+            N
+              C
+            e
+              −
+                      E
+                        C
+                    −
+                      E
+                        F
+                      k
+                        B
+                    T
+          )
+          (
+            N
+              V
+            e
+              −
+                      E
+                        F
+                    −
+                      E
+                        V
+                      k
+                        B
+                    T
+          )
+        =
+          N
+            C
+          N
+            V
+          e
+            −
+                  E
+                    g
+                    k
+                      B
+                  T
+        =
+          n
+            i
+            2
+    {\displaystyle n_{o}p_{o}=\left(N_{C}e^{-{\frac {E_{C}-E_{F}}{k_{B}T}}}\right)\left(N_{V}e^{-{\frac {E_{F}-E_{V}}{k_{B}T}}}\right)=N_{C}N_{V}e^{-{\frac {E_{g}}{k_{B}T}}}=n_{i}^{2}}
+Yakov Frenkel represented diffusion process in condensed matter as an ensemble of elementary jumps and quasichemical interactions of particles and defects. Henry Eyring applied his theory of absolute reaction rates to this quasichemical representation of diffusion. Mass action law for diffusion leads to various nonlinear versions of Fick's law.
+The Lotka–Volterra equations describe dynamics of the predator-prey systems. The rate of predation upon the prey is assumed to be proportional to the rate at which the predators and the prey meet; this rate is evaluated as xy, where x is the number of prey, y is the number of predator. This is a typical example of the law of mass action.
+The law of mass action forms the basis of the compartmental model of disease spread in mathematical epidemiology, in which a population of humans, animals or other individuals is divided into categories of susceptible, infected, and recovered (immune). The SIR model is a useful abstraction of disease dynamics which applies well to many disease systems and provides useful outcomes in many circumstances when the Mass Action Principle applies. Individuals in human or animal populations - unlike molecules in an ideal solution - do not mix homogeneously. There are some disease examples in which this non-homogeneity is great enough such that the outputs of the SIR model are invalid. For these situations in which the assumptions of mass action do not apply, more sophisticated graph theory models may be useful. For more information, see Compartmental models in epidemiology.
+Sociophysics uses tools and concepts from physics and physical chemistry to describe some aspects of social and political behavior. It attempts to explain why and how humans behave much like atoms, at least in some aspects of their collective lives. The law of mass action (generalized if it is necessary) is the main tool to produce the equation of interactions of humans in sociophysics.
+Chemical equilibrium
+Chemical potential
+Equilibrium constant
+Reaction quotient

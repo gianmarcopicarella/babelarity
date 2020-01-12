@@ -1,0 +1,13 @@
+An ingredient is a substance that forms part of a mixture (in a general sense). For example, in cooking, recipes specify which ingredients are used to prepare a specific dish. Many commercial products contain a secret ingredient that is purported to make them better than competing products. In the pharmaceutical industry, an active ingredient is that part of a formulation that yields the effect expected by the customer.
+National laws usually require prepared food products to display a list of ingredients, and specifically require that certain additives be listed.
+In most developed countries, the law requires that ingredients be listed according to their relative weight in the product. If an ingredient itself consists of more than one ingredient (such as the cookie pieces which are a part of "cookies and cream" flavor ice cream), then that ingredient is listed by what percentage of the total product it occupies, with its own ingredients displayed next to it in brackets.
+The term constituent is often chosen when referring to the substances that constitute the tissue of living beings such as plants and people, because the word ingredient in many minds connotes a sense of human agency (that is, something that a person combines with other substances), whereas the natural products present in living beings were not added by any human agency but rather occurred naturally ("a plant doesn't have ingredients"). Thus all ingredients are constituents, but not all constituents are ingredients.
+An artificial ingredient usually refers to an ingredient which is artificial or man-made, such as:
+Artificial flavor
+Food additive
+Food coloring
+Preservative
+Sugar substitute, artificial sweetener
+Fake food
+Bill of materials
+Software Bill of Materials

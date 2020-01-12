@@ -1,0 +1,61 @@
+A pentatonic scale is a musical scale or mode with five notes per octave in contrast to a heptatonic (seven-note) scale such as the major scale and minor scale. Pentatonic scales are very common and are found all over the world. They are divided into those with semitones (hemitonic) and those without (anhemitonic).
+Pentatonic scales occur in the following traditions:
+Celtic folk music
+English Folk Music
+German folk music
+Nordic folk music
+Hungarian folk music
+Croatian folk music
+West African music
+African-American spirituals
+Gospel music
+Bluegrass music
+American folk music
+Music of Ethiopia
+Jazz
+Blues
+Rock music
+Sami joik singing
+Children's song
+The music of ancient GreeceGreek traditional music and polyphonic songs from Epirus in northwest Greece
+Music of southern Albania
+Folk songs of peoples of the Middle Volga region (such as the Mari, the Chuvash and Tatars)
+The tuning of the Ethiopian krar and the Indonesian gamelan
+Philippine kulintang
+Native American music
+Melodies of China, Korea, Laos, Thailand, Malaysia, Japan, and Vietnam (including the folk music of these countries)
+Andean music
+Afro-Caribbean music
+Polish highlanders from the Tatra Mountains
+Western Impressionistic composers such as French composer Claude Debussy.
+Examples of its use include Chopin's Etude in G-flat major, op. 10, no. 5, the "Black Key" etude, in the major pentatonic.
+Musicology commonly classifies pentatonic scales as either hemitonic or anhemitonic. Hemitonic scales contain one or more semitones and anhemitonic scales do not contain semitones. For example, in Japanese music the anhemitonic yo scale is contrasted with the hemitonic in scale. Hemitonic pentatonic scales are also called "ditonic scales", because the largest interval in them is the ditone (e.g., in the scale C–E–F–G–B–C, the interval found between C–E and G–B). This should not be confused with the identical term also used by musicologists to describe a scale including only two notes.
+Anhemitonic pentatonic scales can be constructed in many ways. The major pentatonic scale may be thought of as a gapped or incomplete major scale. However, the pentatonic scale has a unique character and is complete in terms of tonality. One construction takes five consecutive pitches from the circle of fifths; starting on C, these are C, G, D, A, and E. Transposing the pitches to fit into one octave rearranges the pitches into the major pentatonic scale: C, D, E, G, A.
+Another construction works backward: It omits two pitches from a diatonic scale. If one were to begin with a C major scale, for example, one might omit the fourth and the seventh scale degrees, F and B. The remaining notes then makes up the major pentatonic scale: C, D, E, G, and A.
+Omitting the third and seventh degrees of the C major scale obtains the notes for another transpositionally equivalent anhemitonic pentatonic scale: F, G, A, C, D. Omitting the first and fourth degrees of the C major scale gives a third anhemitonic pentatonic scale: G, A, B, D, E.
+The black keys on a piano keyboard is pentatonic scale: G-flat, A-flat, B-flat, D-flat, and E-flat.
+Although various hemitonic pentatonic scales might be called minor, the term is most commonly applied to the relative minor pentatonic derived from the major pentatonic, using scale tones 1, 3, 4, 5, and 7 of the natural minor scale. It may also be considered a gapped blues scale. The C minor pentatonic is C, E-flat, F, G, B-flat. The A minor pentatonic, the relative minor of C, comprises the same tones as the C major pentatonic, starting on A, giving A, C, D, E, G. This minor pentatonic contains all three tones of an A minor triad.
+Because of their simplicity, pentatonic scales are often used to introduce beginners to music.
+The five pentatonic scales found by running up the black keys on the piano are:
+(A minor seventh can be 7:4, 16:9, or 9:5; a major sixth can be 27:16 or 5:3. Both were chosen to minimize ratio parts.)
+Ricker assigned the major pentatonic scale mode I while Gilchrist assigned it mode III.
+Ben Johnston gives the following Pythagorean tuning for the minor pentatonic scale:
+ Play 
+Naturals in that table are not the alphabetic series A to G without sharps and flats: Naturals are reciprocals of terms in the Harmonic series (mathematics), which are in practice multiples of a fundamental frequency. This may be derived by proceeding with the principle that historically gives the Pythagorean diatonic and chromatic scales, stacking perfect fifths with 3:2 frequency proportions (C-G-D-A-E). Considering the anhemitonic scale as a subset of a just diatonic scale, it is tuned thus: 20:24:27:30:36 (A-C-D-E-G = 5/3-1/1-9/8-5/4-3/2). Assigning precise frequency proportions to the pentatonic scales of most cultures is problematic as tuning may be variable.
+For example, the slendro anhemitonic scale and its modes of Java and Bali are said to approach, very roughly, an equally-tempered five-note scale, but their tunings vary dramatically from gamelan to gamelan.
+Composer Lou Harrison has been one of the most recent proponents and developers of new pentatonic scales based on historical models. Harrison and William Colvig tuned the slendro scale of the gamelan Si Betty to overtones 16:19:21:24:28  (1/1-19/16-21/16-3/2-7/4). They tuned the Mills gamelan so that the intervals between scale steps are 8:7-7:6-9:8-8:7-7:6. (1/1-8/7-4/3-3/2-12/7-2/1 = 42:48:56:63:72)
+The major pentatonic scale is the basic scale of the music of China and the music of Mongolia. The fundamental tones (without meri or kari techniques) rendered by the five holes of the Japanese shakuhachi flute play a minor pentatonic scale. The yo scale used in Japanese shomyo Buddhist chants and gagaku imperial court music is an anhemitonic pentatonic scale shown below, which is the fourth mode of the major pentatonic scale.
+In Javanese gamelan music, the slendro scale has five tones, of which four are emphasized in classical music( MIDI sample ). Another scale, pelog, has seven tones, and is generally played using one of three five-tone subsets known as pathet, in which certain notes are avoided while others are emphasized.
+In Scottish music, the pentatonic scale is very common. Seumas MacNeill suggests that the Great Highland bagpipe scale with its augmented fourth and diminished seventh is "a device to produce as many pentatonic scales as possible from its nine notes". Roderick Cannon explains these pentatonic scales and their use in more detail, both in Piobaireachd and light music. It also features in Irish traditional music, either purely or almost so. The minor pentatonic is used in Appalachian folk music. Blackfoot music most often uses anhemitonic tetratonic or pentatonic scales.
+In Andean music, the pentatonic scale is used substantially minor, sometimes major, and seldom in scale. In the most ancient genres of Andean music being performed without string instruments (only with winds and percussion), pentatonic melody is often leaded with parallel fifths and fourths, so formally this music is hexatonic. Hear example:  Pacha Siku .
+Jazz music commonly uses both the major and the minor pentatonic scales. For example, jazz pianists Art Tatum, Chick Corea and Herbie Hancock, blues, and rock. Pentatonic scales are useful for improvisers in modern jazz, pop, and rock contexts because they work well over several chords diatonic to the same key, often better than the parent scale. For example, the blues scale is predominantly derived from the minor pentatonic scale, a very popular scale for improvisation in the realms of blues and rock alike.  Rock guitar solo almost all over B minor pentatonic  For instance, over a C major triad (C, E, G) in the key of C major, the note F can be perceived as dissonant as it is a half step above the major third (E) of the chord. It is for this reason commonly avoided. Using the major pentatonic scale is an easy way out of this problem. The scale tones 1, 2, 3, 5, 6 (from the major pentatonic) are either major triad tones (1, 3, 5) or common consonant extensions (2, 6) of major triads. For the corresponding relative minor pentatonic, scale tones 1, ♭3, 4, 5, ♭7 work the same way, either as minor triad tones (1, ♭3, 5) or as common extensions (4, ♭7), as they all avoid being a half step from a chord tone.
+U.S. military cadences, or "jodies", which keep soldiers in step while marching or running, also typically use pentatonic scales.
+Hymns and other religious music sometimes use the pentatonic scale; for example, the melody of the hymn "Amazing Grace", one of the most famous pieces in religious music.
+The common pentatonic major and minor scales (C-D-E-G-A and C-E♭-F-G-B♭, respectively) are useful in modal composing, as both scales allow a melody to be modally ambiguous between their respective major (Ionian, Lydian, Mixolydian) and minor (Aeolian, Phrygian, Dorian) modes (Locrian excluded). With either modal or non-modal writing, however, the harmonization of a pentatonic melody does not necessarily have to be derived from only the pentatonic pitches.
+The pentatonic scale plays a significant role in music education, particularly in Orff-based, Kodály-based, and Waldorf methodologies at the primary or elementary level. The Orff system places a heavy emphasis on developing creativity through improvisation in children, largely through use of the pentatonic scale. Orff instruments, such as xylophones, bells and other metallophones, use wooden bars, metal bars or bells, which can be removed by the teacher, leaving only those corresponding to the pentatonic scale, which Carl Orff himself believed to be children's native tonality. Children begin improvising using only these bars, and over time, more bars are added at the teacher's discretion until the complete diatonic scale is being used. Orff believed that the use of the pentatonic scale at such a young age was appropriate to the development of each child, since the nature of the scale meant that it was impossible for the child to make any real harmonic mistakes.
+In Waldorf education, pentatonic music is considered to be appropriate for young children due to its simplicity and unselfconscious openness of expression. Pentatonic music centered around intervals of the fifth is often sung and played in early childhood; progressively smaller intervals are emphasized within primarily pentatonic as children progress through the early school years. At around nine years of age the music begins to center around first folk music using a six-tone scale, and then the modern diatonic scales, with the goal of reflecting the children's developmental progress in their musical experience. Pentatonic instruments used include lyres, pentatonic flutes, and tone bars; special instruments have been designed and built for the Waldorf curriculum.
+Jazz scale
+Quartal and quintal harmony
+Raga
+Suspended chord
+Traditional sub-Saharan African harmony

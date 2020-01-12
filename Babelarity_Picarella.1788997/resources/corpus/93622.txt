@@ -1,0 +1,26 @@
+The Exopterygota, also known as Hemipterodea, are a superorder of insects of the subclass Pterygota in the infraclass Neoptera, in which the young resemble adults but have externally developing wings. They undergo a modest change between immature and adult, without going through a pupal stage. The nymphs develop gradually into adults through a process of moulting.
+The Exopterygota are a highly diverse insect superorder, with at least 130,000 living species divided between 15 orders. They include termites, locusts, thrips, lice and stick insects, among many other types of insects.
+They are distinguished from the Endopterygota (or Holometabola) by the way in which their wings develop. Endopterygota (meaning literally "internal winged forms") develop wings inside the body and undergo an elaborate metamorphosis involving a pupal stage. Exopterygota ("external winged forms") develop wings on the outside of their bodies without going through a true pupal stage, though a few have something resembling a pupa (e.g., Aleyrodidae).
+Ephemeroptera (mayflies) and Odonata (dragonflies and damselflies) also have gradual wing development, this being a plesiomorphic trait. These two orders belong to the paraphyletic infraclass Palaeoptera however, which is not included in Neoptera. As opposed to Neoptera, they cannot fold their wings over their back in the horizontal plane, only vertically (as damselflies do) if at all.
+ITIS considers any subdivision of the Neoptera beyond the orders invalid, but this is almost universally rejected.
+More recently, there is increasing debate about how to subdivide the Exopterygota, and the Neoptera in general. It is realized that some presumed Exopterygota may in fact be basal neopterans, making the superorder paraphyletic, just as the Palaeoptera are now increasingly accepted to be among the winged insects in general.
+Here is a complete list of living and extinct orders of "exopterygotes", with some proposed subdivisions:
+Superorder Exopterygota sensu stricto
+Caloneurodea (Extinct)
+Titanoptera (Extinct)
+Protorthoptera (Extinct)
+Plecoptera (stoneflies)
+Embioptera (webspinners)
+Zoraptera (angel insects)
+Dermaptera (earwigs)
+Orthoptera (grasshoppers, etc.)
+Proposed superorder Dictyoptera
+Phasmatodea (stick insects – tentatively placed here)
+Notoptera (ice-crawlers and gladiators – tentatively placed here)
+Blattodea (cockroaches and termites)
+Mantodea (mantids)
+Proposed superorder Paraneoptera
+Psocoptera (booklice, barklice)
+Thysanoptera (thrips)
+Phthiraptera (lice)
+Hemiptera (true bugs)

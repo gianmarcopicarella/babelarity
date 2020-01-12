@@ -1,0 +1,42 @@
+A polyamine is an organic compound having two or more primary amino groups –NH
+2.
+Low-molecular-weight linear polyamines perform essential functions in all living cells. Primary examples are putrescine, cadaverine, spermidine, and spermine. In animals, their levels are maintained from both the diet and de novo synthesis, and their decline with age is associated with various pathologies. Polyamine metabolism is regulated by the activity of the enzyme ornithine decarboxylase (ODC). Polyamines are found in high concentrations in the mammalian brain.
+This class of compounds also includes several synthetic substances that are important feedstocks for the chemical industry, such as ethylene diamine H
+2N–CH
+2–CH
+2–NH
+2, 1,3-diaminopropane H
+2N–(CH
+2)
+3–NH
+2, and hexamethylenediamine H
+2N–(CH
+2)
+6–NH
+2. Certain polyamines are employed on industrial scales as co-reactants (hardeners) with epoxy resins.
+As of 2004, there had been no reports of any geminal diamine, a compound with two or more unsubstituted –NH
+2 groups on the same carbon atom. However, substituted derivatives are known, such as tetraethylmethylenediamine, (C
+2H
+5)
+2N–CH
+2–N(C
+2H
+5)
+2.
+Piperazine is an example of a cyclic polyamine. Cyclen and cyclam are examples of macrocyclic polyamines. Polyethylene amine is a polymer based on the aziridine monomer. Most aromatic polyamines are crystalline solids at room temperature.
+Though it is known that polyamines are synthesized in cells via highly regulated pathways, their actual function is not entirely clear. As cations, they bind to DNA, and, in structure, they represent compounds with cations that are found at regularly spaced intervals (unlike, say, Mg2+ or Ca2+, which are point charges). They have also been found to act as promoters of programmed ribosomal frameshifting during translation.
+If cellular polyamine synthesis is inhibited, cell growth is stopped or severely retarded. The provision of exogenous polyamines restores the growth of these cells. Most eukaryotic cells have a polyamine transporter system on their cell membrane that facilitates the internalization of exogenous polyamines. This system is highly active in rapidly proliferating cells and is the target of some chemotherapeutics currently under development.
+Polyamines are also important modulators of a variety of ion channels, including NMDA receptors and AMPA receptors. They block inward-rectifier potassium channels so that the currents of the channels are inwardly rectified, thereby the cellular energy, i.e. K+ ion gradient across the cell membrane, is conserved. In addition, polyamine participate in initiating the expression of SOS response of Colicin E7 operon and down-regulate proteins that are essential for colicin E7 uptake, thus conferring a survival advantage on colicin-producing E. coli under stress conditions.
+Polyamines can enhance the permeability of the blood–brain barrier.
+They are involved in modulating senescence of organs in plants and are therefore considered as a plant hormone. In addition, they are directly involved in regulation of programmed cell death 
+Polyamines are important chelating agents. tetramethylethylenediamine (TMED) is useful for dissolving metal ions in organic solvents. Polyamines like diethylenetriamine (DETA or dien) and triethylenetetramine (TETA or trien) and more powerful chelating agents forming tridentate and tetradentate complexes, respectively. Macrocyclic polyamines like cyclam add cavity selectivity to the chelate effect. The heme group in Hemoglobin is an important example of a macrocyclic ligand containing the polyamine motif.
+There are aromatic analogues of the aliphatic linear polyamines such as dipyridine, o-phenanthroline and terpyridine which are also useful chelating agents.
+Protonated polyamines, particularly macrocyclic ones, can bind anions. By varying the shape and size of the cavity the protonated polyamine can be engineered to be a specific anion receptor.
+Putrescine is synthesized biologically via two different pathways, both starting from arginine.
+In one pathway, arginine is converted into agmatine, with a reaction catalyzed by the enzyme arginine decarboxylase (ADC); then agmatine is transformed into N-carbamoylputrescine by agmatine imino hydroxylase (AIH). Finally, N-carbamoylputrescine is converted into putrescine.
+In the second pathway, arginine is converted into ornithine and then ornithine is converted into putrescine by ornithine decarboxylase (ODC).
+Cadaverine is synthesized from lysine in a one-step reaction with lysine decarboxylase (LDC).
+Spermidine is synthesized from putrescine, using an aminopropyl group from decarboxylated S-adenosyl-L-methionine (SAM). The reaction is catalyzed by spermidine synthase.
+Spermine is synthesized from the reaction of spermidine with SAM in the presence of the enzyme spermine synthase.
+Thermospermine is a structural isomer of spermine and a novel type of plant growth regulator. It is produced from spermidine by the action of thermospermine synthase, which is encoded by a gene named ACAULIS5 (ACL5).
+The critical role of polyamines in cell growth has led to the development of a number of agents that interfere with polyamine metabolism. These agents are used in cancer therapy. Polyamine analogues upregulate p53 in a cell leading to restriction of proliferation and apoptosis. It also decreases the expression of estrogen receptor alpha in ER positive breast cancer.

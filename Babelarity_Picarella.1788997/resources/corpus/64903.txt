@@ -1,0 +1,12 @@
+Lennart Axel Edvard Carleson (born 18 March 1928) is a Swedish mathematician, known as a leader in the field of harmonic analysis. One of his most famous achievements is his proof of Lusin's conjecture.
+He was a student of Arne Beurling and received his Ph.D. from Uppsala University in 1950. He is a professor emeritus at Uppsala University, the Royal Institute of Technology in Stockholm, and the University of California, Los Angeles, and has served as director of the Mittag-Leffler Institute in Djursholm outside Stockholm 1968–1984. Between 1978 and 1982 he served as president of the International Mathematical Union.
+Carleson married Butte Jonsson in 1953, and they had two children: Caspar (born 1955) and Beatrice (born 1958).
+His work has included the solution of some outstanding problems, using techniques from combinatorics and probability theory (especially stopping times). In the theory of Hardy spaces, Carleson's contributions include the corona theorem (1962) and establishing the almost everywhere convergence of Fourier series for square-integrable functions (now known as Carleson's theorem). He is also known for the theory of Carleson measures.
+In the theory of dynamical systems, Carleson has worked in complex dynamics.
+In addition to publishing some landmark papers, Carleson has also published two books: First, an influential book on potential theory, "Selected Problems on Exceptional Sets" (Van Nostrand, 1967), and second a book on the iteration of analytic functions, Complex Dynamics (Springer, 1993, in collaboration with T. W. Gamelin).
+He was awarded the Wolf Prize in Mathematics in 1992, the Lomonosov Gold Medal in 2002, the Sylvester Medal in 2003, and the Abel Prize in 2006 for his profound and seminal contributions to harmonic analysis and the theory of smooth dynamical systems.
+He is a member of the Norwegian Academy of Science and Letters. In 2012 he became a fellow of the American Mathematical Society.
+Selected Problems on Exceptional Sets, Van Nostrand, 1967
+Matematik för vår tid (Mathematics for our time), Prisma 1968
+with T. W. Gamelin: Complex Dynamics, Springer, 1993
+Carleson–Jacobs theorem

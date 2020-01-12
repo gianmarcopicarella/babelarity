@@ -1,0 +1,27 @@
+The electron neutrino (ν
+e) is a subatomic lepton elementary particle which has no net electric charge. Together with the electron it forms the first generation of leptons, hence its name electron neutrino. It was first hypothesized by Wolfgang Pauli in 1930, to account for missing momentum and missing energy in beta decay, and was discovered in 1956 by a team led by Clyde Cowan and Frederick Reines (see Cowan–Reines neutrino experiment).
+In the early 1900s, theories predicted that the electrons resulting from beta decay should have been emitted at a specific energy. However, in 1914, James Chadwick showed that electrons were instead emitted in a continuous spectrum.
+n0 → p+ + e−
+The early understanding of beta decay
+In 1930, Wolfgang Pauli theorized that an undetected particle was carrying away the observed difference between the energy, momentum, and angular momentum of the initial and final particles.
+n0 → p+ + e− + ν0
+e
+Pauli's version of beta decay
+On 4 December 1930, Pauli wrote a letter to the Physical Institute of the Federal Institute of Technology, Zürich, in which he proposed the electron neutrino as a potential solution to solve the problem of the continuous beta decay spectrum. An excerpt of the letter reads:
+Dear radioactive ladies and gentlemen,
+As the bearer of these lines [...] will explain more exactly, considering the 'false' statistics of N-14 and Li-6 nuclei, as well as the continuous β-spectrum, I have hit upon a desperate remedy to save the "exchange theorem" of statistics and the energy theorem. Namely [there is] the possibility that there could exist in the nuclei electrically neutral particles that I wish to call neutrons, which have spin 1/2 and obey the exclusion principle, and additionally differ from light quanta in that they do not travel with the velocity of light: The mass of the neutron must be of the same order of magnitude as the electron mass and, in any case, not larger than 0.01 proton mass. The continuous β-spectrum would then become understandable by the assumption that in β decay a neutron is emitted together with the electron, in such a way that the sum of the energies of neutron and electron is constant.
+[...]
+But I don't feel secure enough to publish anything about this idea, so I first turn confidently to you, dear radioactives, with a question as to the situation concerning experimental proof of such a neutron, if it has something like about 10 times the penetrating capacity of a γ ray.
+I admit that my remedy may appear to have a small a priori probability because neutrons, if they exist, would probably have long ago been seen. However, only those who wager can win, and the seriousness of the situation of the continuous β-spectrum can be made clear by the saying of my honored predecessor in office, Mr. Debye, [...] "One does best not to think about that at all, like the new taxes." [...] So, dear radioactives, put it to test and set it right. [...]
+With many greetings to you, also to Mr. Back, your devoted servant,
+W. Pauli
+A translated reprint of the full letter can be found in the September 1978 issue of Physics Today.
+The electron neutrino was discovered by Clyde Cowan and Frederick Reines in 1956.
+Pauli originally named his proposed light particle a neutron. When James Chadwick discovered a much more massive nuclear particle in 1932 and also named it a neutron, this left the two particles with the same name. Enrico Fermi, who developed the theory of beta decay, coined the term neutrino in 1934 to resolve the confusion. It was a pun on neutrone, the Italian equivalent of neutron: the -one ending can be an augmentative in Italian, so neutrone could be read as the "large neutral thing"; -ino replaces the augmentative suffix with a diminutive one. 
+Upon the prediction and discovery of a second neutrino, it became important to distinguish between different types of neutrinos. Pauli's neutrino is now identified as the electron neutrino, while the second neutrino is identified as the muon neutrino.
+The electron neutrino has a corresponding antiparticle, the electron antineutrino (ν
+e), which differs only in that some of its properties have equal magnitude but opposite sign. One open question of particle physics is whether or not neutrinos and anti-neutrinos are the same particle in which case it would be a Majorana fermion or whether they are different particles in which case they would be a Dirac fermion.
+The process of beta decay produces both beta particles and electron antineutrinos. Wolfgang Pauli proposed the existence of these particles, in 1930, to ensure that beta decay conserved energy (the electrons in beta decay have a continuum of energies and momentum (the momentum of the electron and recoil nucleus – in beta decay – do not add up to zero).
+Muon neutrino
+PMNS matrix
+Tau neutrino

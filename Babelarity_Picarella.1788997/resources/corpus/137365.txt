@@ -1,0 +1,39 @@
+Vasculitis (plural: vasculitides) is a group of disorders that destroy blood vessels by inflammation. Both arteries and veins are affected. Lymphangitis is sometimes considered a type of vasculitis. Vasculitis is primarily caused by leukocyte migration and resultant damage.
+Although both occur in vasculitis, inflammation of veins (phlebitis) or arteries (arteritis) on their own are separate entities.
+Possible symptoms include:
+General symptoms: Fever, weight loss
+Skin: Palpable purpura, livedo reticularis
+Muscles and joints: Myalgia or myositis, arthralgia or arthritis
+Nervous system: Mononeuritis multiplex, headache, stroke, tinnitus, reduced visual acuity, acute visual loss
+Heart and arteries: Myocardial infarction, hypertension, gangrene
+Respiratory tract: Nose bleeds, bloody cough, lung infiltrates
+GI tract: Abdominal pain, bloody stool, perforations
+Kidneys: Glomerulonephritis
+Vasculitis can be classified by the cause, the location, the type of vessel or the size of vessel.
+Underlying cause. For example, the cause of syphilitic aortitis is infectious (aortitis simply refers to inflammation of the aorta, which is an artery.) However, the causes of many forms of vasculitis are poorly understood. There is usually an immune component, but the trigger is often not identified. In these cases, the antibody found is sometimes used in classification, as in ANCA-associated vasculitides.
+Location of the affected vessels. For example, ICD-10 classifies "vasculitis limited to skin" with skin conditions (under "L"), and "necrotizing vasculopathies" (corresponding to systemic vasculitis) with musculoskeletal system and connective tissue conditions (under "M"). Arteritis/phlebitis on their own are classified with circulatory conditions (under "I").
+Type or size of the blood vessels that they predominantly affect. Apart from the arteritis/phlebitis distinction mentioned above, vasculitis is often classified by the caliber of the vessel affected. However, there can be some variation in the size of the vessels affected.
+According to the size of the vessel affected, vasculitis can be classified into:
+Large vessel: Polymyalgia rheumatica, Takayasu's arteritis, Temporal arteritis
+Medium vessel: Buerger's disease, Cutaneous vasculitis, Kawasaki disease, Polyarteritis nodosa
+Small vessel: Behçet's syndrome, Eosinophilic granulomatosis with polyangiitis, Cutaneous vasculitis, Henoch–Schönlein purpura, Microscopic polyangiitis, Granulomatosis with polyangiitis, Golfer's vasculitis, cryoglobulinemia.
+Some disorders have vasculitis as their main feature. The major types are given in the table below:
+Takayasu's arteritis, polyarteritis nodosa and giant cell arteritis mainly involve arteries and are thus sometimes classed specifically under arteritis.
+Furthermore, there are many conditions that have vasculitis as an accompanying or atypical symptom, including:
+Rheumatic diseases, such as rheumatoid arthritis, systemic lupus erythematosus, and dermatomyositis
+Cancer, such as lymphomas
+Infections, such as hepatitis C
+Exposure to chemicals and drugs, such as amphetamines, cocaine, and anthrax vaccines which contain the Anthrax Protective Antigen as the primary ingredient.
+In pediatric patients varicella infection may be followed by vasculitis of intracranial vessels. This condition is called post varicella angiopathy and this may be responsible for arterial ischaemic strokes in children.
+Several of these vasculitides are associated with antineutrophil cytoplasmic antibodies. These are:
+Granulomatosis with polyangiitis (formerly known as Wegener's granulomatosis)
+Eosinophilic granulomatosis with polyangiitis (formerly known as Churg-Strauss syndrome)
+Microscopic polyangiitis
+Laboratory tests of blood or body fluids are performed for patients with active vasculitis. Their results will generally show signs of inflammation in the body, such as increased erythrocyte sedimentation rate (ESR), elevated C-reactive protein (CRP), anemia, increased white blood cell count and eosinophilia. Other possible findings are elevated antineutrophil cytoplasmic antibody (ANCA) levels and hematuria.
+Other organ functional tests may be abnormal. Specific abnormalities depend on the degree of various organs involvement. A Brainspect can show decreased blood flow to the brain and brain damage.
+The definite diagnosis of vasculitis is established after a biopsy of involved organ or tissue, such as skin, sinuses, lung, nerve, brain and kidney. The biopsy elucidates the pattern of blood vessel inflammation.
+An alternative to biopsy can be an angiogram (x-ray test of the blood vessels). It can demonstrate characteristic patterns of inflammation in affected blood vessels.
+18F-fluorodeoxyglucose positron emission tomography/computed tomography (FDG-PET/CT)has become a widely used imaging tool in patients with suspected Large Vessel Vasculitis, due to the enhanced glucose metabolism of inflamed vessel walls. The combined evaluation of the intensity and the extension of FDG vessel uptake at diagnosis can predict the clinical course of the disease, separating patients with favourable or complicated progress.
+Acute onset of vasculitis-like symptoms in small children or babies may instead be the life-threatening purpura fulminans, usually associated with severe infection.
+In this table: ANA = Antinuclear antibodies, CRP = C-reactive protein, ESR = Erythrocyte Sedimentation Rate, dsDNA = double-stranded DNA, ENA = extractable nuclear antigens, RNP = ribonucleoproteins; VDRL = Venereal Disease Research Laboratory
+Treatments are generally directed toward stopping the inflammation and suppressing the immune system. Typically, corticosteroids such as prednisone are used. Additionally, other immune suppression drugs, such as cyclophosphamide and others, are considered. In case of an infection, antimicrobial agents including cephalexin may be prescribed. Affected organs (such as the heart or lungs) may require specific medical treatment intended to improve their function during the active phase of the disease.

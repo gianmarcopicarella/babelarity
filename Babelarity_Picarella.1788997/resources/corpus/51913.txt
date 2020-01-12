@@ -1,0 +1,29 @@
+Thread safety is a computer programming concept applicable in the context of multi-threaded programs. A piece of code is thread-safe if it manipulates shared data structures only in a manner that guarantees safe execution by multiple threads at the same time. There are various strategies for making thread-safe data structures.
+A program may execute code in several threads simultaneously in a shared address space where each of those threads has access to virtually all of the memory of every other thread. Thread safety is a property that allows code to run in multi-threaded environments by re-establishing some of the correspondences between the actual flow of control and the text of the program, by means of synchronization.
+Software libraries can provide certain thread-safety guarantees. For example, concurrent reads might be guaranteed to be thread-safe, but concurrent writes might not be. Whether or not a program using such a library is thread-safe depends on whether it uses the library in a manner consistent with those guarantees.
+Different vendors use slightly different terminology for thread-safety:
+Thread safe: Implementation is guaranteed to be free of race conditions when accessed by multiple threads simultaneously.
+Conditionally safe: Different threads can access different objects simultaneously, and access to shared data is protected from race conditions.
+Not thread safe: Code should not be accessed simultaneously by different threads.
+Thread safety guarantees usually also include design steps to prevent or limit the risk of different forms of deadlocks, as well as optimizations to maximize concurrent performance. However, deadlock-free guarantees can not always be given, since deadlocks can be caused by callbacks and violation of architectural layering independent of the library itself.
+Below we discuss two approaches for avoiding race conditions to achieve thread safety.
+The first class of approaches focuses on avoiding shared state, and includes:
+Re-entrancy 
+Writing code in such a way that it can be partially executed by a thread, reexecuted by the same thread or simultaneously executed by another thread and still correctly complete the original execution. This requires the saving of state information in variables local to each execution, usually on a stack, instead of in static or global variables or other non-local state. All non-local state must be accessed through atomic operations and the data-structures must also be reentrant.
+Thread-local storage 
+Variables are localized so that each thread has its own private copy. These variables retain their values across subroutine and other code boundaries, and are thread-safe since they are local to each thread, even though the code which accesses them might be executed simultaneously by another thread.
+Immutable objects 
+The state of an object cannot be changed after construction. This implies both that only read-only data is shared and that inherent thread safety is attained. Mutable (non-const) operations can then be implemented in such a way that they create new objects instead of modifying existing ones. This approach is used by the string implementations in Java, C# and Python.
+The second class of approaches are synchronization-related, and are used in situations where shared state cannot be avoided:
+Mutual exclusion
+Access to shared data is serialized using mechanisms that ensure only one thread reads or writes to the shared data at any time. Incorporation of mutual exclusion needs to be well thought out, since improper usage can lead to side-effects like deadlocks, livelocks and resource starvation.
+Atomic operations 
+Shared data are accessed by using atomic operations which cannot be interrupted by other threads. This usually requires using special machine language instructions, which might be available in a runtime library. Since the operations are atomic, the shared data are always kept in a valid state, no matter how other threads access it. Atomic operations form the basis of many thread locking mechanisms, and are used to implement mutual exclusion primitives.
+In the following piece of Java code, the function is thread-safe:
+In the following piece of C code, the function is thread-safe, but not reentrant:
+In the above, increment_counter can be called by different threads without any problem since a mutex is used to synchronize all access to the shared counter variable. But if the function is used in a reentrant interrupt handler and a second interrupt arises inside the function, the second routine will hang forever. As interrupt servicing can disable other interrupts, the whole system could suffer.
+The same function can be implemented to be both thread-safe and reentrant using the lock-free atomics in C++11:
+Concurrency control
+Exception safety
+Priority inversion
+ThreadSafe

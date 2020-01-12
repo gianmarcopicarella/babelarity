@@ -1,0 +1,17 @@
+In oceanography, a halocline (from Greek hals, halo- ‘salt’ and klinein ‘to slope’) is a subtype of chemocline caused by a strong, vertical salinity gradient within a body of water. Because salinity (in concert with temperature) affects the density of seawater, it can play a role in its vertical stratification. Increasing salinity by one kg/m3 results in an increase of seawater density of around 0.7 kg/m3.
+In the midlatitudes, an excess of evaporation over precipitation leads to surface waters being saltier than deep waters. In such regions, the vertical stratification is due to surface waters being warmer than deep waters and the halocline is destabilizing. Such regions may be prone to salt fingering, a process which results in the preferential mixing of salinity.
+In certain high latitude regions (such as the Arctic Ocean, Bering Sea, and the Southern Ocean) the surface waters are actually colder than the deep waters and the halocline is responsible for maintaining water column stability- isolating the surface waters from the deep waters. In these regions, the halocline is important in allowing for the formation of sea ice, and limiting the escape of carbon dioxide to the atmosphere. Haloclines are also found in fjords, and poorly mixed estuaries where fresh water is deposited at the ocean surface.
+In the plot, one can discern three layers:
+About 50 m of low salinity water "swimming" on top of the ocean. The temperature is -1.8 °C, which is very near to the freezing point. This layer blocks heat transfer from the warmer, deeper levels into the sea ice, which has considerable effect on its thickness.
+About 150 m of steeply rising salinity and increasing temperature. This is the actual halocline.
+The deep layer with nearly constant salinity and slowly decreasing temperature.
+A halocline can be easily created and observed in a drinking glass or other clear vessel. If fresh water is slowly poured over a quantity of salt water, using a spoon held horizontally at water-level to prevent mixing, a hazy interface layer, the halocline, will soon be visible due to the varying index of refraction across the boundary.
+A halocline is most commonly confused with a thermocline - a thermocline is an area within a body of water that marks a drastic change in temperature.
+Haloclines are common in water-filled caves near the ocean. Less dense fresh water from the land forms a layer over salt water from the ocean. For underwater cave explorers, this can cause the optical illusion of air space in caverns. Passing through the halocline tends to stir up the layers.
+Thermocline - A cline based on difference in water temperature,
+Chemocline - A cline based on difference in water chemistry,
+Pycnocline - A cline based on difference in water density.
+Hypersaline lake
+Isopycnal
+Thermohaline circulation
+Osmotic power

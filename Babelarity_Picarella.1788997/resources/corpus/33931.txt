@@ -1,0 +1,46 @@
+The Fungi imperfecti or imperfect fungi, also known as Deuteromycota, are fungi which do not fit into the commonly established taxonomic classifications of fungi that are based on biological species concepts or morphological characteristics of sexual structures because their sexual form of reproduction has never been observed; hence the name "imperfect fungi." Only their asexual form of reproduction is known, meaning that this group of fungi produces their spores asexually, in the process called sporogenesis.
+There are about 25,000 species that have been classified in the deuteromycota and many are basidiomycota or ascomycota anamorphs. Fungi producing the antibiotic penicillin and those that cause athlete's foot and yeast infections are imperfect fungi. In addition, there are a number of edible imperfect fungi, including the ones that provide the distinctive characteristics of Roquefort and Camembert cheese.
+Other, more informal, names besides Deuteromycota ("Deuteromycetes") and fungi imperfecti, are anamorphic fungi, or mitosporic fungi, but these are terms without taxonomic rank.
+Although Fungi imperfecti/Deuteromycota is no longer formally accepted as a taxon, many of the fungi it included have yet to find a place in modern fungal classification. This is because most fungi are classified based on characteristics of the fruiting bodies and spores produced during sexual reproduction, and members of the Deutromycota have only been observed to reproduce asexually or produce no spores.
+Mycologists are unique among those who study extant organisms in using a dual system of nomenclature. Dual naming was permitted by Article 59 of the International Code of Botanical Nomenclature (which governs the naming of plants and fungi); however, this was abolished in the 2011 update of the Code.
+Under the former system, a name for an asexually reproducing fungus was considered a form taxon. For example, the ubiquitous and industrially important mold, Aspergillus niger, has no known sexual cycle. Thus Aspergillus niger is considered a form taxon. In contrast, isolates of its close relative, Aspergillus nidulans, revealed it to be the anomorphic stage of a teleomorph (the ascocarp or fruiting body of the sexual reproductive stage of a fungus), which was already named Emericella nidulans. When such a teleomorphic stage is known, that name will take priority over the name of an anamorph (which lacks a sexual reproductive stage). Hence the formerly classified Aspergillus species is now properly called Emericella nidulans.
+Phylogenetic classification of asexually reproducing fungi now commonly uses molecular systematics. Phylogenetic trees constructed from comparative analyses of DNA sequences, such as rRNA, or multigene phylogenies may be used to infer relationships between asexually reproducing fungi and their sexually reproducing counterparts. With these methods, many asexually reproducing fungi have now been placed in the tree of life. However, because phylogenetic methods require sufficient quantities of biological materials (spores or fresh specimens) that are from pure (i.e., uncontaminated) fungal cultures, for many asexual species their exact relationship with other fungal species has yet to be determined. Under the current system of fungal nomenclature, teleomorph names cannot be applied to fungi that lack sexual structures. Classifying and naming asexually reproducing fungi is the subject of ongoing debate in the mycological community.
+These groups are no longer formally accepted because they do not adhere to the principle of monophyly. The taxon names are sometimes used informally. In particular, the term 'hyphomycetes' is often used to refer to molds, and the term 'coelomycetes' is used to refer to many asexually reproducing plant pathogens that form discrete fruiting bodies.
+Following, a classification of the Fungi imperfecti:
+Class Hyphomycetes lacking fruiting bodies
+Order Moniliales (producing spores on simple conidiophores)
+Order Stilbellales (producing spores on synnemata)
+Order Tuberculariales (producing spores in sporodochia)
+Class Coelomycetes spores produced in fruiting bodies
+Order Melanconiales (producing spores in acervuli)
+Order Sphaeropsidales (producing spores in pycnidia)
+Class Agonomycetes lacking spores
+Other, according to Dörfelt (1989):
+Form-Klasse: Hyphomycetes
+Form-Ordnung: Agonomycetales
+Form-Familie: Agonomycetaceae
+Form-Ordnung: Moniliales
+Form-Familie: Moniliaceae
+Form-Familie: Dematiaceae
+Form-Familie: Stilbellaceae
+Form-Familie: Tuberculariaceae
+Form-Klasse: Coelomycetes
+Form-Ordnung: Melanconiales
+Form-Familie: Melanconiaceae
+Form-Ordnung: Sphaeropsidales
+Form-Familie: Sphaeropsidaceae
+Other systems of classification are reviewed by Kendrick (1981).
+Tolypocladium inflatum → from which the immunosuppressant ciclosporin is obtained;
+Penicillium griseofulvum
+Penicillium roqueforti
+Penicillium camemberti
+Other species of Penicillium are used to improve both the taste and the texture of cheeses
+Aspergillus oryzae
+Aspergillus sojae
+Aspergillus niger
+Cladosporium resinae
+Lecanicillium sp. → these produce conidia which may control certain species of insect pests
+Other entomopathogenic fungi, including Metarhizium and Beauveria spp.
+Pochonia spp. are under development for control of Nematode pests.
+Forest pathology
+List of mitosporic Ascomycota

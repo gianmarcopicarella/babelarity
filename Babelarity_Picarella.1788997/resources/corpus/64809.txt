@@ -1,0 +1,126 @@
+Varignon's theorem is a statement in Euclidean geometry, that deals with the construction of a particular parallelogram, the Varignon parallelogram, from an arbitrary quadrilateral (quadrangle). It is named after Pierre Varignon, who published it in 1731.
+The midpoints of the sides of an arbitrary quadrilateral form a parallelogram. If the quadrilateral is convex or reentrant, (the quadrilateral is not a crossing quadrangle) then the area of the parallelogram is half the area of the quadrilateral.
+If one introduces the concept of oriented areas for n-gons, then the area equality above also holds for crossed quadrilaterals as well.
+The Varignon parallelogram exists even for a skew quadrilateral, and is planar whether the quadrilateral is planar or not. The theorem can be generalized to the midpoint polygon of an arbitrary polygon.
+Varignon's theorem is easily proved as a theorem of affine geometry organized as linear algebra with the linear combinations restricted to coefficients summing to 1, also called affine or barycentric coordinates. The proof applies even to skew quadrilaterals in spaces of any dimension.
+Any three points E, F, G are completed to a parallelogram (lying in the plane containing E, F, and G) by taking its fourth vertex to be E − F + G. In the construction of the Varignon parallelogram this is the point (A + B)/2 − (B + C)/2 + (C + D)/2 = (A + D)/2. But this is the point H in the figure, whence EFGH forms a parallelogram.
+In short, the centroid of the four points A, B, C, D is the midpoint of each of the two diagonals EG and FH of EFGH, showing that the midpoints coincide.
+A second proof requires less algebra. By drawing in the diagonals of the quadrilateral, we notice two triangles are created for each diagonal. And by the Midline Theorem, the segment containing two midpoints of adjacent sides is both parallel and half the respective diagonal. Therefore, the sum of the diagonals is equal to the perimeter of the quadrilateral formed. Secondly, we can use vectors 1/2 the length of each side to first determine the area of the quadrilateral, and then to find areas of the four triangles divided by each side of the inner parallelogram.
+A planar Varignon parallelogram also has the following properties:
+Each pair of opposite sides of the Varignon parallelogram are parallel to a diagonal in the original quadrilateral.
+A side of the Varignon parallelogram is half as long as the diagonal in the original quadrilateral it is parallel to.
+The area of the Varignon parallelogram equals half the area of the original quadrilateral. This is true in convex, concave and crossed quadrilaterals provided the area of the latter is defined to be the difference of the areas of the two triangles it is composed of.
+The perimeter of the Varignon parallelogram equals the sum of the diagonals of the original quadrilateral.
+The diagonals of the Varignon parallelogram are the bimedians of the original quadrilateral.
+The two bimedians in a quadrilateral and the line segment joining the midpoints of the diagonals in that quadrilateral are concurrent and are all bisected by their point of intersection.
+In a convex quadrilateral with sides a, b, c and d, the length of the bimedian that connects the midpoints of the sides a and c is
+        m
+        =
+              1
+              2
+            −
+              a
+                2
+            +
+              b
+                2
+            −
+              c
+                2
+            +
+              d
+                2
+            +
+              p
+                2
+            +
+              q
+                2
+    {\displaystyle m={\tfrac {1}{2}}{\sqrt {-a^{2}+b^{2}-c^{2}+d^{2}+p^{2}+q^{2}}}}
+where p and q are the length of the diagonals. The length of the bimedian that connects the midpoints of the sides b and d is
+        n
+        =
+              1
+              2
+              a
+                2
+            −
+              b
+                2
+            +
+              c
+                2
+            −
+              d
+                2
+            +
+              p
+                2
+            +
+              q
+                2
+        .
+    {\displaystyle n={\tfrac {1}{2}}{\sqrt {a^{2}-b^{2}+c^{2}-d^{2}+p^{2}+q^{2}}}.}
+Hence
+            p
+              2
+          +
+            q
+              2
+          =
+          2
+          (
+            m
+              2
+          +
+            n
+              2
+          )
+          .
+    {\displaystyle \displaystyle p^{2}+q^{2}=2(m^{2}+n^{2}).}
+This is also a corollary to the parallelogram law applied in the Varignon parallelogram.
+The lengths of the bimedians can also be expressed in terms of two opposite sides and the distance x between the midpoints of the diagonals. This is possible when using Euler's quadrilateral theorem in the above formulas. Whence
+        m
+        =
+              1
+              2
+            2
+            (
+              b
+                2
+            +
+              d
+                2
+            )
+            −
+            4
+              x
+                2
+    {\displaystyle m={\tfrac {1}{2}}{\sqrt {2(b^{2}+d^{2})-4x^{2}}}}
+and
+        n
+        =
+              1
+              2
+            2
+            (
+              a
+                2
+            +
+              c
+                2
+            )
+            −
+            4
+              x
+                2
+        .
+    {\displaystyle n={\tfrac {1}{2}}{\sqrt {2(a^{2}+c^{2})-4x^{2}}}.}
+Note that the two opposite sides in these formulas are not the two that the bimedian connects.
+In a convex quadrilateral, there is the following dual connection between the bimedians and the diagonals:
+The two bimedians have equal length if and only if the two diagonals are perpendicular.
+The two bimedians are perpendicular if and only if the two diagonals have equal length.
+The Varignon parallelogram is a rhombus if and only if the two diagonals of the quadrilateral have equal length, that is, if the quadrilateral is an equidiagonal quadrilateral.
+The Varignon parallelogram is a rectangle if and only if the diagonals of the quadrilateral are perpendicular, that is, if the quadrilateral is an orthodiagonal quadrilateral.
+If a crossing quadrilateral is formed from either pair of opposite parallel sides and the diagonals of a parallelogram, the Varignon parallelogram has a side of length zero and is a line segment.
+Perpendicular bisector construction of a quadrilateral, a different way of forming another quadrilateral from a given quadrilateral

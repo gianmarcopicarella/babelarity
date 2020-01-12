@@ -1,0 +1,79 @@
+Old Saxon, also known as Old Low German, is a Germanic language and the earliest recorded form of Low German. It belongs to the West Germanic branch and is most closely related to the Anglo-Frisian languages. It is documented from the 8th century until the 12th century, when it evolved into Middle Low German. It was spoken on the north-west coast of Germany and in the Netherlands by Saxon peoples. It is close enough to Old Anglo-Frisian (Old Frisian, Old English) that it partially participates in the Ingvaeonic nasal spirant law; it is also closely related to Old Dutch.
+The grammar of Old Saxon was fully inflected with five grammatical cases (nominative, accusative, genitive, dative, and instrumental), three grammatical numbers (singular, plural, and dual) and three grammatical genders (masculine, feminine, and neuter). The dual forms occurred in the first and second persons only and referred to groups of two.
+For a long time, Old Saxon and Old Dutch were not distinguished and often thought to be different dialects of the same language. However, while these two languages both shared the same historical origins and some very similar writing styles, Old Saxon shows a slightly reduced morphology compared to Old Dutch, which kept some grammatical distinctions that Old Saxon abandoned. There are also various differences in their phonological evolutions, Old Saxon being considered as an Ingvaeonic language whereas Old Dutch is an Istvaeonic language.
+Old Saxon (or Old Low German) probably evolved primarily from Ingvaeonic dialects in the West Germanic branch of Proto-Germanic in the 5th century. However, Old Saxon, even if it is considered as an Ingvaeonic language, is not a pure Ingvaeonic dialect as Old Frisian and Old English are, the two latter sharing some other Ingvaeonic characteristics, like the great vowel shift that took place in both Old English and Old Frisian. This, plus the large number of different forms that the language took, often showing different West-Germanic features, led some philologists to mistakenly think that Old Dutch and Old Saxon were variations of the same language, and that Old Saxon was indeed an Istvaeonic language.
+In the Middle Ages, a dialect continuum existed between Old Dutch and Old Saxon; this was only recently interrupted by the simultaneous dissemination of standard languages within each nation and the dissolution of folk dialects. Despite sharing some features, a number of disparities separate Old Saxon, Old English, and Old Dutch; one such difference is the Old Dutch utilization of -a as its plural a-stem noun ending, while Old Saxon and Old English employ -as or -os. However, it seems that some Middle Dutch took the Old Saxon a-stem ending from some Middle Low German dialects, as modern Dutch still shows the plural ending -s added to certain words.
+Old Saxon naturally evolved into Middle Low German during the 12th century, but the evolution from Old Saxon towards Middle Low German was long and uninterrupted – it took about 200 years to evolve the language. However, 1150 marks the inceptive period of profuse Low German writing wherein the language is patently different from Old Saxon.
+One of the most striking differences between Middle Low German and Old Saxon is in a feature of speech known as vowel reduction; that also took place in Middle Dutch and Middle English. While round vowels in word-final syllables were rather frequent in Old Saxon, in Middle Low German, such are leveled to a schwa. Thus, such Old Saxon words like gisprekan (spoken) or dagô (days' – gen. pl.) became gespreken and daghe, dage.
+Old Saxon did not participate in the High German consonant shift, and thus preserves stop consonants p, t, k that have been shifted in Old High German to various fricatives and affricates. The Germanic diphthongs ai, au consistently develop into long vowels ē, ō, whereas in Old High German they appear either as ei, ou or ē, ō depending on the following consonant.
+Old Saxon, alone of the West Germanic languages except for Frisian, consistently preserves Germanic -j- after a consonant, e.g. hēliand "savior" (Old High German: heilant, Old English: hǣlend, Gothic: háiljands). Germanic umlaut, when it occurs with short a, is inconsistent, e.g. hebbean or habbian "to have" (Old English: habban). This feature was carried over into the descendant-language of Old Saxon, Middle Low German, where e.g. the adjective krank (sick, ill) had the comparative forms krenker and kranker. Apart from the e, however, the umlaut is not marked in writing.
+The table below lists the consonants of Old Saxon. Phonemes written in parentheses represent allophones and are not independent phonemes.
+Notes:
+The voiceless spirants /f/, /θ/, and /s/ gain voiced allophones ([v], [ð], and [z]) when between vowels. This change is only faithfully reflected in writing for [v] (represented with letters such as 〈ƀ〉 and 〈u〉). The other two allophones continued to be written as before.
+Fricatives were devoiced again word-finally. Beginning in the later Old Saxon period, stops became devoiced word-finally as well.
+Most consonants could be geminated. Notably, geminated /v/ gave /bb/, and geminated /ɣ/ probably gave /ɡɡ/. Geminated /h/ resulted in /xx/.
+Germanic *h is retained as [x] in these positions and thus merges with devoiced /ɣ/.
+Notes:
+Long vowels were rare in unstressed syllables and mostly occurred due to suffixation or compounding.
+Notes:
+The closing diphthongs /ei/ and /ou/ sometimes occur in texts (especially in Genesis), probably under the influence of Franconian or High German dialects, where they replace Old Saxon developments /ɛː/ and /ɔː/ (which evolved from Proto-Germanic /ai/ and /au/).
+The situation for the front opening diphthongs is somewhat unclear in some texts. Words written with io in the Heliand, the most extensive record of Old Saxon writing, are often found written variably with ia or even ie in most other texts, notably the later ones. The diphthong eventually merges into /eː/ in almost every Middle Low German dialect.
+There also existed 'long' diphthongs /oːu/, /aːu/ and /eːu/. These were, however, treated as two-syllable sequences of a long vowel followed by a short one, not proper diphthongs.
+Unlike modern English, but like Old English, Old Saxon is an inflected language, rich in morphological diversity. It kept several distinct cases from Proto-Germanic: the nominative, accusative, genitive, dative and (vestigially in oldest texts) instrumental.
+Old Saxon also had three grammatical numbers (singular, plural, and dual) and three grammatical genders (masculine, feminine, and neuter). The dual forms occurred in the first and second persons only and referred to groups of two.
+Old Saxon nouns were inflected in very different ways following their classes. Here are the endings for dag, "day" an a-stem masculine noun:
+At the end of the Old Saxon period, distinctions between noun classes began to disappear, and endings from one were often transferred to the other declension, and vice versa. This happened to be a large process, and the most common noun classes started to cause the least represented to disappear. As a result, in Middle Low German, only the former weak n-stem and strong a-stem classes remained. These two noun inflection classes started being added to words not only following the historical belonging of this word, but also following the root of the word.
+The Old Saxon verb inflection system reflects an intermediate stage between Old English and Old Dutch, and further Old High German. Unlike Old High German and Old Dutch, but similarly to Old English, it did not preserve the three different verb endings in the plural, all featured as -ad (also -iad or -iod following the different verb inflection classes). Like Old Dutch, it had only two classes of weak verb, with only a few relic verbs of the third weak class (namely four verbs: libbian, seggian, huggian and hebbian).
+This table sums up all the seven Old Saxon strong verb classes and the three weak verb classes:
+It should be noticed that the third weak verb class includes only four verbs (namely libbian, seggian, huggian and hebbian); it is a remnant of an older and larger class that was kept in Old High German.
+Old Saxon syntax is mostly different from that of English. Some were simply consequences of the greater level of nominal and verbal inflection – e.g., word order was generally freer. In addition:
+The default word order was verb-second, very close to that of modern Dutch or modern German.
+There was no do-support in questions and negatives.
+Multiple negatives could stack up in a sentence and intensify each other (negative concord), which is not always the case in modern English, modern Dutch, or modern German.
+Sentences with subordinate clauses of the type "when X, Y" (e.g. "When I got home, I ate dinner.") did not use a wh-type conjunction, but rather used a th-type correlative conjunction (e.g. thô X, thô Y in place of "when X, Y"). The wh-type conjunctions were used only as interrogative pronouns and indefinite pronouns.
+Similarly, wh- forms were not used as relative pronouns (as in "the man who saw me" or "the car which I bought"). Instead, an indeclinable word the was used, often in conjunction with the definite article (which was declined for case, number and gender).
+Old Saxon comes down in a number of different manuscripts whose spelling systems sometimes differ markedly. In this section, only the letters used in normalized versions of the Heliand will be kept, and the sounds modern scholars have traditionally assigned to these letters. Where spelling deviations in other texts may point to significant pronunciation variants, this will be indicated.
+In general, the spelling of Old Saxon corresponds quite well to that of the other ancient Germanic languages, such as Old High German or Gothic.
+c and k were both used for [k]. However, it seems that, as in other West-Germanic dialects, when [k] was followed by i or e, it had the pronunciation /ts/ or /kʲsʲ/. The letters c and x were preferred for the palatalisations, k and even sometimes ch being rather used before u, o or a for /k/ (kuning for [kʏnɪŋk] 'king', modern köning ; crûci for [kryːtsi] ; forsachistu for [forsakistuː]).
+g represented [ɣ] or its allophone [ɡ]: brengian [brɛŋɡjan] 'to bring', seggian [sɛɡɡjan] 'to say', wege [wɛɣe] 'way' (dative).
+g seems, at least in a few dialects, to have had the pronunciation [j] or [ʝ] at the beginning of a word, only when followed by i or e. Thus we find giār [jaːr] 'year' and even gēr [jeːr] 'year', the latter betraying a strong Old Frisian influence.
+h represents [h] and its allophone [x]: holt [hɔlt] 'wood', naht [naxt] 'night' (mod. nacht).
+i is used for both the vowels [ɪ] and [iː] and the consonant [j]: ik [ɪk] 'I' (mod. ick, ik), iār [jaːr] 'year'.
+qu and kw always represents [kw]: quāmun [kwaːmʊn] 'they came'.
+s represented [s], and between two vowels also [z].
+th is used to indicate [θ]: thōhtun [θoːxtun] 'they thought'. ð is used for [ð], occasionally also written dh.
+u represented the vowels [ʊ] and [uː] or the consonant [v] which was usually written with ƀ.
+uu was normally used to represent [w], predating the letter w.
+z only appeared in a few texts due to Old High German influence.
+Only a few texts survive, predominantly baptismal vows the Saxons were required to perform at the behest of Charlemagne. The only literary texts preserved are Heliand and fragments of the Old Saxon Genesis.
+Heliand
+Beda homily (Homilie Bedas)
+Credo (Abrenunciatio diaboli et credo) → Old Saxon baptismal vow.
+Old Saxon Genesis fragments
+Essener Heberegister
+Old Saxon Baptismal Vow (German: Sächsisches Taufgelöbnis)
+Penitentiary (Westfälische Beichte)
+Trierer Blutsegen ( de.)
+Spurihalz (Wiener pferdsegen) ( de.)
+Wurmsegen (Wiener Wurmsegen) ( de).
+Psalms commentary (Gernroder Psalmenkommentars)
+A poetic version of the Lord's Prayer in the form of the traditional Germanic alliterative verse is given in Old Saxon below as it appears in the Heliand.
+Old Saxon Genesis
+Old Saxon Baptismal Vow
+Heliand
+Middle Low German
+Low German
+Ingvaeonic nasal spirant law
+Galleé, Johan Hendrik (1910). Altsächsische Grammatik. Halle: Max Niemeyer. 
+Lasch, Agathe (1914). Mittelniederdeutsche Grammatik. Halle: Max Niemeyer. 
+Euler, Wolfram (2013). Das Westgermanische - von der Herausbildung im 3. bis zur Aufgliederung im 7. Jahrhundert - Analyse und Rekonstruktion (West Germanic - from its Emergence in the 3rd up until its Dissolution in the 7th Century CE - Analyses and Reconstruction). 244 p., in German with English summary, London/Berlin 2013, ISBN 978-3-9812110-7-8.
+Rauch, Irmengard (1992). The Old Saxon Language. Berkeley Models of Grammar: Peter Lang Publishing. 
+Ringe, Donald R. and Taylor, Ann (2014). The Development of Old English - A Linguistic History of English, vol. II, 632p. ISBN 978-0199207848. Oxford.
+Holthausen, Ferdinand (1923). Altsächsisches Elementarbuch. Ulan Press. 
+Tiefenbach, Heinrich (2010). Altsächsisches Handwörterbuch / A Concise Old Saxon Dictionary. De Gruyter. 
+Gerhard Köbler: Altsächsisches Wörterbuch, (3. Auflage) 2000ff. ("An Old Saxon Dictionary")
+Robinson, Orrin W. (1947). Old English and its closest relatives. Stanford: Stanford University Press. 
+Helfenstein, Jacob (1901). Comparative Grammar of the Teutonic languages. Oxford: Forgotten Books. 
+Meidinger, Heinrich (1923). Vergleichendes Etymologisches Wörterbuch Der Gothisch-Teutonischen Mundarten. Ulan Press. 
+Schade, Oskar (1923). Altdeutsches Lesebuch. Ulan Press. 
+Ammon, Hermann (1922). Repetitorium der deutschen sprache, gotisch, althochdeutsch, altsächsisch. Michigan: University of Michigan Library. 

@@ -1,0 +1,2 @@
+Google Page Creator was a website creation and hosting service by Google. It was a tool for basic website design, requiring no HTML knowledge. During development, it was codenamed Trogdor, a reference to the popular Homestar Runner website. As of August 2008, Google Pages had over 3 million users according to Google's own index.
+In September 2008, Google announced that it would not accept new sign-ups to Page Creator, instead encouraging users to use Google Sites. The service had been shut down in 2009, while existing published pages migrated to Google Sites.

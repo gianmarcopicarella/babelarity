@@ -1,0 +1,128 @@
+Indirect speech, also known as reported speech or indirect discourse, is a means of expressing the content of statements, questions or other utterances, without quoting them explicitly as is done in direct speech. For example, He said "I'm coming" is direct speech, whereas He said (that) he was coming is indirect speech. Indirect speech should not be confused with indirect speech acts.
+In grammar, indirect speech often makes use of certain syntactic structures such as content clauses ("that" clauses, such as (that) he was coming), and sometimes infinitive phrases. References to questions in indirect speech frequently take the form of interrogative content clauses, also called indirect questions (such as whether he was coming).
+In indirect speech certain grammatical categories are changed relative to the words of the original sentence. For example, person may change as a result of a change of speaker or listener (as I changes to he in the example above). In some languages, including English, the tense of verbs is often changed – this is often called sequence of tenses. Some languages have a change of mood: Latin switches from indicative to the infinitive (for statements) or the subjunctive (for questions).
+When written, indirect speech is not normally enclosed in quotation marks or any similar typographical devices for indicating that a direct quotation is being made. However such devices are sometimes used to indicate that the indirect speech is a faithful quotation of someone's words (with additional devices such as square brackets and ellipses to indicate deviations or omissions from those words), as in He informed us that "after dinner [he] would like to make an announcement".
+In indirect speech, words generally have referents appropriate to the context in which the act of reporting takes place, rather than that in which the speech act being reported took place (or is conceived as taking place). The two acts often differ in reference point (origo) – the point in time and place and the person speaking – and also in the person being addressed and the linguistic context. Thus when a sentence involves words or forms whose referents depend on these circumstances, they are liable to change when the sentence is put into indirect speech. In particular this commonly affects:
+personal pronouns, such as I, you, he, we, and the corresponding verb forms (in pro-drop languages the meaning of the pronoun may be conveyed solely by verb inflection).
+demonstratives, such as this and that.
+phrases of relative time or place such as now, yesterday and here.
+There may also be a change of tense or other modifications to the form of the verb, such as change of mood. These changes depend on the grammar of the language in question – some examples can be found in the following sections.
+It should be noted that indirect speech need not refer to a speech act that has actually taken place; it may concern future or hypothetical discourse; for example, If you ask him why he's wearing that hat, he'll tell you to mind your own business. Also, even when referring to a known completed speech act, the reporter may deviate freely from the words that were actually used, provided the meaning is retained. This contrasts with direct speech, where there is an expectation that the original words will be reproduced exactly.
+Some modal verbs (would, could, might, should, ought to) do not change in indirect speech. In such a case the indirect speech sentence is ambiguous because it can be a result of two different direct speech sentences. For example:
+I can get it for free.    OR    I could get it for free.
+He said that he could get it for free.   (ambiguity)
+However, in many slavic languages there is no change of tense in indirect speech, and hence no ambiguity. For example, in Polish (a male speaker, hence third person masculine singular):
+Mogę mieć to za darmo.    (I can get it for free)
+On powiedział, że może mieć to za darmo.    (He said that he could get it for free.)
+Mógłbym mieć to za darmo.    (I could get it for free)
+On powiedział, że mógłby mieć to za darmo.    (He said that he could get it for free.)
+Some examples of changes in form in indirect speech in English are given below. See also Sequence of tenses, and Uses of English verb forms: Indirect speech.
+It is raining hard.
+She says that it is raining hard. (no change)
+She said that it was raining hard. (change of tense when the main verb is past tense)
+I have painted the ceiling blue.
+He said that he had painted the ceiling blue. (change of person and tense)
+I will come to your party tomorrow.
+I said that I would come to his party the next day/the following day. (change of tense, person and time expression)
+How do people manage to live in this city?
+I asked him how people managed to live in that city. (change of tense and question syntax, and of demonstrative)
+Please leave the room.
+I asked them to leave the room. (use of infinitive phrase)
+I am a traitor...
+You believe me to be a traitor... (use of infinitive phrase)
+The tense changes illustrated above (also called backshifting), which occur because the main verb ("said", "asked") is in the past tense, are not obligatory when the situation described is still valid:
+Ed is a bore.
+She said that Ed was/is a bore. (optional change of tense)
+I am coming over to watch television.
+Benjamin said that he is/was coming over to watch television. (change of person, optional change of tense)
+In these sentences the original tense can be used provided that it remains equally valid at the time of the reporting of the statement (Ed is still considered a bore; Benjamin is still expected to come over).
+In Classical Greek, statements and questions reported are sometimes quoted using indirect statements and questions.
+There are three types of indirect statements and one type of indirect question; all, however, are introduced with a verb of thought, belief, speaking, or questioning.
+Verbs such as φημὶ require no additional introductory particle. The quoted speech is rendered with the following changes: the finite verb is transformed into the corresponding infinitive and the nominative subject and predicate into the accusative. The accusative object remains unchanged. Tense, voice, and number remain unchanged.
+αὕτη ἡ γυνή (nom.) ἐστι καλή (nom.) "This woman is pretty."
+ὁ ἀνήρ φησι ταύτην τὴν γυναῖκα (acc.) εἶναι καλὴν (acc.) "The man says (that) this woman is pretty."
+Verbs such as γιγνώσκω require no additional introductory particle. The quoted speech is rendered with the following changes: the nominative subject, and the predicate, if present, is changed into the accusative case and the finite verb, agreeing therewith, is transformed into the corresponding participle in the accusative case. The accusative object remains unchanged. Tense, voice, and number remain unchanged.
+ὁ άνὴρ γιγνώσκει ταύτην τὴν γυναῖκα οὖσαν καλὴν. "The man knows (that) this woman is pretty."
+With the two species of indirect statements above, however, if the subject of the quoted speech is the speaker himself, the subject is omitted and understood in the nominative, and the predicate, if present, remains in the nominative case.
+Verbs such as λέγω require either ὡς or ὅτι as an introductory particle. If the introductory verb form is in a secondary tense, then the finite verb of the ὡς/ὅτι clause is usually changed from the indicative into the corresponding tense in the optative mood; however, the indicative verb can be retained for vividness. All else remains unchanged.
+ἡ γυνὴ ἦν (imperfect) καλή. "The woman was beautiful."
+ὁ ἀνὴρ ἔλέγεν ὡς ἡ γυνὴ εἴη (present optative) καλή/ἦν (imperfect) καλή. "The man said that the woman was beautiful."
+In Latin grammar, indirect speech is called ōratiō oblīqua (direct speech is called ōratiō recta). An indirect statement or question can serve in the place of the direct object of a verb related to thought or communication.
+An indirect statement is expressed by changing the case of the subject noun phrase from nominative to accusative and by replacing the main verb with an infinitive (as in the English phrase "You believe me to be a traitor" above). The voice remains unchanged; but the tense of the infinitive is mostly controlled by the temporal relationship between the time expressed by the matrix verb's tense and the time denoted by the infinitive: Present tense at the moment of utterance (simultaneous state of affairs between the matrix verb and the infinitive) is expressed by the Present Infinitive; past tense (the infinitive's state of affairs is anterior to the time of the matrix verb) by the Perfect infinitive; and future tense (time posterior to the matix verb) by the Future infinitive. This practically means that seven tenses of the indicative have to be transformed into three available infinitival tenses, and thus an accurate reproduction of the full temporal sense of direct speech is not always accurate and in many cases impossible. Some paradigms:
+Amo libertatem. ("I love freedom")
+Dicit se amare libertatem. ("He says that he loves freedom")
+Rex dedit omnibus leges. ("The king gave laws to everyone")
+Credo regem dedisse omnibus leges. ("I believe that the king gave laws to everyone")
+Videbimus permulta cras. ("We shall see very many things tomorrow")
+Speras nos visuros esse permulta cras. ("You hope that we shall see very many things tomorrow")
+Tertium non datur. ("No third possibility is given")
+Docuit philosophus tertium non dari. ("The philosopher taught that no third possibility is given")
+In Senatu imperator interfectus est. ("The emperor was killed in the Senate")
+Audivi imperatorem in Senatu interfectum esse. ("I heard that the emperor was killed in the Senate")
+As is shown from the first of the above examples, even a coreferent subject must be expressed in the accusative when the clause is put into the infinitive. The accusative of the reflexive pronouns is used in the corresponding person and number (singular: me, te, se; plural: nos, vos, se).
+In the case of predication via a copula (typically esse), the case of the predicate adjective or noun changes from nominative to accusative. The same happens to any syntactic constituent that stood in the nominative case before passing into the indirect speech.
+Sum felix. ("I am happy")
+Dicit se esse felicem. ("He said that he was happy")
+Cadebo pugnans. ("I shall fall dead while fighting") (A participle in the nominative)
+Dicit se casurum esse pugnantem. ("He says that he shall fall dead while fighting") (The participle is now in the accusative, showing case agreement to the accusative agent denoted by the pronoun se)
+After passive verbs of speaking, reporting, thinking or perceiving the construction called nominative with infinitive (in Latin Nominativus cum infinitivo) is generally preferred, especially after monolectic matrix verb types. This construction is called in generative linguistics subject-to-subject raising: the noun phrase (in the accusative) is detached from the infinitive and raised as the nominative subject of the matrix passive verb. The phenomenon is shown in the example below:
+Dicitur [Homerum caecum fuisse]. Impersonal construction: the infinitival clause serves duty as the subject of the verb dicitur.
+Dicitur Homerus [caecus fuisse]. Personal construction: the noun Homerus in the nominative serves duty as the subject of the verb dicitur (and is implied also as the subject of the infinitive fuisse). The whole infinitival clause is said to serve now duty as the object of the verb dicitur (although this is not exactly accepted by modern linguistic approaches to subject-to-subject raising phenomena).
+In the case that an imperfect or Pluperfect was initially used in direct speech, the Perfect infinitive is normally used instead, the only one capable of denoting a state of affairs anterior to time denoted by the matrix verb introducing the indirect speech.
+Cogitabam/Cogitaveram aliquid. ("I was thinking/had thought something")
+Dixit se cogita(vi)sse aliquid ("He said that he had been thinking/had thought something")
+(Sometimes the Present infinitive is used as the representative of the Imperfect indicative, and thus is called by some grammarians the Imperfect Infinitive.)
+The Future Perfect indicative, a tense denoting a state of affairs completed in the future, and thus anterior to another state of affairs in the future, becomes (at least according to some grammarians) a circumlocution consisting of fore ut + perfect of pluperfect subjunctive, in accordance to the sequense of tenses at hand (a sort of substantive consecutive clause serving as subject of the infinitive fore). In the passive, the periphrastic infinitive -tus fore etc. is normally used.
+Cogitavero aliquid. ("I shall have thought something")
+Dixit fore ut cogita(vi)sset aliquid ("He said that he should have thought something")
+Urbs expugnata erit ("The city will have been captured")
+Dixit urbem expugnatam fore ("He said that the city would have been captured")
+Potential subjunctive is changed to some sort of periphrastic infinitive: present subjunctive becomes -urum esse or posse + present infinitive; imperfect and pluperfect subjunctive becomes -urum fuisse (the imperfect also rarely -urum esse).
+Urbem capiam ("I can/may capture the city.")
+Dixit se urbem capturum esse/posse capere ("He said that he might/could capture the city.")
+Urbem caperem ("I could/might capture the city; I could have captured the city.")
+Dixit se urbem capturum fuisse (or: se urbem capturum esse) ("He said that he might/could capture the city.")
+Urbem cepissem ("I could/might capture the city; I could have captured the city.")
+Dixit se urbem capturum fuisse ("He said that he could have captured the city.")
+An indirect question is expressed by changing the mood of the main verb from indicative to subjunctive (But in the case of rhetoric questions it is normal in some cases for the verb to be changed to the accusative plus infinitive, as if it were a real declarative statement in the direct speech ). It is normally appropriate to retain the word that introduces the question, but occasionally a relative pronoun or adverb may be used instead of an initially interrogative one. The tense of the subjunctive is controlled by the rules of the so called Sequence of Tenses, ie. it depends for its sequence on the tense of the matrix verb of asking, perceiving etc. by which the Indirect Question is introduced:
+1. Present indicative becomes present subjunctive after a primary tense (present, future, future perfect of primary perfect), but it becomes imperfect subjunctive after a secondary one (ie. after a tense of the past: imperfect, secondary perfect, pluperfect, and occasionally historic present)
+Quis hoc dubitat? ("Who doubts this one?")
+Interrogat quis (or: qui) hoc dubitet. ("He asks who doubts this.")
+Interrogabat quis (or: qui) hoc (or: illud) dubitaret. ("He asked who was doubting this (or: that).")
+2. Future indicative is formed into the periphrastic conjugation in -urus sim (present periphrastic subjunctive, used as the future subjunctive), or in -urus essem (imperfect periphrastic subjunctive).
+Quis hoc dubitabit? ("Who will doubt this one?")
+Interrogat quis (or: qui) hoc dubitaturus sit. ("He asks who will doubt this.")
+Interrogabat quis (or: qui) hoc (or: illud) dubitaturus esset. ("He asked who would doubt this (or: that).")
+Nevertheless, the use of present subjunctive after a primary tense and imperfect subjunctive after a secondary tense is also strongly attested, especially when the future reference is obvious from contextual parameters and in the case of a passive verb (passives luck the periphrastic conjugation -urus sim etc.).
+3. Imperfect, Perfect, Pluperfect and Future perfect indicative is put into the perfect or pluperfect subjunctive, after a primary and a secondary tense respectively.
+Quis hoc dubitabat/dubitavit/dubita(ve)rat/dubita(ve)rit? ("Who was doubting/doubted/had doubted/will have doubted this one?")
+Interrogat quis (or: qui) hoc dubita(ve)rit. ("He asks who was doubting/had doubted/will have doubted this.")
+Interrogabat quis (or: qui) hoc (or: illud) dubita(vi)sset. ("He asked who had been doubting/would have beeb doubting this (or: that).")
+Deliberative subjunctive (always in present tense in direct speech) is always retained in the indirect question. The tense of the direct form is not changed, unless the matrix verb's tense is a secondary one; in this case, present becomes imperfect. An initially secondary subjunctive, i.e. imperfect, is retained regardless of which tense the matrix verb is put into, either primary or secondary.
+Quid scribam? ("What am I to write?")
+Nescit quid scribat? ("He doesn't know what to white.")
+Nesciebat quid scriberet. ("He didn't know what to write.")
+Quid scriberem? ("What do yoy think I ought to have done?")
+Nescit/nesciebat quid scriberet.
+Potential subjunctive is retained also. Primary subjunctives are changed to the corresponding secondary ones; secondary ones never change. Nevertheless, the idea of possibility is not seldom expressed by means of two periphrases: a) -urus sim, essem, fuerim, fuissem, and b) some subjunctive tense of possum + present infinitive.
+Quis hoc dubitet? ("Who can doubt this one?")
+Interrogat quis (or: qui) hoc dubitet/dubitare possit. ("He asks who can doubt this.")
+Interrogabat quis (or: qui) hoc (or: illud) dubitaret/dubitare posset. ("He asked who could doubt this (or: that).")
+Quis hoc dubitaret/dubita(vi)sset? ("Who could doubt/could had doubted this one?")
+Interrogat quis (or: qui) hoc dubitaret/dubita(vi)sset/dubitaturus fuerit. ("He asks who could doubt/could had doubted this.")
+NOTE: A dependent clause in the indicative must also be put into the subjunctive when transferred to the indirect speech. Almost the same rules as stated above for the indirect questions hold for this case also. A good example could be the following conditional sentence:
+Simple present particular conditional (present indicative in the protasis and the apodosis):
+Si id credis, erras ("If you believe that, you are wrong.")
+Dicit te, si id credas, errare ("He says that if you believe that, you are wrong.")
+Dixit te, si id crederes, errare. ("He said that if you believed that, you were wrong.")
+Unreal present conditional (imperfect subjunctive in the protasis and the apodosis; unreal imperfect subjunctive remains unchanged in the protasis, unreal imperfect subjunctive becomes infinitive -urum fuisse in the apodosis):
+Si id crederes, errares ("If you believed that, you would be wrong.")
+Dicit/dixit te, si id crederes, erraturum fuisse ("He says/said that if you believed that, you would be wrong.")
+Vivid future conditional (future perfect indicative in the protasis, direct question with future indicative in the apodosis; protasis is changed to perfect or pluperfect subjunctive, according to the rules of the Sequence of tenses; apodosis similarly is changed to indirect question with the periphrastic -usus sim/essem):
+Cur, si id credideris, errabis? ("Why, if you believe that, will you be wrong?")
+Iterrogat cur, si id credideris, erraturus sis.("He asks why, if you believe that, you will be wrong.")
+Interrogavit cur, si id credidisses, erraturus esses. ("He asked why, if you would believed that, you would be wrong.")
+In Russian and many other Slavic languages, indirect speech uses the same verb tense as would have been used in the original sentence. For example:
+Я не люблю шоколад. ("I don't like chocolate")
+Она сказала, что не любит шоколад. ("She said that she didn't like chocolate", literally "She said (that) she doesn't like chocolate")
+Reported Speech Converter - an online tool which converts direct speech into indirect speech

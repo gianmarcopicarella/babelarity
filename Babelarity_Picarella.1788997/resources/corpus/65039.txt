@@ -1,0 +1,265 @@
+In physics and mathematics, two-dimensional space or bi-dimensional space is a geometric model of the planar projection of the physical universe. The two dimensions are commonly called length and width. Both directions lie in the same plane.
+A sequence of n real numbers can be understood as a location in n-dimensional space. When n = 2, the set of all such locations is called two-dimensional space or bi-dimensional space, and usually is thought of as a Euclidean space.
+Books I through IV and VI of Euclid's Elements dealt with two-dimensional geometry, developing such notions as similarity of shapes, the Pythagorean theorem (Proposition 47), equality of angles and areas, parallelism, the sum of the angles in a triangle, and the three cases in which triangles are "equal" (have the same area), among many other topics.
+Later, the plane was described in a so-called Cartesian coordinate system, a coordinate system that specifies each point uniquely in a plane by a pair of numerical coordinates, which are the signed distances from the point to two fixed perpendicular directed lines, measured in the same unit of length. Each reference line is called a coordinate axis or just axis of the system, and the point where they meet is its origin, usually at ordered pair (0, 0). The coordinates can also be defined as the positions of the perpendicular projections of the point onto the two axes, expressed as signed distances from the origin.
+The idea of this system was developed in 1637 in writings by Descartes and independently by Pierre de Fermat, although Fermat also worked in three dimensions, and did not publish the discovery. Both authors used a single axis in their treatments and have a variable length measured in reference to this axis. The concept of using a pair of axes was introduced later, after Descartes' La Géométrie was translated into Latin in 1649 by Frans van Schooten and his students. These commentators introduced several concepts while trying to clarify the ideas contained in Descartes' work.
+Later, the plane was thought of as a field, where any two points could be multiplied and, except for 0, divided. This was known as the complex plane. The complex plane is sometimes called the Argand plane because it is used in Argand diagrams. These are named after Jean-Robert Argand (1768–1822), although they were first described by Norwegian-Danish land surveyor and mathematician Caspar Wessel (1745–1818). Argand diagrams are frequently used to plot the positions of the poles and zeroes of a function in the complex plane.
+In mathematics, analytic geometry (also called Cartesian geometry) describes every point in two-dimensional space by means of two coordinates. Two perpendicular coordinate axes are given which cross each other at the origin. They are usually labeled x and y. Relative to these axes, the position of any point in two-dimensional space is given by an ordered pair of real numbers, each number giving the distance of that point from the origin measured along the given axis, which is equal to the distance of that point from the other axis.
+Another widely used coordinate system is the polar coordinate system, which specifies a point in terms of its distance from the origin and its angle relative to a rightward reference ray.
+In two dimensions, there are infinitely many polytopes: the polygons. The first few regular ones are shown below:
+The Schläfli symbol {p} represents a regular p-gon.
+The regular henagon {1} and regular digon {2} can be considered degenerate regular polygons. They can exist nondegenerately in non-Euclidean spaces like on a 2-sphere or a 2-torus.
+There exist infinitely many non-convex regular polytopes in two dimensions, whose Schläfli symbols consist of rational numbers {n/m}. They are called star polygons and share the same vertex arrangements of the convex regular polygons.
+In general, for any natural number n, there are n-pointed non-convex regular polygonal stars with Schläfli symbols {n/m} for all m such that m < n/2 (strictly speaking {n/m} = {n/(n − m)}) and m and n are coprime.
+The hypersphere in 2 dimensions is a circle, sometimes called a 1-sphere (S1) because it is an one-dimensional manifold. In a Euclidean plane, it has the length 2πr and the area of its interior is
+        A
+        =
+        π
+          r
+            2
+    {\displaystyle A=\pi r^{2}}
+where 
+        r
+    {\displaystyle r}
+   is the radius.
+There are an infinitude of other curved shapes in two dimensions, notably including the conic sections: the ellipse, the parabola, and the hyperbola.
+Another mathematical way of viewing two-dimensional space is found in linear algebra, where the idea of independence is crucial. The plane has two dimensions because the length of a rectangle is independent of its width. In the technical language of linear algebra, the plane is two-dimensional because every point in the plane can be described by a linear combination of two independent vectors.
+The dot product of two vectors A = [A1, A2] and B = [B1, B2] is defined as:
+          A
+        ⋅
+          B
+        =
+          A
+            1
+          B
+            1
+        +
+          A
+            2
+          B
+            2
+    {\displaystyle \mathbf {A} \cdot \mathbf {B} =A_{1}B_{1}+A_{2}B_{2}}
+A vector can be pictured as an arrow. Its magnitude is its length, and its direction is the direction the arrow points. The magnitude of a vector A is denoted by 
+        ∥
+          A
+        ∥
+    {\displaystyle \|\mathbf {A} \|}
+  . In this viewpoint, the dot product of two Euclidean vectors A and B is defined by
+          A
+        ⋅
+          B
+        =
+        ∥
+          A
+        ∥
+        ∥
+          B
+        ∥
+        cos
+        ⁡
+        θ
+        ,
+    {\displaystyle \mathbf {A} \cdot \mathbf {B} =\|\mathbf {A} \|\,\|\mathbf {B} \|\cos \theta ,}
+where θ is the angle between A and B.
+The dot product of a vector A by itself is
+          A
+        ⋅
+          A
+        =
+        ∥
+          A
+          ∥
+            2
+        ,
+    {\displaystyle \mathbf {A} \cdot \mathbf {A} =\|\mathbf {A} \|^{2},}
+which gives
+        ∥
+          A
+        ∥
+        =
+              A
+            ⋅
+              A
+        ,
+    {\displaystyle \|\mathbf {A} \|={\sqrt {\mathbf {A} \cdot \mathbf {A} }},}
+the formula for the Euclidean length of the vector.
+In a rectangular coordinate system, the gradient is given by
+        ∇
+        f
+        =
+              ∂
+              f
+              ∂
+              x
+          i
+        +
+              ∂
+              f
+              ∂
+              y
+          j
+    {\displaystyle \nabla f={\frac {\partial f}{\partial x}}\mathbf {i} +{\frac {\partial f}{\partial y}}\mathbf {j} }
+For some scalar field f : U ⊆ R2 → R, the line integral along a piecewise smooth curve C ⊂ U is defined as
+          ∫
+            C
+        f
+        d
+        s
+        =
+          ∫
+            a
+            b
+        f
+        (
+          r
+        (
+        t
+        )
+        )
+          |
+            r
+          ′
+        (
+        t
+        )
+          |
+        d
+        t
+        .
+    {\displaystyle \int \limits _{C}f\,ds=\int _{a}^{b}f(\mathbf {r} (t))|\mathbf {r} '(t)|\,dt.}
+where r: [a, b] → C is an arbitrary bijective parametrization of the curve C such that r(a) and r(b) give the endpoints of C and 
+        a
+        <
+        b
+    {\displaystyle a<b}
+  .
+For a vector field F : U ⊆ R2 → R2, the line integral along a piecewise smooth curve C ⊂ U, in the direction of r, is defined as
+          ∫
+            C
+          F
+        (
+          r
+        )
+        ⋅
+        d
+          r
+        =
+          ∫
+            a
+            b
+          F
+        (
+          r
+        (
+        t
+        )
+        )
+        ⋅
+            r
+          ′
+        (
+        t
+        )
+        d
+        t
+        .
+    {\displaystyle \int \limits _{C}\mathbf {F} (\mathbf {r} )\cdot \,d\mathbf {r} =\int _{a}^{b}\mathbf {F} (\mathbf {r} (t))\cdot \mathbf {r} '(t)\,dt.}
+where · is the dot product and r: [a, b] → C is a bijective parametrization of the curve C such that r(a) and r(b) give the endpoints of C.
+A double integral refers to an integral within a region D in R2 of a function 
+        f
+        (
+        x
+        ,
+        y
+        )
+        ,
+    {\displaystyle f(x,y),}
+   and is usually written as:
+          ∬
+            D
+        f
+        (
+        x
+        ,
+        y
+        )
+        d
+        x
+        d
+        y
+        .
+    {\displaystyle \iint \limits _{D}f(x,y)\,dx\,dy.}
+The fundamental theorem of line integrals, says that a line integral through a gradient field can be evaluated by evaluating the original scalar field at the endpoints of the curve.
+Let 
+        φ
+        :
+        U
+        ⊆
+            R
+            2
+        →
+          R
+    {\displaystyle \varphi :U\subseteq \mathbb {R} ^{2}\to \mathbb {R} }
+  . Then
+        φ
+          (
+            q
+          )
+        −
+        φ
+          (
+            p
+          )
+        =
+          ∫
+            γ
+            [
+              p
+            ,
+              q
+            ]
+        ∇
+        φ
+        (
+          r
+        )
+        ⋅
+        d
+          r
+        .
+    {\displaystyle \varphi \left(\mathbf {q} \right)-\varphi \left(\mathbf {p} \right)=\int _{\gamma [\mathbf {p} ,\,\mathbf {q} ]}\nabla \varphi (\mathbf {r} )\cdot d\mathbf {r} .}
+Let C be a positively oriented, piecewise smooth, simple closed curve in a plane, and let D be the region bounded by C. If L and M are functions of (x, y) defined on an open region containing D and have continuous partial derivatives there, then
+          ∮
+            C
+        (
+        L
+        d
+        x
+        +
+        M
+        d
+        y
+        )
+        =
+          ∬
+            D
+          (
+                ∂
+                M
+                ∂
+                x
+          −
+                ∂
+                L
+                ∂
+                y
+          )
+        d
+        x
+        d
+        y
+    {\displaystyle \oint _{C}(L\,dx+M\,dy)=\iint _{D}\left({\frac {\partial M}{\partial x}}-{\frac {\partial L}{\partial y}}\right)\,dx\,dy}
+where the path of integration along C is counterclockwise.
+In topology, the plane is characterized as being the unique contractible 2-manifold.
+Its dimension is characterized by the fact that removing a point from the plane leaves a space that is connected, but not simply connected.
+In graph theory, a planar graph is a graph that can be embedded in the plane, i.e., it can be drawn on the plane in such a way that its edges intersect only at their endpoints. In other words, it can be drawn in such a way that no edges cross each other. Such a drawing is called a plane graph or planar embedding of the graph. A plane graph can be defined as a planar graph with a mapping from every node to a point on a plane, and from every edge to a plane curve on that plane, such that the extreme points of each curve are the points mapped from its end nodes, and all curves are disjoint except on their extreme points.

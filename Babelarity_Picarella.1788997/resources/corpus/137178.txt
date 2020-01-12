@@ -1,0 +1,30 @@
+The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of active ingredients of drugs according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. It is controlled by the World Health Organization Collaborating Centre for Drug Statistics Methodology (WHOCC), and was first published in 1976.
+This pharmaceutical coding system divides drugs into different groups according to the organ or system on which they act and/or their therapeutic and chemical characteristics. Each bottom-level ATC code stands for a pharmaceutically used substance, or a combination of substances, in a single indication (or use). This means that one drug can have more than one code: acetylsalicylic acid (aspirin), for example, has A01AD05 (WHO) as a drug for local oral treatment, B01AC06 (WHO) as a platelet inhibitor, and N02BA01 (WHO) as an analgesic and antipyretic. On the other hand, several different brands share the same code if they have the same active substance and indications.
+In this system, drugs are classified into groups at 5 different levels:
+The first level of the code indicates the anatomical main group and consists of one letter. There are 14 main groups:
+Example: C Cardiovascular system
+The second level of the code indicates the therapeutic main group and consists of two digits.
+Example: C03 Diuretics
+The third level of the code indicates the therapeutic/pharmacological subgroup and consists of one letter.
+Example: C03C High-ceiling diuretics
+The fourth level of the code indicates the chemical/therapeutic/pharmacological subgroup and consists of one letter.
+Example: C03CA Sulfonamides
+The fifth level of the code indicates the chemical substance and consists of two digits.
+Example: C03CA01 Furosemide
+The Anatomical Therapeutic Chemical Classification System for veterinary medicinal products (ATCvet) is used to classify veterinary drugs. ATCvet codes can be created by placing the letter Q in front of the ATC code of most human medications. For example, furosemide for veterinary use has the code QC03CA01.
+Some codes are used exclusively for veterinary drugs, such as QI Immunologicals, QJ51 Antibacterials for intramammary use or QN05AX90 amperozide.
+The ATC system also includes defined daily doses (DDDs) for many drugs. This is a measurement of drug consumption based on the usual daily dose for a given drug. According to the definition, "[t]he DDD is the assumed average maintenance dose per day for a drug used for its main indication in adults."
+National issues of the ATC classification, such as the German Anatomisch-therapeutisch-chemische Klassifikation mit Tagesdosen, may include additional codes and DDDs not present in the WHO version.
+ATC follows guidelines  in creating new codes for newly approved drugs. In order to create a new ATC code, an application has to be sent to ATC. New ATC codes are published twice annually. A formal release of new ATC edition occurs once a year.
+Classification of Pharmaco-Therapeutic Referrals (CPR)
+Family medicine / Family practice
+General practice
+ICD-10 International Classification of Diseases
+International Classification of Primary Care (ICPC-2) / ICPC-2 PLUS
+Medical classification
+Pharmaceutical care
+Pharmacist / Pharmacy
+Pharmacotherapy
+Primary care
+Referral (medicine)
+RxNorm

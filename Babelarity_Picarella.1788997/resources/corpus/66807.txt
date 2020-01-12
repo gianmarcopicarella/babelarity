@@ -1,0 +1,328 @@
+In economics, real value is relative to other commodities or goods. It is adjusted for inflation, enabling comparison of quantities as if prices had not changed. Changes in real terms therefore exclude the effect of inflation. In contrast with real value, nominal value is not adjusted for inflation, and so increases in nominal value reflect the effect of inflation.
+A representative collection of goods, or commodity bundle, is used for comparison purposes, to measure inflation. The nominal (unadjusted) value of the commodity bundle in a given year depends on prices current at the time, whereas the real value of the commodity bundle, if it is truly representative, remains the same. The real value of individual goods or commodities may rise or fall against each other, in relative terms, but a representative commodity bundle as a whole retains its real value as a constant over time.
+A price index is calculated relative to a base year. Indices are typically normalized at 100 in the base year. Starting from a base (or reference) year, a price index Pt represents the price of the commodity bundle over time t. In base year zero, P0 is set to 100. If for example the base year is 1992, real values are expressed in constant 1992 dollars, based at 100 for 1992. Also imagine for example, that the price of the commodity bundle has increased in the first year by 1%, then Pt rises from P0 = 100 to P1 = 101.
+The inflation rate 
+          i
+            t
+    {\displaystyle i_{t}}
+   between year t - 1 and year t is:
+change in price / price in year t - 1
+        =
+                P
+                  t
+              −
+                P
+                  t
+                  −
+                  1
+              P
+                t
+                −
+                1
+    {\displaystyle ={\frac {P_{t}-P_{t-1}}{P_{t-1}}}}
+        =
+              P
+                t
+              P
+                t
+                −
+                1
+        −
+        1
+    {\displaystyle ={\frac {P_{t}}{P_{t-1}}}-1}
+The price index is applied to adjust the nominal value of a quantity, such as wages or total production, to obtain its real value. The real value is the value expressed in terms of purchasing power in the base year.
+The index price divided by its base-year value 
+          P
+            t
+          /
+          P
+            0
+    {\displaystyle P_{t}/P_{0}}
+   gives the growth factor of the price index.
+Real values can be found by dividing the nominal value by the growth factor of a price index. Using the price index growth factor as a divisor for converting a nominal value into a real value, the real value in year t relative to the index Pt is:
+                P
+                  0
+              ⋅
+                Q
+                  t
+              P
+                t
+    {\displaystyle {\frac {P_{0}\cdot Q_{t}}{P_{t}}}}
+The real growth rate 
+          r
+            t
+    {\displaystyle r_{t}}
+   is the change from one period to the next of a nominal quantity 
+          Q
+            t
+    {\displaystyle Q_{t}}
+   in real terms. It measures by how much the buying power of the quantity has changed.
+          r
+            t
+        =
+                P
+                  0
+              ⋅
+                Q
+                  t
+              P
+                t
+          /
+                P
+                  0
+              ⋅
+                Q
+                  t
+                  −
+                  1
+              P
+                t
+                −
+                1
+        −
+        1
+    {\displaystyle r_{t}={\frac {P_{0}\cdot Q_{t}}{P_{t}}}/{\frac {P_{0}\cdot Q_{t-1}}{P_{t-1}}}-1}
+        =
+                P
+                  t
+                  −
+                  1
+              ⋅
+                Q
+                  t
+                P
+                  t
+              ⋅
+                Q
+                  t
+                  −
+                  1
+        −
+        1
+    {\displaystyle ={\frac {P_{t-1}\cdot Q_{t}}{P_{t}\cdot Q_{t-1}}}-1}
+        =
+              Q
+                t
+              Q
+                t
+                −
+                1
+          /
+              P
+                t
+              P
+                t
+                −
+                1
+        −
+        1
+    {\displaystyle ={\frac {Q_{t}}{Q_{t-1}}}/{\frac {P_{t}}{P_{t-1}}}-1}
+        =
+              1
+              +
+                g
+                  t
+              1
+              +
+                i
+                  t
+        −
+        1
+    {\displaystyle ={\frac {1+g_{t}}{1+i_{t}}}-1}
+where:
+          g
+            t
+    {\displaystyle g_{t}}
+   is the nominal growth rate of 
+          Q
+            t
+    {\displaystyle Q_{t}}
+  ,
+and:
+          i
+            t
+    {\displaystyle i_{t}}
+   is the inflation rate.
+        1
+        +
+          r
+            t
+        =
+              1
+              +
+                g
+                  t
+              1
+              +
+                i
+                  t
+    {\displaystyle 1+r_{t}={\frac {1+g_{t}}{1+i_{t}}}}
+For values of 
+          i
+            t
+    {\displaystyle i_{t}}
+   between -1 and 1, we have the Taylor series
+        (
+        1
+        +
+          i
+            t
+          )
+            −
+            1
+        =
+        1
+        −
+          i
+            t
+        +
+          i
+            t
+            2
+        −
+          i
+            t
+            3
+        +
+        .
+        .
+        .
+    {\displaystyle (1+i_{t})^{-1}=1-i_{t}+i_{t}^{2}-i_{t}^{3}+...}
+so
+        1
+        +
+          r
+            t
+        =
+        (
+        1
+        +
+          g
+            t
+        )
+        (
+        1
+        −
+          i
+            t
+        +
+          i
+            t
+            2
+        −
+          i
+            t
+            3
+        +
+        .
+        .
+        .
+        )
+    {\displaystyle 1+r_{t}=(1+g_{t})(1-i_{t}+i_{t}^{2}-i_{t}^{3}+...)}
+        =
+        1
+        +
+          g
+            t
+        −
+          i
+            t
+        −
+          g
+            t
+          i
+            t
+        +
+          i
+            t
+            2
+        +
+          higher order terms.
+    {\displaystyle =1+g_{t}-i_{t}-g_{t}i_{t}+i_{t}^{2}+{\text{higher order terms.}}}
+Hence as a first-order (i.e. linear) approximation,
+          r
+            t
+        =
+          g
+            t
+        −
+          i
+            t
+    {\displaystyle r_{t}=g_{t}-i_{t}}
+The bundle of goods used to measure the Consumer Price Index (CPI) is applicable to consumers. So for wage earners as consumers, an appropriate way to measure real wages is to divide the nominal wage (after-tax) by the growth factor in the CPI.
+Gross domestic product (GDP) is a measure of aggregate output. Nominal GDP in a particular period reflects prices which were current at the time, whereas real GDP compensates for inflation. Price indices and the U.S. National Income and Product Accounts are constructed from bundles of commodities and their respective prices. In the case of GDP, a suitable price index is the GDP price index. In the U.S. National Income and Product Accounts, nominal GDP is called GDP in current dollars (that is, in prices current for each designated year), and real GDP is called GDP in [base-year] dollars (that is, in dollars that can purchase the same quantity of commodities as in the base year).
+As was shown in the section above on real growth rate,
+        1
+        +
+          r
+            t
+        =
+              1
+              +
+                g
+                  t
+              1
+              +
+                i
+                  t
+    {\displaystyle 1+r_{t}={\frac {1+g_{t}}{1+i_{t}}}}
+where
+          r
+            t
+    {\displaystyle r_{t}}
+   is the rate of increase of a quantity in real terms,
+          g
+            t
+    {\displaystyle g_{t}}
+   is the rate of increase of the same quantity in nominal terms, and
+          i
+            t
+    {\displaystyle i_{t}}
+   is the rate of inflation,
+and as a first-order approximation,
+          r
+            t
+        =
+          g
+            t
+        −
+          i
+            t
+    {\displaystyle r_{t}=g_{t}-i_{t}}
+In the case where 
+          g
+            t
+    {\displaystyle g_{t}}
+   is a (nominal) rate of interest, and 
+          r
+            t
+    {\displaystyle r_{t}}
+   is the corresponding real interest rate, this first-order approximation 
+          r
+            t
+        =
+          g
+            t
+        −
+          i
+            t
+    {\displaystyle r_{t}=g_{t}-i_{t}}
+   is known as the Fisher equation.
+Looking back into the past, the ex post real interest rate is approximately the historical nominal interest rate minus inflation. Looking forward into the future, the expected real interest rate is approximately the nominal interest rate minus the expected inflation rate.
+Not only time-series data, as above, but also cross-section data which depends on prices which may vary geographically for example, can be adjusted in a similar way. For example, the total value of a good produced in a region of a country depends on both the amount and the price. To compare the output of different regions, the nominal output in a region can be adjusted by repricing the goods at common or average prices.
+Aggregation problem
+Classical dichotomy
+Constant Item Purchasing Power Accounting
+Cost-of-living index
+Deflation
+Financial repression
+Index (economics)
+Inflation
+Inflation accounting
+Interest
+Money illusion
+National accounts
+Neutrality of money
+Numéraire
+Real interest rate
+Real prices and ideal prices

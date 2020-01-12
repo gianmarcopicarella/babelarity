@@ -1,0 +1,35 @@
+The Basmala (Arabic: بسملة‎‎ basmala), also known by its incipit Bismillah (Arabic: بسم الله‎‎, "In the name of God") is the name of the Islamic phrase b-ismi-llāhi r-raḥmāni r-raḥīmi بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ "In the name of God, the Most Gracious, the Most Merciful".
+This is the phrase recited before each sura (chapter) of the Qur'an – except for the ninth. It is used by Muslims in various contexts (for instance, during daily prayer) and is used in over half of the constitutions of countries where Islam is the official religion or more than half of the population follows Islam, usually the first phrase in the preamble, including those of Afghanistan, Bahrain, Bangladesh, Brunei, Egypt, Iran, Iraq, Kuwait, Libya, Maldives, Pakistan, Tunisia, and the United Arab Emirates.
+In Arabic calligraphy, the Basmala is the most prevalent motif, even more so than the Shahadah.
+In Unicode, the Basmala is encoded as one ligature at codepoint U+FDFD ﷽‎ in the Arabic Presentation Forms-A block.
+The word basmala was derived from a slightly unusual procedure, in which the first four pronounced consonants of the phrase bismi-llāhi... were used as a quadriliteral consonantal root: b-s-m-l (ب س م ل). This abstract consonantal root was used to derive the noun basmala and its related verb forms, meaning "to recite the basmala". Other oft-repeated phrases in Islam given their own names include "Allāhu Akbar" (الله أكبر, called the Takbir and usually translated as "God is [the] Greatest" or "God is Great") and the phrase beginning "A`ūdhu billāhi..." called the Ta'awwudh. The method of coining a quadriliteral name from the consonants of a phrase is paralleled by the name Hamdala for Alhamdulillah.
+Recitation of the Basmala is known as tasmiyya (تسمية).
+According to Lane, ar-raḥmān has the more intensive meaning, taken to include as objects of "sympathy" both the believer and the unbeliever, and may therefore be rendered as "the Compassionate"; ar-raḥīm, on the other hand, is taken to include as objects the believer in particular, may be rendered as "the Merciful" (considered as expressive of a constant attribute).
+In the Qur'an, the Basmala is usually numbered as the first verse of the first sura, but, according to the view adopted by Al-Tabari, it precedes the first verse. Apart from the ninth sura ("At-Tawba"), it occurs at the beginning of each subsequent sura of the Qur'an and is usually not numbered as a verse except at its first appearance at the start of the first sura. The Basmala occurs as part of a sura's text in verse 30 of the 27th sura ("An-Naml"), where it prefaces a letter from Sulayman to Bilqis, the Queen of Sheba.
+The Basmala is used extensively in everyday Muslim life, said as the opening of each action in order to receive blessing from God. Reciting the Basmala is a necessary requirement in the preparation of halal food.
+In the Indian subcontinent, a Bismillah ceremony is held for a child's initiation into Islam.
+The three definite nouns of the Basmala—Allah, ar-Rahman and ar-Rahim—correspond to the first three of the traditional 99 names of God in Islam. Both ar-Rahman and ar-Rahim are from the same triliteral root R-Ḥ-M, "to feel sympathy, or pity".
+The Basmala has a special significance for Muslims, who are to begin each task after reciting the verse. It is often preceded by Ta'awwudh.
+There are several ahadith encouraging Muslims to recite it before eating and drinking. For example:
+Jabir reported: I heard Messenger of Allah (saw) saying, "If a person mentions the Name of Allah upon entering his house or eating, Satan says, addressing his followers: 'You will find nowhere to spend the night and no dinner.' But if he enters without mentioning the Name of Allah, Satan says (to his followers); 'You have found (a place) to spend the night in, and if he does not mention the Name of Allah at the time of eating, Satan says: 'You have found (a place) to spend the night in as well as food."' — From Muslim
+Aisha reported: "The Prophet said, “When any of you wants to eat, he should mention the Name of God in the beginning (Bismillah). If he forgets to do it in the beginning, he should say Bismillah awwalahu wa akhirahu (I begin with the Name of God at the beginning and at the end)".— From At-Tirmidhi and Abu Dawud
+Umaiyyah bin Makshi reported: "The Prophet was sitting while a man was eating food. That man did not mention the Name of God till only a morsel of food was left. When he raised it to his mouth, he said, Bismillah awwalahu wa akhirahu. The Prophet smiled at this and said, “Satan had been eating with him but when he mentioned the Name of God, Satan vomited all that was in his stomach" — From Abu Dawud and Al-Nasa'i
+Wahshi bin Harb reported: "Some of the Sahaba of the Prophet said, "We eat but are not satisfied." He said, "Perhaps you eat separately." The Sahaba replied in the affirmative. He then said, "Eat together and mention the Name of God over your food. It will be blessed for you". — From Abu Dawood
+According to a Tradition, Muhammad said:
+"All that is contained in the revealed books is to be found in the Qur’an and all that is contained in the Qur’an is summed up in the surat al-fatihah (‘The opening one’) while this is in its turn contained in the formula Bismillahi-r-Rahmani-r-Rahim (‘In the name of God, the Compassionate, the Merciful’)."
+A tradition ascribed to Imam Ali states:
+"The basmalah is in essence contained in the first letter, Ba, and this again in its diacritical point, which thus symbolizes principal Unity."
+In a commentary on the Basmala in his Tafsir al-Tabari, al-Tabari writes:
+“The Messenger of Allah (the peace and blessings of Allah be upon him) said that Jesus was handed by his mother Mary over to a school in order that he might be taught. [The teacher] said to him: ‘Write “Bism (In the name of)”.’ And Jesus said to him: ‘What is “Bism”?’ The teacher said: ‘I do not know.’ Jesus said: ‘The “Ba” is Baha’u'llah (the glory of Allah), the “Sin” is His Sana’ (radiance), and the “Mim” is His Mamlakah (sovereignty).”
+The total value of the letters of Bismillah al-Rahman al-Rahim, according to the standard Abjadi system of numerology, is 786. This number has therefore acquired a significance in folk Islam and Near Eastern folk magic. A recommendation of reciting the basmala 786 times in sequence is recorded in Al-Buni. Sündermann (2006) reports the recommendation of a contemporary "spiritual healer" from Syria recommends the recitation of the basmala 786 times over a cup of water, which is then to be ingested as medicine.
+It has also become common to abbreviate the phrase by typing "786", especially in online communication, and especially among South Asian Muslims.
+Arabic-speaking Christians sometimes use the name Basmala to refer to the Christian Trinitarian formula "In the name of the Father, the Son and the Holy Spirit" (باسم الآب والابن والروح القدس bismi-l-’ābi wa-l-ibni wa-r-rūḥi l-qudusi) from Matthew 28:19.
+List of Christian terms in Arabic
+List of Islamic terms in Arabic
+"Al-Fatiha"
+Besiyata Dishmaya
+Deus vult
+Insha'Allah
+Names of God in Islam
+Shahada
+Six Kalimas

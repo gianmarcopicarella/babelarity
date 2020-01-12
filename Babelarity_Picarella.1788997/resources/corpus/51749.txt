@@ -1,0 +1,43 @@
+Adobe Premiere Pro is a timeline-based video editing software application. It is part of the Adobe Creative Cloud, which includes video editing, graphic design, and web development programs.
+Premiere Pro is used by broadcasters such as the BBC and CNN. It has been used to edit feature films, such as Gone Girl, Captain Abu Raed, and Monsters, and other venues such as Madonna's Confessions Tour.
+Premiere Pro is the redesigned successor to Adobe Premiere, and was launched in 2003. Premiere Pro refers to versions released in 2003 and later, whereas Premiere refers to the earlier releases. Premiere was one of the first computer-based NLEs (non-linear editing system), with its first release on Mac in 1991. Up until version Premiere Pro 2.0 (CS2), the software packaging featured a galloping horse, in a nod to Eadweard Muybridge's work, "Sallie Gardner at a Gallop".
+Premiere Pro supports high resolution video editing at up to 10,240 × 8,192 resolution, at up to 32-bits per channel color, in both RGB and YUV. Audio sample-level editing, VST audio plug-in support, and 5.1 surround sound mixing are available. Premiere Pro's plug-in architecture enables it to import and export formats beyond those supported by QuickTime or DirectShow, supporting a wide variety of video and audio file formats and codecs on both MacOS and Windows. When used with Cineform's Neo line of plug-ins, it supports 3D editing with the ability to view 3D material using 2D monitors, while making individual left and right eye adjustments.
+After Effects
+Through Adobe Dynamic Link, compositions from Adobe After Effects may be imported and played back directly on the Premiere Pro timeline. The After Effects composition can be modified, and after switching back to Premiere Pro, the clip will update with the changes. Likewise, Premiere Pro projects can be imported into After Effects. Clips can be copied between the two applications while preserving clip attributes. Premiere Pro also supports many After Effects plug-ins.
+Photoshop
+Adobe Photoshop files can be opened directly from Premiere Pro to be edited in Photoshop. Any changes will immediately be updated when the Photoshop file is saved and focus returns to Premiere Pro.
+Adobe Story, OnLocation and Prelude
+The Premiere Pro workflow takes advantage of metadata in the script of a video production. The script is created in or brought into Adobe Story, then passed to Adobe OnLocation to capture footage and attach any relevant metadata from the script to that footage. Finally, in Premiere Pro, speech recognition can match the audio to the dialogue from the script in the metadata. Clips can be searched based on their dialogue in Premiere Pro, and can be sent to Adobe Encore to make searchable web DVDs. Adobe Prelude replaces OnLocation in CS6 and above.
+Others
+There are other integration functions, such as Edit in Adobe Audition, Dynamic Link to Encore, and Reveal in Adobe Bridge.
+An entry-level version, Adobe Premiere Elements is aimed at home users available on Microsoft Windows and Mac OS X. With Premiere Pro aimed at the professional market, it has advantages over Premiere Elements including multiple sequence support, high bit-depth rendering, multicamera editing, time remapping, scopes, color correction tools, advanced audio mixer interface, and bezier keyframing. Premiere Pro also has Encore, for more elaborate DVD and Blu-ray Disc authoring options, and OnLocation for direct-to-disk recording. Encore was discontinued with the release of Adobe Creative Cloud.
+13 (by Burton Snowboards)
+A Liar's Autobiography
+Captain Abu Raed
+Dust to Glory
+Gone Girl
+Monsters
+TimeScapes
+Red Obsession
+Sharknado 2: The Second One
+Staten Island Summer
+Superman Returns (for the video capture process)
+The Social Network (only conforming)
+Ticket to Ride (by Warren Miller Entertainment)
+Waiting for Lightning
+Wayland's Song
+We Will Part
+World War II from Space
+Hugo (only VFX work)
+The Tourist
+Act of Valor
+Avatar (daily and basic edits in conjunction with Avid)
+Thunderbirds Are Go
+Deadpool 
+Hail, Caesar! 
+Adobe Premiere Elements
+Adobe Premiere Express
+Adobe Creative Suite
+Creative Cloud controversy
+List of video editing software
+Comparison of video editing software

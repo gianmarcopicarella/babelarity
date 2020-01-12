@@ -1,0 +1,117 @@
+In quantum mechanics, the Pauli equation or Schrödinger–Pauli equation is the formulation of the Schrödinger equation for spin-½ particles, which takes into account the interaction of the particle's spin with an external electromagnetic field. It is the non-relativistic limit of the Dirac equation and can be used where particles are moving at speeds much less than the speed of light, so that relativistic effects can be neglected. It was formulated by Wolfgang Pauli in 1927.
+For a particle of mass m and charge q, in an electromagnetic field described by the vector potential A = (Ax, Ay, Az) and scalar electric potential ϕ, the Pauli equation reads:
+where σ = (σx, σy, σz) are the Pauli matrices collected into a vector for convenience, p = −iħ∇ is the momentum operator wherein ∇ denotes the gradient operator, and
+          |
+        ψ
+        ⟩
+        =
+            (
+                    ψ
+                      +
+                    ψ
+                      −
+            )
+    {\displaystyle |\psi \rangle ={\begin{pmatrix}\psi _{+}\\\psi _{-}\end{pmatrix}}}
+is the two-component spinor wavefunction, a column vector written in Dirac notation.
+The Hamiltonian operator
+              H
+              ^
+        =
+            1
+              2
+              m
+        (
+          σ
+        ⋅
+        (
+          p
+        −
+        q
+          A
+        )
+          )
+            2
+        +
+        q
+        ϕ
+    {\displaystyle {\hat {H}}={\frac {1}{2m}}({\boldsymbol {\sigma }}\cdot (\mathbf {p} -q\mathbf {A} ))^{2}+q\phi }
+is a 2 × 2 matrix operator, because of the Pauli matrices. Substitution into the Schrödinger equation gives the Pauli equation. This Hamiltonian is similar to the classical Hamiltonian for a charged particle interacting with an electromagnetic field, see Lorentz force for details of this classical case. The kinetic energy term for a free particle in the absence of an electromagnetic field is just p2/2m where p is the kinetic momentum, while in the presence of an EM field we have the minimal coupling p = P − qA, where P is the canonical momentum.
+The Pauli matrices can be removed from the kinetic energy term, using the Pauli vector identity:
+        (
+          σ
+        ⋅
+          a
+        )
+        (
+          σ
+        ⋅
+          b
+        )
+        =
+          a
+        ⋅
+          b
+        +
+        i
+          σ
+        ⋅
+          (
+            a
+          ×
+            b
+          )
+    {\displaystyle ({\boldsymbol {\sigma }}\cdot \mathbf {a} )({\boldsymbol {\sigma }}\cdot \mathbf {b} )=\mathbf {a} \cdot \mathbf {b} +i{\boldsymbol {\sigma }}\cdot \left(\mathbf {a} \times \mathbf {b} \right)}
+to obtain
+where B = ∇ × A is the magnetic field.
+The Pauli equation is non-relativistic, but it does incorporate spin. As such, it can be thought of as occupying the middle ground between:
+The familiar Schrödinger equation (on a complex scalar wavefunction), which is non-relativistic and does not predict spin.
+The Dirac equation (on a complex four-component spinor), which is fully relativistic (with respect to special relativity) and predicts spin.
+Note that because of the properties of the Pauli matrices, if the magnetic vector potential A is equal to zero, then the equation reduces to the familiar Schrödinger equation for a particle in a purely electric potential ϕ, except that it operates on a two-component spinor:
+          [
+                  p
+                  2
+                2
+                m
+          +
+          q
+          ϕ
+          ]
+            (
+                    ψ
+                      +
+                    ψ
+                      −
+            )
+        =
+        i
+        ℏ
+            ∂
+              ∂
+              t
+            (
+                    ψ
+                      +
+                    ψ
+                      −
+            )
+        .
+    {\displaystyle \left[{\frac {\mathbf {p} ^{2}}{2m}}+q\phi \right]{\begin{pmatrix}\psi _{+}\\\psi _{-}\end{pmatrix}}=i\hbar {\frac {\partial }{\partial t}}{\begin{pmatrix}\psi _{+}\\\psi _{-}\end{pmatrix}}.}
+Therefore, we can see that the spin of the particle only affects its motion in the presence of a magnetic field.
+Both spinor components satisfy the Schrödinger equation. For a particle in an externally applied B field, the Pauli equation reads:
+where
+              1
+              ^
+        =
+            (
+                  1
+                  0
+                  0
+                  1
+            )
+    {\displaystyle {\hat {1}}={\begin{pmatrix}1&0\\0&1\\\end{pmatrix}}}
+is the 2 × 2 identity matrix, which acts as an identity operator.
+The Stern–Gerlach term can obtain the spin orientation of atoms with one valence electron, e.g. silver atoms which flow through an inhomogeneous magnetic field.
+Analogously, the term is responsible for the splitting of spectral lines (corresponding to energy levels) in a magnetic field as can be viewed in the anomalous Zeeman effect.
+Semiclassical physics
+Atomic, molecular, and optical physics
+Group contraction

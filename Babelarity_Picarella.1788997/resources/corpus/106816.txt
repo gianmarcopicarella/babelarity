@@ -1,0 +1,193 @@
+The History of the Peloponnesian War is a historical account of the Peloponnesian War (431–404 BC), which was fought between the Peloponnesian League (led by Sparta) and the Delian League (led by Athens). It was written by Thucydides, an Athenian historian who also happened to serve as an Athenian general during the war. His account of the conflict is widely considered to be a classic and regarded as one of the earliest scholarly works of history. The History is divided into eight books.
+Analyses of the History generally occur in one of two camps. On the one hand, some scholars view the work as an objective and scientific piece of history. The judgment of J. B. Bury reflects his traditional interpretation of the work: "[The History is] severe in its detachment, written from a purely intellectual point of view, unencumbered with platitudes and moral judgments, cold and critical."
+On the other hand, in keeping with more recent interpretations that are associated with reader-response criticism, the History can be read as a piece of literature rather than an objective record of the historical events. This view is embodied in the words of W. R. Connor, who describes Thucydides as "an artist who responds to, selects and skillfully arranges his material, and develops its symbolic and emotional potential."
+Thucydides is considered to be one of the great "fathers" of Western history, thus making his methodology the subject of much analysis in area of historiography.
+Thucydides is one of the first western historians to employ a strict standard of chronology, recording events by year, with each year consisting of the summer campaign season and a less active winter season. This method contrasts sharply with Herodotus' earlier work The Histories, which jumps around chronologically and makes frequent and roundabout excursions into seemingly unrelated areas and time periods, and has set the standard for historiographical rigor to this day.
+Thucydides also makes extensive use of speeches in order to elaborate on the event in question. While the inclusion of long first-person speeches is somewhat alien to modern historical method, in the context of ancient Greek oral culture speeches are expected. These include addresses given to troops by their generals before battles and numerous political speeches, both by Athenian and Spartan leaders, as well as debates between various parties. Of the speeches, the most famous is the funeral oration of Pericles, which is found in Book Two. Thucydides undoubtedly heard some of these speeches himself while for others he relied on eyewitness accounts.
+These speeches are suspect in the eyes of Classicists, however, inasmuch as it is not sure to what degree Thucydides altered these speeches in order to most clearly elucidate the crux of the argument presented. Some of the speeches are probably fabricated according to his expectations of, as he puts it, "what was called for in each situation" (1.22.2).
+Despite being an Athenian and a participant in the conflict, Thucydides is often regarded as having written a generally unbiased account of the conflict with respect to the sides involved in it. In the introduction to the piece he states, "my work is not a piece of writing designed to meet the taste of an immediate public, but was done to last for ever" (1.22.4).
+There are scholars, however, who doubt this. Ernst Badian, for example has argued that Thucydides has a strong pro-Athenian bias. In keeping with this sort of doubt, other scholars claim that Thucydides had an ulterior motive in his Histories, specifically to create an epic comparable to those of the past such as the works of Homer, and that this led him to create a nonobjective dualism favoring the Athenians. The work does display a clear bias against certain people involved in the conflict, such as Cleon.
+The gods play no active role in Thucydides' work. This is very different from Herodotus, who frequently mentions the role of the gods, as well as a nearly ubiquitous divine presence in the centuries-earlier poems of Homer. Instead, Thucydides regards history as being caused by the choices and actions of human beings.l
+Despite the absence of actions of the gods, religion and piety play critical roles in the actions of the Spartans, and to a lesser degree, the Athenians. Thus natural occurrences such as earthquake and eclipses were viewed as religiously significant (1.23.3; 7.50.4)
+It has been further argued that Thucydides attributes the existence of the gods entirely to the needs of political life. The gods are portrayed as existing only in the minds of men. Reno as such reveals itself in the History to be not simply one type of social behavior among others, but what permeates the whole of social existence, permitting the emergence of justice.
+Despite the absence of the gods from Thucydides' work, he still draws heavily from the Greek mythos, especially from Homer, whose works are prominent in Greek mythology. Thucydides references Homer frequently as a source of information, but always adds a distancing clause, such as "Homer shows this, if that is sufficient evidence," and "assuming we should trust Homer's poetry in this case too." 
+However, despite Thucydides' lack of trust in information that was not experienced firsthand, such as Homer's, he does use the poet's epics to infer facts about the Trojan War. For instance, while Thucydides considered the number of over 1,000 Greek ships sent to Troy to be a poetic exaggeration, he uses Homer's catalog of ships to determine the approximate number of Greek soldiers who were present. Later, Thucydides claims that since Homer never makes reference to a united Greek state, the pre-Hellenic nations must have been so disjointed that they could not organize properly to launch an effective campaign. In fact, Thucydides claims that Troy could have been conquered in half the time had the Greek leaders allocated resources properly and not sent a large portion of the army on raids for supplies.
+Thucydides makes sure to inform his reader that he, unlike Homer, is not a poet prone to exaggeration, but instead a historian, whose stories may not give "momentary pleasure," but "whose intended meaning will be challenged by the truth of the facts."  By distancing himself from the storytelling practices of Homer, Thucydides makes it clear that while he does consider mythology and epics to be evidence, these works cannot be given much credibility, and that it takes an impartial and empirically minded historian, such as himself, to accurately portray the events of the past.
+The first book of the History, after a brief review of early Greek history and some programmatic historiographical commentary, seeks to explain why the Peloponnesian War broke out when it did and what its causes were. Except for a few short excursuses (notably 6.54-58 on the Tyrant Slayers), the remainder of the History (books 2 through 8) rigidly maintains its focus on the Peloponnesian War to the exclusion of other topics.
+While the History concentrates on the military aspects of the Peloponnesian War, it uses these events as a medium to suggest several other themes closely related to the war. It specifically discusses in several passages the socially and culturally degenerative effects of war on humanity itself. The History is especially concerned with the lawlessness and atrocities committed by Greek citizens to each other in the name of one side or another in the war. Some events depicted in the History, such as the Melian dialogue, describe early instances of realpolitik or power politics.
+The History is preoccupied with the interplay of justice and power in political and military decision-making. Thucydides' presentation is decidedly ambivalent on this theme. While the History seems to suggest that considerations of justice are artificial and necessarily capitulate to power, it sometimes also shows a significant degree of empathy with those who suffer from the exigencies of the war.
+For the most part, the History does not discuss topics such as the art and architecture of Greece.
+The History emphasizes the development of military technologies. In several passages (1.14.3, 2.75-76, 7.36.2-3), Thucydides describes in detail various innovations in the conduct of siegeworks or naval warfare. The History places great importance upon naval supremacy, arguing that a modern empire is impossible without a strong navy. He states that this is the result of the development of piracy and coastal settlements in earlier Greece.
+Important in this regard was the development, at the beginning of the classical period (c. 500 BC), of the trireme, the supreme naval ship for the next several hundred years. In his emphasis on sea power, Thucydides resembles the modern naval theorist Alfred Thayer Mahan, whose influential work The Influence of Sea Power upon History helped set in motion the naval arms race prior to World War I.
+The History explains that the primary cause of the Peloponnesian War was the "growth in power of Athens, and the alarm which this inspired in Sparta" (1.23.6). Thucydides traces the development of Athenian power through the growth of the Athenian empire in the years 479 BC to 432 BC in book one of the History (1.89-118). The legitimacy of the empire is explored in several passages, notably in the speech at 1.73-78, where an anonymous Athenian legation defends the empire on the grounds that it was freely given to the Athenians and not taken by force. The subsequent expansion of the empire is defended by these Athenians, "...the nature of the case first compelled us to advance our empire to its present height; fear being our principal motive, though honor and interest came afterward." (1.75.3)
+The Athenians also argue that, "We have done nothing extraordinary, nothing contrary to human nature in accepting an empire when it was offered to us and then in refusing to give it up." (1.76) They claim that anyone in their position would act in the same fashion. The Spartans represent a more traditional, circumspect, and less expansive power. Indeed, the Athenians are nearly destroyed by their greatest act of imperial overreach, the Sicilian expedition, described in books six and seven of the History.
+Thucydides correlates, in his description of the 426 BC Malian Gulf tsunami, for the first time in the history of natural science, quakes and waves in terms of cause and effect.
+Thucydides' History is extraordinarily dense and complex. His particular ancient Greek prose is also very challenging, grammatically, syntactically, and semantically. This has resulted in much scholarly disagreement on a cluster of issues of interpretation.
+It is commonly thought that Thucydides died while still working on the History, since it ends in mid-sentence and only goes up to 410 BC, leaving six years of war uncovered. Furthermore, there is a great deal of uncertainty whether he intended to revise the sections he had already written. Since there appear to be some contradictions between certain passages in the History, it has been proposed that the conflicting passages were written at different times and that Thucydides' opinion on the conflicting matter had changed. Those who argue that the History can be divided into various levels of composition are usually called "analysts" and those who argue that the passages must be made to reconcile with one another are called "unitarians". This conflict is called the "strata of composition" debate. The lack of progess in this debate over the course of the twentieth century has caused many Thucydidean scholars to declare the debate insoluble and to side-step the issue in their work.
+The History is notoriously reticent about its sources. Thucydides almost never names his informants and alludes to competing versions of events only a handful of times. This is in marked contrast to Herodotus, who frequently mentions multiple versions of his stories and allows the reader to decide which is true. Instead, Thucydides strives to create the impression of a seamless and irrefutable narrative. Nevertheless, scholars have sought to detect the sources behind the various sections of the History. For example, the narrative after Thucydides' exile (4.108ff.) seems to focus on Peloponnesian events more than the first four books, leading to the conclusion that he had greater access to Peloponnesian sources at that time.
+Frequently, Thucydides appears to assert knowledge of the thoughts of individuals at key moments in the narrative. Scholars have asserted that these moments are evidence that he interviewed these individuals after the fact. However, the evidence of the Sicilian Expedition argues against this, since Thucydides discusses the thoughts of the generals who died there and whom he would have had no chance to interview. Instead it seems likely that, as with the speeches, Thucydides is looser than previously thought in inferring the thoughts, feelings, and motives of principal characters in his History from their actions, as well as his own sense of what would be appropriate or likely in such a situation.
+Thucydides' History has been enormously influential in both ancient and modern historiography. It was embraced by the author's contemporaries and immediate successors with enthusiasm; indeed, many authors sought to complete the unfinished history. For example, Xenophon wrote his Hellenica as a continuation of Thucydides' work, beginning at the exact moment that Thucydides' History leaves off. His work, however, is generally considered inferior in style and accuracy compared with Thucydides'. In later antiquity, Thucydides' reputation suffered somewhat, with critics such as Dionysius of Halicarnassus rejecting the History as turgid and excessively austere. Lucian also parodies it (among others) in his satire The True Histories. Woodrow Wilson read the History on his voyage across the Atlantic to the Versailles Peace Conference.
+Most critics writing about the History, including this article, use a standard format to direct readers to passages in the text: book.chapter.section. For example, the notation that Pericles' last speech runs from 2.60.1 to 2.64.6, this means that it can be found in the second book, from the sixtieth chapter through the sixty-fourth. Most modern editions and translations of the History include the chapter numbers in the margins.
+The most important manuscripts include: Codex Parisinus suppl. Gr. 255, Codex Vaticanus 126, Codex Laurentianus LXIX.2, Codex Palatinus 252, Codex Monacensis 430, Codex Monacensis 228, and Codex Britannicus II,727.
+Grenfell and Hunt discovered in Oxyrhynchus about 20 papyrus fragments copied some time between the 1st and 6th centuries CE.
+Book 1
+The state of Greece from the earliest times to the commencement of the Peloponnesian War, also known as the Archaeology. 1.1-1.19.
+Methodological excursus. 1.20-1.23.
+Causes of the war (433-432 BC) 1.24-1.66.
+The Affair of Epidamnus. 1.24-1.55.
+The Affair of Potidaea. 1.56-1.66.
+Congress of the Peloponnesian League at Lacedaemon. 1.67-1.88
+The Speech of the Corinthians. 1.68-1.71.
+The Speech of the Athenian envoys. 1.73-1.78.
+The Speech of Archidamus. 1.80-1.85.
+The Speech of Sthenelaidas. 1.86.
+From the end of the Persian War to the beginning of the Peloponnesian War, also known as the Pentecontaetia. 1.89-1.117.
+The progress from supremacy to empire.
+Second congress at Lacedaemon and the Corinthian Speech. 1.119-1.125.
+Diplomatic maneuvering. 1.126-1.139.
+Excursus on Cylon. 1.126-1.127.
+Excursus on Pausanias and Themistocles. 1.128-1.138
+Pericles' first speech. 1.140-1.145.
+Book 2 (431-428 BC)
+War begins with Thebes' attempt to subvert Plataea. 2.1-2.6.
+Account of the mobilization of and list of the allies of the two combatants. 2.7-2.9.
+First invasion of Attica. 2.10-2.23.
+Archidamus leads the Peloponnesian army into Attica. 2.10-2.12.
+Athenian preparations and abandonment of the countryside. 2.13-2.14.
+Excursus on Athenian synoikism. 2.15-2.16.
+Difficult conditions in Athens for refugees from countryside. 2.17.
+Archidamus ravages Oenoe and Acharnai. 2.18-2.20.
+Athenian fury and anger at Pericles. 2.21-2.22.
+Athenian naval counter-attacks along coast of Peloponese and islands. 2.23-2.32.
+Pericles' Funeral Oration. 2.34-2.46.
+The plague of Athens. 2.47-2.54.
+Second invasion of Attica and Athenian naval counter-attacks. 2.55-2.58.
+Pericles' third speech, defending his position and policy. 2.59-2.64.
+Thucydides' estimate of Pericles' qualities and the causes for Athens' eventual defeat. 2.65.
+Diplomacy and skirmishes in Thrace, the islands, and the Northeast. 2.66-2.69.
+Fall of Potidaea. 2.70.
+Investment of Plataea. 2.71-2.78.
+Naval victories of Phormio in the Northeast. 2.80-2.92.
+Threat of raid on the Piraeus. 2.93-2.94.
+Thracian campaign in Macedonia under Sitalces. 2.95-2.101.
+Book 3 (428-425 BC)
+Annual invasion of Attica. 3.1.
+Revolt of Mytilene. 3.2-3.50.
+Speech of Mytilenian envoys to Sparta at Olympia, asking for help. 3.9-3.14.
+Sparta accepts Lesbos as an ally and prepares to counter the Athenians. 3.15.
+Mytilene surrenders to Athens despite Spartan support. 3.28.
+Mytilenian Debate. 3.37-3.50.
+Fall of Plataea. 3.20-3.24, 3.52-68.
+Some Plataeans escape. 3.20-3.24.
+Plataea surrenders. 3.52.
+Trial and execution of the Plataeans. 3.53-3.68.
+Speech of Plataeans, 3.53-3.59.
+Speech of the Thebans. 3.61-3.67.
+Revolution at Corcyra. 3.70-3.85.
+Thucydides' account of the evils of civil strife. 3.82-3.84.
+Athenian campaigns in Sicily. 3.86, 3.90, 3.99, 3.103, 3.115-3.116.
+Tsunami and inquiry into its causes 3.89.2-5
+Campaigns of Demosthenes in western Greece. 3.94-3.98, 3.100-3.102, 3.105-3.114.
+Spartans establish Heraclea in Trachis. 3.92-3.93.
+Athenians purify Delos. 3.104.
+Book 4 (425-423 BC)
+Annual invasion of Attica. 4.2.
+Athenians en route to Sicily occupy Pylos in the Peloponnese. 4.2-4.6.
+King Agis of Sparta cuts short the invasion of Attica to return to the Peloponnese. 4.6.
+Concerted Spartan attack on the Athenian fort at Pylos. 4.8-4.15.
+The Athenian general Demosthenes coordinates the defense of Pylos and rouses the troops with a speech. 4.9-4.10.
+The Spartan commander Brasidas distinguishes himself for bravery. 4.11-4.12.
+The Athenians defeat the Spartan assault on Pylos and cut off a garrison of Spartiates on the adjacent island of Sphacteria. 4.13-4.14.
+The Spartans, concerned for the men on the island, conclude an immediate armistice and send an embassy to Athens to negotiate peace. 4.13-4.22.
+The speech of the Spartan ambassadors offers to peace and alliance to Athens in exchange for the return of the men on Sphacteria. 4.17-4.20.
+The Athenian Cleon, speaking in the Assembly, encourages the Athenians to demand the return of the territories surrendered by Athens at the conclusion of the First Peloponnesian War. 4.21-4.22.
+Events in Sicily. 4.24-4.25.
+Siege of the Spartiates on Sphacteria continues without result. 4.26-4.27.
+Cleon takes command at Pylos. 4.27-4.29.
+With the siege of Sphacteria yielding no results, the Athenians grow angry at Cleon for encouraging them to reject the Spartan offer of peace. 4.27.1-.4.27.3.
+Cleon blames Nicias and the generals for ineptitude. 4.27.5.
+Nicias yields command to Cleon. 4.28.
+Battle of Sphacteria results in the capture of all the Spartiates trapped there. 4.29-4.41.
+Nicias leads an Athenian attack on Corinth. 4.42-4.45.
+End of Corcyraean revolution. 4.46-4.48.
+Athenians capture Cythera, an island off the Peloponnese, and Thyrea, a town in the Peloponnese. Sparta is hemmed in on all sides and desperate. 4.53-4.57.
+Sicilian cities make peace in conference at Gela, frustrating Athenian designs on the island. 4.58-65.
+Speech of Hermocrates at Gela. 4.59-4.64.
+Athenian attack on Megara. 4.66-4.74.
+Capture of Nisaea. 4.69.
+Inconclusive engagements at Megara. 4.73.
+Megara eludes Athenian capture. 4.74.
+Invasion of Boeotia. 4.76, 4.89-4.101.2.
+Athenians occupy temple at Delium. 4.90.
+Battle of Delium results in Athenian retreat. 4.91-4.96.
+Boeotians refuse to return Athenian dead until Athenians relinquish the shrine of Delium. 4.97-4.99.
+Boeotians assault the Athenian in the temple and burn it down. 4.100.
+Brasidas marches through Thessaly to Thrace and begins to cause Athenian subject cities to revolt. 4.78-4.88.
+Speech of Brasidas to the Acanthians. 4.85-4.87.
+Fall of Amphipolis to Brasidas. 4.102-4.108.
+Continued successes of Brasidas in Thrace. 4.111-4.135.
+Brasidas secures the revolt of the garrison of Torone. 4.110-4.116.
+One-year armistice between Athenians and Spartans. 4.117-4.118.
+Scione revolts from Athens to Brasidas. 4.120-4.123.
+Truce breaks down. 4.122-4.123.
+Athenians retake Mende and besiege Scione. 4.129-4.131.
+Book 5 (422-415 BC)
+Death of Cleon and Brasidas. 5.10.
+Peace of Nicias. 5.13-5.24.
+Feeling against Sparta in the Peloponnese
+League of the Mantineans, Eleans, Argives, and Athenians. 5.27-5.48.
+Battle of Mantinea and breaking up of the League. 5.63-5.81.
+The Melian Dialogue. 5.84-5.113.
+Fate of Melos. 5.116.
+Book 6 (415-414 BC)
+The Sicilian Expedition.6.8-6.52
+Affair of the Hermae. 6.27-6.29. 6.53.
+Departure of the expedition to Sicily. 6.30-6.32.
+Pro-Syracusan Party at Catana. 6.50-6.51. 6.64.
+Story of Harmodius and Aristogiton. 6.53-6.58.
+Disgrace of Alcibiades.6.60-6.61.
+Inaction of the Athenian army.6.63. 6.66.
+Alcibiades at Sparta. 6.88-6.93.
+Book 7 (414-413 BC)
+Arrival of Gylippus at Syracuse. 7.1- 7.3.
+Fortification of Decelea. 7.19- 7.30.
+Successes of the Syracusans.
+Arrival of Demosthenes
+Defeat of the Athenians at Epipolae. 7.42- 7.59.
+Folly and obstinacy of Nicias
+Battles in the Great Harbour
+Retreat and annihilation of the Athenian army. 7.72- 7.87
+Book 8 (413-411 BC)
+Revolt of Ionia
+Intervention of Persia
+The war in Ionia
+Intrigues of Alcibiades
+Withdrawal of the Persian subsidies
+Oligarchical coup d'état at Athens
+Patriotism of the Athenian army at Samos
+Recall of Alcibiades to Samos
+Revolt of Euboea and downfall of the Council of the Four Hundred
+Battle of Cynossema
+Thomas Hobbes, 1628
+William Smith, 1753
+Johann David Heilmann, 1760
+Full text – Richard Crawley, 1874
+Full text – Benjamin Jowett, 1881
+Edgar C. Marchant, 1900
+Charles Forster Smith, 1919
+Rex Warner, 1954
+John H. Finley, Jr., 1963
+Walter Blanco, 1998
+Steven Lattimore, 2002
+Bryn Mawr review of Lattimore's translation, which discusses the other major translations as well.
+Papyrus Oxyrhynchus 17
+Connor, W. Robert, Thucydides. Princeton: Princeton University Press (1984). ISBN 0-691-03569-5.
+Crane, Gregory, Thucydides and the Ancient Simplicity: the Limits of Political Realism. Berkeley: University of California Press (1998).
+Hornblower, Simon, A Commentary on Thucydides. 2 vols. Oxford: Clarendon (1991–1996). ISBN 0-19-815099-7 (vol. 1), ISBN 0-19-927625-0 (vol. 2).
+Hornblower, Simon, Thucydides. London: Duckworth (1987). ISBN 0-7156-2156-4.
+Orwin, Clifford, The Humanity of Thucydides. Princeton: Princeton University Press (1994). ISBN 0-691-03449-4.
+Pade, Marianne, "Thucydides", Catalogus Translationum et Commentariorum, 8, pp. 104-181. Last accessed 1 March 2016
+Romilly, Jacqueline de, Thucydides and Athenian Imperialism. Oxford: Basil Blackwell (1963). ISBN 0-88143-072-2.
+Rood, Tim, Thucydides: Narrative and Explanation. Oxford: Oxford University Press (1998). ISBN 0-19-927585-8.
+Strassler, Robert B, ed. The Landmark Thucydides: A Comprehensive Guide to the Peloponnesian War. New York: Free Press (1996). ISBN 0-684-82815-4.
+Thucydides, Thucydidis, olori fil, De bello peloponnesiacoa libri VIII, Versione Latina, (London 1819)

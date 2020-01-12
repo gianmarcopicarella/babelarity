@@ -1,0 +1,14 @@
+In particle physics, a Superpartner (also sparticle) is a hypothetical elementary particle. Supersymmetry is one of the synergistic theories in current high-energy physics that predicts the existence of these "shadow" particles.
+The word sparticle features the s- prefix which is used to form names of superpartners of the individual fermions, e.g. the stop squark.
+According to the supersymmetry theory, each fermion should have a partner boson, the fermion's superpartner, and each boson should have a partner fermion. Exact unbroken supersymmetry would predict that a particle and its superpartners would have the same mass. No superpartners of the Standard Model particles have yet been found. This may indicate that supersymmetry is incorrect, or it may also be the result of the fact that supersymmetry is not an exact, unbroken symmetry of nature. If superpartners are found, their masses would indicate the scale at which supersymmetry is broken.
+For particles that are real scalars (such as an axion), there is a fermion superpartner as well as a second, real scalar field. For axions, these particles are often referred to as axinos and saxions.
+In extended supersymmetry there may be more than one superparticle for a given particle. For instance, with two copies of supersymmetry in four dimensions, a photon would have two fermion superpartners and a scalar superpartner.
+In zero dimensions it is possible to have supersymmetry, but no superpartners. However, this is the only situation where supersymmetry does not imply the existence of superpartners.
+If the supersymmetry theory is correct, it should be possible to recreate these particles in high-energy particle accelerators. Doing so will not be an easy task; these particles may have masses up to a thousand times greater than their corresponding "real" particles.
+Some researchers have hoped the Large Hadron Collider at CERN might produce evidence for the existence of superpartner particles. However, as of 2013, no such evidence has been found.
+Chargino
+Gluino
+Gravitino as a superpartner of the hypothetical graviton
+Neutralino
+Sfermion
+Higgsino

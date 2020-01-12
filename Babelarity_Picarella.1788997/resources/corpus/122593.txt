@@ -1,0 +1,113 @@
+Turkmen (Türkmençe, türkmen dili, түркменче, түркмен дили, تورکمن تیلی ,تورکمنچه), is a Turkic language spoken by 3½ million people in Turkmenistan, where it is the official state language, as well as by around 2 million people in northeastern Iran and 1½ million people in northwestern Afghanistan.
+Turkmen is a member of the East Oghuz branch of the Turkic family of languages; its closest relatives being Istanbul Turkish and Azerbaijani Turkish, with which it shares a relatively high degree of mutual intelligibility.
+Turkmen has vowel harmony, is agglutinative, and has no grammatical gender. Word order is subject–object–verb.
+Written Turkmen today is based on the Teke (Tekke) dialect. The other dialects are Nohurly, Ýomud, Änewli, Hasarly, Nerezim, Gökleň, Salyr, Saryk, Ärsary and Çowdur. The Russian dialect is Trukhmen. The Teke dialect is sometimes (especially in Afghanistan) referred to as "Chagatai", but like all Turkmen dialects it reflects only a limited influence from classical Chagatai.
+Officially, Turkmen is rendered in the “Täze Elipbiý”, or “New Alphabet”, which is based on the Latin alphabet. However, the old "Soviet" Cyrillic alphabet is still in wide use. Many political parties in opposition to the authoritarian rule of President Saparmurat Niyazov continued to use the Cyrillic alphabet on websites and publications, most likely to distance themselves from the alphabet that Niyazov created.
+Before 1929, Turkmen was written in an Arabic alphabet. In 1929–1938 a Latin alphabet replaced it, and then the Cyrillic alphabet was used from 1938 to 1991. In 1991, the current Latin alphabet was introduced, although the transition to it has been rather slow. It used to use some unusual letters, such as the pound, dollar, yen, and cent signs, but these were replaced by more conventional letter symbols.
+The following phonemes are present in the Turkmen language:
+Turkmen contains both short and long vowels. Doubling the duration of sound for a short vowel is generally how its long vowel counterpart is pronounced. Turkmen employs vowel harmony, a principle that is common in fellow Turkic languages. Vowels and their sounds are as follows:
+For purposes of vowel harmony (see below) the central vowel [a] is considered back.
+Turkmen consonant phonemes (shown in Turkmen alphabet):
+Note that с (s) and з (z) are actually used for [θ] and [ð], not [s] and [z] (cf. ceceo).
+Like other Turkic languages, Turkmen is characterized by vowel harmony. In general, words of native origin consist either entirely of front vowels (inçe çekimli sesler) or entirely of back vowels (ýogyn çekimli sesler). Prefixes and suffixes reflect this harmony, taking different forms depending on the word to which they are attached.
+The infinitive form of a verb determines whether it will follow a front vowel harmony or back vowel harmony. Words of foreign origin, mainly Russian, Persian, or Arabic, do not follow vowel harmony.
+Verbs are conjugated for singular and plural number and first, second, and third persons. There are 11 verb tenses: present comprehensive (long and short form), present perfect (regular and negative), future certain, future indefinite, conditional, past definite, obligatory, imperative, and intentional.
+There are two types of verbs in Turkmen, distinguished by their infinitive forms: those ending in the suffix "-mak" and those ending in "-mek". -Mak verbs follow back vowel harmony, whereas -mek verbs follow front vowel harmony.
+Evidentiality is determined by four markers, roughly:
+-dY (Direct Evidence)
+-Yp-dYr (Hearsay)
+-dYr-mY-näm (Indirect Evidence)
+-mYş (Rumoured that)
+Some independent particles may be said to convey evidentiality: one such word is the particle eken.
+1. Aman syrkawla-p-dyr.
+Aman become sick-EV-COP
+           (I heard that) Aman is sick.(information is "hearsay")
+Compare 1 with 2.a and 2.b:
+2.a. Aman syrkawla-dy.
+Aman  become sick-3sPAST
+2.b. Aman syrkaw.
+Aman sick.
+                Aman is sick. (speaker has spoken with Aman)
+3. Maral Aşgabat-dan gel-ip-dir.
+ Maral Ashgabat-ABL come-EV-COP
+                (I heard that) Maral came from Ashgabat.
+4. Ben sen-iň köke-ler-iň-i iý-di.
+ Ben you-GEN  cookie-pl-2sPOSS-ACC eat-3spast
+      Ben ate your cookies.
+i. The speaker saw Ben eat the cookies (direct evidence).
+ii. Ben told the speaker that he ate the cookies.
+5. Ben sen-iň köke-ler-iň-i iý-ip-dir.
+ Ben you-GEN cookie-pl-2sPOSS-ACC eat-EV-COP
+       Ben ate your cookies.
+i. The speaker heard from someone else that Ben ate the cookies (hearsay).
+ii. Generally, the speaker learned through means other than 4.i and 4.ii that Ben ate the cookies.
+6.a. Ben iý-ip-dir-mikä(n) sen-iň köke-ler-iň-i.
+ Ben eat-EV-COP-EV you-GEN cookie-pl-2sPOSS-ACC
+         Ben ate your cookies, or more loosely: I wonder if Ben ate your cookies.
+i. The speaker saw evidence of the action, i.e. crumbs, and "made the connection." (informant's account)
+ii. The speaker "doesn't concretely know [Ben] ate them." (informant's account)
+iii. In the words of the informant: "I am questioning myself. But it's not a question."
+iv. In other words: a deduction from indirect evidence, a suspicion
+6.b. Men (...) iý-ip-dir-in-mikäm?
+  I    (...)   eat-EV-1sPRES(?)-EV
+           Did I eat something?
+i. The speaker questions whether or not s/he has performed an action.
+ii. Evidence of the particular action may be direct, however the nature of its complement (i.e. an item of food) may be in doubt.
+7. Ben iý-en-miş sen-iň köke-ler-iň-i.
+ Ben eat-PART be-RUM  you-GEN     cookie-PL-2sPOSS-ACC
+       It is rumoured that Ben ate your cookies.
+i. The action has been passed on via several speakers, or gossiped, similar to in the English gloss.
+Note the postposed complement in 7. A tree of 7 would look something like {(Ben [{(the one who ate [ti])} must be]) [your cookies]i } using different brackets only in order to make the nesting more obvious.
+In 6.a., the verb appears in the form iý-ip-dir-minäm. I've analyzed the final two syllables as one evidential particle, glossed as EV. This follows partly from the intuitions of the informant, and partly from the consistence: it always appears as -minäm. Nonetheless, it could also be glossed as ...eat-EV-COP-INT-what..., something like, literally, Did Ben eat your cookies, or what?'
+One way to express negation in Turkmen is with the negative verb ýok. This verb does not inflect for person or number.
+Onuň maşyny ýok.
+3sg car-GEN NEGV
+'He does not have a car.'
+Öýde Amandan başga adam ýok.
+houseLOC AmanINST except person NEGV
+'There is no one but Aman in the house.'
+The phonetically similar suffix -ok is another option: it attaches to the verb which it negates. It comes after the stem and before the tense suffix. -Ok does not modify its form due to vowel harmony. In addition to -ok there is another suffix -me or -ma. It appears -mV is used when dealing with one event, -ok for more habitual or lasting states:
+Men bilemok. 'I don't know.'
+Men bilemokdym. 'I didn't know (for a long time).'
+Men bilmedim. 'I didn't know (on one occasion).'
+(these correspond to the positive forms 'Men bilyärin', 'Men bilyärdim', and 'Men bildim.'
+Ol ajyganok.
+3sg to hunger-GERUND-NEG
+Literally *'He is not hungering'; in grammatical English, 'He is not hungry.' (compare to däl construction below)
+Speakers of Eastern dialects of Turkmen, influenced by Uzbek, are less likely to utilize the -ok suffix.
+Yet another way of expressing negation is by the negative particle däl.
+Men şu kitaby okamaly däl.
+1sg this book-ACC read-OBLIG NEG
+I do not have to read this book. or, I should not read this book. (sentence was elicited for the latter meaning)
+Ol aç däl.
+3sg hungry NEG (note the lack of copula)
+He is not hungry.
+Kofe gyzgyn bolup biler.
+The coffee might be hot.
+Kofe gyzgyn däl bolup biler.
+The coffee might not be hot.
+Kofe gyzgyn dälmi?
+Isn't the coffee hot?
+There is not an equivalent in Turkmen to the English prefix 'un-'. That is, one can't simply attach an affix to a verb to indicate the opposite action, as in wrap the present --> unwrap the present.
+It appears that different tenses use different forms of negation, as in the following sentences:
+Men ylgamok.
+I am not running. (present)
+Men ylgamadym.
+I did not run. (past)
+Men ylgajak däl.
+I will not run. (definite future)
+Turkmen has six cases: Accusative, Dative, Genitive, Instrumental, Locative, and Nominative.
+Back Vowels: The noun sygyr "cow" declined in the six Turkmen cases, with Jenneta's examples of how it would be used for each:
+Front Vowels: The proper noun Jeren (a woman's name) declined in the six Turkmen cases, with examples of how it would be used for each:
+Suffixes, or "goşulmalar", form a very important part of Turkmen. They can mark possession, or change a verb.
+To make a verb passive: -yl/-il; -ul/-ül; -l
+To make a verb reflexive: -yn/-in; -un/-ün; -n
+To make a verb reciprocal: -yş/-iş; -uş/-üş; -ş
+To make a verb causative: -dyr/-dir; -dur/-dür; -yr/-ir; -ur/-ür; -uz/-üz; -ar/-er; -der/-dar; -t
+Suffixes reflect vowel harmony.
+The leading Turkmen poet is Magtymguly Pyragy, who wrote in the eighteenth century. His language represents a transitional stage between Chagatai and spoken Turkmen.
+0.nol 1.bir 2.iki 3.üç 4.dört 5.bäş 6.alty 7.ýedi 8.sekiz 9.dokuz 10.on. For 11-19, it is just like saying 'ten one, ten two, ten three' and so on. 20.ýigrimi 30.otuz 40.kyrk 50.elli 60.altmyş 70.ýetmiş 80.segsen 90.togsan 100.ýüz 1000.müň
+black - gara | blue - gök | brown - goňur, mele | grey - çal | green - ýaşyl | orange - narynç, mämişi | pink - gülgün | purple - benewşe, melewşe | red - gyzyl | white - ak | yellow -sary
+yes - hawa | no - ýok | goodbye - sag boluň, hoş | good morning - ertiriňiz haýyrly bolsun | good evening - agşamyňyz haýyrly bolsun | good night - gijäňiz rahat bolsun | please - -aý/äý (verb suffix) e.g. Please give it to me: Maňa beräý! | thank you - sag boluň
+Do you speak English? - Siz iňlis dilinde gepleýärsiňizmi? | I don't speak Turkmen - Men türkmen dilinde geplemeýärin | What does it mean? - munuň manysy näme?
+Nicholas Awde; William Dirks; A. Amandurdyev (2005). Turkmen: Turkmen-English, English-Turkmen Dictionary & Phrasebook. Hippocrene Books. ISBN 978-0-7818-1072-2. 

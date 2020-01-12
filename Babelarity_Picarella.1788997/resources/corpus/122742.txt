@@ -1,0 +1,20 @@
+The voiced palato-alveolar sibilant fricative or voiced domed postalveolar sibilant fricative is a type of consonantal sound, used in some spoken languages. The symbol in the International Phonetic Alphabet that represents this sound is 〈ʒ〉, and the equivalent X-SAMPA symbol is Z. An alternative symbol used in some older and American linguistic literature is 〈ž〉, a z with a háček. The sound occurs in many languages and, as in English and French, may have simultaneous lip rounding ([ʒʷ]), although this is rarely indicated in transcription.
+Although present in English, the sound is not represented by a specific letter or digraph, but is formed by yod-coalescence of [z] and [j] in words such as measure. It also appears in some loanwords, mainly from French (thus written with 〈g〉 and 〈j〉). In some transcriptions of alphabets such as Cyrillic, as well as the Wikipedia pronunciation respelling for English, the sound is represented by the digraph zh.
+Some scholars use the symbol /ʒ/ to transcribe the laminal variant of the voiced retroflex sibilant. In such cases, the voiced palato-alveolar sibilant is transcribed /ʒʲ/.
+Features of the voiced palato-alveolar fricative:
+Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence.
+Its place of articulation is palato-alveolar, that is, domed (partially palatalized) postalveolar, which means it is articulated with the blade of the tongue behind the alveolar ridge, and the front of the tongue bunched up ("domed") at the palate.
+Its phonation is voiced, which means the vocal cords vibrate during the articulation.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+It is a central consonant, which means it is produced by directing the airstream along the center of the tongue, rather than to the sides.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
+The sound in Russian denoted by 〈ж〉 is commonly transcribed as a palato-alveolar fricative but is actually a laminal retroflex fricative.
+The voiced postalveolar non-sibilant fricative is a consonantal sound. As the International Phonetic Alphabet does not have separate symbols for the post-alveolar consonants (the same symbol is used for all coronal places of articulation that aren't palatalized), this sound is usually transcribed 〈ɹ̠˔〉 (retracted constricted [ɹ]). The equivalent X-SAMPA symbol is r\_-_r.
+Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence. However, it does not have the grooved tongue and directed airflow, or the high frequencies, of a sibilant.
+Its place of articulation is postalveolar, which means it is articulated with either the tip or the blade of the tongue behind the alveolar ridge.
+Its phonation is voiced, which means the vocal cords vibrate during the articulation.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+It is a central consonant, which means it is produced by directing the airstream along the center of the tongue, rather than to the sides.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
+Ezh
+Index of phonetics articles

@@ -1,0 +1,255 @@
+Carcassonne is a tile-based German-style board game for two to five players, designed by Klaus-Jürgen Wrede and published in 2000 by Hans im Glück in German and by Rio Grande Games (until 2012) and Z-Man Games (currently) in English. It received the Spiel des Jahres and the Deutscher Spiele Preis awards in 2001. It is named after the medieval fortified town of Carcassonne in southern France, famed for its city walls. The game has spawned many expansions and spin-offs, and several PC, console and mobile versions.
+The game board is a medieval landscape built by the players as the game progresses. The game starts with a single terrain tile face up and 71 others shuffled face down for the players to draw from. On each turn a player draws a new terrain tile and places it adjacent to tiles that are already face up. The new tile must be placed in a way that extends features on the tiles it touches: roads must connect to roads, fields to fields, and cities to cities.
+After placing each new tile, the placing player may opt to station a piece (called a "follower" or "meeple") on a feature of that newly placed tile. The placing player may not use a follower to claim any features of the tile that extend or connect features already claimed by another player. However, it is possible for terrain features claimed by opposing players to become "shared" by the subsequent placement of tiles connecting them. For example, two field tiles which each have a follower can become connected into a single field by another terrain tile.
+The game ends when the last tile has been placed. At that time, all features (including fields) score points for the players with the most followers on them. The player with the most points wins the game.
+During the players' turns, cities, cloisters, and roads (but not fields) are scored when they are completed—cities and roads when they are completed (i.e. contain no unfinished edges from which they may be expanded), and cloisters when surrounded by eight tiles. At the end of the game, when there are no tiles remaining, all incomplete features are scored. Points are awarded to the players with the most followers in a feature. If there is a tie for the most followers in any given feature, all of the tied players are awarded the full number of points. In general (see table), points are awarded for the number of tiles covered by a feature; cloisters score for neighboring tiles; and fields score based on the number of connected completed cities.
+Once a feature is scored, all of the followers in that feature are returned to their owners.
+There are two older editions of Carcassonne, differing in scoring of cities and fields. Though, until recently, the first edition scoring rules were included with English releases of Carcassonne, third edition rules are now included with all editions (including the Xbox 360 and travel versions), and are assumed by all expansions in all languages.
+In the first and second editions of the game, completed cities covering just two tiles scored two points (one per tile) and one extra point for every pennant that resides in the city. This exception is removed from the third edition, in which there is no difference between two-tile cities and cities of larger size.
+The greatest divergence in scoring rules between the editions of Carcassonne is in scoring for fields. In the first edition, the players with the greatest number of followers adjacent to a city were awarded four points for that city. Thus, followers from different fields contributed to the scoring for a city, and followers on a field may contribute to the scoring for multiple cities. The second edition considered different fields separately — for each field, the players with the greatest number of followers in a field scored three points for each city adjacent to the field, although points were only scored once for any given city. The third edition removes these exceptions and brings field scoring in line with the scoring of other features.
+Carcassonne is considered to be an excellent "gateway game" by many board game players as it is a game that can be used to introduce new players to board games. The rules are simple, no one is ever eliminated, and the play is fast. A typical game, without any expansions, takes about 45 minutes to play. There is a substantial luck component to the game; however, good tactics greatly improve one's chances of winning. Examples of tactical considerations include:
+Conserving followers. Since each player has only seven followers, it can be easy to run out. This is especially important with fewer players, because then each player will play more tiles during the game.
+Joining in on other players' features. Often it is possible to add a separate road or castle segment near a big road or castle and join them up. This allows a player to gain points from their opponents' work.
+Avoiding sharing. An advantage can be gained by preventing other players from getting points. This is more important with fewer players, or if the sharing player is doing well.
+Judicious placement of followers in fields. Followers in the right field can be worth a lot of points. However, once placed, they are there for the whole game.
+Trapping opponents' followers. Not all possible tile configurations exist in the game. So if a player knows which tiles exist or are more common, they can create situations where it is hard or impossible for an opponent to complete some feature. The result is the opponent's follower is stuck in something half-completed.
+Several official expansions for Carcassonne have been published, which add numerous additional rules, tiles and new kinds of figures. Together, they can more than double the length of the game. These expansions are generally compatible with each other and may be played together.
+"Inns and Cathedrals" ("Wirtshäuser und Kathedralen", 2002)
+Originally known simply as "Carcassonne: The Expansion," Inns and Cathedrals adds some new tiles, and one new figure.
+A large figure that counts as two followers.
+Special tiles with Inns and Cathedrals can be placed as part of roads and cities to enhance their value—provided they are completed by the end of the game. Inns double each road segment's value, while Cathedrals add one point per tile or pennant in a city. However, if the city or road is not completed, it has zero value.
+Followers that allow a sixth player to play.
+"Traders and Builders" ("Händler und Baumeister", 2003)
+Adds additional tile types, two new followers, and trade good tiles.
+Trade goods appear in cities and are collected by the player who completes the city, even if they are not the one who scores it (thus encouraging the completion of other people's cities).
+A "pig" follower which increases the value of a field it is placed in.
+A "builder" follower which grants an extra turn to the owning player whenever the feature is extended.
+An opaque cloth bag which players can use while drawing tiles.
+"The Princess and the Dragon" ("Burgfräulein und Drache", 2005)
+The Princess and the Dragon adds new tiles and figures.
+Tiles with "magic gates" allow players to place followers on previously played tiles.
+Princess tiles and Dragon figure allow for followers to be removed.
+A Fairy figure also allows protection to a follower and its tile from time to time.
+"The Tower" ("Der Turm", March 2006)
+The Tower adds a vertical element to Carcassonne, adding new tiles and tower pieces.
+Eighteen tiles with tower foundations, which allow a player to add a tower section and capture nearby followers belonging to another player
+Tower pieces to build with.
+A cardboard tile tower for easy tile storage, also acting as a mechanism from which tiles are drawn.
+"Abbey and Mayor" ("Abtei und Bürgermeister", October 2007)
+Another full-sized expansion, featuring:
+Abbey tiles that can complete features.
+Mayors who score cities.
+A barn that forces field scoring.
+Wagons that can score features.
+Additional tiles that, in response to fan feedback, fix specific situations that have been previously impossible to complete.
+"The Catapult" ("Das Katapult", 2008)
+An expansion, featuring:
+A physical catapult.
+12 fairground tiles that initiate a round using the catapult.
+Tokens to be launched by the catapult.
+"Wheel of Fortune" ("Das Schicksalsrad", July 2009)
+A full replacement for the base game and/or expansion, featuring:
+72 tiles with some new/different tiles as compared to the original base game.
+40 followers (in 5 colors) and a scoreboard.
+A new start-tile which depicts the Wheel of Fortune
+The Wheel of Fortune – a new mechanic based on icons on 16 tiles allowing an element of "fate" into the game. Events that can be triggered include famine, plague, and fortune, among others.
+A large pink pig animeeple that moves along the rim of the wheel.
+"Bridges, Castles & Bazaars" ("Brücken, Burgen und Basare", February 2010)
+An expansion, featuring:
+12 Bridge pieces enabling players to bridge roads over field tiles.
+12 Castle tokens so players can gain additional points from 2-tile cities.
+12 new tiles, eight featuring bazaars which introduce a new auction element to the game and four miscellaneous tiles.
+"Hills & Sheep" ("Schafe und Hügel", June 2014)
+An expansion, featuring:
+16 sheep tokens, featuring either one, two, three or four sheep each.
+2 wolf tokens.
+1 cloth bag for the sheep and wolf tokens.
+1 "shepherd" follower in each of the six colors (one for each player).
+18 new tiles, 8 featuring hills, 8 featuring vineyards and 2 featuring cloisters.
+Carcassonne — The River (Carcassonne — Der Fluss, 2001)
+Originally distributed for free with the Carcassonne base game. Only available separately beginning 2009. The 2007 Xbox Live Arcade version includes a toggle option for the expansion. This expansion was added to the base game in August 2012.
+12 River tiles that replace the single initial tile.
+Carcassonne — King and Scout (Carcassonne — König und Späher, 2003)
+'King and Scout' is two expansions; King for Carcassonne and Scout for Carcassonne: Hunters and Gatherers.
+King and Robber Baron tiles used to keep track of who built the largest road and city.
+5 additional tiles, with combinations that were previously missing
+Carcassonne — The Cathars (Carcassonne — Die Katharer, 2004)
+Originally published in the German board game magazine Spielbox, and republished in their Carcassonne almanac with an English translation.
+Four siege tiles where Cathars break city walls. These halve the value of the city but double its contribution to field scores. Monasteries allow followers in cities to escape and come back to their players.
+The Count of Carcassonne (Der Graf von Carcassonne, 2004)
+Via new tiles, provides an incentive to complete other players' features: when a player does so, that player may place a follower in the city of Carcassonne, and then later move that follower in to a feature as it completed (commonly known as "paratrooping").
+Twelve tiles depicting the city of Carcassonne itself. These replace the initial starting tile and support new game mechanics.
+A count figure, which can block paratrooping.
+Carcassonne — The River II (Der Fluss II, November 2005)
+Similar to the original River expansion, The River II tiles include features from previous expansions, for example a volcano to invoke the dragon. The 2012 Xbox Windows Phone version includes a toggle option for the expansion.
+New tiles to create a larger, forked river
+Carcassonne — The Mini-Expansion (Winter 2006)
+Published in Games Quarterly Magazine, Issue #11,
+A new spring with a road, which separates a field, thereby preventing some very large fields as allowed by the original River.
+11 additional tiles.
+Carcassonne — The Cult (Carcassonne – Die Kultstätte, 2007)
+Published originally in Count, King & Robber, then republished as a standalone expansion in Spielbox: Hans im Glück Almanach 2008. Later available by Rio Grande Games in Cult, Siege & Creativity,
+Six tiles depicting heretical shrines that can be used in rivalries with cloisters and abbeys
+Carcassonne — Tunnel (Carcassonne - Der Tunnel, 2009)
+Published in Spielbox: Issue 2009/6
+Four new tiles and twelve chips to create underground tunnels
+Tunnels can also be built with The Princess and the Dragon tunnel entrances
+Carcassonne – Crop Circles (Carcassonne - Die Kornkreise, 2010)
+Published with German versions of the Carcassonne base game.
+Six new tiles depicting three pairs of symbols allowing players to add or remove followers from other tiles
+Carcassonne – The Plague (Carcassonne – Die Pest, 2010)
+Published in Spielbox, Issue 2010/6
+Six new tiles depicting plague zones allowing players to remove followers from tiles.
+Six small tiles numbered from 1 to 6
+18 flea chips
+Carcassonne — The Festival (2011)
+Included as a bonus with the 10th anniversary edition of the base game.
+Ten additional tiles (1 for each year since the game's release represent the festival) which allows you to either place a follower as normal, or take one back from any tile.
+Not available as a stand-alone.
+Carcassonne — The Phantom (2011)
+Released as stand alone mini expansion
+Six additional followers, 1 for each color that represent phantoms and allow a second follower to be placed on a turn.
+This is the first expansion that does not include tiles, and is also the first time meeples have been released in plastic. Each meeple is a see-through acrylic of a different color to represent a phantom.
+0 additional tiles.
+Not compatible with the 10th anniversary edition of the base game (10th edition replaced all of the wooden meeples with the same plastic meeples used in the phantom expansion; which makes it impossible to tell them apart even though they would use new rules)
+Carcassonne Minis (2012)
+Six stand-alone mini expansions, with each containing a tile for a seventh mini expansion.
+1. Carcassonne — The Flying Machines (Carcassonne — Die Fluggeräte)
+8 tiles which allow the player to "fly" to claim an unfinished feature (even if already occupied), or to "crash" by landing where there are no tiles, by rolling a die that gives only 1/2/3.
+1 Custom Die
+Plus a bonus Corn Circles II tile.
+2. Carcassonne — The Messages (Carcassonne — Die Depeschen)
+6 new Messenger Meeple for the scorecard which allow for possible bonus points by drawing from a new stack of action tiles.
+8 action tiles
+Plus a bonus Corn Circles II tile.
+3. Carcassonne — The Ferries (Carcassonne — Die Fähren)
+8 tiles featuring roads leading to lakes. Players may place an included ferry piece to extend a road.
+8 Ferry pieces
+Plus a bonus Corn Circles II tile.
+4. Carcassonne — The Gold Mines (Carcassonne — Die Goldminen)
+8 tiles which incorporate the included gold bar pieces, that allow for bonus points at the end of the game
+16 Gold Bar pieces
+Plus a bonus Corn Circles II tile.
+5. Carcassonne — Mage & Witch (Carcassonne — Magier & Hexe)
+8 tiles which allow placement of the Mage or Witch on incomplete features. Resulting in adjusted scoring when completed.
+1 Mage figure, & 1 Witch figure
+Plus a bonus Corn Circles II tile.
+6. Carcassonne — The Robbers (Carcassonne — Die Räuber)
+8 tiles which allow placement of a Robber, resulting in stealing some of another player's points.
+6 Robber Meeples
+Plus a bonus Corn Circles II tile.
+7. Carcassonne — Corn Circles II (Carcassonne - Die Kornkreise)
+6 tiles making a new Corn Circles expansion composed of each of the bonus tiles from the 6 minis.
+Corn circles allow for placement of a second follower in a feature already claimed by that player, or to remove a follower from the board.
+Different Corn Circle tiles from that of the previous Corn Circles expansion. (Can both be combined for more Corn Circles.)
+Not available as a stand alone.
+Carcassonne Big Box
+The original game,
+Inns and Cathedrals
+Traders and Builders
+The Princess and the Dragon
+Tower
+River (only in Rio Grande version)
+Carcassonne — Count, King and Robber (»Carcassonne — Graf, König und Konsorten«, 2002)
+A compilation of mini-expansions:
+Count of Carcassonne
+King and Robber
+River 2
+Heretics & Shrines
+Carcassonne — Cult, Siege, and Creativity (2008)
+Cult (with one additional tile)
+Siege (an adaptation of the Cathars expansion)
+Two blank white tiles for use in making custom expansions
+Carcassonne Big Box 2 (2008, 2009)
+This Big Box is the same size as the previous Big Box, but with a slightly different component mix.
+The original game
+Inns and Cathedrals
+Traders and Builders
+The Princess and the Dragon
+Abbey and Mayor
+Count, King and Cult
+River II
+Carcassonne Big Box 3 (2010, 2011)
+The original game
+Inns and Cathedrals
+Traders and Builders
+The Princess and the Dragon
+Abbey and Mayor
+Bridges, Castles and Bazaars
+Carcassonne 10 year anniversary edition (2011)
+A stand alone release of the original game to celebrate the 10th anniversary with special packaging, "crystal" meeples made from see through acrylic and a special mini expansion, the festival.
+The original game,
+The Festival
+Meeple shaped storage box (holds only the base game and meeples, no room for expansions)
+Acrylic meeples (not compatible with phantom expansion which uses the same figures to create new rules options)
+Carcassonne Big Box 4 (2012)
+This Big Box edition is published by Z-Man Games.
+The original game
+Inns and Cathedrals
+Traders and Builders
+Mini Expansion 1 - The Flying Machines
+Mini Expansion 2 - The Messengers
+Mini Expansion 3 - The Ferries
+Mini Expansion 4 - The Gold Mines
+Mini Expansion 5 - Mage & Witch
+Mini Expansion 6 - The Robbers
+Mini Expansion 7 - The Crop Circles II
+In addition, some retailers offer bundles of expansions without unique branding.
+Carcassonne Big Box 5 (2014)
+This Big Box edition is published by Z-Man Games.
+The original game
+Inns and Cathedrals
+Traders and Builders
+Hills & Sheep
+The Wheel of Fortune
+Mini Expansion - The River
+New Meeples for 7 & 8 player games
+Following the success of Carcassonne, a number of games have been spun off from the main game, all sharing similar mechanics. There is also a travel-sized version of the original game, Travel Carcassonne (Reise-Carcassonne), released in 2007.
+Carcassonne: Hunters and Gatherers (Carcassonne: Die Jäger und Sammler, 2002)
+Hunters and Gatherers is a stand-alone game that involves the building of forests, rivers and wildlife rather than cities and roads. This game attempted to rectify some perceived faults in the original by eliminating cloisters, introducing a "special tile" system to encourage players to complete cities (now forests) owned by other players, and making the value of meadows vary both up and down with animals that appear on the tiles.
+The Ark of the Covenant (2003)
+Ark is a biblical-themed version of Carcassonne by Inspiration Games based on the Old Testament, which includes the animal feature found in Hunters and Gatherers, as well as the Ark itself which may be moved in lieu of follower placement, scoring points for followers that they pass through.
+Carcassonne: The Castle (Carcassonne: Die Burg, 2003)
+The Castle is a two-player spin-off, designed by Reiner Knizia, where the game is played within the confines of a fixed castle. Players gain extra abilities by scoring an exact number of points, and tile placement rules are relaxed.
+Carcassonne: The City (Carcassonne: Die Stadt, 2004)
+The City is a "deluxe-style" stand-alone game similar to The Castle, where tile placement is relaxed. The significant new rules involve the addition of city walls when the city grows beyond a certain size.
+Carcassonne: The Discovery (Carcassonne: Neues Land, 2005)
+An exploration-themed stand-alone game that involves mountains, seas and meadows. The significant change in this game is that followers are no longer automatically removed when a terrain feature is completed: they must be removed as a game action, in lieu of placing a new follower that turn. Players may choose to remove a follower from, and score for, a terrain feature before it is completed, albeit for fewer points; followers remaining on the map at the end of the game also suffer a score penalty even if the features they are standing on are completed.
+New World: A Carcassonne Game (Carcassonne: Mayflower, 2008)
+New World is a stand-alone game that allows players to play Carcassonne in the New World, aka America. Players begin the basic tile-laying from a coastal edge and move westward, creating towns, hunting, farming, and trail blazing as they go along. Although terminology has changed, this game follows the basic rules of Carcassonne very closely but is more restricted than the basic game.
+The Kids of Carcassonne (Die Kinder von Carcassonne, 2009)
+Unveiled at the Nuremberg International Toy Fair in February 2009 this is a short game for younger children inspired by Carcassonne, designed by Marco Teubner.
+Cardcassonne (2009)
+This is a card game based on Carcassonne.
+Carcassonne: South Seas (Carcassonne: Südsee, 2013)
+A tropical-themed version, varying gameplay by adding a resource element that affects the point score.
+Carcassonne: Gold Rush (Carcassonne: Goldrausch, 2014)
+Gold Rush is the second title in the "Carcassonne: Around the World" series of tile-laying games. Gold Rush, players return to the 19th century in the United States. Players mine for gold and complete railroads to score points. A new mechanic is the Tent which can be used to steal Golden Tokens from other players before they complete their mountain.
+Carcassonne: Over Hill and Dale (Carcassonne: Über Stock und Stein, 2015)
+Over Hill and Dale is a standalone game in the Carcassonne series. In this new game, towns and castles are replaced by fields of fruits and vegetables. Fruit is collected, stables are built to house animals, and paths can be walked down to score points.
+Carcassonne: Star Wars (Carcassonne: Star Wars, 2015)
+Star Wars The known rules of 'Carcassonne' are simplified by removing the farmer mechanic, but Cloisters are replaced with Planets that can be attacked, by rolling dice to beat one's opponent. Co-op play is introduced with a 2v2 mechanism.
+Carcassonne for Facebook
+A Facebook application.
+Carcassonne for iOS
+An iPhone and iPad application developed by TheCodingMonkeys. This version has a Metacritic rating of 93% based on 10 critic reviews.
+Carcassonne for Windows Phone
+An Xbox Live-enabled Windows Phone 8 application.
+Carcassonne on mobile- and smartphones (Android, J2ME)
+Developed by exozet games. Release: July/August 2011.
+Carcassonne: The Computer Game
+A PC-based version of Carcassonne that included AI, online, and hotseat modes. It was distributed only in Germany by games company Koch Media and discontinued in 2006.
+Carcassonne on BrettspielWelt (BSW)
+Includes the expansions: The River, Inns & Cathedrals, Traders & Builders, Princess & Dragon, and King & Scout, as well as options to score based on different rulesets used across various editions of the game.
+Carcassonne for Xbox 360
+In 2006, Microsoft announced in a press release that Carcassonne would be an Xbox Live Arcade title alongside Catan and Alhambra. The title was published by Sierra Online and released on June 27, 2007; it includes all the tiles of the original game and those of "The River" expansion. This version of the game uses the 3rd Edition scoring rules by default; the game allows alternate and/or older rules for non-ranked and single player games. Sierra had promised to release the expansions as well. As of October 30, 2009, The River II expansion and King & Baron (King & Scout) expansions are available. On November 15, 2007, Microsoft made Carcassonne available free of charge for seven days to celebrate the fifth anniversary of their Xbox Live service.
+Carcassonne for Nintendo DS
+Video game news website Kotaku announced on July 9, 2009 that an iteration of the game will be released on Nintendo DS in 2009. According to Kotaku, the game will include the "River" expansion as well as three new "worlds" described as "Asian, Nordic and Arabic."
+JCloisterZone
+A PC-based application implemented in Java.
+"Age of Thieves"
+A game made for AmigaOS 4.1
+Concarneau
+A web version of the game implemented in JavaScript.
+International Carcassonne tournaments were held in Germany in 2003-2005.
+The first official Carcassonne world championship was held at SPIEL in Essen, Germany, in 2006, and every year after that. The fifth was held on October 24, 2010 during SPIEL but in an alternate location in Herne, Germany. Ralph Querfurth has been the World Champion for four out of five years.

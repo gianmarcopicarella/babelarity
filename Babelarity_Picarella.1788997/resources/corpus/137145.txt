@@ -1,0 +1,42 @@
+Atomoxetine (brand name: Strattera) is a monoamine reuptake inhibitor predominantly affecting norepinephrine which is approved for the treatment of attention deficit hyperactivity disorder (ADHD).
+Classified as a norepinephrine (noradrenaline) reuptake inhibitor (NRI), atomoxetine is approved for use in children, adolescents, and adults. However, its efficacy has not been studied in children under six years old. Its primary advantage over the standard stimulant treatments for ADHD is that it has little known abuse potential. While it has been shown to significantly reduce inattentive and hyperactive symptoms, the responses were lower than the response to stimulants. Additionally, 40% of participants who were treated with Atomoxetine experienced significant residual ADHD symptoms.
+The initial therapeutic effects of atomoxetine usually take 2–4 weeks to become apparent. A further 2–4 weeks may be required for the full therapeutic effects to be seen. Its efficacy may be less than that of stimulant medications.
+Unlike α2 adrenoceptor agonists such as guanfacine and clonidine, atomoxetine's use can be abruptly stopped without significant withdrawal effects being seen.
+There has been some suggestion that atomoxetine might be a helpful adjunct in people with major depression, particularly in cases where ADHD occurs comorbidly to major depression.
+Incidence of adverse effects:
+Very common (>10% incidence) adverse effects include:
+Nausea (26%)
+Xerostomia (Dry mouth) (20%)
+Appetite loss (16%)
+Insomnia (15%)
+Fatigue (10%)
+Headache
+Cough
+Common (1-10% incidence) adverse effects include:
+Uncommon (0.1-1% incidence) adverse effects include:
+Rare (0.01-0.1% incidence) adverse effects including
+Raynaud's phenomenon
+Abnormal/increased liver function tests
+Jaundice
+Hepatitis
+Liver injury
+Acute liver failure
+Urinary retention
+Priapism
+Male genital pain
+The FDA of the US has issued a black box warning for suicidal behaviour/ideation. Similar warnings have been issued in Australia. Unlike stimulant medications, atomoxetine does not have abuse liability or the potential to cause withdrawal effects on abrupt discontinuation.
+Contraindications include:
+Atomoxetine is a substrate for CYP2D6 and hence concurrent treatment with CYP2D6 inhibitors such as bupropion (Wellbutrin) or fluoxetine (Prozac) is not recommended, as this can lead to significant elevations of plasma atomoxetine levels. CYP2D6 is not very susceptible to enzyme induction. Other possible drug interactions include:
+Atomoxetine is relatively non-toxic in overdose. Single-drug overdoses involving over 1500 mg of atomoxetine have not resulted in death. The most common symptoms of overdose include:
+Less common symptoms:
+Seizures
+QTc interval prolongation
+The recommended treatment for atomoxetine overdose includes use of activated charcoal to prevent further absorption of the drug.
+Atomoxetine may be quantitated in plasma, serum or whole blood in order to distinguish extensive versus poor metabolizers in those receiving the drug therapeutically, to confirm the diagnosis in potential poisoning victims or to assist in the forensic investigation in a case of fatal overdosage.
+Atomoxetine is designated chemically as (−)-N-methyl-3-phenyl-3-(o-tolyloxy)-propylamine hydrochloride, and has a molecular mass of 291.82. It has a solubility of 27.8 mg/ml in water. Atomoxetine is a white solid that exists as a granular powder inside the capsule, along with pregelatinized starch and dimethicone. The capsule shells contain gelatin, sodium lauryl sulfate, FD&C Blue No. 2, yellow iron oxide, titanium dioxide, red iron oxide, edible black ink, and trace amounts of other inactive ingredients.
+Atomoxetine inhibits NET, SERT, and DAT with respective Ki values of 5, 77, and 1451 nM. In microdialysis studies, it increased NE and DA levels by three-fold in the prefrontal cortex, but did not alter DA levels in the striatum or nucleus accumbens. Atomoxetine's selective increase in NE and DA are due to a lack of high concentrations of DAT in the prefrontal cortex (where the NET transports DA instead), and the nucleus accumbens's relative paucity of NE neurons. A PET imaging study of rhesus monkeys found that atomoxetine inhibited the NET and SERT with IC50 values of 31 ng/mL and 99 ng/mL plasma, respectively, and that at clinically relevant doses, atomoxetine would occupy >90% of NET and >85% of SERT. Assuming that these findings translate to humans, atomoxetine would in fact be a serotonin-norepinephrine reuptake inhibitor (SNRI) rather than a selective NRI as has conventionally been assumed.
+Atomoxetine also acts as an NMDA receptor antagonist at clinically relevant doses. The role of NMDA receptor antagonism in atomoxetine's therapeutic profile remains to be further elucidated, but recent literature has further implicated glutaminergic dysfunction as central in ADHD pathophysiology and etiology. 4-Hydroxyatomoxetine, the principle metabolite of atomoxetine, exhibits relatively weak affinity for μ-opioid receptors and κ-opioid receptors. Creighton et al. reported antagonism of μ-opioid receptors and a partial agonist action at κ-opioid receptors. The clinical significance of these effects are not known. Atomoxetine has been found to inhibit both brain and cardiac G protein-coupled inwardly-rectifying potassium channels, a characteristic it shares with the related drug reboxetine.
+Atomoxetine is manufactured, marketed, and sold in the United States as the hydrochloride salt (atomoxetine HCl) under the brand name Strattera by Eli Lilly and Company, the original patent-filing company and current U.S. patent owner. Strattera was approved by the FDA in 2006 for the treatment of ADHD. No generic is manufactured directly in the United States since it is under patent until 2017. On 12 August 2010, Lilly lost a lawsuit that challenged its patent on Strattera, increasing the likelihood of an earlier entry of a generic into the US market. On 1 September 2010, Sun Pharmaceuticals announced it would begin manufacturing a generic in the United States. In a 29 July 2011 conference call, however, Sun Pharmaceutical's Chairman stated "Lilly won that litigation on appeal so I think [generic Strattera]’s deferred."
+In India, atomoxetine is sold under brand names including Attentrol [Sun Pharma], Axepta, [Intas Pharma] Attera [Icon pharma], Tomoxetin [Torrent Pharma], Atokem [Alkem Pharma], and Attentin [Ranbaxy Pharma].
+In Romania, atomoxetine is sold under the brand name Strattera and as a generic made by Sun Pharmaceuticals.
+In Iran, atomoxetine is sold under brand names including stramox by TeKaJe Co.

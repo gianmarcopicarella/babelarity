@@ -1,0 +1,33 @@
+In meteorology and aviation, terminal aerodrome forecast (TAF) is a format for reporting weather forecast information, particularly as it relates to aviation. TAFs are issued every six hours for major civil airfields: 0000,0600,1200,1800 UTC, and generally apply to a 24- or 30-hour period, and an area within approximately five statute miles (or 5NM in Canada) from the center of an airport runway complex. TAFS are issued every 3 hours for military airfields and some civil airfields and cover a period ranging from 3 hours to 24 hours.
+TAFs complement and use similar encoding to METAR reports. They are produced by a human forecaster based on the ground. For this reason there are considerably fewer TAF locations than there are airports for which METARs are available. TAFs can be more accurate than Numerical Weather Forecasts, since they take into account local, small-scale, geographic effects.
+In the United States the weather forecasters responsible for the TAFs in their respective areas are located within one of the 122 Weather Forecast Offices operated by the United States' National Weather Service. In contrast, a trend type forecast (TTF), which is similar to a TAF, is always produced by a person on-site where the TTF applies. In the United Kingdom most TAFs at military airfields are produced locally, however TAFs for civil airfields are produced at the Met Office headquarters in Exeter.
+The United States Air Force employs active duty enlisted personnel as TAF writers. Air Force weather personnel are responsible for providing weather support for all Air Force and Army operations.
+Different countries use different change criteria for their weather groups. In the United Kingdom, TAFs for military airfields use colour states as one of the change criteria. Civil airfields in the UK use slightly different criteria.
+This TAF example of a 30-hour TAF, released on November 5, 2008 at 1730 UTC:
+TAF 
+KXYZ 051730Z 0518/0624 31008KT 3SM -SHRA BKN020
+     FM052300 30006KT 5SM -SHRA OVC030 
+      PROB30 0604/0606 VRB20G35KT 1SM TSRA BKN015CB 
+     FM060600 25010KT 4SM -SHRA OVC050
+      TEMPO 0608/0611 2SM -SHRA OVC030  
+     RMK NXT FCST BY 00Z=
+The first line contains identification and validity times.
+TAF indicates that the following is a terminal aerodrome forecast.
+KXYZ indicates the airport to which the forecast applies (ICAO airport code).
+051730Z indicates that the report was issued on the 5th of the month at 1730 UTC (also known as Zulu, thus the "Z").
+0518/0624 indicates that the report is valid from the 5th at 1800 UTC until the 6th at 2400 UTC.
+The remainder of the first line contain the initial forecast conditions. Variations of the codes used for various weather conditions are many.
+31008KT indicates that the wind will be from 310 degrees true at 8 knots.
+3SM -SHRA BKN020 indicates that visibility will be 3 statute miles in light (-) rain (RA) showers (SH), with a broken ceiling (between 5/8 and 7/8 of the sky covered) at 2,000 feet AGL.
+Each line beginning with FM indicates a rapid change in the weather over a period of less than an hour.
+FM052300 indicates the next period lasts from (FM) the 5th at 2300 UTC to the 6th at 0600 UTC (the effective time on the next "FM" line). The remainder of the line has similar formatting to the other forecast lines.
+The final line is for errata, comments, and remarks.
+RMK NXT FCST BY 00Z indicates a remark that the next forecast will be issued by 0000 UTC.
+Area forecast
+IWXXM
+METAR
+Pilot report
+Selection of current worldwide TAF reports from the US NOAA
+CheckWX Raw and decoded TAFs, trends and graphs searchable by location.
+How to create a METAR/TAF browser bookmark for a group of airports An easy method to check current worldwide METAR/TAF weather reports from your browser.
+IWXXM 1.0 Official WMO/ICAO representation of TAF information in XML

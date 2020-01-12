@@ -1,0 +1,77 @@
+Onomasiology (from Greek: ὀνομάζω (onomāzο) — to name, which in turn is from ὄνομα — name) is a branch of linguistics concerned with the question "how do you express X?" It is in fact most commonly understood as a branch of lexicology, the study of words (although some apply the term also to grammar and conversation).
+Onomasiology, as a part of lexicology, starts from a concept which is taken to be prior (i.e. an idea, an object, a quality, an activity etc.) and asks for its names. The opposite approach is known as semasiology: here one starts with a word and asks what it means, or what concepts the word refers to. Thus, an onomasiological question is, e.g., "what are the names for long, narrow pieces of potato that have been deep-fried?" (answers: french fries in the US, chips in the UK, etc.), while a semasiological question is, e.g., "what is the meaning of the term chips?" (answers: 'long, narrow pieces of potato that have been deep-fried' in the UK, 'slim slices of potatoes deep fried or baked until crisp' in the US).
+Onomasiology can be carried out synchronically or diachronically, i.e. historically. The majority of linguists seem to link onomasiology automatically to diachronic questions, i.e. questions on how and why things change their names. Therefore, the following sections refer predominantly to onomasiology in its diachronic perspective.
+Onomasiology was initiated in the late 19th century, but it didn’t receive its name until 1902, when the Austrian linguist Adolf Zauner published his study on the body-part terminology in Romance languages. And it was in Romance linguistics that the most important onomasiological works were written. Early linguists were basically interested in the etymology (i.e. the word-history) of the various expressions for a concept which was mostly a clearly defined, unchangeable concrete object or action. Later the Austrian linguists Rudolf Meringer and Hugo Schuchardt started the “Wörter und Sachen” movement, which emphasized that every study of a word needed to include the study of the object it denotes. It was also Schuchardt who underlined that the etymologist/onomasiologist, when tracing back the history of a word, needs to respect both the “dame phonétique” (prove the regularity of sound changes or explain irregularities) and the “dame sémantique” (justify semantic changes). Another branch that developed from onomasiology and, at the same time, enriched it in turn was linguistic geography (areal linguistics), since it provided onomasiologists with valuable linguistic atlases. The first ones are Sprachatlas des Deutschen Reiches of Georg Wenker and Ferdinand Wrede, published beginning in 1888, the ALF (Atlas Linguistique de la France) by Jules Gilliéron (1902–20), the AIS (Sprach- und Sachatlas Italiens und der Südschweiz) by Karl Jaberg and Jakob Jud (1928–1940) (Web navigable version NavigAIS-web), the DSA (Deutscher Sprachatlas) by Ferdinand Wrede et al. (1927–1956). These atlases include maps that show the corresponding names for a concept in different regions as they were gathered in interviews with dialect speakers (mostly old rural males) by means of a questionnaire. Concerning English linguistics, onomasiology as well as linguistic geography has been playing only a minor role (the first linguistic atlas for the US was initiated by Hans Kurath, the first one for the UK by Eugen Dieth). In 1931 the German linguist Jost Trier introduced a new method in his book Der deutsche Wortschatz im Sinnbezirk des Verstandes which is known as the lexical field theory. According to Trier, lexical changes must always be seen, apart from the traditional aspects, in connection with the changes within a given word-field. After World War II few studies on onomasiological theory have been carried out (e.g. by Cecil H. Brown, Stanley R. Witkowski, Brent Berlin). But onomasiology has recently seen new light with the works of Dirk Geeraerts, Andreas Blank, Peter Koch and the periodical Onomasiology Online, which is published at the Katholische Universität Eichstätt-Ingolstadt by Joachim Grzega, Alfred Bammesberger and Marion Schöner. A recent representative of synchronic onomasiology (with a focus on word-formation processes) is Pavol Stekauer.
+The most important instruments for the historical onomasiologist are:
+the linguistic atlas
+the etymological dictionary
+the dialect dictionary
+thesauri
+diachronic text corpora
+When a speaker has to name something, they first try to categorize it. If the speaker can classify the referent as member of a familiar concept, they will carry out some sort of cognitive-linguistic cost-benefit-analysis: what should I say to get what I want. Based on this analysis, the speaker can then either fall back on an already existing word or decide to coin a new designation. These processes are sometimes more conscious, sometimes less conscious.
+The coinage of a new designation can be incited by various forces (cf. Grzega 2004):
+difficulties in classifying the thing to be named or attributing the right word to the thing to be named, thus confusing designations
+fuzzy difference between superordinate and subordinate term due to the monopoly of the prototypical member of a category in the real world
+everyday contact situations
+institutionalized and non-institutionalized linguistic pre- and proscriptivism
+flattery
+insult
+disguising things (i.e. euphemistic language, doublespeak)
+taboo
+avoidance of words that are phonetically similar or identical to negatively associated words
+abolition of forms that can be ambiguous in many contexts
+wordplay/puns
+excessive length of words
+morphological misinterpretation (creation of transparency by changes within a word = folk-etymology)
+deletion of irregularity
+desire for plastic/illustrative/telling names for a thing
+natural prominence of a concept
+cultural-induced prominence of a concept
+changes in the world
+changes in the categorization of the world
+prestige/fashion (based on the prestige of another language or variety, of certain word-formation patterns, or of certain semasiological centers of expansion)
+The following alleged motives found in many works have been claimed (with corresponding argumentation) to be invalid by Grzega (2004): decrease in salience, reading errors, laziness, excessive phonetic shortness, difficult sound combinations, unclear stress patterns, cacophony.
+In the case of intentional, conscious innovation, speakers have to pass several levels of a word-finding or name-giving process: (1) analysis of the specific features of the concept, (2) onomasiological level (where the semantic components for the naming units are selected [“naming in a more abstract sense”]), (3) the onomatological level (where the concrete morphemes are selected [“naming in a more concrete sense”]). The level of feature analysis (and possibly the onomasiological level) can be spared if the speaker simply borrows a word from a foreign language or variety; it is also spared if the speaker simply takes the word s/he originally fell back to and just shortens it.
+If the speaker does not shorten an already existing word for the concept, but coins a new one, s/he can select from several types of processes. These coinages may be based on a model from the speaker’s own idiom, on a model from a foreign idiom, or, in the case of root creations, on no model at all. In sum, we get the following catalog of formal processes of word-coining (cf. Koch 2002):
+adoption of either
+an already existing word of speaker’s own language (semantic change) or (b)
+a word from a foreign language (loanword)
+conversion (e.g. to e-mail from the noun e-mail)
+composition (in a broad sense, i.e. compounds and derivations, which are, very consciously, not further subclassified)
+ellipsis (i.e. morpheme deletion, e.g. the noun daily from daily newspaper)
+clipping (i.e. morpheme shortening, e.g. fan from fanatic)
+acronyms (e.g. VAT from value added tax)
+blendings (including folk-etymologies, although these come up non-intentionally, e.g. sparrow-grass for asparagus)
+back-derivation (e.g. to baby-sit from babysitter)
+reduplication (e.g. goody-goody)
+morphological alteration (e.g. number change as in people as a plural word instead of a singular word)
+tautological compounds (e.g. peacock for original pea, which already meant 'peacock')
+wordplaying/puns
+stress alteration (e.g. stress shift in E. ímport vs. impórt)
+graphic alteration (e.g. E. discrete vs. discreet)
+phraseologism
+root creation (including onomatopoetic and expressive words)
+The name-giving process is completed with (4) the actual phonetic realization on the morphonological level.
+In order to create a new word, the speaker first selects one or two physically and psychologically salient aspects. The search for the motivations (iconemes) is based on one or several cognitive-associative relations. These relations are:
+contiguity relations (= “neighbor-of” relations)
+similarity relations (= “similar-to” relations)
+partiality relations (= “part-of” relations)
+contrast relations (= “opposite-to” relations)
+These relations can be seen between forms, between concepts and between form and concept.
+A complete catalog reads the following associative relations (cf. also Koch 2002):
+identity (e.g. with loans)
+“figurative”, i.e. individually felt, similarity of the concepts (e.g. mouse for a computer device that looks like a mouse)
+contiguity of concepts (e.g. a Picasso for a painting by Picasso or glass for a container made out of glass)
+partiality of concepts (e.g. bar 'place of an inn where drinks are mixed' for the entire inn)
+contrast of concepts (e.g. bad in the sense of "good")
+“literal” or “figurative” similarity between the forms of a sign and the concept (e.g. with onomatopoetic words like purr)
+strong relation between contents of signs and “literal” similarity of concepts (e.g. with generalization of meaning, e.g. Christmas tree for any kind of fir tree or even any kind of conifer)
+strong relation between contents of signs and contrast of concepts (e.g. with learn in the sense of "teach" in some English dialects)
+strong relation between contents of signs and “literal” similarity of concepts (e.g. corn in the English sense of "wheat" or Scottish sense of "oats" instead of "cereal")
+(“literal”) similarity of the forms of signs (e.g. sparrow-grass for asparagus)
+contiguity of the forms of signs (e.g. brunch from breakfast + lunch, VAT from value added tax)
+“literal”, i.e. objectively visible, similarity and contiguity of concepts (e.g. with the transfer of names among spruce and fir in many dialects)
+“literal” similarity of referents and strong relation between contents of signs
+multiple associations (e.g. with certain forms of word-play)
+The concrete associations can or cannot be incited by a model which may be of speaker’s own idiom or a foreign idiom.
+Semasiology

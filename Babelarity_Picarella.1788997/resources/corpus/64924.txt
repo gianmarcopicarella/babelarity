@@ -1,0 +1,1076 @@
+In mathematics, the triangle inequality states that for any triangle, the sum of the lengths of any two sides must be greater than or equal to the length of the remaining side. If x, y, and z are the lengths of the sides of the triangle, with no side being greater than z, then the triangle inequality states that
+        z
+        ≤
+        x
+        +
+        y
+        ,
+    {\displaystyle z\leq x+y,}
+with equality only in the degenerate case of a triangle with zero area. In Euclidean geometry and some other geometries, the triangle inequality is a theorem about distances, and it is written using vectors and vector lengths (norms):
+        ∥
+          x
+        +
+          y
+        ∥
+        ≤
+        ∥
+          x
+        ∥
+        +
+        ∥
+          y
+        ∥
+        ,
+    {\displaystyle \|\mathbf {x} +\mathbf {y} \|\leq \|\mathbf {x} \|+\|\mathbf {y} \|,}
+where the length z of the third side has been replaced by the vector sum x + y. When x and y are real numbers, they can be viewed as vectors in ℝ1, and the triangle inequality expresses a relationship between absolute values.
+In Euclidean geometry, for right triangles the triangle inequality is a consequence of the Pythagorean theorem, and for general triangles a consequence of the law of cosines, although it may be proven without these theorems. The inequality can be viewed intuitively in either ℝ2 or ℝ3. The figure at the right shows three examples beginning with clear inequality (top) and approaching equality (bottom). In the Euclidean case, equality occurs only if the triangle has a 180° angle and two 0° angles, making the three vertices collinear, as shown in the bottom example. Thus, in Euclidean geometry, the shortest distance between two points is a straight line.
+In spherical geometry, the shortest distance between two points is an arc of a great circle, but the triangle inequality holds provided the restriction is made that the distance between two points on a sphere is the length of a minor spherical line segment (that is, one with central angle in [0, π]) with those endpoints.
+The triangle inequality is a defining property of norms and measures of distance. This property must be established as a theorem for any function proposed for such purposes for each particular space: for example, spaces such as the real numbers, Euclidean spaces, the Lp spaces (p ≥ 1), and inner product spaces.
+Euclid proved the triangle inequality for distances in plane geometry using the construction in the figure. Beginning with triangle ABC, an isosceles triangle is constructed with one side taken as BC and the other equal leg BD along the extension of side AB. It then is argued that angle β > α, so side AD > AC. But AD = AB + BD = AB + BC so the sum of sides AB + BC > AC. This proof appears in Euclid's Elements, Book 1, Proposition 20.
+The triangle inequality, as stated in words, literally translates into three inequalities (given that the side lengths a, b, c are all positive):
+        a
+        +
+        b
+        >
+        c
+        ,
+        b
+        +
+        c
+        >
+        a
+        ,
+        c
+        +
+        a
+        >
+        b
+        .
+    {\displaystyle a+b>c,\quad b+c>a,\quad c+a>b.}
+A more succinct form of this inequality system can be shown to be
+          |
+        a
+        −
+        b
+          |
+        <
+        c
+        <
+        a
+        +
+        b
+        .
+    {\displaystyle |a-b|<c<a+b.}
+Another way to state it is
+        max
+        (
+        a
+        ,
+        b
+        ,
+        c
+        )
+        <
+        a
+        +
+        b
+        +
+        c
+        −
+        max
+        (
+        a
+        ,
+        b
+        ,
+        c
+        )
+    {\displaystyle \max(a,b,c)<a+b+c-\max(a,b,c)}
+implying
+        2
+        max
+        (
+        a
+        ,
+        b
+        ,
+        c
+        )
+        <
+        a
+        +
+        b
+        +
+        c
+    {\displaystyle 2\max(a,b,c)<a+b+c}
+and thus that the longest side length is less than the semiperimeter.
+A mathematically equivalent formulation is that the area of a triangle with sides a, b, c must be a real number. Heron's formula for the area is
+        4
+        ⋅
+          Area
+        =
+            (
+            a
+            +
+            b
+            +
+            c
+            )
+            (
+            −
+            a
+            +
+            b
+            +
+            c
+            )
+            (
+            a
+            −
+            b
+            +
+            c
+            )
+            (
+            a
+            +
+            b
+            −
+            c
+            )
+    {\displaystyle 4\cdot {\text{Area}}={\sqrt {(a+b+c)(-a+b+c)(a-b+c)(a+b-c)}}}
+        =
+            −
+              a
+                4
+            −
+              b
+                4
+            −
+              c
+                4
+            +
+            2
+              a
+                2
+              b
+                2
+            +
+            2
+              a
+                2
+              c
+                2
+            +
+            2
+              b
+                2
+              c
+                2
+        .
+    {\displaystyle ={\sqrt {-a^{4}-b^{4}-c^{4}+2a^{2}b^{2}+2a^{2}c^{2}+2b^{2}c^{2}}}.}
+In terms of either area expression, the triangle inequality imposed on all sides is equivalent to the condition that the expression under the square root sign be non-negative (so the area expression is real).
+A specialization of this argument to right triangles is:
+In a right triangle, the hypotenuse is greater than either of the two sides, and less than their sum.
+The second part of this theorem is already established above for any side of any triangle. The first part is established using the lower figure. In the figure, consider the right triangle ADC. An isosceles triangle ABC is constructed with equal sides AB = AC. From the triangle postulate, the angles in the right triangle ADC satisfy:
+        α
+        +
+        γ
+        =
+        π
+          /
+        2
+        .
+    {\displaystyle \alpha +\gamma =\pi /2\ .}
+Likewise, in the isosceles triangle ABC, the angles satisfy:
+        2
+        β
+        +
+        γ
+        =
+        π
+        .
+    {\displaystyle 2\beta +\gamma =\pi \ .}
+Therefore,
+        α
+        =
+        π
+          /
+        2
+        −
+        γ
+        ,
+          w
+          h
+          i
+          l
+          e
+        β
+        =
+        π
+          /
+        2
+        −
+        γ
+          /
+        2
+        ,
+    {\displaystyle \alpha =\pi /2-\gamma ,\ \mathrm {while} \ \beta =\pi /2-\gamma /2\ ,}
+and so, in particular,
+        α
+        <
+        β
+        .
+    {\displaystyle \alpha <\beta \ .}
+That means side AD opposite angle α is shorter than side AB opposite the larger angle β. But AB = AC. Hence:
+              A
+              C
+            ¯
+        >
+              A
+              D
+            ¯
+        .
+    {\displaystyle {\overline {\mathrm {AC} }}>{\overline {\mathrm {AD} }}\ .}
+A similar construction shows AC > DC, establishing the theorem.
+An alternative proof (also based upon the triangle postulate) proceeds by considering three positions for point B: (i) as depicted (which is to be proven), or (ii) B coincident with D (which would mean the isosceles triangle had two right angles as base angles plus the vertex angle γ, which would violate the triangle postulate), or lastly, (iii) B interior to the right triangle between points A and D (in which case angle ABC is an exterior angle of a right triangle BDC and therefore larger than π/2, meaning the other base angle of the isosceles triangle also is greater than π/2 and their sum exceeds π in violation of the triangle postulate).
+This theorem establishing inequalities is sharpened by Pythagoras' theorem to the equality that the square of the length of the hypotenuse equals the sum of the squares of the other two sides.
+Consider a triangle whose sides are in an arithmetic progression and let the sides be a, a + d, a + 2d. Then the triangle inequality requires that
+        0
+        <
+        a
+        <
+        2
+        a
+        +
+        3
+        d
+    {\displaystyle 0<a<2a+3d\,}
+        0
+        <
+        a
+        +
+        d
+        <
+        2
+        a
+        +
+        2
+        d
+    {\displaystyle 0<a+d<2a+2d\,}
+        0
+        <
+        a
+        +
+        2
+        d
+        <
+        2
+        a
+        +
+        d
+        .
+    {\displaystyle 0<a+2d<2a+d.\,}
+To satisfy all these inequalities requires
+        a
+        >
+        0
+           and 
+        −
+            a
+            3
+        <
+        d
+        <
+        a
+        .
+    {\displaystyle a>0{\text{ and }}-{\frac {a}{3}}<d<a.}
+When d is chosen such that d = a/3, it generates a right triangle that is always similar to the Pythagorean triple with sides 3, 4, 5.
+Now consider a triangle whose sides are in a geometric progression and let the sides be a, ar, ar2. Then the triangle inequality requires that
+        0
+        <
+        a
+        <
+        a
+        r
+        +
+        a
+          r
+            2
+    {\displaystyle 0<a<ar+ar^{2}\,}
+        0
+        <
+        a
+        r
+        <
+        a
+        +
+        a
+          r
+            2
+    {\displaystyle 0<ar<a+ar^{2}\,}
+        0
+        <
+        a
+          r
+            2
+        <
+        a
+        +
+        a
+        r
+        .
+    {\displaystyle 0<ar^{2}<a+ar.\,}
+The first inequality requires a > 0, consequently it can be divided through and eliminated. With a > 0, the middle inequality only requires r > 0. This now leaves the first and third inequalities needing to satisfy
+                  r
+                    2
+                +
+                r
+                −
+                1
+                >
+                0
+                  r
+                    2
+                −
+                r
+                −
+                1
+                <
+                0.
+    {\displaystyle {\begin{aligned}r^{2}+r-1&{}>0\\r^{2}-r-1&{}<0.\end{aligned}}\,}
+The first of these quadratic inequalities requires r to range in the region beyond the value of the positive root of the quadratic equation r2 + r − 1 = 0, i.e. r > φ − 1 where φ is the golden ratio. The second quadratic inequality requires r to range between 0 and the positive root of the quadratic equation r2 − r − 1 = 0, i.e. 0 < r < φ. The combined requirements result in r being confined to the range
+        φ
+        −
+        1
+        <
+        r
+        <
+        φ
+           and 
+        a
+        >
+        0.
+    {\displaystyle \varphi -1<r<\varphi \,{\text{ and }}a>0.\,}
+When r the common ratio is chosen such that r = √φ it generates a right triangle that is always similar to the Kepler triangle.
+The triangle inequality can be extended by mathematical induction to arbitrary polygonal paths, showing that the total length of such a path is no less than the length of the straight line between its endpoints. Consequently, the length of any polygon side is always less than the sum of the other polygon side lengths.
+Consider a quadrilateral whose sides are in a geometric progression and let the sides be a, ar, ar2, ar3. Then the generalized polygon inequality requires that
+        0
+        <
+        a
+        <
+        a
+        r
+        +
+        a
+          r
+            2
+        +
+        a
+          r
+            3
+    {\displaystyle 0<a<ar+ar^{2}+ar^{3}\,}
+        0
+        <
+        a
+        r
+        <
+        a
+        +
+        a
+          r
+            2
+        +
+        a
+          r
+            3
+    {\displaystyle 0<ar<a+ar^{2}+ar^{3}\,}
+        0
+        <
+        a
+          r
+            2
+        <
+        a
+        +
+        a
+        r
+        +
+        a
+          r
+            3
+    {\displaystyle 0<ar^{2}<a+ar+ar^{3}\,}
+        0
+        <
+        a
+          r
+            3
+        <
+        a
+        +
+        a
+        r
+        +
+        a
+          r
+            2
+        .
+    {\displaystyle 0<ar^{3}<a+ar+ar^{2}.\,}
+These inequalities for a > 0 reduce to the following
+          r
+            3
+        +
+          r
+            2
+        +
+        r
+        −
+        1
+        >
+        0
+    {\displaystyle r^{3}+r^{2}+r-1>0\,}
+          r
+            3
+        −
+          r
+            2
+        −
+        r
+        −
+        1
+        <
+        0.
+    {\displaystyle r^{3}-r^{2}-r-1<0.\,}
+The left-hand side polynomials of these two inequalities have roots that are the tribonacci constant and its reciprocal. Consequently, r is limited to the range 1/t < r < t where t is the tribonacci constant.
+This generalization can be used to prove that the shortest curve between two points in Euclidean geometry is a straight line.
+No polygonal path between two points is shorter than the line between them. This implies that no curve can have an arc length less than the distance between its endpoints. By definition, the arc length of a curve is the least upper bound of the lengths of all polygonal approximations of the curve. The result for polygonal paths shows that the straight line between the endpoints is shortest of all the polygonal approximations. Because the arc length of the curve is greater than or equal to the length of every polygonal approximation, the curve itself cannot be shorter than the straight line path.
+The converse of the triangle inequality theorem is also true: if three real numbers are such that each is less than the sum of the others, then there exists a triangle with these numbers as its side lengths and with positive area; and if one number equals the sum of the other two, there exists a degenerate triangle (I.e., with zero area) with these numbers as its side lengths.
+In either case, if the side lengths are a, b, c the triangle can be placed in the Cartesian plane with the vertex opposite length a at (0, 0), the vertex opposite length b at (c, 0), and the vertex opposite length c at (d, h).
+By the Pythagorean theorem we have b2 = h2 + d2 and a2 = h2 + (c − d)2 according to the figure at the right. Subtracting these yields a2 − b2 = c2 − 2cd. This equation allows us to express d in terms of the sides of the triangle:
+        d
+        =
+              −
+                a
+                  2
+              +
+                b
+                  2
+              +
+                c
+                  2
+              2
+              c
+    {\displaystyle d={\frac {-a^{2}+b^{2}+c^{2}}{2c}}}
+For the height of the triangle we have that h2 = b2 − d2. By replacing d with the formula given above,
+                  h
+                    2
+                =
+                  b
+                    2
+                −
+                    (
+                          −
+                            a
+                              2
+                          +
+                            b
+                              2
+                          +
+                            c
+                              2
+                          2
+                          c
+                    )
+                    2
+    {\displaystyle {\begin{aligned}h^{2}&=b^{2}-\left({\frac {-a^{2}+b^{2}+c^{2}}{2c}}\right)^{2}\\\end{aligned}}}
+          (
+          d
+          ,
+          h
+          )
+        =
+          (
+                  −
+                    a
+                      2
+                  +
+                    b
+                      2
+                  +
+                    c
+                      2
+                  2
+                  c
+          ,
+                b
+                  2
+              −
+                  (
+                          −
+                            a
+                              2
+                          +
+                            b
+                              2
+                          +
+                            c
+                              2
+                          2
+                          c
+                  )
+                  2
+          )
+    {\displaystyle \left(d,h\right)=\left({\tfrac {-a^{2}+b^{2}+c^{2}}{2c}},{\sqrt {b^{2}-\left({\tfrac {-a^{2}+b^{2}+c^{2}}{2c}}\right)^{2}}}\right)}
+h is a real number if and only if the triangle inequality is met for all sides.
+In Euclidean space, the hypervolume of an (n − 1)-facet of an n-simplex is less than or equal to the sum of the hypervolumes of the other n facets. In particular, the area of a triangular face of a tetrahedron is less than or equal to the sum of the areas of the other three sides.
+In a normed vector space V, one of the defining properties of the norm is the triangle inequality:
+          ∥
+          x
+          +
+          y
+          ∥
+          ≤
+          ∥
+          x
+          ∥
+          +
+          ∥
+          y
+          ∥
+          ∀
+          x
+          ,
+          y
+          ∈
+          V
+    {\displaystyle \displaystyle \|x+y\|\leq \|x\|+\|y\|\quad \forall \,x,y\in V}
+that is, the norm of the sum of two vectors is at most as large as the sum of the norms of the two vectors. This is also referred to as subadditivity. For any proposed function to behave as a norm, it must satisfy this requirement.
+If the normed space is euclidean, or, more generally, strictly convex, then 
+        ∥
+        x
+        +
+        y
+        ∥
+        =
+        ∥
+        x
+        ∥
+        +
+        ∥
+        y
+        ∥
+    {\displaystyle \|x+y\|=\|x\|+\|y\|}
+   if and only if the triangle formed by x, y, and x + y, is degenerate, that is, x and y are on the same ray, i.e., x = 0 or y = 0, or x = α y for some α > 0. This property characterizes strictly convex normed spaces such as the ℓp spaces with 1 < p < ∞. However, there are normed spaces in which this is not true. For instance, consider the plane with the ℓ1 norm (the Manhattan distance) and denote x = (1, 0) and y = (0, 1). Then the triangle formed by x, y, and x' + y, is non-degenerate but
+        ∥
+        x
+        +
+        y
+        ∥
+        =
+        ∥
+        (
+        1
+        ,
+        1
+        )
+        ∥
+        =
+          |
+        1
+          |
+        +
+          |
+        1
+          |
+        =
+        2
+        =
+        ∥
+        x
+        ∥
+        +
+        ∥
+        y
+        ∥
+        .
+    {\displaystyle \|x+y\|=\|(1,1)\|=|1|+|1|=2=\|x\|+\|y\|.}
+Absolute value as norm for the real line. To be a norm, the triangle inequality requires that the absolute value satisfy for any real numbers x and y:
+          |
+        x
+        +
+        y
+          |
+        ≤
+          |
+        x
+          |
+        +
+          |
+        y
+          |
+        ,
+    {\displaystyle |x+y|\leq |x|+|y|,}
+which it does.
+Proof:
+        −
+          |
+          x
+          |
+        ≤
+        x
+        ≤
+          |
+          x
+          |
+    {\displaystyle -\left\vert x\right\vert \leq x\leq \left\vert x\right\vert }
+        −
+          |
+          y
+          |
+        ≤
+        y
+        ≤
+          |
+          y
+          |
+    {\displaystyle -\left\vert y\right\vert \leq y\leq \left\vert y\right\vert }
+After adding,
+        −
+        (
+          |
+          x
+          |
+        +
+          |
+          y
+          |
+        )
+        ≤
+        x
+        +
+        y
+        ≤
+          |
+          x
+          |
+        +
+          |
+          y
+          |
+    {\displaystyle -(\left\vert x\right\vert +\left\vert y\right\vert )\leq x+y\leq \left\vert x\right\vert +\left\vert y\right\vert }
+Use the fact that 
+          |
+          b
+          |
+        ≤
+        a
+        ⇔
+        −
+        a
+        ≤
+        b
+        ≤
+        a
+    {\displaystyle \left\vert b\right\vert \leq a\Leftrightarrow -a\leq b\leq a}
+   (with b replaced by x+y and a by 
+          |
+          x
+          |
+        +
+          |
+          y
+          |
+    {\displaystyle \left\vert x\right\vert +\left\vert y\right\vert }
+  ), we have
+          |
+        x
+        +
+        y
+          |
+        ≤
+          |
+        x
+          |
+        +
+          |
+        y
+          |
+    {\displaystyle |x+y|\leq |x|+|y|}
+The triangle inequality is useful in mathematical analysis for determining the best upper estimate on the size of the sum of two numbers, in terms of the sizes of the individual numbers.
+There is also a lower estimate, which can be found using the reverse triangle inequality which states that for any real numbers x and y:
+          |
+        x
+        −
+        y
+          |
+        ≥
+            |
+          |
+        x
+          |
+        −
+          |
+        y
+          |
+            |
+        .
+    {\displaystyle |x-y|\geq {\bigg |}|x|-|y|{\bigg |}.}
+Inner product as norm in an inner product space. If the norm arises from an inner product (as is the case for Euclidean spaces), then the triangle inequality follows from the Cauchy–Schwarz inequality as follows: Given vectors x and y, and denoting the inner product as ⟨x, y⟩:
+where the last form is a consequence of:
+        ∥
+        x
+          ∥
+            2
+        +
+        2
+        ∥
+        x
+        ∥
+        ∥
+        y
+        ∥
+        +
+        ∥
+        y
+          ∥
+            2
+        =
+            (
+            ∥
+            x
+            ∥
+            +
+            ∥
+            y
+            ∥
+            )
+            2
+        .
+    {\displaystyle \|x\|^{2}+2\|x\|\|y\|+\|y\|^{2}=\left(\|x\|+\|y\|\right)^{2}\ .}
+The Cauchy-Schwarz Inequality turns into an equality if and only if x and y are linearly dependent. The inequality 
+        ⟨
+        x
+        ,
+        y
+        ⟩
+        +
+        ⟨
+        y
+        ,
+        x
+        ⟩
+        ≤
+        2
+          |
+        ⟨
+        x
+        ,
+        y
+        ⟩
+          |
+    {\displaystyle \langle x,y\rangle +\langle y,x\rangle \leq 2|\langle x,y\rangle |}
+   turns into an equality for linearly dependent 
+        x
+    {\displaystyle x}
+   and 
+        y
+    {\displaystyle y}
+   if and only if one of the vectors x or y is a nonnegative scalar of the other.
+Taking the square root of the final result gives the triangle inequality.
+p-norm: a commonly used norm is the p-norm:
+        ∥
+        x
+          ∥
+            p
+        =
+            (
+              ∑
+                i
+                =
+                1
+                n
+              |
+              x
+                i
+                |
+                p
+            )
+            1
+              /
+            p
+        ,
+    {\displaystyle \|x\|_{p}=\left(\sum _{i=1}^{n}|x_{i}|^{p}\right)^{1/p}\ ,}
+where the xi are the components of vector x. For p = 2 the p-norm becomes the Euclidean norm:
+        ∥
+        x
+          ∥
+            2
+        =
+            (
+              ∑
+                i
+                =
+                1
+                n
+              |
+              x
+                i
+                |
+                2
+            )
+            1
+              /
+            2
+        =
+            (
+              ∑
+                i
+                =
+                1
+                n
+              x
+                i
+                2
+            )
+            1
+              /
+            2
+        ,
+    {\displaystyle \|x\|_{2}=\left(\sum _{i=1}^{n}|x_{i}|^{2}\right)^{1/2}=\left(\sum _{i=1}^{n}x_{i}^{2}\right)^{1/2}\ ,}
+which is Pythagoras' theorem in n-dimensions, a very special case corresponding to an inner product norm. Except for the case p = 2, the p-norm is not an inner product norm, because it does not satisfy the parallelogram law. The triangle inequality for general values of p is called Minkowski's inequality. It takes the form:
+        ∥
+        x
+        +
+        y
+          ∥
+            p
+        ≤
+        ∥
+        x
+          ∥
+            p
+        +
+        ∥
+        y
+          ∥
+            p
+        .
+    {\displaystyle \|x+y\|_{p}\leq \|x\|_{p}+\|y\|_{p}\ .}
+In a metric space M with metric d, the triangle inequality is a requirement upon distance:
+        d
+        (
+        x
+        ,
+        z
+        )
+        ≤
+        d
+        (
+        x
+        ,
+        y
+        )
+        +
+        d
+        (
+        y
+        ,
+        z
+        )
+        ,
+    {\displaystyle d(x,\ z)\leq d(x,\ y)+d(y,\ z)\ ,}
+for all x, y, z in M. That is, the distance from x to z is at most as large as the sum of the distance from x to y and the distance from y to z.
+The triangle inequality is responsible for most of the interesting structure on a metric space, namely, convergence. This is because the remaining requirements for a metric are rather simplistic in comparison. For example, the fact that any convergent sequence in a metric space is a Cauchy sequence is a direct consequence of the triangle inequality, because if we choose any xn and xm such that d(xn, x) < ε/2 and d(xm, x) < ε/2, where ε > 0 is given and arbitrary (as in the definition of a limit in a metric space), then by the triangle inequality, d(xn, xm) ≤ d(xn, x) + d(xm, x) < ε/2 + ε/2 = ε, so that the sequence {xn} is a Cauchy sequence, by definition.
+This version of the triangle inequality reduces to the one stated above in case of normed vector spaces where a metric is induced via d(x, y) ≔ ‖x − y‖, with x − y being the vector pointing from point y to x.
+The reverse triangle inequality is an elementary consequence of the triangle inequality that gives lower bounds instead of upper bounds. For plane geometry the statement is:
+Any side of a triangle is greater than the difference between the other two sides.
+In the case of a normed vector space, the statement is:
+            |
+        ∥
+        x
+        ∥
+        −
+        ∥
+        y
+        ∥
+            |
+        ≤
+        ∥
+        x
+        −
+        y
+        ∥
+        ,
+    {\displaystyle {\bigg |}\|x\|-\|y\|{\bigg |}\leq \|x-y\|,}
+or for metric spaces, |d(y, x) − d(x, z)| ≤ d(y, z). This implies that the norm ‖–‖ as well as the distance function d(x, –) are Lipschitz continuous with Lipschitz constant 1, and therefore are in particular uniformly continuous.
+The proof for the reverse triangle uses the regular triangle inequality, and 
+        ∥
+        y
+        −
+        x
+        ∥
+        =
+        ∥
+        −
+        1
+        (
+        x
+        −
+        y
+        )
+        ∥
+        =
+          |
+        −
+        1
+          |
+        ∥
+        x
+        −
+        y
+        ∥
+        =
+        ∥
+        x
+        −
+        y
+        ∥
+    {\displaystyle \|y-x\|=\|-1(x-y)\|=|-1|\|x-y\|=\|x-y\|}
+  :
+        ∥
+        x
+        ∥
+        =
+        ∥
+        (
+        x
+        −
+        y
+        )
+        +
+        y
+        ∥
+        ≤
+        ∥
+        x
+        −
+        y
+        ∥
+        +
+        ∥
+        y
+        ∥
+        ⇒
+        ∥
+        x
+        ∥
+        −
+        ∥
+        y
+        ∥
+        ≤
+        ∥
+        x
+        −
+        y
+        ∥
+        ,
+    {\displaystyle \|x\|=\|(x-y)+y\|\leq \|x-y\|+\|y\|\Rightarrow \|x\|-\|y\|\leq \|x-y\|,}
+        ∥
+        y
+        ∥
+        =
+        ∥
+        (
+        y
+        −
+        x
+        )
+        +
+        x
+        ∥
+        ≤
+        ∥
+        y
+        −
+        x
+        ∥
+        +
+        ∥
+        x
+        ∥
+        ⇒
+        ∥
+        x
+        ∥
+        −
+        ∥
+        y
+        ∥
+        ≥
+        −
+        ∥
+        x
+        −
+        y
+        ∥
+        ,
+    {\displaystyle \|y\|=\|(y-x)+x\|\leq \|y-x\|+\|x\|\Rightarrow \|x\|-\|y\|\geq -\|x-y\|,}
+Combining these two statements gives:
+        −
+        ∥
+        x
+        −
+        y
+        ∥
+        ≤
+        ∥
+        x
+        ∥
+        −
+        ∥
+        y
+        ∥
+        ≤
+        ∥
+        x
+        −
+        y
+        ∥
+        ⇒
+            |
+        ∥
+        x
+        ∥
+        −
+        ∥
+        y
+        ∥
+            |
+        ≤
+        ∥
+        x
+        −
+        y
+        ∥
+        .
+    {\displaystyle -\|x-y\|\leq \|x\|-\|y\|\leq \|x-y\|\Rightarrow {\bigg |}\|x\|-\|y\|{\bigg |}\leq \|x-y\|.}
+In Minkowski space, if x and y are both timelike vectors lying in the future light cone, the triangle inequality is reversed:
+        ∥
+        x
+        +
+        y
+        ∥
+        ≥
+        ∥
+        x
+        ∥
+        +
+        ∥
+        y
+        ∥
+    {\displaystyle \|x+y\|\geq \|x\|+\|y\|}
+A physical example of this inequality is the twin paradox in special relativity. The same reversed form of the inequality holds if both vectors lie in the past light cone, and if one or both are null vectors. The result holds in n+1 dimensions for any n≥1.
+Subadditivity
+Minkowski inequality
+Ptolemy's inequality

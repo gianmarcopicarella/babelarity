@@ -1,0 +1,58 @@
+A propellant or propellent is a chemical substance used in the production of energy or pressurized gas that is subsequently used to create movement of a fluid or to generate propulsion of a vehicle, projectile, or other object. Common propellants are energetic materials and consist of a fuel like gasoline, jet fuel, rocket fuel, and an oxidizer. Propellants are burned or otherwise decomposed to produce the propellant gas. Other propellants are simply liquids that can readily be vaporized.
+In rockets and aircraft, propellants are used to produce a gas that can be directed through a nozzle, thereby producing thrust. In rockets, rocket propellant produces an exhaust, and the exhausted material is usually expelled under pressure through a nozzle. The pressure may be from a compressed gas, or a gas produced by a chemical reaction. The exhaust material may be a gas, liquid, plasma, or, before the chemical reaction, a solid, liquid, or gel. In aircraft, the propellant is usually a fuel and is combusted with the air.
+In firearm ballistics, propellants fill the interior of an ammunition cartridge or the chamber of a gun or cannon, leading to the expulsion of a bullet or shell (gunpowder, smokeless powder, and large gun propellants). Explosives can be placed in a sealed tube and act as a deflagrant low explosive charge in mining and demolition, to produce a low velocity heave effect (gas pressure blasting).
+Cold gas propellants may be used to fill an expansible bag or membrane, such as an automotive airbag (gas generator propellants) or in pressurised dispensing systems, such as aerosol sprays, to force a material through a nozzle. Examples of can propellants include nitrous oxide that is dissolved in canned whipped cream, and the dimethyl ether or low-boiling alkane used in hair spray. Rocket propellant may be expelled through an expansion nozzle as a cold gas, that is, without energetic mixing and combustion, to provide small changes in velocity to spacecraft by the use of cold gas thrusters.
+In aerosol spray cans, the propellant is simply a pressurized gas in equilibrium with its liquid (at its saturated vapour pressure). As some gas escapes to expel the payload, more liquid evaporates, maintaining an even pressure.
+Technically, the word propellant is the general name for chemicals used to create thrust. For vehicles, the term propellant refers only to chemicals that are stored within the vehicle prior to use, and excludes atmospheric gas or other material that may be collected in operation.
+Among the English-speaking layperson, used to having fuels propel vehicles on Earth, the word fuel is inappropriately used. In Germany, the word Treibstoff—literally "drive-stuff"—is used; in France, the word ergols is used; it has the same Greek roots as hypergolic, a term used in English for propellants that combine spontaneously and do not have to be set ablaze by auxiliary ignition system.
+To attain a useful density for storage, most propellants are either solid or liquid.
+In ballistics and pyrotechnics, a propellant is a generic name for chemicals used for propelling projectiles from guns and other firearms.
+Solid propellants are usually made from low-explosive materials, but may include high-explosive chemical ingredients that are diluted and burned in a controlled way (deflagration) rather than detonation. The controlled burning of the propellant composition usually produces thrust by gas pressure and can accelerate a projectile, rocket, or other vehicle. In this sense, common or well-known propellants include, for firearms, artillery, and solid-propellant rockets:
+Gun propellants, such as:
+Gunpowder (black powder)
+Nitrocellulose-based powders
+Cordite
+Ballistite
+Smokeless powders
+Composite propellants made from a solid oxidizer such as ammonium perchlorate or ammonium nitrate, a synthetic rubber such as HTPB, PBAN, or Polyurethane (or energetic polymers such as polyglycidyl nitrate or polyvinyl nitrate for extra energy), optional high-explosive fuels (again, for extra energy) such as RDX or nitroglycerin, and usually a powdered metal fuel such as aluminum.
+Some amateur propellants use potassium nitrate, combined with sugar, epoxy, or other fuels and binder compounds.
+Potassium perchlorate has been used as an oxidizer, paired with asphalt, epoxy, and other binders.
+Propellants that explode in operation are of little practical use currently, although there have been experiments with Pulse Detonation Engines. Also the newly synthesized bishomocubane based compounds are under consideration in the research stage as both solid and liquid propellants of the future.
+Solid propellants are used in forms called grains. A grain is any individual particle of propellant regardless of the size or shape. The shape and size of a propellant grain determines the burn time, amount of gas, and rate produced from the burning propellant and, as a consequence, thrust vs time profile.
+There are three types of burns that can be achieved with different grains.
+Progressive Burn
+Usually a grain with multiple perforations or a star cut in the center providing a lot of surface area.
+Degressive Burn
+Usually a solid grain in the shape of a cylinder or sphere.
+Neutral Burn
+Usually a single perforation; as outside surface decreases the inside surface increases at the same rate.
+There are four different types of solid propellant compositions:
+Single-Based Propellant
+A single based propellant has nitrocellulose as its chief explosives ingredient. Stabilizers and other additives are used to control the chemical stability and enhance the propellant’s properties.
+Double-Based Propellant
+Double-based propellants consist of nitrocellulose with nitroglycerin or other liquid organic nitrate explosives added. Stabilizers and other additives are also used. Nitroglycerin reduces smoke and increases the energy output. Double-based propellants are used in small arms, cannons, mortars and rockets.
+Triple-Based Propellant
+Triple-based propellants consist of nitrocellulose, nitroguanidine, nitroglycerin or other liquid organic nitrate explosives. Triple-based propellants are used in cannons.
+Composite
+Composites contain no nitrocellulose, nitroglycerin, nitroquanidine or any other organic nitrate. Composites usually consist of a fuel such as metallic aluminum, a combustible binder such as synthetic rubber or HTPB, and an oxidizer such as ammonium perchlorate. Composite propellants are used in large rocket motors.
+In rockets, three main liquid bipropellant combinations are used: cryogenic oxygen and hydrogen, cryogenic oxygen and a hydrocarbon, and storable propellants.
+cryogenic oxygen-hydrogen combination system - Used in upper stages and sometimes in booster stages of space launch systems.This is a nontoxic combination. This gives high specific impulse and is ideal for high-velocity missions
+cryogenic oxygen-hydrocarbon propellant system - Used for many booster stages of space launch vehicles as well as a smaller number of second stages. This combination of fuel/oxidizer has high density and hence allows for a more compact booster design.
+storable propellant combinations - used in almost all bipropellant low-thrust, auxiliary or reaction control rocket engines, as well as in some in large rocket engines for first and second stages of ballistic missiles. They are instant-starting and suitable for long-term storage.
+Propellant combinations used for liquid propellant rockets include:
+Liquid oxygen and liquid hydrogen
+Liquid oxygen and kerosene or RP-1
+Liquid oxygen and ethanol
+Liquid oxygen and methane
+Hydrogen peroxide and alcohol or RP-1
+Red fuming nitric acid (RFNA) and kerosene or RP-1
+RFNA and Unsymmetrical dimethylhydrazine (UDMH)
+Dinitrogen tetroxide and UDMH, MMH, and/or hydrazine
+Common monopropellant used for liquid rocket engines include:
+Hydrogen peroxide
+Hydrazine
+Red fuming nitric acid (RFNA)
+Fuel
+Propellant depot
+Spacecraft propulsion
+Specific impulse

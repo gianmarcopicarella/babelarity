@@ -1,0 +1,47 @@
+Clomipramine, sold under the brand name Anafranil among others, is a tricyclic antidepressant (TCA). It is used for the treatment of obsessive compulsive disorder, panic disorder, major depressive disorder, and chronic pain. It may decrease the risk of suicide in those over the age of 65. It is taken by mouth.
+Common side effects include dry mouth, constipation, loss of appetite, sleepiness, weight gain, sexual dysfunction, and trouble urinating. Serious side effects include an increased risk of suicidal behavior in those under the age of 25, seizures, mania, and liver problems. If stopped suddenly a withdrawal syndrome may occur with headaches, sweating, and dizziness. It is unclear if it is safe for use in pregnancy. Its mechanism of action is not entirely clear but is believed to involve increased levels of serotonin.
+Clomipramine was discovered in 1964 by the Swiss drug manufacturer Ciba-Geigy. It is on the World Health Organization's List of Essential Medicines, the most important medication needed in a basic health system. It is available as a generic medication. The wholesale price in the developing world is between 0.11 and 0.21 per day as of 2014. In the United States a typical dose costs about 1.20 USD per day. It was made from imipramine.
+Clomipramine has a number of uses in medicine including in the treatment of:
+Obsessive–compulsive disorder (OCD) which is its only U.S. FDA-labelled indication. Other regulatory agencies (such as the TGA of Australia and the MHRA of the UK) have also approved clomipramine for this indication.
+Major depressive disorder (MDD) a popular off-label use in the US. It is approved by the Australian TGA and the United Kingdom MHRA for this indication. Some have suggested the possible superior efficacy of clomipramine compared to other antidepressants in the treatment of MDD, although at the current time the evidence is insufficient to adequately substantiate this claim.
+Panic disorder with or without agoraphobia.
+Body dysmorphic disorder
+Cataplexy associated with narcolepsy. Which is a TGA & MHRA-labelled indication for clomipramine.
+Premature ejaculation
+Depersonalization disorder
+Chronic pain with or without organic disease, particularly headache of the tension type.
+Sleep paralysis, with or without narcolepsy
+Enuresis (involuntary nightly urinating in sleep) in children and adolescents.
+Trichotillomania
+In a meta-analysis of various trials involving fluoxetine (Prozac), fluvoxamine (Luvox), and sertraline (Zoloft) to test their relative efficacies in treating OCD, clomipramine was found to be the most effective.
+Clomipramine use during pregnancy is associated with congenital heart defects in the newborn. It is also associated with reversible withdrawal effects in the newborn. Clomipramine is also distributed in breast milk and hence nursing while taking clomipramine is advised against.
+Adverse effects by frequency:Very common (>10% frequency):
+Common (1-10% frequency):
+Uncommon (0.1-1% frequency):
+Convulsions
+Ataxia
+Arrhythmias
+Elevated blood pressure
+Activation of psychotic symptoms
+Very rare (<0.01% frequency):
+Conduction disorder (e.g. widening of QRS complex, prolonged QT interval, PQ changes, bundle-branch block, torsade de pointes, particularly in patients with hypokalaemia)
+Withdrawal symptoms may occur during gradual or particularly abrupt withdrawal of tricyclic antidepressant drugs. Possible symptoms include: nausea, vomiting, abdominal pain, diarrhoea, insomnia, headache, nervousness, anxiety, dizziness and worsening of psychiatric status. Differentiating between the return of the original psychiatric disorder and clomipramine withdrawal symptoms is important. Clomipramine withdrawal can be severe. Withdrawal symptoms can also occur in neonates when clomipramine is used during pregnancy. A major mechanism of withdrawal from tricyclic antidepressants is believed to be due to a rebound effect of excessive cholinergic activity due to neuroadaptations as a result of chronic inhibition of cholinergic receptors by tricyclic antidepressants. Restarting the antidepressant and slow tapering is the treatment of choice for tricyclic antidepressant withdrawal. Some withdrawal symptoms may respond to anticholinergics, such as atropine or benztropine mesylate.
+Clomipramine may interact with a number of different medications, including the monoamine oxidase inhibitors which include isocarboxazid, moclobemide, phenelzine, selegiline and tranylcypromine, antiarrhythmic agents (due to the effects of TCAs like clomipramine on cardiac conduction. There is also a potential pharmacokinetic interaction with quinidine due to the fact that clomipramine is metabolised by CYP2D6 in vivo), diuretics (due to the potential for hypokalaemia (low blood potassium) to develop which increases the risk for QT interval prolongation and torsades de pointes), the selective serotonin reuptake inhibitors (SSRIs; due to both potential additive serotonergic effects leading to serotonin syndrome and the potential for a pharmacokinetic interaction with the SSRIs that inhibit CYP2D6 [e.g. fluoxetine and paroxetine]) and serotonergic agents such as triptans, other tricyclic antidepressants, tramadol, etc. (due to the potential for serotonin syndrome). Its use is also advised against in those concurrently on CYP2D6 inhibitors due the potential for increased plasma levels of clomipramine and the resulting potential for CNS and cardiotoxicity.
+Contraindications include:
+Known hypersensitivity to clomipramine, or any of the excipients or cross-sensitivity to tricyclic antidepressants of the dibenzazepine group
+Recent myocardial infarction
+Any degree of heart block or other cardiac arrhythmias
+Mania
+Severe liver disease
+Narrow angle glaucoma
+Urinary retention
+It must not be given in combination or within 3 weeks before or after treatment with an monoamine oxidase inhibitor. (moclobemide included, however, Clomipramine can be initiated 48 hours upon discontinuation of Moclobemide)
+Clomipramine overdose usually presents with the following symptoms:
+There is no specific antidote for overdose and all treatment is purely supportive and symptomatic. Treatment with activated charcoal may be used to limit absorption in cases of oral overdose. Anyone suspected of overdosing on clomipramine should be hospitalised and kept under close surveillance for at least 72 hours. Clomipramine has been reported as being less toxic in overdose than most other TCAs in one meta-analysis but this may well be due to the circumstances surrounding most overdoses as clomipramine is more frequently used to treat conditions for which the rate of suicide is not particularly high such as obsessive-compulsive disorder. In another meta-analysis, however, clomipramine was associated with a significant degree of toxicity in overdose.
+Clomipramine is a highly selective (~200x over norepinephrine) inhibitor of serotonin reuptake. It is also an antagonist/inverse agonist at the histamine H1 receptor, the muscarinic acetylcholine receptors and the α1 adrenergic receptor. These last three actions likely contributes to its adverse effects.
+Clomipramine's binding profile is as follows:
+In addition clomipramine's active metabolite desmethylclomipramine is known to display the following affinity:
+Norepinephrine transporter (NET) (Ki = <1 nM)
+Peak plasma concentrations occur around 2–6 hours (with an average of 4.7 hours) after taking clomipramine orally. Maximum plasma concentrations of clomipramine are around 56-154 ng/mL. Steady state concentrations of clomipramine are around 134-532 ng/mL (with an average of 218 ng/mL) and are reached after 7–14 days of repeated dosing. Steady-state concentration of the active metabolite, desmethylclomipramine, are around 230-550 ng/mL. Its oral bioavailability is 50%. It binds approximately 97-98% to plasma proteins, primarily albumin. It is metabolised in the liver primarily by CYP2D6. It has an elimination half-life of 32 hours, and its N-desmethyl metabolite, desmethylclomipramine, has a half-life of approximately 69 hours. It is mostly excreted in urine (60%) and faeces (32%). Its volume of distribution (Vd) is approximately 17 L/kg.
+In the U.S., clomipramine is only licensed to treat separation anxiety in dogs for which it is sold under the brand name Clomicalm. It has proven effective in the treatment of obsessive-compulsive disorders in cats and dogs. In dogs, it has also demonstrated similar efficacy to fluoxetine in treating tail chasing. In dogs some evidence suggests its efficacy in treating noise phobia.
+Clomipramine has also demonstrated efficacy in treating urine spraying in cats. Various studies have been done on the effects of clomipramine on cats to reduce urine spraying/marking behavior. It has been shown to be able to reduce this behavior by up to 75% reduction of the behavior in a trial period of four weeks.

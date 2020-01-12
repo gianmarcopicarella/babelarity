@@ -1,0 +1,38 @@
+A content management system (CMS) is a computer application that supports the creation and modification of digital content using a common user interface and thus usually supporting multiple users working in a collaborative environment. CMSes have been available since the late 1990s.
+CMS features vary widely. Most CMSes include Web-based publishing, format management, edit history and version control, indexing, search, and retrieval. By their nature, content management systems support the separation of content and presentation.
+A web content management system (WCM or WCMS) is a CMS designed to support the management of the content of Web pages. Most popular CMSes are also WCMSes. Web content includes text and embedded graphics, photos, video, audio, and code (e.g., for applications) that displays content or interacts with the user.
+Such a content management system (CMS) typically has two major components:
+A content management application (CMA) is the front-end user interface that allows a user, even with limited expertise, to add, modify and remove content from a Web site without the intervention of a webmaster.
+A content delivery application (CDA) compiles that information and updates the Web site.
+Digital asset management systems are another type of CMS. They manage such things as documents, movies, pictures, phone numbers, scientific data. CMSes can also be used for storing, controlling, revising, and publishing documentation.
+SEO (search engine optimization)-friendly URLs
+Integrated and online help
+Modular and extensible
+Easy user and group management
+Group-based permission system
+Full template support, for unlimited looks without changing a line of content
+Easy wizard based install and upgrade procedures
+Minimal server requirements
+Admin panel with multiple language support
+Content hierarchy with unlimited depth and size
+Integrated file manager w/ upload capabilities
+Integrated audit log
+Friendly support in forums and IRC
+Accessibility WAI, WCGA, Section 508
+XHTML and CSS compliant
+Auto-generated menu
+Every page can have different theme
+Design protected from content editors
+Multiple content areas on one page
+Reduced need to code from scratch
+The ability to create a website quickly
+Content management
+Document management system
+Enterprise content management
+Information management
+Knowledge management
+List of content management frameworks
+List of content management systems
+Revision control
+Web application framework
+Wiki

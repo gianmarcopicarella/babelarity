@@ -1,0 +1,73 @@
+The Nakajima Ki-44 Shōki (鍾馗, Zhong Kui) was a single-engine fighter aircraft used by the Imperial Japanese Army Air Force in World War II. The type first flew in August 1940 and entered service in 1942. The Allied reporting name was "Tojo"; the Japanese Army designation was "Army Type 2 Single-Seat Fighter" (二式単座戦闘機).
+It was less maneuverable than its predecessor, the nimble Ki-43, and pilots disliked its poor visibility on the ground, its higher landing speed, and severe restrictions on maneuvering. Yet, it was obvious the Ki-44 was clearly superior overall as a combat aircraft compared to the Ki-43. As an interceptor it could match Allied types in climbs and dives, giving pilots more flexibility in combat and greater pilot confidence than the Ki-43. Moreover, the basic armament of four 12.7mm machine guns or two 12.7mm guns and two 20 mm cannons (plus a few aircraft which carried two Ho-301 40 mm cannons of limited performance) was far superior to the older Ki-43's two 12.7mm machine guns. These characteristics made the fighter, despite performance restrictions at altitude, a useful B-29 Superfortress interceptor and one of the Japanese High Command priorities during the last year of war. However, like most of the Japanese aircraft flown in the last part of the war, the low availability of properly trained pilots made them easy targets for experienced, aggressive, and well trained Allied pilots flying superior aircraft.
+Nakajima began development of the Ki-44 in 1940 as a pure interceptor with emphasis being placed on airspeed and rate of climb rather than maneuverability. The Japanese Army Air Force specification called for a maximum speed of 600 km/h (370 mph) at 4,000 m (13,130 ft), to be attained in five minutes. A set of Ki-43 like "butterfly" combat flaps was fitted for improved maneuverability. Armament consisted of a pair of 7.7 mm (.303 in) and a pair of 12.7 mm (.50 in) machine guns.
+The engine selected for the new interceptor was Nakajima's Ha-41 (a development of the Nakajima Ha-5) 14-cylinder double-row radial, originally intended for bomber aircraft. Although the Ha-41 was not the ideal choice due to its large-diameter cross section, the design team was able to marry this engine to a much smaller fuselage with a narrow cross section. At 1,260 mm in diameter, the Ha-41 was 126 mm larger in diameter than the 1,144 mm Nakajima Sakae (used in the Mitsubishi A6M "Zero" and Nakajima Ki-43 "Hayabusa"). However, the Sakae was only 27.8L in displacement and 1,000 hp, while the Ha-41 was 37.5L and made 1,260 hp (1,440 in the later Ha-109 version). In any case, since the Sakae wasn't powerful enough, the only alternative available was the Mitsubishi Kinsei, which was slightly smaller than the Ha-41 in diameter, five liters smaller in displacement, and was less powerful. Unfortunately, this was already in demand for many other aircraft, so the Ha-41 was chosen as the best powerplant. In order to achieve its design goals, the wing area was relatively small leading to a high wing loading and a comparatively high landing speed that could be daunting to the average Japanese pilot, who was more used to aircraft with a low wing loading like the Ki-44s predecessors, the Ki-43 and Ki-27.
+The first Ki-44 prototype flew in August 1940 and the initial test flights were generally encouraging, with handling considered acceptable considering the high wing loading. Problems encountered included a high landing speed and poor forward visibility during taxiing due to the large radial engine.
+A second pre-production batch of 40 aircraft were ordered, which featured four 12.7mm machine guns, a relocated air cooler and main gear doors.
+The Nakajima Ki-44 at one point equipped 12 sentai ("groups/wings") of the Imperial Japanese Army Air Force: 9, 22, 23, 29, 47, 59, 64, 70, 85, 87, 104 and 246 Sentai. The Manchukuo Air Force also operated some Ki-44s.
+Pre-production Ki-44 aircraft and two of the prototypes were turned over to the Army for service trials on 15 September 1941. The type commenced operations when nine aircraft were received by an experimental unit, 47 Chutai "Kawasemi Buntai" ("Kingfisher Flight, 47 Squadron"), commanded by Major Toshio Sakagawa at Saigon, Indochina in December 1941.
+The Ki-44 also saw significant action with 87 Sentai in the air defense role, while based at Palembang, Sumatra. Other units equipped with the Ki-44 during the early part of the war were stationed in China, Burma, The Philippines and Korea.
+Later in the war, the type saw action in an air defense role over the home islands – mainly around Japan's large industrial cities. 47 Chutai, after it was transferred to air defense roles in Japan, was was expanded to become 47 Sentai.
+The Ki-44-II Otsu (also known as the Ki-44-IIb) could be armed with a Ho-301 40 mm autocannon. While this was a relatively high-caliber weapon, it used caseless ammunition with a low muzzle velocity and short range, which was effective only in close attacks. Some of these aircraft were used against USAAF bombers by a special Shinten Seiku Tai (air superiority unit), comprising at least four aircraft, that was part of 47 Sentai, based at Narimasu airfield in Tokyo. Pilots from such units attempted to shoot down B-29s and, once their ammunition was expended, to ram them – effectively a suicide attack. While the concept appeared straightforward, ramming a B-29 at high altitudes was difficult to achieve in practice.
+By the end of the war, Ki-44 variants were being replaced by the Nakajima Ki-84 Hayate, which was regarded as vastly superior – in aspects other than reliability maintenance and reliability.
+During 1946–49, both sides in the Chinese Revolution operated Ki-44s surrendered or abandoned by Japanese units. Air units of the People's Liberation Army obtained aircraft formerly belonging to 22 and 85 Sentai, which had disbanded in Korea. Some of these aircraft were reportedly flown by Japanese veterans. Within the Republic of China Air Force 18th Squadron (12th Fighter Group) was equipped with Ki-44s formerly of 9 Sentai, which had disbanded in Nanking, and 29 Sentai, which had disbanded at Formosa and they saw action in . Following the People's Liberation Army Air Force (formed in 1949) used the Ki-44 until the early 1950s.
+No complete surviving examples of the Ki-44 exist. However a wing center section is preserved at the Northwestern Polytechnic University Aviation Museum, at Xi'an in China.
+Ki-44
+First prototype (s/n 4401) with Ha-41 engine with a complex cooling system, unique for the first prototype.
+Ki-44
+Nine pre-production aircraft (s/n 4402-4410), the first of which being quite different than the later ones. These aircraft were used for combat evaluation with the 47th Independent Fighter Chutai at the start of the Pacific War. Their armament consisted of two 7.7 mm (.303 in) Type 89 machine guns in the nose and two 12.7 mm (.50 in) Ho-103 machine guns in the wings. Type 89 telescopic gunsight. Provision for a single droptank under the fuselage centre line or two droptanks under the wings. Recognisable by their pointed spinner caps.
+Ki-44-I
+Powered by a 930 kW (1,250 hp) Nakajima Ha-41 engine with annular oil cooler, with a maximum speed of 580 km/h (363 mph). Armament and gunsight unchanged from the pre-production models. Provision for two droptanks under the wings. Rounded spinner caps with provision for Hucks starter. Late models had external fuel coolers. Forty produced (s/n 111-150).
+Ki-44-II Ko (Ki-44-IIa)
+Powered by a 1,074 kW (1,440 hp) Nakajima Ha-109 engine with external oil cooler and a top speed of 604 km/h (378 mph). Armament, gunsight and drop tank provision as for Ki-44-I. Rectangular cockpit access doors replaced the rounded version of earlier models. 355 produced (s/n 1001-1355).
+Ki-44-II Otsu (Ki-44-IIb)
+Standard armament reduced to just two 12.7 mm (.50 in) Ho-103 machine guns in the nose. Optional provision for two 40 mm (1.57 in) Ho-301 cannons in the wings. These were not always installed and due to disappointing combat results once installed they were sometimes removed again and two 12.7 mm (.50 in) Ho-103 machine guns mounted in their place. This variant still had the Type 89 telescopic gunsight as standard. 394 produced (s/n 1356-1749).
+Ki-44-II Hei (Ki-44-IIc)
+Standard armament of four 12.7 mm (.50 in) Ho-103 machine guns, two in the nose and two in the wings. Type 100 reflector gunsight mounted as standard. 427 produced (s/n 1750-2176).
+Ki-44-III
+A single prototype built, powered by a Ha-145 two-row 18-cylinder engine of 1,491 kW (2,000 hp). Armament unknown.
+Ki-44-III Ko (Ki-44-IIIa)
+Proposed variant with an armament of four 20 mm Ho-5 cannons.
+Ki-44-III Otsu (Ki-44-IIIb)
+Proposed variant with armament of two 20 mm Ho-5 cannons and two 37 mm (1.46 in) Ho-203 cannons.
+Total production: 1,227
+Wartime
+ Manchukuo
+Manchukuo Air Force
+ Japan
+Imperial Japanese Army Air Force
+Post-War
+ China
+Chinese Nationalist Air Force operated some captured aircraft
+No. 18 Chungtui (中隊 ~ Squadron) CNAF October 1945 – August 1946
+Data from Ferkl, Martin. Nakajima Ki-44 Shoki (in English). Ostrava, Czech Republic: Revi Publications, 2009. ISBN 80-85957-15-9.
+General characteristics
+Crew: one, pilot
+Length: 8.84 m (29 ft)
+Wingspan: 9.45 m (31 ft 01 in)
+Height: 3.12 m (10 ft 23 in)
+Wing area: 15 m² (161 ft²)
+Empty weight: 2,106 kg (4,643 lb)
+Loaded weight: 2,764 kg (6,094 lb)
+Max. takeoff weight: 2,998 kg (6,609 lb)
+Powerplant: 1 × Nakajima Ha-109 Army Type 2 fourteen cylinder air-cooled radial engine, 1,133 kW (1,519 hp)
+Performance
+Maximum speed: 605 km/h at 5,200 m (376 mph at 17,060 ft)
+Cruise speed: 400 km/h at 4,000 m (249 mph at 13123 ft)
+Stall speed: 150 km/h (93 mph)
+Service ceiling: 11,200 m (36,750 ft)
+Rate of climb: 5,000 m--4 min 17 sec (3,940 ft/min)
+Wing loading: 200 kg/m² (41 lb/ft²)
+Power/mass: 0.38 kW/kg (0.13 hp/lb)
+Armament
+2× 12.7 mm (.50 in) Ho-103 machine guns synchronized cowl mounted (perhaps 657 rpm rate each). The 12.7x81 cartridge propelled the 35.4 g AP bullet 760 m/s, the 38 g HE 796 m/s, and the 33 g HE (2.2%) 770 m/s, with an effective firing range of 750 m. Not always reliable. Optional provision for two 40 mm (1.57 in) Ho-301 cannons in the wings, firing caseless ammunition.
+Related development
+Nakajima Ki-84
+Aircraft of comparable role, configuration and era
+Focke-Wulf Fw 190
+Mitsubishi J2M
+Polikarpov I-180
+Republic P-47
+Related lists
+List of aircraft of World War II
+List of aircraft of Japan, World War II

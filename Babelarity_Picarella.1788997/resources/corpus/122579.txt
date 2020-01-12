@@ -1,0 +1,48 @@
+The Royal Thai General System of Transcription (RTGS) is the official system for rendering Thai language words in the Latin alphabet, published by the Royal Institute of Thailand. It is used in road signs and government publications, and is the closest thing to a standard of transcription for Thai, though its use by even the government is inconsistent.. The system is almost identical to the one defined by ISO 11940-2.
+Prominent features of the Royal Thai General System include:
+uses only unmodified letters from the Latin alphabet; no diacritics
+spells all vowels and diphthongs using only vowel letters: 〈a〉, 〈e〉, 〈i〉, 〈o〉, 〈u〉
+single letters 〈a〉, 〈e〉, 〈i〉, 〈o〉, 〈u〉 are simple vowels with the same value as in the International Phonetic Alphabet (IPA)
+digraphs with trailing 〈e〉 are simple vowels, 〈ae〉, 〈oe〉, 〈ue〉 sound like /ɛ, ɤ, ɯ/ respectively (and are perhaps chosen for their similarity to IPA ligatures: /æ, œ, ɯ/)
+digraphs with trailing 〈a〉, 〈i〉, 〈o〉 are diphthongs, indicated by /a, j, w/ respectively in IPA
+uses consonants as in IPA, except:
+digraphs with 〈h〉 (〈ph〉, 〈th〉, 〈kh〉) are aspirated /pʰ, tʰ, kʰ/ consonants, to distinguish them from the separate unaspirated 〈p〉, 〈t〉, 〈k〉
+uses 〈ng〉 for /ŋ/, as in English
+uses 〈ch〉 for /t͡ɕʰ/ and /t͡ɕ/, with some similarity to English
+uses 〈y〉 for /j/, as in English.
+Transcription of consonants in final position is according to pronunciation, not Thai orthography.
+Vowels are transcribed in sequence as pronounced, not as in the Thai orthography. Implied vowels, which are not written in Thai orthography, are inserted as pronounced.
+A hyphen is used to avoid ambiguity in syllable separation: before a succeeding syllable that starts with a vowel and before 〈ng〉 when the preceding syllable ends with a vowel.
+Transcribed words are written with spaces between them, although there are no spaces when written in Thai letters. For example, "สถาบันไทยคดีศึกษา" (meaning "Institute of Thai Studies") is transcribed as "Sathaban Thai Khadi Sueksa". However, compounds and names of persons are written without spaces between words. For example, "ลูกเสือ" (from "ลูก" + "เสือ"; meaning "scout") is transcribed as "luksuea", not "luk suea", and "โชคชัย จิตงาม" (the first and last names of a person) is transcribed as "Chokchai Chitngam", not "Chok Chai Chit Ngam".
+The Royal Thai General System does not transcribe all features of Thai phonology. Particularly it has the following shortcomings:
+it does not record tones
+it does not differentiate between short and long vowels
+the notation 〈ch〉 does not differentiate between IPA /t͡ɕ/ and IPA /t͡ɕʰ/ (see table below); using 〈c〉 for /t͡ɕ/ would have been more consistent with the other stops and is used as such in ISO 11940-2.
+the notation 〈o〉 does not differentiate between IPA /ɔ/ and IPA /o/ (see table below)
+The original design envisioned that the general system would give broad details of pronunciation, while the precise system would supplement this with information as to vowel lengths, tones, and Thai characters used. The ambiguity of 〈ch〉 and 〈o〉 was introduced in the 1968 version.
+For consonants, the transcription is different depending on the location in the syllable. In the section on vowels a dash ("–") indicates the relative position of the initial consonant belonging to the vowel.
+There have been four versions of the RTGS, those promulgated in 1932, 1939, 1968 and 1999. The general system was issued by the Ministry of Public Instruction in 1932, and subsequent issues have been issued by the Royal Institute of Thailand.
+The general system was set up by a committee of the Ministry of Public Instruction on the following principles:
+The general system should be one which could be expanded into a precise system.
+The general system should be based on pronunciation, that is to say, one sound should be represented by one symbol or letter.
+The general system should be in consonance with the principles of Thai grammar, namely Thai orthography and pronunciation; and
+In selecting symbols or letters, account should be taken of existing types for printing and type-writing, also of existing systems of transcription.
+The committee considered that for the general system, there need be no marks of tones or of quantities: it would be sufficient to provide such marks for the precise system. These marks are accents above the vowels, which is one reason that the vowel symbols used did not have any marks above.
+The 1939 issue allowed short vowels to be marked with a breve (˘) where expedient. By contrast, the ALA-LC transliteration uses the 1939 version with the addition of a macron (¯) for long vowels and the spacing spiritus asper (ʽ) to transliterate อ /ʔ/ as a consonant.
+The changes in vowel notation copied existing usage (æ, œ) and IPA notation (æ, ǫ).
+The Precise System was issued along with the general system in 1939. A transliteration in the precise system could be converted to a transcription in the general system by:
+Removing parenthesised characters;
+Replacing ʽ and hʽ by h;
+Removing length and tone markings;
+Removing ḥ (this corresponds to ะ /ʔ/, which may be viewed as a length mark);
+Removing the character distinguishing dots below and primes;
+Changing ay and aiy to ai except before vowels;
+Changing č to čh;
+Changing ie to ia, uo to ua and ưœ to ưa.
+The last set of changes removes a graphic distinction between vowels in closed syllables and vowels in open syllables. The h is added to č in the general system to make it easier to read. When the diacritic was subsequently removed, the h was justified as removing the temptation to misread the transliteration as /k/ or /s/ rather than /t͡ɕ/.
+The 1968 version removed diacritics, including the horn of ư, from the RTGS, and replaced the ligatures æ and œ by ae and oe. While this made it more suitable as the standard transliteration for maps, it removed the contrast between the transcriptions of จ /t͡ɕ/ and ช /t͡ɕʰ/, อึ /ɯ/ and อุ /u/, เอือ /ɯa/ and อัว /ua/, and โอ /oː/ and ออ /ɔː/.
+The 1999 version restored the distinction between the transcriptions of the pairs อึ /ɯ/ and อุ /u/ and เอือ /ɯa/ and อัว /ua/. It also rationalised the transliteration of final ว /w/, so that now it is always transcribed <o>.
+The following substitutions have been allowed:
+ISO 11940
+ISO 11940-2
+Thai transliteration

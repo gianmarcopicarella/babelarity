@@ -1,0 +1,6 @@
+Betaproteobacteria are a class of Proteobacteria. Betaproteobacteria are, like all Proteobacteria, Gram-negative.
+The Betaproteobacteria consist of several groups of aerobic or facultative bacteria that are often highly versatile in their degradation capacities, but also contain chemolithotrophic genera (e.g., the ammonia-oxidising genus Nitrosomonas) and some phototrophs (members of the genera Rhodocyclus and Rubrivivax). Betaproteobacteria play a role in nitrogen fixation in various types of plants, oxidizing ammonium to produce nitrite – an important chemical for plant function. Many of them are found in environmental samples, such as waste water or soil. Pathogenic species within this class are the Neisseriaceae (gonorrhea and meningitis) and species of the genus Burkholderia.
+The currently accepted taxonomy is based on the List of Prokaryotic names with Standing in Nomenclature and National Center for Biotechnology Information and the phylogeny is based on 16S rRNA-based LTP release 106 by 'The All-Species Living Tree' Project 
+Notes:
+♠ Strains found at the National Center for Biotechnology Information (NCBI) but not listed in the List of Prokaryotic names with Standing in Nomenclature (LSPN)
+Gammaproteobacteria

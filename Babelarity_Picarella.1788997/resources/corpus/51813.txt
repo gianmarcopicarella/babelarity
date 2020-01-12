@@ -1,0 +1,29 @@
+lighttpd (pronounced "lighty") is an open-source web server optimized for speed-critical environments while remaining standards-compliant, secure and flexible. It was originally written by Jan Kneschke as a proof-of-concept of the c10k problem – how to handle 10,000 connections in parallel on one server, but has gained worldwide popularity.
+The low memory footprint (compared to other web servers), small CPU load and speed optimizations make lighttpd suitable for servers that are suffering load problems, or for serving static media separately from dynamic content. lighttpd is free software/open source, and is distributed under the BSD license. It runs natively on Unix-like operating systems as well as Microsoft Windows.
+lighttpd supports the FastCGI, SCGI and CGI interfaces to external programs, allowing web applications written in any programming language to be used with the server. As a particularly popular language, PHP performance has received special attention. Lighttpd's FastCGI can be configured to support PHP with opcode caches (like APC) properly and efficiently. Additionally, it has received attention from its popularity within the Python, Perl, Ruby and Lua communities. Lighttpd also supports WebDNA, the resilient in-memory database system designed to build database-driven websites. It is a popular web server for the Catalyst and Ruby on Rails web frameworks. Lighttpd does not support ISAPI.
+Load balancing FastCGI, SCGI and HTTP proxy support
+chroot support
+web server event mechanism performance – select(), poll(), and epoll() 
+Support for more efficient event notification schemes like kqueue and epoll
+Conditional URL rewriting (mod_rewrite)
+TLS/SSL with SNI support, via OpenSSL.
+Authentication against an LDAP server
+RRDtool statistics
+Rule-based downloading with possibility of a script handling only authentication
+Server Side Includes support (but not server-side CGI)
+Flexible virtual hosting
+Modules support
+Cache Meta Language (currently being replaced by mod_magnet) using the Lua programming language
+Minimal WebDAV support
+Servlet (AJP) support (in versions 1.5.x and up)
+HTTP compression using mod_compress and the newer mod_deflate (1.5.x)
+Light-weight (less than 1 MB)
+Single-process design with only several threads. No processes or threads started per connection.
+Lighttpd (< 1.4.40) officially does not support sending large files from CGI, FastCGI, or proxies  unless X-Sendfile is used. This limitation has been removed in lighttpd 1.4.40.
+Lighttpd is used by a number of high-traffic websites, among them are Bloglines and Xkcd. It was used in the past by Meebo and YouTube. Wikimedia also runs Lighttpd servers.
+Comparison of web server software
+Internet Cache Protocol
+Proxy server which discusses client-side proxies
+Reverse proxy which discusses origin-side proxies
+Traffic Server
+Web accelerator which discusses host-based HTTP acceleration

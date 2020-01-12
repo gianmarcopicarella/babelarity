@@ -1,0 +1,277 @@
+In the mathematical field of complex analysis, a pole of a meromorphic function is a certain type of singularity that behaves like the singularity of 
+            1
+              z
+                n
+    {\displaystyle {\frac {1}{z^{n}}}}
+   at z = 0. For a pole of the function f(z) at point a the function approaches infinity as z approaches a.
+Formally, suppose U is an open subset of the complex plane C, p is an element of U and f : U \ {p} → C is a function which is holomorphic over its domain. If there exists a holomorphic function g : U → C, such that g(p) is nonzero, and a positive integer n, such that for all z in U \ {p}
+        f
+        (
+        z
+        )
+        =
+              g
+              (
+              z
+              )
+              (
+              z
+              −
+              p
+                )
+                  n
+    {\displaystyle f(z)={\frac {g(z)}{(z-p)^{n}}}}
+holds, then p is called a pole of f. The smallest such n is called the order of the pole. A pole of order 1 is called a simple pole.
+A few authors allow the order of a pole to be zero, in which case a pole of order zero is either a regular point or a removable singularity. However, it is more usual to require the order of a pole to be positive.
+From above several equivalent characterizations can be deduced:
+If n is the order of pole p, then necessarily g(p) ≠ 0 for the function g in the above expression. So we can put
+        f
+        (
+        z
+        )
+        =
+            1
+              h
+              (
+              z
+              )
+    {\displaystyle f(z)={\frac {1}{h(z)}}}
+for some h that is holomorphic in an open neighborhood of p and has a zero of order n at p. So informally one might say that poles occur as reciprocals of zeros of holomorphic functions.
+Also, by the holomorphy of g, f can be expressed as:
+        f
+        (
+        z
+        )
+        =
+              a
+                −
+                n
+              (
+              z
+              −
+              p
+                )
+                  n
+        +
+        ⋯
+        +
+              a
+                −
+                1
+              (
+              z
+              −
+              p
+              )
+        +
+          ∑
+            k
+            ≥
+            0
+          a
+            k
+        (
+        z
+        −
+        p
+          )
+            k
+        .
+    {\displaystyle f(z)={\frac {a_{-n}}{(z-p)^{n}}}+\cdots +{\frac {a_{-1}}{(z-p)}}+\sum _{k\,\geq \,0}a_{k}(z-p)^{k}.}
+This is a Laurent series with finite principal part. The holomorphic function 
+            ∑
+              k
+              ≥
+              0
+            a
+              k
+          (
+          z
+          −
+          p
+            )
+              k
+    {\displaystyle \scriptstyle \sum _{k\,\geq \,0}a_{k}(z\,-\,p)^{k}}
+   (on U) is called the regular part of f. So the point p is a pole of order n of f if and only if all the terms in the Laurent series expansion of f around p below degree −n vanish and the term in degree −n is not zero.
+A complex function can be defined as having a pole at the point at infinity. In this case U has to be a neighborhood of infinity, such as the exterior of any closed ball. To use the previous definition, a meaning for g being holomorphic at ∞ is needed. Alternately, a definition can be given starting from the definition at a finite point by suitably mapping the point at infinity to a finite point. The map 
+          z
+          ↦
+              1
+              z
+    {\displaystyle \scriptstyle z\mapsto {\frac {1}{z}}}
+   does that. Then, by definition, a function f holomorphic in a neighborhood of infinity has a pole at infinity if the function 
+          f
+          (
+              1
+              z
+          )
+    {\displaystyle \scriptstyle f({\frac {1}{z}})}
+   (which will be holomorphic in a neighborhood of 
+          z
+          =
+          0
+    {\displaystyle \scriptstyle z=0}
+  ), has a pole at 
+          z
+          =
+          0
+    {\displaystyle \scriptstyle z=0}
+  , the order of which will be regarded as the order of the pole of f at infinity.
+In general, having a function 
+          f
+          :
+          M
+          →
+            C
+    {\displaystyle \scriptstyle f:\;M\,\rightarrow \,\mathbb {C} }
+   that is holomorphic in a neighborhood, 
+          U
+    {\displaystyle \scriptstyle U}
+  , of the point 
+          a
+    {\displaystyle \scriptstyle a}
+  , in the complex manifold M, it is said that f has a pole at a of order n if, having a chart 
+          ϕ
+          :
+          U
+          →
+            C
+    {\displaystyle \scriptstyle \phi :\;U\,\rightarrow \,\mathbb {C} }
+  , the function 
+          f
+          ∘
+            ϕ
+              −
+              1
+          :
+            C
+          →
+            C
+    {\displaystyle \scriptstyle f\,\circ \,\phi ^{-1}:\;\mathbb {C} \,\rightarrow \,\mathbb {C} }
+   has a pole of order n at 
+          ϕ
+          (
+          a
+          )
+    {\displaystyle \scriptstyle \phi (a)}
+   (which can be taken as being zero if a convenient choice of the chart is made). ] The pole at infinity is the simplest nontrivial example of this definition in which M is taken to be the Riemann sphere and the chart is taken to be 
+          ϕ
+          (
+          z
+          )
+          =
+              1
+              z
+    {\displaystyle \scriptstyle \phi (z)\,=\,{\frac {1}{z}}}
+  .
+The function
+        f
+        (
+        z
+        )
+        =
+            3
+            z
+    {\displaystyle f(z)={\frac {3}{z}}}
+has a pole of order 1 or simple pole at 
+        z
+        =
+        0
+    {\displaystyle z=0}
+  .
+The function
+        f
+        (
+        z
+        )
+        =
+              z
+              +
+              2
+              (
+              z
+              −
+              5
+                )
+                  2
+              (
+              z
+              +
+              7
+                )
+                  3
+    {\displaystyle f(z)={\frac {z+2}{(z-5)^{2}(z+7)^{3}}}}
+has a pole of order 2 at 
+        z
+        =
+        5
+    {\displaystyle z=5}
+   and a pole of order 3 at 
+        z
+        =
+        −
+        7
+    {\displaystyle z=-7}
+  .
+The function
+        f
+        (
+        z
+        )
+        =
+              z
+              −
+              4
+                e
+                  z
+              −
+              1
+    {\displaystyle f(z)={\frac {z-4}{e^{z}-1}}}
+has poles of order 1 at 
+        z
+        =
+        2
+        π
+        n
+        i
+           for 
+        n
+        =
+        …
+        ,
+        −
+        1
+        ,
+        0
+        ,
+        1
+        ,
+        …
+        .
+    {\displaystyle z\,=\,2\pi ni{\text{ for }}n\,=\,\dots ,\,-1,\,0,\,1,\,\dots .}
+   To see that, write 
+          e
+            z
+    {\displaystyle e^{z}}
+   in Taylor series around the origin.
+The function
+        f
+        (
+        z
+        )
+        =
+        z
+    {\displaystyle f(z)=z}
+has a single pole at infinity of order 1.
+If the first derivative of a function f has a simple pole at a, then a is a branch point of f. (The converse need not be true).
+A non-removable singularity that is not a pole or a branch point is called an essential singularity.
+A complex function which is holomorphic except for some isolated singularities and whose only singularities are poles is called meromorphic.
+Control theory#Stability
+Filter design
+Filter (signal processing)
+Nyquist stability criterion
+Pole–zero plot
+Residue (complex analysis)
+Zero (complex analysis)
+Weisstein, Eric W., "Pole", MathWorld.
+Module for Zeros and Poles by John H. Mathews

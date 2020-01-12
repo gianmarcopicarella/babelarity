@@ -1,0 +1,1033 @@
+In numerical analysis, Simpson's rule is a method for numerical integration, the numerical approximation of definite integrals. Specifically, it is the following approximation:
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        ≈
+                b
+                −
+                a
+              6
+          [
+          f
+          (
+          a
+          )
+          +
+          4
+          f
+            (
+                    a
+                    +
+                    b
+                  2
+            )
+          +
+          f
+          (
+          b
+          )
+          ]
+        .
+    {\displaystyle \int _{a}^{b}f(x)\,dx\approx {\tfrac {b-a}{6}}\left[f(a)+4f\left({\tfrac {a+b}{2}}\right)+f(b)\right].}
+Simpson's rule also corresponds to the three-point Newton-Cotes quadrature rule.
+The method is credited to the mathematician Thomas Simpson (1710–1761) of Leicestershire, England. Kepler used similar formulas over 100 years prior. For this reason the method is sometimes called Kepler's rule, or Keplersche Fassregel in German.
+Simpson's rule can be derived in various ways.
+One derivation replaces the integrand 
+        f
+        (
+        x
+        )
+    {\displaystyle f(x)}
+   by the quadratic polynomial (i.e. parabola)
+        P
+        (
+        x
+        )
+    {\displaystyle P(x)}
+   which takes the same values as 
+        f
+        (
+        x
+        )
+    {\displaystyle f(x)}
+   at the end points a and b and the midpoint m = (a + b) / 2. One can use Lagrange polynomial interpolation to find an expression for this polynomial,
+        P
+        (
+        x
+        )
+        =
+        f
+        (
+        a
+        )
+                (
+                x
+                −
+                m
+                )
+                (
+                x
+                −
+                b
+                )
+                (
+                a
+                −
+                m
+                )
+                (
+                a
+                −
+                b
+                )
+        +
+        f
+        (
+        m
+        )
+                (
+                x
+                −
+                a
+                )
+                (
+                x
+                −
+                b
+                )
+                (
+                m
+                −
+                a
+                )
+                (
+                m
+                −
+                b
+                )
+        +
+        f
+        (
+        b
+        )
+                (
+                x
+                −
+                a
+                )
+                (
+                x
+                −
+                m
+                )
+                (
+                b
+                −
+                a
+                )
+                (
+                b
+                −
+                m
+                )
+        .
+    {\displaystyle P(x)=f(a){\tfrac {(x-m)(x-b)}{(a-m)(a-b)}}+f(m){\tfrac {(x-a)(x-b)}{(m-a)(m-b)}}+f(b){\tfrac {(x-a)(x-m)}{(b-a)(b-m)}}.}
+An easy (albeit tedious) integration by substitution shows that
+          ∫
+            a
+            b
+        P
+        (
+        x
+        )
+        d
+        x
+        =
+                b
+                −
+                a
+              6
+          [
+          f
+          (
+          a
+          )
+          +
+          4
+          f
+            (
+                    a
+                    +
+                    b
+                  2
+            )
+          +
+          f
+          (
+          b
+          )
+          ]
+        .
+    {\displaystyle \int _{a}^{b}P(x)\,dx={\tfrac {b-a}{6}}\left[f(a)+4f\left({\tfrac {a+b}{2}}\right)+f(b)\right].}
+This calculation can be carried out more easily if one first observes that (by scaling) there is no loss of generality in assuming that 
+        a
+        =
+        −
+        1
+    {\displaystyle a=-1}
+   and 
+        b
+        =
+        1
+    {\displaystyle b=1}
+  .
+Another derivation constructs Simpson's rule from two simpler approximations: the midpoint rule
+        M
+        =
+        (
+        b
+        −
+        a
+        )
+        f
+          (
+                  a
+                  +
+                  b
+                2
+          )
+    {\displaystyle M=(b-a)f\left({\tfrac {a+b}{2}}\right)}
+and the trapezoidal rule
+        T
+        =
+              1
+              2
+        (
+        b
+        −
+        a
+        )
+        (
+        f
+        (
+        a
+        )
+        +
+        f
+        (
+        b
+        )
+        )
+        .
+    {\displaystyle T={\tfrac {1}{2}}(b-a)(f(a)+f(b)).}
+The errors in these approximations are
+        −
+              1
+              24
+        (
+        b
+        −
+        a
+          )
+            3
+          f
+          ″
+        (
+        a
+        )
+        +
+        O
+        (
+        (
+        b
+        −
+        a
+          )
+            4
+        )
+          and
+              1
+              12
+        (
+        b
+        −
+        a
+          )
+            3
+          f
+          ″
+        (
+        a
+        )
+        +
+        O
+        (
+        (
+        b
+        −
+        a
+          )
+            4
+        )
+        ,
+    {\displaystyle -{\tfrac {1}{24}}(b-a)^{3}f''(a)+O((b-a)^{4})\quad {\text{and}}\quad {\tfrac {1}{12}}(b-a)^{3}f''(a)+O((b-a)^{4}),}
+respectively, where 
+        O
+        (
+        (
+        b
+        −
+        a
+          )
+            4
+        )
+    {\displaystyle O((b-a)^{4})}
+   denotes a term asymptotically proportional to 
+        (
+        b
+        −
+        a
+          )
+            4
+    {\displaystyle (b-a)^{4}}
+  . The two 
+        O
+        (
+        (
+        b
+        −
+        a
+          )
+            4
+        )
+    {\displaystyle O((b-a)^{4})}
+   terms are not equal; see Big O notation for more details. It follows from the above formulas for the errors of the midpoint and trapezoidal rule that the leading error term vanishes if we take the weighted average
+                2
+                M
+                +
+                T
+              3
+        .
+    {\displaystyle {\tfrac {2M+T}{3}}.}
+This weighted average is exactly Simpson's rule.
+Using another approximation (for example, the trapezoidal rule with twice as many points), it is possible to take a suitable weighted average and eliminate another error term. This is Romberg's method.
+The third derivation starts from the ansatz
+              1
+                b
+                −
+                a
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        ≈
+        α
+        f
+        (
+        a
+        )
+        +
+        β
+        f
+          (
+                  a
+                  +
+                  b
+                2
+          )
+        +
+        γ
+        f
+        (
+        b
+        )
+        .
+    {\displaystyle {\tfrac {1}{b-a}}\int _{a}^{b}f(x)\,dx\approx \alpha f(a)+\beta f\left({\tfrac {a+b}{2}}\right)+\gamma f(b).}
+The coefficients α, β and γ can be fixed by requiring that this approximation be exact for all quadratic polynomials. This yields Simpson's rule.
+The error in approximating an integral by Simpson's rule is
+              1
+              90
+            (
+                    b
+                    −
+                    a
+                  2
+            )
+            5
+          |
+            f
+              (
+              4
+              )
+          (
+          ξ
+          )
+          |
+        ,
+    {\displaystyle {\tfrac {1}{90}}\left({\tfrac {b-a}{2}}\right)^{5}\left|f^{(4)}(\xi )\right|,}
+where 
+        ξ
+    {\displaystyle \xi }
+   is some number between 
+        a
+    {\displaystyle a}
+   and 
+        b
+    {\displaystyle b}
+  .
+The error is asymptotically proportional to 
+        (
+        b
+        −
+        a
+          )
+            5
+    {\displaystyle (b-a)^{5}}
+  . However, the above derivations suggest an error proportional to 
+        (
+        b
+        −
+        a
+          )
+            4
+    {\displaystyle (b-a)^{4}}
+  . Simpson's rule gains an extra order because the points at which the integrand is evaluated are distributed symmetrically in the interval [a, b].
+Since the error term is proportional to the fourth derivative of f at 
+        ξ
+    {\displaystyle \xi }
+  , this shows that Simpson's rule provides exact results for any polynomial f of degree three or less, since the fourth derivative of such a polynomial is zero at all points.
+If the interval of integration 
+        [
+        a
+        ,
+        b
+        ]
+    {\displaystyle [a,b]}
+   is in some sense "small", then Simpson's rule will provide an adequate approximation to the exact integral. By small, what we really mean is that the function being integrated is relatively smooth over the interval 
+        [
+        a
+        ,
+        b
+        ]
+    {\displaystyle [a,b]}
+  . For such a function, a smooth quadratic interpolant like the one used in Simpson's rule will give good results.
+However, it is often the case that the function we are trying to integrate is not smooth over the interval. Typically, this means that either the function is highly oscillatory, or it lacks derivatives at certain points. In these cases, Simpson's rule may give very poor results. One common way of handling this problem is by breaking up the interval 
+        [
+        a
+        ,
+        b
+        ]
+    {\displaystyle [a,b]}
+   into a number of small subintervals. Simpson's rule is then applied to each subinterval, with the results being summed to produce an approximation for the integral over the entire interval. This sort of approach is termed the composite Simpson's rule.
+Suppose that the interval 
+        [
+        a
+        ,
+        b
+        ]
+    {\displaystyle [a,b]}
+   is split up in 
+        n
+          /
+        2
+    {\displaystyle n/2}
+   subintervals, with 
+        n
+    {\displaystyle n}
+   an even number. Then, the composite Simpson's rule is given by
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        ≈
+              h
+              3
+            [
+        f
+        (
+          x
+            0
+        )
+        +
+        2
+          ∑
+            j
+            =
+            1
+            n
+              /
+            2
+            −
+            1
+        f
+        (
+          x
+            2
+            j
+        )
+        +
+        4
+          ∑
+            j
+            =
+            1
+            n
+              /
+            2
+        f
+        (
+          x
+            2
+            j
+            −
+            1
+        )
+        +
+        f
+        (
+          x
+            n
+        )
+            ]
+        ,
+    {\displaystyle \int _{a}^{b}f(x)\,dx\approx {\tfrac {h}{3}}{\bigg [}f(x_{0})+2\sum _{j=1}^{n/2-1}f(x_{2j})+4\sum _{j=1}^{n/2}f(x_{2j-1})+f(x_{n}){\bigg ]},}
+where 
+          x
+            j
+        =
+        a
+        +
+        j
+        h
+    {\displaystyle x_{j}=a+jh}
+   for 
+        j
+        =
+        0
+        ,
+        1
+        ,
+        .
+        .
+        .
+        ,
+        n
+        −
+        1
+        ,
+        n
+    {\displaystyle j=0,1,...,n-1,n}
+   with 
+        h
+        =
+        (
+        b
+        −
+        a
+        )
+          /
+        n
+    {\displaystyle h=(b-a)/n}
+  ; in particular, 
+          x
+            0
+        =
+        a
+    {\displaystyle x_{0}=a}
+   and 
+          x
+            n
+        =
+        b
+    {\displaystyle x_{n}=b}
+  . This composite rule with 
+        n
+        =
+        2
+    {\displaystyle n=2}
+   corresponds with the regular Simpson's Rule of the preceding section. The above formula can also be written as
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        ≈
+              h
+              3
+            [
+        f
+        (
+          x
+            0
+        )
+        +
+        4
+        f
+        (
+          x
+            1
+        )
+        +
+        2
+        f
+        (
+          x
+            2
+        )
+        +
+        4
+        f
+        (
+          x
+            3
+        )
+        +
+        2
+        f
+        (
+          x
+            4
+        )
+        +
+        ⋯
+        +
+        4
+        f
+        (
+          x
+            n
+            −
+            1
+        )
+        +
+        f
+        (
+          x
+            n
+        )
+            ]
+        =
+              h
+              3
+          ∑
+            j
+            =
+            1
+            n
+              /
+            2
+            [
+        f
+        (
+          x
+            2
+            j
+            −
+            2
+        )
+        +
+        4
+        f
+        (
+          x
+            2
+            j
+            −
+            1
+        )
+        +
+        f
+        (
+          x
+            2
+            j
+        )
+            ]
+        .
+    {\displaystyle \int _{a}^{b}f(x)\,dx\approx {\tfrac {h}{3}}{\bigg [}f(x_{0})+4f(x_{1})+2f(x_{2})+4f(x_{3})+2f(x_{4})+\cdots +4f(x_{n-1})+f(x_{n}){\bigg ]}={\tfrac {h}{3}}\sum _{j=1}^{n/2}{\bigg [}f(x_{2j-2})+4f(x_{2j-1})+f(x_{2j}){\bigg ]}.}
+The error committed by the composite Simpson's rule is bounded (in absolute value) by
+                h
+                  4
+              180
+        (
+        b
+        −
+        a
+        )
+          max
+            ξ
+            ∈
+            [
+            a
+            ,
+            b
+            ]
+          |
+          f
+            (
+            4
+            )
+        (
+        ξ
+        )
+          |
+        ,
+    {\displaystyle {\tfrac {h^{4}}{180}}(b-a)\max _{\xi \in [a,b]}|f^{(4)}(\xi )|,}
+where 
+        h
+    {\displaystyle h}
+   is the "step length", given by 
+        h
+        =
+        (
+        b
+        −
+        a
+        )
+          /
+        n
+        .
+    {\displaystyle h=(b-a)/n.}
+This formulation splits the interval 
+        [
+        a
+        ,
+        b
+        ]
+    {\displaystyle [a,b]}
+   in subintervals of equal length. In practice, it is often advantageous to use subintervals of different lengths, and concentrate the efforts on the places where the integrand is less well-behaved. This leads to the adaptive Simpson's method.
+This is another formulation of a composite Simpson's rule: instead of applying Simpson's rule to disjoint segments of the integral to be approximated, Simpson's rule is applied to overlapping segments, yielding:
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        ≈
+              h
+              48
+            [
+        17
+        f
+        (
+          x
+            0
+        )
+        +
+        59
+        f
+        (
+          x
+            1
+        )
+        +
+        43
+        f
+        (
+          x
+            2
+        )
+        +
+        49
+        f
+        (
+          x
+            3
+        )
+        +
+        48
+          ∑
+            i
+            =
+            4
+            n
+            −
+            4
+        f
+        (
+          x
+            i
+        )
+        +
+        49
+        f
+        (
+          x
+            n
+            −
+            3
+        )
+        +
+        43
+        f
+        (
+          x
+            n
+            −
+            2
+        )
+        +
+        59
+        f
+        (
+          x
+            n
+            −
+            1
+        )
+        +
+        17
+        f
+        (
+          x
+            n
+        )
+            ]
+        .
+    {\displaystyle \int _{a}^{b}f(x)\,dx\approx {\tfrac {h}{48}}{\bigg [}17f(x_{0})+59f(x_{1})+43f(x_{2})+49f(x_{3})+48\sum _{i=4}^{n-4}f(x_{i})+49f(x_{n-3})+43f(x_{n-2})+59f(x_{n-1})+17f(x_{n}){\bigg ]}.}
+The formula above is obtained by combining the original composite Simpson's rule with the one consisting in using Simpson's 3/8 rule in the extreme subintervals and the standard 3-point rule in the remaining subintervals. The result is then obtained by taking the mean of the two formulas.
+Simpson's 3/8 rule is another method for numerical integration proposed by Thomas Simpson. It is based upon a cubic interpolation rather than a quadratic interpolation. Simpson's 3/8 rule is as follows:
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        ≈
+                3
+                h
+              8
+          [
+          f
+          (
+          a
+          )
+          +
+          3
+          f
+            (
+                    2
+                    a
+                    +
+                    b
+                  3
+            )
+          +
+          3
+          f
+            (
+                    a
+                    +
+                    2
+                    b
+                  3
+            )
+          +
+          f
+          (
+          b
+          )
+          ]
+        =
+                (
+                b
+                −
+                a
+                )
+              8
+          [
+          f
+          (
+          a
+          )
+          +
+          3
+          f
+            (
+                    2
+                    a
+                    +
+                    b
+                  3
+            )
+          +
+          3
+          f
+            (
+                    a
+                    +
+                    2
+                    b
+                  3
+            )
+          +
+          f
+          (
+          b
+          )
+          ]
+        ,
+    {\displaystyle \int _{a}^{b}f(x)\,dx\approx {\tfrac {3h}{8}}\left[f(a)+3f\left({\tfrac {2a+b}{3}}\right)+3f\left({\tfrac {a+2b}{3}}\right)+f(b)\right]={\tfrac {(b-a)}{8}}\left[f(a)+3f\left({\tfrac {2a+b}{3}}\right)+3f\left({\tfrac {a+2b}{3}}\right)+f(b)\right]\,,}
+where b - a = 3h. The error of this method is:
+          |
+                  (
+                  b
+                  −
+                  a
+                    )
+                      5
+                6480
+            f
+              (
+              4
+              )
+          (
+          ξ
+          )
+          |
+        ,
+    {\displaystyle \left|{\tfrac {(b-a)^{5}}{6480}}f^{(4)}(\xi )\right|,}
+where 
+        ξ
+    {\displaystyle \xi }
+   is some number between 
+        a
+    {\displaystyle a}
+   and 
+        b
+    {\displaystyle b}
+  . Thus, the 3/8 rule is about twice as accurate as the standard method, but it uses one more function value. A composite 3/8 rule also exists, similarly as above.
+A further generalization of this concept for interpolation with arbitrary degree polynomials are the Newton–Cotes formulas.
+Defining,
+        h
+        =
+        (
+        b
+        −
+        a
+        )
+          /
+        n
+        ,
+          x
+            i
+        =
+        a
+        +
+        i
+        h
+        ,
+    {\displaystyle h=(b-a)/n,\quad \quad x_{i}=a+ih,}
+we have
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+        ≈
+                3
+                h
+              8
+          [
+          f
+          (
+            x
+              0
+          )
+          +
+          3
+          f
+          (
+            x
+              1
+          )
+          +
+          3
+          f
+          (
+            x
+              2
+          )
+          +
+          2
+          f
+          (
+            x
+              3
+          )
+          +
+          3
+          f
+          (
+            x
+              4
+          )
+          +
+          3
+          f
+          (
+            x
+              5
+          )
+          +
+          2
+          f
+          (
+            x
+              6
+          )
+          +
+          .
+          .
+          .
+          +
+          f
+          (
+            x
+              n
+          )
+          ]
+        .
+    {\displaystyle \int _{a}^{b}f(x)\,dx\approx {\tfrac {3h}{8}}\left[f(x_{0})+3f(x_{1})+3f(x_{2})+2f(x_{3})+3f(x_{4})+3f(x_{5})+2f(x_{6})+...+f(x_{n})\right].}
+Note, we can only use this if 
+        n
+    {\displaystyle n}
+   is a multiple of three.
+A simplified version of Simpson's rules is used in naval architecture. The 3/8th rule is also called Simpson's Second Rule.
+An implementation of the composite Simpson's rule in Python 3 (Python 2.7 compatible):
+Note that this function is available in SciPy as scipy.integrate.simps.
+This is an equivalent C implementation of the algorithm:
+Gaussian quadrature
+Rectangle method
+Trapezoidal rule
+Boole's rule

@@ -1,0 +1,72 @@
+The Advanced Package Tool, or APT, is a free software user interface that works with core libraries to handle the installation and removal of software on the Debian and other Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration and installation of software packages, either from precompiled files or by compiling source code.
+APT was originally designed as a front-end for dpkg to work with Debian's .deb packages, but it has since been modified to also work with the RPM Package Manager system via APT-RPM. The Fink project has ported APT to Mac OS X for some of its own package management tasks, and APT is also available in OpenSolaris.
+There has been an apt program since version 1.0; apt is a collection of tools distributed in a package named apt. A significant part of apt is defined in a C++ library of functions; apt also includes command-line programs for dealing with packages, which use the library. Three such programs are apt, apt-get and apt-cache. They are commonly used in examples of apt because they are simple and ubiquitous. The apt package is of "important" priority in all current Debian releases, and is therefore installed in a default Debian installation. Apt can be considered a front-end to dpkg, friendlier than the older dselect front-end. While dpkg performs actions on individual packages, apt tools manage relations (especially dependencies) between them, as well as sourcing and management of higher-level versioning decisions (release tracking and version pinning).
+APT is often hailed as one of Debian's best features, which Debian developers attribute to the strict quality controls in Debian's policy.
+A major feature in APT is the way it calls dpkg — it does topological sorting of the list of packages to be installed or removed and calls dpkg in the best possible sequence. In some cases, it utilizes the --force options in dpkg. However, it only does this when it is unable to calculate how to avoid the reason dpkg requires the action to be forced.
+The user indicates one or more packages to be installed. Each package name is phrased as just the name portion of the package, not a fully qualified filename (for instance, in a Debian system, libc6 would be the argument provided, not libc6_1.9.6-2.deb). Notably, apt automatically gets and installs packages upon which the indicated package depends (if necessary). This was an original distinguishing characteristic of apt-based package management systems, as it avoided installation failure due to missing dependencies, a type of dependency hell.
+Another such distinction is remote repository retrieval of packages. apt uses location configuration file (/etc/apt/sources.list) to locate the desired packages, which might be available on the network or a removable storage medium, for example, and retrieve them, and also obtain information about available (but not installed) packages.
+apt provides other command options to override decisions made by apt-get's conflict resolution system. One option is to force a particular version of a package. This can downgrade a package and render dependent software inoperable, so the user must be careful.
+Finally, the apt_preferences mechanism allows the user to create an alternative installation policy for individual packages.
+The user can specify packages by POSIX regular expression.
+apt-get is the command line package management tool supplied with the Debian package apt. APT searches its cached list of packages and lists the dependencies that must be installed or updated.
+Triggers are the treatment of deferred actions.
+APT retrieves, configures and installs the dependencies automatically.
+Other commands used in apt-get:
+update is used to resynchronize the package index files from their sources. The lists of available packages are fetched from the location(s) specified in /etc/apt/sources.list. For example, when using a Debian archive, this command retrieves and scans the Packages.gz files, so that information about new and updated packages is available.
+upgrade is used to install the newest versions of all packages currently installed on the system from the sources enumerated in /etc/apt/sources.list. Packages currently installed with new versions available are retrieved and upgraded; under no circumstances are currently installed packages removed, or packages not already installed retrieved and installed. New versions of currently installed packages that cannot be upgraded without changing the install status of another package will be left at their current version.
+dist-upgrade, in addition to performing the function of upgrade, also intelligently handles changing dependencies with new versions of packages; apt-get has a "smart" conflict resolution system, and it will attempt to upgrade the most important packages at the expense of less important ones if necessary. The /etc/apt/sources.list file contains a list of locations from which to retrieve desired package files. aptitude has a smarter dist-upgrade feature called full-upgrade.
+apt-file is a command that allows you to find which package includes a specific file, or to list all files included in a package. It is packaged separately from the main APT utilities.
+/etc/apt has the apt configuration folders and files.
+apt-config is the APT Configuration Query program. apt-config dump shows the configuration.
+/etc/apt/sources.list: Locations to fetch packages from.
+/etc/apt/sources.list.d/: Additional source list fragments.
+/etc/apt/apt.conf: APT configuration file.
+/etc/apt/apt.conf.d/: APT configuration file fragments.
+/etc/apt/preferences: version preferences file. This is where you would specify "pinning", i.e. a preference to get certain packages from a separate source or from a different version of a distribution.
+/var/cache/apt/archives/: storage area for retrieved package files.
+/var/cache/apt/archives/partial/: storage area for package files in transit.
+/var/lib/apt/lists/: storage area for state information for each package resource specified in sources.list
+/var/lib/apt/lists/partial/: storage area for state information in transit.
+APT relies on the concept of repositories in order to find software and resolve dependencies. For apt, a repository is a directory containing packages along with an index file. This can be specified as a networked or CDROM location. The Debian project keeps a central repository of over 25,000 software packages ready for download and installation.
+Any number of additional repositories can be added to APT's sources.list configuration file (/etc/apt/sources.list) and then be queried by APT. Graphical front-ends often allow modifying sources.list more simply (apt-setup). Once a package repository has been specified (like during the system installation), packages in that repository can be installed without specifying a source and will be kept up-to-date automatically.
+In addition to network repositories, compact discs and other storage media (USB keydrive, hard disks...) can be used as well, using apt-cdrom or adding file:/ to the source list file. Apt-cdrom can specify a different folder than a cd-rom, using the -d option (i.e. a hard disk or a USB keydrive). The Debian CDs available for download contain Debian repositories. This allows non-networked machines to be upgraded. Also one can use apt-zip.
+Problems may appear when several sources offer the same package(s). Systems that have such possibly conflicting sources can use APT pinning to control which sources should be preferred.
+The APT pinning feature allows administrators to force APT to choose particular versions of packages which may be available in different versions from different repositories. This allows administrators to ensure that packages are not upgraded to versions which may conflict with other packages on the system, or that have not been sufficiently tested for unwelcome changes.
+In order to do this, the pins in APT's preferences file (/etc/apt/preferences) must be modified, although graphical front-ends often make pinning simpler.
+Several other front-ends to APT exist, which provide more advanced installation functions and more intuitive interfaces. These include:
+Synaptic, a GTK+ graphical user interface
+Ubuntu Software Center, a GTK+ graphical user interface developed by the Ubuntu project
+aptitude, a console client with CLI and ncurses-based TUI interfaces
+KPackage, part of KDE
+Adept Package Manager, a graphical user interface for KDE (deb, rpm, bsd)
+PackageKit, a freedesktop.org frontend.
+GDebi, a GTK+-based tool sponsored for Ubuntu. (There is also a Qt version, available in the Ubuntu repositories a gdebi-kde.)
+apt-cdrom, a way to add a new CDROM to APT's list of available sources.lists (list of available repositories). It is necessary to use apt-cdrom to add CDs to the APT system, it cannot be done by hand.
+apt-zip, a way to use apt with removable media, specifically USB flash drives.
+aptURL, an Ubuntu software package that enables end-user applications to install with a single-click.
+Cydia, a package manager for jailbroken iOS based on APT (ported to iOS as part of the Telesphoreo project).
+gnome-apt, a GTK+/GNOME-widget-based graphical front-end.
+Muon Software Center, a Qt-based graphical user interface
+Hildon Application Manager (Maemo Application), a Maemo front-end
+apticron, a service designed to be run via cron to email notices of pending updates to a sysadmin.
+APT Daemon, a front-end that runs as a service to allow users to install software through PolicyKit and is in turn the framework used by Ubuntu Software Center (along with the Linux Mint Software Manager).
+APT front-ends can:
+Search for new packages.
+Upgrade packages.
+Install or remove packages.
+Upgrade the whole system to a new release.
+APT front-ends can list the dependencies of packages being installed or upgraded, ask the administrator if packages recommended or suggested by newly installed packages should be installed too, automatically install dependencies and perform other operations on the system such as removing obsolete files and packages.
+The original effort that led to the apt-get program was the dselect replacement project known by its codename deity. This project was commissioned by Brian White, the Debian Release Manager at the time. The very first functional version of apt-get was called dpkg-get and was only intended to be a test program for the core library functions that would underpin the new UI.
+Much of the original development of APT was done on IRC, so records have been lost. The 'Deity Creation Team' mailing list archives include only the major highlights.
+The Deity name was abandoned as the official name for the project due to concerns over the religious nature of the name. The APT name was eventually decided after considerable internal and public discussion. Ultimately the name was proposed on IRC, accepted and then finalized on the mailing lists.
+APT was introduced in 1998 and original test builds were circulated on IRC. The first Debian version that included it was Debian 2.1, released on 9 March 1999.
+In the end the original goal of the Deity project of replacing the dselect user interface (UI) was a failure. Work on the UI portion of the project was abandoned (the UI directories were removed from the CVS system) after the first public release of apt-get. The response to APT as a dselect method and a command line utility was so great and positive that all development efforts focused on maintaining and improving the tool. It was not until much later that several independent people built UIs on top of libapt-pkg.
+Eventually, a new team picked up the project, began to build new features and released version 0.6 of APT which introduced the Secure APT feature, using strong cryptographic signing to authenticate the package repositories.
+Alien
+AppStream
+apt-file
+APTonCD
+GNU Guix
+Wajig
+MANCOOSI
+ZYpp

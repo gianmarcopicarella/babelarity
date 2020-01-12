@@ -1,0 +1,28 @@
+The Lemnian language was a language spoken on the island of Lemnos in the 6th century BC. It is mainly attested by an inscription found on a funerary stele, termed the Lemnos stele, discovered in 1885 near Kaminia. Fragments of inscriptions on local pottery show that it was spoken there by a community. In 2009, a newly discovered inscription from Efestia was reported. Lemnian is largely accepted as being closely related to Etruscan. After the Athenians conquered the island in the latter half of the 6th century, Lemnian was replaced by Attic Greek.
+The inscriptions are in an alphabet similar to that used to write the Etruscan language and the older Phrygian inscriptions, all derived from Euboean scripts (Western Greek alphabet, alphabets of Asia Minor).
+A relationship between Lemnian, and Etruscan as a Tyrsenian language family has been suggested due to close connections in vocabulary and grammar. For example,
+both Etruscan and Lemnian share two unique dative cases, type-I *-si and type-II *-ale, shown both on the Lemnos Stele (Hulaie-ši "for Hulaie", Φukiasi-ale "for the Phocaean") and in inscriptions written in Etruscan (aule-si - "To Aule" - on the Cippus Perusinus as well as the inscription mi mulu Laris-ale Velχaina-si, meaning "I was blessed for Laris Velchaina").
+They also share the genitive in *-s and a simple past tense in *-a-i (Etruscan -〈e〉 as in ame "was" (< *amai); Lemnian -〈ai〉 as in šivai, meaning "lived").
+Like Etruscan, the Lemnian language appears to have had a four-vowel system, consisting of "i", "e", "a" and "o". Other languages in the neighbourhood of the Lemnian area, namely Hittite and Akkadian, had similar four-vowel systems, suggesting early areal influence.
+The stele was found built into a church wall in Kaminia and is now at the National Archaeological Museum of Athens. The 6th century date is based on the fact that in 510 BC the Athenian Miltiades invaded Lemnos and Hellenized it. The stele bears a low-relief bust of a helmeted man and is inscribed in an alphabet similar to the western ("Chalcidian") Greek alphabet. The inscription is in Boustrophedon style, and has been transliterated but had not been successfully translated until serious linguistic analysis based on comparisons with Etruscan, combined with breakthroughs in Etruscan's own translation started to yield fruit.
+The inscription consists of 198 characters forming 33 to 40 words, word separation sometimes indicated with one to three dots. The text consists of three parts, two written vertically and one horizontally. Comprehensible is the phrase aviš sialχviš ("aged sixty", B.3), reminiscent of Etruscan avils maχs śealχisc ("and aged sixty-five").
+Transcription:
+front:
+A.1. hulaieš:naφuθ:šiaši
+A.2. maraš:mav
+A.3. sialχveiš:aviš
+A.4. evisθu:šerunaiθ
+A.5. šivai
+A.6. aker:tavaršiu
+A.7. vanalasial:šerunai:murinail
+side:
+B.1. hulaieši:φukiasiale:šerunaiθ:evisθu:tuveruna
+B.2. rum:haraliu:šivai:eptešiu:arai:tiš:φuke
+B.3. šivai:aviš:sialχviš:marašm:aviš:aumai
+Another Lemnian inscription has been found during excavations at Efestia on the island of Lemnos. The inscription consists of 26 letters arranged in two lines of boustrophedal script.
+Transcription:
+upper line (left to right):
+hktaonosi:heloke
+lower line (right to left):
+soromš:aslaš
+Aegean languages

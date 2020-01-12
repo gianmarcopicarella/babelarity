@@ -1,0 +1,28 @@
+The Adephaga (from Greek ἀδηφάγος, adephagos, "gluttonous"), with more than 40,000 recorded species in 10 families, are a suborder of highly specialized beetles and the second-largest suborder of the order Coleoptera. Members of this suborder are adephagans, a term which notably include ground beetles, tiger beetles, predacious diving beetles, and whirligig beetles. The majority of the species belongs to the family of carabids, or ground beetles (Carabidae).
+Adephagans have simple antennae with no pectination or clubs. The galeae of the maxillae usually consist of two segments. Adult adephagans have visible notopleural sutures. The first visible abdominal sternum is completely separated by the hind coxae, which is one of the most easily recognizable traits of adephagans. Five segments are on each foot.
+The transverse fold of the hind wing is near the wing tip. The median nervure ends at this fold, where it is joined by a cross nervure.
+Adephagans have four malpighian tubules. Unlike in other beetles, yolk chambers alternate with egg chambers in the ovarian tubes of adephagans. The coiled, tubular testes consist of a single follicle, and the ovaries are polytrophic.
+All families of adephagan have paired pygidial glands located posterodorsally in the abdomen, which are used for secreting chemicals. The glands consist of complex invaginations of the cuticle lined with epidermal cells contiguous with the integument. The glands have no connection with the rectum and open on the eighth abdominal tergum.
+Secretions pass from the secretory lobes, which are aggregations of secretory cells, through a tube to a reservoir lined with muscles. This reservoir then narrows to a tube leading to an opening valve. The secretory lobes differ structurally from one taxon to another; it may be elongated or oval, branched basally or apically, or unbranched.
+The secretion is realized in one of these manners:
+Oozing: if the gland is not muscle-lined, the discharge is limited in amount.
+Spraying: if the gland is muscle-lined, which is typically the case of carabids, the substances are ejected more or less forcefully.
+Crepitation is only associated with the Brachininae carabids and several related species. See bombardier beetle for a detailed description of the mechanism.
+The secretions differ in the chemical constituents, according to the taxa. Gyrinids, for instance, secrete norsesquiterpenes such as gyrinidal, isogyrinidal, gyrinidione, or gyrinidone. Dytiscids discharge aromatic aldehydes, esters, and acids, especially benzoic acid. Carabids typically produce carboxylic acids, particularly formic acid, methacrylic acid, and tiglic acid, but also aliphatic ketones, saturated esters, phenols, aromatic aldehydes, and quinones. Accessory glands or modified structures are present in some taxa: the Dytiscidae and Hygrobiidae also possess paired prothoracic glands secreting steroids; and the Gyrinidae are unique in the extended shape of the external opening of the pygidial gland.
+The function of many compounds remain unknown, yet several hypotheses have been advanced:
+As toxins or deterrent against predators, some compounds indirectly play this role by easing the penetration of the deterrent into the predator's integument.
+Antimicrobial and antifungal agents (especially in Hydradephaga)
+A means to increase wetability of the integument (especially in Hydradephaga)
+Alarm pheromones (especially in Gyrinidae)
+Propellant on water surfaces (especially in Gyrinidae)
+Conditioning plant tissues associated with oviposition
+Habitats range from caves to rainforest canopy and alpine habitats. The body forms of some are structurally modified for adaptation to habitats: members of the family Gyrinidae live at the air-water interface, rhysodines live in heartwood, and paussine carabids inhabit ant nests.
+Most species are predators. Other less-typical forms of feeding include: algophagy (family Haliplidae), seed-feeding (arpaline carabids), mycophagy (rhysodine carabids), and snail-feeding (licinine and cychrine carabids). Some species are ectoparasitoids of insects (brachinine and lebiine carabids) or of millipedes (peleciine carabids).
+Some species are ovoviviparous, such as pseudomorphine carabids.
+The larvae are active, with well-chitinized cuticle, often with elongated cerci and five-segmented legs, the foot-segment carrying two claws. Larvae have a fused labrum and no mandibular molae.
+Adephagans diverged from their sister group in the late Permian, the most recent common ancestor of living adephagans probably existing in the early Triassic, around 240 million years ago. Both aquatic and terrestrial representatives of the suborder appear in fossil records of the late Triassic. The Jurassic fauna consisted of trachypachids, carabids, gyrinids, and haliplid-like forms. The familial and tribal diversification of the group spans the Mesozoic, with a few tribes radiating explosively during the Tertiary.
+The phylogeny of adephagans is disputed. The group is usually divided into two main groups:
+The Geadephaga comprise the two terrestrial families Carabidae and Trachypachidae (the Trachypachidae are sometimes considered a subfamily of the Carabidae).
+The Hydradephaga, gathering all other families, are aquatic.
+This division is often criticized, as mounting evidence is pointing out that the two groups are not monophyletic.
+List of subgroups of the order Coleoptera

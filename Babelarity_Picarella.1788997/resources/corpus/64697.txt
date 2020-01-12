@@ -1,0 +1,13 @@
+In mathematics, an almost perfect number (sometimes also called slightly defective or least deficient number) is a natural number n such that the sum of all divisors of n (the sum-of-divisors function σ(n)) is equal to 2n − 1, the sum of all proper divisors of n, s(n) = σ(n) − n, then being equal to n − 1. The only known almost perfect numbers are powers of 2 with non-negative exponents (sequence A000079 in the OEIS). Therefore the only known odd almost perfect number is 20 = 1, and the only known even almost perfect numbers are those of the form 2k for some positive number k; however, it has not been shown that all almost perfect numbers are of this form. It is known that an odd almost perfect number greater than 1 would have at least 6 prime factors.
+If m is an odd almost perfect number then m(2m − 1) is a Descartes number. Moreover if a and b are positive odd integers such that 
+        b
+        +
+        3
+        <
+        a
+        <
+            m
+              /
+            2
+    {\displaystyle b+3<a<{\sqrt {m/2}}}
+   and such that 4m − a and 4m + b are both primes, then m(4m − a)(4m + b) would be an odd weird number.

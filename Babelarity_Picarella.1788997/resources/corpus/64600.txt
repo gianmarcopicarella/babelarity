@@ -1,0 +1,5 @@
+Leo August Pochhammer (25 August 1841, Stendal – 24 March 1920, Kiel) was a Prussian mathematician who was educated in Berlin, obtaining his Ph.D. in 1863 under Ernst Kummer. He became a lecturer in 1874, then professor of mathematics at the Christian-Albrechts-Universität of Kiel (1877-1919), where he was appointed Rektor (commissioner of education) in 1893. He is known for his work on special functions and introduced the Pochhammer symbol, now generally used for expressing hypergeometric functions in a compact notation.
+Pochhammer symbol
+Generalized Pochhammer symbol
+q-Pochhammer symbol
+Pochhammer contour

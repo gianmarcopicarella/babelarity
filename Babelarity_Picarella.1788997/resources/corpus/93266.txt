@@ -1,0 +1,47 @@
+The term Hystricomorpha (from Latin hystrix "porcupine" and Greek μορφή, morphē "form") has had many definitions throughout its history. In the broadest sense, it refers to any rodent (except dipodoids) with a hystricomorphous zygomasseteric system. This includes the Hystricognathi, Ctenodactylidae, Anomaluridae, and Pedetidae. Molecular and morphological results suggest the inclusion of the Anomaluridae and Pedetidae in Hystricomorpha may be suspect. Based on Carleton & Musser 2005, these two families are treated here as representing a distinct suborder Anomaluromorpha.
+The modern definition of Hystricomorpha, also known as Entodacrya or Ctenohystrica, is a taxonomic hypothesis uniting the gundis with the hystricognath rodents. Considerable morphological and strong molecular support exists for this relationship . If true, this hypothesis renders the traditional view of Sciurognathi invalid, as it becomes a paraphyletic group.
+The hystricomorph rodents, or at least members of Caviomorpha, are sometimes not regarded as rodents. Most molecular and genetic research, however, confirms the monophyly of rodents. Support for rodent polyphyly appears to be a product of long branch attraction.
+Hystricomorph rodents appeared in South America in the Eocene, a continent which previously had metatherians, xenarthrans, and meridiungulates as the only resident nonflying mammals. They apparently arrived by rafting across the Atlantic from Africa. The same type of migration may have occurred with primates, which also appeared in South America in the Eocene when it was an isolated continent, long before the Great American Interchange. All of this is still controversial, and new scientific discoveries on this subject are published regularly.
+The following list of families is based on the taxonomy of Marivaux et al. 2002 and Marivaux, Vianey-Liaud & Jaeger 2004, who subjected a number of early fossil rodents to parsimony analysis and recovered support for the Hystricomorpha or Entodacrya hypothesis. Their results rendered the suborder Sciuravida as defined by McKenna & Bell 1997 to be polyphyletic and invalid. The symbol "†" is used to indicate extinct groups.
+Suborder Hystricomorpha
+Superfamily Ctenodactyloidea
+Ctenodactylidae - gundis
+†Tammquammyidae
+Diatomyidae - Laotian rock rat
+†Yuomyidae
+†Chapattimyidae
+Hystricognathiformes
+†Tsaganomyidae
+Hystricognathi - true hystricognaths
+†"Baluchimyinae"
+Hystricidae - Old World porcupines
+Phiomorpha
+†Myophiomyidae
+†Diamantomyidae
+†Phiomyidae
+†Kenyamyidae
+Petromuridae - dassie rat
+Thryonomyidae - cane rats
+Bathyergidae - blesmols
+†Bathyergoididae
+Caviomorpha - New World hystricognaths
+Superfamily Erethizontoidea
+Erethizontidae - New World porcupines
+Superfamily Cavioidea
+†Cephalomyidae
+Dasyproctidae - agoutis and acouchis
+Cuniculidae - pacas
+†Eocardiidae
+Dinomyidae - pacarana
+Caviidae - cavies, capybaras, and guinea pigs
+Superfamily Octodontoidea
+Octodontidae - degus and relatives
+Ctenomyidae - tuco-tucos
+Echimyidae - spiny rats
+Myocastoridae - nutria
+Capromyidae - hutias
+†Heptaxodontidae - giant hutias
+Superfamily Chinchilloidea
+Chinchillidae - chinchillas and viscachas
+†Neoepiblemidae
+Abrocomidae - chinchilla rats

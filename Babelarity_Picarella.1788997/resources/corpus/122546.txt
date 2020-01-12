@@ -1,0 +1,29 @@
+In theoretical computer science, a context-sensitive language is a formal language that can be defined by a context-sensitive grammar (and equivalently by a noncontracting grammar). Context-sensitive is one of the four types of grammars in the Chomsky hierarchy.
+Computationally, a context-sensitive language is equivalent with a linear bounded nondeterministic Turing machine, also called a linear bounded automaton. That is a non-deterministic Turing machine with a tape of only kn cells, where n is the size of the input and k is a constant associated with the machine. This means that every formal language that can be decided by such a machine is a context-sensitive language, and every context-sensitive language can be decided by such a machine.
+This set of languages is also known as NLINSPACE or NSPACE(O(n)), because they can be accepted using linear space on a non-deterministic Turing machine. The class LINSPACE (or DSPACE(O(n))) is defined the same, except using a deterministic Turing machine. Clearly LINSPACE is a subset of NLINSPACE, but it is not known whether LINSPACE=NLINSPACE.
+One of the simplest context-sensitive but not context-free languages is 
+        L
+        =
+        {
+          a
+            n
+          b
+            n
+          c
+            n
+        :
+        n
+        ≥
+        1
+        }
+    {\displaystyle L=\{a^{n}b^{n}c^{n}:n\geq 1\}}
+  : the language of all strings consisting of n occurrences of the symbol "a", then n "b"'s, then n "c"'s (abc, aabbcc, aaabbbccc, etc.). A superset of this language, called the Bach language, is defined as the set of all strings where "a", "b" and "c" (or any other set of three symbols) occurs equally often (aabccb, baabcaccb, etc.) and is also context-sensitive.
+L can be shown to be a context-sensitive language by constructing a linear bounded automaton which accepts L. The language can easily be shown to be neither regular nor context free by applying the respective pumping lemmas for each of the language classes to L.
+An example of recursive language that is not context-sensitive is any recursive language whose decision is an EXPSPACE-hard problem, say, the set of pairs of equivalent regular expressions with exponentiation.
+The union, intersection, concatenation of two context-sensitive languages is context-sensitive; the Kleene plus of a context-sensitive language is context-sensitive.
+The complement of a context-sensitive language is itself context-sensitive a result known as the Immerman–Szelepcsényi theorem.
+Membership of a string in a language defined by an arbitrary context-sensitive grammar, or by an arbitrary deterministic context-sensitive grammar, is a PSPACE-complete problem.
+Linear bounded automaton
+Chomsky hierarchy
+Indexed languages – a strict subset of the context-sensitive languages
+Weir hierarchy

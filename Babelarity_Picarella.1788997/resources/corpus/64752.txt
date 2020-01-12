@@ -1,0 +1,677 @@
+In linear algebra, a linear functional or linear form (also called a one-form or covector) is a linear map from a vector space to its field of scalars. In ℝn, if vectors are represented as column vectors, then linear functionals are represented as row vectors, and their action on vectors is given by the dot product, or the matrix product with the row vector on the left and the column vector on the right.  In general, if V is a vector space over a field k, then a linear functional f is a function from V to k that is linear:
+        f
+        (
+              v
+              →
+        +
+              w
+              →
+        )
+        =
+        f
+        (
+              v
+              →
+        )
+        +
+        f
+        (
+              w
+              →
+        )
+    {\displaystyle f({\vec {v}}+{\vec {w}})=f({\vec {v}})+f({\vec {w}})}
+   for all 
+              v
+              →
+        ,
+              w
+              →
+        ∈
+        V
+    {\displaystyle {\vec {v}},{\vec {w}}\in V}
+        f
+        (
+        a
+              v
+              →
+        )
+        =
+        a
+        f
+        (
+              v
+              →
+        )
+    {\displaystyle f(a{\vec {v}})=af({\vec {v}})}
+   for all 
+              v
+              →
+        ∈
+        V
+        ,
+        a
+        ∈
+        k
+        .
+    {\displaystyle {\vec {v}}\in V,a\in k.}
+The set of all linear functionals from V to k, Homk(V,k), forms a vector space over k with the addition of the operations of addition and scalar multiplication (defined pointwise).  This space is called the dual space of V, or sometimes the algebraic dual space, to distinguish it from the continuous dual space.  It is often written V∗ or V′ when the field k is understood.
+If V is a topological vector space, the space of continuous linear functionals — the continuous dual — is often simply called the dual space.  If V is a Banach space, then so is its (continuous) dual.  To distinguish the ordinary dual space from the continuous dual space, the former is sometimes called the algebraic dual.  In finite dimensions, every linear functional is continuous, so the continuous dual is the same as the algebraic dual, although this is not true in infinite dimensions.
+Suppose that vectors in the real coordinate space Rn are represented as column vectors
+              x
+              →
+        =
+            [
+                    x
+                      1
+                  ⋮
+                    x
+                      n
+            ]
+        .
+    {\displaystyle {\vec {x}}={\begin{bmatrix}x_{1}\\\vdots \\x_{n}\end{bmatrix}}.}
+Then any linear functional can be written in these coordinates as a sum of the form:
+        f
+        (
+              x
+              →
+        )
+        =
+          a
+            1
+          x
+            1
+        +
+        ⋯
+        +
+          a
+            n
+          x
+            n
+        .
+    {\displaystyle f({\vec {x}})=a_{1}x_{1}+\cdots +a_{n}x_{n}.}
+This is just the matrix product of the row vector [a1 ... an] and the column vector 
+              x
+              →
+    {\displaystyle {\vec {x}}}
+  :
+        f
+        (
+              x
+              →
+        )
+        =
+        [
+          a
+            1
+        …
+          a
+            n
+        ]
+            [
+                    x
+                      1
+                  ⋮
+                    x
+                      n
+            ]
+        .
+    {\displaystyle f({\vec {x}})=[a_{1}\dots a_{n}]{\begin{bmatrix}x_{1}\\\vdots \\x_{n}\end{bmatrix}}.}
+Linear functionals first appeared in functional analysis, the study of vector spaces of functions.  A typical example of a linear functional is integration: the linear transformation defined by the Riemann integral
+        I
+        (
+        f
+        )
+        =
+          ∫
+            a
+            b
+        f
+        (
+        x
+        )
+        d
+        x
+    {\displaystyle I(f)=\int _{a}^{b}f(x)\,dx}
+is a linear functional from the vector space C[a, b] of continuous functions on the interval [a, b] to the real numbers. The linearity of I follows from the standard facts about the integral:
+                I
+                (
+                f
+                +
+                g
+                )
+                =
+                  ∫
+                    a
+                    b
+                [
+                f
+                (
+                x
+                )
+                +
+                g
+                (
+                x
+                )
+                ]
+                d
+                x
+                =
+                  ∫
+                    a
+                    b
+                f
+                (
+                x
+                )
+                d
+                x
+                +
+                  ∫
+                    a
+                    b
+                g
+                (
+                x
+                )
+                d
+                x
+                =
+                I
+                (
+                f
+                )
+                +
+                I
+                (
+                g
+                )
+                I
+                (
+                α
+                f
+                )
+                =
+                  ∫
+                    a
+                    b
+                α
+                f
+                (
+                x
+                )
+                d
+                x
+                =
+                α
+                  ∫
+                    a
+                    b
+                f
+                (
+                x
+                )
+                d
+                x
+                =
+                α
+                I
+                (
+                f
+                )
+                .
+    {\displaystyle {\begin{aligned}I(f+g)&=\int _{a}^{b}[f(x)+g(x)]\,dx=\int _{a}^{b}f(x)\,dx+\int _{a}^{b}g(x)\,dx=I(f)+I(g)\\I(\alpha f)&=\int _{a}^{b}\alpha f(x)\,dx=\alpha \int _{a}^{b}f(x)\,dx=\alpha I(f).\end{aligned}}}
+Let Pn denote the vector space of real-valued polynomial functions of degree ≤n defined on an interval [a,b].  If c ∈ [a, b], then let evc : Pn → R be the evaluation functional:
+          ev
+            c
+        ⁡
+        f
+        =
+        f
+        (
+        c
+        )
+        .
+    {\displaystyle \operatorname {ev} _{c}f=f(c).}
+The mapping f → f(c) is linear since
+                (
+                f
+                +
+                g
+                )
+                (
+                c
+                )
+                =
+                f
+                (
+                c
+                )
+                +
+                g
+                (
+                c
+                )
+                (
+                α
+                f
+                )
+                (
+                c
+                )
+                =
+                α
+                f
+                (
+                c
+                )
+                .
+    {\displaystyle {\begin{aligned}(f+g)(c)&=f(c)+g(c)\\(\alpha f)(c)&=\alpha f(c).\end{aligned}}}
+If x0, …, xn are n+1 distinct points in [a,b], then the evaluation functionals evxi, i=0,1,...,n form a basis of the dual space of Pn.  (Lax (1996) proves this last fact using Lagrange interpolation.)
+The integration functional I defined above defines a linear functional on the subspace Pn of polynomials of degree ≤ n.  If x0, …, xn are n+1 distinct points in [a,b], then there are coefficients a0, …, an for which
+        I
+        (
+        f
+        )
+        =
+          a
+            0
+        f
+        (
+          x
+            0
+        )
+        +
+          a
+            1
+        f
+        (
+          x
+            1
+        )
+        +
+        ⋯
+        +
+          a
+            n
+        f
+        (
+          x
+            n
+        )
+    {\displaystyle I(f)=a_{0}f(x_{0})+a_{1}f(x_{1})+\dots +a_{n}f(x_{n})}
+for all f ∈ Pn.  This forms the foundation of the theory of numerical quadrature.
+This follows from the fact that the linear functionals evxi : f → f(xi) defined above form a basis of the dual space of Pn (Lax 1996).
+Linear functionals are particularly important in quantum mechanics.  Quantum mechanical systems are represented by Hilbert spaces, which are anti–isomorphic to their own dual spaces.  A state of a quantum mechanical system can be identified with a linear functional.  For more information see bra–ket notation.
+In the theory of generalized functions, certain kinds of generalized functions called distributions can be realized as linear functionals on spaces of test functions.
+Any linear functional L is either trivial (equal to 0 everywhere) or surjective onto the scalar field.  Indeed, this follows since just as the image of a vector subspace under a linear transformation is a subspace, so is the image of V under L.  however, the only subspaces (i.e., k-subspaces) of k are {0} and k itself.
+A linear functional is continuous if and only if its kernel is closed (Rudin 1991, Theorem 1.18).
+Linear functionals with the same kernel are proportional.
+The absolute value of any linear functional is a seminorm on its vector space.
+In finite dimensions, a linear functional can be visualized in terms of its level sets.  In three dimensions, the level sets of a linear functional are a family of mutually parallel planes; in higher dimensions, they are parallel hyperplanes.  This method of visualizing linear functionals is sometimes introduced in general relativity texts, such as Gravitation by Misner, Thorne & Wheeler (1973).
+Every non-degenerate bilinear form on a finite-dimensional vector space V gives rise to an isomorphism from V to V*. Specifically, denoting the bilinear form on V by < , > (for instance in Euclidean space <v,w> = v•w is the dot product of v and w), then there is a natural isomorphism 
+        V
+        →
+          V
+            ∗
+        :
+        v
+        ↦
+          v
+            ∗
+    {\displaystyle V\to V^{*}:v\mapsto v^{*}}
+   given by
+          v
+            ∗
+        (
+        w
+        )
+        :=
+        ⟨
+        v
+        ,
+        w
+        ⟩
+        .
+    {\displaystyle v^{*}(w):=\langle v,w\rangle .}
+The inverse isomorphism is given by 
+          V
+            ∗
+        →
+        V
+        :
+        f
+        ↦
+          f
+            ∗
+    {\displaystyle V^{*}\to V:f\mapsto f^{*}}
+   where f* is the unique element of V for which for all w ∈ V
+        ⟨
+          f
+            ∗
+        ,
+        w
+        ⟩
+        =
+        f
+        (
+        w
+        )
+        .
+    {\displaystyle \langle f^{*},w\rangle =f(w).}
+The above defined vector v* ∈ V* is said to be the dual vector of v ∈ V.
+In an infinite dimensional Hilbert space, analogous results hold by the Riesz representation theorem.  There is a mapping V → V* into the continuous dual space V*.  However, this mapping is antilinear rather than linear.
+Let the vector space V have a basis 
+                e
+                →
+            1
+        ,
+                e
+                →
+            2
+        ,
+        …
+        ,
+                e
+                →
+            n
+    {\displaystyle {\vec {e}}_{1},{\vec {e}}_{2},\dots ,{\vec {e}}_{n}}
+  , not necessarily orthogonal.  Then the dual space V* has a basis 
+                ω
+                ~
+            1
+        ,
+                ω
+                ~
+            2
+        ,
+        …
+        ,
+                ω
+                ~
+            n
+    {\displaystyle {\tilde {\omega }}^{1},{\tilde {\omega }}^{2},\dots ,{\tilde {\omega }}^{n}}
+   called the dual basis defined by the special property that
+                ω
+                ~
+            i
+        (
+                e
+                →
+            j
+        )
+        =
+          {
+                  1
+                    i
+                    f
+                  i
+                  =
+                  j
+                  0
+                    i
+                    f
+                  i
+                  ≠
+                  j
+                  .
+    {\displaystyle {\tilde {\omega }}^{i}({\vec {e}}_{j})=\left\{{\begin{matrix}1&\mathrm {if} \ i=j\\0&\mathrm {if} \ i\not =j.\end{matrix}}\right.}
+Or, more succinctly,
+                ω
+                ~
+            i
+        (
+                e
+                →
+            j
+        )
+        =
+          δ
+            j
+            i
+    {\displaystyle {\tilde {\omega }}^{i}({\vec {e}}_{j})=\delta _{j}^{i}}
+where δ is the Kronecker delta.  Here the superscripts of the basis functionals are not exponents but are instead contravariant indices.
+A linear functional 
+              u
+              ~
+    {\displaystyle {\tilde {u}}}
+   belonging to the dual space 
+              V
+              ~
+    {\displaystyle {\tilde {V}}}
+   can be expressed as a linear combination of basis functionals, with coefficients ("components") ui,
+              u
+              ~
+        =
+          ∑
+            i
+            =
+            1
+            n
+          u
+            i
+                ω
+                ~
+            i
+        .
+    {\displaystyle {\tilde {u}}=\sum _{i=1}^{n}u_{i}\,{\tilde {\omega }}^{i}.}
+Then, applying the functional 
+              u
+              ~
+    {\displaystyle {\tilde {u}}}
+   to a basis vector ej yields
+              u
+              ~
+        (
+                e
+                →
+            j
+        )
+        =
+          ∑
+            i
+            =
+            1
+            n
+          (
+            u
+              i
+                  ω
+                  ~
+              i
+          )
+                e
+                →
+            j
+        =
+          ∑
+            i
+          u
+            i
+          [
+                  ω
+                  ~
+              i
+            (
+                    e
+                    →
+                j
+            )
+          ]
+    {\displaystyle {\tilde {u}}({\vec {e}}_{j})=\sum _{i=1}^{n}\left(u_{i}\,{\tilde {\omega }}^{i}\right){\vec {e}}_{j}=\sum _{i}u_{i}\left[{\tilde {\omega }}^{i}\left({\vec {e}}_{j}\right)\right]}
+due to linearity of scalar multiples of functionals and pointwise linearity of sums of functionals.  Then
+                      u
+                      ~
+                (
+                        e
+                        →
+                    j
+                )
+                =
+                  ∑
+                    i
+                  u
+                    i
+                  [
+                          ω
+                          ~
+                      i
+                    (
+                            e
+                            →
+                        j
+                    )
+                  ]
+                =
+                  ∑
+                    i
+                  u
+                    i
+                      δ
+                        i
+                    j
+                =
+                  u
+                    j
+                .
+    {\displaystyle {\begin{aligned}{\tilde {u}}({\vec {e}}_{j})&=\sum _{i}u_{i}\left[{\tilde {\omega }}^{i}\left({\vec {e}}_{j}\right)\right]=\sum _{i}u_{i}{\delta ^{i}}_{j}\\&=u_{j}.\end{aligned}}}
+So each component of a linear functional can be extracted by applying the functional to the corresponding basis vector.
+When the space V carries an inner product, then it is possible to write explicitly a formula for the dual basis of a given basis.  Let V have (not necessarily orthogonal) basis 
+                e
+                →
+            1
+        ,
+        …
+        ,
+                e
+                →
+            n
+    {\displaystyle {\vec {e}}_{1},\dots ,{\vec {e}}_{n}}
+  .  In three dimensions (n = 3), the dual basis can be written explicitly
+                ω
+                ~
+            i
+        (
+              v
+              →
+        )
+        =
+            1
+            2
+          ⟨
+                  ∑
+                    j
+                    =
+                    1
+                    3
+                  ∑
+                    k
+                    =
+                    1
+                    3
+                  ε
+                    i
+                    j
+                    k
+                (
+                        e
+                        →
+                    j
+                ×
+                        e
+                        →
+                    k
+                )
+                        e
+                        →
+                    1
+                ⋅
+                        e
+                        →
+                    2
+                ×
+                        e
+                        →
+                    3
+          ,
+                v
+                →
+          ⟩
+        .
+    {\displaystyle {\tilde {\omega }}^{i}({\vec {v}})={1 \over 2}\,\left\langle {\sum _{j=1}^{3}\sum _{k=1}^{3}\varepsilon ^{ijk}\,({\vec {e}}_{j}\times {\vec {e}}_{k}) \over {\vec {e}}_{1}\cdot {\vec {e}}_{2}\times {\vec {e}}_{3}},{\vec {v}}\right\rangle .}
+for i = 1, 2, 3, where ε is the Levi-Civita symbol and 
+        ⟨
+        ,
+        ⟩
+    {\displaystyle \langle ,\rangle }
+   the inner product (or dot product) on V.
+In higher dimensions, this generalizes as follows
+                ω
+                ~
+            i
+        (
+              v
+              →
+        )
+        =
+          ⟨
+                    ∑
+                        1
+                        ≤
+                          i
+                            2
+                        <
+                          i
+                            3
+                        <
+                        ⋯
+                        <
+                          i
+                            n
+                        ≤
+                        n
+                  ε
+                    i
+                      i
+                        2
+                    …
+                      i
+                        n
+                (
+                ⋆
+                        e
+                        →
+                      i
+                        2
+                ∧
+                ⋯
+                ∧
+                        e
+                        →
+                      i
+                        n
+                )
+                ⋆
+                (
+                        e
+                        →
+                    1
+                ∧
+                ⋯
+                ∧
+                        e
+                        →
+                    n
+                )
+          ,
+                v
+                →
+          ⟩
+    {\displaystyle {\tilde {\omega }}^{i}({\vec {v}})=\left\langle {\frac {{\underset {{}^{1\leq i_{2}<i_{3}<\dots <i_{n}\leq n}}{\sum }}\varepsilon ^{ii_{2}\dots i_{n}}(\star {\vec {e}}_{i_{2}}\wedge \dots \wedge {\vec {e}}_{i_{n}})}{\star ({\vec {e}}_{1}\wedge \dots \wedge {\vec {e}}_{n})}},{\vec {v}}\right\rangle }
+where 
+        ⋆
+    {\displaystyle \star }
+   is the Hodge star operator.
+Discontinuous linear map
+Positive linear functional
+Bilinear form

@@ -1,0 +1,18 @@
+The Heavy Tank T29 and Heavy Tank T34 were an American heavy tank project started in March 1944 to counter the new German heavy tanks. The T26E3 Medium Tank (that entered service as the M26 Pershing), weighing around 45 tonnes, was not considered heavily enough armed or armored to counter the Tiger II, which weighed closer to 70 tonnes. The T29 was not ready in time for the war in Europe, but it did provide post-war engineers with opportunities for testing the engineering concepts in artillery and automotive components.
+The T29 was based upon a lengthened version of the T26E3 hull and featured heavier armor, an upgraded Ford GAC engine providing about 770 bhp (570 kW) gross, 650 bhp (480 kW) net, more comfortable controls for the driver, and a massive new turret incorporating the high velocity 105 mm gun T5. It weighed approximately 132,000 lb (60 t) unstowed and 141,000 lb (64 t) combat loaded. Its maximum armor thickness was 279 mm compared to 180 mm on the German Tiger II while its 105 mm gun was 7.06 m long compared to the 6.29 m of the Tiger II's 88 mm. Other trial models had Allison V1710 V12 engines.
+Developed at the same time and closely related to the T29, the T30 Heavy Tank was virtually identical but mounted a 155mm gun T7 and featured a more powerful engine and an extra crew member to help load the gun.
+In 1945, with the war in Europe already over, the T29 and T30 were classified "limited procurement" and a small order proposed on the basis that their large guns and heavy armor would be useful for attacking Japanese bunkers. Army Ground Forces command, however, objected to the deployment of such heavy vehicles and the war ended before the issue was resolved, so only a small batch of pilot models were constructed.
+The final variation of the T29 concept, the Heavy Tank T34, mounted a 120 mm gun based upon the then-current 120mm M1 anti-aircraft gun. This gun was designated as the 120 mm T53, which could achieve a maximum rate of fire of 5 rounds per minute with two loaders. With solid shot weighing 50 lb (23 kg), it had a muzzle velocity of 3,150 ft/s (960 m/s). A lightweight HVAP round with a muzzle velocity of 4,100 ft/s (1,200 m/s) was in development. In order to balance out the weight of the longer and heavier cannon, an additional 101 mm of armour was welded on the rear of the turret bustle. There were only two prototypes, one converted from one of the T29 pilot models and one converted from a T30. Once again, the end of the war curtailed further development, but the experience gained with the T34 was valuable in the development of the M103 heavy tank.
+The T29 featured a coincidence rangefinder projecting from both sides of the turret, distinctively resembling "ears".
+There are a couple of surviving T29s at Fort Benning, Georgia. They are being stored in preparation for an Armor exhibit. One has the distinctive rangefinder, while the other does not. Both can be seen as well as many other vehicles in a fenced enclosure on 25 Infantry Regiment Road. One is located in front of the National Armor and Cavalry Museum. There is also a surviving T29 without the rangefinder at the Detroit Arsenal in Warren, Michigan.
+List of U.S. military vehicles by model number
+Military technology and equipment
+T32 heavy tank - prototype with a similar design; uses a 90mm cannon
+T30 heavy tank - identical to the T29, but using a 155mm cannon
+T34 heavy tank - A modernized T30 using a 120mm cannon
+Tiger II heavy tank - German tank the T29 was intended to counter
+IS-3 heavy tank - contemporary Soviet assault tank
+Caernarvon Mark II - British heavy tank
+AMX-50 heavy tank - prototype French heavy tank series
+FSU tanks website
+Detail photos of T29 at the Patton Tank Museum

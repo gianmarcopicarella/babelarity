@@ -1,0 +1,30 @@
+The tau (τ), also called the tau lepton, tau particle, or tauon, is an elementary particle similar to the electron, with negative electric charge and a spin of 1/2. Together with the electron, the muon, and the three neutrinos, it is a lepton. Like all elementary particles with half-integral spin, the tau has a corresponding antiparticle of opposite charge but equal mass and spin, which in the tau's case is the antitau (also called the positive tau). Tau particles are denoted by τ− and the antitau by τ+.
+Tau leptons have a lifetime of 6987290000000000000♠2.9×10−13 s and a mass of 7003177682000000000♠1776.82 MeV/c2 (compared to 7002105700000000000♠105.7 MeV/c2 for muons and 6999511000000000000♠0.511 MeV/c2 for electrons). Since their interactions are very similar to those of the electron, a tau can be thought of as a much heavier version of the electron. Because of their greater mass, tau particles do not emit as much bremsstrahlung radiation as electrons; consequently they are potentially highly penetrating, much more so than electrons. However, because of their short lifetime, the range of the tau is mainly set by their decay length, which is too small for bremsstrahlung to be noticeable: their penetrating power appears only at ultra high energy (above PeV energies).
+As with the case of the other charged leptons, the tau has an associated tau neutrino, denoted by ν
+τ.
+The tau was detected in a series of experiments between 1974 and 1977 by Martin Lewis Perl with his colleagues at the SLAC-LBL group. Their equipment consisted of SLAC's then-new e+–e− colliding ring, called SPEAR, and the LBL magnetic detector. They could detect and distinguish between leptons, hadrons and photons. They did not detect the tau directly, but rather discovered anomalous events:
+We have discovered 64 events of the form
+e+ + e− → e± + μ∓ + at least two undetected particles
+for which we have no conventional explanation.
+The need for at least two undetected particles was shown by the inability to conserve energy and momentum with only one. However, no other muons, electrons, photons, or hadrons were detected. It was proposed that this event was the production and subsequent decay of a new particle pair:
+e+ + e− → τ+ + τ− → e± + μ∓ + 4ν
+This was difficult to verify, because the energy to produce the τ+τ− pair is similar to the threshold for D meson production. Work done at DESY-Hamburg, and with the Direct Electron Counter (DELCO) at SPEAR, subsequently established the mass and spin of the tau.
+The symbol τ was derived from the Greek τρίτον (triton, meaning "third" in English), since it was the third charged lepton discovered.
+Martin Perl shared the 1995 Nobel Prize in Physics with Frederick Reines. The latter was awarded his share of the prize for experimental discovery of the neutrino.
+The tau is the only lepton that can decay into hadrons – the other leptons do not have the necessary mass. Like the other decay modes of the tau, the hadronic decay is through the weak interaction.
+The branching ratio of the dominant hadronic tau decays are:
+25.52% for decay into a charged pion, a neutral pion, and a tau neutrino;
+10.83% for decay into a charged pion and a tau neutrino;
+9.30% for decay into a charged pion, two neutral pions, and a tau neutrino;
+8.99% for decay into three charged pions (of which two have the same electrical charge) and a tau neutrino;
+2.70% for decay into three charged pions (of which two have the same electrical charge), a neutral pion, and a tau neutrino;
+1.05% for decay into three neutral pions, a charged pion, and a tau neutrino.
+In total, the tau lepton will decay hadronically approximately 64.79% of the time.
+Since the tauonic lepton number is conserved in weak decays, a tau neutrino is always created when a tau decays.
+The branching ratio of the common purely leptonic tau decays are:
+17.82% for decay into a tau neutrino, electron and electron antineutrino;
+17.39% for decay into a tau neutrino, muon and muon antineutrino.
+The similarity of values of the two branching ratios is a consequence of lepton universality.
+The tau lepton is predicted to form exotic atoms like other charged subatomic particles. One of such, called tauonium by the analogy to muonium, consists in antitauon and an electron: τ+e−.
+Another one is an onium atom τ+τ− called true tauonium and is difficult to detect due to tau's extremely short lifetime at low (non-relativistic) energies needed to form this atom. Its detection is important for quantum electrodynamics.
+Koide formula

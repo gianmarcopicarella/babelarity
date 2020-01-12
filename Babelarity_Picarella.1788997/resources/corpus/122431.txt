@@ -1,0 +1,14 @@
+The near-open central vowel, or near-low central vowel, is a type of vowel sound, used in some spoken languages. The symbol in the International Phonetic Alphabet that represents this sound is 〈ɐ〉, a rotated lowercase letter a.
+While the IPA does not specify the rounding of [ɐ], the rounded variant of it is extremely rare - it has been reported to occur as a phoneme only in the Sabiny language, which contrasts overshort unrounded and overshort rounded near-open central vowels.
+The IPA prefers terms "close" and "open" for vowels, and the name of the article follows this. However, a large number of linguists, perhaps a majority, prefer the terms "high" and "low".
+The near-open central unrounded vowel is the most common type of the near-open central vowel, and is thus typically transcribed simply as 〈ɐ〉, which is the convention used in this article. If its unroundedness needs to be specified, it can be done by adding the less rounded diacritic to the near-open central vowel symbol: 〈ɐ̜〉, by combining the lowered diacritic with the open-mid central unrounded vowel symbol: 〈ɜ̞〉, by combining the centralized diacritic with the near-open front unrounded vowel symbol: 〈æ̈〉, or by combining the mid-centralized diacritic with either the open front unrounded vowel symbol: 〈a̽〉, or with the open back unrounded vowel: 〈ɑ̽〉. The last two symbols are equivalent to the more complex symbols 〈ä̝〉 and 〈ɑ̝̈〉, respectively.
+Its vowel height is near-open, also known as near-low, which means the tongue is positioned similarly to an open vowel, but is slightly more constricted – that is, the tongue is positioned similarly to a low vowel, but slightly higher.
+Its vowel backness is central, which means the tongue is positioned halfway between a front vowel and a back vowel.
+It is unrounded, which means that the lips are not rounded.
+The near-open central rounded vowel is an extremely rare sound, reported to occur as a phoneme only in the Sabiny language.
+If its roundedness needs to be specified, it can be done by adding the more rounded diacritic to the near-open central vowel symbol: 〈ɐ̹〉, by combining the lowered diacritic with the open-mid central rounded vowel symbol: 〈ɞ̞〉, or by combining the mid-centralized diacritic with either the open front rounded vowel symbol: 〈ɶ̽〉, or with the open back rounded vowel: 〈ɒ̽〉. The last two symbols are equivalent to the more complex symbols 〈ɶ̝̈〉 and 〈ɒ̝̈〉, respectively.
+Its vowel height is near-open, also known as near-low, which means the tongue is positioned similarly to an open vowel, but is slightly more constricted – that is, the tongue is positioned similarly to a low vowel, but slightly higher.
+Its vowel backness is central, which means the tongue is positioned halfway between a front vowel and a back vowel.
+It's rounded, which means that the lips are rounded rather than spread or relaxed.
+Turned a
+Index of phonetics articles

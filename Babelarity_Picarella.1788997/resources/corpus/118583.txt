@@ -1,0 +1,37 @@
+Stellarium is a free software planetarium, licensed under the terms of the GNU General Public License, available for Linux, Windows, and Mac OS X. It uses OpenGL to render a realistic projection of the night sky in real time.
+Stellarium was created by the French programmer Fabien Chéreau, who launched the project in the summer of 2001. Currently, Stellarium is being maintained and developed by Alexander Wolf, Georg Zotti, Marcos Cardinot, Guillaume Chéreau, Bogdan Marinov, Timothy Reaves, Ferdinand Majerech and Jörg Müller. There are a number of other developers who contributed with the development of Stellarium, that includes Robert Spearman, Johannes Gajdosik, Matthew Gates, Nigel Kerr, and Johan Meuris, who is responsible for the artwork.
+Stellarium was featured on SourceForge in May 2006 as Project of the Month.
+In 2006, Stellarium 0.7.1 won a gold award in the Education category of the Les Trophées du Libre free software competition.
+A modified version of Stellarium has been used by the MeerKAT project as a virtual sky display showing where the antennae of the radiotelescope are pointed.
+In December 2011, Stellarium was added as one of the "featured applications" in the Ubuntu Software Center.
+Sky feature
+Over 600,000 stars from the Hipparcos Catalogue and the Tycho-2 Catalogue
+Extra catalogues with more than 210 million stars
+Asterisms and illustrations of the constellations
+Constellations from ten cultures
+Images of nebulae (full Messier catalogue)
+Realistic Milky Way
+Realistic atmosphere, sunrise and sunset
+Planets of the solar system and their major moons
+Ability to display stars and other celestial objects as seen from reference points other than the Earth (e.g. Saturn, Phobos, comet C/2006 P1 (McNaught) or any other object defined in ssystem.ini)
+Interface
+Zoom
+Time control
+Multilingual interface
+Scripting to record and playback shows
+Fisheye projection for planetarium domes
+Spheric mirror projection for personal domes
+Graphical interface and extensive keyboard control
+Telescope control
+Visualization
+Equatorial and azimuthal grids
+Star twinkling
+Shooting stars
+Eclipse simulation
+Skinnable landscapes
+Spherical panorama projection
+Customisability
+Deep sky objects, landscapes, constellation images, scripts etc. can be added.
+The fisheye and spherical mirror distortion features allow Stellarium to be projected onto domes. Spherical mirror distortion is used in projection systems that utilize a digital video projector and a first surface convex spherical mirror to project images onto a dome. Such systems are generally cheaper than traditional planetarium projectors and fish-eye lens projectors and for that reason are used in budget and home planetarium setups where projection quality is less important. Several companies that build and sell digital planetarium systems use Stellarium, such as e-Planetarium. Digitalis Education Solutions, which helped develop Stellarium, created and now uses a fork called Nightshade which is specifically tailored to planetarium use.
+VirGO is a Stellarium plugin, a visual browser for the European Southern Observatory (ESO) Science Archive Facility that allows astronomers to browse professional astronomical data. It is no longer supported or maintained; the last version is 1.4.5, dated 15 January 2010.
+Stellarium Mobile is a fork of Stellarium, developed by some of the Stellarium team members. It is targeting mobile devices running Symbian, Maemo, Android and iOS. Some of the mobile optimisations have been integrated to the mainline Stellarium.

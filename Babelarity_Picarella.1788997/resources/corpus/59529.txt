@@ -1,0 +1,8 @@
+Sodium iodate (NaIO3) is the sodium salt of iodic acid. Sodium iodate is an oxidizing agent, and as such it can cause fires upon contact with combustible materials or reducing agents.
+It can be prepared by reacting a sodium-containing base such as sodium hydroxide with iodic acid, for example:
+HIO3 + NaOH → NaIO3 + H2O
+It can also be prepared by adding iodine to a hot, concentrated solution of sodium hydroxide or its carbonate:
+3 I2 + 6 NaOH → NaIO3 + 5 NaI + 3 H2O
+Sodium iodate can be oxidized to sodium periodate in water solutions by hypochlorites or other strong oxidizing agents:
+NaIO3 + NaOCl → NaIO4 + NaCl
+Conditions/substances to avoid are: heat, shock, friction, combustible materials, reducing materials, aluminium, organic compounds, carbon, hydrogen peroxide, sulfides.

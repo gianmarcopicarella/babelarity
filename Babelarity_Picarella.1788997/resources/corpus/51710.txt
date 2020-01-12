@@ -1,0 +1,99 @@
+Bluetooth low energy (Bluetooth LE, BLE, marketed as Bluetooth Smart) is a wireless personal area network technology designed and marketed by the Bluetooth Special Interest Group aimed at novel applications in the healthcare, fitness, beacons, security, and home entertainment industries. Compared to Classic Bluetooth, Bluetooth Smart is intended to provide considerably reduced power consumption and cost while maintaining a similar communication range.
+Bluetooth Smart was originally introduced under the name Wibree by Nokia in 2006. It was merged into the main Bluetooth standard in 2010 with the adoption of the Bluetooth Core Specification Version 4.0.
+Mobile operating systems including iOS, Android, Windows Phone and BlackBerry, as well as OS X, Linux, and Windows 8, natively support Bluetooth Smart. The Bluetooth SIG predicts that by 2018 more than 90 percent of Bluetooth-enabled smartphones will support Bluetooth Smart.
+Bluetooth Smart is not backward-compatible with the previous (often called "Classic") Bluetooth protocol. The Bluetooth 4.0 specification permits devices to implement either or both of the LE and Classic systems.
+Bluetooth Smart uses the same 2.4 GHz radio frequencies as Classic Bluetooth, which allows dual-mode devices to share a single radio antenna. LE does, however, use a simpler modulation system.
+In 2011, the Bluetooth Special Interest Group (SIG) announced the Bluetooth Smart logo so as to clarify compatibility between the new low energy devices and other Bluetooth devices.
+Bluetooth Smart Ready indicates a dual-mode device compatible with both Classic and low energy peripherals.
+Bluetooth Smart indicates a low energy-only device which requires either a Smart Ready or another Smart device in order to function.
+The Bluetooth SIG identifies a number of markets for low energy technology, particularly in the smart home, health, sport and fitness sectors. Cited advantages include:
+low power requirements, operating for "months or years" on a button cell
+small size and low cost
+compatibility with a large installed base of mobile phones, tablets and computers
+In 2001, researchers at Nokia determined various scenarios contemporary wireless technologies did not address. The company began developing a wireless technology adapted from the Bluetooth standard which would provide lower power usage and cost while minimizing its differences from Bluetooth technology. The results were published in 2004 using the name Bluetooth Low End Extension.
+After further development with partners, e.g., within EU FP6 project MIMOSA, actively promoted and supported also by STMicroelectronics since its early stage, technology was released to the public in October 2006 with the brand name Wibree. After negotiations with Bluetooth SIG members, an agreement was reached in June 2007 to include Wibree in future Bluetooth specification as a Bluetooth ultra-low-power technology, now known as Bluetooth Smart technology.
+Integration of Bluetooth Smart with version 4.0 of the Core Specification was completed in early 2010. The first smartphone to implement the 4.0 specification was the iPhone 4S, released in October 2011. A number of other manufacturers released Bluetooth Smart Ready devices in 2012.
+Borrowing from the original Bluetooth specification, the Bluetooth SIG defines several profiles — specifications for how a device works in a particular application — for low energy devices. Manufacturers are expected to implement the appropriate specifications for their device in order to ensure compatibility. A device may contain implementations of multiple profiles.
+All current low energy application profiles are based on the generic attribute profile (GATT), a general specification for sending and receiving short pieces of data known as attributes over a low energy link. Bluetooth 4.0 provides low power consumption with higher bit rates.
+In 2010 an Australian company called Daelibs was the first company to leverage Bluetooth for indoor proximity sensing in its Seeknfind location attendance solution. Daelibs designed and manufactured a Bluetooth beacon for use in shopping centres based on the Bluegiga chipset.
+In 2014, Cambridge Silicon Radio (now part of Qualcomm) launched CSR Mesh. CSR Mesh protocol uses Bluetooth Smart to communicate with other Bluetooth Smart devices in the network. Each device can pass the information forward to other Bluetooth Smart devices creating a “mesh” effect. For example, switching off an entire building of lights from a single smartphone. The Bluetooth SIG recently formed the Smart Mesh study group to research and define its use cases in an effort to define a standard specification.
+There are many profiles for Bluetooth Smart devices in healthcare applications. The Continua Health Alliance consortium promotes these in cooperation with the Bluetooth SIG.
+BLP (Blood Pressure Profile)— for blood pressure measurement.
+HTP (Health Thermometer Profile) — for medical temperature measurement devices.
+GLP (Glucose Profile) — for blood glucose monitors.
+CGMP (Continuous Glucose Monitor Profile)
+Profiles for sporting and fitness accessories include:
+BCS (Body Composition Service)
+CSCP (Cycling Speed and Cadence Profile) — for sensors attached to a bicycle or exercise bike to measure cadence and wheel speed.
+CPP (Cycling Power Profile)
+HRP (Heart Rate Profile) — for devices which measure heart rate
+LNP (Location and Navigation Profile)
+RSCP (Running Speed and Cadence Profile)
+WSP (Weight Scale Profile)
+IPSP (Internet Protocol Support Profile)
+ESP (Environmental Sensing Profile)
+UDS (User Data Service)
+HOGP (HID over GATT Profile)...
+"Electronic leash" applications are well suited to the long battery life possible for 'always-on' devices. Manufacturers of iBeacon devices implement the appropriate specifications for their device to make use of proximity sensing capabilities supported by Apple Inc. compatible iDevices.
+Relevant application profiles include:
+FMP — the "find me" profile — allows one device to issue an alert on a second misplaced device.
+PXP — the proximity profile — allows a proximity monitor to detect whether a proximity reporter is within a close range. Physical proximity can be estimated using the radio receiver's RSSI value, although this does not have absolute calibration of distances. Typically, an alarm may be sounded when the distance between the devices exceeds a set threshold.
+The phone alert status profile and alert notification profile allow a client device to receive notifications such as incoming call alerts from another device.
+The time profile allows current time and time zone information on a client device to be set from a server device, such as between a wristwatch and a mobile phone's network time.
+The Battery Service exposes the Battery State and Battery Level of a single battery or set of batteries in a device.
+Starting in late 2009, Bluetooth Smart integrated circuit implementations were announced by a number of manufacturers. Implementations commonly use software radio so updates to the specification can be accommodated through a firmware upgrade.
+Current mobile devices are commonly released with hardware and software support for both Classic Bluetooth and the Bluetooth Smart standard. The Bluetooth SIG maintains a list of devices.
+iOS 5 and later
+Windows Phone 8.1
+Windows 8 and later
+Android 4.3 and later
+BlackBerry 10
+Linux 3.4 and later through BlueZ 5.0
+Unison OS 5.2 
+Bluetooth Smart technology operates in the same spectrum range (the 2.400 GHz-2.4835 GHz ISM band) as Classic Bluetooth technology, but uses a different set of channels. Instead of the Classic Bluetooth 79 1-MHz channels, Bluetooth Smart has 40 2-MHz channels. Within a channel, data is transmitted using Gaussian frequency shift modulation, similar to Classic Bluetooth's Basic Rate scheme. The bit rate is 1Mbit/s, and the maximum transmit power is 10 mW. Further details are given in Volume 6 Part A (Physical Layer Specification) of the Bluetooth Core Specification V4.0.
+Bluetooth Smart uses frequency hopping to counteract narrowband interference problems. Classic Bluetooth also uses frequency hopping but the details are different; as a result, while both FCC and ETSI classify Bluetooth technology as an FHSS scheme, Bluetooth Smart is classified as a system using digital modulation techniques or a direct-sequence spread spectrum.
+More technical details may be obtained from official specification as published by the Bluetooth SIG. Note that power consumption is not part of the Bluetooth specification.
+All Bluetooth Smart devices use the Generic Attribute Profile (GATT). The application programming interface offered by a Bluetooth Smart aware operating system will typically be based around GATT concepts. GATT has the following terminology:
+Client
+A device that initiates GATT commands and requests, and accepts responses, for example, a computer or smartphone.
+Server
+A device that receives GATT commands and requests, and returns responses, for example, a temperature sensor.
+Characteristic
+A data value transferred between client and server, for example, the current battery voltage.
+Service
+A collection of related characteristics, which operate together to perform a particular function. For instance, the Health Thermometer service includes characteristics for a temperature measurement value, and a time interval between measurements.
+Descriptor
+A descriptor provides additional information about a characteristic. For instance, a temperature value characteristic may have an indication of its units (e.g. Celsius), and the maximum and minimum values which the sensor can measure. Descriptors are optional - each characteristic can have any number of descriptors.
+Some service and characteristic values are used for administrative purposes - for instance, the model name and serial number can be read as standard characteristics within the Generic Access service. Services may also include other services as sub-functions; the main functions of the device are so-called primary services, and the auxiliary functions they refer to are secondary services.
+Services, characteristics, and descriptors are collectively referred to as attributes, and identified by UUIDs. Any implementer may pick a random or pseudorandom UUID for proprietary uses, but the Bluetooth SIG have reserved a range of UUIDs (of the form xxxxxxxx-0000-1000-8000-00805F9B34FB ) for standard attributes. For efficiency, these identifiers are represented as 16-bit or 32-bit values in the protocol, rather than the 128 bits required for a full UUID. For example, the Device Information service has the short code 0x180A, rather than 0000180A-0000-1000-... . The full list is kept in the Bluetooth Assigned Numbers document online.
+The GATT protocol provides a number of commands for the client to discover information about the server. These include:
+Discover UUIDs for all primary services
+Find a service with a given UUID
+Find secondary services for a given primary service
+Discover all characteristics for a given service
+Find characteristics matching a given UUID
+Read all descriptors for a particular characteristic
+Commands are also provided to read (data transfer from server to client) and write (from client to server) the values of characteristics:
+A value may be read either by specifying the characteristic's UUID, or by a handle value (which is returned by the information discovery commands above).
+Write operations always identify the characteristic by handle, but have a choice of whether or not a response from the server is required.
+'Long read' and 'Long write' operations can be used when the length of the characteristic's data exceeds the MTU of the radio link.
+Finally, GATT offers notifications and indications. The client may request a notification for a particular characteristic from the server. The server can then send the value to the client whenever it becomes available. For instance, a temperature sensor server may notify its client every time it takes a measurement. This avoids the need for the client to poll the server, which would require the server's radio circuitry to be constantly operational.
+An indication is similar to a notification, except that it requires a response from the client, as confirmation that it has received the message.
+Bluetooth Smart is designed to enable devices with low power consumption. Several chipmakers including Cambridge Silicon Radio, Dialog Semiconductor, Nordic Semiconductor, STMicroelectronics and Texas Instruments have introduced their Bluetooth Smart optimized chipsets over the last few years. Devices with peripheral and central roles have different power requirements. A study by beacon software company, Aislelabs, reported that peripherals, such as proximity beacons, usually function for 1–2 years with a 1,000mAh coin cell battery. This is possible because of power efficiency of Bluetooth Smart protocol which only transmits small packets as compared to Bluetooth Classic which is also suitable for audio and high bandwidth data.
+In contrast, a continuous scan for the same beacons in central role can consume 1,000 mAh in a few hours. Android and iOS devices also have very different battery impact depending on type of scans and number of Bluetooth Smart devices in the vicinity. With the newer chipsets and advances in software, both Android and iOS phones now have negligible power consumption in real-life Bluetooth Smart use scenarios.
+GATT is described in full in Volume 3, Part G of the Bluetooth 4.0 Core Specification.
+ANT and ANT+
+DASH7
+Eddystone (Google)
+IEEE 802.15 / IEEE 802.15.4-2006
+iBeacon
+Indoor positioning system (IPS)
+Internet of Things (IoT)
+MyriaNed
+Ultra wideband (UWB)
+UWB Forum
+WiMedia Alliance
+WirelessHD
+Wireless USB
+ZigBee
+Z-wave

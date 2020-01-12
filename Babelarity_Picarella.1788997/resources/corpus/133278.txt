@@ -1,0 +1,23 @@
+The Légal Trap or Blackburne Trap (also known as Légal Pseudo-Sacrifice and Légal Mate) is a chess opening trap, characterized by a queen sacrifice followed by checkmate with minor pieces if Black accepts the sacrifice. The trap is named after the French player Sire de Légal (1702–92). Joseph Henry Blackburne (1841–1924), a British master and one of the world's top five players in the latter part of the 19th century, set the trap on many occasions.
+There are a number of ways the trap can arise, the one below shows a natural move sequence from a simultaneous exhibition in Paris. André Cheron, one of France's leading players, won with the trap as White against Jeanlose:
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6
+The Semi-Italian Opening.
+4. Nc3 Bg4?!
+Black pins the knight in the fight over the center. Strategically this is a sound idea, but there is a tactical flaw with the move.
+5. h3
+In this position 5.Nxe5? would be an unsound trap. While the white queen still cannot be taken (5...Bxd1??) without succumbing to a checkmate in two moves, 5...Nxe5 would win a knight (for the pawn). Instead, with 5.h3, White "puts the question" to the bishop which must either retreat on the c8–h3 diagonal, capture the knight, be captured, or as in this game, move to an insecure square.
+5... Bh5? (see diagram)
+Black apparently maintains the pin, but this is a tactical blunder which loses at least a pawn (see below). Relatively best is 5...Bxf3, surrendering the bishop pair and giving White a comfortable lead in development, but maintaining material equality. 5...Be6!? is also possible.
+6. Nxe5!
+The tactical refutation. White seemingly ignores the pin and surrenders the queen. Black's best course now is to play 6...Nxe5, where with 7.Qxh5 Nxc4 8.Qb5+ followed by 9.Qxc4, White remains a pawn ahead, but Black can at least play on. Instead, if Black takes the queen, White has checkmate in two moves:
+6... Bxd1?? 7. Bxf7+ Ke7 8. Nd5#
+The final position (see diagram) is a pure mate, meaning that for each of the eight squares around the black king, there is exactly one reason the king cannot move there.
+The original game featured Légal playing at rook odds (without Ra1) against Saint Brie in Paris 1750:
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4?! 4. Nc3 g6? 5. Nxe5 Bxd1?? 6. Bxf7+ Ke7 7. Nd5# 1–0
+Note: the above is the move order found in most publications. However, Recent research published at Chessbase  suggests that the move order has been altered retrospectively in order to remove a flaw present in the original game. Also the date of 1750 is assumed to be wrong. It is more likely that the game has in fact been played in 1787, and the original move order was:
+1. e4 e5 2. Bc4 d6 3. Nf3 Nc6 4. Nc3 Bg4 5. Nxe5? Bxd1?? 6. Bxf7+ Ke7 7. Nd5# 1–0
+Here the "combination" is of course flawed, as with 5... Nxe5 (instead of falling for the trap) Black could have gained a piece for free... It is reported that Sire Légal disguised his trap with a "psychological trick": he first touched the Knight on f3 and then retreated his hand as if realizing only now that the Knight was pinned. Then, after his opponent reminded him of the touch-move rule, he played Nxe5, and the opponent grabbed the Queen without thinking twice...
+Strong evidence for the game indeed having been "rectified" retrospectively by book authors is the fact that 4... g6 (trying to fianchetto the King's Bishop) is not a move that would have been played in the 18th century: the fianchetto is a "modern" invention.
+This kind of mate, where an apparently pinned knight moves anyway, allowing capture of the queen, but leading to a checkmate with minor pieces, occasionally occurs at lower levels of play, though masters would not normally fall for it. According to Bjerke (Spillet i mitt liv), the Légal Trap has ensnared countless unwary players. One author writes that "Blackburne sprang it several hundreds of times during his annual tours."
+In general, making a "trap" by luring a bishop into a queen capture is not strictly necessary. Any game featuring an advanced knight and Bxf7+ (or ...Bxf2+) followed by mate with minor pieces would be considered a Légal Mate. The mate succeeds because the square of the advanced knight is unguarded, and the enemy king is blocked by several of its own pieces.
+Checkmate pattern

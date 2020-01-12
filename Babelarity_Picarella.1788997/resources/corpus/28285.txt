@@ -1,0 +1,144 @@
+The Mil Mi-8 (Russian: Ми-8, NATO reporting name: Hip) is a medium twin-turbine helicopter, originally designed by the Soviet Union, and now produced by Russia. In addition to its most common role as a transport helicopter, the Mi-8 is also used as an airborne command post, armed gunship, and reconnaissance platform. Along with the related, more powerful Mil Mi-17, the Mi-8 is among the world's most-produced helicopters, used by over 50 countries. As of 2015, it is the third most common operational military aircraft in the world.
+Mikhail Mil originally approached the Soviet government with a proposal to design an all new two-engined turbine helicopter after the success of the Mil Mi-4 and the emergence and effectiveness of turbines used in the Mil Mi-6; but the military argued against a new helicopter, as they were content with the current Mil Mi-4. To counter this, Mikhail Mil proposed that the new helicopter was more of an update to new turbine engines rather than an entirely new helicopter; this persuaded the council of ministers to proceed with production. Due to the position of the engine, this enabled Mikhail Mil to justify redesigning the entire front half of the aircraft around the single engine (designed by Alexander Ivchenko, originally for fixed wing aircraft as all other soviet turbines had been up to that point).
+The prototype, which was named V-8, was designed in 1958 and based on the Mil Mi-4 with a larger cabin. Powered by an AI-24 2,010 kW (2,700 shp) Soloviev turboshaft engine, the single engined V-8 prototype had its maiden flight in June 1961 and was first shown on Soviet Aviation Day parade (Tushino Air Parade) in July 1961.
+During an official visit to the United States in September 1959, Nikita Khrushchev took a flight in the S-58 presidential helicopter for the first time and was reportedly extremely impressed. On Khrushchev's return, he ordered the creation of a similar helicopter, which was to be ready for the return visit by the American president, to save face. A luxury version of the Mi-4 was quickly created and Khrushchev took an inspection flight, during which Mikhail Mil proposed that his helicopter in development was more suitable. However, it would be necessary to have a second engine for reliability. This gave Mikhail Mil the power under the orders of Khrushchev to build the original two-engined helicopter, whichfor the first time in Soviet history would need purpose-built turbine engines, rather than those adapted from fixed wing aircraft (as in the Mil Mi-6 and the first prototype V-8) and an entirely new main rotor gear box that would be designed in-house for the first time. In May 1960, the order was given for Mikhail Mil to create his twin engine helicopter. The Sergei Isotov Design Bureau accepted the task of creating the engines.
+The second prototype (still equipped with the one turbine engine as the Isotov engines were still under development) flew in September 1961.
+Two months after the engines were completed by Isotov, the third prototype designated V-8A equipped with two 1,120 kW (1,500 shp) Isotov TV2 engines, made its first flight piloted by Nikolai Ilyushin on 2 August 1962, marking the first flight of any Soviet helicopter to fly with purpose built gas turbine engines. The aircraft completed its factory based testing in February 1963.
+The fourth prototype was designed as a VIP transport, with the rotor changed from four blades to five blades in 1963 to reduce vibration, the cockpit doors replaced by blister perspex slides and a sliding door added to the cabin.
+The fifth and final prototype was a mass production prototype for the passenger market. In November 1964, all joint testing had been completed and the soviet government began mass production. Production started in the Kazan Production Plant, with the first aircraft completed by the end of 1965.
+The Soviet military originally showed little interest in the Mi-8 until the Bell UH-1's involvement in the Vietnam war became widely publicised as a great asset to the United States, allowing troops to move swiftly in and out of a battlefield and throughout the country. It was only then that the Soviet military rushed a troop-carrying variant of the Mil Mi-8 into production. By 1967, it had been introduced into the Soviet Air Force as the Mi-8.
+There are numerous variants, including the Mi-8T, which, in addition to carrying 24 troops, is armed with rockets and anti-tank guided missiles. The Mil Mi-17 export version is employed by around 20 countries; its equivalent in Russian service in the Mi-8M series. The only visible difference between the Mi-8 and Mi-17 is that the tail rotor is on the starboard side (right side) of the Mi-8, whereas in Mi-17 it is on the port side. Also Mi-17 also has some improved armour plating for its crew. The naval Mil Mi-14 version is also derived from the Mi-8. The Mi-8 is constantly improving and the newest version still remains in production in 2016.
+The Mi-8 family of helicopters became the main Soviet and later Russian helicopter covering a large range of roles in both peace time and war time. Large fleets of Mi-8 and its derivatives are employed by both military and civil operators.
+As such a large number of Mi-8 family helicopters were used during the Soviet–Afghan War during the 1980s. Its rugged construction allowing easier in-theater operations and maintenance. A large number of Mi-8 were lost with several shot down by enemy fire, with the Mi-8 and its derivatives being the main aircraft model lost by the Soviet Union in Afghanistan.
+Between April and May 1986, many of these machines were used to drop radiation-absorbing materials into the 4th reactor of Chernobyl Nuclear Power Plant after the Chernobyl disaster, and the fire was extinguished by the combined effort of helicopters dropping over 5000 metric tons of sand, lead, clay, and neutron-absorbing boron onto the burning reactor and injection of liquid nitrogen. Most of the helicopters were severely irradiated and abandoned in the giant junkyard, the so-called "machines cemetery" near Chernobyl with several disappearing from the site in the later years. During the initial operation, one crashed near the power plant after hitting a construction crane cable with all the crew of four being killed in the crash. It is now known that virtually none of the neutron absorbers reached the core.
+On 16 August 2013, the Ministry of Defense of Ukraine reported that one of their Mi-8's had set a world altitude record of 9,150 meters at the Kirovske military airfield on 15 August.
+Ukrainian Armed Forces used their Mi-8 alongside with Mi-24 in the operations against the rebels in Eastern Ukraine during the 2014 pro-Russian conflict in Ukraine. On 25 April 2014, a Ukrainian Mi-8 was destroyed on the ground alongside an An-2 at the airport in Kramatorsk while preparing for departure when it was hit by a grenade. The crew was able to evacuate the aircraft unharmed. On 5 May 2014, a Ukrainian Mi-8 was damaged by small arms fire while overflying a rebel check point during the Siege of Sloviansk On 29 May 2014, a Ukrainian National Guard Mi-8 was shot down by East Ukrainian rebels using a MANPADS outside Slavyansk with 12 personnel, including an Army general killed and one seriously injured. On 24 June 2014, a Ukrainian National Guard Mi-8 was shot down by East Ukraine rebels again using a MANPADS outside Slavyansk with 9 personnel killed.
+The Yugoslav Air Force bought 24 Mi-8T (Hip C) transport helicopters from May 1968 to May 1969 to equip two squadrons of the newly formed 119th transport regiment from Niš military airport, each squadron with 12 helicopters. Subsequently, from 1973 to the early 1980s, Yugoslavia purchased more Mi-8T helicopters to re-equip two squadrons of 111th regiment from Pleso military airport near Zagreb and the 790th squadron from Divulje military airport near Split, which was under the command of the Yugoslav Navy. In total, the Yugoslav Air Force received 92 Mi-8T transport helicopters from Soviet Union, known formally to the military as the HT-40, while local modification of several helicopters into electronic warfare variants produced the HT-40E. Some 40 helicopters were equipped for firefighting operations.
+The Yugoslav Mi-8s' first combat operations were transport of army troops and federal police forces to border crossings in Slovenia on 27 June 1991. The members of Slovenian Territorial Defence fired Strela 2 MANPAD, and shot one helicopter down, killing all crew and passengers.
+During combat in the winter of 1991 in Croatia and in the spring of 1992 in Bosnia and Herzegovina, the Yugoslav People's Army used the Mi-8 fleet for the evacuation of injured personnel, transport of cargo and search and rescue for the crews of aircraft forced down. As most flights were made behind the front, the Croatian forces were able to down just one helicopter, which was hit by small arms fire near Slavonski Brod on 4 October 1991.
+After Bosnian Serbs declared their state in the spring of 1992, some former Yugoslav Air Force Mi-8s continued service with their armed forces. The inventory of the 82nd mixed helicopter squadron, of the 92nd aviation brigade of the Army of Republika Srpska comprised 12 Mi-8T helicopters, which continued in service until Operation Koridor. During that period, the Republika Srpska Air Force lost three Mi-8 helicopters to enemy fire. Three helicopters painted in a blue and white colour scheme flew in the first part of 56th helicopter squadron of the Krajina Milicija, using Udbina military airport in Lika as their main base. The Republika Srpska Air Force continued to operate nine helicopters, albeit suffering problems with maintenance and spare parts, until it was formally disbanded in 2006.
+On the other side, Mi-8 helicopters were also used as main air transport. Croatian National Guard obtained their first on 23 September 1991, near Petrinja, when a Yugoslav Air Force Mi-8 made an emergency landing after being damaged by small-arms fire. A further 6 Mi-8T and 18 Mi-8MTV-1 helicopters were bought from ex-Warsaw Pact countries during the war, but only 16 of those survived the war. The remaining Mi-8Ts were retired from service in the Croatian Air Force after the war, while the Mi-8MTVs continued their service in 20th Transport Helicopter Squadron, and 28th Transport Helicopter Squadron. The latter has been re-equipped with new Mi-171Sh helicopters bought from Russia.
+The Army of the Republic of Bosnia and Herzegovina secretly obtained Mi-8T, Mi-8MTV and Mi-17 helicopters from various sources. Two helicopters were shot down by Serbian air defences, one around Žepa, while one Mi-17 was shot down by 2K12 Kub M, killing the Bosnian Foreign Affairs Minister Irfan Ljubijankić, a few other politicians, and the helicopter's Ukrainian crew. A few Croatian Mi-8MTVs secretly supported Croatian Defence Council operations in Herceg Bosna. After the war, the Army of the Federation of Bosnia and Herzegovina operated the remaining 5 Mi-8MTVs and 1 Mi-8T in the Air Force and Air Defense Brigade of Armed Forces of Bosnia and Herzegovina.
+Finally, the Macedonian Air Force bought 4 Mi-17V-1 in 1994 and 2 Mi-8MT helicopters in 2001 from Ukraine. They fly in the Transport Helicopter Squadron (ex 301. Transport Helicopter Squadron). One crashed, killing all 8 passengers and 3 crew members in an accident in January 2008. In May 2008, Macedonia acquired 4 additional Mi-171, purchased from Lithuania.
+During the 1998–1999 Kosovo war, the FR Yugoslav Air Force used Mi-8s for transport of personnel and material to forces in otherwise-inaccessible mountain areas. Evacuation of injured personnel also occurred during the 1999 NATO bombing of Yugoslavia, flying at low altitude to avoid detection by NATO aircraft. In 1999, Serbian Mi-8 shot down Hunter UAV. In 2000, an Mi-8 shot down another UAV. Two Mi-17V helicopters secretly operated by the Special Operations Unit post-1997 were also active during the Kosovan conflict. After the unit disbanded in 2003, the helicopters were transferred to Air Force.
+Today, the Serbian Air Force, successor of Yugoslav Air Force, operates between 6–8 Mi-8T and 2 Mi-17 helicopters in the 138th Mixed-Transport-Aviation Squadron of 204th Air Base and 119th Combined-Arms Helicopter Squadron (ex 199th regiment) of 98th Air Base.
+The Finnish Defence Forces and the Finnish Border Guard have been using Mi-8s since the 1970s, with the Finnish Air Force receiving its first, serialed HS-2, on 28 May 1973, and the second, HS-1, on 31 May 1973. Six Mi-8Ts were obtained at first, followed by further two Mi-8Ts and two Mi-8Ps. Three of the helicopters were handed over to the Border Guard Wing. One of these was lost after sinking through ice during a landing in April 1982. It was soon replaced by a new Mi-8. After their Border Guard service, the helicopters were transferred to the civil register, but shortly thereafter to the Air Force. In 1997 it was decided that all helicopters, including the remaining five Mi-8Ts and two Mi-8Ps, should be transferred to the Army Wing at Utti. All Mi-8s have now been replaced with NH90 helicopters. One Mi-8 is on display at the Finnish Aviation Museum in Vantaa, and one is at the Päijänne Tavastia Aviation Museum in Asikkala, near Lahti. The two final Mi-8T copters were given to Hungary in 8/2011 with all remaining spare parts.
+On 21 December 2012, a Nizhnevartovskavia owned Mi-8 working for the United Nations Mission in South Sudan (UNMISS) was shot down and crashed near Likuangole in the South Sudanese state of Jonglei during the South Sudan internal conflict. All four Russian crewmembers on board were killed, and after some initial confusion, a UN spokesman said that the South Sudanese army confirmed on 22 December that it mistakenly fired at the helicopter.
+On 9 March 2013, a UTair Aviation owned Mi-8 working for the United Nations crashed due to the weather, killing its entire four-man Russian crew. The location of the crash was near Bukavu in South Kivu province. The bodies were found at the site of the crash.
+On 26 August 2014, a UTair Aviation owned Mi-8 working for the United Nations was shot down as it approached the landing airstrip near Bentiu. Three of the Russian crew members died and one was injured. Rebel commander Peter Gadet claimed that his forces shot it down using a rocket-propelled grenade.
+In Afghanistan, there are several civilian versions flying cargo contracts for the US Army.
+On 22 November 1992 a Vietnamese Mi-8 was mobilized from Hanoi carrying rescue workers after Vietnam Airlines Flight 474 crashed near mountain Ô Kha on 14 November. All 7 people aboard were killed.
+On 4 December 2003, a Polish Mi-8 crashed near Piaseczno while carrying Prime Minister Leszek Miller, 10 other passengers and four crewmen. There were no fatalities. The cause of the accident was the icing of the engines. The pilot, Major Marek Miłosz was accused of causing the disaster, but he was found not guilty.
+On 15 October 2006, India agreed to acquire 80 Mi-17 helicopters from Russia in a deal worth approximately US$662 million.
+On 2 July 2008, two Mi-17 were used to rescue 15 hostages during the Operation Jaque performed by the Colombian military.
+On 19 July 2009, a Mil Mi-8 helicopter crashed at Kandahar Airport during takeoff, killing 16 and injuring 5. The helicopter was owned by Vertikal-T, a Russian air transportation company.
+V-8 (NATO – Hip-A)
+The original single-engined prototype.
+V-8A
+A twin-engined prototype, featuring TV2-117 turboshaft engines, the prototype underwent further modifications during its life.
+V-8AT
+Prototype of the Mi-8T utility version.
+Mi-8 (NATO – Hip-B)
+Twin-engined prototype.
+Mi-8TG
+Conversion to operate on LPG gas.
+Mi-18
+Prototype design, a modification of the existing Mil Mi-8. Two Mi-8s were extended by 0.9 meters (3 ft), the landing gear made retractable, and a sliding door added to the starboard side of the fuselage. The Mi-18s were used in the Soviet invasion of Afghanistan, and later used as static training airframes for pilots of the Mi-8/17.
+Mi-8T (NATO – Hip-C)
+First mass production utility transport version, it can carry four UV-16-57 unguided rocket pods, (with S-5 rockets), mounted to four hardpoints on two outrigger pylons, and is armed with one or two side mounted PK machine guns.
+Mi-8TV
+Armed version of the Mi-8T.
+Mi-8TVK (NATO – Hip-E, aka Mi-8TB)
+Version used as a gunship or direct air support platform. Airframe modifications add 2x external hard points for a total of 6, and mount a flexible 12.7 mm (0.5-inch) KV-4 machine gun in the nose. Armament of 57 mm S-5 rockets, six UV-32-57 rocket pods, 551-lb (250-kg) bombs, or four AT-2 Swatter ATGMs.
+Mi-8TBK (NATO – Hip-F)
+Armed export version, fitted with six launch rails to carry and fire Malyutka missiles.
+Mi-8IV (NATO – Hip-G, a.k.a. Mi-9)
+Airborne command post version fitted with "Ivolga" system, characterized by antennas, and Doppler radar on tail boom.
+Mi-8PP (NATO – Hip-K)
+Airborne jamming platform with "Polye" (field) system. From 1980, the type was fitted with the new "Akatsiya" system and redesignated the Mi-8PPA. It is characterized by six "X"-shaped antennas on each side of the aft fuselage. Built to escort troop-carrying versions of this helicopter, and disrupt potentially-nearby SPAAG radars, such as those of the Flakpanzer Gepard.
+Mi-8PD
+Polish airborne command post version.
+Mi-8SMV (NATO – Hip-J)
+Airborne jamming platform with "Smalta-V" system, characterized by two small boxes on each side of the fuselage. Used for protection of ground attack aircraft against enemy air defenses.
+Mi-8VPK (NATO – Hip-D, a.k.a. Mi-8VzPU)
+Airborne communications platform with rectangular communication canisters mounted on weapons racks and with two frame-type arials above the rear fuselage.
+Mi-8AD
+Minelaying version with four VSM-1 dispensers. Each dispenser contains 29 cassettes KSO-1 with anti-personnel mines, for example 7,424 x PFM-1 or 464 x POM-2 or 116 x PTM-3.
+Mi-8AV
+Minelaying version with VMR-1 or −2 system for 64 or 200 anti-tank mines.
+Mi-8BT
+Mine-clearing version.
+Mi-8MB "Bissektrisa"
+Military ambulance version.
+Mi-8R (a.k.a. Mi-8GR)
+Tactical reconnaissance version with Elint system "Grebeshok-5".
+Mi-8K
+Artillery observation, reconnaissance version.
+Mi-8TP
+Military staff transport version, fitted with improved radio equipment R-832 and R-111.
+Mi-8SKA
+Photo-reconnaissance version.
+Mi-8T(K)
+Photo-reconnaissance version.
+Mi-8TZ
+Fuel transport tanker version.
+Mi-8MTYu
+Only one was built and used by the Ukrainian Air Force, based at AB "Kirovskoe". Intended for detection of re-entry vehicles, and small surface targets. In the nose radar antenna.
+Mi-8MSB
+Modernized multipurpose helicopter for the Ukrainian Armed Forces.
+Mi-8T (NATO – Hip-C)
+Civilian and military utility transport version, with accommodation for 24 passengers, fitted with tip-up seats along the cabin walls, circular cabin windows and large rear clamshell doors with a sloping hinge line. The Mi-8T is powered by two 1,677 shp (1,251 kW) Klimov TV2-117A turboshaft engines, giving the helicopter a maximum speed of 155 mph (249 km/h) at sea level.
+Mi-8P
+Civilian passenger transport version, with accommodation for between 28 and 32 passengers, fitted with square cabin windows, small rear clamshell doors with a vertical hinge line and a horizontally split rear airstair door in between; powered by two 1,700 hp (1,300 kW) Klimov TV2-117A turboshaft engines.
+Mi-8S "Salon"
+Civilian VIP transport version, with accommodation for between 9 and 11 passengers, equipped with a galley and toilet.
+Mi-8MPS
+Search and rescue version (operated usually in Malaysia for Fire and Rescue Department services).
+Mi-8MA
+Polar exploration version for use in the Arctic.
+Mi-8MT
+Flying crane version.
+Mi-8AT
+Civilian transport version, fitted with two improved TV2-117AG turboshaft engines.
+Mi-8ATS
+Agricultural version, fitted with a hopper and spray bars.
+Mi-8TL
+Air accident investigation version.
+Mi-8TM
+Upgraded transport version, fitted with a weather radar.
+Mi-8TS
+Hot and high desert version.
+Mi-8VIP
+Deluxe VIP transport version, with accommodation for between 7 and 9 passengers.
+Mi-8PA
+Modified version for Japanese regulations. One only was built, in 1980. It was used by Aero Asahi for heavy material transport in a mountainous region. It was retired in 1993, and is exhibited in a museum.
+Data from Jane's All The World's Aircraft 1992–93
+General characteristics
+Crew: 3 (pilot, copilot, flight engineer)
+Capacity: ** 24 passengers or
+12 stretchers and seat for 1 medical attendant or
+3,000 kg (6,600 lb) on internal/external hardpoints
+Length: 18.17 m (59 ft 7 in)
+Rotor diameter: 21.29 m (69 ft 10 in)
+Height: 5.65 m (18 ft 6 in)
+Disc area: 356 m² (3,832 ft²)
+Empty weight: 7,260 kg (16,007 lb)
+Loaded weight: 11,100 kg (24,470 lb)
+Max. takeoff weight: 12,000 kg (26,455 lb)
+Powerplant: 2 × Klimov TV3-117Mt turboshafts, 1,454 kW (1,950 shp) each
+Fuel max total capacity: 3,700 l (977 US gal)
+Performance
+Maximum speed: 260 km/h (140 kt)
+Range: 450 km (280 mi)
+Ferry range: 960 km (596 mi)
+Service ceiling: 4,500 m (14,765 ft)
+Armament
+up to 1,500 kg (3,300 lb) of disposable stores on six hardpoints, including 57 mm S-5 rockets, bombs, or 9M17 Phalanga ATGMs.
+List of utility helicopters
+Related development
+Mil Mi-14
+Mil Mi-17
+Mil Mi-24
+Aircraft of comparable role, configuration and era
+Aérospatiale SA 330 Puma
+Boeing Vertol CH-46 Sea Knight

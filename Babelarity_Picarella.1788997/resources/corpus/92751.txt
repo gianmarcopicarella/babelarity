@@ -1,0 +1,54 @@
+Iguanidae is a family of lizards composed of iguanas and related species.
+Several classification schemes have been used to define the structure of this family. The "historical" classification recognized all New World iguanians, plus Brachylophus and the Madagascar oplurines, as informal groups and not as formal subfamilies.
+Frost and Etheridge (1989) formally recognized these informal groupings as families. This view is not generally accepted.
+Macey et al., (1997) in their analysis of molecular data for iguanian lizards recovered a monophyletic Iguanidae and formally recognized the eight families proposed by Frost and Etheridge (1989) as subfamilies of Iguanidae.
+Schulte et al., (2003) reanalyzed the morphological data of Frost and Etheridge in combination with molecular data for all major groups of Iguanidae and recovered a monophyletic Iguanidae, but the subfamilies Polychrotinae and Tropidurinae were not monophyletic. The phylogenetic classification of Iguania from this work is the current and most generally accepted classification of iguanid lizards.
+Family Iguanidae
+Informal grouping Anoloids: anoles, leiosaurs, Polychrus
+Informal grouping Basiliscines: casquehead lizards
+Informal grouping Crotaphytines: collared and leopard lizards
+Informal grouping Iguanines: marine, Fijian, Galapagos land, spinytail, rock, desert, green, and chuckwalla iguanas
+Informal grouping Morunasaurs: wood lizards, clubtails
+Informal grouping Oplurines: Madagascan iguanids
+Informal grouping Sceloporines: earless, spiny, tree, side-blotched and horned lizards
+Informal grouping Tropidurines: curly-tailed lizards, South American swifts, neotropical ground lizards
+Family CorytophanidaeFamily CrotaphytidaeFamily HoplocercidaeFamily Iguanidae
+Genus Amblyrhynchus – Galápagos marine iguana
+Genus Brachylophus – Fijian/Tongan iguanas
+Genus Conolophus – Galápagos land iguana
+Genus Ctenosaura – spinytail iguanas
+Genus Cyclura – West Indian rock iguanas
+Genus Dipsosaurus – desert iguana
+Genus Iguana – green and Lesser Antillean iguanas
+Genus Sauromalus – chuckwallas
+Genus Armandisaurus (extinct chuckwalla)
+Genus Lapitiguana (extinct giant Fijian iguana)
+Genus Pumilia (extinct Palm Springs iguana)
+Family OpluridaeFamily PhrynosomatidaeFamily PolychridaeFamily Tropiduridae
+Family Iguanidae
+Subfamily Corytophaninae: casquehead lizards
+Subfamily Crotaphytinae: collared and leopard lizards
+Subfamily Hoplocercinae: wood lizards, clubtails
+Subfamily Iguaninae: marine, Fijian, Galapagos land, spinytail, rock, desert, green, and chuckwalla iguanas
+Subfamily Oplurinae: Madagascan iguanids
+Subfamily Phrynosomatinae: earless, spiny, tree, side-blotched and horned lizards
+Subfamily Polychrotinae: anoles, leiosaurs, Polychrus
+Subfamily Tropidurinae: curly-tailed lizards, neotropical ground lizards, South American swifts
+Here families and subfamilies are proposed as clade names, but may be recognized under the traditional Linnean nomenclature.
+Iguanidae
+Corytophaninae: casquehead lizards
+Crotaphytinae: collared and leopard lizards
+Hoplocercinae: wood lizards, clubtails
+Iguaninae: marine, Fijian, Galapagos land, spinytail, rock, desert, green, and chuckwalla iguanas
+Oplurinae: Madagascan iguanids
+Phrynosomatinae: earless, spiny, tree, side-blotched and horned lizards
+Polychrotinae: anoles, leiosaurs, Polychrus
+subclade of Polychrotinae Anolis: anoles
+subclade of Polychrotinae Leiosaurini: leiosaurs
+subclade of Leiosaurini Leiosaurae:
+subclade of Leiosaurini Anisolepae:
+subclade of Polychrotinae Polychrus
+Tropidurinae: curly-tailed lizards, neotropical ground lizards, South American Swifts
+subclade of Tropidurinae Leiocephalus: curly-tailed lizards
+subclade of Tropidurinae Liolaemini: South American swifts
+subclade of Tropidurinae Tropidurini: neotropical ground lizards

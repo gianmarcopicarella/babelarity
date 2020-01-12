@@ -1,0 +1,15 @@
+Scientific Linux (SL) is a Linux distribution produced by Fermi National Accelerator Laboratory. It is a free and open source operating system based on Red Hat Enterprise Linux.
+This product is derived from the free and open source software made available by Red Hat, but is not produced, maintained or supported by them. It is built from the source code for Red Hat Enterprise Linux versions, under the terms and conditions of Red Hat Enterprise Linux's end-user license agreement and the GNU General Public License.
+Fermilab already had a Linux distribution known as Fermi Linux, a long-term support release based on Red Hat Enterprise Linux. CERN was creating their next version of Cern Linux, also based on RHEL. CERN contacted Fermilab about doing a collaborative release. Connie Sieh was the main developer and driver behind the first prototypes and initial release. The first official release of Scientific Linux was version 3.0.1, released on May 10, 2004.
+In 2015, CERN switched away from Scientific Linux to CentOS.
+Scientific Linux is now maintained by a cooperative of science labs and universities. Fermilab is its primary sponsor.
+The primary purpose of Scientific Linux is to produce a common Linux distribution for various labs and universities around the world, thus reducing duplicated effort. The main goals are to have everything compatible with Red Hat Enterprise Linux with only minor additions and changes, and to allow easy customization for a site, without disturbing the Linux base.
+The distribution is called Scientific Linux because it was initially made and used by scientific labs. It does not contain a large collection of scientific software. However, it provides good compatibility to install such software.
+Scientific Linux is derived from Red Hat Enterprise Linux, with protected components, such as Red Hat trademarks, removed, thus making it freely available. New releases are typically produced about two months after each Red Hat release. As well as a full distribution equal to two DVDs, Scientific Linux is also available in LiveCD and LiveDVD versions.
+Scientific Linux offers wireless and Bluetooth out of the box, and it comes with a comprehensive range of software, such as multimedia codecs, Samba, and Compiz, as well as servers and clients, storage clients, networking, and system administration tools.
+It also contains a set of tools for making custom versions, thus allowing institutions and individuals to create their own variant.
+Historical releases of Scientific Linux are the following, although the release dates may not tell the whole story as each release is subjected to a period of public testing before it is considered 'released'.
+Security updates are provided for as long as Red Hat continues to release updates and patches for their versions.
+Fermi Linux, Fermilab's own custom version of Scientific Linux
+CentOS, another distribution based on Red Hat Enterprise Linux
+Rocks Cluster Distribution, a Linux distribution intended for high-performance computing clusters

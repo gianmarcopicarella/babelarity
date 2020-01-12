@@ -1,0 +1,21 @@
+The Aurora programme (sometimes called Aurora Exploration Programme, or simply Exploration Programme) is a human spaceflight programme of the European Space Agency (ESA) established in 2001. The objective is to formulate and then to implement a European long-term plan for exploration of the Solar System using robotic spacecraft and human spaceflight to investigate bodies holding promise for traces of life beyond the Earth.
+Member states commit to participation in the Aurora programme for five-year periods, after which they can change their level of participation or pull out entirely. In the early years the Aurora programme planned for flagship missions and arrow missions for key technology demonstrations, such as Earth re-entry vehicle/capsule and Mars aerocapture demonstrator. Although human spaceflight has remained a long-term goal of the programme, with some basic technology development in this area, the thrust has been on implementation of the ExoMars mission and preparations for an international Mars sample return mission.
+The first decade is planned to focus on robotic missions.
+ESA describes some Aurora programme missions as "Flagship" missions. The first Flagship mission is ExoMars, a dual robotic mission to Mars made in cooperation with the Russian Federal Space Agency (Roskosmos). It will involve development of a Mars orbiter (ExoMars Trace Gas Orbiter), a technology demonstrator descent module (Schiaparelli lander) and the ExoMars rover.
+Flagship missions considered for the Aurora programme include:
+ExoMars, consisting of an unmanned Mars orbiter and lander launched jointly with the Russian Federal Space Agency in 2016 on Proton rocket with Fregat upper stage.
+ExoMars rover launch to be conducted jointly the Russian Federal Space Agency in 2018
+a robotic Mars Sample Return Mission by the mid-2020s
+a human space mission to be launched in the mid-2030s
+Arrow missions are technology demonstrator missions focused on developing a certain technology needed for the Flagship missions. Approved Arrow missions so far (as of January 30, 2003):
+Earth re-entry vehicle/capsule, a step in the preparations for the Mars Sample Return mission.
+Mars aerocapture demonstrator, to further develop the technologies for using a planet's atmosphere to brake into orbit. This particular mission seems to have been revised into an expanded mission to demonstrate "aerobraking/aerocapture, solar electric propulsion and soft landing" to be launched in 2018.
+The proposed Aurora roadmap (as of September 30, 2005. This roadmap can, and most likely will, go through revisions):
+2014 – Human mission technologies demonstrator(s) to validate technologies for orbital assembly and docking, life support and human habitation
+2016 and 2018 – ExoMars rover to Mars. The scientific objectives include exobiological studies as well as study of the surface of Mars.
+2024 – Human mission to the Moon
+2026 – Automatic mission to Mars
+2030s – First human mission to Mars, as a split mission. The proposed Ariane M rocket may be used for this landing.
+The human part of the programme has been challenged by the main ESA contributors (France, Germany and Italy), making it quite possible that the whole Aurora Programme will be refocused on robotic-only exploration of Mars.
+Astrobiology
+Project Constellation

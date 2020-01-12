@@ -1,0 +1,29 @@
+Mobile Information Device Profile (MIDP) is a specification published for the use of Java on embedded devices such as mobile phones and PDAs. MIDP is part of the Java Platform, Micro Edition (Java ME) framework and sits on top of Connected Limited Device Configuration (CLDC), a set of lower level programming interfaces. MIDP was developed under the Java Community Process. The first MIDP devices were launched in April 2001.
+The core application programming interfaces are defined by the underlying Connected Limited Device Configuration system.
+Contains the Java ME-specific classes used for I/O operations.
+Contains the Java ME-specific classes used for the GUI.
+LCDUI has a simple screen based approach where a single Displayable is always active at a time in the application user interface. LCDUI API provides a small set of displayables common in mobile device user interfaces: List, Alert, TextBox, Form and Canvas. For all displayables the device MIDP implementation has control over the presentation and layout of the displayable. Canvas is a low-level graphics surface for which an application has full control over what is rendered to it, although normally some space is reserved for system areas like screen title and indicators common in mobile device UIs. Since MIDP 2.0, Canvas also supports a full-screen mode that allows use of full screen graphics, which is especially useful for games.
+LCDUI also has a quite unique approach of abstract operations, called Commands. The placement of commands added to a displayable is completely up to the device implementation of this toolkit. The application programmer uses API specified command types to indicate the usage or purpose of the command in an application user interface. Common types are BACK, EXIT, ITEM, SCREEN. The idea of the command abstraction is to make applications more portable across various mobile devices. Application developers should use the command types properly to indicate the purpose of an operation, and device implementation then places the operation to the common location for a given type in a device's specific user interface style. This may be e.g. a specific key, like "a back navigation key" for BACK commands or a button on screen.
+The acronym LCDUI was actually an in-house joke within the JCP Expert Group. Though undefined in the MIDP specifications, it denotes Limited Capability Device User Interface. (The joke was that no-one else really knew what it stood for). Later, the book Programming Wireless Devices with the Java 2 Platform, Micro Edition gave this as the definition.
+Other common pseudo-definitions have appeared. "Liquid Crystal Display User Interface" would reflect the fact that mobile phones normally use LCDs; however, the API is not specifically tailored to this particular display technology. It is also said that "LCD UI" stands for "lowest common denominator" due to the fact the specific UI has the simplest possible design.
+Provides a form of persistent storage for Java ME; a database for the mobile device.
+Contains the base classes for Java ME applications, and allows applications to be notified of changes to their state.
+The following Java Specification Requests are a selection of the optional JSRs which can be added on top of a MIDP implementation to add extra functionalities. As optional JSRs there is no guarantee that a MIDP handset will implement such APIs.
+Wireless messaging API (optional), for sending SMS and MMS messages.
+Personal information management API (optional), access the device's Address Book, to-do List, Calendar.
+The File Connection Optional Package (FCOP) is one of two optional packages defined by JSR 75 through the Java Community Process. The FileConnection API specified in JSR 75 gives access to the local file systems on devices like PDA. In order to overcome security issues MIDlet needs to include requested file permission in its JAD file under MIDLet-Permission property.
+There are several different ways to create MIDP applications: code can be written in a plain text editor, or one can use a more advanced IDE such as NetBeans, IntelliJ (with bundled Java ME plugin), or Eclipse (with plugins such as EclipseME) which has a user interface for graphically laying out any forms you create, as well as providing many other advanced features not available in a simple text editor.
+MIDP 1.0 has no active rendering APIs
+MIDP 1.0 has no support for direct access to image pixels (RGB data)
+MIDP 1.0 has no support for full screen mode
+MIDP 1.0 has no support for audio.
+MIDP 1.0 requires only HTTP support.
+MIDP 1.0 cannot query key status (although key events are supported)
+The specifications are not always clear, leading to differences in implementations.
+Some limitations may be avoided by using a vendor-specific API or MIDP 2.0, which obviously reduces the portability of the application.
+MIDP was developed under the Java Community Process.
+MIDP 1.0 (JSR 37) - Approved on September 19, 2000
+MIDP 2.0 (JSR 118) - Approved on November 20, 2002
+MIDP 3.0 (JSR 271) - Approved on December 9, 2009
+MIDP is now succeeded by MEEP as of Java ME 8.
+MIDlet

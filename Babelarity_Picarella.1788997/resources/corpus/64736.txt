@@ -1,0 +1,299 @@
+In electricity electromagnetism, the electric susceptibility 
+          χ
+            e
+    {\displaystyle \chi _{\text{e}}}
+   (latin: susceptibilis “receptive”) is a dimensionless proportionality constant that indicates the degree of polarization of a dielectric material in response to an applied electric field. The greater the electric susceptibility, the greater the ability of a material to polarize in response to the field, and thereby reduce the total electric field inside the material (and store energy). It is in this way that the electric susceptibility influences the electric permittivity of the material and thus influences many other phenomena in that medium, from the capacitance of capacitors to the speed of light.
+Electric susceptibility is defined as the constant of proportionality (which may be a tensor) relating an electric field E to the induced dielectric polarization density P such that:
+            P
+        =
+          ε
+            0
+          χ
+            e
+            E
+        ,
+    {\displaystyle {\mathbf {P} }=\varepsilon _{0}\chi _{\text{e}}{\mathbf {E} },}
+where
+          P
+    {\displaystyle \mathbf {P} }
+   is the polarization density;
+          ε
+            0
+    {\displaystyle \varepsilon _{0}}
+   is the electric permittivity of free space;
+          χ
+            e
+    {\displaystyle \chi _{\text{e}}}
+   is the electric susceptibility;
+          E
+    {\displaystyle \mathbf {E} }
+   is the electric field.
+The susceptibility is also related to the polarizability of individual particles in the medium by the Clausius-Mossotti relation. The susceptibility is related to its relative permittivity 
+          ε
+              r
+    {\displaystyle \varepsilon _{\textrm {r}}}
+   by:
+          χ
+            e
+        =
+          ε
+            r
+        −
+        1
+    {\displaystyle \chi _{\text{e}}\ =\varepsilon _{\text{r}}-1}
+So in the case of a vacuum:
+          χ
+            e
+        =
+        0
+    {\displaystyle \chi _{\text{e}}\ =0}
+At the same time, the electric displacement D is related to the polarization density P by:
+          D
+        =
+          ε
+            0
+          E
+        +
+          P
+        =
+          ε
+            0
+        (
+        1
+        +
+          χ
+            e
+        )
+          E
+        =
+          ε
+            r
+          ε
+            0
+          E
+        .
+    {\displaystyle \mathbf {D} \ =\ \varepsilon _{0}\mathbf {E} +\mathbf {P} \ =\ \varepsilon _{0}(1+\chi _{\text{e}})\mathbf {E} \ =\ \varepsilon _{\text{r}}\varepsilon _{0}\mathbf {E} .}
+A similar parameter exists to relate the magnitude of the induced dipole moment p of an individual molecule to the local electric field E that induced the dipole. This parameter is the molecular polarizability (α), and the dipole moment resulting from the local electric field Elocal is given by:
+          p
+        =
+          ε
+            0
+        α
+            E
+              local
+    {\displaystyle \mathbf {p} =\varepsilon _{0}\alpha \mathbf {E_{\text{local}}} }
+This introduces a complication however, as locally the field can differ significantly from the overall applied field. We have:
+          P
+        =
+        N
+          p
+        =
+        N
+          ε
+            0
+        α
+            E
+            local
+        ,
+    {\displaystyle \mathbf {P} =N\mathbf {p} =N\varepsilon _{0}\alpha \mathbf {E} _{\text{local}},}
+where P is the polarization per unit volume, and N is the number of molecules per unit volume contributing to the polarization. Thus, if the local electric field is parallel to the ambient electric field, we have:
+          χ
+            e
+          E
+        =
+        N
+        α
+            E
+            local
+    {\displaystyle \chi _{\text{e}}\mathbf {E} =N\alpha \mathbf {E} _{\text{local}}}
+Thus only if the local field equals the ambient field can we write:
+          χ
+            e
+        =
+        N
+        α
+    {\displaystyle \chi _{\text{e}}\ =N\alpha }
+In many materials the polarizability starts to saturate at high values of electric field. This saturation can be modelled by a nonlinear susceptibility. These susceptibilities are important in nonlinear optics and lead to effects such as second harmonic generation (such as used to convert infrared light into visible light, in green laser pointers).
+The standard definition of nonlinear susceptibilities in SI units is via a Taylor expansion of the polarization's reaction to electric field:
+        P
+        =
+          P
+            0
+        +
+          ε
+            0
+          χ
+            (
+            1
+            )
+        E
+        +
+          ε
+            0
+          χ
+            (
+            2
+            )
+          E
+            2
+        +
+          ε
+            0
+          χ
+            (
+            3
+            )
+          E
+            3
+        +
+        ⋯
+        .
+    {\displaystyle P=P_{0}+\varepsilon _{0}\chi ^{(1)}E+\varepsilon _{0}\chi ^{(2)}E^{2}+\varepsilon _{0}\chi ^{(3)}E^{3}+\cdots .}
+(Except in ferroelectric materials, the built-in polarization is zero, 
+          P
+            0
+        =
+        0
+    {\displaystyle P_{0}=0}
+  .) The first susceptibility term, 
+          χ
+            (
+            1
+            )
+    {\displaystyle \chi ^{(1)}}
+  , corresponds to the linear susceptibility described above. While this first term is dimensionless, the subsequent nonlinear susceptibilities 
+          χ
+            (
+            n
+            )
+    {\displaystyle \chi ^{(n)}}
+   have units of (m/V)n-1.
+The nonlinear susceptibilities can be generalized to anisotropic materials (where each susceptibility 
+          χ
+            (
+            n
+            )
+    {\displaystyle \chi ^{(n)}}
+   becomes an n+1-rank tensor).
+In general, a material cannot polarize instantaneously in response to an applied field, and so the more general formulation as a function of time is
+          P
+        (
+        t
+        )
+        =
+          ε
+            0
+          ∫
+            −
+            ∞
+            t
+          χ
+            e
+        (
+        t
+        −
+          t
+          ′
+        )
+          E
+        (
+          t
+          ′
+        )
+          d
+          t
+          ′
+        .
+    {\displaystyle \mathbf {P} (t)=\varepsilon _{0}\int _{-\infty }^{t}\chi _{\text{e}}(t-t')\mathbf {E} (t')\,\mathrm {d} t'.}
+That is, the polarization is a convolution of the electric field at previous times with time-dependent susceptibility given by 
+          χ
+            e
+        (
+        Δ
+        t
+        )
+    {\displaystyle \chi _{\text{e}}(\Delta t)}
+  . The upper limit of this integral can be extended to infinity as well if one defines 
+          χ
+            e
+        (
+        Δ
+        t
+        )
+        =
+        0
+    {\displaystyle \chi _{\text{e}}(\Delta t)=0}
+   for 
+        Δ
+        t
+        <
+        0
+    {\displaystyle \Delta t<0}
+  . An instantaneous response corresponds to Dirac delta function susceptibility 
+          χ
+            e
+        (
+        Δ
+        t
+        )
+        =
+          χ
+            e
+        δ
+        (
+        Δ
+        t
+        )
+    {\displaystyle \chi _{\text{e}}(\Delta t)=\chi _{\text{e}}\delta (\Delta t)}
+  .
+It is more convenient in a linear system to take the Fourier transform and write this relationship as a function of frequency. Due to the convolution theorem, the integral becomes a simple product,
+          P
+        (
+        ω
+        )
+        =
+          ε
+            0
+          χ
+            e
+        (
+        ω
+        )
+          E
+        (
+        ω
+        )
+        .
+    {\displaystyle \mathbf {P} (\omega )=\varepsilon _{0}\chi _{\text{e}}(\omega )\mathbf {E} (\omega ).}
+This frequency dependence of the susceptibility leads to frequency dependence of the permittivity. The shape of the susceptibility with respect to frequency characterizes the dispersion properties of the material.
+Moreover, the fact that the polarization can only depend on the electric field at previous times (i.e. 
+          χ
+            e
+        (
+        Δ
+        t
+        )
+        =
+        0
+    {\displaystyle \chi _{\text{e}}(\Delta t)=0}
+   for 
+        Δ
+        t
+        <
+        0
+    {\displaystyle \Delta t<0}
+  ), a consequence of causality, imposes Kramers–Kronig constraints on the susceptibility 
+          χ
+            e
+        (
+        0
+        )
+    {\displaystyle \chi _{\text{e}}(0)}
+  .
+Application of tensor theory in physics
+Magnetic susceptibility
+Maxwell's equations
+Permittivity
+Clausius-Mossotti relation
+Linear response function
+Green–Kubo relations

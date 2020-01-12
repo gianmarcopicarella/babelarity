@@ -1,0 +1,28 @@
+Gustav Robert Kirchhoff (12 March 1824 – 17 October 1887) was a German physicist who contributed to the fundamental understanding of electrical circuits, spectroscopy, and the emission of black-body radiation by heated objects.
+He coined the term "black body" radiation in 1862, and two different sets of concepts (one in circuit theory, and one in spectroscopy) are named "Kirchhoff's laws" after him; there is also a Kirchhoff's Law in thermochemistry. The Bunsen–Kirchhoff Award for spectroscopy is named after him and his colleague, Robert Bunsen.
+Gustav Kirchhoff was born in Königsberg, East Prussia, the son of Friedrich Kirchhoff, a lawyer, and Johanna Henriette Wittke. He graduated from the Albertus University of Königsberg in 1847 where he attended the mathematico-physical seminar directed by Carl Gustav Jacob Jacobi, Franz Ernst Neumann and Friedrich Julius Richelot. In the same year, he moved to Berlin, where he stayed until he received a professorship at Breslau. Later, in 1857, He married Clara Richelot, the daughter of his mathematics professor Richelot. The couple had five children. Clara died in 1869. He married Luise Brömmel in 1872.
+Kirchhoff formulated his circuit laws, which are now ubiquitous in electrical engineering, in 1845, while still a student. He completed this study as a seminar exercise; it later became his doctoral dissertation. In 1857 he calculated that an electric signal in a resistanceless wire travels along the wire at the speed of light. He proposed his law of thermal radiation in 1859, and gave a proof in 1861. He was called to the University of Heidelberg in 1854, where he collaborated in spectroscopic work with Robert Bunsen. Together Kirchhoff and Bunsen discovered caesium and rubidium in 1861. At Heidelberg he ran a mathematico-physical seminar, modelled on Neumann's, with the mathematician Leo Koenigsberger. Among those who attended this seminar were Arthur Schuster and Sofia Kovalevskaya. In 1875 Kirchhoff accepted the first chair specifically dedicated to theoretical physics at Berlin.
+In 1862 he was awarded the Rumford Medal for his researches on the fixed lines of the solar spectrum, and on the inversion of the bright lines in the spectra of artificial light.
+He contributed greatly to the field of spectroscopy by formalizing three laws that describe the spectral composition of light emitted by incandescent objects, building substantially on the discoveries of David Alter and Anders Jonas Ångström (see also: spectrum analysis).
+He also contributed to optics, carefully solving Maxwell's equations to provide a solid foundation for Huygens' principle (and correct it in the process).
+In 1884 he became foreign member of the Royal Netherlands Academy of Arts and Sciences.
+Kirchhoff died in 1887, and was buried in the St Matthäus Kirchhof Cemetery in Schöneberg, Berlin (just a few meters from the graves of the Brothers Grimm).
+Leopold Kronecker is buried in the same cemetery.
+Kirchhoff's first law is that the algebraic sum of currents in a network of conductors meeting at a point (or node) is zero. The second law is that in a closed circuit, the directed sums of the voltages in a closed system is 0.
+A solid, liquid, or dense gas excited to emit light will radiate at all wavelengths and thus produce a continuous spectrum.
+A low-density gas excited to emit light will do so at specific wavelengths and this produces an emission spectrum. (See also: emission spectrum)
+If light composing a continuous spectrum passes through a cool, low-density gas, the result will be an absorption spectrum.
+Kirchhoff did not know about the existence of energy levels in atoms. The existence of discrete spectral lines was later explained by the Bohr model of the atom, which helped lead to quantum mechanics.
+Kirchhoff showed in 1858 that the variation of the heat of a chemical reaction is given by the difference in heat capacity between products and reactants: dΔH / dT = ΔCp. Integration of this equation permits the evaluation of the heat of reaction at one temperature from measurements at another temperature.
+Kirchhoff's circuit laws
+Kirchhoff equations
+Kirchhoff–Love plate theory
+Piola–Kirchhoff stress tensor
+Kirchhoff's law of thermal radiation
+Kirchhoff's three laws of spectroscopy
+Kirchhoff Institute of Physics
+Spectroscope
+Kirchhoff's theorem
+Kirchhoff's diffraction formula
+Kirchhoff integral theorem
+List of German inventors and discoverers

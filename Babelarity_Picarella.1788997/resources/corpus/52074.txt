@@ -1,0 +1,23 @@
+The Active Template Library (ATL) is a set of template-based C++ classes developed by Microsoft, intended to simplify the programming of Component Object Model (COM) objects. The COM support in Microsoft Visual C++ allows developers to create a variety of COM objects, OLE Automation servers, and ActiveX controls. ATL includes an object wizard that sets up primary structure of the objects quickly with a minimum of hand coding. On the COM client side ATL provides smart pointers that deal with COM reference counting. The library makes heavy use of the Curiously recurring template pattern.
+COM objects can also be created with Microsoft Foundation Classes (MFC), but this leads to larger binaries that require support DLLs. ATL, on the other hand, is a more lightweight alternative in situations where the graphical user interface parts of MFC are not required.
+In ATL version 7 (Visual Studio 2003), which directly succeeded version 3 (Visual Studio 6.0), a number of MFC classes like CString were made available in ATL, or more precisely moved to an ATLMFC common layer which is shared by both libraries. ATL version 7 also introduced attributes in C++ in an attempt to provide something similar to CLI attributes, however these have not been particularly successful, and have been deemphasized in ATL version 8 (Visual Studio 2005); the various wizards no longer generate them by default. Version 7 also introduced new string conversion classes.
+On July 28, 2009, Microsoft released a patch to ATL to fix a bug that could allow ActiveX controls created using ATL to be vulnerable to a remote code execution security flaw.
+Since Visual Studio 2013, ATL code in Visual C++ 2013 is static, eliminating the DLL.
+ATL includes many RAII classes to simplify management of COM types. The most commonly used classes include:
+CComPtr<T> general-purpose smart-pointer,
+CComBSTR BSTR wrapper,
+CComVariant VARIANT wrapper, and
+CComSafeArray<T> SAFEARRAY wrapper.
+Although not formally part of ATL, Microsoft Visual C++ also includes additional C++ RAII classes to simplify management of COM types. These compiler COM support classes can be used as replacement for or in combination with ATL, and includes:
+_com_ptr_t smart-pointer that decorates the COM interface name with a "Ptr" suffix,
+_bstr_t BSTR wrapper,
+_variant_t VARIANT wrapper, and
+_com_error HRESULT wrapper.
+Note that as of Visual Studio 2012, the compiler COM support classes does not include a SAFEARRAY wrapper.
+ATL Server
+C++/CX
+OLE Automation
+Standard Template Library
+Windows Template Library
+Microsoft Windows SDK
+List of C++ template libraries

@@ -1,0 +1,23 @@
+Nickeline or niccolite is a mineral consisting of nickel arsenide (NiAs) containing 43.9% nickel and 56.1% arsenic.
+Small quantities of sulfur, iron and cobalt are usually present, and sometimes the arsenic is largely replaced by antimony. This last forms an isomorphous series with breithauptite (nickel antimonide).
+When, in the medieval German Erzgebirge, or Ore Mountains, a red mineral resembling copper-ore was found, the miners looking for copper could extract none from it, as it contains none; worse yet, the ore also sickened them. They blamed a mischievous sprite of German mythology, Nickel (similar to Old Nick) for besetting the copper (German: Kupfer). This German equivalent of "copper-nickel" was used as early as 1694 (other old German synonyms are Rotnickelkies and Arsennickel).
+In 1751, Baron Axel Fredrik Cronstedt was attempting to extract copper from kupfernickel mineral, and obtained instead a white metal that he called after the spirit, nickel. In modern German, Kupfernickel and Kupfer-Nickel designates the alloy Cupronickel.
+The names subsequently given to the ore, nickeline from F. S. Beudant, 1832, and niccolite, from J. D. Dana, 1868, refer to the presence of nickel; in Latin, niccolum.
+In 1971, the International Mineralogical Association recommended use of the name nickeline rather than niccolite.
+The main compound within nickeline, nickel arsenide (NiAs), can be prepared by direct combination of the elements:
+Ni(s) + As(s) → NiAs(s)
+Nickeline is formed by hydrothermal modification of ultramafic rocks and associated ore deposits, and may be formed by replacement of nickel-copper bearing sulfides (replacing pentlandite, and in association with copper arsenic sulfides), or via metasomatism of sulfide-free ultramafic rocks, where metasomatic fluids introduce sulfur, carbonate, and arsenic. This typically results in mineral assemblaged including millerite, heazelwoodite and metamorphic pentlandite-pyrite via sulfidation and associated arsenopyrite-nickeline-breithauptite.
+Associated minerals include: arsenopyrite, barite, silver, cobaltite, pyrrhotite, pentlandite, chalcopyrite, breithauptite and maucherite. Nickeline alters to annabergite (a coating of green nickel arsenate) on exposure to moist air.
+Most of these minerals can be found in the areas surrounding Sudbury and Cobalt, Ontario. Other localities include the eastern flank of the Widgiemooltha Dome, Western Australia, from altered pentlndite-pyrite-pyrrhotite assemblages within the Mariners, Redross and Miitel nickel mines where nickeline is produced by regional Au-As-Ag-bearing alteration and carbonate metasomatism. Other occurrences include within similarly modified nickel mines of the Kambalda area.
+The unit cell of nickeline is used as the prototype of a class of solids with similar crystal structures. Compounds adopting the NiAs structure are generally the chalcogenides, arsenides, antimonides and bismuthides of transition metals.
+The following are the members of the nickeline group:
+Achavalite: FeSe
+Breithauptite: NiSb
+Freboldite: CoSe
+Kotulskite: Pd(Te,Bi)
+Langistite: (Co,Ni)As
+Nickeline: NiAs
+Sobolevskite: Pd(Bi,Te)
+Sudburyite: (Pd,Ni)Sb
+Nickeline is rarely used as a source of nickel due to the presence of arsenic, which is deleterious to most smelting and milling techniques. When nickel sulfide ore deposits have been altered to produce nickeline, often the presence of arsenic renders the ore uneconomic when concentrations of As reach several hundred parts per million. However, arsenic bearing nickel ore may be treated by blending with 'clean' ore sources, to produce a blended feedstock which the mill and smelter can handle with acceptable recovery.
+The primary problem for treating nickeline in conventionally constructed nickel mills is the specific gravity of nickeline versus that of pentlandite. This renders the ore difficult to treat via the froth flotation technique. Within the smelter itself, the nickeline contributes to high arsenic contents which require additional reagents and fluxes to strip from the nickel metal.

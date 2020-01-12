@@ -1,0 +1,19 @@
+In biochemistry, a hydrolase or hydrolytic enzyme is an enzyme that catalyzes the hydrolysis of a chemical bond. For example, an enzyme that catalyzed the following reaction is a hydrolase:
+A–B + H2O → A–OH + B–H
+Systematic names of hydrolases are formed as "substrate hydrolase." However, common names are typically in the form "substratease." For example, a nuclease is a hydrolase that cleaves nucleic acids.
+Hydrolases are classified as EC 3 in the EC number classification of enzymes. Hydrolases can be further classified into several subclasses, based upon the bonds they act upon:
+EC 3.1: ester bonds (esterases: nucleases, phosphodiesterases, lipase, phosphatase)
+EC 3.2: sugars (DNA glycosylases, glycoside hydrolase)
+EC 3.3: ether bonds
+EC 3.4: peptide bonds (Proteases/peptidases)
+EC 3.5: carbon-nitrogen bonds, other than peptide bonds
+EC 3.6 acid anhydrides (acid anhydride hydrolases, including helicases and GTPase)
+EC 3.7 carbon-carbon bonds
+EC 3.8 halide bonds
+EC 3.9: phosphorus-nitrogen bonds
+EC 3.10: sulphur-nitrogen bonds
+EC 3.11: carbon-phosphorus bonds
+EC 3.12: sulfur-sulfur bonds
+EC 3.13: carbon-sulfur bonds
+Hydrolase secreted by Lactobacillus jensenii in the human gut stimulates the liver to secrete bile salts that aids in the digestion of food.
+The word hydrolase (/ˈhaɪdroʊleɪs, -leɪz/) suffixes the combining form of -ase to the hydrol syllables of hydrolysis.

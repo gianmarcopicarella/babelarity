@@ -1,0 +1,50 @@
+Ci (tzu; simplified Chinese: 词; traditional Chinese: 詞; pinyin: cí; Wade–Giles: tz'u2, and, interchangeably –– to a point –– with 辭/辞) are a poetic form, a type of lyric poetry, done in the tradition of Classical Chinese poetry. Ci use a set of poetic meters derived from a base set of certain patterns, in fixed-rhythm, fixed-tone, and variable line-length formal types, or model examples: the rhythmic and tonal pattern of the ci are based upon certain, definitive musical song tunes. They are also known as Changduanju (長短句/长短句, "lines of irregular lengths") and Shiyu (詩餘/诗馀, "that which is beside poetry").
+Typically the number of characters in each line and the arrangement of tones were determined by one of around 800 set patterns, each associated with a particular title, called cípái 詞牌. Originally they were written to be sung to a tune of that title, with set rhythm, rhyme, and tempo. Therefore, the title may have nothing to do with its contents, and it is common for several ci to share the same title, having little or nothing to do with the topics of those poems, but rather refers to their shared rhythmic and tonal patterns. Some ci would have a "subtitle" (or a commentary, sometimes as long as a paragraph) indicating the contents. Sometimes, for the sake of clarity, a ci is listed under its title plus its first line.
+Ci most often express feelings of desire, often in an adopted persona, but the greatest exponents of the form (such as Li Houzhu and Su Shi) used it to address a wide range of topics.
+Although the oldest surviving textual examples of surviving ci are from 8th century CE Dunhuang manuscripts, beginning in the poetry of the Liang Dynasty, the ci followed the tradition of the Shi Jing and the yuefu: they were lyrics which developed from anonymous popular songs into a sophisticated literary genre; although in the case of the ci form some of its fixed-rhythm patterns have an origin in Central Asia. The form was further developed in the Tang Dynasty. Although the contributions of Li Bo (also known as Li Po, 701 – 762) are fraught with historical doubt, certainly the Tang poet Wen Tingyun (812-870) was a great master of the ci, writing it in its distinct and mature form. One of the more notable practitioners and developers of this form was Li Yu of the Southern Tang Dynasty during the Five Dynasties and Ten Kingdoms period. However, the ci form of Classical Chinese poetry is especially associated with the poetry of the Song Dynasty, during which it was indeed a popular poetic form. A revival of the ci poetry form occurred during the end of the Ming Dynasty and the beginning of the Qing Dynasty which was characterized by an exploration of the emotions connected with romantic love together with its valorization, often in a context of a brief poetic story narrative within a ci poem or a linked group of ci poems in an application of the chuanqi form of short story tales to poetry.
+Two main categories of ci employed in Song Dynasty were xiǎolìng 小令 (the original form since Pre-Song) and màncí 慢詞 (starting after Liu Yong), depending on the song being either short and in fast tempo or long and in slow tempo. Later in Ming Dynasty and Qing Dyansties, the ci, or rather the cipai, are classified for the number of characters it dictates. It's called xiǎolìng 小令 if it's no more than 58 characters, zhōngdiào 中調 for 59-90, and chángdiào 長調 for over 90. If the ci appears in one stanza, it's called dāndiào 單調, mostly xiǎolìng written in Pre-Song era. The largest majority is shuāngdiào 雙調 with two stanzas or qüè 闋 in identical or nearly identical patterns. There also are rare cases of sāndié 三疊 and sìdié 四疊, for three and four qüè, respectively. In terms of style, ci can also be classified as either wǎnyuē 婉約 or háofàng 豪放.
+Most cipai consist of three characters. The literal meaning of a cipai can be rather obscure, making it difficult to translate. Some are taken straight from earlier poems, and some are clearly of Non-Han origin — mostly songs introduced from Central Asia. Some cipai have alternative names, usually taken from a famous piece of that very cipai. There also are variants of certain cipai, indicated by a prefix or a suffix.
+To the Tune of Riverside City - For ten years here I wander and there you lie
+「十年生死兩茫茫。不思量，自難忘。千里孤墳，無處話淒涼。縱使相逢應不識，塵滿面、鬢如霜。 夜來幽夢忽還鄉。小軒窗，正梳妝。相顧無言，惟有淚千行。料得年年腸斷處：明月夜，短松岡。」
+“For ten years here I wander and there you lie./ I don't think about you often,/ yet how can I forget you!/ With your grave a thousand miles away,/ where can I confide my loneliness?/ Even if we met, could you recognize me,/ with dust all over my face/ and hair like frost?/ Last night I had a dream in which I returned home./ By the window,/ you were combing your hair./ We looked at each other silently,/ with tears streaming down our cheeks./ There's a place which every year will be my misery：/ the moonlit night,/ the hill of short pines. 「Su Shi, 《江城子·十年生死兩茫茫》，蘇軾」
+In the title of this ci, "the Tune of Riverside City" is the cipai, followed by the first sentence of the poem. Su Shi got married when he was 19, his wife 16. His wife died when she was only 27. Because of his government duties, Su Shi had moved to many different places in China, all far away from his hometown. One night in early 1075, about 10 years after her death, Su Shi dreamed of his wife, then composed this famous ci.
+Tang Dynasty & Five Dynasties and Ten Kingdoms
+Wen Tingyun (812–870)
+Wei Zhuang (836–910)
+Li Cunxu (885–926)
+Gu Xiong (fl. 928)
+Lu Qianyi (fl. 931)
+Yan Xuan (fl. 932)
+Mao Xizhen (fl. 947)
+Xue Zhaoyun (10th century)
+Sun Guangxian (d. 968)
+Li Yu (937–978)
+Song Dynasty
+Liu Yong (987–1053)
+Ouyang Xiu (1007–1072)
+Su Shi (1037–1101)
+Huang Tingjian (1045–1105)
+Qin Guan (1049–1100)
+Zhou Bangyan (1056–1121)
+Li Qingzhao (1081–1149?)
+Lu You (1125–1209)
+Xin Qiji (1140–1207)
+Jiang Kui (1155–1221)
+Wang Yisun (1240–1290)
+Post-Song
+Gao Bing (1350–1423)
+Qian Qianyi (1582–1664)
+Wu Weiye (1609–1671)
+Gong Dingzi (1615–1673)
+Zhu Yizun (1629–1709)
+Nalan Xingde (1655–1685)
+Mao Zedong (1893–1976)
+Classical Chinese poetry forms
+Dan dan you qing
+Shui diao ge tou
+Song poetry
+Kang-i Sun Chang. The evolution of Chinese tz'u poetry from late T'ang to Northern Sung.Princeton, New Jersey: Princeton University Press, 1980.
+Davis, A. R. (Albert Richard), Editor and Introduction,(1970), The Penguin Book of Chinese Verse. (Baltimore: Penguin Books).
+Frankel, Hans H. (1978). The Flowering Plum and the Palace Lady. (New Haven and London: Yale University Press) ISBN 0-300-02242-5
+Marsha Wagner, The lotus boat: origins of Chinese tz'u poetry in T'ang popular culture (New York: Columbia University Press, 1984.
+Zhang, Hongsheng (2002). "Gong Dingzi and the Courtesan Gu Mei: Their Romance and the Revival of the Song Lyric in the Ming-Qing Transition", in Hsiang Lectures on Chinese Poetry, Volume 2, Grace S. Fong, editor. (Montreal: Center for East Asian Research, McGill University).

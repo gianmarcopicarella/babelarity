@@ -1,0 +1,13 @@
+Tasman is a discontinued layout engine developed by Microsoft for inclusion in the Macintosh version of Internet Explorer 5. Tasman was an attempt to improve support for web standards, as defined by the World Wide Web Consortium. At the time of its release, Tasman was seen as the layout engine with the best support for web standards such as HTML and CSS. Internet Explorer for Mac is no longer supported, but newer versions of Tasman are incorporated in some other Microsoft products.
+Tantek Çelik led the team that developed the Tasman engine as the Software Development Lead. Tasman later became used as the layout engine for the MSN for Mac OS X and Office 2004 for Mac.
+The first version of Tasman (referred to as "v0") was released with Internet Explorer 5 Macintosh Edition on March 27, 2000. An upgraded version (version 0.1) followed on with the release of Internet Explorer 5.1 for Mac.
+On May 15, 2003, Microsoft released the subscription-only MSN for Mac OS X browser, which used an upgraded version of Tasman (version 0.9) as its layout engine. In a posting to the Mac Internet Explorer Talk list, Internet Explorer for Mac Program Manager Jimmy Grewal listed a number of improvements:
+Full Unicode support
+Improved CSS support, with CSS 3 Selectors, CSS TV Profile and @media
+Improved DOM support with DOM 1 Core and DOM 2 Core, Style, and Events. Also improved compatibility with Windows IE DOM.
+XHTML 1.0 and 1.1 support, although it is not activated in MSN for Mac OS X.
+Better support for Mac OS X features such as CoreGraphics, ATSUI and CFSocket networking.
+For a while Tasman was improved as part of a number of TV set-top box projects at Microsoft reaching version 1.0. The Tasman engine is now used in the Microsoft TV Mediaroom Edition.
+On May 11, 2004, Microsoft started shipping Microsoft Office 2004 for Mac which incorporates a version of the Tasman layout engine in its email client Entourage. Since Microsoft Office for Mac 2011, Entourage has been replaced by Macintosh version of Microsoft Outlook which uses a WebKit-based layout engine instead.
+List of layout engines
+Comparison of layout engines

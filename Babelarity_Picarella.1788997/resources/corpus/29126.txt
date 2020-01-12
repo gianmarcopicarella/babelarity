@@ -1,0 +1,204 @@
+The Lockheed C-141 Starlifter was a military strategic airlifter in service with the Military Air Transport Service (MATS), its successor organization the Military Airlift Command (MAC), and finally the Air Mobility Command (AMC) of the United States Air Force (USAF). The aircraft also served with airlift and air mobility wings of the Air Force Reserve (AFRES), later renamed Air Force Reserve Command (AFRC), the Air National Guard (ANG) and, later, one air mobility wing of the Air Education and Training Command (AETC) dedicated to C-141, C-5, C-17 and KC-135 training.
+Introduced to replace slower piston-engined cargo planes such as the C-124 Globemaster II, the C-141 was designed to requirements set in 1960 and first flew in 1963. Production deliveries of an eventual 285 planes began in 1965: 284 for the Air Force, and one for the National Aeronautics and Space Administration (NASA) for use as an airborne observatory. The aircraft remained in service for over 40 years until the USAF withdrew the last C-141s from service in 2006, after replacing the airlifter with the C-17 Globemaster III.
+In the early 1960s, the United States Air Force's Military Air Transport Service (MATS) relied on a substantial number of propeller-driven aircraft for strategic airlift. As these aircraft were mostly obsolescent designs and the Air Force needed the benefits of jet power, the USAF ordered 48 Boeing C-135 Stratolifters as an interim step. The C-135 was a useful stop-gap, but only had side-loading doors and most bulky and oversize equipment would not fit, especially that employed by the U.S. Army.
+In the spring of 1960 the Air Force released Specific Operational Requirement 182, calling for a new aircraft that would be capable of performing both strategic and tactical airlift missions. The strategic role demanded that the aircraft be capable of missions with a radius of at least 3,500 nautical miles (6,500 km) with a 60,000 pounds (27,000 kg) load. The tactical role required it to be able to perform low-altitude air drops of supplies, as well as carry and drop combat paratroops. Several companies responded to SOR 182, including Boeing, Lockheed, and General Dynamics.
+Lockheed responded to the requirement with a unique design: the Lockheed Model 300, the first large jet designed from the start to carry freight. The Model 300 had a swept high-mounted wing with four 21,000 pounds-force (93 kN) thrust TF33 turbofan engines pod-mounted below the wings. An important aspect was the cabin's floor height of only 50 inches (130 cm) above the ground, allowing easy access to the cabin through the rear doors. The two rear side doors were designed to allow the aircraft to drop paratroops (in August 1965 the aircraft performed the first paratroop drop from a jet-powered aircraft). The rear cargo doors could be opened in flight for airborne cargo drops. The high-mounted wings gave internal clearance in the cargo compartment of 10 feet (3.0 m) wide, 9 ft (2.7 m) high and 70 ft (21 m) long. The size enabled the Starlifter to carry, for example, a complete LGM-30 Minuteman intercontinental ballistic missile in its container. The aircraft was capable of carrying a maximum of 70,847 pounds (32,136 kg) over short distances, and up to 92,000 pounds (42,000 kg) in the version configured to carry the Minuteman, which lacked other equipment. The aircraft could also carry up to 154 troops, 123 paratroops or 80 litter patients.
+President John F. Kennedy's first official act after his inauguration was to order the development of the Lockheed 300 on 13 March 1961, with a contract for five aircraft for test and evaluation to be designated the C-141. One unusual aspect of the aircraft was that it was designed to meet both military and civil airworthiness standards. The prototype C-141A serial number 61-2775 was manufactured and assembled in record time. The prototype was rolled out of the Lockheed factory at Marietta, Georgia on 22 August 1963 and first flew on 17 December, the 60th anniversary of the Wright brothers' first flight. The company and the Air Force then started an operational testing program and the delivery of 284 aircraft.
+An effort to sell the aircraft on the civilian market resulted in provisional orders from Flying Tiger Line and Slick Airways for four aircraft each. These were to be a stretched version, 37 feet (11 m) longer than the C-141A, and marketed as the L-300 SuperstarLifter. Other changes were also incorporated to make it more commercial, including a different yoke. The development was not sustained and only one civilian demonstration aircraft was built. When no commercial sales were made Lockheed donated the aircraft to NASA.
+The prototype and development aircraft then began an intensive operational testing program including the first delivery to MATS (63-8078) on 19 October 1964 to the 1707th Air Transport Wing, Heavy (Training), Tinker Air Force Base, Oklahoma. Testing continued and a Federal Aviation Authority type certificate was awarded on 29 January 1965. The first delivery to an operational unit (63-8088) was made on 23 April 1965 to the 44th Air Transport Squadron, 1501st Air Transport Wing, Travis Air Force Base, California. Although operational testing continued, due to the United States' military involvement in South Vietnam, the C-141 was soon employed in operational sorties to the combat zone.
+On 8 January 1966, following the disestablishment of MATS, all C-141s were transferred to the newly established Military Airlift Command (MAC).
+In October 1973, C-141s and C-5s airlifted supplies from the United States to Israel during the 1973 Yom Kippur War as part of Operation Nickel Grass. Over the course of the operation, C-141s flew 422 missions and carried a total of 10,754 tons of cargo.
+The first strategic airlift flight of Operation Desert Shield was flown by a MAC C-141 of the 437th Military Airlift Wing out of Charleston AFB, SC, on 7 August 1990. The C-141 proved to be a workhorse airlifter of Operations Desert Shield and Desert Storm, flying 159,462 short tons (144,661,000 kg) of cargo and 93,126 passengers during 8,536 airlift missions.
+On 1 June 1992, following the disestablishment of Military Airlift Command, all C-141s and the airlift wings to which they were assigned were transferred to the newly established Air Mobility Command (AMC). Air Force Reserve Command (AFRC) and Air National Guard (ANG) C-141s and units were also transferred to AMC.
+On 16 September 2004, the C-141 left service with all active duty USAF units, being confined to Air Force Reserve and Air National Guard units for the remainder of its operational service life. As of 25 September 2005, there were only eight C-141 aircraft still flying, all from the Air Force Reserve's 445th Airlift Wing (445 AW) at Wright-Patterson AFB. In 2004, 2005, and 2006, the C-141s assigned to the 445 AW participated in missions to Iraq and Afghanistan, mostly for the medical evacuation of wounded service members. The last eight C-141s were officially retired in 2006.
+In 1994 one of the aircraft at Wright-Patterson AFB was identified by its crew chief as the Hanoi Taxi (AF Serial Number 66-0177), the first aircraft to land in North Vietnam in 1973 for Operation Homecoming in the final days of the Vietnam War, to repatriate American POWs from North Vietnam.
+In 2005, Hanoi Taxi and other aircraft were marshalled by the Air Force to provide evacuation for those seeking refuge from Hurricane Katrina. This aircraft and others evacuated thousands of people, including the medical evacuation (MEDEVAC) of hundreds of ill and injured.
+With the 5 May 2005 announcement of the retirement of these last eight C-141s, the Hanoi Taxi embarked on a series of flights, giving veterans, some of whom flew out of POW captivity in Vietnam in this aircraft, the opportunity to experience one more flight before retirement. On 6 May 2006, the Hanoi Taxi landed for the last time and was received in a formal retirement ceremony at the National Museum of the United States Air Force, located at Wright-Patterson Air Force Base near Dayton.
+15 aircraft including the "Hanoi Taxi" are now on static display at various air museums around the United States, all the remaining airframes retired to the "boneyard" at Davis-Monthan AFB, Arizona have been scrapped.
+The original Starlifter model, designated C-141A, could carry 154 passengers, 123 paratroopers or 80 litters for wounded with seating for 16. A total of 284 A-models were built. The C-141A entered service in April 1965. It was soon discovered that the aircraft's volume capacity was relatively low in comparison to its lifting capacity; it generally ran out of physical space before it hit its weight limit. The C-141A could carry ten standard 463L master pallets and had a total cargo capacity of 62,700 pounds (28,400 kg). It could also carry specialized cargoes, such as the Minuteman missile.
+NASA obtained Lockheed's C-141 demonstrator, designated L-300. The airplane was modified to house the Kuiper Airborne Observatory telescope for use at very high altitudes. This NASA NC-141A is now in storage at NASA Ames Research Center, Moffett Federal Airfield, CA.
+In service, the C-141 proved to "bulk out" before it "grossed out", meaning that it often had additional lift capacity that went wasted because the cargo hold was full before the plane's weight capacity had been reached. To correct the perceived deficiencies of the original model and utilize the C-141 to the fullest of its capabilities, 270 in-service C-141As (most of the fleet) were stretched, adding needed payload volume. The conversion program took place between 1977 and 1982, with first delivery taking place in December 1979. These modified aircraft were designated C-141B. It was estimated that this stretching program was equivalent to buying 90 new aircraft, in terms of increased capacity. Also added was a boom receptacle for inflight refueling. The fuselage was stretched by adding "plug" sections before and after the wings, lengthening the fuselage a total of 23 feet 4 inches (7.11 m) and allowing the carriage of 103 litters for wounded, 13 standard pallets, 205 troops, 168 paratroopers, or an equivalent increase in other loads.
+In 1994, a total of 13 C-141Bs were given SOLL II (Special Operations Low-Level II) modifications, which gave the aircraft a low-level night flying capability, enhanced navigation equipment, and improved defensive countermeasures. These aircraft were operated by AMC in conjunction with Air Force Special Operations Command (AFSOC).
+A total of 63 C-141s were upgraded throughout the 1990s to C-141C configuration, with improved avionics and navigation systems, to keep them up to date. This variant introduced some of the first glass cockpit technology to the aircraft, as well as improving reliability by replacing some mechanical and electromechanical components with their electronic equivalents.
+ United States
+United States Air Force - 284 C-141A, B, and C
+Military Air Transport Service
+1501st Air Transport Wing - Travis AFB, California 1965–1966 (redesignated 60th Military Airlift Wing)
+44th Air Transport Sq
+75th Air Transport Sq
+1607th Air Transport Wing - Dover AFB, Delaware 1965-66 (redesignated 436th Military Airlift Wing)
+20th Air Transport Sq
+1608th Air Transport Wing - Charleston AFB, South Carolina 1965-66 (redesignated 437th Military Airlift Wing)
+3d Air Transport Sq
+1707th Air Transport Wing - Tinker AFB, Oklahoma 1964-66 (redesignated 443d Military Airlift Wing, Training)
+1741st Air Transport Sq
+Military Airlift Command/Air Mobility Command
+60th Military Airlift Wing/Airlift Wing/Air Mobility Wing - Travis AFB, California 1966–1998
+7th Military Airlift Sq/Airlift Sq, 1966-93
+19th Airlift Sq, 1993-96
+20th Airlift Sq, 1993-98
+44th Military Airlift Sq, 1966-72
+75th Military Airlift Sq, 1966-71
+86th Military Airlift Sq/Airlift Sq, 1966-93
+62d Military Airlift Wing/Airlift Wing - McChord AFB, Washington 1966–2000
+4th Military Airlift Sq/Airlift Sq, 1966-2000
+7th Airlift Sq, 1993-2000
+8th Military Airlift Sq/Airlift Sq, 1966-2000
+36th Military Airlift Sq/Airlift Sq, 1989-93
+63d Military Airlift Wing/Airlift Wing - Norton AFB, California 1967–1993
+14th Military Airlift Sq/Airlift Sq, 1967-92
+15th Military Airlift Sq/Airlift Sq, 1967-93
+52d Military Airlift Sq/Airlift Sq, 1988-92
+53d Military Airlift Sq/Airlift Sq, 1973-93
+305th Air Mobility Wing - McGuire AFB, New Jersey 1994-2004
+6th Airlift Sq, 1994-2004
+13th Airlift Sq, 1994-2001
+18th Airlift Sq, 1994-95
+436th Military Airlift Wing - Dover AFB, Delaware 1966-73
+9th Military Airlift Sq, 1966-68
+20th Military Airlift Sq, 1966-73
+58th Military Airlift Sq (Robins AFB, Georgia) 1967-71
+437th Military Airlift Wing/Airlift Wing - Charleston AFB, South Carolina 1966-2000
+3d Military Airlift Sq, 1966-70
+14th Airlift Sq, 1992-95
+15th Airlift Sq, 1993-97
+16th Airlift Sq, 1993-2000
+17th Military Airlift Sq/Airlift Sq, 1987-93
+20th Military Airlift Sq/Airlift Sq, 1973-93
+41st Military Airlift Sq, 1966-92
+76th Military Airlift Sq/Airlift Sq, 1966-93
+438th Military Airlift Wing/Airlift Wing - McGuire AFB, New Jersey 1967-1994 (redesignated 305th Air Mobility Wing)
+6th Military Airlift Sq/Airlift Sq, 1970-94
+13th Airlift Sq, 1993-94
+18th Military Airlift Sq/Airlift Sq, 1968-94
+30th Military Airlift Sq/Airlift Sq, 1967-93
+443d Military Airlift Wing - Tinker/Altus AFB, Oklahoma 1966-1992
+57th Military Airlift Sq
+Air Education & Training Command
+97th Air Mobility Wing - Altus AFB, Oklahoma 1992-2001
+57th Airlift Sq
+Air Force Logistics Command
+Warner-Robins Air Logistics Center - Robins AFB, Georgia 1966-92 (post depot maintenance flight testing)
+2875th Test Sq
+Air Force Systems Command
+Aeronautical Systems Division - Wright-Patterson AFB, Ohio 1967-71 (flight testing)
+4950th Test Wing; Wright-Patterson AFB, Ohio 1971-93
+4953d Test Sq, 1975-93
+Air Force Materiel Command
+412th Test Wing - Edwards AFB, California 1993-98
+418th Flight Test Sq
+Warner-Robins Air Logistics Center; Robins AFB, Georgia 1992-2003 (post depot maintenance flight testing)
+339th Flight Test Sq
+Air Force Reserve
+315th Military Airlift Wing/Airlift Wing (Associate) - Charleston AFB, South Carolina 1973-2000
+300th Military Airlift Sq/Airlift Sq, 1973-97
+701st Military Airlift Sq/Airlift Sq, 1973-97
+707th Military Airlift Sq/Airlift Sq, 1973-2000
+349th Military Airlift Wing/Air Mobility Wing(Associate) - Travis AFB, California 1973-1998
+708th Military Airlift Sq/Airlift Sq
+710th Military Airlift Sq/Airlift Sq
+445th Military Airlift Wing/Airlift Wing(Associate) - Norton/March AFB, California 1973-94
+728th Military Airlift Sq/Airlift Sq, 1973-92
+729th Military Airlift Sq/Airlift Sq, 1973-94
+730th Military Airlift Sq/Airlift Sq, 1973-94
+445th Airlift Wing - Wright-Patterson AFB, Ohio 1994-2006
+89th Airlift Sq, 1994-2005
+356th Airlift Sq, 1994-2006
+446th Military Airlift Wing/Airlift Wing (Associate) - McChord AFB, Washington 1973-2000
+97th Military Airlift Sq/Airlift Sq, 1973-2000
+313th Military Airlift Sq/Airlift Sq, 1973-96
+728th Airlift Sq, 1992-99
+452d Air Mobility Wing - March ARB, California 1994-2005
+729th Airlift Sq
+730th Airlift Sq
+459th Military Airlift Wing/Airlift Wing - Andrews AFB, Maryland 1986-2003
+756th Military Airlift Sq/Airlift Sq
+514th Military Airlift Wing/Airlift Wing/Air Mobility Wing (Associate) - McGuire AFB, New Jersey 1973–2004
+335th Military Airlift Sq/Airlift Sq, 1973-95
+702d Military Airlift Sq/Airlift Sq, 1973-2000
+732d Military Airlift Sq/Airlift Sq, 1973-2004
+903d Military Airlift Group (Associate) - McGuire AFB, New Jersey 1970-73 (redesignated 514th Military Airlift Wing)
+335th Military Airlift Sq
+702d Military Airlift Sq
+732d Military Airlift Sq
+907th Airlift Group - Rickenbacker AFB/Wright-Patterson AFB, Ohio 1992-94
+356th Airlift Squadron
+912th Military Airlift Group (Associate) - Dover AFB, Delaware 1968-73
+326th Military Airlift Sq
+938th Military Airlift Group (Associate) - Travis AFB, California 1969-73 (redesignated 349th Military Airlift Wing)
+301st Military Airlift Sq
+312th Military Airlift Sq
+939th Military Airlift Group (Associate) - McChord AFB, Washington 1968-73 (redesignated 446th Military Airlift Wing)
+97th Military Airlift Sq, 1969-73
+313th Military Airlift Sq, 1968-73
+943d Military Airlift Group (Associate) - Charleston AFB, South Carolina 1969-73 (redesignated 315th Military Airlift Wing)
+300th Military Airlift Sq, 1969-73
+701st Military Airlift Sq, 1970-73
+707th Military Airlift Sq, 1970-73
+944th Military Airlift Group (Associate) - Norton AFB, California 1968-73 (redesignated 445th Military Airlift Wing)
+728th Military Airlift Sq, 1969-73
+729th Military Airlift Sq, 1969-73
+730th Military Airlift Sq, 1968-73
+Air National Guard
+164th Military Airlift Group/Airlift Wing - Memphis, Tennessee 1992-2004
+155th Military Airlift Sq/Airlift Sq
+172d Military Airlift Group/Airlift Group/Airlift Wing - Jackson, Mississippi 1986-2003
+183th Military Airlift Sq/Airlift Sq
+(source - "USAF C-141 Starlifter Units"; AMC Office of History, 2006)
+NASA - 1 C-141A Construction Number 300-6110. Did not receive a USAF serial number, was flown with civil registration N4141A and later as NASA N714NA. Operated 1966-1995.
+19 C-141s were destroyed in accidents through 2005.
+On 23 March 1967, the worst ground aviation accident of the Vietnam War occurred at Da Nang Air Base, South Vietnam when a traffic controller cleared USMC A-6A Intruder, BuNo 152608, of VMA(AW)-242, MAG-11, for takeoff but also cleared USAF C-141A-LM Starlifter, AF serial number 65-9407, of the 62nd Military Airlift Wing, McChord AFB, Washington, to cross the runway. The A-6's crew saw the Starlifter at the last moment and veered off of the runway to try to avoid the collision, but despite this, the A-6's port wing sliced through the C-141's nose, which immediately caught fire. The C-141's load of 72 acetylene gas cylinders ignited and caused a tremendous explosion, only the loadmaster escaping through the rear hatch. The A-6 overturned and skidded down the runway on its back, but both its crewmembers, Capt. Frederick Cone and Capt. Doug Wilson, survived, crawling out of the smashed canopy after the jet came to a halt. Some of the A-6's ordnance load of bombs and rocket packs went off in the ensuing fire. The Military Airlift Command crew killed were Capt. Harold Leland Hale, Capt. Leroy Edward Leonard, Capt. Max Paul Starkel, SSgt. Alanson Garland Bynum, and SSgt. Alfred Funck. This was the first of two C-141s lost during the conflict, and one of only three strategic airlifters written off during the Vietnam War.
+On 12 April 1967, C-141A, AF Ser. No. 66-0127 crashed after taking off from Cam Rahn Bay AB, Vietnam. Five crew were killed and 2 were rescued.
+On 28 August 1973, C-141A, 63-8077 crashed in mountains near Torrejon AB, Spain; 24 of the 25 crew and passengers on board were killed.
+On 18 August 1974, C-141A, 65-0274, of the 437th MAW, Charleston AFB, South Carolina, hit Mount Potosi at the 19,000 feet (5,800 m) altitude, about 17 miles (27 km) from destination, John F. Kennedy International Airport, La Paz, Bolivia, killing seven crew.
+On 21 March 1975, an air traffic controller confused aircraft call signs and cleared a McChord AFB based C-141A-20-LM, 64-0641, of the 62d Military Airlift Wing, to descend below safe minimums and it impacted Mount Constance in the Olympic National Forest, Washington, killing 16 passengers and crew.
+On 28 August 1976 a C-141 stalled and crashed after an aborted landing at Sondestrom AB, Greenland killing 23 of the 27 crew and passengers; that same day a McGuire based C-141 broke up in a severe thunderstorm while on descent into RAF Mildenhall, UK killing 18 passengers and crew.
+On 12 November 1980, C-141, 67-0030 crashed while landing at Cairo, Egypt. It hit short of the runway while attempting to land at night in the desert with no ground lights as a visual reference, all 13 aboard were killed.
+On 31 August 1982, C-141B 64-0652 was lost in the mountains of Tennessee (Cherokee National Forest) during a SOLL-I training mission. The local SOLL I training mission departed Charleston shortly before 1300 hours. The crew was extremely experienced. Weather along the route was reported, by other aircraft as 4500 feet Overcast, tops to 8000 feet, with zero visibility below 4500 feet due to rain showers, ragged ceiling, multi-layered stratus and fog. Route weather was below MAC minimums. Radar plots by Atlanta Center tracked the aircraft on the route. At 1427, the plots showed the aircraft in a progressive climb from 2500 feet. The aircraft impacted 4908 foot John's Knob in the Tellico Wildlife Area, 118 feet short of the peak. At the time of impact the aircraft was in a slight climb of 4-5 degrees (approximately 2000 feet per minute). There were no survivors among the crew of nine. Speculation was that the crew was attempting to use the recently installed Bendix color radar in the MAP mode, for terrain avoidance. The flight recorder and cockpit voice recorder were unrecoverable.
+On 12 July 1984, a C-141B experienced an uncontained failure of its number 3 engine immediately after takeoff from NAS Sigonella, on the Italian island of Sicily. Ejected debris caused number 4 engine to also fail. Debris also entered the cargo compartment and started a fire in a pallet containing paint. The cargo fire produced thick poisonous smoke which made visual control of aircraft extremely difficult. The aircraft entered a steep bank and crashed within 198 seconds of takeoff. All 8 crew men and a passenger on board were killed. Post crash toxicology indicated the crew had received potentially fatal levels of cyanide poisoning from the smoke, prior to impact. Subsequent to this accident, smoke goggles were added to crew oxygen masks.
+On 20 February 1989, C-141B, AF Ser. No. 66-0150, crashed while attempting to land at Hurlburt Field, Florida. The aircraft was executing a non-precision approach to the air base's Runway 18 during heavy thunderstorm activity with low visibility. The aircraft descended below minimum descent altitude and crashed in a wooded area north of Hurlburt Field. All 7 crew members and 1 passenger were killed.
+On 1 December 1992 two McChord-based C-141Bs flying a nighttime air refueling mission collided over Montana and crashed. All 13 crew members died.
+On 13 September 1997, a German Air Force Tu-154M (ex-East German Air Force) collided with a USAF C-141 at cruise altitude off the African coast near Namibia. All 24 crew on the Tu-154 plus the 9 crew on the C-141 were killed. The reason for the crash was the Tupolev flying on the wrong semicircular cruising altitude.
+C-141A N714NA used by NASA (NASA-714) as the Kuiper Airborne Observatory is on view at the NASA Ames Research Center, Moffett Federal Airfield, California.
+C-141A (AF Serial No. 61-2775) is the first C-141A produced and is on display at the Air Mobility Command Museum at Dover Air Force Base, Delaware
+NC-141A (AF Serial No. 61-2779) nicknamed "Against the Wind" was used as an Advanced Radar and Electronic Counter Countermeasures Test Bed. It is static on the South Base facility in the Air Force Flight Test Museum collection at Edwards Air Force Base, California
+C-141B (AF Serial No. 64-0626) is on display at the Air Mobility Command Museum at Dover Air Force Base, Delaware
+C-141B (AF Serial No. 65-0257) is on display at the March Field Air Museum, March Air Reserve Base, in Riverside, California
+C-141B (AF Serial No. 65-0236) participated in Operation Homecoming returning POWs from Hanoi. On display at the Scott Field Heritage Air Park at Scott Air Force Base near Belleville, Illinois
+C-141C (AF Serial No. 66-0177) "Hanoi Taxi" is on display at the National Museum of the United States Air Force at Wright-Patterson Air Force Base in Dayton, Ohio.
+C-141C (AF Serial No. 65-0248) is on display at the Museum of Aviation at Robins Air Force Base in Houston County, Georgia
+C-141B (AF Serial No. 63-8088) is on display at the Travis Heritage Center, Travis Air Force Base, Fairfield, California. Nicknamed "The Golden Bear", it was the first C-141 delivered to Travis AFB.
+C-141B (AF Serial No. 63-8079) is on display at the Charleston AFB Air Park at Charleston Air Force Base in Charleston, South Carolina
+C-141B (AF Serial No. 66-7947) "Garden State Airlifter" is on display at McGuire Air Force Base, New Jersey
+C-141B (AF Serial No. 65-0277) "Tacoma Starlifter" is on display at the McChord Air Museum, McChord Air Force Base, in Lakewood, Washington.
+C-141B (AF Serial No. 65-9400) is on display next to the control tower at Altus Air Force Base, Oklahoma
+C-141B (AF Serial No. 67-0013) is on display at the Pima Air and Space Museum adjacent to Davis-Monthan Air Force Base in Tucson, Arizona
+C-141B (AF Serial No. 66-0186) the first Starlifter to be converted from "A" model to "B" model, is on display at the Marietta Aviation Museum, adjacent to Dobbins Joint Air Reserve Base.
+Data from Simviation.com
+General characteristics
+Crew: 5–7: 2 pilots, 2 flight engineers, 1 navigator, 1 loadmaster (a second loadmaster routinely used, in later years navigators were only carried on airdrop missions); 5 medical crew (2 nurse, 3 medical technician) on medevac flights
+Length: 168 ft 4 in (51.3 m)
+Wingspan: 160 ft 0 in (48.8 m)
+Height: 39 ft 3 in (12 m)
+Wing area: 3,228 ft² (300 m²)
+Empty weight: 144,492 lb (65,542 kg)
+Max. takeoff weight: 342,100 lb (147,000 kg)
+Powerplant: 4 × Pratt & Whitney TF33-P-7 turbofans, 20,250 lbf (90.1 kN each) each
+Performance
+Maximum speed: 567 mph (493 kn, 912 km/h)
+Range: 2,935 mi (2,550 nmi, 4,723 km)
+Ferry range: 6,140 mi (5,330 nmi, 9,880 km)
+Service ceiling: 41,000 ft (12,500 m)
+Rate of climb: 2,600 ft/min (13.2 m/s)
+Wing loading: 100.1 lb/ft² (490 kg/m²)
+Thrust/weight: 0.25
+Strategic airlift
+Related development
+Lockheed C-5 Galaxy
+Aircraft of comparable role, configuration and era
+Boeing C-17 Globemaster III
+Ilyushin Il-76
+Related lists
+List of military aircraft of the United States
+List of military transport aircraft
+List of Lockheed aircraft

@@ -1,0 +1,49 @@
+The Vympel R-73 (NATO reporting name AA-11 Archer) is a short-range air-to-air missile developed by Vympel NPO that entered service in 1984.
+The R-73 was developed to replace the earlier R-60 (AA-8 'Aphid') weapon for short-range use by Soviet fighter aircraft. Work began in 1973, and the first missiles entered service in 1984.
+The R-73 is an infrared homing (heat-seeking) missile with a sensitive, cryogenic cooled seeker with a substantial "off-boresight" capability: the seeker can "see" targets up to 40° off the missile's centerline. It can be targeted by a helmet-mounted sight (HMS) allowing pilots to designate targets by looking at them. Minimum engagement range is about 300 meters, with maximum aerodynamic range of nearly 30 km (19 mi) at altitude. The weapon is used by the MiG-29, MiG-31, Su-27, Su-34 and Su-35, and can be carried by newer versions of the MiG-21, MiG-23, Sukhoi Su-24, and Su-25 aircraft. India is looking to use the missile on their HAL Tejas. It can also be carried by Russian attack helicopters, including the Mil Mi-24, Mil Mi-28, and Kamov Ka-50/52.
+The R-73 is a highly maneuverable missile and mock dogfights between USAF and German Air Force MiG-29s (inherited from the former Air Forces of the National People's Army) equipped with the R-73/helmet mounted cueing have indicated that the high degree of "off-boresight" capability of the R-73 would make a significant difference in combat. The missile also has a mechanically simple but effective system for thrust-vectoring. The R-73 prompted the development of a number of western air-to-air missiles including the IRIS-T, MICA IR, Python IV and the latest Sidewinder variant, the AIM-9X which entered squadron service in 2003.
+From 1994, the R-73 has been upgraded in production to the R-73M standard, which entered CIS service in 1997. The R-73M has greater range and a wider seeker angle (to 60° off-boresight), as well as improved IRCCM (Infrared Counter-Counter-Measures). Further developments include the R-74 (izdeliye 740) and its export variant RVV-MD. Russia currently receives new improved air-to-air missiles on the basis of the R-73.
+An improved version of the R-74, the K-74M (izdeliye 750) features fully digital and re-programmable systems, and is intended for use on the MiG-35 or MiG-29K/M/M2 and Su-27SM, Su-30MK and Su-35S. A further upgrade, known as the K-74M2 (izdeliye 760), is intended for the fifth-generation Sukhoi PAK FA aircraft. This missile has reduced cross section to fit in internal weapon bays and will match the performance of the AIM-9X and the ASRAAM. A clean sheet design, the K-MD (izdeliye 300), will supersede the K-74M2 in the future.
+On 24 February 1996, two Cessna 337s of the Brothers to the Rescue were shot down by a Cuban Air Force MiG-29UB. Each of the aircraft was downed by a R-73 missile.
+During the Eritrean-Ethiopian War from May 1998 to June 2000, R-73 missiles were used in combat by both Ethiopian Su-27s and Eritrean MiG-29s. It was the IR-homing R-60 and the R-73 that were used in all but two of the kills.
+On 18 March 2008, a MiG-29 Fulcrum of the Russian Air Force intercepted a Georgian Elbit Hermes 450 UAV over Abkhazia. The MiG-29 destroyed the UAV with an R-73 missile. The incident was one of many that led up to the 2008 Russo-Georgian conflict.
+R-73 - Standard model with ±45° off-boresight.
+R-73M - Improved model.
+R-74 (izdeliye 740) - Improved model with ±60° off-boresight.
+RVV-MD - Export model of the R-74.
+K-74M (izdeliye 750) - Improved model with ±75° off-boresight.
+K-74M2 (izdeliye 760) - Further improved variant with reduced cross-section for the PAK FA. Intended to match the AIM-9X and ASRAAM.
+ Algeria
+ Bangladesh
+ Bulgaria
+ China
+ Cuba
+ Eritrea
+ Ethiopia
+ Georgia Used on Su-25KM Scorpion.
+ India
+ Indonesia
+ Iran
+ Malaysia
+ North Korea
+ Peru
+ Poland
+ Russia
+ Serbia
+ Slovakia
+ Syria
+ Ukraine
+ Venezuela
+ Vietnam
+ Egypt
+ East Germany
+ Germany
+ Hungary
+ Romania
+ Soviet Union Passed to successor states.
+IRIS-T
+Gordon, Yefim (2004). Soviet/Russian Aircraft Weapons Since World War Two. Hinckley, England: Midland Publishing. ISBN 1-85780-188-1. 
+http://www.airforce-technology.com/projects/yak_130/ 04. August 2013.
+warfare.ru
+astronautix.com
+[1]

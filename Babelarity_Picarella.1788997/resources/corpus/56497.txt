@@ -1,0 +1,28 @@
+A V engine, or Vee engine is a common configuration for an internal combustion engine. The cylinders and pistons are aligned, in two separate planes or 'banks', so that they appear to be in a "V" when viewed along the axis of the crankshaft. The Vee configuration generally reduces the overall engine length, height and weight compared to an equivalent inline configuration.
+The first V-type engine, a 2-cylinder vee twin, was built in 1889 by Daimler, to a design by Wilhelm Maybach. By 1903 V8 engines were being produced for motor boat racing by the Société Antoinette to designs by Léon Levavasseur, building on experience gained with in-line four-cylinder engines. In 1904, the Putney Motor Works completed a new V12 marine racing engine – the first V12 engine produced for any purpose.
+Usually, each pair of corresponding pistons from each bank of cylinders share one crank pin on the crankshaft, either by master/slave rods or by two ordinary connecting rods side by side. However, some V-twin engine designs have two-pin cranks, while other V configurations include split crank-pins for more even firing.
+V-engines are generally more compact than straight engines with cylinders of the same dimensions and number. This effect increases with the number of cylinders in the engine; there might be no noticeable difference in overall size between V-twin and straight-twin engines while V8 engines are much more compact than straight-eight engines.
+Various cylinder bank angles of Vee are used in different engines; depending on the number of cylinders, there may be angles that work better than others for stability. Very narrow angles of Vee combine some of the advantages of the Vee engine and the straight engine (primarily in the form of compactness) as well as disadvantages; the concept is an old one pioneered by Lancia's V4 engine in the 1920s, but recently reworked by Volkswagen Group with their VR engines, which is actually a combination of V and straight configuration.
+Some Vee configurations are well-balanced and smooth, while others are less smoothly running than their equivalent straight counterparts. V8s with crossplane crankshaft can be easily balanced with the use of counterweights only. V12s, being in effect two straight-6 engines married together, are fully balanced; if the V-angle is 60° for 4-stroke or 30° for 2-stroke, they have also even firing. Others, such as the V2, V4, V6, flatplane V8, V10, V14 and V18 engine show increased vibration and generally require balance shafts or split crankshafts.
+Certain types of Vee engine have been built as inverted engines, most commonly for aircraft. Advantages include better visibility in a single-engined airplane, and lower centre of gravity. Examples include World War II German Daimler-Benz DB 601, Junkers Jumo, and Argus Motoren piston engines.
+It is common practice for Vee engines to be described with "V#" notation, where # is how many cylinders it has:
+V2, commonly referred to as a V-twin
+V3
+V4
+V5
+V6
+V8
+V10
+V12
+V14
+V16
+V18
+V20
+V24
+VR6 engine
+Straight engine
+Flat engine
+U engine
+H engine
+W engine
+X engine

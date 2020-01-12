@@ -1,0 +1,6 @@
+Bromoethane, also known as ethyl bromide, is a chemical compound of the haloalkanes group. It is abbreviated by chemists as EtBr (which is also used as an abbreviation for ethidium bromide). This volatile compound has an ether-like odour.
+The preparation of EtBr stands as a model for the synthesis of bromoalkanes in general. It is usually prepared by the addition of HBr to ethene:
+H2C=CH2 + HBr → H3C-CH2Br
+Bromoethane is inexpensive and would rarely be prepared in the laboratory. A laboratory synthesis includes reacting ethanol with a mixture of hydrobromic and sulfuric acids. An alternate route involves refluxing ethanol with phosphorus and bromine; phosphorus tribromide is generated in situ.
+In organic synthesis, EtBr is the synthetic equivalent of the ethyl carbocation (Et+) synthon. In reality, such a cation is not actually formed. For example, carboxylates salts are converted to ethyl esters, carbanions to ethylated derivatives, thiourea into ethylisothiouronium salts, and amines into ethylamines.
+Halocarbons in general are potentially dangerous alkylating agents. Bromides are better alkylating agents than chlorides, thus exposure to EtBr should be minimized. EtBr is classified by the State of California as carcinogenic and a reproductive toxin.

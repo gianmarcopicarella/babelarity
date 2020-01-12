@@ -1,0 +1,22 @@
+Klebsiella is a genus of nonmotile, Gram-negative, oxidase-negative, rod-shaped bacteria with a prominent polysaccharide-based capsule. It is named after the German microbiologist Edwin Klebs (1834–1913).
+Klebsiella species are found everywhere in nature. This is thought to be due to distinct sublineages developing specific niche adaptations, with associated biochemical adaptations which make them better suited to a particular environment. They can be found in water, soil, plants, insects, animals, and humans.
+K. granulomatis
+K. oxytoca
+K. michiganensis
+K. pneumoniae (type-species)
+K. p. subsp. ozaenae
+K. p. subsp. pneumoniae
+K. p. subsp. rhinoscleromatis
+K. quasipneumoniae
+K. q. subsp. quasipneumoniae
+K. q. subsp. similipneumoniae
+K. variicola
+Klebsiella bacteria tend to be rounder and thicker than other members of the Enterobacteriaceae family. They typically occur as straight rods with rounded or slightly pointed ends. They can be found singly, in pairs, or in short chains. Diplobacillary forms are commonly found in vivo.
+They have no specific growth requirements and grow well on standard laboratory media, but grow best between 35 and 37 °C and at pH 7.2. The species are facultative anaerobes, and most strains can survive with citrate and glucose as their sole carbon sources and ammonia as their sole nitrogen source.
+Members of the genus produce a prominent capsule, or slime layer, which can be used for serologic identification, but molecular serotyping may replace this method.
+Klebsiella species are routinely found in the human nose, mouth, and gastrointestinal tract as normal flora; however, they can also behave as opportunistic human pathogens. Klebsiella species are known to also infect a variety of other animals, both as normal flora and opportunistic pathogens.
+Klebsiella organisms can lead to a wide range of disease states, notably pneumonia, urinary tract infections, septicemia, meningitis, diarrhea, and soft tissue infections. Klebsiella species have also been implicated in the pathogenesis of ankylosing spondylitis and other spondyloarthropathies. The majority of human Klebsiella infections are caused by K. pneumoniae, followed by K. oxytoca. Infections are more common in the very young, very old, and those with other underlying diseases, such as cancer, and most infections involve contamination of an invasive medical device.
+During the last 40 years, many trials for constructing effective K. pneumoniae vaccines have been tried. Currently, no Klebsiella vaccine has been licensed for use in the US. K. pneumoniae is the most common cause of nosocomial respiratory tract and premature intensive care infections, and the second-most frequent cause of Gram-negative bacteraemia and urinary tract infections. Drug-resistant isolates remain an important hospital-acquired bacterial pathogen, add significantly to hospital stays, and are especially problematic in high-impact medical areas such as intensive care units. This antimicrobial resistance is thought to be attributable mainly to multidrug efflux pumps. The ability of K. pneumoniae to colonize the hospital environment, including carpeting, sinks, flowers, and various surfaces, as well as the skin of patients and hospital staff, has been identified as a major factor in the spread of hospital-acquired infections.
+In addition to certain Klebsiella spp. being discovered as human pathogens, others such as K. variicola have been identified as emerging pathogens in humans and animals alike. For instance, K. variicola has been identified as one of the causes of bovine mastitis.
+In plant systems, Klebsiella can be found in a variety of plant hosts. K. pneumoniae and K. oxytoca are able to fix atmospheric nitrogen into a form that can be used by plants, thus are called associative nitrogen fixers or diazotrophs. The bacteria attach strongly to root hairs and less strongly to the surface of the zone of elongation and the root cap mucilage. They are bacteria of interest in an agricultural context, due to their ability to increase crop yields under agricultural conditions. Their high numbers in plants are thought to be at least partly attributable to their lack of a flagellum, as flagella are known to induce plant defenses. Additionally, K. variicola is known to associate with a number of different plants including banana trees, sugarcane and has been isolated from the fungal gardens of leaf-cutter ants.
+Raoultella

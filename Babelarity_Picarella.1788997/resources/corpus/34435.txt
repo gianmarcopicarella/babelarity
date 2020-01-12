@@ -1,0 +1,26 @@
+Membrane proteins are proteins that interact with, or are part of, biological membranes. They include integral membrane proteins that are permanently anchored to the membrane and peripheral membrane proteins which are only temporarily attached to the lipid bilayer or to integral proteins. The integral membrane proteins are classified as transmembrane proteins that span across the membrane and integral monotopic proteins that are attached to only one side of the membrane. Membrane proteins are a common type of proteins along with soluble globular proteins, fibrous proteins, and disordered proteins. They are targets of over 50% of all modern medicinal drugs. It is estimated that 20–30% of all genes in most genomes encode membrane proteins.
+Compared to other classes of proteins, the determination of membrane protein structures has remained a challenge in large part due to the difficulty in establishing experimental conditions where the correct conformation of the protein in isolation from its native environment is preserved.
+Membrane proteins perform a variety of functions vital to the survival of organisms:
+Membrane receptor proteins relay signals between the cell's internal and external environments.
+Transport proteins move molecules and ions across the membrane. They can be categorized according to the Transporter Classification database.
+Membrane enzymes may have many activities, such as oxidoreductase, transferase or hydrolase.
+Cell adhesion molecules allow cells to identify each other and interact. For example, proteins involved in immune response.
+Integral membrane proteins are permanently attached to the membrane. Such proteins can be separated from the biological membranes only using detergents, nonpolar solvents, or sometimes denaturing agents. They can be classified according to their relationship with the bilayer:
+Integral polytopic proteins, also known as "transmembrane proteins," are integral membrane proteins that span across the membrane at least once. These proteins may have different transmembrane topology. These proteins have one of two structural architectures:
+helix bundle proteins, which are present in all types of biological membranes;
+beta barrel proteins, which are found only in outer membranes of Gram-negative bacteria, lipid-rich cell walls of a few Gram-positive bacteria, and outer membranes of mitochondria and chloroplasts.
+Integral monotopic proteins are integral membrane proteins that are attached to only one side of the membrane and do not span the whole way across.
+Peripheral membrane proteins are temporarily attached either to the lipid bilayer or to integral proteins by a combination of hydrophobic, electrostatic, and other non-covalent interactions. Peripheral proteins dissociate following treatment with a polar reagent, such as a solution with an elevated pH or high salt concentrations.
+Integral and peripheral proteins may be post-translationally modified, with added fatty acid or prenyl chains, or GPI (glycosylphosphatidylinositol), which may be anchored in the lipid bilayer.
+Polypeptide toxins and many antibacterial peptides, such as colicins or hemolysins, and certain proteins involved in apoptosis, are sometimes considered a separate category. These proteins are water-soluble but can aggregate and associate irreversibly with the lipid bilayer and become reversibly or irreversibly membrane-associated.
+A large fraction of all proteins are thought to be membrane proteins. For instance, about 1000 of the ~4200 proteins of E. coli are thought to be membrane proteins. The membrane localization has been confirmed for more than 600 of them experimentally. The localization of proteins in membranes can be predicted very reliably using hydrophobicity analyses of protein sequences, i.e. the localization of hydrophobic amino acid sequences.
+Integral membrane proteins
+Transmembrane proteins
+Peripheral membrane proteins
+Annular lipid shell
+Ion pump (biology)
+Carrier protein
+Ion channel
+Receptor (biochemistry)
+List of MeSH codes (D12.776)
+Inner nuclear membrane proteins

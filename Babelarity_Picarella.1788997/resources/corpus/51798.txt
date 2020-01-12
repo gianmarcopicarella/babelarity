@@ -1,0 +1,53 @@
+The builder pattern is an object creation software design pattern. Unlike the abstract factory pattern and the factory method pattern whose intention is to enable polymorphism, the intention of the builder pattern is to find a solution to the telescoping constructor anti-pattern. The telescoping constructor anti-pattern occurs when the increase of object constructor parameter combination leads to an exponential list of constructors. Instead of using numerous constructors, the builder pattern uses another object, a builder, that receives each initialization parameter step by step and then returns the resulting constructed object at once.
+The builder pattern has another benefit. It can be used for objects that contain flat data (html code, SQL query, X.509 certificate...), that is to say, data that can't be easily edited. This type of data cannot be edited step by step and must be edited at once. The best way to construct such an object is to use a builder class.
+Builder often builds a Composite. Often, designs start out using Factory Method (less complicated, more customizable, subclasses proliferate) and evolve toward Abstract Factory, Prototype, or Builder (more flexible, more complex) as the designer discovers where more flexibility is needed. Sometimes creational patterns are complementary: Builder can use one of the other patterns to implement which components are built. Builders are good candidates for a fluent interface.
+The intent of the Builder design pattern is to separate the construction of a complex object from its representation. By doing so the same construction process can create different representations. 
+Allows you to vary a product’s internal representation.
+Encapsulates code for construction and representation.
+Provides control over steps of construction process.
+Requires creating a separate ConcreteBuilder for each different type of Product.
+Builder
+Abstract interface for creating objects (product).
+ConcreteBuilder
+Provides implementation for Builder. It is an object able to construct other objects. Constructs and assembles parts to build the objects.
+We have a Car class. The problem is that a car has many options. The combination of each option would lead to a huge list of constructors for this class. So we will create a builder class, CarBuilder. We will send to the CarBuilder each car option step by step and then construct the final car with the right options:
+class Car is
+  Can have GPS, trip computer and various numbers of seats.
+  Can be a city car, a sports car, or a cabriolet.
+class CarBuilder is
+  method getResult() is
+      output:  a Car with the right options
+    Construct and return the car.
+  method setSeats(number) is
+      input:  the number of seats the car may have.
+    Tell the builder the number of seats.
+  method setCityCar() is
+    Make the builder remember that the car is a city car.
+  method setCabriolet() is
+    Make the builder remember that the car is a cabriolet.
+  method setSportsCar() is
+    Make the builder remember that the car is a sports car.
+  method setTripComputer() is
+    Make the builder remember that the car has a trip computer.
+  method unsetTripComputer() is
+    Make the builder remember that the car does not have a trip computer.
+  method setGPS() is
+    Make the builder remember that the car has a global positioning system.
+  method unsetGPS() is
+    Make the builder remember that the car does not have a global positioning system.
+Construct a CarBuilder called carBuilder
+carBuilder.setSeats(2)
+carBuilder.setSportsCar()
+carBuilder.setTripComputer()
+carBuilder.unsetGPS()
+car := carBuilder.getResult()
+Of course one could dispense with Builder and just do this:
+car = new Car();
+car.seats = 2;
+car.type = CarType.SportsCar;
+car.setTripComputer();
+car.unsetGPS();
+car.isValid();
+So this indicates that the Builder pattern is more than just a means to limit constructor proliferation. It removes what could be a complex building process from being the responsibility of the user of the object that is built. It also allows for inserting new implementations of how an object is built without disturbing the client code.
+The Director assembles a car instance in the example above, delegating the construction to a separate builder object.
+Currying

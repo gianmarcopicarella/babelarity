@@ -1,0 +1,38 @@
+South Picene is an extinct Italic language, belonging to the Sabellic subfamily. It is considered by SIL International to belong to the Osco-Umbrian Group although in the long history of its attempted classification it has been placed at a higher level, parallel to Oscan and Umbrian within Sabellic, or even higher, parallel to Sabellic within Italic. It is apparently unrelated to the as yet undeciphered North Picene language. South Picene texts were at first relatively inscrutable even though some words were clearly Indo-European. The discovery in 1983 that two of the apparently redundant punctuation marks were in reality simplified letters led to an incremental improvement in their understanding and a first translation in 1985. Difficulties remain.
+The corpus of South Picene inscriptions consists of 23 inscriptions on stone or bronze dating from as early as the 6th century BC to as late as the 4th century BC. The dating is estimated according to the features of the letters and in some cases the archaeological context. As the history of the Picentes does not begin until their subjugation by Rome in the 3rd century, the inscriptions open an earlier window onto their culture as far back as the late Roman Kingdom. Most are stelai or cippi of sandstone or limestone in whole or fragmentary condition sculpted for funerary contexts, but some are monumental statues.
+On a typical gravestone is the representation of the face or figure of the deceased with the inscription in a spiral around it or under it reading in a clockwise direction, or boustrophedon, or vertically. Stones have been found at Ascoli Piceno, Chieti, Teramo, Fano, Loro Piceno, Cures, the Abruzzi between the Tronto and the Aterno-Pescara, and Casteldieri and Crecchio south of the Aterno-Pescara. To them are added inscriptions on a bronze bracelet in central Abruzzi and two 4th-century BC helmets from Bologna in the Po Valley and Bari on the southeast coast.
+A complete inventory is as follows:
+the Cippus of Castignano (6th-century BC sandstone pyramid)
+three stelai of Penna Sant'Andrea at Teramo (a whole and two fragmentary limestone obelisks of the 1st half of the 5th century BC)
+the cover of the Campovalano pyxis (7th to 6th centuries BC)
+spiral bracelet of Chietino in Valle del Pescara (5th century BC)
+the Cippus of Cures (limestone)
+the Stele of Loro Piceno (sandstone)
+the Stele of Mogliano (sandstone)
+the Stele of Acquaviva
+the Stele of Belmonte (jointed sandstone)
+the Cippus of Falerone
+the Stele of Servigliano (sandstone)
+a fragment of inscribed sandstone at Belmonte
+the Cippus of Sant'Omero (sandstone)
+two stelai of Bellante (sandstone)
+the Stele of Crecchio (sandstone)
+two cippi of Casteldieri (limestone, whole and fragmentary)
+the Statue of Capestrano (limestone, life-size representation of king Nevio Pompuledio, 2nd half of the 7th, 1st half of the 6th centuries BC)
+the Helmet of Bologna (bronze)
+the Helmet of Apulia
+The south Picene alphabet, known from the 6th century BC, is most like the southern Etruscan alphabet in that it uses q for /k/ and k for /g/. It is:
+〈a b g d e v h i í k l m n o p q r s t u ú f *〉
+〈.〉 is a reduced 〈o〉 and 〈:〉 is a reduced 〈8〉, used for /f/.
+For consonants South Picene had:
+In cases where there is a choice of grapheme the context determines which one applies. For the glides, 〈v〉 and 〈u〉 were used for word-initial /w/ and 〈ú〉 for intervocalic /w/ or in other special contexts. The list above omits special contexts.
+Inscription Sp TE 2 on a gravestone from Bellante was studied by a linguist of Indo-European studies, Calvert Watkins, as an example of the earliest Italic poetry and as possibly a reflex of a Proto-Indo-European poetic form. In the inscription given below colons are used to separate words; in the original inscription, three vertical dots are used ("the triple interpunct").
+postin : viam : videtas : tetis : tokam : alies : esmen : vepses : vepeten
+"Along the road you see the 'toga' of Titus Alius? buried? in this tomb."
+The translation of the questioned items is unclear. For toga Fortson suggests "covering."
+Note the alliteration: viam and videtas; tetis and tokam; alies and esmen; vepses and vepeten. The possibility of this and the other inscriptions being stanzas of verse (strophes) was considered from the time of their discovery. Watkins called them "the South Picene strophe," which he defines as three lines of seven syllables each, comparing them to a strophe of the Rig Veda containing three lines of eight syllables each. Moreover, each line ends "in a trisyllable." The lines of this inscription are:
+postin viam videtas
+tetis tokam alies
+esmen vepses vepeten
+The first line would be syllabified and read:
+po-stin vi-am vi-de-tas

@@ -1,0 +1,445 @@
+In measure theory, Lebesgue's dominated convergence theorem provides sufficient conditions under which almost everywhere convergence of a sequence of functions implies convergence in the L1 norm. Its power and utility are two of the primary theoretical advantages of Lebesgue integration over Riemann integration.
+It is widely used in probability theory, since it gives a sufficient condition for the convergence of expected values of random variables.
+Lebesgue's Dominated Convergence Theorem. Let {fn} be a sequence of real-valued measurable functions on a measure space (S, Σ, μ). Suppose that the sequence converges pointwise to a function f and is dominated by some integrable function g in the sense that
+          |
+          f
+            n
+        (
+        x
+        )
+          |
+        ≤
+        g
+        (
+        x
+        )
+    {\displaystyle |f_{n}(x)|\leq g(x)}
+for all numbers n in the index set of the sequence and all points x ∈ S. Then f is integrable and
+          lim
+            n
+            →
+            ∞
+          ∫
+            S
+          |
+          f
+            n
+        −
+        f
+          |
+        d
+        μ
+        =
+        0
+    {\displaystyle \lim _{n\to \infty }\int _{S}|f_{n}-f|\,d\mu =0}
+which also implies
+          lim
+            n
+            →
+            ∞
+          ∫
+            S
+          f
+            n
+        d
+        μ
+        =
+          ∫
+            S
+        f
+        d
+        μ
+    {\displaystyle \lim _{n\to \infty }\int _{S}f_{n}\,d\mu =\int _{S}f\,d\mu }
+Remark 1. The statement "g is integrable" is meant in the sense of Lebesgue; that is
+          ∫
+            S
+          |
+        g
+          |
+        d
+        μ
+        <
+        ∞
+        .
+    {\displaystyle \int _{S}|g|\,d\mu <\infty .}
+Remark 2. The convergence of the sequence and domination by g can be relaxed to hold only μ-almost everywhere provided the measure space (S, Σ, μ) is complete or f is chosen as a measurable function which agrees μ-almost everywhere with the μ-almost everywhere existing pointwise limit. (These precautions are necessary, because otherwise there might exist a non-measurable subset of a μ-null set N ∈ Σ, hence f might not be measurable.)
+Remark 3. If μ(S) < ∞, the condition that there is a dominating integrable function g can be relaxed to uniform integrability of the sequence {fn}, see Vitali convergence theorem.
+Lebesgue's dominated convergence theorem is a special case of the Fatou–Lebesgue theorem. Below, however, is a direct proof that uses Fatou’s lemma as the essential tool.
+Since f is the pointwise limit of the sequence (fn) of measurable functions that are dominated by g, it is also measurable and dominated by g, hence it is integrable. Furthermore (these will be needed later),
+          |
+        f
+        −
+          f
+            n
+          |
+        ≤
+          |
+        f
+          |
+        +
+          |
+          f
+            n
+          |
+        ≤
+        2
+        g
+    {\displaystyle |f-f_{n}|\leq |f|+|f_{n}|\leq 2g}
+for all n and
+          lim sup
+            n
+            →
+            ∞
+          |
+        f
+        −
+          f
+            n
+          |
+        =
+        0.
+    {\displaystyle \limsup _{n\to \infty }|f-f_{n}|=0.}
+The second of these is trivially true (by the very definition of f). Using linearity and monotonicity of the Lebesgue integral,
+          |
+            ∫
+              S
+            f
+            d
+            μ
+          −
+            ∫
+              S
+              f
+                n
+            d
+            μ
+          |
+        =
+          |
+            ∫
+              S
+            (
+            f
+            −
+              f
+                n
+            )
+            d
+            μ
+          |
+        ≤
+          ∫
+            S
+            |
+          f
+          −
+            f
+              n
+            |
+          d
+          μ
+        .
+    {\displaystyle \left|\int _{S}{f\,d\mu }-\int _{S}{f_{n}\,d\mu }\right|=\left|\int _{S}{(f-f_{n})\,d\mu }\right|\leq \int _{S}{|f-f_{n}|\,d\mu }.}
+By the reverse Fatou lemma (it is here that we use the fact that |f−fn| is bounded above by an integrable function)
+          lim sup
+            n
+            →
+            ∞
+          ∫
+            S
+          |
+        f
+        −
+          f
+            n
+          |
+        d
+        μ
+        ≤
+          ∫
+            S
+          lim sup
+            n
+            →
+            ∞
+          |
+        f
+        −
+          f
+            n
+          |
+        d
+        μ
+        =
+        0
+        ,
+    {\displaystyle \limsup _{n\to \infty }\int _{S}|f-f_{n}|\,d\mu \leq \int _{S}\limsup _{n\to \infty }|f-f_{n}|\,d\mu =0,}
+which implies that the limit exists and vanishes i.e.
+          lim
+            n
+            →
+            ∞
+          ∫
+            S
+          |
+        f
+        −
+          f
+            n
+          |
+        d
+        μ
+        =
+        0.
+    {\displaystyle \lim _{n\to \infty }\int _{S}|f-f_{n}|\,d\mu =0.}
+The theorem now follows.
+If the assumptions hold only μ-almost everywhere, then there exists a μ-null set N ∈ Σ such that the functions fn 1N satisfy the assumptions everywhere on S. Then f(x) is the pointwise limit of fn(x) for x ∈ S \ N and f(x) = 0 for x ∈ N, hence f is measurable. The values of the integrals are not influenced by this μ-null set N.
+DCT holds even if fn converges to f in measure (finite measure) and the dominating function is non-negative almost everywhere.
+The assumption that the sequence is dominated by some integrable g cannot be dispensed with. This may be seen as follows: define fn(x) = n for x in the interval (0, 1/n] and fn(x) = 0 otherwise. Any g which dominates the sequence must also dominate the pointwise supremum h = supn fn. Observe that
+          ∫
+            0
+            1
+        h
+        (
+        x
+        )
+        d
+        x
+        ≥
+          ∫
+              1
+              m
+            1
+          h
+          (
+          x
+          )
+          d
+          x
+        =
+          ∑
+            n
+            =
+            1
+            m
+            −
+            1
+          ∫
+              (
+                  1
+                    n
+                    +
+                    1
+              ,
+                  1
+                  n
+              ]
+          h
+          (
+          x
+          )
+          d
+          x
+        ≥
+          ∑
+            n
+            =
+            1
+            m
+            −
+            1
+          ∫
+              (
+                  1
+                    n
+                    +
+                    1
+              ,
+                  1
+                  n
+              ]
+          n
+          d
+          x
+        =
+          ∑
+            n
+            =
+            1
+            m
+            −
+            1
+            1
+              n
+              +
+              1
+        →
+        ∞
+          as 
+        m
+        →
+        ∞
+    {\displaystyle \int _{0}^{1}h(x)\,dx\geq \int _{\frac {1}{m}}^{1}{h(x)\,dx}=\sum _{n=1}^{m-1}\int _{\left({\frac {1}{n+1}},{\frac {1}{n}}\right]}{h(x)\,dx}\geq \sum _{n=1}^{m-1}\int _{\left({\frac {1}{n+1}},{\frac {1}{n}}\right]}{n\,dx}=\sum _{n=1}^{m-1}{\frac {1}{n+1}}\to \infty \qquad {\text{as }}m\to \infty }
+by the divergence of the harmonic series. Hence, the monotonicity of the Lebesgue integral tells us that there exists no integrable function which dominates the sequence on [0,1]. A direct calculation shows that integration and pointwise limit do not commute for this sequence:
+          ∫
+            0
+            1
+          lim
+            n
+            →
+            ∞
+          f
+            n
+        (
+        x
+        )
+        d
+        x
+        =
+        0
+        ≠
+        1
+        =
+          lim
+            n
+            →
+            ∞
+          ∫
+            0
+            1
+          f
+            n
+        (
+        x
+        )
+        d
+        x
+        ,
+    {\displaystyle \int _{0}^{1}\lim _{n\to \infty }f_{n}(x)\,dx=0\neq 1=\lim _{n\to \infty }\int _{0}^{1}f_{n}(x)\,dx,}
+because the pointwise limit of the sequence is the zero function. Note that the sequence {fn} is not even uniformly integrable, hence also the Vitali convergence theorem is not applicable.
+One corollary to the dominated convergence theorem is the bounded convergence theorem, which states that if {fn} is a sequence of uniformly bounded real-valued measurable functions which converges pointwise on a bounded measure space (S, Σ, μ) (i.e. one in which μ(S) is finite) to a function f, then the limit f is an integrable function and
+          lim
+            n
+            →
+            ∞
+          ∫
+            S
+            f
+              n
+          d
+          μ
+        =
+          ∫
+            S
+          f
+          d
+          μ
+        .
+    {\displaystyle \lim _{n\to \infty }\int _{S}{f_{n}\,d\mu }=\int _{S}{f\,d\mu }.}
+Remark: The pointwise convergence and uniform boundedness of the sequence can be relaxed to hold only μ-almost everywhere, provided the measure space (S, Σ, μ) is complete or f is chosen as a measurable function which agrees μ-almost everywhere with the μ-almost everywhere existing pointwise limit.
+Since the sequence is uniformly bounded, there is a real number M such that |fn(x)| ≤ M for all x ∈ S and for all n. Define g(x) = M for all x ∈ S. Then the sequence is dominated by g. Furthermore, g is integrable since it is a constant function on a set of finite measure. Therefore the result follows from the dominated convergence theorem.
+If the assumptions hold only μ-almost everywhere, then there exists a μ-null set N ∈ Σ such that the functions fn1N satisfy the assumptions everywhere on S.
+Let 
+        (
+        Ω
+        ,
+            A
+        ,
+        μ
+        )
+    {\displaystyle (\Omega ,{\mathcal {A}},\mu )}
+   be a measure space, 1 ≤ p < ∞ a real number and {fn} a sequence of 
+            A
+    {\displaystyle {\mathcal {A}}}
+  -measurable functions 
+          f
+            n
+        :
+        Ω
+        →
+          R
+        ∪
+        {
+        ∞
+        }
+    {\displaystyle f_{n}:\Omega \to \mathbb {R} \cup \{\infty \}}
+  .
+Assume the sequence {fn} converges μ-almost everywhere to an 
+            A
+    {\displaystyle {\mathcal {A}}}
+  -measurable function f, and is dominated by a 
+        g
+        ∈
+          L
+            p
+    {\displaystyle g\in L^{p}}
+  , i.e., for every natural number n we have: |fn| ≤ g, μ-almost everywhere.
+Then all fn as well as f are in 
+          L
+            p
+    {\displaystyle L^{p}}
+   and the sequence {fn} converges to f in the sense of 
+          L
+            p
+    {\displaystyle L^{p}}
+  , i.e.:
+          lim
+            n
+            →
+            ∞
+        ∥
+          f
+            n
+        −
+        f
+          ∥
+            p
+        =
+          lim
+            n
+            →
+            ∞
+            (
+              ∫
+                Ω
+              |
+              f
+                n
+            −
+            f
+                |
+                p
+            d
+            μ
+            )
+              1
+              p
+        =
+        0.
+    {\displaystyle \lim _{n\to \infty }\|f_{n}-f\|_{p}=\lim _{n\to \infty }\left(\int _{\Omega }|f_{n}-f|^{p}\,d\mu \right)^{\frac {1}{p}}=0.}
+Idea of the proof: Apply the original theorem to the function sequence 
+          h
+            n
+        =
+          |
+          f
+            n
+        −
+        f
+            |
+            p
+    {\displaystyle h_{n}=|f_{n}-f|^{p}}
+   with the dominating function 
+        (
+        2
+        g
+          )
+            p
+    {\displaystyle (2g)^{p}}
+  .
+The dominated convergence theorem applies also to measurable functions with values in a Banach space, with the dominating function still being non-negative and integrable as above. The assumption of convergence almost everywhere can be weakened to require only convergence in measure.
+Convergence of random variables, Convergence in mean
+Monotone convergence theorem (does not require domination by an integrable function but assumes monotonicity of the sequence instead)
+Scheffé’s lemma
+Uniform integrability
+Vitali convergence theorem (a generalization of Lebesgue's dominated convergence theorem)

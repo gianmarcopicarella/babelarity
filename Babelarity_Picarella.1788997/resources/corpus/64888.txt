@@ -1,0 +1,14 @@
+The Rolf Nevanlinna Prize (named in honor of Rolf Nevanlinna) is awarded once every 4 years at the International Congress of Mathematicians, for outstanding contributions in Mathematical Aspects of Information Sciences including:
+All mathematical aspects of computer science, including computational complexity theory, logic of programming languages, analysis of algorithms, cryptography, computer vision, pattern recognition, information processing and modelling of intelligence.
+Scientific computing and numerical analysis. Computational aspects of optimization and control theory. Computer algebra.
+The prize was established in 1981 by the Executive Committee of the International Mathematical Union IMU and named to honour the Finnish mathematician Rolf Nevanlinna who had died a year earlier. The award consists of a gold medal and cash prize. Like the Fields Medal the prize is targeted at younger mathematicians, and only those younger than 40 on January 1 of the award year are eligible.
+The medal features a profile of Nevanlinna, the text "Rolf Nevanlinna Prize", and very small characters "RH 83" on its obverse. RH refers to Raimo Heino, the medal's designer, and 83 to the year of first minting. On the reverse, two figures related to the University of Helsinki, the prize sponsor, are engraved. The rim bears the name of the prizewinner.
+Turing Award
+Gödel Prize
+Abel Prize
+Fields Medal
+Gauss Prize
+Chern Medal
+Schock Prize
+Wolf Prize
+List of prizes

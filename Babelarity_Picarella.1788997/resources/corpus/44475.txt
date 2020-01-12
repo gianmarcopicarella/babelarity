@@ -1,0 +1,25 @@
+An arpeggio (Italian: [arˈpeddʒo]) is a musical technique where notes in a chord are played or sung in sequence, one after the other, rather than ringing out simultaneously. This word comes from the Italian word "arpeggiare", which means "to play on a harp". An alternative translation of this term is "broken chord".
+Arpeggios allow monophonic instruments to play chords and harmony and help create rhythmic interest.
+An arpeggio is a group of notes which are played one after the other, added either going up or going down. Executing an arpeggio requires the player to play the sounds of a chord individually to differentiate the notes. The notes all belong to one chord. The chord may, for example, be a simple chord with the 1st, (major or minor) 3rd, and 5th notes of the scale in it (this is called a "tonic triad"). An arpeggio in the key of C major going up two octaves would be the notes (C, E, G, C, E, G, C)
+An arpeggio is a type of broken chord. Other types of broken chords play chord notes out of sequence or more than one note but less than the full chord simultaneously. Arpeggios can rise or fall for more than one octave.
+Students of musical instruments learn how to play scales and arpeggios. They are often a requirement for music examinations.
+An "arpeggiated chord" means a chord which is "spread", i. e., the notes are not played at the same time, but are spread out. Arpeggiated chords are often used in harp and piano music. An arpeggiated chord may be written with a wavy vertical line in front of the chord. It is spread from the lowest to the highest note. Occasionally, composers such as Béla Bartók have asked for them to be played from top to bottom. This is shown by adding an arrow pointing down.
+Any instrument may employ arpeggiation, but the following instruments use arpeggios most often:
+String instruments are used to play arpeggios in classical music. Along with scales, arpeggios are a form of basic technical exercise.
+Bass guitarists often use arpeggios to play out chords.
+Banjo players prevalently use arpeggios, which are especially apparent in the Scruggs style three-finger method of playing.
+Guitarists use arpeggios extensively in certain genres, such as neo-classical, and often while employing the sweep-picking technique.
+Synthesizers, especially monophonic ones such as the TB-303, are often called upon to play arpeggios, especially in electronica. Some synths contain arpeggiators especially for this purpose.
+Keyboards, such as piano and accordions, are used to play arpeggios.
+Arpeggios are an important part of the jazz vocabulary of many instruments, especially horns and keyboards.
+In Western classical music, a chord that is played first with the lowest note and then with successive higher notes joining in is called arpeggiato. Sometimes this effect is reversed, with the highest note coming first. In some modern popular music arpeggiato is called a rolled chord.
+In early video game music, arpeggios were often the only way to play a chord since sound hardware usually had a very limited number of oscillators, or voices. Instead of tying them all up to play one chord, one channel could be used to play an arpeggio, leaving the rest for drums, bass, or sound effects. Examples include the music of games and demos on Commodore 64's SID chip which only had three oscillators, see also Chiptune.
+Bass arpeggiation
+Bell chord
+Non-harmonic arpeggio
+Ostinato
+Tremolo
+Wayne, Chuck; Patt, Ralph (1965). Guitar arpeggio dictionary: A library of over 2000 arpeggios, Including a diagram projector and viewing screen, Showing 25 types of arpeggios. H. Adler. pp. 1–51. 
+Arpeggios (July 15, 2009)
+iBreathemusic.com – Arpeggios by David Bohorquez (July 15, 2009)
+Introduction to Jazz Guitar Arpeggios

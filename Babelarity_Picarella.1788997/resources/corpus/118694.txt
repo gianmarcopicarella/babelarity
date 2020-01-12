@@ -1,0 +1,115 @@
+Gravitational energy is potential energy associated with the gravitational field. This phrase is found frequently in scientific writings about quasars (quasi-stellar objects) and other active galaxies. Quasars generate and emit their energy from a very small region. The emission of large amounts of power from a small region requires a power source far more efficient than the nuclear fusion that powers stars. The release of gravitational energy by matter falling towards a massive black hole is the only process known that can produce such high power continuously. Stellar explosions – supernovas and gamma-ray bursts can do so, but only for a few weeks.
+According to classical mechanics, between two or more masses (or other forms of energy–momentum) a gravitational potential energy exists. Conservation of energy requires that this gravitational field energy is always negative.
+Particularly, between any two point masses 
+        m
+    {\displaystyle m}
+   and 
+        M
+    {\displaystyle M}
+   (this works for the spherical bodies also due to the shell theorem), there always exists a gravitational force of 
+        F
+        =
+        G
+        m
+        M
+          /
+          r
+            2
+    {\displaystyle F=GmM/r^{2}}
+   where r is the distance between their centers. Increasing the distance from 
+        r
+        =
+          r
+            0
+    {\displaystyle r=r_{0}}
+   to 
+        r
+        =
+          r
+            1
+    {\displaystyle r=r_{1}}
+   reduces the force, but, since forces in Newton mechanics indicate how much potential energy is lost over space, 
+        F
+        =
+        −
+              d
+              U
+              d
+              x
+    {\displaystyle F=-{dU \over dx}}
+  , this separation requires 
+          ∫
+              r
+                0
+              r
+                1
+              m
+              M
+              G
+              r
+                2
+        d
+        r
+        =
+                  m
+                  M
+                  G
+                r
+            |
+              r
+                1
+              r
+                0
+        =
+              m
+              M
+              G
+              r
+                0
+        −
+              m
+              M
+              G
+              r
+                1
+        =
+        E
+    {\displaystyle \int _{r_{0}}^{r_{1}}{mMG \over r^{2}}dr=\left.{mMG \over r}\right\vert _{r_{1}}^{r_{0}}={mMG \over r_{0}}-{mMG \over r_{1}}=E}
+   of energy. Performing positive work equal to E units of energy, we can recede objects from r0 to r1 special units apart. By performing positive work equal to 
+        E
+        =
+          m
+          M
+          G
+            /
+            r
+              0
+    {\displaystyle E={mMG/r_{0}}}
+   , the second term vanishes and objects are infinitely separated (
+          r
+            1
+        =
+        ∞
+    {\displaystyle r_{1}=\infty }
+  ). Because gravitational force stops pulling objects together at that distance, 
+        E
+        =
+          m
+          M
+          G
+            /
+            r
+              0
+    {\displaystyle E={mMG/r_{0}}}
+   is known as gravitational binding energy, which is infinite at 
+          r
+            0
+        =
+        0
+    {\displaystyle r_{0}=0}
+   since the gravitational force is infinite there.
+In general relativity gravitational energy is extremely complex, and there is no single agreed upon definition of the concept. It is sometimes modeled via the Landau–Lifshitz pseudotensor which allows for the energy-momentum conservation laws of classical mechanics to be retained. Addition of the matter stress–energy–momentum tensor to the Landau–Lifshitz pseudotensor results in a combined matter plus gravitational energy pseudotensor which has a vanishing 4-divergence in all frames; the vanishing divergence ensures the conservation law. Some people object to this derivation on the grounds that pseudotensors are inappropriate in general relativity, but the divergence of the combined matter plus gravitational energy pseudotensor is a tensor.
+Gravitational binding energy
+Gravitational potential
+Standard gravitational parameter
+Gravitational wave

@@ -1,0 +1,13 @@
+In linguistics, word formation is the creation of a new word. Word formation is sometimes contrasted with semantic change, which is a change in a single word's meaning. The boundary between word formation and semantic change can be difficult to define: a new use of an old word can be seen as a new word derived from an old one and identical to it in form. See Conversion (word formation).
+Word formation can also be contrasted with the formation of idiomatic expressions, although words can be formed from multi-word phrases. See Compound (linguistics) and Incorporation (linguistics).
+There is a number of methods of word formation.
+A blend is a word formed by joining parts of two or more older words. An example is smog, which comes from smoke and fog, or brunch, which comes from 'breakfast' and 'lunch'.
+One subcategory of blending is the reduction of a word to one of its parts, e.g., fax (facsimile), flu (influenza) and bot (robot). Such clipped words may not retain their original meaning. For example, "playing a video game against a bot" is not the same as "playing a video game against a robot".
+A calque is a word or phrase borrowed from another language by literal, word-for-word or root-for-root translation. For example, the English phrase to lose face is a calque from the Chinese "丟臉/丢脸."
+A subcategory of calques is the semantic loan, that is, the extension of the meaning of a word to include new, foreign meanings.
+A neologism is a new word, such as quark
+Subcategories of neologisms include:
+The eponym, a proper noun that becomes commonly used for an idea it is associated with, usually by changing its part of speech, like Xerox, Orwellian, and Stentorian
+The loanword, a word borrowed from another language, as cliché is from French
+An onomatopoeic word, a word which imitates natural sounds, like the bird name cuckoo
+Formation using phono-semantic matching, that is, matching a foreign word with a phonetically and semantically similar, pre-existing native word or root

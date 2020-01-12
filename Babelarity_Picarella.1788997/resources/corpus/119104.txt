@@ -1,0 +1,397 @@
+The Schwarzschild radius (sometimes historically referred to as the gravitational radius) is the radius of a sphere such that, if all the mass of an object were to be compressed within that sphere, the escape velocity from the surface of the sphere would equal the speed of light. An example of an object where the mass is within its Schwarzschild radius is a black hole. Once a stellar remnant collapses to or below this radius, light cannot escape and the object is no longer directly visible, thereby forming a black hole. It is a characteristic radius associated with every quantity of mass. The Schwarzschild radius was named after the German astronomer Karl Schwarzschild, who calculated this exact solution for the theory of general relativity in 1916.
+In 1916, Karl Schwarzschild obtained the exact solution to Einstein's field equations for the gravitational field outside a non-rotating, spherically symmetric body (see Schwarzschild metric). Using the definition 
+        M
+        =
+              G
+              m
+              c
+                2
+    {\displaystyle M={\frac {Gm}{c^{2}}}}
+  , the solution contained a term of the form 
+            1
+              2
+              M
+              −
+              r
+    {\displaystyle {\frac {1}{2M-r}}}
+  ; where the value of 
+        r
+    {\displaystyle r}
+   making this term singular has come to be known as the Schwarzschild radius. The physical significance of this singularity, and whether this singularity could ever occur in nature, was debated for many decades; a general acceptance of the possibility of a black hole did not occur until the second half of the 20th century.
+The Schwarzschild radius of an object is proportional to the mass. Accordingly, the Sun has a Schwarzschild radius of approximately 3.0 km (1.9 mi), whereas Earth's is only about 9.0 mm. The observable universe's mass has a Schwarzschild radius of approximately 13.7 billion light years.
+The Schwarzschild radius is the limiting maximum radius of a massive object at which the escape velocity reaches its maximum limit (the speed of light, c). If an object is thrown up from the surface of a massive object at velocity v, its kinetic energy slowly transforms into potential energy, and then back as the object falls back to the surface. Escape velocity is the limiting minimum velocity at which the object continues to slow but never stop until it reaches an infinite distance. So, the sum of its positive kinetic energy and negative potential energy is greater than or equal to zero (i.e. KE = PE).
+Therefore, escape velocity can be calculated (from KE = PE) as:
+              m
+                v
+                  2
+            2
+        =
+              G
+              M
+              m
+            r
+        ⇒
+        v
+        =
+            2
+            G
+            M
+              /
+            r
+    {\displaystyle {\frac {mv^{2}}{2}}={\frac {GMm}{r}}\quad \Rightarrow \quad v={\sqrt {2GM/r}}}
+since nothing can escape from black hole KE < PE
+              m
+                c
+                  2
+            2
+        <
+              G
+              M
+              m
+            r
+    {\displaystyle {\frac {mc^{2}}{2}}<{\frac {GMm}{r}}}
+where:
+r is the radius;
+G is the gravitational constant;
+m is the Relativistic Mass of the light;
+M is the mass of the Black Hole;
+c is the speed of light in vacuum.
+Therefore, at maximum escape velocity (speed of light, c), the Schwarzschild radius becomes directly proportional to mass as:
+          r
+              s
+        =
+              2
+              M
+              G
+              c
+                2
+    {\displaystyle r_{\mathrm {s} }={\frac {2MG}{c^{2}}}}
+where:
+rs is the Schwarzschild radius;
+G is the gravitational constant;
+M is the mass of the object;
+c is the speed of light in vacuum.
+The proportionality constant, 2G/c2, is approximately 6973148000000000000♠1.48×10−27 m/kg, or 7000295000000000000♠2.95 km/M☉.
+An object of any density can be large enough to fall within its own Schwarzschild radius,
+          V
+              s
+        ∝
+          ρ
+            −
+            3
+              /
+            2
+        ,
+    {\displaystyle V_{\mathrm {s} }\propto \rho ^{-3/2},}
+where:
+          V
+              s
+        =
+              4
+              π
+            3
+          r
+              s
+            3
+    {\displaystyle V_{\mathrm {s} }\!={\frac {4\pi }{3}}r_{\mathrm {s} }^{3}}
+   is the volume of the object;
+        ρ
+        =
+            m
+              V
+                  s
+    {\displaystyle \rho \!={\frac {m}{V_{\mathrm {s} }}}}
+   is its density.
+Any object whose radius is smaller than its Schwarzschild radius is called a black hole. The surface at the Schwarzschild radius acts as an event horizon in a non-rotating body (a rotating black hole operates slightly differently). Neither light nor particles can escape through this surface from the region inside, hence the name "black hole".
+Black holes can be classified based on their Schwarzschild radius, or equivalently, by their density. As the radius is linearly related to mass, while the enclosed volume corresponds to the third power of the radius, small black holes are therefore much more dense than large ones. The volume enclosed in the event horizon of the most massive black holes has a density lower than main sequence stars.
+A supermassive black hole (SMBH) is the largest type of black hole, though there are few official criteria on how such an object is considered so, on the order of hundreds of thousands to billions of solar masses. (Supermassive black holes up to 21 billion (2.1 × 1010) M☉ have been detected, such as NGC 4889.) Unlike stellar mass black holes, supermassive black holes have comparatively low densities. (Note that a black hole is a spherical region in space that surrounds the singularity at its center; it is not the singularity itself). With that in mind, the average density of a supermassive black hole can be less than the density of water.
+The Schwarzschild radius of a body is proportional to its mass and therefore to its volume, assuming that the body has a constant mass-density. In contrast, the physical radius of the body is proportional to the cube root of its volume. Therefore, as the body accumulates matter at a given fixed density (in this example, 103 kg/m3, the density of water), its Schwarzschild radius will increase more quickly than its physical radius. When a body of this density has grown to around 136 million solar masses (1.36 × 108) M☉, its physical radius would be overtaken by its Schwarzschild radius, and thus it would form a supermassive black hole.
+It is thought that supermassive black holes like these do not form immediately from the singular collapse of a cluster of stars. Instead they may begin life as smaller, stellar-sized black holes and grow larger by the accretion of matter, or even of other black holes.
+The Schwarzschild radius of the supermassive black hole at the Galactic Center would be approximately 13.3 million kilometres.
+Stellar black holes have much greater densities than supermassive black holes. If one accumulates matter at nuclear density (the density of the nucleus of an atom, about 1018 kg/m3; neutron stars also reach this density), such an accumulation would fall within its own Schwarzschild radius at about 3 M☉ and thus would be a stellar black hole.
+A small mass has an extremely small Schwarzschild radius. A mass similar to Mount Everest has a Schwarzschild radius much smaller than a nanometre. Its average density at that size would be so high that no known mechanism could form such extremely compact objects. Such black holes might possibly be formed in an early stage of the evolution of the universe, just after the Big Bang, when densities were extremely high. Therefore, these hypothetical miniature black holes are called primordial black holes.
+Gravitational time dilation near a large, slowly rotating, nearly spherical body, such as the Earth or Sun can be reasonably approximated using the Schwarzschild radius as follows:
+              t
+                r
+            t
+        =
+            1
+            −
+                  r
+                      s
+                r
+    {\displaystyle {\frac {t_{r}}{t}}={\sqrt {1-{\frac {r_{\mathrm {s} }}{r}}}}}
+where:
+tr is the elapsed time for an observer at radial coordinate "r" within the gravitational field;
+t is the elapsed time for an observer distant from the massive object (and therefore outside of the gravitational field);
+r is the radial coordinate of the observer (which is analogous to the classical distance from the center of the object);
+rs is the Schwarzschild radius.
+The results of the Pound–Rebka experiment in 1959 were found to be consistent with predictions made by general relativity. By measuring Earth’s gravitational time dilation, this experiment indirectly measured Earth’s Schwarzschild radius.
+The Newtonian gravitational field near a large, slowly rotating, nearly spherical body can be reasonably approximated using the Schwarzschild radius as follows:
+        m
+        g
+        =
+              G
+              M
+              m
+              r
+                2
+        ⇒
+        g
+          r
+            2
+        =
+        G
+        M
+    {\displaystyle mg={\frac {GMm}{r^{2}}}\quad \Rightarrow \quad gr^{2}=GM}
+and
+          r
+              s
+        =
+              2
+              G
+              M
+              c
+                2
+        ⇒
+          r
+              s
+          c
+            2
+        =
+        2
+        G
+        M
+    {\displaystyle r_{\mathrm {s} }={\frac {2GM}{c^{2}}}\quad \Rightarrow \quad r_{\mathrm {s} }c^{2}=2GM}
+Therefore, on dividing above by below:
+            g
+              r
+                  s
+            (
+                r
+                c
+            )
+            2
+        =
+            1
+            2
+    {\displaystyle {\frac {g}{r_{\mathrm {s} }}}\left({\frac {r}{c}}\right)^{2}={\frac {1}{2}}}
+where:
+g is the gravitational acceleration at radial coordinate r;
+rs is the Schwarzschild radius of the gravitating central body;
+r is the radial coordinate;
+c is the speed of light in vacuum.
+On the surface of the Earth:
+              9.80665
+                m
+                /
+                  s
+                  2
+              8.870056
+                m
+                m
+            (
+                  6375416
+                    m
+                  299792458
+                    m
+                    /
+                    s
+            )
+            2
+        =
+          (
+          1105.59
+              s
+              −
+              2
+          )
+            (
+            0.0212661
+              s
+            )
+            2
+        =
+            1
+            2
+        .
+    {\displaystyle {\frac {9.80665\ \mathrm {m} /\mathrm {s} ^{2}}{8.870056\ \mathrm {mm} }}\left({\frac {6375416\ \mathrm {m} }{299792458\ \mathrm {m} /\mathrm {s} }}\right)^{2}=\left(1105.59\ \mathrm {s} ^{-2}\right)\left(0.0212661\ \mathrm {s} \right)^{2}={\frac {1}{2}}.}
+For all circular orbits around a given central body:
+              m
+                v
+                  2
+            r
+        =
+          Centripetal force
+        =
+          Gravitational force
+        =
+              G
+              M
+              m
+              r
+                2
+    {\displaystyle {\frac {mv^{2}}{r}}={\text{Centripetal force}}={\text{Gravitational force}}={\frac {GMm}{r^{2}}}}
+Therefore,
+        r
+          v
+            2
+        =
+        G
+        M
+        ,
+    {\displaystyle rv^{2}=GM,}
+but
+          r
+              s
+          c
+            2
+        =
+        2
+        G
+        M
+    {\displaystyle r_{\mathrm {s} }c^{2}=2GM}
+   (derived above)
+Therefore,
+            r
+              r
+                  s
+            (
+                v
+                c
+            )
+            2
+        =
+            1
+            2
+    {\displaystyle {\frac {r}{r_{\mathrm {s} }}}\left({\frac {v}{c}}\right)^{2}={\frac {1}{2}}}
+where:
+r is the orbit radius;
+rs is the Schwarzschild radius of the gravitating central body;
+v is the orbital speed;
+c is the speed of light in vacuum.
+This equality can be generalized to elliptic orbits as follows:
+            a
+              r
+                  s
+            (
+                  2
+                  π
+                  a
+                  c
+                  T
+            )
+            2
+        =
+            1
+            2
+    {\displaystyle {\frac {a}{r_{\mathrm {s} }}}\left({\frac {2\pi a}{cT}}\right)^{2}={\frac {1}{2}}}
+where:
+a is the semi-major axis;
+T is the orbital period.
+For the Earth orbiting the Sun:
+              1
+                A
+                U
+              2953.25
+                m
+            (
+                  2
+                  π
+                    A
+                    U
+                  l
+                  i
+                  g
+                  h
+                  t
+                  y
+                  e
+                  a
+                  r
+            )
+            2
+        =
+          (
+          50655379.7
+          )
+          (
+          9.8714403
+          ×
+            10
+              −
+              9
+          )
+        =
+            1
+            2
+        .
+    {\displaystyle {\frac {1\,\mathrm {AU} }{2953.25\,\mathrm {m} }}\left({\frac {2\pi \,\mathrm {AU} }{\mathrm {light\,year} }}\right)^{2}=\left(50655379.7\right)\left(9.8714403\times 10^{-9}\right)={\frac {1}{2}}.}
+The Keplerian equation for circular orbits can be generalized to the relativistic equation for circular orbits by accounting for time dilation in the velocity term:
+            r
+              r
+                s
+            (
+                v
+                c
+                1
+                −
+                      r
+                        s
+                    r
+            )
+            2
+        =
+            1
+            2
+    {\displaystyle {\frac {r}{r_{s}}}\left({\frac {v}{c}}{\sqrt {1-{\frac {r_{s}}{r}}}}\right)^{2}={\frac {1}{2}}}
+            r
+              r
+                s
+            (
+                v
+                c
+            )
+            2
+          (
+          1
+          −
+                r
+                  s
+              r
+          )
+        =
+            1
+            2
+    {\displaystyle {\frac {r}{r_{s}}}\left({\frac {v}{c}}\right)^{2}\left(1-{\frac {r_{s}}{r}}\right)={\frac {1}{2}}}
+            (
+                v
+                c
+            )
+            2
+          (
+              r
+                r
+                  s
+          −
+          1
+          )
+        =
+            1
+            2
+        .
+    {\displaystyle \left({\frac {v}{c}}\right)^{2}\left({\frac {r}{r_{s}}}-1\right)={\frac {1}{2}}.}
+This final equation indicates that an object orbiting at the speed of light would have an orbital radius of 1.5 times the Schwarzschild radius. This is a special orbit known as the photon sphere.
+Black hole, a general survey
+Chandrasekhar limit, a second requirement for black hole formation
+John Michell
+Classification of black holes by type:
+Static or Schwarzschild black hole
+Rotating or Kerr black hole
+Charged black hole or Newman black hole and Kerr-Newman black hole
+A classification of black holes by mass:
+Micro black hole and extra-dimensional black hole
+Primordial black hole, a hypothetical leftover of the Big Bang
+Stellar black hole, which could either be a static black hole or a rotating black hole
+Supermassive black hole, which could also either be a static black hole or a rotating black hole
+Visible universe, if its density is the critical density

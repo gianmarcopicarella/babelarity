@@ -1,0 +1,1097 @@
+In predicate logic, a universal quantification is a type of quantifier, a logical constant which is interpreted as "given any" or "for all". It expresses that a propositional function can be satisfied by every member of a domain of discourse. In other words, it is the predication of a property or relation to every member of the domain. It asserts that a predicate within the scope of a universal quantifier is true of every value of a predicate variable.
+It is usually denoted by the turned A (∀) logical operator symbol, which, when used together with a predicate variable, is called a universal quantifier ("∀x", "∀(x)", or sometimes by "(x)" alone). Universal quantification is distinct from existential quantification ("there exists"), which asserts that the property or relation holds only for at least one member of the domain.
+Quantification in general is covered in the article on quantification (logic). Symbols are encoded U+2200 ∀ FOR ALL (HTML &#8704; ·  &forall; ·  as a mathematical symbol).
+Suppose it is given that
+2·0 = 0 + 0, and 2·1 = 1 + 1, and 2·2 = 2 + 2, etc.
+This would seem to be a logical conjunction because of the repeated use of "and". However, the "etc." cannot be interpreted as a conjunction in formal logic. Instead, the statement must be rephrased:
+For all natural numbers n, 2·n = n + n.
+This is a single statement using universal quantification.
+This statement can be said to be more precise than the original one. While the "etc." informally includes natural numbers, and nothing more, this was not rigorously given. In the universal quantification, on the other hand, the natural numbers are mentioned explicitly.
+This particular example is true, because any natural number could be substituted for n and the statement "2·n = n + n" would be true. In contrast,
+For all natural numbers n, 2·n > 2 + n
+is false, because if n is substituted with, for instance, 1, the statement "2·1 > 2 + 1" is false. It is immaterial that "2·n > 2 + n" is true for most natural numbers n: even the existence of a single counterexample is enough to prove the universal quantification false.
+On the other hand, for all composite numbers n, 2·n > 2 + n is true, because none of the counterexamples are composite numbers. This indicates the importance of the domain of discourse, which specifies which values n can take. In particular, note that if the domain of discourse is restricted to consist only of those objects that satisfy a certain predicate, then for universal quantification this requires a logical conditional. For example,
+For all composite numbers n, 2·n > 2 + n
+is logically equivalent to
+For all natural numbers n, if n is composite, then 2·n > 2 + n.
+Here the "if ... then" construction indicates the logical conditional.
+In symbolic logic, the universal quantifier symbol 
+        ∀
+    {\displaystyle \forall }
+   (an inverted "A" in a sans-serif font, Unicode 0x2200) is used to indicate universal quantification.
+For example, if P(n) is the predicate "2·n > 2 + n" and N is the set of natural numbers, then:
+        ∀
+        n
+        ∈
+          N
+        P
+        (
+        n
+        )
+    {\displaystyle \forall n\!\in \!\mathbb {N} \;P(n)}
+is the (false) statement:
+For all natural numbers n, 2·n > 2 + n.
+Similarly, if Q(n) is the predicate "n is composite", then
+        ∀
+        n
+        ∈
+          N
+            (
+        Q
+        (
+        n
+        )
+        →
+        P
+        (
+        n
+        )
+            )
+    {\displaystyle \forall n\!\in \!\mathbb {N} \;{\bigl (}Q(n)\rightarrow P(n){\bigr )}}
+is the (true) statement:
+For all natural numbers n, if n is composite, then 2·n > 2 + n
+and since "n is composite" implies that n must already be a natural number, we can shorten this statement to the equivalent:
+        ∀
+        n
+            (
+        Q
+        (
+        n
+        )
+        →
+        P
+        (
+        n
+        )
+            )
+    {\displaystyle \forall n\;{\bigl (}Q(n)\rightarrow P(n){\bigr )}}
+For all composite numbers n, 2·n > 2 + n.
+Several variations in the notation for quantification (which apply to all forms) can be found in the Quantification (logic) article. There is a special notation used only for universal quantification, which is given:
+        (
+        n
+          ∈
+          N
+        )
+        P
+        (
+        n
+        )
+    {\displaystyle (n{\in }\mathbb {N} )\,P(n)}
+The parentheses indicate universal quantification by default.
+Note that a quantified propositional function is a statement; thus, like statements, quantified functions can be negated. The notation most mathematicians and logicians utilize to denote negation is: 
+        ¬
+    {\displaystyle \lnot \ }
+  . However, some use the tilde (~).
+For example, if P(x) is the propositional function "x is married", then, for a Universe of Discourse X of all living human beings, the universal quantification
+Given any living person x, that person is married
+is given:
+        ∀
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+    {\displaystyle \forall {x}{\in }\mathbf {X} \,P(x)}
+It can be seen that this is irrevocably false. Truthfully, it is stated that
+It is not the case that, given any living person x, that person is married
+or, symbolically:
+        ¬
+        ∀
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+    {\displaystyle \lnot \ \forall {x}{\in }\mathbf {X} \,P(x)}
+  .
+If the statement is not true for every element of the Universe of Discourse, then, presuming the universe of discourse is non-empty, there must be at least one element for which the statement is false. That is, the negation of 
+        ∀
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+    {\displaystyle \forall {x}{\in }\mathbf {X} \,P(x)}
+   is logically equivalent to "There exists a living person x who is not married", or:
+        ∃
+          x
+          ∈
+          X
+        ¬
+        P
+        (
+        x
+        )
+    {\displaystyle \exists {x}{\in }\mathbf {X} \,\lnot P(x)}
+Generally, then, the negation of a propositional function's universal quantification is an existential quantification of that propositional function's negation; symbolically,
+        ¬
+        ∀
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+        ≡
+        ∃
+          x
+          ∈
+          X
+        ¬
+        P
+        (
+        x
+        )
+    {\displaystyle \lnot \ \forall {x}{\in }\mathbf {X} \,P(x)\equiv \ \exists {x}{\in }\mathbf {X} \,\lnot P(x)}
+It is erroneous to state "all persons are not married" (i.e. "there exists no person who is married") when it is meant that "not all persons are married" (i.e. "there exists a person who is not married"):
+        ¬
+        ∃
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+        ≡
+        ∀
+          x
+          ∈
+          X
+        ¬
+        P
+        (
+        x
+        )
+        ≢
+        ¬
+        ∀
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+        ≡
+        ∃
+          x
+          ∈
+          X
+        ¬
+        P
+        (
+        x
+        )
+    {\displaystyle \lnot \ \exists {x}{\in }\mathbf {X} \,P(x)\equiv \ \forall {x}{\in }\mathbf {X} \,\lnot P(x)\not \equiv \ \lnot \ \forall {x}{\in }\mathbf {X} \,P(x)\equiv \ \exists {x}{\in }\mathbf {X} \,\lnot P(x)}
+The universal (and existential) quantifier moves unchanged across the logical connectives ∧, ∨, →, and ↚, as long as the other operand is not affected; that is:
+        P
+        (
+        x
+        )
+        ∧
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ∧
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\land (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\land Q(y))}
+        P
+        (
+        x
+        )
+        ∨
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ∨
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\lor (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\lor Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+        P
+        (
+        x
+        )
+        →
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        →
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\to (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\to Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+        P
+        (
+        x
+        )
+        ↚
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↚
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\nleftarrow (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\nleftarrow Q(y))}
+        P
+        (
+        x
+        )
+        ∧
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ∧
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\land (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\land Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+        P
+        (
+        x
+        )
+        ∨
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ∨
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\lor (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\lor Q(y))}
+        P
+        (
+        x
+        )
+        →
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        →
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\to (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\to Q(y))}
+        P
+        (
+        x
+        )
+        ↚
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↚
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\nleftarrow (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\nleftarrow Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+Conversely, for the logical connectives ↑, ↓, ↛, and ←, the quantifiers flip:
+        P
+        (
+        x
+        )
+        ↑
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↑
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\uparrow (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\uparrow Q(y))}
+        P
+        (
+        x
+        )
+        ↓
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↓
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\downarrow (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\downarrow Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+        P
+        (
+        x
+        )
+        ↛
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↛
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\nrightarrow (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\nrightarrow Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+        P
+        (
+        x
+        )
+        ←
+        (
+        ∃
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∀
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ←
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\gets (\exists {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \forall {y}{\in }\mathbf {Y} \,(P(x)\gets Q(y))}
+        P
+        (
+        x
+        )
+        ↑
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↑
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\uparrow (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\uparrow Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+        P
+        (
+        x
+        )
+        ↓
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↓
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\downarrow (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\downarrow Q(y))}
+        P
+        (
+        x
+        )
+        ↛
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ↛
+        Q
+        (
+        y
+        )
+        )
+    {\displaystyle P(x)\nrightarrow (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\nrightarrow Q(y))}
+        P
+        (
+        x
+        )
+        ←
+        (
+        ∀
+          y
+          ∈
+          Y
+        Q
+        (
+        y
+        )
+        )
+        ≡
+        ∃
+          y
+          ∈
+          Y
+        (
+        P
+        (
+        x
+        )
+        ←
+        Q
+        (
+        y
+        )
+        )
+        ,
+          p
+          r
+          o
+          v
+          i
+          d
+          e
+          d
+          t
+          h
+          a
+          t
+          Y
+        ≠
+        ∅
+    {\displaystyle P(x)\gets (\forall {y}{\in }\mathbf {Y} \,Q(y))\equiv \ \exists {y}{\in }\mathbf {Y} \,(P(x)\gets Q(y)),~\mathrm {provided~that} ~\mathbf {Y} \neq \emptyset }
+A rule of inference is a rule justifying a logical step from hypothesis to conclusion. There are several rules of inference which utilize the universal quantifier.
+Universal instantiation concludes that, if the propositional function is known to be universally true, then it must be true for any arbitrary element of the Universe of Discourse. Symbolically, this is represented as
+        ∀
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+        →
+        P
+        (
+        c
+        )
+    {\displaystyle \forall {x}{\in }\mathbf {X} \,P(x)\to \ P(c)}
+where c is a completely arbitrary element of the Universe of Discourse.
+Universal generalization concludes the propositional function must be universally true if it is true for any arbitrary element of the Universe of Discourse. Symbolically, for an arbitrary c,
+        P
+        (
+        c
+        )
+        →
+        ∀
+          x
+          ∈
+          X
+        P
+        (
+        x
+        )
+        .
+    {\displaystyle P(c)\to \ \forall {x}{\in }\mathbf {X} \,P(x).}
+The element c must be completely arbitrary; else, the logic does not follow: if c is not arbitrary, and is instead a specific element of the Universe of Discourse, then P(c) only implies an existential quantification of the propositional function.
+By convention, the formula 
+        ∀
+          x
+          ∈
+        ∅
+        P
+        (
+        x
+        )
+    {\displaystyle \forall {x}{\in }\emptyset \,P(x)}
+   is always true, regardless of the formula P(x); see vacuous truth.
+The universal closure of a formula φ is the formula with no free variables obtained by adding a universal quantifier for every free variable in φ. For example, the universal closure of
+        P
+        (
+        y
+        )
+        ∧
+        ∃
+        x
+        Q
+        (
+        x
+        ,
+        z
+        )
+    {\displaystyle P(y)\land \exists xQ(x,z)}
+is
+        ∀
+        y
+        ∀
+        z
+        (
+        P
+        (
+        y
+        )
+        ∧
+        ∃
+        x
+        Q
+        (
+        x
+        ,
+        z
+        )
+        )
+    {\displaystyle \forall y\forall z(P(y)\land \exists xQ(x,z))}
+  .
+In category theory and the theory of elementary topoi, the universal quantifier can be understood as the right adjoint of a functor between power sets, the inverse image functor of a function between sets; likewise, the existential quantifier is the left adjoint.
+For a set 
+        X
+    {\displaystyle X}
+  , let 
+            P
+        X
+    {\displaystyle {\mathcal {P}}X}
+   denote its powerset. For any function 
+        f
+        :
+        X
+        →
+        Y
+    {\displaystyle f:X\to Y}
+   between sets 
+        X
+    {\displaystyle X}
+   and 
+        Y
+    {\displaystyle Y}
+  , there is an inverse image functor 
+          f
+            ∗
+        :
+            P
+        Y
+        →
+            P
+        X
+    {\displaystyle f^{*}:{\mathcal {P}}Y\to {\mathcal {P}}X}
+   between powersets, that takes subsets of the codomain of f back to subsets of its domain. The left adjoint of this functor is the existential quantifier 
+          ∃
+            f
+    {\displaystyle \exists _{f}}
+   and the right adjoint is the universal quantifier 
+          ∀
+            f
+    {\displaystyle \forall _{f}}
+  .
+That is, 
+          ∃
+            f
+        :
+            P
+        X
+        →
+            P
+        Y
+    {\displaystyle \exists _{f}\colon {\mathcal {P}}X\to {\mathcal {P}}Y}
+   is a functor that, for each subset 
+        S
+        ⊂
+        X
+    {\displaystyle S\subset X}
+  , gives the subset 
+          ∃
+            f
+        S
+        ⊂
+        Y
+    {\displaystyle \exists _{f}S\subset Y}
+   given by
+          ∃
+            f
+        S
+        =
+        {
+        y
+        ∈
+        Y
+          |
+           there exists 
+        x
+        ∈
+        S
+        .
+        f
+        (
+        x
+        )
+        =
+        y
+        }
+    {\displaystyle \exists _{f}S=\{y\in Y|{\mbox{ there exists }}x\in S.\ f(x)=y\}}
+  .
+Likewise, the universal quantifier 
+          ∀
+            f
+        :
+            P
+        X
+        →
+            P
+        Y
+    {\displaystyle \forall _{f}\colon {\mathcal {P}}X\to {\mathcal {P}}Y}
+   is given by
+          ∀
+            f
+        S
+        =
+        {
+        y
+        ∈
+        Y
+          |
+           for all 
+        x
+        .
+        f
+        (
+        x
+        )
+        =
+        y
+        ⟹
+        x
+        ∈
+        S
+        }
+    {\displaystyle \forall _{f}S=\{y\in Y|{\mbox{ for all }}x.\ f(x)=y\implies x\in S\}}
+  .
+The more familiar form of the quantifiers as used in first-order logic is obtained by taking the function f to be the projection operator 
+        π
+        :
+        X
+        ×
+        {
+        T
+        ,
+        F
+        }
+        →
+        {
+        T
+        ,
+        F
+        }
+    {\displaystyle \pi :X\times \{T,F\}\to \{T,F\}}
+   where 
+        {
+        T
+        ,
+        F
+        }
+    {\displaystyle \{T,F\}}
+   is the two-element set holding the values true, false, and subsets S to be predicates 
+        S
+        ⊂
+        X
+        ×
+        {
+        T
+        ,
+        F
+        }
+    {\displaystyle S\subset X\times \{T,F\}}
+  , so that
+          ∃
+            π
+        S
+        =
+        {
+        y
+          |
+        ∃
+        x
+        S
+        (
+        x
+        ,
+        y
+        )
+        }
+    {\displaystyle \exists _{\pi }S=\{y\,|\,\exists x\,S(x,y)\}}
+which is either a one-element set (false) or a two-element set (true).
+The universal and existential quantifiers given above generalize to the presheaf category.
+Existential quantification
+First-order logic
+List of logic symbols—for the Unicode symbol ∀

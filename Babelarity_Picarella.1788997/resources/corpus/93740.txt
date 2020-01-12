@@ -1,0 +1,74 @@
+The Sarcopterygii /ˌsɑːrkɒptəˈrɪdʒi.aɪ/ or lobe-finned fish (from Greek σαρξ sarx, flesh, and πτερυξ pteryx, fin) – sometimes considered synonymous with Crossopterygii ("fringe-finned fish", from Greek κροσσός krossos, fringe) – constitute a clade (traditionally a class or subclass) of the bony fish, though a strict cladistic view includes the terrestrial vertebrates. The living sarcopterygians are the coelacanths and lungfish; additionally, all tetrapods are sarcopterygians or descendants of them.
+Early lobe-finned fishes are bony fish with fleshy, lobed, paired fins, which are joined to the body by a single bone. The fins of lobe-finned fishes differ from those of all other fish in that each is borne on a fleshy, lobelike, scaly stalk extending from the body. The scales of sarcopterygians are true scaloids, consisting of lamellar bone surrounded by layers of vascular bone, dentine-like cosmine, and external keratin. Pectoral and pelvic fins have articulations resembling those of tetrapod limbs. These fins evolved into the legs of the first tetrapod land vertebrates, amphibians. They also possess two dorsal fins with separate bases, as opposed to the single dorsal fin of actinopterygians (ray-finned fish). The braincase of sarcopterygians primitively has a hinge line, but this is lost in tetrapods and lungfish. Many early sarcopterygians have a symmetrical tail. All sarcopterygians possess teeth covered with true enamel.
+Most species of lobe-finned fishes are extinct. The largest known lobe-finned fish was Rhizodus hibberti from the Carboniferous period of Scotland which may have exceeded 7 meters in length. Among the two groups of extant (living) species, the coelacanths and the lungfishes, the largest species is the West Indian Ocean coelacanth, reaching 2 m (6.5 ft) in length and weighing up 110 kg (240 lb). The largest lungfish is the African lungfish which can reach 2 m (6.6 ft) in length and weigh up to 50 kg (110 lb).
+Taxonomists who subscribe to the cladistic approach include the grouping Tetrapoda within this group, which in turn consists of all species of four-limbed vertebrates. The fin-limbs of lobe-finned fishes such as the coelacanths show a strong similarity to the expected ancestral form of tetrapod limbs. The lobe-finned fishes apparently followed two different lines of development and are accordingly separated into two subclasses, the Rhipidistia (including the Dipnoi, the lungfish, and the Tetrapodomorpha which include the Tetrapoda) and the Actinistia (coelacanths).
+The classification below follows Benton 2004, and uses a synthesis of rank-based Linnaean taxonomy and also reflects evolutionary relationships. Benton included the Superclass Tetrapoda in the Subclass Sarcopterygii in order to reflect the direct descent of tetrapods from lobe-finned fish, despite the former being assigned a higher taxonomic rank.
+Subclass Sarcopterygii
+†Order Onychodontida
+Order Actinistia
+Infraclass Dipnomorpha
+†Order Porolepiformes
+Subclass Dipnoi
+Order Ceratodontiformes
+Order Lepidosireniformes
+Infraclass Tetrapodomorpha
+†Order Rhizodontida
+Superorder Osteolepidida
+†Order Osteolepiformes
+†Family Tristichopteridae
+†Order Panderichthyida
+Superclass Tetrapoda
+The cladogram presented below is based on studies compiled by Philippe Janvier and others for the Tree of Life Web Project, Mikko's Phylogeny Archive  and Swartz 2012.
+Sarcopterygii incertae sedis
+†Guiyu oneiros Zhu et al. 2009
+†Diabolepis speratus (Chang & Yu 1984)
+†Langdenia campylognatha Janvier & Phuong 1999
+†Ligulalepis Schultze 1968
+†Meemannia eos Zhu, Yu, Wang, Zhao & Jia 2006
+†Psarolepis romeri Yu 1998 sensu Zhu, Yu, Wang, Zhao & Jia 2006
+Paraphyletic Osteolepida incertae sedis [taxa not treated by Ahlberg & Johanson, 1998]:
+†Bogdanovia orientalis Obrucheva 1955 [has been treated as Coelacanthinimorph sarcopterygian]
+†Canningius groenlandicus Säve-Söderbergh 1937
+†Chrysolepis [non Chrysolepis (chinquapins), a genus of fabaceaen plants (Fabaceae)]
+†Geiserolepis
+†Latvius
+†L. grewingki (Gross 1933)
+†L. porosus Jarvik 1948
+†L. obrutus Vorobyeva 1977
+†Lohsania utahensis Vaughn 1962
+†Megadonichthys kurikae Vorobyeva 1962
+†Platyethmoidia antarctica Young, Long & Ritchie 1992
+†Shirolepis ananjevi Vorobeva 1977
+†Sterropterygion brandei Thomson 1972
+†Thaumatolepis edelsteini Obruchev 1941
+Paraphyletic Elpistostegalia/Panderichthyida incertae sedis
+†Parapanderichthys stolbovi (Vorobyeva 1960) Vorobyeva 1992
+†Howittichthys warrenae Long & Holland 2008
+†Livoniana multidentata Ahlberg, Luksevic & Mark-Kurik 2000
+Stegocephalia incertae sedis
+†Antlerpeton clarkii Thomson, Shubin & Poole 1998
+†Austrobrachyops jenseni Colbert & Cosgriff 1974
+†Broilisaurus raniceps (Goldenberg 1873) Kuhn 1938
+†Densignathus rowei Daeschler 2000
+†Doragnathus woodi Smithson 1980
+†Jakubsonia livnensis Lebedev 2004
+†Limnerpeton dubium Fritsch 1901 (nomen dubium)
+†Limnosceloides Romer 1952
+†L. dunkardensis Romer 1952 (Type)
+†L. brahycoles Langston 1966
+†Occidens portlocki Clack & Ahlberg 2004
+†Ossinodus puerorum emend Warren & Turner 2004
+†Romeriscus periallus Baird & Carroll 1968
+†Sigournea multidentata Bolt & Lombard 2006
+†Sinostega pani Zhu et al.2002
+†Ymeria denticulata Clack et al. 2012
+Lobe-finned fishes (sarcopterygians) and their relatives the ray-finned fishes (actinopterygians) comprise the superclass of bony fishes (Osteichthyes) characterized by their bony skeleton rather than cartilage. There are otherwise vast differences in fin, respiratory, and circulatory structures between the Sarcopterygii and the Actinopterygii, such as the presence of cosmoid layers in the scales of sarcopterygians. The earliest fossils of sarcopterygians, found in the uppermost Silurian (ca 418 Ma), closely resembled the acanthodians (the "spiny fish", a taxon that became extinct at the end of the Paleozoic). In the early–middle Devonian (416 - 385 Ma), while the predatory placoderms dominated the seas, some sarcopterygians came into freshwater habitats.
+In the Early Devonian (416 - 397 Mya), the sarcopterygians split into two main lineages — the coelacanths and the rhipidistians. Coelacanths never left the oceans and their heyday was the late Devonian and Carboniferous, from 385 to 299 Ma, as they were more common during those periods than in any other period in the Phanerozoic; coelacanths still live today in the oceans (genus Latimeria).
+The Rhipidistians, whose ancestors probably lived in the oceans near the river mouths (estuaries), left the ocean world and migrated into freshwater habitats. They in turn split into two major groups: the lungfish and the tetrapodomorphs. The lungfish's greatest diversity was in the Triassic period; today there are fewer than a dozen genera left. The lungfish evolved the first proto-lungs and proto-limbs; developing the ability to live outside a water environment in the middle Devonian (397 - 385 Ma).
+There are three major hypotheses as to how they evolved their stubby fins (proto-limbs). The traditional explanation is the "shrinking waterhole hypothesis" or "desert hypothesis" posited by the American paleontologist Alfred Romer. He believed that limbs and lungs may have evolved from the necessity of having to find new bodies of water as old waterholes dried up.
+The second hypothesis is the "inter-tidal hypothesis" put forward in 2010 by a team of Polish paleontologists (Grzegorz Niedźwiedzki, Piotr Szrek, Katarzyna Narkiewicz, Marek Narkiewicz, & Per Ahlberg). They argued that sarcopterygians may have first emerged unto land from intertidal zones rather than inland bodies of water. Their hypothesis is based on the discovery of the 395 million-year-old Zachełmie tracks in Zachełmie, Świętokrzyskie Voivodeship, Poland, the oldest ever discovered fossil evidence of tetrapods.
+The third hypothesis is dubbed the "woodland hypothesis" and was proposed by the American paleontologist Greg Retallack in 2011. He argues that limbs may have developed in shallow bodies of water in woodlands as a means of navigating in environments filled with roots and vegetation. He based his conclusions on the evidence that transitional tetrapod fossils are consistently found in habitats that were formerly humid and wooded floodplains.
+The first tetrapodomorphs, which included the gigantic rhizodonts, had the same general anatomy as the lungfish, who were their closest kin, but they appear not to have left their water habitat until the late Devonian epoch (385 - 359 Ma), with the appearance of tetrapods (four-legged vertebrates). Tetrapods are the only tetrapodomorphs which survived after the Devonian.
+Non-tetrapod sarcopterygians continued until towards the end of Paleozoic era, suffering heavy losses during the Permian-Triassic extinction event (251 Ma).
+List of Sarcopterygii
+Cladistic Classification of Class Sarcopterygii

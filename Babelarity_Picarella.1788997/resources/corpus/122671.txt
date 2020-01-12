@@ -1,0 +1,23 @@
+A ring diacritic may appear above or below letters. It may be combined with some letters of the extended Latin alphabets in various contexts.
+In Unicode, the above encoding is: U+030A ◌̊ COMBINING RING ABOVE (HTML &#778;).
+Though the Danish, Norwegian, Swedish and Walloon character Å (å) is derived from an A with a ring, it is considered a distinct letter in those languages. The letter Å is the symbol of the unit ångström, named after the Swedish physicist Anders Jonas Ångström.
+The character Ů (ů; a Latin U with ring above, or kroužek in Czech) is a grapheme in the Czech language preserved for historic reasons, which identifies a vowel shift. For example, the word for "horse" used to be written kóň, which evolved, along with pronunciation, into kuoň. Ultimately, the vowel [o] disappeared completely, and the uo evolved into ů, modern form kůň. The letter ů now has the same pronunciation as the letter ú (long [uː]), but changes to a short o when a word is morphed (e.g. nom. kůň → gen. koně, nom. dům → gen. domu), thus showing the historical evolution of the language. Ů cannot occur in initial position, however, ú occurs almost exclusively in initial position or at the beginning of a word root in a compound. These characters are used also in Steuer's Silesian alphabet. The [uo] pronunciation has prevailed in some Moravian dialects, as well as in the Slovak language, which uses the letter ô instead of ů.
+The ring is used in some dialects of Emilian-Romagnol to distinguish the sound /ʌ/ (å) from /a/ (a).
+ů has been used in Old Lithuanian in Lithuania Minor from the 16th till the beginning of the 20th century and for a shorter time in 16th-century Lithuania Major for diphthong [uo].
+The ring has been used in the Lithuanian Cyrillic alphabet promoted by Russian authorities in the last quarter of the 19th century with the letter У̊ / у̊ used to represent the /wɔ/ diphthong (now written uo in Lithuanian orthography).
+Ring upon e (e̊) is used by certain dialectologists of the Walloon language (especially Jean-Jacques Gaziaux) to note the /ə/ vowel typically replacing /i/ and /y/ in the Brabant province central Walloon dialects. The difficulty of type-writing it has led some writers to prefer ë for the same sound.
+Many more characters can be created in Unicode using the "combining ring above" U+030A, including the above-mentioned у̊ (Cyrillic у with ring above) or ń̊ (n with acute and ring above). The standalone ring above symbol has the codepoint U+02DA.
+Although similar in appearance, it is not to be confused with the Japanese handakuten (゜ U+309C), a diacritic used with the kana for syllables starting with h to indicate that they should instead be pronounced with [p].
+Unicode encodes the ring below at U+0325 ◌̥ COMBINING RING BELOW
+The diacritic is used in IPA to indicate voicelessness, and in Indo-European studies or in Sanskrit transliteration (IAST) to indicate syllabicity of r, l, m, n etc. (e.g. r̥ corresponding to IPA [ɹ̩]).
+Examples:
+U+1E00 Ḁ LATIN CAPITAL LETTER A WITH RING BELOW
+U+1E01 ḁ LATIN SMALL LETTER A WITH RING BELOW
+In Romagnol, e̥ is used to represent /ə/ in diphthongs, e.g. Santarcangelo dialect ame̥ig, ne̥ud [aˈməig, ˈnəud] "friend, naked". In Emilian, e̥ can be used to represent unstressed /ə/ in very accurate transcriptions.
+Half rings also exist as diacritic marks, these are characters U+0351 ◌͑ COMBINING LEFT HALF RING ABOVE and U+0357 ◌͗ COMBINING RIGHT HALF RING ABOVE. These characters may be used in the International Phonetic Alphabet, denoting roundedness. They are here given with the lowercase a: a͑ and a͗.
+Other, similar signs are in use in Armenian: the U+0559 ◌ՙ ARMENIAN MODIFIER LETTER LEFT HALF RING and the U+055A ◌՚ ARMENIAN APOSTROPHE.
+Unicode supports U+031C ◌̜ COMBINING LEFT HALF RING BELOW and U+0339 ◌̹ COMBINING RIGHT HALF RING BELOW.
+The ring is used in the transliteration of the Abkhaz language to represent the letter ҩ. It may also be used in place of the abbreviation symbol ॰ when transliterating the Devanagari alphabet.
+Furthermore, ˚ "modifier letter ring above" (U+02DA) is a character of the Spacing Modifier Letters range (U+02B0–02FF).
+The ring as a diacritic mark should not be confused with the dot or U+0366 ◌ͦ COMBINING LATIN SMALL LETTER O diacritic marks, or with the degree sign °.
+The half ring as a diacritic mark should not be confused with the comma or ogonek diacritic marks.

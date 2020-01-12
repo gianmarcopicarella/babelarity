@@ -1,0 +1,142 @@
+In mathematics, an indexed family is a collection of values associated with indices. For example, a family of real numbers, indexed by the integers is a collection of real numbers, where each integer is associated with one of the real numbers.
+Formally, an indexed family is the same thing as a mathematical function; a function with domain J and codomain X is equivalent to a family of elements of X indexed by elements of J. The difference is conceptual; indexed families are interpreted as collections instead of as functions. Every element of the image of the family's underlying function is an element of the family.
+When a function f : J → X is treated as a family, J is called the index set of the family, the function image f(j) for j ∈ J is denoted xj, and the mapping f is denoted {xj}j∈J or simply {xj}.
+Next, if the set X is the power set of a set U, then the family {xj}j∈J is called a family of sets indexed by J .
+Definition. Let I and X be sets. The function
+                x
+                :
+                I
+                →
+                X
+                i
+                ↦
+                  x
+                    i
+                =
+                x
+                (
+                i
+                )
+    {\displaystyle {\begin{aligned}x\colon I&\to X\\i&\mapsto x_{i}=x(i)\end{aligned}}}
+is called a family of elements in X indexed by I .
+An indexed family can be turned into a set by considering the set 
+            X
+        :=
+        {
+          x
+            i
+        :
+        i
+        ∈
+        I
+        }
+    {\displaystyle {\mathcal {X}}:=\{x_{i}:i\in I\}}
+  , that is, the range of x. However, the mapping x does not need to be injective, that is, there may exist 
+        i
+        ,
+        j
+        ∈
+        I
+    {\displaystyle i,j\in I}
+   with 
+        i
+        ≠
+        j
+    {\displaystyle i\neq j}
+   but 
+          x
+            i
+        =
+          x
+            j
+    {\displaystyle x_{i}=x_{j}}
+  . Thus, 
+          |
+            X
+          |
+        ≤
+          |
+        {
+          x
+            i
+          }
+            i
+            ∈
+            I
+          |
+    {\displaystyle |{\mathcal {X}}|\leq |\{x_{i}\}_{i\in I}|}
+   where |A| denotes the cardinality of the set.
+Definition. Let I and S be sets. An indexed family of sets 
+        {
+          C
+            i
+          }
+            i
+            ∈
+            I
+    {\displaystyle \{C_{i}\}_{i\in I}}
+   with 
+          C
+            i
+        ⊂
+        S
+    {\displaystyle C_{i}\subset S}
+   is an indexed family that maps elements of the index set I to elements of the power set of S.
+Hence, an indexed family of sets is conceptually different from a family of sets (which is just a synonym for "set of sets"), but in practice the distinction is sometimes fuzzy and the indexed family is identified with its range and treated like an ordinary family.
+Whenever index notation is used the indexed objects form a family. For example, consider the following sentence.
+The vectors v1, …, vn are linearly independent.
+Here (vi)i ∈ {1, …, n} denotes a family of vectors. The i-th vector vi only makes sense with respect to this family, as sets are unordered and there is no i-th vector of a set. Furthermore, linear independence is only defined as the property of a collection; it therefore is important if those vectors are linearly independent as a set or as a family.
+If we consider n = 2 and v1 = v2 = (1, 0), the set of them consists of only one element and is linearly independent, but the family contains the same element twice and is linearly dependent.
+Suppose a text states the following:
+A square matrix A is invertible, if and only if the rows of A are linearly independent.
+As in the previous example it is important that the rows of A are linearly independent as a family, not as a set. For Example, consider the matrix
+        A
+        =
+            [
+                  1
+                  1
+                  1
+                  1
+            ]
+        .
+    {\displaystyle A={\begin{bmatrix}1&1\\1&1\end{bmatrix}}.}
+The set of rows only consists of a single element (1, 1) and is linearly independent, but the matrix is not invertible. The family of rows contains two elements and is linearly dependent. The statement is therefore correct if it refers to the family of rows, but wrong if it refers to the set of rows. (The statement is also correct when "the rows" is interpreted as referring to a multiset, in which the elements are also kept distinct but which lacks some of the structure of an indexed family.)
+Surjective functions and families are formally equivalent, as any function f with domain I induces a family (f(i))i∈I. In practice, however, a family is viewed as a collection, not as a function: being an element of a family is equivalent with being in the range of the corresponding function. A family contains any element exactly once, if and only if the corresponding function is injective.
+Like a set, a family is a container and any set X gives rise to a family (xx)x∈X. Thus any set naturally becomes a family. For any family (Ai)i∈I there is the set of all elements {Ai | i∈I}, but this does not carry any information on multiple containment or the structure given by I. Hence, by using a set instead of the family, some information might be lost.
+Let n be the finite set {1, 2, …, n}, where n is a positive integer.
+An ordered pair is a family indexed by the two element set 2 = {1, 2}.
+An n-tuple is a family indexed by n.
+An infinite sequence is a family indexed by the natural numbers.
+A list is an n-tuple for an unspecified n, or an infinite sequence.
+An n×m matrix is a family indexed by the cartesian product n×m.
+A net is a family indexed by a directed set.
+Index sets are often used in sums and other similar operations. For example, if (ai)i∈I is a family of numbers, the sum of all those numbers is denoted by
+          ∑
+            i
+            ∈
+            I
+          a
+            i
+        .
+    {\displaystyle \sum _{i\in I}a_{i}.}
+When (Ai)i∈I is a family of sets, the union of all those sets is denoted by
+          ⋃
+            i
+            ∈
+            I
+          A
+            i
+        .
+    {\displaystyle \bigcup _{i\in I}A_{i}.}
+Likewise for intersections and cartesian products.
+A family (Bi)i∈J is a subfamily of a family (Ai)i∈I, if and only if J is a subset of I and for all i in J
+Bi = Ai
+The analogous concept in category theory is called a diagram. A diagram is a functor giving rise to an indexed family of objects in a category C, indexed by another category J, and related by morphisms depending on two indices.
+Coproduct
+Disjoint union
+Tagged union
+Index notation
+Array data type
+Net (mathematics)
+Diagram (category theory)
+Parametric family

@@ -1,0 +1,17 @@
+In organic chemistry a diene (/ˈdaɪ.iːn/ DY-een) or diolefin (/daɪˈoʊləfᵻn/ dy-OH-lə-fin) is a hydrocarbon that contains two carbon double bonds. Dienes occur occasionally in nature. Conjugated dienes are widely used as monomers in the polymer industry.
+Dienes can be divided into three classes, depending on the relative location of the double bonds:
+Cumulated dienes have the double bonds sharing a common atom as in a group of compounds called allenes.
+Conjugated dienes have conjugated double bonds separated by one single bond.
+Unconjugated dienes have the double bonds separated by two or more single bonds. They are usually less stable than isomeric conjugated dienes. This can also be known as an isolated diene.
+Compounds that contain more than two double bonds are called polyenes. Polyenes and dienes share many of their properties.
+On an industrial scale, butadiene is prepared by thermal cracking of butanes. In a similarly non-selective process, dicyclopentadiene is obtained from coal tars.
+In the laboratory, more directed and more delicate processes are employed such as dehydrohalogenations and condensations. Myriad methods have been developed, such as the Whiting reaction. Families of nonconjugated dienes are derived from the oligomerization and dimerization of conjugated dienes. For example, 1,5-cyclooctadiene and vinylcyclohexene are produced by dimerization of 1,3-butadiene.
+Diene-containing fatty acids are biosynthesized from acetyl CoA.
+The most heavily practiced reaction of alkenes, dienes included, is polymerization. 1,3-Butadiene is a precursor to rubber used in tires, and isoprene is the precursor to natural rubber. Chloroprene is related but it is a synthetic monomer.
+An important reaction for conjugated dienes is the Diels–Alder reaction. Many specialized dienes have been developed to exploit this reactivity for the synthesis of natural products (e.g., Danishefsky's diene).
+Conjugated dienes add reagents such as bromine and hydrogen by both 1,2-addition and 1,4-addition pathways. Addition of polar reagents can generate complex architectures:
+Nonconjugated dienes are substrates for ring-closing metathesis reactions. These reactions require a metal catalyst:
+The position adjacent to a double bond is acidic because the resulting allyl anion is stabilized by resonance. This effect becomes more pronounced as more alkenes are involved to create greater stability. For example, deprotonation at position 3 of a 1,4-diene or position 5 of a 1,3-diene give a pentadienyl anion. An even greater effect is seen if the anion is aromatic, for example, deprotonation of cyclopentadiene to give the cyclopentadienyl anion.
+Dienes are widely used chelating ligands in organometallic chemistry. In some cases they serve as placeholder ligands, being removed during a catalytic cycle. For example, the cyclooctadiene ("cod") ligands in bis(cyclooctadiene)nickel(0) are labile. In some cases, dienes are spectator ligands, remaining coordinated throughout a catalytic cycle and influencing the product distributions. Chiral dienes have also been described.
+polyene
+benzene

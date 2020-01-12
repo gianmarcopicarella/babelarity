@@ -1,0 +1,111 @@
+The Pratt & Whitney R-2800 Double Wasp is a twin-row, 18-cylinder, air-cooled radial aircraft engine with a displacement of 2,800 in³ (46 L), and is part of the long-lived Wasp family.
+The R-2800 is considered one of the premier radial piston engines ever designed and is notable for its widespread use in many important American aircraft during and after World War II. During the war years, Pratt & Whitney continued to develop new ideas to upgrade this already powerful workhorse, most notably water injection for takeoff in cargo and passenger planes and to give emergency power in combat.
+First run in 1937, the R-2800 was America's first 18-cylinder radial engine design. The Double Wasp was more powerful than the world's only other modern eighteen, the Gnome-Rhône 18L of 3,442 in³ (56.4 L). (The American Wright Duplex-Cyclone radial of 3,347 in³ (54.86 L) was also under development at the time, and promised to be more powerful than either the P&W or Gnome-Rhone radials.) The Double Wasp was much smaller in displacement than either of the other 18-cylinder designs, and heat dissipation was a greater problem. To enable more efficient cooling, the usual practice of casting or forging the cylinder head cooling fins that had been effective enough for other engine designs was discarded, and instead, much thinner and closer-pitched cooling fins were machined from the solid metal of the head forging. The fins were all cut at the same time by a gang of milling saws, automatically guided as it fed across the head in such a way that the bottom of the grooves rose and fell to make the roots of the fins follow the contour of the head, with the elaborate process substantially increasing the surface area of the fins. The twin distributors on the Double Wasp were prominently mounted on the upper surface of the forward gear reduction housing and almost always prominently visible within a cowling, with the conduits for the spark plug wires emerging from the distributors' cases either directly forward or directly behind them, or on the later C-series R-2800s with the two-piece gear reduction housings, on the "outboard" sides of the distributor casings.
+When the R-2800 was introduced in 1939 it was capable of producing 2,000 hp (1,500 kW), for a specific power value of 0.71 hp/in³ (32.6 kW/L). The design of conventional air-cooled radial engines had become so scientific and systematic by then, that the Double Wasp was introduced with a smaller incremental power increase than was typical of earlier engines. Nevertheless, in 1941 the power output of production models increased to 2,100 hp (1,600 kW), and to 2,400 hp (1,800 kW) late in the war. Even more was coaxed from experimental models, with fan-cooled subtypes producing 2,800 hp (2,100 kW), but in general the R-2800 was a rather highly developed powerplant right from the beginning.
+The R-2800 powered several types of fighters and medium bombers during the war, including the US Navy's Vought F4U Corsair, with the XF4U-1 first prototype Corsair becoming the first airframe to fly (as originally designed) with the Double Wasp in its XR-2800-4 prototype version on May 29, 1940, and the first single-engine US fighter plane to exceed 400 mph (640 km/h) in level flight during October 1940. The R-2800 also powered the Corsair's naval rival, the Grumman F6F Hellcat, the US Army Air Forces' Republic P-47 Thunderbolt (which uniquely, for single-engined aircraft, used a turbocharger for its Double Wasp's installation), the twin-engine Martin B-26 Marauder and Douglas A-26 Invader, as well as the first purpose-built twin-engine radar-equipped night fighter, the Northrop P-61 Black Widow. When the US entered the war in December 1941, designs advanced rapidly, and long-established engines such as the Wright Cyclone and Double Wasp were re-rated on fuel of much higher octane rating (anti-knock value) to give considerably more power. By 1944, versions of the R-2800 powering late-model P-47s (and other aircraft) had a rating (experimental) of 2,800 hp (2,100 kW) on 115-grade fuel with water injection.
+After World War II, the engine was used in the Korean War, and surplus World War II aircraft powered by the Double Wasp served with other countries well past the Korean War, some being retired as late as the latter part of the 1960s when the aircraft were replaced.
+Engines grow in power with development, but a major war demands the utmost performance from engines fitted to aircraft whose life in front-line service was unlikely to exceed 50 hours' flying, over a period of only a month or two. In peacetime however, the call was for reliability over a period of perhaps a dozen years, and the R-2800's reliability commended its use for long-range patrol aircraft and for the Douglas DC-6, Martin 4-0-4, and Convair 240 transports. The last two were twin-engine aircraft of size, passenger capacity, and high wing loading comparable to the DC-4 and the first Constellations.
+Today, three-quarters of a century after the first prototype Double Wasp, it still flies in restored vintage warbird aircraft displayed at air shows — such as the over two dozen airworthy examples of the first airframe design it powered, and sees service worldwide on aircraft such as the Canadair CL-215 water-bomber. In addition, R-2800s continue to power DC-6 cargo and fuel-carrying aircraft in locations such as Alaska. A total of 125,334 R-2800 engines were produced between 1939 and 1960.
+This is a list of representative R-2800 variants, describing some of the mechanical changes made during development of the Double-Wasp. Power ratings quoted are usually maximum "military" power that the engine could generate on takeoff and at altitude: 100 Octane fuel was used, unless otherwise noted.
+The R-2800 was developed and modified into a basic sequence of subtypes, "A" through "E" series, each of which indicated major internal and external modifications and improvements, such that the "E" series engines had very few parts in common with the "A".
+Note
+Suffixes such as -S14A-G denote engines developed for export to other countries.
+Data from White (Airlife) unless otherwise noted:
+Notes
+The dash number for each military type (e.g.: -21) was allocated to identify the complete engine model in accordance with the specification under which the engine was manufactured, thus it did not necessarily indicate the sequence in which the engines were manufactured; for example: the -18W was a "C" series engine, built from 1945, whereas the -21 was a "B" series engine, built from 1943.
+Until 1940 the armed forces adhered strictly to the convention that engines built for the Army Air Forces used odd numeric suffixes (e.g.: -5), while those built for the US Navy used even (e.g.: -8). After 1940, however, in the interests of standardization, engines were sometimes built to a joint Army-Navy contract, in which case the engines used a common numeric suffix (e.g.: the -10 was used by both Army and Naval aircraft.)
+The suffix W e.g.: -10W denotes a sub-series modified to use A.D.I Anti-Detonant Injection or water injection equipment, using various mixes of water and methyl alcohol (CH3OH) injected into the carburetor to increase power for short periods: several models of R-2800s were fitted as standard with A.D.I and did not use the W suffix. Few commercial aircraft used water injection.
+"A" Series:
+R-2800-1
+1,500 hp (1,118 kW) at 2,400 rpm at 7,500 ft (2,286 m). Production prototype of "A" series engines with the first flight test July 29, 1939. Single-speed two-stage supercharger. Production = 2 (P&W). Tested in Vultee YA-19B.
+R-2800-5
+1,850 hp (1,379 kW) at 2,600 rpm at 2,700 ft (823 m). Main production "A" series engine used in Martin B-26A, early B series and XB-26D and Curtiss C-55/XC-46. Production = 1,429 (P&W 475, Ford 954.)
+"B" Series:
+R-2800-8
+2,000 hp (1,491 kW) at 2,700 rpm at 1,000 ft (305 m); 1,800 (1,342 kW) at 2,700 rpm at 15,500 ft (4,724 m). First series production "B" Series engine using a two-stage, two-speed supercharger and with internal engineering changes resulting in increased power and reliability. Updraft Bendix-Stromberg PT-13D-4 pressure carburetor. First production engines delivered to U.S.N November 11, 1941. Used in Brewster F3A-1, Goodyear FG-1, Vought F4U-1 and F4U-2. Production = 3,903 (P&W 2,194; Nash 1,709.)
+R-2800-8W
+2,250 hp (1,677 kW) WEP with water injection. First production engine using ADI equipment, major production version of -8 and used in same versions of F4U Corsair. Production = 8,668 (P&W 5,574; Nash 3,094.)
+R-2800-10 and R-2800-10W
+2,000 hp (1,491 kW) at 2,700 rpm at 1,000 ft (305 m); 1,800 (1,342 kW) at 2,700 rpm at 15,500 ft (4,724 m); up to 2,250 hp (1,677 kW) WEP with water injection. Similar to -8 series apart from downdraft PT-13G2-10 and PT-13G6-10 (-10W) carburetor. Used in Curtiss XP-60E, Grumman F6F-3 (-10; late production -10W) and F6F-5 (-10W) series and Northrop XP-61, YP-61, and P-61A-1. Production = 4,621 -10 (P&W 2,931; Nash 1,690) and 12,940 -10W (P&W 3,040; Nash 9,900); Total = 17,561.
+R-2800-21
+2,000 hp (1,491 kW) at 2,700 rpm at 2,500 ft (762 m); 2,000 hp (1,491 kW) at 2,700 rpm at 25,000 ft (7,620 m). First production variant fed by a General Electric C-1 turbosupercharger. Designed for use in the Republic P-47B, C, D, G and XP-47F and K. Production = 5,720 (P&W 1,049; Ford 4,671.)
+R-2800-59
+2,000 hp (1,491 kW) at 2,700 rpm at 2,500 ft (762 m); 2,000 hp (1,491 kW) at 2,500 rpm at 25,000 ft (7,620 m); 2,300 hp (1,700 kW) WEP with water injection. Main production variant used in P-47 series, fed by an improved C-23 turbosupercharger. Differed from -21 in being fitted with A.D.I and a General Electric ignition system with a simplified, tubular ignition harness developed by the Scinitilla company in partnership with Bendix. Used in P-47C and D, XP-47L. Production = 11,391 (P&W 592; Ford 10,799). 
+"C" Series
+R-2800-18W
+2,100 hp (1,566 kW) at 2,800 rpm at 1,000 ft (305 m); 1,800 hp (1,342 kW) at 2,800 rpm at 25,500 ft (7,772 m). First series production variant of the "C" Series, which was a complete redesign of the R-2800. Some of the main changes were forged, rather than cast cylinders, allowing an increased compression ratio (from 6.65:1 to 6.75:1), a redesigned crankshaft, a single piece, rather than split crankcase center section, and a two section nose casing, incorporating hydraulically operated torque-monitoring equipment and an automatic, vacuum operated spark-advance unit. The supercharger used fluid coupling for the second stage. Updraft Bendix-Stromberg PT-13G2-10 carburetor. Used in Vought F4U-4 and -4 variants. Production = 3,257 (P&W).
+R-2800-22W - 2,400 hp (1,789 kW)
+R-2800-25 - 2,000 hp (1,490 kW) — for Northrop P-61 Black Widow
+R-2800-27 - 2,000 hp (1,491 kW)
+R-2800-30W ("E" Series) - 2,250 hp (1,677 kW)
+R-2800-31 - 2,000 hp (1,491 kW)
+R-2800-32W ("E" Series) - 2,450 hp (1,827 kW), 2,850 hp (2,125 kW) with water-methanol injection
+R-2800-34 - 2,100 hp (1,567 kW)
+R-2800-34W - 2,100 hp (1,567 kW), 2,400 hp (1,789 kW) with water-methanol injection
+R-2800-39 - 2,000 hp (1,491 kW)
+R-2800-41 - 2,000 hp (1,491 kW)
+R-2800-43 - 2,000 hp (1,491 kW)
+R-2800-44 - 2,300 hp (1,700 kW)
+R-2800-44W - 2,400 hp (1,789 kW)
+R-2800-48 - 2,500 hp (1,890 kW)
+R-2800-48W - 2,400 hp (1,789 kW)
+R-2800-51 - 2,000 hp (1,491 kW)
+R-2800-54 - 2,100 hp (1,567 kW)
+R-2800-57 - 2,800 hp (2,090 kW)
+R-2800-57C - 2,800 hp (2,090 kW)
+R-2800-59W - 2,500 hp (1,890 kW)
+R-2800-65 - 2,000 hp (1,491 kW)
+R-2800-65W - 2,250 hp (1,677 kW)
+R-2800-71 - 2,000 hp (1,491 kW)
+R-2800-73 - 2,800 hp (2,090 kW) — with General Electric CH-5 turbocharger for P-61C Black Widow
+R-2800-75 - 2,200 hp (1,640 kW)
+R-2800-77 - 2,800 hp (2,090 kW)
+R-2800-79 - 2,000 hp (,1491 kW)
+R-2800-83 - 2,100 hp (1,567 kW)
+R-2800-83AM - 2,100 hp (1,567 kW)
+R-2800-99W - 2,300 hp (1,700 kW)
+R-2800-103W - 2,500 hp (1,890 kW)
+R-2800-2SB-G - 1,850 hp (1,379 kW)
+R-2800-CB16 - 2,400 hp (1,789 kW), 2,500 hp (1,890 kW)
+R-2800-CB17 - 2,500 hp (1,890 kW)
+R-2800-S1A4-G - 1,850 hp (1,379 kW)
+R-2800-S1C3-G - 2,100 hp (1,567 kW)
+The following is a partial list of aircraft that were powered by the R-2800 (and a few prototypes that utilized it at one point):
+There is a R-2800-39 on display at the New England Air Museum, Bradley International Airport, Windsor Locks, CT.
+A R-2800 used on Finnair Convair Metropolitan is on public display at Helsinki Airport.
+[The R-2800 double wasp is on display at the Aerospace Discovery at the Florida Air Museum.]
+Data from FAA TCDS
+Type: 18-cylinder air-cooled twin-row radial engine with water injection
+Bore: 5.75 in (146.05 mm)
+Stroke: 6 in (152.4 mm)
+Displacement: 2,804.5 in³ (45.96 L)
+Diameter: 52.8 in (1,342 mm)
+Dry weight: 2,360 lb (1,073 kg)
+Valvetrain: Poppet, two valves per cylinder
+Supercharger: Variable-speed (in F8F-2, unified with throttle via AEC automatic engine control), single-stage single-speed centrifugal type supercharger
+Fuel system: One Stromberg injection carburetor
+Fuel type: 100/130 octane gasoline
+Cooling system: Air-cooled
+Power output: 2,100 hp (1,567 kW) @ 2,700 rpm
+Specific power: 0.75 hp/in³ (34.1 kW/L)
+Power-to-weight ratio: 0.89 hp/lb (1.46 kW/kg)
+Related development
+Pratt & Whitney Wasp series
+Pratt & Whitney R-985 Wasp Junior
+Pratt & Whitney R-1340 Wasp
+Pratt & Whitney R-1535 Twin Wasp Junior
+Pratt & Whitney R-1830 Twin Wasp
+R-2000 Twin Wasp
+Pratt & Whitney R-4360 Wasp Major
+Comparable engines
+Alfa Romeo 135
+BMW 802
+Bristol Centaurus
+Fiat A.80
+Nakajima Homare
+Shvetsov ASh-73
+Wright R-3350
+Related lists
+List of aircraft engines
+Pratt & Whitney's R-2800 page
+The Aviation History Online Museum's Double Wasp page

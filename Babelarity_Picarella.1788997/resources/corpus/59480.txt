@@ -1,0 +1,14 @@
+Hydrobromic acid is a strong acid formed by dissolving the diatomic molecule hydrogen bromide (HBr) in water. "Constant boiling" hydrobromic acid is an aqueous solution that distills at 124.3 °C and contains 47.6% HBr by weight, which is 8.89 mol/L. Hydrobromic acid has a pKa of −9, making it a stronger acid than hydrochloric acid, but not as strong as hydroiodic acid. Hydrobromic acid is one of the strongest mineral acids known.
+Hydrobromic acid is mainly used for the production of inorganic bromides, especially the bromides of zinc, calcium, and sodium. It is a useful reagent for generating organobromine compounds. Certain ethers are cleaved with HBr. It also catalyzes alkylation reactions and the extraction of certain ores. Industrially significant organic compounds prepared from hydrobromic acid include allyl bromide, tetrabromobis(phenol), and bromoacetic acid.
+Hydrobromic acid can be prepared in the laboratory via the reaction of Br2, SO2, and water.
+Br2 + SO2 + 2 H2O → H2SO4 + 2 HBr
+More typically laboratory preparations involve the production of anhydrous HBr, which is then dissolved in water.
+Hydrobromic acid has commonly been prepared industrially by reacting bromine with either sulfur or phosphorus and water. However, it can also be produced electrolytically. It can also be prepared by treating bromides with non-oxidising acids like phosphoric or acetic acids.
+Alternatively the acid can be prepared with dilute (5.8M) sulfuric acid and potassium bromide:
+H2SO4 + KBr → KHSO4 + HBr
+Using more concentrated sulfuric acid or allowing the reaction solution to exceed 75 °C further oxidizes HBr to bromine gas. The acid is further purified by filtering out the KHSO4 and by distilling off the water until the solution reaches an azeotrope (≈ 126 °C at 760 torr). The yield is approximately 85%.
+Hydrobromic acid is available commercially in various concentrations and purities.
+ Media related to Hydrogen bromide at Wikimedia Commons
+International Chemical Safety Card 0282
+NIOSH Pocket Guide to Chemical Hazards
+Carlin, W. W. U.S. Patent 4,147,601

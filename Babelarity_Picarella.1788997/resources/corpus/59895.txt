@@ -1,0 +1,19 @@
+Silicon tetrachloride is the inorganic compound with the formula SiCl4. It is a colourless volatile liquid that fumes in air. It is used to produce high purity silicon and silica for commercial applications.
+Silicon tetrachloride is prepared by the chlorination of various silicon compounds such as ferrosilicon, silicon carbide, or mixtures of silicon dioxide and carbon. The ferrosilicon route is most common.
+In the laboratory, SiCl4 can be prepared by treating silicon with chlorine:
+Si + 2 Cl2 → SiCl4
+It was first prepared by Jöns Jakob Berzelius in 1823.
+Like other chlorosilanes, silicon tetrachloride reacts readily with water:
+SiCl4 + 2 H2O → SiO2 + 4 HCl
+In contrast, carbon tetrachloride does not hydrolyze readily. The differing rates of hydrolysis are attributed to the greater atomic radius of the silicon atom allowing attack at silicon, and to the polar nature of the Si-Cl bonds favoring nucleophilic attack. The reaction can be noticed on exposure of the liquid to air, the vapour produces fumes as it reacts with moisture to give a cloud-like aerosol of hydrochloric acid. With methanol and ethanol it reacts to give tetramethyl orthosilicate and tetraethyl orthosilicate:
+SiCl4 + 4 ROH → Si(OR)4 + 4 HCl
+At higher temperatures homologues of silicon tetrachloride can be prepared by the reaction:
+Si + 2 SiCl4 → Si3Cl8
+In fact, the chlorination of silicon is accompanied by the formation of Si2Cl6. A series of compounds containing up to six silicon atoms in the chain can be separated from the mixture using fractional distillation.
+Silicon tetrachloride is a classic electrophile in its reactivity. It forms a variety of organosilicon compounds upon treatment with Grignard reagents and organolithium compounds:
+4 RLi + SiCl4 → R4Si + 4 LiCl
+Reduction with hydride reagents afford silane.
+Silicon tetrachloride is used as an intermediate in the manufacture of polysilicon, a hyper pure form of silicon, since it has a boiling point convenient for purification by repeated fractional distillation. It is reduced to trichlorosilane (HSiCl3) by hydrogen gas in a hydrogenation reactor, and either directly used in the Siemens process or further reduced to silane (SiH4) and injected into a fluidized bed reactor. Silicon tetrachloride reappears in both these two processes as a by-product and is recycled in the hydrogenation reactor. The produced polysilicon is used as wafers in large amounts by the photovoltaic industry for conventional solar cells made of crystalline silicon and also by the semiconductor industry.
+Silicon tetrachloride can also be hydrolysed to fumed silica. High purity silicon tetrachloride is used in the manufacture of optical fibres. This grade should be free of hydrogen containing impurities like trichlorosilane. Optical fibres are made using processes like MCVD and OFD where silicon tetrachloride is oxidized to pure silica in the presence of oxygen.
+Pollution from the production of silicon tetrachloride has been reported in China associated with the increased demand for photovoltaic cells that has been stimulated by subsidy programs.
+Silicon tetrachloride (data page)

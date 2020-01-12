@@ -1,0 +1,681 @@
+In geometry, a solid angle (symbol: Ω) is the two-dimensional angle in three-dimensional space that an object subtends at a point. It is a measure of how large the object appears to an observer looking from that point. In the International System of Units (SI), a solid angle is expressed in a dimensionless unit called a steradian (symbol: sr).
+A small object nearby may subtend the same solid angle as a larger object farther away. For example, although the Moon is much smaller than the Sun, it is also much closer to Earth. Indeed, as viewed from any point on Earth, both objects have approximately the same solid angle as well as apparent size. This is evident during a solar eclipse.
+An object's solid angle in steradians is equal to the area of the segment of a unit sphere, centered at the angle's vertex, that the object covers. A solid angle in steradians equals the area of a segment of a unit sphere in the same way a planar angle in radians equals the length of an arc of a unit circle. Solid angles are often used in physics, in particular astrophysics. The solid angle of an object that is very far away is roughly proportional to the ratio of area to squared distance. Here "area" means the area of the object when projected along the viewing direction.
+The solid angle of a sphere measured from any point in its interior is 4π sr, and the solid angle subtended at the center of a cube by one of its faces is one-sixth of that, or 2π/3 sr. Solid angles can also be measured in square degrees (1 sr = (180/π)2 square degrees), in square minutes and square seconds, or in fractions of the sphere (1 sr = 1/4π fractional area), also known as spat (1 sp = 4π sr).
+In spherical coordinates there is a simple formula for the differential,
+        d
+        Ω
+        =
+        sin
+        ⁡
+        θ
+        d
+        θ
+        d
+        φ
+    {\displaystyle d\Omega =\sin \theta \,d\theta \,d\varphi }
+where θ is the colatitude (angle from the North pole) and φ is the longitude.
+The solid angle for an arbitrary oriented surface S subtended at a point P is equal to the solid angle of the projection of the surface S to the unit sphere with center P, which can be calculated as the surface integral:
+        Ω
+        =
+          ∬
+            S
+                    r
+                    ^
+              ⋅
+                    n
+                    ^
+              d
+              Σ
+              r
+                2
+        =
+          ∬
+            S
+        sin
+        ⁡
+        θ
+        d
+        θ
+        d
+        φ
+    {\displaystyle \Omega =\iint \limits _{S}{\frac {{\hat {r}}\cdot {\hat {n}}\,d\Sigma }{r^{2}}}\ =\iint \limits _{S}\sin \theta \,d\theta \,d\varphi }
+where 
+              r
+              ^
+        =
+                  r
+                  →
+              r
+    {\displaystyle {\hat {r}}={\tfrac {\vec {r}}{r}}}
+   is the unit vector corresponding to 
+              r
+              →
+    {\displaystyle {\vec {r}}}
+  , the position vector of an infinitesimal area of surface dΣ with respect to point P, and where 
+              n
+              ^
+    {\displaystyle {\hat {n}}}
+   represents the unit normal vector to dΣ. Even if the projection on the unit sphere to the surface S is not isomorphic, the multiple folds are correctly considered according to the surface orientation described by the sign of the scalar product 
+              r
+              ^
+        ⋅
+              n
+              ^
+    {\displaystyle {\hat {r}}\cdot {\hat {n}}}
+  .
+Thus one can approximate the solid angle subtended by a small facet having flat surface area dΣ, orientation 
+              n
+              ^
+    {\displaystyle {\hat {n}}}
+  , and distance r from the viewer as:
+        d
+        Ω
+        =
+        4
+        π
+          (
+                d
+                Σ
+              A
+          )
+        (
+              r
+              ^
+        ⋅
+              n
+              ^
+        )
+    {\displaystyle d\Omega =4\pi \left({\frac {d\Sigma }{A}}\right)\,({\hat {r}}\cdot {\hat {n}})}
+where the surface area of a sphere is A = 4πr2.
+Defining luminous intensity and luminance, and the correspondent radiometric quantities radiant intensity and radiance
+Calculating spherical excess E of a spherical triangle
+The calculation of potentials by using the boundary element method (BEM)
+Evaluating the size of ligands in metal complexes, see ligand cone angle
+Calculating the electric field and magnetic field strength around charge distributions
+Deriving Gauss's Law
+Calculating emissive power and irradiation in heat transfer
+Calculating cross sections in Rutherford scattering
+Calculating cross sections in Raman scattering
+The solid angle of the acceptance cone of the optical fiber
+The solid angle of a cone with apex angle 2θ, is the area of a spherical cap on a unit sphere
+        Ω
+        =
+        2
+        π
+          (
+          1
+          −
+          cos
+          ⁡
+            θ
+          )
+    {\displaystyle \Omega =2\pi \left(1-\cos {\theta }\right)\ }
+For small θ such that sin θ ≈ θ, this reduces to the area of a circle πθ2.
+The above is found by computing the following double integral using the unit surface element in spherical coordinates:
+          ∫
+            0
+            2
+            π
+          ∫
+            0
+            θ
+        sin
+        ⁡
+          θ
+          ′
+        d
+          θ
+          ′
+        d
+        ϕ
+        =
+        2
+        π
+          ∫
+            0
+            θ
+        sin
+        ⁡
+          θ
+          ′
+        d
+          θ
+          ′
+        =
+        2
+        π
+            [
+            −
+            cos
+            ⁡
+              θ
+              ′
+            ]
+            0
+            θ
+        =
+        2
+        π
+          (
+          1
+          −
+          cos
+          ⁡
+          θ
+          )
+    {\displaystyle \int _{0}^{2\pi }\int _{0}^{\theta }\sin \theta '\,d\theta '\,d\phi =2\pi \int _{0}^{\theta }\sin \theta '\,d\theta '\ =2\pi \left[-\cos \theta '\right]_{0}^{\theta }\ =2\pi \left(1-\cos \theta \right)\ }
+This formula can also be derived without the use of calculus. Over 2200 years ago Archimedes proved that the surface area of a spherical cap is always equal to the area of a circle whose radius equals the distance from the rim of the spherical cap to the point where the cap's axis of symmetry intersects the cap. In the diagram this radius is given as:
+        2
+        r
+        sin
+        ⁡
+          (
+              θ
+              2
+          )
+    {\displaystyle 2r\sin \left({\frac {\theta }{2}}\right)}
+Hence for a unit sphere the solid angle of the spherical cap is given as:
+        Ω
+        =
+        4
+        π
+          sin
+            2
+        ⁡
+          (
+              θ
+              2
+          )
+        =
+        2
+        π
+          (
+          1
+          −
+          cos
+          ⁡
+            θ
+          )
+    {\displaystyle \Omega =4\pi \sin ^{2}\left({\frac {\theta }{2}}\right)=2\pi \left(1-\cos {\theta }\right)\ }
+When θ = π/2, the spherical cap becomes a hemisphere having a solid angle 2π.
+The solid angle of the complement of the cone (picture a melon with the cone cut out) is clearly:
+        4
+        π
+        −
+        Ω
+        =
+        2
+        π
+          (
+          1
+          +
+          cos
+          ⁡
+            θ
+          )
+    {\displaystyle 4\pi -\Omega =2\pi \left(1+\cos {\theta }\right)}
+This is also the solid angle of the part of the celestial sphere that a Terran astronomical observer positioned at latitude θ can see as the earth rotates. At the equator you see all of the celestial sphere, at either pole only one half.
+The solid angle subtended by a segment of a spherical cap cut by a plane at angle γ from the cone's axis and passing through the cone's apex can be calculated by the formula:
+        Ω
+        =
+        2
+          [
+          arccos
+          ⁡
+            (
+                  sin
+                  ⁡
+                  γ
+                  sin
+                  ⁡
+                  θ
+            )
+          −
+          cos
+          ⁡
+          θ
+          arccos
+          ⁡
+            (
+                  tan
+                  ⁡
+                  γ
+                  tan
+                  ⁡
+                  θ
+            )
+          ]
+    {\displaystyle \Omega =2\left[\arccos \left({\frac {\sin \gamma }{\sin \theta }}\right)-\cos \theta \arccos \left({\frac {\tan \gamma }{\tan \theta }}\right)\right]\ }
+Let OABC be the vertices of a tetrahedron with an origin at O subtended by the triangular face ABC where 
+              a
+              →
+        ,
+              b
+              →
+        ,
+              c
+              →
+    {\displaystyle {\vec {a}}\ ,\,{\vec {b}}\ ,\,{\vec {c}}}
+   are the vector positions of the vertices A, B and C. Define the vertex angle θa to be the angle BOC and define θb, θc correspondingly. Let φab be the dihedral angle between the planes that contain the tetrahedral faces OAC and OBC and define φac, φbc correspondingly. The solid angle Ω subtended by the triangular surface ABC is given by
+        Ω
+        =
+          (
+            ϕ
+              a
+              b
+          +
+            ϕ
+              b
+              c
+          +
+            ϕ
+              a
+              c
+          )
+        −
+        π
+    {\displaystyle \Omega =\left(\phi _{ab}+\phi _{bc}+\phi _{ac}\right)\ -\pi \ }
+This follows from the theory of spherical excess and it leads to the fact that there is an analogous theorem to the theorem that "The sum of internal angles of a planar triangle is equal to π", for the sum of the four internal solid angles of a tetrahedron as follows:
+          ∑
+            i
+            =
+            1
+            4
+          Ω
+            i
+        =
+        2
+          ∑
+            i
+            =
+            1
+            6
+          ϕ
+            i
+        −
+        4
+        π
+    {\displaystyle \sum _{i=1}^{4}\Omega _{i}=2\sum _{i=1}^{6}\phi _{i}\ -4\pi \ }
+where φi ranges over all six of the dihedral angles between any two planes that contain the tetrahedral faces OAB, OAC, OBC and ABC.
+An efficient algorithm for calculating the solid angle Ω subtended by the triangular surface ABC where 
+              a
+              →
+        ,
+              b
+              →
+        ,
+              c
+              →
+    {\displaystyle {\vec {a}}\ ,\,{\vec {b}}\ ,\,{\vec {c}}}
+   are the vector positions of the vertices A, B and C has been given by Oosterom and Strackee:
+        tan
+        ⁡
+          (
+              1
+              2
+          Ω
+          )
+        =
+              |
+                    a
+                    →
+                    b
+                    →
+                    c
+                    →
+              |
+              a
+              b
+              c
+              +
+                (
+                      a
+                      →
+                ⋅
+                      b
+                      →
+                )
+              c
+              +
+                (
+                      a
+                      →
+                ⋅
+                      c
+                      →
+                )
+              b
+              +
+                (
+                      b
+                      →
+                ⋅
+                      c
+                      →
+                )
+              a
+    {\displaystyle \tan \left({\frac {1}{2}}\Omega \right)={\frac {\left|{\vec {a}}\ {\vec {b}}\ {\vec {c}}\right|}{abc+\left({\vec {a}}\cdot {\vec {b}}\right)c+\left({\vec {a}}\cdot {\vec {c}}\right)b+\left({\vec {b}}\cdot {\vec {c}}\right)a}}}
+where
+          |
+                a
+                →
+                b
+                →
+                c
+                →
+          |
+        =
+              a
+              →
+        ⋅
+        (
+              b
+              →
+        ×
+              c
+              →
+        )
+    {\displaystyle \left|{\vec {a}}\ {\vec {b}}\ {\vec {c}}\right|={\vec {a}}\cdot ({\vec {b}}\times {\vec {c}})}
+denotes the scalar triple product of the three vectors;
+              a
+              →
+    {\displaystyle {\vec {a}}}
+   is the vector representation of point A, while a is the magnitude of that vector (the origin-point distance)
+              a
+              →
+        ⋅
+              b
+              →
+    {\displaystyle {\vec {a}}\cdot {\vec {b}}}
+   denotes the scalar product.
+When implementing the above equation care must be taken with the atan function to avoid negative or incorrect solid angles. One source of potential errors is that the scalar triple product can be negative if a, b, c have the wrong winding. Computing abs(det) is a sufficient solution since no other portion of the equation depends on the winding. The other pitfall arises when the scalar triple product is positive but the divisor is negative. In this case atan returns a negative value that must be increased by π.
+Another useful formula for calculating the solid angle of the tetrahedron at the origin O that is purely a function of the vertex angles θa, θb, θc is given by L'Huilier's theorem as
+        tan
+        ⁡
+          (
+              1
+              4
+          Ω
+          )
+        =
+            tan
+            ⁡
+              (
+                    θ
+                      s
+                  2
+              )
+            tan
+            ⁡
+              (
+                      θ
+                        s
+                    −
+                      θ
+                        a
+                  2
+              )
+            tan
+            ⁡
+              (
+                      θ
+                        s
+                    −
+                      θ
+                        b
+                  2
+              )
+            tan
+            ⁡
+              (
+                      θ
+                        s
+                    −
+                      θ
+                        c
+                  2
+              )
+    {\displaystyle \tan \left({\frac {1}{4}}\Omega \right)={\sqrt {\tan \left({\frac {\theta _{s}}{2}}\right)\tan \left({\frac {\theta _{s}-\theta _{a}}{2}}\right)\tan \left({\frac {\theta _{s}-\theta _{b}}{2}}\right)\tan \left({\frac {\theta _{s}-\theta _{c}}{2}}\right)}}}
+where
+          θ
+            s
+        =
+                θ
+                  a
+              +
+                θ
+                  b
+              +
+                θ
+                  c
+            2
+    {\displaystyle \theta _{s}={\frac {\theta _{a}+\theta _{b}+\theta _{c}}{2}}}
+The solid angle of a four-sided right rectangular pyramid with apex angles a and b (dihedral angles measured to the opposite side faces of the pyramid) is
+        Ω
+        =
+        4
+        arcsin
+        ⁡
+          (
+          sin
+          ⁡
+            (
+                a
+                2
+            )
+          sin
+          ⁡
+            (
+                b
+                2
+            )
+          )
+    {\displaystyle \Omega =4\arcsin \left(\sin \left({a \over 2}\right)\sin \left({b \over 2}\right)\right)}
+If both the side lengths (α and β) of the base of the pyramid and the distance (d) from the center of the base rectangle to the apex of the pyramid (the center of the sphere) are known, then the above equation can be manipulated to give
+        Ω
+        =
+        4
+        arctan
+        ⁡
+              α
+              β
+              2
+              d
+                  4
+                    d
+                      2
+                  +
+                    α
+                      2
+                  +
+                    β
+                      2
+    {\displaystyle \Omega =4\arctan {\frac {\alpha \beta }{2d{\sqrt {4d^{2}+\alpha ^{2}+\beta ^{2}}}}}}
+The solid angle of a right n-gonal pyramid, where the pyramid base is a regular n-sided polygon of circumradius r, with a pyramid height h is
+        Ω
+        =
+        2
+        π
+        −
+        2
+        n
+        arctan
+        ⁡
+          (
+                tan
+                ⁡
+                  (
+                      π
+                      n
+                  )
+                1
+                +
+                      r
+                        2
+                      h
+                        2
+          )
+    {\displaystyle \Omega =2\pi -2n\arctan \left({\frac {\tan \left({\pi  \over n}\right)}{\sqrt {1+{r^{2} \over h^{2}}}}}\right)}
+The solid angle of an arbitrary pyramid with an n-sided base defined by the sequence of unit vectors representing edges {s1, s2}, ... sn can be efficiently computed by:
+        Ω
+        =
+        2
+        π
+        −
+        arg
+        ⁡
+          ∏
+            j
+            =
+            1
+            n
+          (
+            (
+              s
+                j
+                −
+                1
+              s
+                j
+            )
+            (
+              s
+                j
+              s
+                j
+                +
+                1
+            )
+          −
+            (
+              s
+                j
+                −
+                1
+              s
+                j
+                +
+                1
+            )
+          +
+          i
+            [
+              s
+                j
+                −
+                1
+              s
+                j
+              s
+                j
+                +
+                1
+            ]
+          )
+    {\displaystyle \Omega =2\pi -\arg \prod _{j=1}^{n}\left(\left(s_{j-1}s_{j}\right)\left(s_{j}s_{j+1}\right)-\left(s_{j-1}s_{j+1}\right)+i\left[s_{j-1}s_{j}s_{j+1}\right]\right)}
+where parentheses (* *) is a scalar product and square brackets [* * *] is a scalar triple product, and i is an imaginary unit. Indices are cycled: s0 = sn and s1 = sn + 1.
+The solid angle of a latitude-longitude rectangle on a globe is
+          (
+          sin
+          ⁡
+            ϕ
+                N
+          −
+          sin
+          ⁡
+            ϕ
+                S
+          )
+          (
+            θ
+                E
+          −
+            θ
+                W
+          )
+          s
+          r
+    {\displaystyle \left(\sin \phi _{\mathrm {N} }-\sin \phi _{\mathrm {S} }\right)\left(\theta _{\mathrm {E} }-\theta _{\mathrm {W} }\,\!\right)\;\mathrm {sr} }
+  ,
+where φN and φS are north and south lines of latitude (measured from the equator in radians with angle increasing northward), and θE and θW are east and west lines of longitude (where the angle in radians increases eastward). Mathematically, this represents an arc of angle φN − φS swept around a sphere by θE − θW radians. When longitude spans 2π radians and latitude spans π radians, the solid angle is that of a sphere.
+A latitude-longitude rectangle should not be confused with the solid angle of a rectangular pyramid. All four sides of a rectangular pyramid intersect the sphere's surface in great circle arcs. With a latitude-longitude rectangle, only lines of longitude are great circle arcs; lines of latitude are not.
+The Sun is seen from Earth at an average angular diameter of about 9.35×10−3 radians. The Moon is seen from Earth at an average diameter of 9.22×10−3 radians. We can substitute these into the equation given above for the solid angle subtended by a cone with apex angle 2θ:
+        Ω
+        =
+        2
+        π
+          (
+          1
+          −
+          cos
+          ⁡
+            θ
+          )
+    {\displaystyle \Omega =2\pi \left(1-\cos {\theta }\right)}
+The resulting value for the Sun is 6.87×10−5 steradians. The resulting value for the Moon is 6.67×10−5 steradians. In terms of the total celestial sphere, the Sun and the Moon subtend fractional areas of 0.000546% (Sun) and 0.000531% (Moon). On average, the Sun is larger in the sky than the Moon even though it is much, much farther away.
+The solid angle subtended by the complete (d − 1)-dimensional spherical surface of the unit sphere in d-dimensional Euclidean space can be defined in any number of dimensions d. One often needs this solid angle factor in calculations with spherical symmetry. It is given by the formula
+          Ω
+            d
+        =
+              2
+                π
+                    d
+                    2
+              Γ
+                (
+                    d
+                    2
+                )
+    {\displaystyle \Omega _{d}={\frac {2\pi ^{\frac {d}{2}}}{\Gamma \left({\frac {d}{2}}\right)}}\ }
+where Γ is the gamma function. When d is an integer, the gamma function can be computed explicitly. It follows that
+          Ω
+            d
+        =
+            {
+                      1
+                          (
+                              d
+                              2
+                          −
+                          1
+                          )
+                        !
+                  2
+                    π
+                        d
+                        2
+                  d
+                     even
+                          (
+                              1
+                              2
+                            (
+                            d
+                            −
+                            1
+                            )
+                          )
+                        !
+                        (
+                        d
+                        −
+                        1
+                        )
+                        !
+                    2
+                      d
+                    π
+                          1
+                          2
+                      (
+                      d
+                      −
+                      1
+                      )
+                  d
+                     odd
+    {\displaystyle \Omega _{d}={\begin{cases}{\frac {1}{\left({\frac {d}{2}}-1\right)!}}2\pi ^{\frac {d}{2}}\ &d{\text{ even}}\\{\frac {\left({\frac {1}{2}}\left(d-1\right)\right)!}{(d-1)!}}2^{d}\pi ^{{\frac {1}{2}}(d-1)}\ &d{\text{ odd}}\end{cases}}}
+This gives the expected results of 4π steradians for the 3D sphere bounded by a surface of area 4πr2 and 2π radians for the 2D circle bounded by a circumference of length 2πr. It also gives the slightly less obvious 2 for the 1D case, in which the origin-centered 1D "sphere" is the interval [ −r, r ] and this is bounded by two limiting points.
+Transcendent angle
+Versine and vercosine

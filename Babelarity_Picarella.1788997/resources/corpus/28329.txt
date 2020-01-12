@@ -1,0 +1,31 @@
+The Fokker S-14 Machtrainer was a Dutch two-seater military training jet aircraft designed and manufactured by Fokker for the Royal Netherlands Air Force. Development started in the late 1940s, and it was one of the first jet fighter training aircraft in the world, making its first flight on 19 May 1951 and entering service in 1955.
+In the late 1940s, the Dutch aircraft manufacturer, Fokker, realising that the increasing use of jet-powered fighters meant that existing piston-engined advanced trainers had insufficient performance, started design of a jet-engined advanced trainer, the S.14 Machtrainer. The S.14 was a low-winged monoplane of all-metal construction. In order to aid use in its role as a trainer, the crew of two sat side by side on Martin-Baker ejection seats, with room in the spacious cockpit for a third crew member, although this capability was never used. This gave a fairly wide fuselage. It had a retractable tricycle undercarriage, and was powered by a single Rolls-Royce Derwent engine mounted in the centre fuselage, fed from air inlets in the aircraft's nose. Three airbrakes were fitted to the rear fuselage. The wing design and size allowed for the aircraft to land at much lower speeds than most jet aircraft at the time.
+The first prototype, powered by a Derwent V engine, and registered PH-NDY, made its maiden flight on 19 May 1951, and despite being damaged when its undercarriage failed to extend on its second flight later the same day, was displayed at the Paris Air Show later that year.
+The Royal Netherlands Air Force placed an order for 20 S.14s, with the more powerful Rolls-Royce Derwent 8 engine. Fokker had great hopes for exporting the Machtrainer, with Brazil planning to build 50 Rolls-Royce Nene powered Machtrainers under licence. The first prototype was refitted with a 5,100 lb (22.7 kN) Nene III engine, flying on 25 October 1953, this increasing the Machtrainer's maximum speed to 831 km.h (516 mph). In addition, the American aircraft manufacturer Fairchild, which later also built the Fokker Friendship under license, hoped to win an order for the aircraft from the United States Air Force. The Brazilian plans evaporated following political changes in Brazil, while Fairchild abandoned its production plans. Although several other countries also tested the aircraft, orders did not materialize. Compared to other dedicated jet trainer designs of the same period such as the Fouga Magister, this aircraft had higher operational costs.
+The Machtrainer entered service in October 1955, deliveries continuing until November 1956. Only 19 of the 20 aircraft ordered by the Netherlands Air Force entered service, one being destroyed in a fatal crash in the United States while being used by Fokker as a demonstrator prior to delivery. The S.14 continued in use for over a decade, with a second being lost in a fatal crash in 1964.
+Of the original production, two were lost in accidents and most of the rest were scrapped in the years that followed. Three still exist today including the original prototype (K-1, PH-XIV), which was operated by the Nationaal Lucht en Ruimvaart Laboratorium (NLL), located at Amsterdam's Schiphol Airport, until retirement in March 1966. It was then displayed at the Aviodome museum at Schiphol before moving to the museum at Lelystad Airport by 2008.
+The production aircraft L-11 is preserved at the Royal Netherlands Air Force museum in Soesterberg. L-17 is undergoing renovation. There was a fourth, L-18, which had sat by a gate entrance at the Fokker works at Ypenburg, but it was scrapped in 1994 when it was closed.
+ Netherlands
+Royal Netherlands Air Force
+Data from Twenty-One Worldbeaters
+General characteristics
+Crew: Two
+Length: 13.30 m (43 ft 7 ½ in)
+Wingspan: 12.0 m (39 ft 4½ in)
+Height: 4.7 m (15 ft 5 in)
+Wing area: 31.80 m² (342.3 ft²)
+Empty weight: 3,765 kg (8,300 lb)
+Loaded weight: 5,350 kg (11,794 lb)
+Powerplant: 1 × Rolls Royce Derwent 8 turbojet, 15.35 kN (3,452 lb)
+Performance
+Maximum speed: 730 km/h (395 knots, 454 mph)
+Cruise speed: 589 km/h (318 knots, 366 mph)
+Stall speed: 142 km/h (77 knots, 88 mph)
+Range: 950 km (513 nmi, 590 mi)
+Service ceiling: 11,500 m (36,730 ft)
+Rate of climb: 16.3 m/s (3,200 ft/min)
+Aircraft of comparable role, configuration and era
+Fiat G.80
+Cessna Dragonfly
+Fouga Magister
+Lockheed T-33

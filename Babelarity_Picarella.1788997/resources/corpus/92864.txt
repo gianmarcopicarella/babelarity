@@ -1,0 +1,29 @@
+The Craugastoridae, or fleshbelly frogs, are a family of New World direct-developing frogs. As delineated here, following the Amphibian Species of the World, it is a large family containing 746 species. They are found from the southern United States southwards to Central and South America.
+The taxonomy of these frogs is not yet settled, and other sources may treat the subfamily Strabomantinae as a family, Strabomantidae, with correspondingly smaller Craugastoridae. The most recent rearrangement of subfamilies and genera is from 2014.
+With the possible exception of Craugastor laticeps that may be ovoviviparous, craugastorid frogs have direct development: no free-living tadpole stage is known; instead, eggs develop directly into small froglets.
+The following taxonomy follows Padial and colleagues (2014) and is adopted by the Amphibian Species of the World.
+"Eleutherodactylus" bilineatus (Bokermann, 1975)
+Ceuthomantinae Heinicke, Duellman, Trueb, Means, MacCulloch, and Hedges, 2009 (495 sp.) (=Pristimantinae Ohler and Dubois, 2012)
+Ceuthomantis Heinicke, Duellman, Trueb, Means, MacCulloch, and Hedges, 2009 (four species)
+Dischidodactylus Lynch, 1979 (two species)
+Pristimantis Jiménez de la Espada, 1870 (484 sp.)
+Yunganastes Padial, Castroviejo-Fisher, Köhler, Domic, and De la Riva, 2007 (five species)
+Craugastorinae Hedges, Duellman, and Heinicke, 2008 (132 sp.)
+Craugastor Cope, 1862 (113 spp.)
+Haddadus Hedges, Duellman, and Heinicke, 2008 (three species)
+Strabomantis Peters, 1863 (16 sp.)
+Holoadeninae Hedges, Duellman, and Heinicke, 2008 (118 sp.)
+Barycholos Heyer, 1969 (two species)
+Bryophryne Hedges, Duellman, and Heinicke, 2008 (eight species)
+Euparkerella Griffiths, 1959 (four species)
+Holoaden Miranda-Ribeiro, 1920 (four species)
+Hypodactylus Hedges, Duellman, and Heinicke, 2008 (12 sp.)
+Lynchius Hedges, Duellman, and Heinicke, 2008 (four species)
+Niceforonia Goin and Cochran, 1963 (three species)
+Noblella Barbour, 1930 (11 spp.)
+Oreobates Jiménez de la Espada, 1872 (23 sp.)
+Phrynopus Peters, 1873 (26 sp.)
+Psychrophrynella Hedges, Duellman, and Heinicke, 2008 (21 sp.)
+The following two taxa were formerly placed in Craugastoridae but are now in superfamily Brachycephaloidea, awaiting more data to resolve their position:
+Atopophrynus Lynch and Ruiz-Carranza, 1982 (monotypic).
+Geobatrachus Ruthven, 1915 (monotypic)

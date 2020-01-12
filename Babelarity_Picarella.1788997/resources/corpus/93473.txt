@@ -1,0 +1,48 @@
+The Thaliacea comprise a class of marine animals within the subphylum Tunicata. Unlike their benthic relatives the ascidians, thaliaceans are free-floating (pelagic) for their entire lifespan. The group includes species with complex life cycles with both solitary and colonial forms.
+The three orders of thaliaceans are filter feeders. Pyrosomes are colonial animals, with multiple tiny ascidian-like zooids arranged in a cylinder closed at one end. All of the atrial siphons point inwards, emptying into a single, common cloaca in the centre of the cylinder. As the water exhaled by the zooids exits through a common opening, the water movement slowly propels the pyrosome through the sea. Salps and doliolids have a transparent barrel-shaped body through which they pump water, propelling them through the sea and from which they extract food. The bulk of the body consists of the large pharynx. Water enters the pharynx through the large buccal siphon at the front end of the animal, and is forced through a number of slits in the pharyngeal wall into an atrium lying just behind it. From here, the water is expelled through an atrial siphon at the posterior end. The pharynx is both a respiratory organ and a digestive one, filtering food from the water with the aid of a net of mucus slowly pulled across the slits by cilia.
+Doliolids and salps alternate between asexual and sexual life stages. Salp colonies can be several meters in length. Doliolids and salps rely on muscular action to propel themselves through surrounding sea water.
+Thaliaceans have complex lifecycles. Doliolid eggs hatch into swimming tadpole larvae, which are the common larval stage for other urochordates. Pyrosomes are ovoviviparous, the eggs develop inside the "mother" without the tadpole stage. Salps are viviparous, the embryos are linked to the "mother" by a placenta. This then develops into an oozoid, which reproduces asexually by budding to produce a number of blastozoids, which form long chains (see image). The individual blastozoids then reproduce sexually to produce the eggs and the next generation of oozoids.
+Thaliaceans play an important role in the ecology of the sea. Their dense faecal pellets sink to the bottom of the oceans and this may be a major part of the worldwide carbon cycle.
+The class is a relatively small one, and is divided into three orders:
+Class Thaliacea
+Order Pyrosomida Jones 1848
+Family Pyrosomatidae Garstang 1929
+Subfamily Pyrostremmatinae van Soest 1979
+Genus Pyrostremma Garstang 1929 [Propyrosoma Ivanova-Kazas 1962]
+Subfamily Pyrosomatinae
+Genus Pyrosoma Péron 1804 [Dipleurosoma Brooks 1906]
+Genus Pyrosomella van Soest 1979
+Order Salpida [Hemimyaria; Desmomyaria Uljanin 1884]
+Family Salpidae Franstedt 1885
+Subfamily Cyclosalpinae Yount 1954
+Genus Cyclosalpa Blainville 1827 [Orthocoela Macdonald 1864; Pyrosomopsis Macdonald 1864]
+Genus Helicosalpa Todaro 1902
+Subfamily Salpinae Lahille 1888
+Genus Brooksia Metcalf 1918
+Genus Iasis Savigny 1816 [Weelia Yount 1954; Salpa (Iasis) Savigny 1816]
+Genus Ihlea Metcalf 1919 non Metcalf 1918 [Apsteinia Metcalf 1918 non Schmeil 1894]
+Genus Metcalfina Ihle & Ihle-Landenberg 1933
+Genus Pegea Savigny 1816
+Genus Ritteriella Metcalf 1919 [Ritteria Metcalf 1918 non Kramer 1877]
+Genus Salpa Forskål 1775 [Biphora Bruguière 1789; Bifora Agassiz 1846; Dagysa Banks & Solander 1773]
+Genus Soestia [Holothurium sensu Pallas 1774]
+Genus Thetys Tilesius 1802 [Salpa (Thetys) Tilesius 1802]
+Genus Thalia Blumenbach 1798 [Dubreuillia Lesson 1832; Edusa Gistl 1848]
+Genus Traustedtia Metcalf 1918 [Salpa (Traustedtia) Metcalf 1918]
+Order Doliolida [Cyclomyaria Uljanin 1884]
+Suborder Doliolidina
+Family Doliolidae Bronn 1862
+Genus Dolioletta Borgert 1894
+Genus Doliolina Garstang 1933
+Genus Dolioloides Garstang 1933
+Genus Doliolum Quoy & Gaimard 1834
+Family Doliopsoididae Godeaux 1996
+Genus Doliopsoides Krüger 1939
+Suborder Doliopsidina
+Family Doliolunidae Robison, Raskoff & Sherlock 2005
+Genus Pseudusa Robison, Raskoff & Sherlock 2005
+Family Doliopsidae Godeaux 1996
+Genus Doliolula Robison, Raskoff & Sherlock 2005
+Genus Doliopsis Vogt 1854
+Family Paradoliopsidae Godeaux 1996
+Genus Paradoliopsis Godeaux 1996

@@ -1,0 +1,7 @@
+き, in hiragana, キ in katakana, is one of the Japanese kana, which each represent one mora. Both represent [ki] and are derived from a simplification of the 幾 kanji. The hiragana character き, like さ, is drawn with the lower line connected when printing. When writing, the lines are separated (as in the picture to the right).
+A dakuten may be added to the character; this transforms it into ぎ in hiragana, ギ in katakana, and gi in Hepburn romanization. The phonetic value also changes, to [ɡi] in initial, and varying between [ŋi] and [ɣi] in the middle of words.
+A handakuten (゜) does not occur with ki in normal Japanese text, but it may be used by linguists to indicate a nasal pronunciation [ŋi].
+Computer encodings
+Braille
+Japanese semaphore
+The Wabun code for き or キ is －・－・・.

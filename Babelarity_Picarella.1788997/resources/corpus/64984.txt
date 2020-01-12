@@ -1,0 +1,8 @@
+Enrico Betti (21 October 1823 – 11 August 1892) was an Italian mathematician, now remembered mostly for his 1871 paper on topology that led to the later naming after him of the Betti numbers. He worked also on the theory of equations, giving early expositions of Galois theory. He also discovered Betti's theorem, a result in the theory of elasticity.
+Betti was born in Pistoia, Tuscany. He graduated from the University of Pisa in 1846 under Giuseppe Doveri (1792–1857). In Pisa, he was also a student of Ottaviano Fabrizio Mossotti and Carlo Matteucci. After a time teaching, he held an appointment there from 1857. In 1858 he toured Europe with Francesco Brioschi and Felice Casorati, meeting Bernhard Riemann. Later he worked in the area of theoretical physics opened up by Riemann's work. He was also closely involved in academic politics, and the politics of the new Italian state.
+Opere matematiche di Enrico Betti, pubblicate per cura della R. Accademia de' lincei (2vols.) (U. Hoepli, Milano, 1903–1913)
+E. Betti, Sopra gli spazi di un numero qualunque di dimensioni, Ann. Mat. Pura Appl. 2/4 (1871), 140–158. [1] ISSN 0373-3114 (Betti's most well known paper).
+Betti cohomology
+Betti group
+Betti number
+Carruccio, Ettore (1970–80). "Betti, Enrico". Dictionary of Scientific Biography 2. New York: Charles Scribner's Sons. pp. 104–106. ISBN 978-0-684-10114-9. 

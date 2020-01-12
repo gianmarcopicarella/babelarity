@@ -1,0 +1,17 @@
+Ex vivo (Latin: "out of the living") means that which takes place outside an organism. In science, ex vivo refers to experimentation or measurements done in or on tissue from an organism in an external environment with minimal alteration of natural conditions. Ex vivo conditions allow experimentation on an organisms cells or tissue under more controlled conditions than is possible in in vivo experiments (in the intact organism), at the expense of altering the "natural" environment.
+A primary advantage of using ex vivo tissues is the ability to perform tests or measurements that would otherwise not be possible or ethical in living subjects. Tissues may be removed in many ways, including in part, as whole organs, or as larger organ systems.
+Examples of ex vivo specimen use include:
+assays;
+finding conventional or alternative cancer treatment agents that are effective against the organism's cancer cells
+measurements of physical, thermal, electrical, mechanical, optical and other tissue properties, especially in various environments that may not be life-sustaining (for example, at extreme pressures or temperatures);
+realistic models for surgical procedure development;
+investigations into the interaction of different energy types with tissues;
+or as phantoms in imaging technique development.
+The term ex vivo means that the samples to be tested have been extracted from the organism. The term in vitro ("within the glass") means the samples to be tested are obtained from a repository, in the case of cancer cells a strain that would produce favorable results, then grown to produce a control sample and the number of samples required for the number of test. These two terms are not synonymous even though the testing in both cases is "within the glass". The results of ex vivo only apply to the organism supplying the cell whereas the in vitro results only apply to the cell line used.
+In cell biology, ex vivo procedures often involve living cells or tissues taken from an organism and cultured in a laboratory apparatus, usually under sterile conditions with no alterations for up to 24 hours to obtain sufficient cells for the experiments. Experiments generally start after 24 hours of incubation, using living cells or tissue from the same organism are still considered to be ex vivo. One widely performed ex vivo study is the chick chorioallantoic membrane (CAM) assay. In this assay, angiogenesis is promoted on the CAM membrane of a chicken embryo outside the organism (chicken).
+Animal testing
+In situ
+In utero
+In vitro
+In vivo
+In silico

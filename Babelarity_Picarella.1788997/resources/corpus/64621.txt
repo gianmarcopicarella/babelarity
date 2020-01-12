@@ -1,0 +1,19 @@
+Jacques Herbrand (12 February 1908 – 27 July 1931) was a French mathematician. Although he died at only 23 years of age, he was already considered one of "the greatest mathematicians of the younger generation" by his professors Helmut Hasse, and Richard Courant.
+He worked in mathematical logic and class field theory. He introduced recursive functions. Herbrand's theorem refers to either of two completely different theorems. One is a result from his doctoral thesis in proof theory, and the other one half of the Herbrand–Ribet theorem. The Herbrand quotient is a type of Euler characteristic, used in homological algebra. He contributed to Hilbert's program in the foundations of mathematics by providing a constructive consistency proof for a weak system of arithmetic. The proof uses the above-mentioned, proof-theoretic Herbrand's theorem.
+Herbrand finished his doctorate at École Normale Supérieure in Paris under Ernest Vessiot in 1929. He joined the army in October 1929, however, and so did not defend his thesis at the Sorbonne until the following year. He was awarded a Rockefeller fellowship that enabled him to study in Germany in 1931, first with John von Neumann in Berlin, then during June with Emil Artin in Hamburg, and finally with Emmy Noether in Göttingen.
+He submitted his principal study of proof theory and general recursive functions "On the consistency of arithmetic" early in 1931. While the essay was under consideration, Gödel's "On formally undecidable sentences of Principia Mathematica and related systems I" announced the impossibility of formalizing within a theory that theory's consistency proof. Herbrand studied Gödel's essay and wrote an appendix to his own study explaining why Gödel's result did not contradict his own. In July of that year he was mountain-climbing in the French Alps with two friends when he fell to his death in the granite mountains of Massif des Écrins. "On the consistency of arithmetic" was published posthumously.
+"Jacques Herbrand would have hated Bourbaki" said French mathematician Claude Chevalley quoted in Michèle Chouchan, "Nicolas Bourbaki Faits et légendes", Éditions du choix, 1995.
+Primary literature:
+1967. Jean van Heijenoort (ed.), From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931. Cambridge, Mass.: Harvard Univ. Press.
+1930. "Investigations in proof theory," 525-81.
+1931. "On the consistency of arithmetic," 618-28.
+1968. Jean van Heijenoort (ed.), Jacques Herbrand, Écrits logiques. Paris: Presses Universitaires de France.
+1971. Warren David Goldfarb (transl., ed.), Logical Writings of Jacques Herbrand Cambridge, Mass.: Harvard University Press.
+Herbrand universe
+Herbrand base
+Herbrand interpretation
+Herbrand structure
+Herbrand theory
+Herbrand–Ribet theorem
+Herbrand quotient
+Rollo Davidson

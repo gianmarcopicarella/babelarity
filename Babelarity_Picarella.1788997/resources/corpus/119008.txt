@@ -1,0 +1,102 @@
+Surface roughness often shortened to roughness, is a component of surface texture. It is quantified by the deviations in the direction of the normal vector of a real surface from its ideal form. If these deviations are large, the surface is rough; if they are small, the surface is smooth. Roughness is typically considered to be the high-frequency, short-wavelength component of a measured surface (see surface metrology). However, in practice it is often necessary to know both the amplitude and frequency to ensure that a surface is fit for a purpose.
+Roughness plays an important role in determining how a real object will interact with its environment. Rough surfaces usually wear more quickly and have higher friction coefficients than smooth surfaces (see tribology). Roughness is often a good predictor of the performance of a mechanical component, since irregularities in the surface may form nucleation sites for cracks or corrosion. On the other hand, roughness may promote adhesion.
+Although a high roughness value is often undesirable, it can be difficult and expensive to control in manufacturing. Decreasing the roughness of a surface will usually increase its manufacturing costs. This often results in a trade-off between the manufacturing cost of a component and its performance in application.
+Roughness can be measured by manual comparison against a "surface roughness comparator", a sample of known surface roughnesses, but more generally a surface profile measurement is made with a profilometer that can be contact (typically a diamond stylus) or optical (e.g. a white light interferometer).
+However, controlled roughness can often be desirable. For example, a gloss surface can be too shiny to the eye and too slippery to the finger (a touchpad is a good example) so a controlled roughness is required. This is a case where both amplitude and frequency are very important.
+A roughness value can either be calculated on a profile (line) or on a surface (area). The profile roughness parameter (Ra, Rq,...) are more common. The area roughness parameters (Sa, Sq,...) give more significant values.
+Each of the roughness parameters is calculated using a formula for describing the surface. Although these parameters are generally considered to be "well known" a standard reference describing each in detail is Surfaces and their Measurement.
+There are many different roughness parameters in use, but 
+          R
+            a
+    {\displaystyle R_{\text{a}}}
+   is by far the most common, though this is often for historical reasons and not for particular merit, as the early roughness meters could only measure 
+          R
+            a
+    {\displaystyle R_{\text{a}}}
+  . Other common parameters include 
+          R
+            z
+    {\displaystyle R_{\text{z}}}
+  , 
+          R
+            q
+    {\displaystyle R_{\text{q}}}
+  , and 
+          R
+            sk
+    {\displaystyle R_{\text{sk}}}
+  . Some parameters are used only in certain industries or within certain countries. For example, the 
+          R
+            k
+    {\displaystyle R_{\text{k}}}
+   family of parameters is used mainly for cylinder bore linings, and the Motif parameters are used primarily within France.
+Since these parameters reduce all of the information in a profile to a single number, great care must be taken in applying and interpreting them. Small changes in how the raw profile data is filtered, how the mean line is calculated, and the physics of the measurement can greatly affect the calculated parameter. With modern digital equipment it makes sense to look at the scan and make sure there aren't some obvious glitches that are skewing the values - and if there are, to re-measure.
+Because it is not obvious to many users what each of the measurements really means, it is helpful to have a simulation tool that lets you "play" with key parameters and see how well (or badly) surfaces which are obviously different to the human eye are differentiated by the measures. It is clear, for example that 
+          R
+            a
+    {\displaystyle R_{\text{a}}}
+   would fail to distinguish between two surfaces where one is composed of peaks on an otherwise smooth surface and the other is composed of troughs of the same amplitude. Such tools can be found in app format.
+By convention every 2D roughness parameter is a capital R followed by additional characters in the subscript. The subscript identifies the formula that was used, and the R means that the formula was applied to a 2D roughness profile. Different capital letters imply that the formula was applied to a different profile. For example, Ra is the arithmetic average of the roughness profile, Pa is the arithmetic average of the unfiltered raw profile, and Sa is the arithmetic average of the 3D roughness.
+Each of the formulas listed in the tables assumes that the roughness profile has been filtered from the raw profile data and the mean line has been calculated. The roughness profile contains 
+        n
+    {\displaystyle n}
+   ordered, equally spaced points along the trace, and 
+          y
+            i
+    {\displaystyle y_{i}}
+   is the vertical distance from the mean line to the 
+          i
+            th
+    {\displaystyle i^{\text{th}}}
+   data point. Height is assumed to be positive in the up direction, away from the bulk material.
+Amplitude parameters characterize the surface based on the vertical deviations of the roughness profile from the mean line. Many of them are closely related to the parameters found in statistics for characterizing population samples. For example, 
+          R
+            a
+    {\displaystyle R_{\text{a}}}
+   is the arithmetic average of the absolute values and Rt is the range of the collected roughness data points.
+The roughness average, 
+          R
+            a
+    {\displaystyle R_{\text{a}}}
+  , is the most widely used one-dimensional roughness parameter.
+Slope parameters describe characteristics of the slope of the roughness profile. Spacing and counting parameters describe how often the profile crosses certain thresholds. These parameters are often used to describe repetitive roughness profiles, such as those produced by turning on a lathe.
+Other "frequency" parameters are Sm, 
+        λ
+    {\displaystyle \lambda }
+  a and 
+        λ
+    {\displaystyle \lambda }
+  q. Sm is the mean spacing between peaks. Just as with real mountains it is important to define a "peak". For Sm the surface must have dipped below the mean surface before rising again to a new peak. The average wavelength 
+        λ
+    {\displaystyle \lambda }
+  a and the root mean square wavelength 
+        λ
+    {\displaystyle \lambda }
+  q are derived from 
+        Δ
+    {\displaystyle \Delta }
+  a. When trying to understand a surface that depends on both amplitude and frequency it is not obvious which pair of metrics optimally describes the balance, so it is a good idea to do a statistical analysis of pairs of measurements (e.g. Rz and 
+        λ
+    {\displaystyle \lambda }
+  a or Ra and Sm) to find the strongest correlation.
+These parameters are based on the bearing ratio curve (also known as the Abbott-Firestone curve.) This includes the Rk family of parameters.
+The mathematician Benoît Mandelbrot has pointed out the connection between surface roughness and fractal dimension.
+Areal roughness parameters are defined in the ISO 25178 series. The resulting values are Sa, Sq, Sz,... . At the moment many optical measurement instruments are able to measure the surface roughness over an area. Area measurements are also possible with contact measurement systems. Multiple, closely spaced 2D scans are taken of the target area. These are then digitally stitched together using relevant software, resulting in a 3D image and accompanying areal roughness parameters.
+In terms of engineering surfaces, roughness is considered to be detrimental to part performance. As a consequence, most manufacturing prints establish an upper limit on roughness, but not a lower limit. An exception is in cylinder bores where oil is retained in the surface profile and a minimum roughness is required.
+Roughness is often closely related to the friction and wear properties of a surface. A surface with a large 
+          R
+            a
+    {\displaystyle R_{a}}
+   value, or a positive 
+          R
+            s
+            k
+    {\displaystyle R_{sk}}
+  , will usually have high friction and wear quickly. The peaks in the roughness profile are not always the points of contact. The form and waviness (i.e. both amplitude and frequency) must also be considered.
+It affects the productivity of wind generation farms.
+Discontinuity (Geotechnical engineering)
+Rugosity
+Surface finish
+Surface metrology
+Surface roughness measurement ISO 25178
+Waviness

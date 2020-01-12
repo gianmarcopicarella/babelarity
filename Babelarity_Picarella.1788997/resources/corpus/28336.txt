@@ -1,0 +1,118 @@
+The Mil Mi-1 (USAF/DoD reporting name "Type 32", NATO reporting name "Hare") was a Soviet three- or four-seat light utility helicopter. It was the first Soviet helicopter to enter serial production. It is powered by one 575 hp Ivchenko AI-26V radial. It entered service in 1950 and was first seen on the 1951 Soviet Aviation Day, Tushino and was produced for 16 years. More than 1,000 were built in the USSR and 1,594 in Poland, as SM-1.
+Mikhail Mil began work on rotary-winged aircraft before 1930, but the Mi-1, his first production helicopter, was begun in 1946, under a designation EG-1. In 1947 Mil became a head of OKB-4 design bureau in Tushino, and works were intensified. A final design was named GM-1 (for Gelikopter Mila). Its design owed much to the Sikorsky S-51 and Bristol 171, with almost identical main rotor to the British machine and similar shafting and clutch. The prototype completed first free flight on 20 September 1948 (pilot Mikhail Baikalov). In 1949 it underwent official state trials. Despite crashes of two prototypes, the design was an overall success, and after further work, was ordered for a production, under a new designation Mi-1, for Mil initials. The production was initially limited—the first series of only 15 machines was ordered on 21 February 1950, in factory No.3 in Moscow. Only after presentation to Joseph Stalin in 1951, the authorities decided to increase production. In 1952–1953, 30 Mi-1 were manufactured in Kazan, and from 1954 a mass production started in Orenburg and from 1956 in Rostov (current Rostvertol). The design was a subject of further improvements during production, mostly increasing reliability. Especially a rotor technology was changing. Period between repair increased to 300 hours in Mi-1T (hence a letter T for trekhsotchasovoi), 600 in Mi-1A, then to 1,000 and 3,000 hours by the end of production.
+All early variants seated pilot in front and two passengers behind him, in common cabin. The first production variant was Mi-1, quickly replaced by improved Mi-1T, that carried extra operational equipment including full radio and blind-flying instruments, and had more reliable engine AI-26V. The next basic variant was the Mi-1A of 1957, with further increased reliability and provisions for one 160 l external fuel tank.
+A new major variant, Mi-1M in 1957 introduced an enlarged cabin and the more powerful AI-26VF engine, which allowed the accommodation of three passengers on a bench behind the pilot. Cabin height increased from 1.22 to 1.26 m and width from 1.01 to 1.2 m. A noticeable difference was horizontal bottom windows being orthogonal instead of slanted, with bigger rear side windows, and a less pointed fuselage nose. It could also be fitted with two external side capsules for the injured or mail. There were trials of an armed anti-tank variant Mi-1MU carried in 1961, being the first Soviet attack helicopter, but it did not enter production due to having a small payload and the cessation of production of the basic variant.
+Well over 1,000 of all variants were built in the USSR, including a proportion of dual-control trainers: Mi-1U, TU, AU, MU, with the instructor seated behind a trainee. 15 were produced in Moscow in 1950, 30 in Kazan in 1952–1953, 597 in Orenburg in 1954–1958 and 370 in Rostov in 1956–1960. In 1956 license-production of the four-seat model began in Poland, at WSK PZL-Świdnik, where 1,594 were built until 1965, under the designation SM-1. Several new versions were developed at Świdnik, including the SM-2 five-seater, with a new fuselage.
+Several international records in its class were broken with the Mi-1 or SM-2.
+GM-1
+The original designation of the Mil Mi-1 prototypes, powered by a AI-26GR 500-550 hp radial engine (later AI-26GRF).
+Mi-1
+Three-seat light general-purpose helicopter, seating a pilot and two passengers, powered by a AI-26GRF 575 hp radial piston engine. Initial production model.
+Mi-1T
+Three-seat general-purpose transport helicopter, seating a pilot and two passengers, powered by a AI-26V radial piston engine.
+Mi-1KR (TKR)
+Light reconnaissance and liaison helicopter of 1956, basing on Mi-1T.
+Mi-1NKh
+Three-seat general-purpose utility helicopter, basing on Mi-1T. Designed to be used as an agricultural aircraft, air ambulance, passenger transport, air mail, freight transport helicopter (NKh—narodnoye khozyastvo—National Economy).
+Mi-1A
+Three-seat general-purpose transport helicopter of 1957, seating a pilot and two passengers, with increased reliability.
+Mi-1AKR
+Light reconnaissance and liaison helicopter, basing on Mi-1A.
+Mi-1U/TU/AU/MU
+Dual-control training helicopter variants (respectively, of basic Mi-1, T, A and M models).
+Mi-1M
+Four-seat light general-purpose helicopter of 1957, seating a pilot and three passengers. Visible changes are: raised roof above a cabin, blunter nose shape, and horizontal bottom windows' line instead of slanted.
+Mi-1M Moskvich
+Civil transport helicopter for Aeroflot, with better cabin soundproofing, equipped with hydraulic controls and an all-metal rotor.
+Mi-1MNKh
+Four-seat general-purpose utility helicopter, basing on Mi-1M. Designed to be used as an agricultural aircraft, air ambulance, passenger transport, air mail, freight transport helicopter (NKh—narodnoye khozyastvo—National Economy).
+Mi-1MG
+Float-equipped version of the Mi-1M for whaling ships, of 1958 (2 made).
+Mi-1MRK
+Prototype of a liaison helicopter, basing on Mi-1M (razvedyvatelno-korrektirovochnoi—reconnaissance-artillery correcting), tested in 1960-1962.
+Mi-1MU
+Prototype of an armed variant, tested from 1961, with four 3M11 Falanga (AT-2) or six 9M14 Malyutka (AT-3) anti-tank missiles.
+SM-1 (SM-1/300)
+Polish production version, powered by a LiT-3 radial piston engine. The Mil Mi-1 helicopter built by WSK PZL-Świdnik under licence in Poland.
+SM-1/600
+Polish production version with increased reliability of 600 hours, of 1957 (factory designation).
+SM-1W
+Polish production version of the Mi-1M, of 1960.
+SM-1Wb
+Polish production version of the Mi-1M, of 1963, with increased reliability of 800 hours (factory designation).
+SM-1WS
+Air ambulance helicopter.
+SM-1WSz
+Dual-control training helicopter.
+SM-1WZ
+Agricultural helicopter.
+SM-2
+Improved Polish version with a stretched fuselage, seating a pilot and four passengers.
+Mi-3
+Improved version with four bladed main rotor. Designation reused for a planned Mi-2 derivative.
+ Afghanistan
+Afghan Air Force
+ Albania
+Albanian Air Force
+ Algeria
+Algerian Air Force
+ Bulgaria
+Bulgarian Air Force
+ China
+People's Liberation Army Air Force
+ Cuba
+Cuban Air Force
+ Czechoslovakia
+Czechoslovakian Air Force
+ East Germany
+East German Air Force
+ Egypt
+Egyptian Air Force
+ Finland
+Finnish Air Force
+ Hungary
+Hungarian Air Force
+ Iraq
+Iraqi Air Force
+ Mongolia
+Mongolian Air Force
+ North Korea
+North Korean Air Force
+ Poland
+Polish Air Force
+ Romania
+Romanian Air Force
+ Soviet Union
+Aeroflot
+Soviet Air Force
+ Syria
+Syrian Air Force
+ United Arab Republic
+UAR Air Force
+ Vietnam
+North Vietnamese Air Force
+ Yemen
+Yemeni Air Force
+General characteristics
+Crew: One
+Capacity: 2 passengers or 255 kg (561 lb) of cargo
+Length: 12.09 m (39 ft 8 in)
+Rotor diameter: 14.35 m (47 ft 1 in)
+Height: 3.30 m (10 ft 10 in)
+Disc area: 161.7 m² (1,740 ft²)
+Empty weight: 1,700 kg (3,740 lb)
+Loaded weight: 2,140 kg (4,708 lb)
+Max. takeoff weight: 2,330 kg (5,126 lb)
+Powerplant: 1 × Ivchenko AI-26V radial engine, 429 kW (575 hp)
+Performance
+Maximum speed: 185 km/h (115 mph)
+Range: 430 km (268 mi)
+Service ceiling: 3,500 m (11,480 ft)
+Rate of climb: 5.3 m/s (1,043 ft/min)
+Disc loading: 13 kg/m² (3 lb/ft²)
+Power/mass: 0.20 kW/kg (0.12 hp/lb)
+Related development
+Mil Mi-3
+Aircraft of comparable role, configuration and era
+Sikorsky H-5
+Bristol Sycamore

@@ -1,0 +1,63 @@
+Code folding is a feature of some text editors, source code editors, and IDEs that allows the user to selectively hide and display – "fold" – sections of a currently-edited file as a part of routine edit operations. This allows the user to manage large amounts of text while viewing only those subsections of the text that are specifically relevant at any given time.
+Identification of folds can be automatic, most often based on the syntax of the computer language in question, indentation, or manual, either based on an in-band marker (saved as part of the source code) or specified out-of-band, only within the editor.
+Many editors provide disclosure widgets for code folding in a sidebar, next to line numbers, indicated for example by a triangle that points sideways (if collapsed) or down (if expanded), or by a [-] box for collapsible (expanded) text, and a [+] box for expandable (collapsed) text. This feature is commonly used by some computer programmers to manage source code files, and is also frequently used in data comparison, to only view the changed text.
+Text folding is a similar feature used in folding editors and outliners, but is used for ordinary text and, if automatic, is based on syntax of human languages, particularly paragraphs, or section levels, rather than syntax of a computer language. Another variant of code folding is "data folding", which is implemented in some hex editors and is used to structure a binary file or hide inaccessible data sections in a RAM-editor. There are various alternative terms for such features, including "expand and collapse", "code hiding", and "outlining".
+Probably the first folding editor was the 1974 Structured Programming Facility (SPF) editor for IBM 370 mainframes which could hide lines based on their indentation. It displayed on character-mapped 3270 terminals.  It was very useful for prolix languages like COBOL. It evolved into the Interactive System Productivity Facility(ISPF)).
+Code folding has various use patterns, primarily organizing code or hiding less useful information so one can focus on more important information. Common patterns follow.
+Outlining
+Most basically, applications use code folding to outline source code, collapsing each block to a single line. This can be only top-level blocks like functions and classes, nested blocks like nested functions and methods, or all blocks, notably control-flow blocks. This allows one to get an overview of code, easily navigating and rearranging it, and to drill down into more detail as needed, without being distracted by other code. Viewing-wise, this allows one to quickly see a list of all functions (without their bodies), while navigation-wise this replaces extensive paging past long functions – or searching for the target – with going directly to the next function.
+Hiding boilerplate code
+Some languages or libraries require extensive boilerplate code. This results in extremely long code, which can obscure the main point. Further, substantive code can be lost in the boilerplate.
+For example, in Java a single private field with a getter and setter requires at least 3 lines, if each is on a separate line:
+This expands to 10 lines with conventional function line-breaks and spacing between functions (including trailing newline):
+Documentation with Javadoc expands this to 20 lines:
+If there are many such fields, the result can easily be hundreds of lines of code with very little "interesting" content – code folding can reduce this to a single line per field, or even to a single line for all fields. Further, if all routine fields are folded, but non-routine fields (where getter or setter is not just returning or assigning a private field) are not folded, it becomes easier to see the substantive code.
+Collapsing metadata
+Metadata can be lengthy, and is generally less important than the data it is describing. Collapsing metadata allows one to primarily focus on the data, not the metadata. For example, a long list of attributes in C# may be manually collapsed as follows:
+The resulting code displays as:
+Attributes
+public ITemplate ContentTemplate
+{
+    get { return _temp; }
+    set { _temp = value; }
+}
+Collapsing comments
+Comments are a form of human-readable metadata, and lengthy comments can disrupt the flow of code. This can be the case either for a long comment for a short section of code, such as a paragraph to explain one line, or comments for documentation generators, such as Javadoc or XML Documentation. Code folding allows one to have long comments, but to display them only when required. In cases where a long comment has a single summary line, such as Python docstrings, the summary can still be displayed when the section is collapsed, allowing a summary/detailed view.
+Showing structure or sandwich code in structured programming
+Structured programming consists of nested blocks of code, and long blocks of code – such as long switch statements – can obscure the overall structure. Code folding allows one to see the overall structure and expand to a specific level. Further, in some uses, particularly strict structured programming (single function exit), there are code patterns that are hard to see when looking at expanded code. For example, in resource management in structured programming, one generally acquires a resource, followed by a block of code using the resource, and finishing with releasing the resource. The acquisition/release pairing is hard to see if there is a long block of code in between, but easy to see if the intervening block is folded. Similarly, in conditional code like if...then...else, secondary blocks may be far from the condition statement.
+Grouping code
+Fold groups can be used to group code, either by explicit grouping – similar to comment blocks separating a module into sections, or class members into associated groups – or implicitly, such as by automatically grouping class members by access level.
+Hiding legacy code
+Legacy code – or any code that a developer does not wish to view or change at a given point in time – can be folded away so that programmers can concentrate on the code under consideration.
+In order to support code folding, the text editor must provide a mechanism for identifying "folding points" within a text file. Some text editors provide this mechanism automatically, while others provide defaults that can either be overridden or augmented by the user.
+There are various mechanisms, coarsely divided as automatic and manual – do they require any specification by the programmer? Folding points are usually determined with one or more of the following mechanisms. Each of these has its own distinct advantages and difficulties, and it is essentially up to the developers who create the text editor software to decide which to implement. Text editors that provide support for multiple folding mechanisms typically allow the user to choose which is most appropriate for the file being edited.
+Syntax-dependent folding points are those that rely on the content of the file being edited in order to specify where specific folding regions should begin and end. Syntax-based folding points are typically defined around any or all of the standard sub-features of the markup language or programming language in use. These are desirable due to being automatic and agreeing with code structure, but may require significant work to implement, and time to compute when editing a file.
+Indentation-based folding points are generally specified by the position and sequence of non-printing whitespace, such as tabs and spaces, within the text. This is most often used as a simple form of syntax-based folding, as indentation almost always reflects nesting level in indent styles for structured programming languages.
+This convention is particularly suitable to syntaxes that have an off-side rule, so the structure largely agrees with the indent. Examples include Python and text files that require indentation as a rule by themselves. However, even in these cases, structure does not exactly agree with indent, such as in line continuation, and thus syntax-dependent folding is preferred.
+Token-based folding points are specified using special delimiters that serve no other purpose in the text than to identify the boundaries of folding points. This convention can be compared to indentation-based folding points, where printable characters are used instead of whitespace. The most common delimiter tokens are {{{ to begin the folded section, and }}} to end it.
+Another notable token is #region (C# directives), respectively #Region (Visual Basic directives), used in Microsoft Visual Studio Code Editor. These are treated syntactically as compiler directives, though they do not affect compilation.
+As a manual method, token-based folding allows discretion in grouping code based on arbitrary criteria, such as "functions related to a given task", which cannot be inferred from syntactic analysis.
+Token-based folding requires in-band signalling, with folding tokens essentially being structured comments, and unlike other methods, are present in the source code and visible to other programmers. This allows them to be shared, but also requires their use (or preservation) by all programmers working on a particular file, and can cause friction and maintenance burden.
+User-specified folding allows the user to fold sections of text using a generic selection method, but without changing the source code (out-of-band), instead being specified only in the editor. For example, a programmer may select some lines of text and specify that they should be folded. Folded text might be anonymous or named, and this may be preserved across editing sessions or discarded. Unlike token-based folding, this does not change the source text – it thus is not shared with other editors of the file, and is not visible in the code.
+The following document contains folding tokens ({{{ ... }}}):
+ Heading 1
+ {{{
+ Body
+ }}}
+ Heading 2
+ {{{
+ Body
+ }}}
+ Heading 3
+ {{{
+ Body
+ }}}
+When loaded into a folding editor, the outline structure will be shown:
+ Heading 1
+ {{{ ...
+ Heading 2
+ {{{ ...
+ Heading 3
+ {{{ ...
+Usually clicking on the {{{ marks makes the appropriate body text appear.
+The Programming features section of the Comparison of text editors article for more editors that support folding

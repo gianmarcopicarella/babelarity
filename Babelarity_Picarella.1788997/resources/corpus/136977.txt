@@ -1,0 +1,18 @@
+Biguanide is the organic compound with the formula HN(C(NH)NH2)2. It is a colorless solid that dissolves in water to give highly basic solution. These solutions slowly hydrolyse to ammonia and urea.
+A variety of derivatives of biguanide are used as pharmaceutical drugs.
+The term "biguanidine" often refers specifically to a class of drugs that function as oral antihyperglycemic drugs used for diabetes mellitus or prediabetes treatment.
+Examples include:
+Metformin - widely used in treatment of diabetes mellitus type 2
+Phenformin - withdrawn from the market in most countries due to toxic effects
+Buformin - withdrawn from the market due to toxic effects
+bioactive biguanidines
+Galega officinalis (French lilac) was used in diabetes treatment for centuries. In the 1920s, guanidine compounds were discovered in Galega extracts. Animal studies showed that these compounds lowered blood glucose levels. Some less toxic derivatives, synthalin A and synthalin B, were used for diabetes treatment, but after the discovery of insulin, their use declined. Biguanides were reintroduced into Type 2 diabetes treatment in the late 1950s. Initially phenformin was widely used, but its potential for sometimes fatal lactic acidosis resulted in its withdrawal from most pharmacopeias (in the U.S. in 1978). Metformin has a much better safety profile, and it is the principal biguanide drug used in pharmacotherapy worldwide.
+Biguanides do not affect the output of insulin, unlike other hypoglycemic agents such as sulfonylureas and meglitinides. Therefore, they are effective in Type 2 diabetics; and in Type 1 diabetes when used in conjunction with insulin therapy.
+The mechanism of action of biguanides is not fully understood, eg many mechanisms have been proposed for metformin.
+Mainly used in Type II Diabetes, metformin is considered to increase insulin sensitivity in vivo, resulting in reduced plasma glucose concentrations, increased glucose uptake, and decreased gluconeogenesis.
+However, in hyperinsulinemia, biguanides can lower fasting levels of insulin in plasma. Their therapeutic uses derive from their tendency to reduce gluconeogenesis in the liver, and, as a result, reduce the level of glucose in the blood. Biguanides also tend to make the cells of the body more willing to absorb glucose already present in the blood stream, and there again reducing the level of glucose in the plasma.
+The most common side effect is diarrhea and dyspepsia, occurring in up to 30% of patients. The most important and serious side effect is lactic acidosis, therefore metformin is contraindicated in renal insufficiency. Renal functions should be assessed before starting metformin. Phenformin and buformin are more prone to cause acidosis than metformin; therefore they have been practically replaced by it. However, when metformin is combined with other drugs (combination therapy), hypoglycemia and other side effects are possible.
+Some biguanides are also used as antimalarial drugs. Examples include:
+Proguanil
+Chlorproguanil
+The disinfectants chlorhexidine, polyaminopropyl biguanide (PAPB), polihexanide, and alexidine feature biguanide functional groups.

@@ -1,0 +1,82 @@
+The Panzerfaust 3 (Tank fist 3 or "The German RPG") is a modern disposable recoilless anti-tank weapon, which was developed between 1978 and 1985 and put into service by the Bundeswehr in 1992. It was first ordered in 1973 to provide West German infantry with an effective weapon against contemporary Soviet armour, thereby replacing West Germany's aging PzF 44 Lanze launchers.
+The Panzerfaust 3 consists of a disposable launcher tube holding the projectile and a reusable firing and sighting unit. The projectile consists of a shaped-charge warhead filled with Amatol/Syndril and a shaft including the propulsion unit.
+The Panzerfaust 3 can be fired from enclosed spaces since it does not have a significant backblast; the rear of the tube, filled with plastic granulate, minimises the blast effect by the so-called recoilless countermass principle. The booster propellant for the projectile in its tube is ignited by a bolt via a spring mechanism. Once ejected from the launcher, the projectile coasts a safe distance and then the rocket motor is ignited, boosting it to its maximum speed, after which it coasts until impact.
+As safety precautions, the built-in fuse for the warhead is released by a safety mechanism. This arms the warhead after a flight distance of approximately five meters. Once armed, the warhead will detonate on impact, and as a safety when the rocket's propellant runs out. This safeguards against live ammunition staying around and causing hazards to all in the future. The Panzerfaust 3's name dates back to the Panzerfaust used by the German army in World War II, which consisted of a small, disposable preloaded launch tube firing a high explosive anti-tank warhead, operated by a single soldier.
+The main drawback is that it has only a single shot and soldiers have to get dangerously close to engage targets. Many soldiers also found it very heavy and cumbersome, and its firing mechanism and tube tended to get damaged and jam under battlefield conditions. In addition, the rocket warhead itself was found to be ineffective against heavy armour and armour of newer types and had to be redesigned.
+In consequence, the improved PzF 3-T replaced the original model in the late 1990s, introducing a dual hollow charge "tandem" warhead to defeat explosive reactive armour. This means that the spike projecting from the warhead itself also contains an explosive charge to set off reactive armour and free the path to the main armour for the secondary warhead. The latest incarnation of the Panzerfaust 3, the PzF 3-IT-600, can be fired from ranges up to 600 meters thanks to an advanced computer-assisted sighting and targeting mechanism.
+As of 2005, there were two additional models in the development or testing stage, both relying on smaller, and therefore lighter, warheads. These were the RGW (Rückstoßfreie Granatwaffe, Recoilless Grenade Weapon — which would make it just like the original in name and operation.) in calibres 60 and 90 millimetres. Both new weapons are expected to help facilitate the transition in German military doctrine from preparation for major tank battles to urban and low-level warfare.
+There are three different versions of the Panzerfaust 3:
+Standard Anti-tank version with hollow charge warhead
+Calibre:
+Launcher: 60 mm (2.4 in)
+warhead: 110 mm (4.3 in)
+Weight:
+fire-ready weapon: 15.2 kg (33 lb 8 oz)
+warhead: 3.9 kg (8 lb 10 oz)
+spare rounds: 12.9 kg (28 lb 7 oz)
+Length: 1,200 mm (3 ft 11 in)
+Muzzle velocity: 160.0 m/s (525 ft/s)
+Highest possible speed: 243.0 m/s (797 ft/s)
+Sights: telescope sights (can be reused)
+Maximum effective range:
+Stationary targets: 400.0 m (1,312.3 ft)
+Moving targets: 300.0 m (984.3 ft)
+Minimum effective range: 20.0 m (65.6 ft)
+Penetration capability:
+Rolled homogeneous armour (RHA): 700 mm (28 in)
+Concrete: 1,600 mm (5 ft 3 in)
+Manufacturer: Dynamit-Nobel, Germany
+Improved Anti-tank version with tandem hollow charge warhead (designed to penetrate reactive armour)
+Calibre:
+Launcher: 60 mm (2.4 in)
+warhead: 110 mm (4.3 in)
+Weight:
+fire-ready weapon: 15.6 kg (34 lb 6 oz)
+warhead: 3.9 kg (8 lb 10 oz)
+spare rounds: 13.3 kg (29 lb 5 oz)
+Length: 1,200 mm (3 ft 11 in)
+Muzzle velocity: 152.0 m/s (499 ft/s)
+Highest possible speed: 220.0 m/s (722 ft/s)
+Sights: telescope sights (can be reused)
+Maximum effective range:
+Stationary targets: 400.0 m (1,312.3 ft)
+Moving targets: 300.0 m (984.3 ft) (600.0 m (1,968.5 ft) with DYNARANGE sight)
+Minimum effective range: 20.0 m (65.6 ft)
+Penetration capability:
+RHA: 900 mm (35 in)
+Manufacturer: Dynamit-Nobel, Germany
+Designed for use against hardened bunkers, lightly armoured vehicles & soft targets
+Calibre:
+Launcher: 60 mm (2.4 in)
+warhead: 110 mm (4.3 in)
+Weight:
+fire-ready weapon: 15.6 kg (34 lb 6 oz)
+warhead: 3.9 kg (8 lb 10 oz)
+spare rounds: 13.3 kg (29 lb 5 oz)
+Length: 1,200 mm (3 ft 11 in)
+Muzzle velocity: 149.0 m/s (489 ft/s)
+Highest possible speed: 212.0 m/s (696 ft/s)
+Sights: telescope sights (can be reused)
+Maximum effective range: 300.0 m (984.3 ft)
+Minimum effective range: 20.0 m (65.6 ft)
+Manufacturer: Dynamit-Nobel, Germany
+Penetration capacity:
+RHA: 110 mm (4.3 in)
+Concrete: 360 mm (14 in)
+Sandbags: 1,300 mm (4 ft 3 in)
+The regular firing platform has a purely optical sight, weighing 2.3 kg (5.1 lb). All ranges listed in the article are for the optical sight. A new sight called Dynarange is currently being procured as part of the German Infantryman of the Future project. Essentially this is a computer controlled aiming sight with range finder. It is meant to cope with the fact that some soldiers have a hard time handling the regular sight, as its scope is quite complex to the untrained eye. Also, it increases the weapon's effective range to 600 m (2,000 ft) against moving and stationary targets. Dynarange is already in service with the Royal Netherlands Marine Corps and the Dutch Army.
+The Panzerfaust 3 is distributed in a special package including spare parts and a cleaning kit. The package contains a launcher, ejector and spring, extractor, dummy extractor plug, bolt-head retaining pin, plastic cleaning rod with brass tip, bore and chamber brushes, camel's hair brush and a prismatic bore scope. It takes several minutes to assemble and load the launcher.
+ Austria
+ Belgium
+ Germany
+ Iraqi Kurdistan 200 launchers and 2,500 missiles
+ Italy 2,000 launchers with 17,000 rockets delivered since middle '90s; 7,100 Panzefaust 3-T (PZF3-T) delivered in 2007 
+ Japan
+ Mauritius
+ Netherlands
+ Peru: 1,700 Panzerfaust 3 rockets and 181 launchers.
+ South Korea
+  Switzerland
+PzF 44
+Armbrust
+MATADOR (weapon)

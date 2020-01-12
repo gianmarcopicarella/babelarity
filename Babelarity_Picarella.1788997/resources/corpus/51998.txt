@@ -1,0 +1,97 @@
+A Web Map Service (WMS) is a standard protocol for serving (over the Internet) georeferenced map images which a map server generates using data from a GIS database. The Open Geospatial Consortium developed the specification and first published it in 1999.
+The Open Geospatial Consortium (OGC) became involved in developing standards for web mapping after a paper was published in 1997 by Allan Doyle, outlining a "WWW Mapping Framework". The OGC established a task force to come up with a strategy, and organized the "Web Mapping Testbed" initiative, inviting pilot web mapping projects that built upon ideas by Doyle and the OGC task force. Results of the pilot projects were demonstrated in September 1999, and a second phase of pilot projects ended in April 2000.
+The Open Geospatial Consortium released WMS version 1.0.0 in April 2000, followed by version 1.1.0 in June 2001, and version 1.1.1 in January 2002. The OGC released WMS version 1.3.0 in January 2004.
+WMS specifies a number of different request types, two of which are required by any WMS server:
+GetCapabilities - returns parameters about the WMS (such as map image format and WMS version compatibility) and the available layers (map bounding box, coordinate reference systems, URI of the data and whether the layer is mostly opaque or not)
+GetMap - returns a map image. Parameters include: width and height of the map, coordinate reference system, rendering style, image format
+Request types that WMS providers may optionally support include:
+GetFeatureInfo - if a layer is marked as 'queryable' then you can request data about a coordinate of the map image.
+DescribeLayer - returns the feature types of the specified layer or layers, which can be further described using WFS or WCS requests. This request is dependent on the SLD Profile of WMS.
+GetLegendGraphic - return an image of the map's legend image, giving a visual guide to map elements.
+A WMS server usually serves the map in a bitmap format, e.g. PNG, GIF or JPEG. In addition, vector graphics can be included: such as points, lines, curves and text, expressed in SVG or WebCGM format.
+Open source software that provide web map services capability include:
+GeoServer
+deegree
+MapServer
+MapGuide Open Source
+World Wind Server
+QGIS Server
+GeoWebCache
+Proprietary server software that allow providing web map services include:
+PIXIA Corp'sHiPER LOOK
+Sinergise Giselle
+ObjectFX Web Mapping Tools
+ArcGIS Server
+ArcIMS
+VT MAK's VR-TheWorld
+Envinsa from Pitney Bowes Business Insights
+GeoWebPublisher from Bentley Systems
+GeognoSIS from Cadcorp
+GeoMedia
+Oracle MapViewer
+LizardTech's Express Server
+SIAS (Smallworld Internet Application Server) from GE Energy
+Autodesk's Infrastructure Map Server
+ERDAS, Inc's APOLLO Suite of products
+Manifold System
+MapLink Pro WMS Server from Envitia
+MiraMon Server
+FiberWatch for Remote Fiber Monitoring from NTest Inc
+CubeWerx Suite
+Petrosys
+JMap from K2 Geospatial
+StatMap's Stellar Suite products (inc. Earthlight, Aurora and Comet)
+Luciad's LuciadLightspeed and LuciadFusion products
+Open source standalone (client side) software that allow viewing web map services include:
+Geozilla
+QGIS Browser
+osgEarth
+Marble
+Proprietary standalone (client side) software that allow viewing web map services include:
+Google Earth
+CompeGPS Land
+Geocortex Essentials
+PYXIS WorldView Studio
+Esri ArcGIS & ArcGIS Explorer
+Geoweb3d Desktop and Geoweb3d SDK
+TIBCO Spotfire
+Global Mapper
+Kongsberg Gallium Ltd. InterVIEW / InterMAPhics
+Carbon Project Gaia
+Petrosys
+Luciad's LuciadLightspeed, LuciadRIA and LuciadMobile products
+WMS Viewer for Android and Online
+WMS is a widely supported format for maps and GIS data accessed via the Internet and loaded into client side GIS software. Major commercial GIS and mapping software that support WMS include:
+AnyChart
+Autodesk's Map 3D and Civil 3D products
+Bentley Systems's GIS products
+Cadcorp SIS product suite
+D3.js
+ESRI's ArcGIS products
+GeoMedia
+Global Mapper
+Manifold System
+MapInfo Professional
+Maptitude Mapping Software
+MATLAB and Mapping Toolbox
+Netwin
+PYXIS WorldView
+StatMap's Stellar Suite products
+Tableau
+TIBCO Spotfire
+Visual Crossing
+Open source software that supports WMS include:
+QGIS
+uDig
+OpenJUMP
+MapGuide Open Source
+NASA World Wind
+GRASS GIS
+JOSM
+gvSIG
+OpenLayers
+GE Energy's SIAS, an Ajax library, supports WMS for integrating WMS maps into web pages, as does Mapbender
+Open Source Geospatial Foundation (OSGeo)
+Web Coverage Service (WCS)
+Web Feature Service (WFS)
+Tile Map Service, a specification by Open Source Geospatial Foundation (OSGeo) for tiled map layers

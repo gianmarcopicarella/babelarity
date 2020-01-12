@@ -1,0 +1,48 @@
+The Ilyushin Il-38 "Dolphin" (NATO reporting name: May) is a maritime patrol aircraft and anti-submarine warfare aircraft designed in the Soviet Union. It was a development of the Ilyushin Il-18 turboprop transport.
+The Il-38 is an adaptation of the four-engined turboprop Ilyushin Il-18 for use as a maritime patrol aircraft for the Soviet Navy. It meets a requirement to counter American ballistic missile submarines. The Communist Party Central Committee and the Council of Ministers issued a joint directive on 18 June 1960, calling for a prototype to be ready for trials by the second quarter of 1962. The fuselage, wing, tail unit and engine nacelles were the same as the Il-18 and it had the same powerplant and flightdeck. An aerodynamic prototype of the Il-38 first flew on 28 September 1961, with the first production aircraft following in September 1967. Production continued until 1972, when the longer range and more versatile Tupolev Tu-142 derivative of the Tupolev Tu-95 strategic bomber had entered service.
+The airframe is based on the Il-18, with the wings moved forward 3 m (9.84 ft). Unlike the Il-18, only the forward fuselage of the Il-38 is pressurized. The tail contains a MAD, while under the forward fuselage a Berkut ("Golden Eagle") search radar (named "Wet Eye" by NATO) is housed in a bulged radome. There are two internal weapons bays, one forward of the wing, housing sonobuoys and one behind the wing housing weapons.
+Some Western sources say 58 were produced; the commander of the ASW squadron at Ostrov has stated Soviet Naval Aviation received 35, of which about thirty remain in service with Russian Naval Aviation. Five were passed to India in 1977/8. In the mid-1990s it seems the Tu-204/Tu-214 airliner won a competition against the Beriev A-40/Be-42 amphibious plane to replace the Il-38 in Russian service, but a lack of funds crippled the project. More recently an A-40 variant seems to be under development to replace the Il-38.
+India received three ex-Soviet Naval Aviation Il-38s in 1977, with two more arriving in 1983. Indian modifications included fitting pylons to the fuselage side to carry the Sea Eagle anti-ship missile. The Il-38s of the Indian Navy have been sent back to Russia for upgrades. They will incorporate the new Sea Dragon avionic suite, incorporating a new radar, a Forward looking infrared (FLIR) turret under the nose and an electronic intelligence (ELINT) system housed in a box-like structure mounted on struts above the forward fuselage. Three upgraded aircraft, designated Il-38 SD, have been delivered to the Indian Navy. There are reports of efforts towards adding the capability to fire the Indo-Russian Brahmos cruise missile from this aircraft. Mockups have been displayed with air-launched Brahmos attached to underwing pylons on the Indian Navy aircraft.
+One prototype was lost in the early 1970s when it was forced to ditch in the sea.
+The Il-38 was operated by units in the Soviet Northern, Pacific and Baltic fleets. In March 1968 a squadron of Il-38s deployed to Cairo in Egypt, flown by Soviet crews but in Egyptian markings, until being withdrawn in 1972. Il-38s continued to deploy overseas through the Cold War, flying from Aden in South Yemen, Asmara in what was then Ethiopia, Libya and Syria. Two Il-38s were attacked on the ground in a commando raid and at least one was destroyed by Eritrean People's Liberation Front fighters in 1984 at Asmara. Following the end of the Cold War and the break-up of the Soviet Union, Il-38s continue in service with the Russian Navy's Arctic and Pacific Fleets.
+The type made its first visit to a NATO base in 1995, at NAS Jacksonville. Its first appearance at an airshow in the West was at the 1996 Royal International Air Tattoo in the UK.
+A tragic mid-air crash occurred on 1 October 2002, during the Indian squadron's silver jubilee celebrations. IN302 and IN304, which were flying parallel to each other, had a mid-air collision above the Dabolim airport in Goa. All twelve aircrew (six aboard each aircraft) were killed and both aircraft were also destroyed.
+On December 7, 2010, two Russian Navy Il-38s appeared over the Japan Sea near the Noto Peninsula, interrupting a combined US-Japan Navy drill. The exercises were temporarily halted because of concern that Il-38s might be carrying out surveillance missions on US/Japan naval activities.
+Il-38
+Production aircraft
+Il-38M
+Modified variant with a receiver probe as part of a hose and drogue air refuelling System, did not enter service
+Il-38MZ
+Was a modified tanker variant of the Il-38, did not enter service
+Il-38N
+Improved variant sometimes referred to as Il-38SD for Sea Dragon the new search and tracking system. Version for the Russian Navy is equipped with the Novella system. Il-38N is able to find air targets at ranges of up to 90 kilometers and follow the surface objects within a radius of 320 kilometers. 5 aircraft have been delivered to the Russian Navy. Modernized anti-submarine planes have entered into service with Russia’s Pacific Fleet.
+ India
+Indian Naval Air Arm
+ Russia
+Russian Naval Aviation
+ Soviet Union
+Soviet Naval Aviation
+Data from Russian Navy at RIAT 1996
+General characteristics
+Crew: 7-8
+Length: 40.185 m (131 ft 10 in)
+Wingspan: 37.4 m (122 ft 8 in)
+Height: 10.17 m (33 ft 4 in)
+Wing area: 140 m2 (1,500 sq ft)
+Empty weight: 35,500 kg (78,264 lb)
+Max takeoff weight: 66,000 kg (145,505 lb)
+Powerplant: 4 × Ivchencko/Progress AI-20M turboprop engines, 3,151 kW (4,225 hp) each
+Performance
+Maximum speed: 645 km/h (401 mph; 348 kn)
+Ferry range: 7,500 km (4,660 mi; 4,050 nmi)
+Endurance: 13 hours
+Service ceiling: 11,000 m (36,089 ft)
+Rate of climb: 5.33 m/s (1,049 ft/min)
+Armament
+20,000 lb (9,000 kg) of disposable stores, including depth-charges, mines, torpedoes and bombs.
+Related development
+Ilyushin Il-18
+Aircraft of comparable role, configuration and era
+Breguet Atlantic
+Lockheed P-3 Orion
+Hawker-Siddeley Nimrod

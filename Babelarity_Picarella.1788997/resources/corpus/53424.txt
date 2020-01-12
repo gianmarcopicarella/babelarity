@@ -1,0 +1,46 @@
+Unjust enrichment is a legal concept referring to situations in which one person is enriched at the expense of another in circumstances which the law treats as unjust. Where an individual is unjustly enriched, the law imposes an obligation upon the recipient to make restitution, subject to defences such as change of position. Liability for an unjust (or unjustified) enrichment arises irrespective of wrongdoing on the part of the recipient. The concept of unjust enrichment can be traced to Roman law and the maxim that "no one should be benefited at another's expense": nemo locupletari potest aliena iactura or nemo locupletari debet cum aliena iactura.
+The law of unjust enrichment is closely related to, but not co-extensive with, the law of restitution. The law of restitution is the law of gain-based recovery. It is wider than the law of unjust enrichment. Restitution for unjust enrichment is a subset of the law of restitution in the same way that compensation for breach of contract is a subset of the law relating to compensation.
+Cases of unjust (or unjustified) enrichment can be examined in the following way:
+Was the defendant enriched?
+Was the enrichment at the expense of the claimant?
+Was the enrichment unjust ?
+Does the defendant have a defence?
+What remedies are available to the claimant?
+These questions are a familiar part of the modern English law of unjust enrichment, having been popularised by the writing of Professor Peter Birks and expressly endorsed by English courts. The framework provides a useful taxonomical function in Australian law, though the concept of unjust enrichment has been subject to inconsistent treatment by Australian courts, as discussed below. Stated at this level of abstraction, the framework is a useful grounding for comparative study between common law and civil law jurisdictions.
+In systems of law derived from the English common law, the historical core of the law of unjust enrichment lies in quasi-contract. These were common law (as distinct from equitable) claims giving rise to a personal liability to pay the money value of a benefit received from another. Legal scholars from Oxford, Cambridge and Harvard at the turn of the 20th century began to rationalise these disparate actions into a coherent body of law. The principle said to underlie these actions was eventually accepted to be unjust enrichment. Subsequent scholarship has sought to expand the explanatory power of the principle of unjust enrichment and it is now often said (albeit not without controversy) to encompass both common law and equitable claims.
+In civilian systems of law, unjust enrichment is often referred to as unjustified enrichment.
+Generally speaking, the mere receipt of a benefit from another is unobjectionable and does not attract legal consequences. The exception is where such receipt is 'unjust' or 'unjustified'. Both civilian and common law legal systems have bodies of law providing remedies to reverse such enrichment.
+A conceptual split, albeit one not necessarily coextensive with the civilian-common law distinction, is between systems which operate on an "unjust factor" approach and systems which operate on an "absence of basis" approach.
+Common law systems such as those of England, Australia, Canada and the United States typically adopt the "unjust factor" approach. On this analysis, the claimant must point to a positive reason why the defendant's enrichment is unjust. Examples of 'unjust factors' which will ground a claim for restitution include: mistakes of fact or law; total failure of consideration; duress; undue influence; the Woolwich ground.
+Civil law systems such as those of France and Germany typically adopt an "absence of basis" approach. On this analysis, the defendant is obliged to make restitution if there is no 'basis' for her receipt: for example, because the contract under which the defendant received the benefit was void ab initio. Some common law systems have showed signs of a possible shift towards this approach.
+In most cases, the conceptual approach taken will not affect the outcome of a case. For example, suppose that A makes an oral contract with B under which A will pay $100 for certain services to be provided by B. Further suppose that A pays the money but B discovers that, pursuant to legislation, contracts for such services are void unless in writing. B refuses to perform. Can A recover his payment? On both approaches, B is unjustly enriched at A's expense. On the "absence of basis" approach, B's enrichment has no legitimate explanatory basis because the contract was void. On the "unjust factor" approach, there has been a total failure of consideration; that is, A has received no part of the bargained-for counter-performance; restitution follows automatically from the fact of invalidity.
+The remedy for unjust enrichment is restitution: the restoration of that which was conferred to the claimant. In short, the correcting of the injustice which occurred when the claimant suffered a subtraction from his or her wealth and the defendant received corresponding benefit. Restitution can take the form of a personal or a proprietary remedy.
+Where a personal remedy is awarded, the defendant is ordered to pay the money value of the benefit received. This personal money award is the typical form of restitution ordered.
+Where a proprietary remedy is awarded, the court recognises (or declares) that the defendant has a beneficial or security interest in specific property of the defendant. Whether proprietary remedies can be awarded will depend on the jurisdiction in question.
+In English law, the orthodox view is that unjust enrichment generally triggers personal, rather than proprietary remedies. This is because the law of quasi-contract only generate personal money awards: either a liquidated debt (as in actions for money had and received or money paid) or a sum to be assessed by a civil jury or the court itself (as in quantum meruit or quantum valebat). Scholars seeking to expand the explanatory power of unjust enrichment have argued that other areas of the law such as subrogation and claims to traceable substitutes form part of the law of unjust enrichment. This view has been accepted, though its implications remain unclear.
+In Australian law, actions derived from the common money counts continue to generate only personal remedies. The doctrinal basis of subrogation is not unsettled: it has nothing to do with unjust enrichment. Claims to traceable substitutes are a part of our law of property, not unjust enrichment.
+The law of unjust enrichment in England rapidly developed during the second half of the 20th century. It has been heavily influenced by the writings of jurists from Oxford and Cambridge. England adopts the "unjust factor" approach.
+Whether there is a distinct body of law in Australia known as the law of unjust enrichment is a highly controversial question. In Pavey & Mathews v Paul (1987) 162 CLR 221 the concept of unjust enrichment was expressly endorsed by the High Court of Australia. This was subsequently followed in numerous first instance and appellate decisions, as well as by the High Court itself.
+Considerable skepticism about the utility of the concept of unjust enrichment has been expressed in recent years. The equitable basis for the action for money had and received has instead been emphasised and in Australian Financial v Hills [2014] HCA 14 the plurality held that the concept of unjust enrichment was effectively 'inconsistent' with the law of restitution as it had developed in Australia. It is worth noting that the analytic framework had been expressly endorsed by the High Court just two years before in Equuscorp v Haxton [2012] HCA 7. For the moment, the concept of unjust enrichment appears to serve only a taxonomical function.
+The Restatement (Third) of Restitution and Unjust Enrichment states that unjust enrichment is enrichment that lacks an adequate legal basis. It results from a transfer that the law treats as ineffective to work a conclusive alteration in ownership rights.
+The North Dakota Supreme Court has ruled that five elements must be established to prove unjust enrichment:
+An enrichment
+An impoverishment
+A connection between enrichment and the impoverishment
+Absence of a justification for the enrichment and impoverishment
+An absence of a remedy provided by the law
+Effectively, the civil law doctrine is now in effect in North Dakota, as it has been in Louisiana and in Puerto Rico; both of which are mixed jurisdictions.
+In Massachusetts, there are some decisions denying recovery in restitution by the breaching party although this is not generally the rule in the United States.
+Law of Restitution
+Quasi-Contract
+Other parts of the law of obligations:
+Law of Contract
+Law of Tort
+Law of Trusts
+Leading scholars on the English law of unjust enrichment;
+Robert Goff, Baron Goff of Chieveley
+Professor Gareth Jones
+Professor Peter Birks
+Professor Andrew Burrows
+Professor Graham Virgo
+Professor Charles Mitchell

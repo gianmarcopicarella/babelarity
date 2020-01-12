@@ -1,0 +1,81 @@
+Penutian is a proposed grouping of language families that includes many Native American languages of western North America, predominantly spoken at one time in Washington, Oregon, and California. The existence of a Penutian stock or phylum has been the subject of debate among specialists. Even the unity of some of its component families has been disputed. Some of the problems in the comparative study of languages within the phylum are the result of their early extinction and minimal documentation.
+Consensus was reached at a 1994 workshop on Comparative Penutian at the University of Oregon that the families within the proposed phylum's California, Oregon, Plateau, and Chinookan clusters would eventually be shown to be genetically related. Subsequently, Marie-Lucie Tarpent reassessed Tsimshianic, a geographically isolated family in northern British Columbia, and concluded that its affiliation within Penutian is also probable.
+Some of the more recently proposed subgroupings of Penutian have been convincingly demonstrated. The Miwokan and the Costanoan languages have been grouped into an Utian language family by Catherine Callaghan. Callaghan has more recently provided evidence supporting a grouping of Utian and Yokutsan into a Yok-Utian family. There also seems to be convincing evidence for the Plateau Penutian grouping (originally named Shahapwailutan by J. N. B. Hewitt and John Wesley Powell in 1894) which would consist of Klamath–Modoc, Molala, and the Sahaptian languages (Nez Percé and Sahaptin).
+The name Penutian is based on the words meaning "two" in the Wintuan, Maiduan, and Yokutsan languages (which is pronounced something like [pen]) and the Utian languages (which is pronounced something like [uti]).
+Although perhaps originally intended to be pronounced /pɛn.ˈuːtiən/, which is indicated in some dictionaries, the term is pronounced /pəˈnuːʃən/ by most if not all linguists.
+The original Penutian hypothesis, offered in 1913 by Roland B. Dixon and Alfred L. Kroeber, focused upon the close relationships among five California language families listed below.
+Maiduan languages
+Miwok
+Costanoan languages
+Wintuan languages
+Yokutsan languages
+That original proposal has since been called alternately Core Penutian, California Penutian, or the Penutian Kernel. In 1919 the same two authors published their linguistic evidence for the proposal. The grouping, like many of Dixon & Kroeber's other phylum proposals, was based mostly on shared typological characteristics and not the standard methods used to determine genetic relationships. Starting from this early date, the Penutian hypothesis was controversial.
+Prior to the 1913 Penutian proposal of Dixon and Kroeber, Albert S. Gatschet had grouped Miwokan and Costanoan into a Mutsun group (1877). That grouping, now termed Utian, was later conclusively demonstrated by Catherine Callaghan. In 1903 Dixon & Kroeber noted a "positive relationship" among Costanoan, Maidu, Wintun, and Yokuts within a "Central or Maidu Type", from which they excluded Miwokan (their Moquelumnan). In 1910 Kroeber finally recognized the close relationship between the Miwokan and Costanoan languages.
+In 1916 Edward Sapir expanded Dixon and Kroeber's California Penutian family with a sister stock, Oregon Penutian, which included the Coosan languages and also the isolates Siuslaw and Takelma:
+Oregon Penutian
+Coosan languages
+Siuslaw
+Takelma
+Later Sapir and Leo Frachtenberg added the Kalapuyan and the Chinookan languages and then later the Alsean and Tsimshianic families, culminating in Sapir's 1921 four-branch classification:
+I. California Penutian grouping
+Maiduan   (Maidu)
+Utian   (Miwok–Costanoan)
+Wintuan   (Wintu)
+Yokutsan   (Yokuts)
+II. Oregon Penutian grouping
+Coosan   (Coos)
+Siuslaw
+Takelma
+Kalapuyan   (Kalapuya)
+Alsean   (Yakonan)
+III. Chinookan family   (Chinook)
+IV. Tsimshianic family   (Tsimshian)
+By the time Sapir's 1929 Encyclopædia Britannica article was published, he had added two more branches:
+Plateau Penutian family
+Klamath–Modoc   (Lutuami)
+Waiilatpuan
+Cayuse
+Molala
+Sahaptian   (Sahaptin)
+Mexican Penutian grouping
+Mixe–Zoque
+Huave
+resulting in a six-branch family:
+California Penutian
+Oregon Penutian
+Chinookan
+Tsimshianic
+Plateau Penutian
+Mexican Penutian
+(Sapir's full 1929 classification scheme including the Penutian proposal can be seen here: Classification schemes for indigenous languages of the Americas#Sapir (1929): Encyclopædia Britannica.)
+Other linguists have suggested other languages be included within the Penutian grouping:
+Macro-Penutian hypothesis (Benjamin Whorf)
+Or have produced hypotheses of relationships between Penutian and other large-scale families:
+Amerind hypothesis (Joseph Greenberg)
+Note: Some linguists link the Penutian hypothesis to the Zuni language. This link, earlier proposed by Stanley Newman, has now been shown to be the result of a hoax (Jane Hill 2002).
+Scholars in the mid-twentieth century became concerned that similarities among the proposed Penutian language families may be the result of borrowing that occurred among neighboring peoples, not of a shared proto-language in the distant past. Mary Haas states the following regarding this borrowing:
+Even where genetic relationship is clearly indicated ... the evidence of diffusion of traits from neighboring tribes, related or not, is seen on every hand. This makes the task of determining the validity of the various alleged Hokan languages and the various alleged Penutian languages all the more difficult […] [and] point[s] up once again that diffusional studies are just as important for prehistory as genetic studies and what is even more in need of emphasis, it points up the desirability of pursuing diffusional studies along with genetic studies. This is nowhere more necessary than in the case of the Hokan and Penutian languages wherever they may be found, but particularly in California where they may very well have existed side by side for many millennia.(Haas 1976:359)
+Despite the concern of Haas and others, the Consensus Classification produced at a 1964 conference in Bloomington, Indiana, retained all of Sapir's groups for North America north of Mexico within the Penutian Phylum. The opposite approach was taken following a 1976 conference at Oswego, New York, when Campbell and Mithun dismissed the Penutian phylum as undemonstrated in their resulting classification of North American language families.
+California Penutian and Takelma–Kalapuyan ("Takelman") are no longer accepted as valid nodes by many Penutian researchers. However, Plateau Penutian, Oregon Coast Penutian, and Yok-Utian are increasingly supported. Scott DeLancey suggests the following relationships within and among language families typically assigned to the Penutian phylum:
+Maritime Penutian
+Tsimshian
+Chinook
+Oregon Coast Penutian
+Alsea
+Siuslaw
+Coos
+Inland Penutian
+Yok-Utian (from the Great Basin)
+Utian
+Yokuts
+Maidu (from the Great Basin or Oregon)
+Plateau Penutian
+Sahaptian
+Molala
+Klamath
+The Wintuan languages, Takelma and Kalapuya, absent from this list, continue to be considered Penutian languages by most scholars familiar with the subject, often in an Oregonian branch, though Takelma and Kalapuya are no longer considered to define a branch of Penutian.
+Perhaps because many Penutian languages have ablaut, vowels are difficult to reconstruct. However, consonant correspondences are common. For example, the proto-Yokuts (Inland Penutian) retroflexes */ʈ/ */ʈʼ/ correspond to Klamath (Plateau Penutian) /t͡ʃ t͡ʃʼ/, whereas the Proto-Yokuts dental */t̪/ */t̪ʰ/ */t̪ʼ/ correspond to Klamath alveolar /d t tʼ/. Kalapuya, Takelma, and Wintu do not show such obvious connections,and DeLancey has not investigated Mexican Penutian or other geographic outliers.
+Based on archeological calculations, the Yok-Utian family may be as old as Indo-European, and the Klamath Tribes appear to have lived in their current location for >7000 years. Thus the time depth of the proposed Inland Penutian branch alone approaches the limits of what many think traditional historical reconstruction can determine; this is sometimes used as an argument against the Penutian hypothesis.
+Below are some Penutian sound correspondences given by Lyle Campbell.
+California Penutian and Klamath Sound Correspondences
+Hokan languages

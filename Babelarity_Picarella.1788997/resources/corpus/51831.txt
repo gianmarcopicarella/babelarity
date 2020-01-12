@@ -1,0 +1,10 @@
+Total Commander is an Orthodox File Manager (OFM) for Windows, Windows CE, Windows Mobile, Android, and Windows Phone. Some features include a built-in FTP client, tabbed interface, file compare, archive file navigation, and a versatile multi-rename tool with regular expression support.
+This application is written by the Swiss Christian Ghisler in Delphi 2 (32-bit version) and Delphi 1 (16-bit version). The program is extensible by programmers via an open plugin-API and it has the ability to bind external programs for viewing or editing files. Many plugins are freely available for e.g. different packer formats or file viewer for special file formats. As well, a large variety of internal functions (commands) are available and ready to assign to icons, although some study might be needed to discover them.
+Additionally, Total Commander can be made portable via a special installer for USB and U3 disks.
+The Windows version is shareware: users can download it for free and use indefinitely, but should register or delete it within 30 days. The unregistered version reminds the user to register every time it starts, but it retains full functionality even after the 30-day trial period.
+The program is available in 16-, 32-, and 64-bit versions for the various versions of Windows, and is for the most part compatible with Linux using Wine.
+From 1993 until 2002 Total Commander was called Windows Commander; the name was changed in 2002 out of fear of a lawsuit after the developers received a letter from Microsoft pointing out that the word "Windows" was trademarked by them.
+Comparison of file managers
+Comparison of file verification software
+Comparison of FTP client software
+USB On-The-Go

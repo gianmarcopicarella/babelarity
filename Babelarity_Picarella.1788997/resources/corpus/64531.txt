@@ -1,0 +1,281 @@
+Radius of gyration or gyradius refers to distribution of the components of an object around an axis. In terms of mass moment of inertia, it is the perpendicular distance from the axis of rotation to a point mass (of mass, m) that gives an equivalent inertia to the original object(s) (of mass, m). The nature of the object does not affect the concept, which applies equally to a surface, a bulk mass, or an ensemble of points.
+Mathematically the radius of gyration is the root mean square distance of the object's parts from either its center of mass or a given axis, depending on the relevant application.
+In structural engineering, the two-dimensional radius of gyration is used to describe the distribution of cross sectional area in a column around its centroidal axis. The radius of gyration is given by the following formula:
+          R
+              g
+            2
+        =
+            I
+            A
+    {\displaystyle R_{\mathrm {g} }^{2}={\frac {I}{A}}}
+or
+          R
+              g
+        =
+              I
+              A
+    {\displaystyle R_{\mathrm {g} }={\sqrt {\frac {I}{A}}}}
+Where I is the second moment of area and A is the total cross-sectional area.
+The gyration radius is useful in estimating the stiffness of a column. If the principal moments of the two-dimensional gyration tensor are not equal, the column will tend to buckle around the axis with the smaller principal moment. For example, a column with an elliptical cross-section will tend to buckle in the direction of the smaller semiaxis.
+It also can be referred to as the radial distance from a given axis at which the mass of a body could be concentrated without altering the rotational inertia of the body about that axis.
+In engineering, where continuous bodies of matter are generally the objects of study, the radius of gyration is usually calculated as an integral.
+The radius of gyration about a given axis (
+          r
+              g
+               axis
+    {\displaystyle r_{\mathrm {g} {\text{ axis}}}}
+  ) can be computed in terms of the mass moment of inertia 
+          I
+            axis
+    {\displaystyle I_{\text{axis}}}
+   around that axis, and the total mass m;
+          r
+              g
+               axis
+            2
+        =
+              I
+                axis
+            m
+    {\displaystyle r_{\mathrm {g} {\text{ axis}}}^{2}={\frac {I_{\text{axis}}}{m}}}
+or
+          r
+              g
+               axis
+        =
+                I
+                  axis
+              m
+    {\displaystyle r_{\mathrm {g} {\text{ axis}}}={\sqrt {\frac {I_{\text{axis}}}{m}}}}
+          I
+            axis
+    {\displaystyle I_{\text{axis}}}
+   is a scalar, and is not the moment of inertia tensor. 
+In polymer physics, the radius of gyration is used to describe the dimensions of a polymer chain. The radius of gyration of a particular molecule at a given time is defined as:
+          R
+              g
+            2
+                =
+                  d
+                  e
+                  f
+            1
+            N
+          ∑
+            k
+            =
+            1
+            N
+            (
+                r
+                k
+            −
+                r
+                  m
+                  e
+                  a
+                  n
+            )
+            2
+    {\displaystyle R_{\mathrm {g} }^{2}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {1}{N}}\sum _{k=1}^{N}\left(\mathbf {r} _{k}-\mathbf {r} _{\mathrm {mean} }\right)^{2}}
+where 
+            r
+              m
+              e
+              a
+              n
+    {\displaystyle \mathbf {r} _{\mathrm {mean} }}
+   is the mean position of the monomers. As detailed below, the radius of gyration is also proportional to the root mean square distance between the monomers:
+          R
+              g
+            2
+                =
+                  d
+                  e
+                  f
+            1
+              2
+                N
+                  2
+          ∑
+            i
+            ,
+            j
+            (
+                r
+                i
+            −
+                r
+                j
+            )
+            2
+    {\displaystyle R_{\mathrm {g} }^{2}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {1}{2N^{2}}}\sum _{i,j}\left(\mathbf {r} _{i}-\mathbf {r} _{j}\right)^{2}}
+As a third method, the radius of gyration can also be computed by summing the principal moments of the gyration tensor.
+Since the chain conformations of a polymer sample are quasi infinite in number and constantly change over time, the "radius of gyration" discussed in polymer physics must usually be understood as a mean over all polymer molecules of the sample and over time. That is, the radius of gyration which is measured as an average over time or ensemble:
+          R
+              g
+            2
+                =
+                  d
+                  e
+                  f
+            1
+            N
+        ⟨
+          ∑
+            k
+            =
+            1
+            N
+            (
+                r
+                k
+            −
+                r
+                  m
+                  e
+                  a
+                  n
+            )
+            2
+        ⟩
+    {\displaystyle R_{\mathrm {g} }^{2}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {1}{N}}\langle \sum _{k=1}^{N}\left(\mathbf {r} _{k}-\mathbf {r} _{\mathrm {mean} }\right)^{2}\rangle }
+where the angular brackets 
+        ⟨
+        …
+        ⟩
+    {\displaystyle \langle \ldots \rangle }
+   denote the ensemble average.
+An entropically governed polymer chain (i.e. in so called theta conditions) follows a random walk in three dimensions. The radius of gyration for this case is given by
+          R
+              g
+        =
+            1
+                  6
+            N
+        a
+    {\displaystyle R_{\mathrm {g} }={\frac {1}{{\sqrt {6}}\ }}\ {\sqrt {N}}\ a}
+Note that although 
+        a
+        N
+    {\displaystyle aN}
+   represents the contour length of the polymer, 
+        a
+    {\displaystyle a}
+   is strongly dependent of polymer stiffness and can vary over orders of magnitude. 
+        N
+    {\displaystyle N}
+   is reduced accordingly.
+One reason that the radius of gyration is an interesting property is that it can be determined experimentally with static light scattering as well as with small angle neutron- and x-ray scattering. This allows theoretical polymer physicists to check their models against reality. The hydrodynamic radius is numerically similar, and can be measured with Dynamic Light Scattering (DLS).
+To show that the two definitions of 
+          R
+              g
+            2
+    {\displaystyle R_{\mathrm {g} }^{2}}
+   are identical, we first multiply out the summand in the first definition:
+          R
+              g
+            2
+                =
+                  d
+                  e
+                  f
+            1
+            N
+          ∑
+            k
+            =
+            1
+            N
+            (
+                r
+                k
+            −
+                r
+                  m
+                  e
+                  a
+                  n
+            )
+            2
+        =
+            1
+            N
+          ∑
+            k
+            =
+            1
+            N
+          [
+              r
+              k
+          ⋅
+              r
+              k
+          +
+              r
+                m
+                e
+                a
+                n
+          ⋅
+              r
+                m
+                e
+                a
+                n
+          −
+          2
+              r
+              k
+          ⋅
+              r
+                m
+                e
+                a
+                n
+          ]
+    {\displaystyle R_{\mathrm {g} }^{2}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {1}{N}}\sum _{k=1}^{N}\left(\mathbf {r} _{k}-\mathbf {r} _{\mathrm {mean} }\right)^{2}={\frac {1}{N}}\sum _{k=1}^{N}\left[\mathbf {r} _{k}\cdot \mathbf {r} _{k}+\mathbf {r} _{\mathrm {mean} }\cdot \mathbf {r} _{\mathrm {mean} }-2\mathbf {r} _{k}\cdot \mathbf {r} _{\mathrm {mean} }\right]}
+Carrying out the summation over the last two terms and using the definition of 
+            r
+              m
+              e
+              a
+              n
+    {\displaystyle \mathbf {r} _{\mathrm {mean} }}
+   gives the formula
+          R
+              g
+            2
+                =
+                  d
+                  e
+                  f
+        −
+            r
+              m
+              e
+              a
+              n
+        ⋅
+            r
+              m
+              e
+              a
+              n
+        +
+            1
+            N
+          ∑
+            k
+            =
+            1
+            N
+          (
+              r
+              k
+          ⋅
+              r
+              k
+          )
+    {\displaystyle R_{\mathrm {g} }^{2}\ {\stackrel {\mathrm {def} }{=}}\ -\mathbf {r} _{\mathrm {mean} }\cdot \mathbf {r} _{\mathrm {mean} }+{\frac {1}{N}}\sum _{k=1}^{N}\left(\mathbf {r} _{k}\cdot \mathbf {r} _{k}\right)}

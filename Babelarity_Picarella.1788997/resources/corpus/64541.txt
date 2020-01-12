@@ -1,0 +1,356 @@
+In mathematics, Eisenstein's criterion gives a sufficient condition for a polynomial with integer coefficients to be irreducible over the rational numbers—that is, for it to be unfactorable into the product of non-constant polynomials with rational coefficients.
+This criterion is not applicable to all polynomials with integer coefficients that are irreducible over the rational numbers, but it does allow in certain important cases to prove irreducibility with very little effort. It may apply either directly or after transformation of the original polynomial.
+This criterion is named after Gotthold Eisenstein. In the early 20th century, it was also known as the Schönemann–Eisenstein theorem because Theodor Schönemann was the first to publish it.
+Suppose we have the following polynomial with integer coefficients.
+        Q
+        (
+        x
+        )
+        =
+          a
+            n
+          x
+            n
+        +
+          a
+            n
+            −
+            1
+          x
+            n
+            −
+            1
+        +
+        ⋯
+        +
+          a
+            1
+        x
+        +
+          a
+            0
+    {\displaystyle Q(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\cdots +a_{1}x+a_{0}}
+If there exists a prime number p such that the following three conditions all apply:
+p divides each ai for i ≠ n,
+p does not divide an, and
+p2 does not divide a0,
+then Q is irreducible over the rational numbers. It will also be irreducible over the integers, unless all its coefficients have a nontrivial factor in common (in which case Q as integer polynomial will have some prime number, necessarily distinct from p, as an irreducible factor). The latter possibility can be avoided by first making Q primitive, by dividing it by the greatest common divisor of its coefficients (the content of Q). This division does not change whether Q is reducible or not over the rational numbers (see Primitive part–content factorization for details), and will not invalidate the hypotheses of the criterion for p (on the contrary it could make the criterion hold for some prime, even if it did not before the division).
+Eisenstein's criterion may apply either directly (i.e., using the original polynomial) or after transformation of the original polynomial.
+Consider the polynomial Q(x) = 3x4 + 15x2 + 10. In order for Eisenstein's criterion to apply for a prime number p it must divide both non-leading coefficients 15 and 10, which means only p = 5 could work, and indeed it does since 5 does not divide the leading coefficient 3, and its square 25 does not divide the constant coefficient 10. One may therefore conclude that Q is irreducible over Q (and since it is primitive, over Z as well). Note that since Q is of degree 4, this conclusion could not have been established by only checking that Q has no rational roots (which eliminates possible factors of degree 1), since a decomposition into two quadratic factors could also be possible.
+Often Eisenstein's criterion does not apply for any prime number. It may however be that it applies (for some prime number) to the polynomial obtained after substitution (for some integer a) of x + a for x. The fact that the polynomial after substitution is irreducible then allows concluding that the original polynomial is as well. This procedure is known as applying a shift.
+For example consider H = x2 + x + 2, in which the coefficient 1 of x is not divisible by any prime, Eisenstein's criterion does not apply to H. But if one substitutes x + 3 for x in H, one obtains the polynomial x2 + 7x + 14, which satisfies Eisenstein's criterion for the prime number 7. Since the substitution is an automorphism of the ring Q[x], the fact that we obtain an irreducible polynomial after substitution implies that we had an irreducible polynomial originally. In this particular example it would have been simpler to argue that H (being monic of degree 2) could only be reducible if it had an integer root, which it obviously does not; however the general principle of trying substitutions in order to make Eisenstein's criterion apply is a useful way to broaden its scope.
+Another possibility to transform a polynomial so as to satisfy the criterion, which may be combined with applying a shift, is reversing the order of its coefficients, provided its constant term is nonzero (without which it would be divisible by x anyway). This is so because such polynomials are reducible in R[x] if and only if they are reducible in R[x, x−1] (for any integral domain R), and in that ring the substitution of x−1 for x reverses the order of the coefficients (in a manner symmetric about the constant coefficient, but a following shift in the exponent amounts to multiplication by a unit). As an example 2x5 − 4x2 − 3 satisfies the criterion for p = 2 after reversing its coefficients, and (being primitive) is therefore irreducible in Z[x].
+An important class of polynomials whose irreducibility can be established using Eisenstein's criterion is that of the cyclotomic polynomials for prime numbers p. Such a polynomial is obtained by dividing the polynomial xp − 1 by the linear factor x − 1, corresponding to its obvious root 1 (which is its only rational root if p > 2):
+                x
+                  p
+              −
+              1
+              x
+              −
+              1
+        =
+          x
+            p
+            −
+            1
+        +
+          x
+            p
+            −
+            2
+        +
+        ⋯
+        +
+        x
+        +
+        1.
+    {\displaystyle {\frac {x^{p}-1}{x-1}}=x^{p-1}+x^{p-2}+\cdots +x+1.}
+Here, as in the earlier example of H, the coefficients 1 prevent Eisenstein's criterion from applying directly. However the polynomial will satisfy the criterion for p after substitution of x + 1 for x: this gives
+              (
+              x
+              +
+              1
+                )
+                  p
+              −
+              1
+            x
+        =
+          x
+            p
+            −
+            1
+        +
+              (
+              p
+                p
+                −
+                1
+              )
+          x
+            p
+            −
+            2
+        +
+        ⋯
+        +
+              (
+              p
+              2
+              )
+        x
+        +
+              (
+              p
+              1
+              )
+        ,
+    {\displaystyle {\frac {(x+1)^{p}-1}{x}}=x^{p-1}+{\binom {p}{p-1}}x^{p-2}+\cdots +{\binom {p}{2}}x+{\binom {p}{1}},}
+all of whose non-leading coefficients are divisible by p by properties of binomial coefficients, and whose constant coefficient equal to p, and therefore not divisible by p2. An alternative way to arrive at this conclusion is to use the identity (a + b)p = ap + bp which is valid in characteristic p (and which is based on the same properties of binomial coefficients, and gives rise to the Frobenius endomorphism), to compute the reduction modulo p of the quotient of polynomials:
+              (
+              x
+              +
+              1
+                )
+                  p
+              −
+              1
+            x
+        ≡
+                x
+                  p
+              +
+                1
+                  p
+              −
+              1
+            x
+        =
+              x
+                p
+            x
+        =
+          x
+            p
+            −
+            1
+          (
+          mod
+          p
+          )
+        ,
+    {\displaystyle {\frac {(x+1)^{p}-1}{x}}\equiv {\frac {x^{p}+1^{p}-1}{x}}={\frac {x^{p}}{x}}=x^{p-1}{\pmod {p}},}
+which means that the non-leading coefficients of the quotient are all divisible by p; the remaining verification that the constant term of the quotient is p can be done by substituting 1 (instead of x + 1) for x into the expanded form xp−1 + ... + x + 1.
+Theodor Schönemann was the first to publish a version of the criterion, in 1846 in Crelle's Journal, which reads in translation
+That (x − a)n + pF(x) will be irreducible to the modulus p2 when F(x) to the modulus p does not contain a factor x−a.
+This formulation already incorporates a shift to a in place of 0; the condition on F(x) means that F(a) is not divisible by p, and so pF(a) is divisible by p but not by p2. As stated it is not entirely correct in that it makes no assumptions on the degree of the polynomial F(x), so that the polynomial considered need not be of the degree n that its expression suggests; the example x2 + p(x3 + 1) ≡ (x2 + p)(px + 1) mod p2, shows the conclusion is not valid without such hypothesis. Assuming that the degree of F(x) does not exceed n, the criterion is correct however, and somewhat stronger than the formulation given above, since if (x − a)n + pF(x) is irreducible modulo p2, it certainly cannot decompose in Z[x] into non-constant factors.
+Subsequently Eisenstein published a somewhat different version in 1850, also in Crelle's Journal. This version reads in translation
+When in a polynomial F(x) in x of arbitrary degree the coefficient of the highest term is 1, and all following coefficients are whole (real, complex) numbers, into which a certain (real resp. complex) prime number m divides, and when furthermore the last coefficient is equal to εm, where ε denotes a number not divisible by m: then it is impossible to bring F(x) into the form
+          (
+            x
+              μ
+          +
+            a
+              1
+            x
+              μ
+              −
+              1
+          +
+          ⋯
+          +
+            a
+              μ
+          )
+          (
+            x
+              ν
+          +
+            b
+              1
+            x
+              ν
+              −
+              1
+          +
+          ⋯
+          +
+            b
+              ν
+          )
+    {\displaystyle \left(x^{\mu }+a_{1}x^{\mu -1}+\cdots +a_{\mu }\right)\left(x^{\nu }+b_{1}x^{\nu -1}+\cdots +b_{\nu }\right)}
+where μ, ν ≥ 1, μ + ν = deg(F(x)), and all a and b are whole (real resp. complex) numbers; the equation F(x) = 0 is therefore irreducible.
+Here "whole real numbers" are ordinary integers and "whole complex numbers" are Gaussian integers; one should similarly interpret "real and complex prime numbers". The application for which Eisenstein developed his criterion was establishing the irreducibility of certain polynomials with coefficients in the Gaussian integers that arise in the study of the division of the lemniscate into pieces of equal arc-length.
+Remarkably Schönemann and Eisenstein, once having formulated their respective criteria for irreducibility, both immediately apply it to give an elementary proof of the irreducibility of the cyclotomic polynomials for prime numbers, a result that Gauss had obtained in his Disquisitiones Arithmeticae with a much more complicated proof. In fact, Eisenstein adds in a footnote that the only proof for this irreducibility known to him, other than that of Gauss, is one given by Kronecker in 1845. This shows that he was unaware of the two different proofs of this statement that Schönemann had given in his 1846 article, where the second proof was based on the above-mentioned criterion. This is all the more surprising given the fact that two pages further, Eisenstein actually refers (for a different matter) to the first part of Schönemann's article. In a note ("Notiz") that appeared in the following issue of the Journal, Schönemann points this out to Eisenstein, and indicates that the latter's method is not essentially different from the one he used in the second proof.
+To prove the validity of the criterion, suppose Q satisfies the criterion for the prime number p, but that it is nevertheless reducible in Q[x], from which we wish to obtain a contradiction. From Gauss' lemma it follows that Q is reducible in Z[x] as well, and in fact can be written as the product Q = GH of two non-constant polynomials G, H (in case Q is not primitive, one applies the lemma to the primitive polynomial Q/c (where the integer c is the content of Q) to obtain a decomposition for it, and multiplies c into one of the factors to obtain a decomposition for Q). Now reduce Q = GH modulo p to obtain a decomposition in (Z/pZ)[x]. But by hypothesis this reduction for Q leaves its leading term, of the form axn for a non-zero constant a ∈ Z/pZ, as the only nonzero term. But then necessarily the reductions modulo p of G and H also make all non-leading terms vanish (and cannot make their leading terms vanish), since no other decompositions of axn are possible in (Z/pZ)[x], which is a unique factorization domain. In particular the constant terms of G and H vanish in the reduction, so they are divisible by p, but then the constant term of Q, which is their product, is divisible by p2, contrary to the hypothesis, and one has a contradiction.
+A second proof of Eisenstein's criterion also starts with the assumption that the polynomial Q(x) is reducible. It is shown that this assumption entails a contradiction.
+The assumption of
+        Q
+          (
+          x
+          )
+        =
+          a
+            n
+          x
+            n
+        +
+          a
+            n
+            −
+            1
+          x
+            n
+            −
+            1
+        +
+        ⋯
+        +
+          a
+            1
+        x
+        +
+          a
+            0
+    {\displaystyle Q\left(x\right)=a_{n}x^{n}+a_{n-1}x^{n-1}+\cdots +a_{1}x+a_{0}}
+being reducible implies that there are two polynomials G(x) and H(x) with
+        Q
+        (
+        x
+        )
+        =
+        G
+        (
+        x
+        )
+        ⋅
+        H
+        (
+        x
+        )
+    {\displaystyle Q(x)=G(x)\cdot H(x)}
+  .
+Each of the polynomials G(x) and H(x) has coefficients c0...cr and d0...ds
+        G
+        (
+        x
+        )
+        =
+          c
+            r
+          x
+            r
+        +
+          c
+            r
+            −
+            1
+          x
+            r
+            −
+            1
+        +
+        ⋯
+        +
+          c
+            0
+    {\displaystyle G(x)=c_{r}x^{r}+c_{r-1}x^{r-1}+\cdots +c_{0}}
+        H
+        (
+        x
+        )
+        =
+          d
+            s
+          x
+            s
+        +
+          d
+            s
+            −
+            1
+          x
+            s
+            −
+            1
+        +
+        ⋯
+        +
+          d
+            0
+    {\displaystyle H(x)=d_{s}x^{s}+d_{s-1}x^{s-1}+\cdots +d_{0}}
+where r ≥ 1, s ≥ 1 and r + s = n. The coefficient a0 of the polynomial Q(x) can be divided by the prime p but not by p2. Since a0=c0⋅d0, it is possible to divide either c0 or d0 by p. For the same reasons, it is not possible to divide both c0 and d0 by p. One may without loss of generality proceed
+with a coefficient c0 that can be divided by p and
+with a coffiecient d0 that cannot be divided by p.
+Q(x) is assumed reducible, so the coefficient an of Q(x) cannot be divided by p. Because of an=cr⋅ds, none of cr or ds can be divided by p. Then there is a coefficient ar of the polynomial Q(x)
+          a
+            r
+        =
+          c
+            r
+          d
+            0
+        +
+          c
+            r
+            −
+            1
+          d
+            1
+        +
+        ⋯
+        +
+          c
+            0
+          d
+            r
+    {\displaystyle a_{r}=c_{r}d_{0}+c_{r-1}d_{1}+\cdots +c_{0}d_{r}}
+wherein cr⋅d0 cannot be divided by p, because d0 can also not be divided by p. It is, however, possible to divide dr⋅c0 by p, because c0 can be divided by p.
+By initial assumption, Q(x) is reducible. It follows that it is possible to divide the coefficient a1 of the polynomial Q(x) by p. Since
+          a
+            1
+        =
+          c
+            0
+          d
+            1
+        +
+          c
+            1
+          d
+            0
+    {\displaystyle a_{1}=c_{0}d_{1}+c_{1}d_{0}}
+and since d0 is not a multiple of p it must be possible to divide c1 by p. Likewise, all the other parts in the sum ar are multiples of p.
+It follows that ar cannot be divided by p. The polynomial Q(x) with this coefficient ar, 1 ≤ r ≤ n is no longer reducible, which contradicts the initial assumption of Q(x) being reducible.□
+Applying the theory of the Newton polygon for the p-adic number field, for an Eisenstein polynomial, we are supposed to take the lower convex envelope of the points
+(0, 1), (1, v1), (2, v2), ..., (n − 1, vn−1), (n, 0),
+where vi is the p-adic valuation of ai (i.e. the highest power of p dividing it). Now the data we are given on the vi for 0 < i < n, namely that they are at least one, is just what we need to conclude that the lower convex envelope is exactly the single line segment from (0, 1) to (n, 0), the slope being −1/n.
+This tells us that each root of Q has p-adic valuation 1/n and hence that Q is irreducible over the p-adic field (since, for instance, no product of any proper subset of the roots has integer valuation); and a fortiori over the rational number field.
+This argument is much more complicated than the direct argument by reduction mod p. It does however allow one to see, in terms of algebraic number theory, how frequently Eisenstein's criterion might apply, after some change of variable; and so limit severely the possible choices of p with respect to which the polynomial could have an Eisenstein translate (that is, become Eisenstein after an additive change of variables as in the case of the p-th cyclotomic polynomial).
+In fact only primes p ramifying in the extension of Q generated by a root of Q have any chance of working. These can be found in terms of the discriminant of Q. For example, in the case x2 + x + 2 given above, the discriminant is −7 so that 7 is the only prime that has a chance of making it satisfy the criterion. Modulo 7, it becomes (x − 3)2— a repeated root is inevitable, since the discriminant is 0 mod 7. Therefore the variable shift is actually something predictable.
+Again, for the cyclotomic polynomial, it becomes
+(x − 1)p−1 mod p;
+the discriminant can be shown to be (up to sign) pp−2, by linear algebra methods.
+More precisely, only totally ramified primes have a chance of being Eisenstein primes for the polynomial. (In quadratic fields, ramification is always total, so the distinction is not seen in the quadratic case like x2 + x + 2 above.) In fact, Eisenstein polynomials are directly linked to totally ramified primes, as follows: if a field extension of the rationals is generated by the root of a polynomial that is Eisenstein at p then p is totally ramified in the extension, and conversely if p is totally ramified in a number field then the field is generated by the root of an Eisenstein polynomial at p.
+Given an integral domain D, let
+        Q
+        =
+          ∑
+            i
+            =
+            0
+            n
+          a
+            i
+          x
+            i
+    {\displaystyle Q=\sum _{i=0}^{n}a_{i}x^{i}}
+be an element of D[x], the polynomial ring with coefficients in D.
+Suppose there exists a prime ideal p of D such that
+ai ∈ p for each i ≠ n,
+an ∉ p, and
+a0 ∉ p2, where p2 is the ideal product of p with itself.
+Then Q cannot be written as a product of two non-constant polynomials in D[x]. If in addition Q is primitive (i.e., it has no non-trivial constant divisors), then it is irreducible in D[x]. If D is a unique factorization domain with field of fractions F, then by Gauss's lemma Q is irreducible in F[x], whether or not it is primitive (since constant factors are invertible in F[x]); in this case a possible choice of prime ideal is the principal ideal generated by any irreducible element of D. The latter statement gives original theorem for D = Z or (in Eisenstein's formulation) for D = Z[i].
+The proof of this generalization is similar to the one for the original statement, considering the reduction of the coefficients modulo p; the essential point is that a single-term polynomial over the integral domain D/p cannot decompose as a product in which at least one of the factors has more than one term (because in such a product there can be no cancellation in the coefficient either of the highest or the lowest possible degree).
+After Z, one of the basic examples of an integral domain is the polynomial ring D = k[u] in the variable u over the field k. In this case, the principal ideal generated by u is a prime ideal. Eisenstein's criterion can then be used to prove the irreducibility of a polynomial such as Q(x) = x3 + ux + u in D[x]. Indeed, u does not divide a3, u2 does not divide a0, and u divides a0, a1 and a2. This shows that this polynomial satisfies the hypotheses of the generalization of Eisenstein's criterion for the prime ideal p = (u) since, for a principal ideal (u), being an element of (u) is equivalent to being divisible by u.
+Cohn's irreducibility criterion

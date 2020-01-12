@@ -1,0 +1,115 @@
+The Joint Direct Attack Munition (JDAM) is a guidance kit that converts unguided bombs, or "dumb bombs", into all-weather "smart" munitions. JDAM-equipped bombs are guided by an integrated inertial guidance system coupled to a Global Positioning System (GPS) receiver, giving them a published range of up to 15 nautical miles (28 km). JDAM-equipped bombs range from 500 pounds (227 kg) to 2,000 pounds (907 kg). When installed on a bomb, the JDAM kit is given a GBU (Guided Bomb Unit) nomenclature, superseding the Mark 80 or BLU (Bomb, Live Unit) nomenclature of the bomb to which it is attached.
+The JDAM is not a stand-alone weapon; rather it is a "bolt-on" guidance package that converts unguided gravity bombs into Precision-Guided Munitions, or PGMs. The key components of the system consist of a tail section with aerodynamic control surfaces, a (body) strake kit, and a combined inertial guidance system and GPS guidance control unit.
+The JDAM was meant to improve upon laser-guided bomb and imaging infrared technology, which can be hindered by bad ground and weather conditions. Laser seekers are now being fitted to some JDAMs.
+From 1998 to August 20, 2013, Boeing delivered 250,000 JDAM kits, producing over 40 guidance kits per day.
+The U.S. Air Force's bombing campaign during the Persian Gulf War's Operation Desert Storm was less effective than initially reported, due in part to the lack of a precision guidance package for its bombs that would function regardless of environmental factors. Laser guidance packages on bombs proved exceptionally accurate in clear conditions, but with significant amounts of airborne dust, smoke, fog, or cloud cover, the guidance packages had difficulty maintaining "lock" on the laser designation. Research, development, testing and evaluation (RDT&E) of an "adverse weather precision guided munition" began in 1992. Several proposals were considered, including a radical concept that used GPS. At the time, there were few GPS satellites and the idea of using satellite navigation for real-time weapon guidance was untested and controversial. To identify the technical risk associated with an INS/GPS guided weapon, the Air Force created in early 1992 a rapid-response High Gear program called the “JDAM Operational Concept Demonstration” (OCD) at Eglin Air Force Base. Honeywell, Interstate Electronics Corporation, Sverdrup Technology, and McDonnell Douglas were hired to help the USAF 46th Test Wing demonstrate the feasibility of a GPS weapon within one year. The OCD program fitted a GBU-15 guided bomb with an INS/GPS guidance kit and on 10 February 1993, dropped the first INS/GPS weapon from an F-16 on a target 88,000 feet (27 km) downrange. Five more tests were run in various weather conditions, altitudes, and ranges. The OCD program demonstrated an 11-meter Circular Error Probable (CEP).
+The first JDAM kits were delivered in 1997, with operational testing conducted in 1998 and 1999. During testing, over 450 JDAMs were dropped achieving a system reliability in excess of 95% with a published accuracy under 10 metres (33 ft) CEP. In addition to controlled parameter drops, the testing and evaluation of the JDAM also included "operationally representative tests" consisting of drops through clouds, rain and snow with no decrease in accuracy from clear-weather tests. In addition, there have been tests involving multiple weapon drops with each weapon being individually targeted.
+JDAM and the B-2 Spirit stealth bomber made their combat debuts during Operation Allied Force. The B-2s, flying 30-hour, nonstop, round-trip flights from Whiteman Air Force Base, Missouri, delivered more than 650 JDAMs during Allied Force. An article published in a military acquisition journal in 2002 cites that "during Operation Allied Force ... B-2s launched 651 JDAMs with 96% reliability and hit 87% of intended targets..." Due to the operational success of the original JDAM, the program expanded to the 500 pounds (227 kg) Mark 82 and 1,000 pounds (454 kg) Mark 83, beginning development in late 1999. As a result of lessons learned during Operation Enduring Freedom and Operation Iraqi Freedom, both the US Navy and US Air Force pursued enhancements to the kits such as improved GPS accuracy as well as a precision seeker for terminal guidance for use against moving targets.
+JDAM bombs are inexpensive compared to alternatives such as cruise missiles. The original cost estimate was $40,000 each for the tail kits; however, after competitive bidding, contracts were signed with McDonnell Douglas (later Boeing) for delivery at $18,000 each. Unit costs, in current-year dollars, have since increased to $21,000 in 2004 and $27,000 by 2011. For comparison, the newest Tomahawk cruise missile, dubbed the Tactical Tomahawk, costs nearly $730,000. The JDAM's guidance system was jointly developed by the United States Air Force and United States Navy, hence the "joint" in JDAM.
+Guidance is facilitated through a tail control system and a GPS-aided inertial navigation system (INS). The navigation system is initialized by transfer alignment from the aircraft that provides position and velocity vectors from the aircraft systems. Once released from the aircraft, the JDAM autonomously navigates to the designated target coordinates. Target coordinates can be loaded into the aircraft before takeoff, manually altered by the aircrew in flight prior to weapon release, or entered by a datalink from onboard targeting equipment, such as the LITENING II or "Sniper" targeting pods. In its most accurate mode, the JDAM system will provide a minimum weapon accuracy CEP of five meters or less when a GPS signal is available. If the GPS signal is jammed or lost, the JDAM can still achieve a 30-meter CEP or less for free flight times up to 100 seconds.
+The introduction of GPS guidance to weapons brought several improvements to air-to-ground warfare. The first is a real all-weather capability since GPS is not affected by rain, clouds, fog, smoke, or man-made obscurants. Previous precision guided weapons relied on seekers using infrared, visual light, or a reflected laser spot to “see” the ground target. These seekers were not effective when the target was obscured by fog and low altitude clouds and rain (as encountered in Kosovo), or by dust and smoke (as encountered in Desert Storm).
+The second advantage is an expanded launch acceptance region (LAR). The LAR defines the region that the aircraft must be within to launch the weapon and hit the target. Non-GPS based precision guided weapons using seekers to guide to the target have significant restrictions on the launch envelope due to the seeker field of view. Some of these systems (such as the Paveway I, II, and III) must be launched so that the target remains in the seeker field of view throughout the weapon trajectory (or for lock-on-after-launch engagements, the weapon must be launched so that the target is in the field of view during the terminal flight). This requires the aircraft to fly generally straight at the target when launching the weapon. This restriction is eased in some other systems (such as the GBU-15 and the AGM-130) through the ability of a Weapon System Operator (WSO) in the aircraft to manually steer the weapon to the target. Using a WSO requires a data link between the weapon and the controlling aircraft and requires the controlling aircraft to remain in the area (and possibly vulnerable to defensive fire) as long as the weapon is under manual control. Since GPS-based flight control systems know the weapon's current location and the target location, these weapons can autonomously adjust the trajectory to hit the target. This allows the launch aircraft to release the weapon at very large off-axis angles including releasing weapons to attack targets behind the aircraft.
+The third advantage is a true “fire-and-forget” capability in which the weapon does not require any support after being launched. This allows the launching aircraft to leave the target area and proceed to its next mission immediately after launching the GPS guided weapon.
+Another important capability provided by GPS-based guidance is the ability to completely tailor a flight trajectory to meet criteria other than simply hitting a target. Weapon trajectories can be controlled so that a target can be impacted at precise headings and vertical angles. This provides the ability to impact perpendicular to a target surface and minimize the angle of attack (maximizing penetration), detonate the warhead at the optimum angle to maximize the warhead effectiveness, or have the weapon fly into the target area from a different heading than the launch aircraft (decreasing the risk of detection of the aircraft). GPS also provides an accurate time source common to all systems; this allows multiple weapons to loiter and impact targets at preplanned times and intervals.
+In recognition of these advantages, most weapons including the Paveway, GBU-15, and the AGM-130 have been upgraded with a GPS capability. This enhancement combines the flexibility of GPS with the superior accuracy of seeker guidance.
+Despite their precision, JDAM employment has risks. On 5 December 2001, a JDAM dropped by a B-52 in Afghanistan nearly killed Hamid Karzai, while he was leading anti-Taliban forces near Sayd Alim Kalay alongside a US Army Special Forces (SF) team. A large force of Taliban soldiers had engaged the combined force of Karzai's men and their American SF counterparts, nearly overwhelming them. The SF commander requested Close Air Support (CAS) to strike the Taliban positions in an effort to stop their advance. A JDAM was subsequently dropped, but instead of striking the Taliban positions, it struck the Afghan/American position, killing three and injuring 20. An investigation of the incident determined that the U.S. Air Force Tactical Control Party (TACP) attached to the Special Forces team had changed the battery in the GPS receiver at some point during the battle, thereby causing the device to return to "default" and "display its own coordinates." Not realizing that this had occurred, the TACP relayed his own coordinates to the delivery aircraft.
+Experience during Operation Enduring Freedom and Operation Iraqi Freedom led US air power planners to seek additional capabilities in one package, resulting in ongoing program upgrades to place a precision terminal guidance seeker in the JDAM kit. The Laser JDAM (LJDAM), as this upgrade is known, adds a laser seeker to the nose of a JDAM-equipped bomb, giving the ability to engage moving targets to the JDAM. The Laser Seeker is a cooperative development between Boeing's Defense, Space and Security unit and Israel's Elbit Systems. It is called Precision Laser Guidance Set (PLGS) by Boeing and consists of the Laser Seeker itself, now known as DSU-38/B, and a wire harness fixed under the bomb body to connect the DSU-38/B with the tail kit. During FY2004, Boeing and the U.S. Air Force began testing of the laser guidance capability for JDAM, with these tests demonstrating that the system is capable of targeting and destroying moving targets. This dual guidance system retains the ability to operate on GPS/INS alone, if laser guidance is unavailable, with the same accuracy of the earlier JDAM.
+On June 11, 2007, Boeing announced that it had been awarded a $28 million contract by the U.S. Air Force to deliver 600 laser seekers (400 to the air force and 200 to the navy) by June 2009. According to the Boeing Corporation, in tests at Nellis Air Force Base, Nevada, Air Force F-16 Fighting Falcons and F-15E Strike Eagles dropped twelve (12) 500 pounds (227 kg) LJDAMs that successfully struck high-speed moving targets. Using onboard targeting equipment, the launch aircraft self-designated, and self-guided their bombs to impact on the targets. In addition to the LJDAM kits, Boeing is also testing under a navy development contract, an anti-jamming system for the JDAM, with development expected to be completed during 2007, with deliveries to commence in 2008. The system is known as the Integrated GPS Anti-Jam System (IGAS).
+Boeing announced on September 15, 2008 that it had conducted demonstration flights with the LJDAM loaded aboard a B-52H.
+The GBU-54 LJDAM made its combat debut on August 12, 2008 in Iraq when a F-16 from the 77th Fighter Squadron engaged a moving vehicle in Diyala province. Furthermore, the GBU-54 LJDAM made its combat debut in the Afghan theater by the 510th Fighter Squadron in October 2010.
+In September 2012, Boeing began full-rate production of Laser JDAM for US Navy and received a contract for more than 2,300 bomb kits.
+On July 24, 2008 Germany signed a contract with Boeing to become the first international customer of LJDAM. Deliveries for the German Air Force began in mid-2009. The order also includes the option for further kits in 2009.
+In November 2014, the U.S. Air Force began development of a version of the GBU-31 JDAM intended to track and attack sources of electronic warfare jamming directed to disrupt the munitions' guidance. The Home-on-Jam seeker works similar to the AGM-88 HARM to follow the source of a radio-frequency jammer to destroy it.
+In 2006, the Australian Defence Science and Technology Organization in conjunction with Boeing Australia successfully tested extended range JDAM variants at Woomera Test Range.
+In 2009, Boeing announced that it will jointly develop the Joint Direct Attack Munition Extended Range (JDAM-ER) with South Korea. The guidance kit will triple the range of JDAM to 80 km for the same accuracy, and will cost $10,000 per unit. The first prototypes are to be completed in 2010 or 2011.
+The wing kits of Australia's JDAM-ER weapons will be built by Ferra Engineering. First tests are to be conducted in 2013 with production orders in 2015.
+On 23 September 2014, the U.S. Air Force performed the first-ever drop of a precision guided aerial mine, consisting of a Quickstrike mine equipped with a JDAM kit. The Quickstrike is a Mark 80-series general purpose bomb with the fuse replaced with a target detection device (TDD) to detonate it when a ship passes within lethal range, a safe/arm device in the nose, and a parachute-retarder tailkit in the back. Dropping of naval mines has historically been challenging, as the delivery aircraft has to fly low and slow, 500 ft (150 m) at 320 knots (370 mph; 590 km/h), making it vulnerable to hostile fire; the first aerial mining mission of Operation Desert Storm resulted in the loss of an aircraft, and the U.S. has not flown any combat aerial minings since. The Quickstrike-J is a JDAM-equipped 1,000 lb or 2,000 lb version, and the GBU-62B(V-1)/B Quickstrike-ER is a 500 lb or 2,000 lb gliding version based on the JDAM-ER, which has a range of 40 nmi (46 mi; 74 km) when launched from 35,000 ft (11,000 m). Precision airdropping of naval mines is the first advance in aerial mine delivery techniques since World War II and can increase the survivability of delivery aircraft, since instead of making multiple slow passes at low altitude directly over the area an aircraft can release all of their mines in a single pass from a standoff distance and altitude, and increase the mines' effectiveness, since instead of laying a random pattern of mines in a loosely defined area they can be laid directly into harbor mouths, shipping channels, canals, rivers, and inland waterways, reducing the number of mines required and enhancing the possibility of blocking ship transit corridors. Enemy naval ports can also be blockaded, and a defensive minefield quickly planted to protect areas threatened by amphibious assault.
+JDAM is currently compatible with:
+A-4 Skyhawk
+AV-8B Harrier II
+A-10 Thunderbolt II
+AMX International AMX
+B-1B Lancer
+B-2A Spirit
+B-52H Stratofortress
+F-15E Strike Eagle
+F-16C Fighting Falcon
+CF-18 Hornet
+F/A-18A+/A++/C/D Hornet
+F/A-18E/F Super Hornet
+F-22 Raptor
+F-35 Lightning II
+MQ-9 Reaper
+Mitsubishi F-2
+Panavia Tornado
+Mirage F-1
+Saab JAS 39 Gripen
+A-29 Super Tucano
+KAI FA-50
+JDAM was compatible with the following aircraft:
+F-14A/B/D Tomcat – retired
+F-117 Nighthawk – retired
+S-3 Viking – retired
+Apart from being used by its main user—the United States military—the U.S. government has also approved the JDAM for export sale under the Arms Export Control Act, though in limited numbers to only a few countries.
+ Australia
+ Belgium
+ Canada: The Royal Canadian Air Force used their first JDAM during Operation Mobile in 2011.
+ Chile
+ Denmark
+ Egypt
+ Finland
+ Germany: first international customer of LJDAM
+ Greece
+ Indonesia
+ Israel
+ Italy: Between 900 and 1000 GBU-31s and GBU-32s were produced in Italy for the Aeronautica Militare by Oto Melara
+ Japan: + LJDAM
+ Malaysia
+ Morocco 
+ Netherlands
+ Norway
+ Oman
+ Pakistan
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Korea
+ Spain: Spanish Naval Air Arm EAV-8B+ (only GBU-38)
+ Thailand
+ Turkey
+ United Arab Emirates
+ United States
+Primary function: Guided air-to-surface weapon
+Contractor: Boeing
+Length: (JDAM and warhead) GBU-31 (v) 1/B: 152.7 inches (3,880 mm); GBU-31 (v) 3/B: 148.6 inches (3,770 mm); GBU-32 (v) 1/B: 119.5 inches (3,040 mm)
+Launch weight: (JDAM and warhead) GBU-31 (v) 1/B: 2,036 pounds (924 kg); GBU-31 (v) 3/B: 2,115 pounds (959 kg); GBU-32 (v) 1/B: 1,013 lb 1,013 pounds (459 kg)
+Wingspan: GBU-31: 25 inches (640 mm); GBU-32: 19.6 inches (500 mm)
+Range: Up to 15 nautical miles (28 km)
+Ceiling: 45,000 feet (14,000 m)
+Guidance system: GPS/INS
+Unit cost: Approximately $22,000 per tailkit (FY 07 dollars)
+Date deployed: 1999
+Inventory: The tailkit is in full-rate production. Projected inventory is approximately 240,000 total, 158,000 for the US Air Force and 82,000 for the US Navy. (As of October 2005)
+2,000 lb (900 kg) nominal weight
+GBU-31(V)1/B (USAF) Mk-84
+GBU-31(V)2/B (USN/USMC) Mk-84
+GBU-31(V)3/B (USAF) BLU-109
+GBU-31(V)4/B (USN/USMC) BLU-109
+1,000 lb (450 kg) nominal weight
+GBU-32(V)1/B (USAF) Mk-83
+GBU-32(V)2/B (USN/USMC) Mk-83
+GBU-35(V)1/B (USN/USMC) BLU-110
+500 lb (225 kg) nominal weight
+GBU-38/B (USAF) Mk-82,(USN/USMC) Mk-82 and BLU-111
+GBU-54/B LaserJDAM (MK-82)
+HGK (bomb) designed and developed by Turkish Defence Institute TUBITAK-SAGE
+Spice (munition) - guidance kit developed by Rafael for the Israeli Air Force
+SMKB - Brazilian guidance kit developed by Mectron and Britanite
+AASM - French guidance kit with metric precision developed by Safran.
+B61 Mod 12 (also called a B61-12) - United States nuclear freefall bomb with a JDAM type guidance kit added. The higher accuracy allows a hardened target to be destroyed with a smaller nuclear weapon in terms of yield.
+GBU-39 Small Diameter Bomb
+HOPE/HOSBO
+AASM
+JSOW

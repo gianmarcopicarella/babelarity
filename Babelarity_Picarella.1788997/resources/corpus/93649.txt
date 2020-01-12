@@ -1,0 +1,18 @@
+Dinocerata ("terrible horned") is an extinct order of plant-eating, rhinoceros-like hoofed creatures famous for their paired horns and tusk-like canine teeth. The earliest dinoceratan, Prodinoceras, appeared in Asia during the Paleocene, but nearly all later types are from North America (dinoceratans must have crossed the Bering land bridge, which may have been exposed during Paleocene-Eocene times). Dinoceratans lived alongside another group of large Eocene plant-eaters, the brontotheres. The most famous dinoceratan is Uintatherium.
+How dinoceratans are related to other mammals is in dispute. They are probably part of the hoofed mammal (ungulate) group and have similarities with some South American hoofed mammals, namely, the primitive Carodnia of Paleocene South America. Another idea is that dinoceratans are closely related to pantodonts and tillodonts. A more controversial view is that dinoceratans descend from the anagalids, a small group of rabbit-like mammals. But they may be related to an ungulatomorph group called zhelestidae. Many dinoceratans are large, but they have one of the smaller brains among the mammals (the smallest brains of the mammal class belong to pantodonts), distinctly smaller than those of later ungulates (hoofed mammals) and other mammals.
+Although dinoceratans have traditionally been placed in the superorder Ungulatomorpha, this clade is now considered to be polyphyletic. This is the result of recent genetic and molecular research, which is rewriting the story of mammalian classification. The various members of the Ungulatomorpha are now placed in two very different lineages of placental mammals (Afrotheria and Laurasiatheria). In the case of the dinoceratans, it's now believed they are related to "true" ungulates after all, so they should be considered members of Laurasiatheria. They are suspected of being closely related to the true ungulate orders Perissodactyla and Artiodactyla. It is, however, entirely possible that one of the earlier viewpoints may turn out to be correct: that the dinoceratans are related to the pantodonts and tillodonts and should be treated among the Cimolesta. This would still make them members of Laurasiatheria. As it is impossible to extract genetic material from fossils this old, the phylogenetic position of dinoceratans may well shift again in the future.
+A recent phylogenetic study recovered Dinocerata as closely related to Carodnia, showcasing them as part of the Euungulata assemblage.
+Most experts place the known genera of Dinocerata within one family, Uintatheriidae, and split it into two subfamilies, Uintatheriinae and Gobiatheriinae. Some experts prefer to split Uintatheriidae into three families, with Gobiatherium in Gobiatheriidae, the other Eocene genera into Uintatheriidae proper, and place the Paleocene genera Prodinoceras and Probathyopsis into the family "Prodinoceratidae."
+Laurasiatheria
+Ungulatomorpha?
+Order Dinocerata
+Family Uintatheriidae
+Subfamily Gobiatheriinae
+Gobiatherium
+Subfamily Uintatheriinae
+Prodinoceras
+Probathyopsis
+Bathyopsis
+Uintatherium
+Eobasileus
+Tetheopsis

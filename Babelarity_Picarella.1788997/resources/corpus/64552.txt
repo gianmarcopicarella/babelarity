@@ -1,0 +1,1084 @@
+Poisson's ratio, named after Siméon Poisson, also known as the coefficient of expansion on the transverse axial, is the negative ratio of transverse to axial strain. When a material is compressed in one direction, it usually tends to expand in the other two directions perpendicular to the direction of compression. This phenomenon is called the Poisson effect. Poisson's ratio 
+        ν
+    {\displaystyle \nu }
+   (nu) is a measure of this effect. The Poisson ratio is the fraction (or percent) of expansion divided by the fraction (or percent) of compression, for small values of these changes.
+Conversely, if the material is stretched rather than compressed, it usually tends to contract in the directions transverse to the direction of stretching. That is a common observation when a rubber band is stretched, it becomes noticeably thinner. Again, the Poisson ratio will be the ratio of relative contraction to relative expansion and will have the same value as above. In certain rare cases, a material will actually shrink in the transverse direction when compressed (or expand when stretched) which will yield a negative value of the Poisson ratio.
+The Poisson's ratio of a stable, isotropic, linear elastic material cannot be less than −1.0 or greater than 0.5 because of the requirement for Young's modulus, the shear modulus and bulk modulus to have positive values. Most materials have Poisson's ratio values ranging between 0.0 and 0.5. A perfectly incompressible material deformed elastically at small strains would have a Poisson's ratio of exactly 0.5. Most steels and rigid polymers when used within their design limits (before yield) exhibit values of about 0.3, increasing to 0.5 for post-yield deformation which occurs largely at constant volume. Rubber has a Poisson ratio of nearly 0.5. Cork's Poisson ratio is close to 0: showing very little lateral expansion when compressed. Some materials, mostly polymer foams, and materials with special geometries such as zigzag-based materials can have a negative Poisson's ratio; if these auxetic materials are stretched in one direction, they become thicker in perpendicular direction. Some anisotropic materials, such as zigzag-based folded sheet materials, have one or more Poisson's ratios above 0.5 in some directions.
+Assuming that the material is stretched or compressed along the axial direction (the x axis in the below diagram):
+        ν
+        =
+        −
+              d
+                ε
+                    t
+                    r
+                    a
+                    n
+                    s
+              d
+                ε
+                    a
+                    x
+                    i
+                    a
+                    l
+        =
+        −
+              d
+                ε
+                    y
+              d
+                ε
+                    x
+        =
+        −
+              d
+                ε
+                    z
+              d
+                ε
+                    x
+    {\displaystyle \nu =-{\frac {d\varepsilon _{\mathrm {trans} }}{d\varepsilon _{\mathrm {axial} }}}=-{\frac {d\varepsilon _{\mathrm {y} }}{d\varepsilon _{\mathrm {x} }}}=-{\frac {d\varepsilon _{\mathrm {z} }}{d\varepsilon _{\mathrm {x} }}}}
+where
+        ν
+    {\displaystyle \nu }
+   is the resulting Poisson's ratio,
+          ε
+              t
+              r
+              a
+              n
+              s
+    {\displaystyle \varepsilon _{\mathrm {trans} }}
+   is transverse strain (negative for axial tension (stretching), positive for axial compression)
+          ε
+              a
+              x
+              i
+              a
+              l
+    {\displaystyle \varepsilon _{\mathrm {axial} }}
+   is axial strain (positive for axial tension, negative for axial compression).
+For a cube stretched in the x-direction (see figure 1) with a length increase of 
+        Δ
+        L
+    {\displaystyle \Delta L}
+   in the x direction, and a length decrease of 
+        Δ
+          L
+          ′
+    {\displaystyle \Delta L'}
+   in the y and z directions, the infinitesimal diagonal strains are given by
+        d
+          ε
+            x
+        =
+              d
+              x
+            x
+        d
+          ε
+            y
+        =
+              d
+              y
+            y
+        d
+          ε
+            z
+        =
+              d
+              z
+            z
+        .
+    {\displaystyle d\varepsilon _{x}={\frac {dx}{x}}\qquad d\varepsilon _{y}={\frac {dy}{y}}\qquad d\varepsilon _{z}={\frac {dz}{z}}.}
+If Poisson's ratio is constant through deformation, integrating these expressions and using the definition of Poisson's ratio gives
+        −
+        ν
+          ∫
+            L
+            L
+            +
+            Δ
+            L
+              d
+              x
+            x
+        =
+          ∫
+            L
+            L
+            −
+            Δ
+              L
+              ′
+              d
+              y
+            y
+        =
+          ∫
+            L
+            L
+            −
+            Δ
+              L
+              ′
+              d
+              z
+            z
+        .
+    {\displaystyle -\nu \int \limits _{L}^{L+\Delta L}{\frac {dx}{x}}=\int \limits _{L}^{L-\Delta L'}{\frac {dy}{y}}=\int \limits _{L}^{L-\Delta L'}{\frac {dz}{z}}.}
+Solving and exponentiating, the relationship between 
+        Δ
+        L
+    {\displaystyle \Delta L}
+   and 
+        Δ
+          L
+          ′
+    {\displaystyle \Delta L'}
+   is then
+            (
+            1
+            +
+                  Δ
+                  L
+                L
+            )
+            −
+            ν
+        =
+        1
+        −
+              Δ
+                L
+                ′
+            L
+        .
+    {\displaystyle \left(1+{\frac {\Delta L}{L}}\right)^{-\nu }=1-{\frac {\Delta L'}{L}}.}
+For very small values of 
+        Δ
+        L
+    {\displaystyle \Delta L}
+   and 
+        Δ
+          L
+          ′
+    {\displaystyle \Delta L'}
+  , the first-order approximation yields:
+        ν
+        ≈
+              Δ
+                L
+                ′
+              Δ
+              L
+        .
+    {\displaystyle \nu \approx {\frac {\Delta L'}{\Delta L}}.}
+The relative change of volume ΔV/V of a cube due to the stretch of the material can now be calculated. Using 
+        V
+        =
+          L
+            3
+    {\displaystyle V=L^{3}}
+   and 
+        V
+        +
+        Δ
+        V
+        =
+        (
+        L
+        +
+        Δ
+        L
+        )
+        (
+        L
+        −
+        Δ
+          L
+          ′
+          )
+            2
+    {\displaystyle V+\Delta V=(L+\Delta L)(L-\Delta L')^{2}}
+  :
+              Δ
+              V
+            V
+        =
+          (
+          1
+          +
+                Δ
+                L
+              L
+          )
+            (
+            1
+            −
+                  Δ
+                    L
+                    ′
+                L
+            )
+            2
+        −
+        1
+    {\displaystyle {\frac {\Delta V}{V}}=\left(1+{\frac {\Delta L}{L}}\right)\left(1-{\frac {\Delta L'}{L}}\right)^{2}-1}
+Using the above derived relationship between 
+        Δ
+        L
+    {\displaystyle \Delta L}
+   and 
+        Δ
+          L
+          ′
+    {\displaystyle \Delta L'}
+  :
+              Δ
+              V
+            V
+        =
+            (
+            1
+            +
+                  Δ
+                  L
+                L
+            )
+            1
+            −
+            2
+            ν
+        −
+        1
+    {\displaystyle {\frac {\Delta V}{V}}=\left(1+{\frac {\Delta L}{L}}\right)^{1-2\nu }-1}
+and for very small values of 
+        Δ
+        L
+    {\displaystyle \Delta L}
+   and 
+        Δ
+          L
+          ′
+    {\displaystyle \Delta L'}
+  , the first-order approximation yields:
+              Δ
+              V
+            V
+        ≈
+        (
+        1
+        −
+        2
+        ν
+        )
+              Δ
+              L
+            L
+    {\displaystyle {\frac {\Delta V}{V}}\approx (1-2\nu ){\frac {\Delta L}{L}}}
+For isotropic materials we can use Lamé’s relation
+        ν
+        ≈
+            1
+            2
+        −
+            E
+              6
+              K
+    {\displaystyle \nu \approx {\frac {1}{2}}-{\frac {E}{6K}}}
+where 
+        K
+    {\displaystyle K}
+   is bulk modulus.
+Note that isotropic materials must have a Poisson's ratio of 
+        −
+        1
+        <
+        ν
+        <
+        0.5
+    {\displaystyle -1<\nu <0.5}
+  . Typical isotropic engineering materials have a Poisson's ratio of 
+        0.2
+        <
+        ν
+        <
+        0.5
+    {\displaystyle 0.2<\nu <0.5}
+  .
+If a rod with diameter (or width, or thickness) d and length L is subject to tension so that its length will change by ΔL then its diameter d will change by:
+        Δ
+        d
+        =
+        −
+        d
+        ⋅
+        ν
+              Δ
+              L
+            L
+    {\displaystyle \Delta d=-d\cdot \nu {{\Delta L} \over L}}
+The above formula is true only in the case of small deformations; if deformations are large then the following (more precise) formula can be used:
+        Δ
+        d
+        =
+        −
+        d
+        ⋅
+          (
+          1
+          −
+                (
+                1
+                +
+                      Δ
+                      L
+                    L
+                )
+              −
+              ν
+          )
+    {\displaystyle \Delta d=-d\cdot \left(1-{\left(1+{{\Delta L} \over L}\right)}^{-\nu }\right)}
+where
+        d
+    {\displaystyle d}
+   is original diameter
+        Δ
+        d
+    {\displaystyle \Delta d}
+   is rod diameter change
+        ν
+    {\displaystyle \nu }
+   is Poisson's ratio
+        L
+    {\displaystyle L}
+   is original length, before stretch
+        Δ
+        L
+    {\displaystyle \Delta L}
+   is the change of length.
+The value is negative because it decreases with increase of length
+For a linear isotropic material subjected only to compressive (i.e. normal) forces, the deformation of a material in the direction of one axis will produce a deformation of the material along the other axis in three dimensions. Thus it is possible to generalize Hooke's Law (for compressive forces) into three dimensions:
+          ε
+            x
+            x
+        =
+            1
+            E
+          [
+            σ
+              x
+              x
+          −
+          ν
+            (
+              σ
+                y
+                y
+            +
+              σ
+                z
+                z
+            )
+          ]
+    {\displaystyle \varepsilon _{xx}={\frac {1}{E}}\left[\sigma _{xx}-\nu \left(\sigma _{yy}+\sigma _{zz}\right)\right]}
+          ε
+            y
+            y
+        =
+            1
+            E
+          [
+            σ
+              y
+              y
+          −
+          ν
+            (
+              σ
+                x
+                x
+            +
+              σ
+                z
+                z
+            )
+          ]
+    {\displaystyle \varepsilon _{yy}={\frac {1}{E}}\left[\sigma _{yy}-\nu \left(\sigma _{xx}+\sigma _{zz}\right)\right]}
+          ε
+            z
+            z
+        =
+            1
+            E
+          [
+            σ
+              z
+              z
+          −
+          ν
+            (
+              σ
+                x
+                x
+            +
+              σ
+                y
+                y
+            )
+          ]
+    {\displaystyle \varepsilon _{zz}={\frac {1}{E}}\left[\sigma _{zz}-\nu \left(\sigma _{xx}+\sigma _{yy}\right)\right]}
+where:
+          ε
+            x
+            x
+    {\displaystyle \varepsilon _{xx}}
+  , 
+          ε
+            y
+            y
+    {\displaystyle \varepsilon _{yy}}
+   and 
+          ε
+            z
+            z
+    {\displaystyle \varepsilon _{zz}}
+   are strain in the direction of 
+        x
+    {\displaystyle x}
+  , 
+        y
+    {\displaystyle y}
+   and 
+        z
+    {\displaystyle z}
+   axis
+          σ
+            x
+            x
+    {\displaystyle \sigma _{xx}}
+   , 
+          σ
+            y
+            y
+    {\displaystyle \sigma _{yy}}
+   and 
+          σ
+            z
+            z
+    {\displaystyle \sigma _{zz}}
+   are stress in the direction of 
+        x
+    {\displaystyle x}
+  , 
+        y
+    {\displaystyle y}
+   and 
+        z
+    {\displaystyle z}
+   axis
+        E
+    {\displaystyle E}
+   is Young's modulus (the same in all directions: 
+        x
+    {\displaystyle x}
+  , 
+        y
+    {\displaystyle y}
+   and 
+        z
+    {\displaystyle z}
+   for isotropic materials)
+        ν
+    {\displaystyle \nu }
+   is Poisson's ratio (the same in all directions: 
+        x
+    {\displaystyle x}
+  , 
+        y
+    {\displaystyle y}
+   and 
+        z
+    {\displaystyle z}
+   for isotropic materials)
+these equations can be all synthesized in the following:
+          ε
+            i
+            i
+        =
+            1
+            E
+          [
+            σ
+              i
+              i
+          (
+          1
+          +
+          ν
+          )
+          −
+          ν
+            ∑
+              k
+            σ
+              k
+              k
+          ]
+    {\displaystyle \varepsilon _{ii}={\frac {1}{E}}\left[\sigma _{ii}(1+\nu )-\nu \sum _{k}\sigma _{kk}\right]}
+In the most general case, also shear stresses will hold as well as normal stresses, and the full generalization of Hooke's law is given by:
+          ε
+            i
+            j
+        =
+            1
+            E
+          [
+            σ
+              i
+              j
+          (
+          1
+          +
+          ν
+          )
+          −
+          ν
+            δ
+              i
+              j
+            ∑
+              k
+            σ
+              k
+              k
+          ]
+    {\displaystyle \varepsilon _{ij}={\frac {1}{E}}\left[\sigma _{ij}(1+\nu )-\nu \delta _{ij}\sum _{k}\sigma _{kk}\right]}
+where 
+          δ
+            i
+            j
+    {\displaystyle \delta _{ij}}
+   is the Kronecker delta. The Einstein sum convention is usually adopted:
+          σ
+            k
+            k
+        ≡
+          ∑
+            k
+          δ
+            k
+            l
+          σ
+            k
+            l
+    {\displaystyle \sigma _{kk}\equiv \sum _{k}\delta _{kl}\sigma _{kl}}
+In this case the equation is simply written:
+          ε
+            i
+            j
+        =
+            1
+            E
+          [
+            σ
+              i
+              j
+          (
+          1
+          +
+          ν
+          )
+          −
+          ν
+            δ
+              i
+              j
+            σ
+              k
+              k
+          ]
+    {\displaystyle \varepsilon _{ij}={\frac {1}{E}}\left[\sigma _{ij}(1+\nu )-\nu \delta _{ij}\sigma _{kk}\right]}
+For orthotropic materials such as wood, Hooke's law can be expressed in matrix form as
+            [
+                    ϵ
+                        x
+                        x
+                    ϵ
+                        y
+                        y
+                    ϵ
+                        z
+                        z
+                  2
+                    ϵ
+                        y
+                        z
+                  2
+                    ϵ
+                        z
+                        x
+                  2
+                    ϵ
+                        x
+                        y
+            ]
+        =
+            [
+                        1
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              x
+                          E
+                              y
+                  −
+                          ν
+                              z
+                              x
+                          E
+                              z
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              y
+                          E
+                              x
+                        1
+                          E
+                              y
+                  −
+                          ν
+                              z
+                              y
+                          E
+                              z
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              z
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              z
+                          E
+                              y
+                        1
+                          E
+                              z
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              y
+                              z
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              z
+                              x
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              x
+                              y
+            ]
+            [
+                    σ
+                        x
+                        x
+                    σ
+                        y
+                        y
+                    σ
+                        z
+                        z
+                    σ
+                        y
+                        z
+                    σ
+                        z
+                        x
+                    σ
+                        x
+                        y
+            ]
+    {\displaystyle {\begin{bmatrix}\epsilon _{\rm {xx}}\\\epsilon _{\rm {yy}}\\\epsilon _{\rm {zz}}\\2\epsilon _{\rm {yz}}\\2\epsilon _{\rm {zx}}\\2\epsilon _{\rm {xy}}\end{bmatrix}}={\begin{bmatrix}{\tfrac {1}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yx}}}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {zx}}}{E_{\rm {z}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xy}}}{E_{\rm {x}}}}&{\tfrac {1}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {zy}}}{E_{\rm {z}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xz}}}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yz}}}{E_{\rm {y}}}}&{\tfrac {1}{E_{\rm {z}}}}&0&0&0\\0&0&0&{\tfrac {1}{G_{\rm {yz}}}}&0&0\\0&0&0&0&{\tfrac {1}{G_{\rm {zx}}}}&0\\0&0&0&0&0&{\tfrac {1}{G_{\rm {xy}}}}\\\end{bmatrix}}{\begin{bmatrix}\sigma _{\rm {xx}}\\\sigma _{\rm {yy}}\\\sigma _{\rm {zz}}\\\sigma _{\rm {yz}}\\\sigma _{\rm {zx}}\\\sigma _{\rm {xy}}\end{bmatrix}}}
+where
+            E
+              i
+    {\displaystyle {E}_{\rm {i}}\,}
+   is the Young's modulus along axis 
+        i
+    {\displaystyle i}
+          G
+              i
+              j
+    {\displaystyle G_{\rm {ij}}\,}
+   is the shear modulus in direction 
+        j
+    {\displaystyle j}
+   on the plane whose normal is in direction 
+        i
+    {\displaystyle i}
+          ν
+              i
+              j
+    {\displaystyle \nu _{\rm {ij}}\,}
+   is the Poisson's ratio that corresponds to a contraction in direction 
+        j
+    {\displaystyle j}
+   when an extension is applied in direction 
+        i
+    {\displaystyle i}
+  .
+The Poisson's ratio of an orthotropic material is different in each direction (x, y and z). However, the symmetry of the stress and strain tensors implies that not all the six Poisson's ratios in the equation are independent. There are only nine independent material properties; three elastic moduli, three shear moduli, and three Poisson's ratios. The remaining three Poisson's ratios can be obtained from the relations
+              ν
+                  y
+                  x
+              E
+                  y
+        =
+              ν
+                  x
+                  y
+              E
+                  x
+        ,
+              ν
+                  z
+                  x
+              E
+                  z
+        =
+              ν
+                  x
+                  z
+              E
+                  x
+        ,
+              ν
+                  y
+                  z
+              E
+                  y
+        =
+              ν
+                  z
+                  y
+              E
+                  z
+    {\displaystyle {\frac {\nu _{\rm {yx}}}{E_{\rm {y}}}}={\frac {\nu _{\rm {xy}}}{E_{\rm {x}}}}~,\qquad {\frac {\nu _{\rm {zx}}}{E_{\rm {z}}}}={\frac {\nu _{\rm {xz}}}{E_{\rm {x}}}}~,\qquad {\frac {\nu _{\rm {yz}}}{E_{\rm {y}}}}={\frac {\nu _{\rm {zy}}}{E_{\rm {z}}}}}
+From the above relations we can see that if 
+          E
+              x
+        >
+          E
+              y
+    {\displaystyle E_{\rm {x}}>E_{\rm {y}}}
+   then 
+          ν
+              x
+              y
+        >
+          ν
+              y
+              x
+    {\displaystyle \nu _{\rm {xy}}>\nu _{\rm {yx}}}
+  . The larger Poisson's ratio (in this case 
+          ν
+              x
+              y
+    {\displaystyle \nu _{\rm {xy}}}
+  ) is called the major Poisson's ratio while the smaller one (in this case 
+          ν
+              y
+              x
+    {\displaystyle \nu _{\rm {yx}}}
+  ) is called the minor Poisson's ratio. We can find similar relations between the other Poisson's ratios.
+Transversely isotropic materials have a plane of isotropy in which the elastic properties are isotropic. If we assume that this plane of isotropy is 
+        y
+        −
+        z
+    {\displaystyle y-z}
+  , then Hooke's law takes the form
+            [
+                    ϵ
+                        x
+                        x
+                    ϵ
+                        y
+                        y
+                    ϵ
+                        z
+                        z
+                  2
+                    ϵ
+                        y
+                        z
+                  2
+                    ϵ
+                        z
+                        x
+                  2
+                    ϵ
+                        x
+                        y
+            ]
+        =
+            [
+                        1
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              x
+                          E
+                              y
+                  −
+                          ν
+                              y
+                              x
+                          E
+                              z
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              y
+                          E
+                              x
+                        1
+                          E
+                              y
+                  −
+                          ν
+                              y
+                              z
+                          E
+                              z
+                  0
+                  0
+                  0
+                  −
+                          ν
+                              x
+                              y
+                          E
+                              x
+                  −
+                          ν
+                              y
+                              z
+                          E
+                              y
+                        1
+                          E
+                              z
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              y
+                              z
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              x
+                              y
+                  0
+                  0
+                  0
+                  0
+                  0
+                  0
+                        1
+                          G
+                              x
+                              y
+            ]
+            [
+                    σ
+                        x
+                        x
+                    σ
+                        y
+                        y
+                    σ
+                        z
+                        z
+                    σ
+                        y
+                        z
+                    σ
+                        z
+                        x
+                    σ
+                        x
+                        y
+            ]
+    {\displaystyle {\begin{bmatrix}\epsilon _{\rm {xx}}\\\epsilon _{\rm {yy}}\\\epsilon _{\rm {zz}}\\2\epsilon _{\rm {yz}}\\2\epsilon _{\rm {zx}}\\2\epsilon _{\rm {xy}}\end{bmatrix}}={\begin{bmatrix}{\tfrac {1}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yx}}}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {yx}}}{E_{\rm {z}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xy}}}{E_{\rm {x}}}}&{\tfrac {1}{E_{\rm {y}}}}&-{\tfrac {\nu _{\rm {yz}}}{E_{\rm {z}}}}&0&0&0\\-{\tfrac {\nu _{\rm {xy}}}{E_{\rm {x}}}}&-{\tfrac {\nu _{\rm {yz}}}{E_{\rm {y}}}}&{\tfrac {1}{E_{\rm {z}}}}&0&0&0\\0&0&0&{\tfrac {1}{G_{\rm {yz}}}}&0&0\\0&0&0&0&{\tfrac {1}{G_{\rm {xy}}}}&0\\0&0&0&0&0&{\tfrac {1}{G_{\rm {xy}}}}\\\end{bmatrix}}{\begin{bmatrix}\sigma _{\rm {xx}}\\\sigma _{\rm {yy}}\\\sigma _{\rm {zz}}\\\sigma _{\rm {yz}}\\\sigma _{\rm {zx}}\\\sigma _{\rm {xy}}\end{bmatrix}}}
+where we have used the plane of isotropy 
+        y
+        −
+        z
+    {\displaystyle y-z}
+   to reduce the number of constants, i.e., 
+          E
+            y
+        =
+          E
+            z
+        ,
+          ν
+            x
+            y
+        =
+          ν
+            x
+            z
+        ,
+          ν
+            y
+            x
+        =
+          ν
+            z
+            x
+    {\displaystyle E_{y}=E_{z},~\nu _{xy}=\nu _{xz},~\nu _{yx}=\nu _{zx}}
+  .
+The symmetry of the stress and strain tensors implies that
+                    ν
+                        x
+                        y
+                    E
+                        x
+        =
+                    ν
+                        y
+                        x
+                    E
+                        y
+        ,
+          ν
+              y
+              z
+        =
+          ν
+              z
+              y
+        .
+    {\displaystyle {\cfrac {\nu _{\rm {xy}}}{E_{\rm {x}}}}={\cfrac {\nu _{\rm {yx}}}{E_{\rm {y}}}}~,~~\nu _{\rm {yz}}=\nu _{\rm {zy}}~.}
+This leaves us with six independent constants 
+          E
+              x
+        ,
+          E
+              y
+        ,
+          G
+              x
+              y
+        ,
+          G
+              y
+              z
+        ,
+          ν
+              x
+              y
+        ,
+          ν
+              y
+              z
+    {\displaystyle E_{\rm {x}},E_{\rm {y}},G_{\rm {xy}},G_{\rm {yz}},\nu _{\rm {xy}},\nu _{\rm {yz}}}
+  . However, transverse isotropy gives rise to a further constraint between 
+          G
+              y
+              z
+    {\displaystyle G_{\rm {yz}}}
+   and 
+          E
+              y
+        ,
+          ν
+              y
+              z
+    {\displaystyle E_{\rm {y}},\nu _{\rm {yz}}}
+   which is
+          G
+              y
+              z
+        =
+                    E
+                        y
+                  2
+                  (
+                  1
+                  +
+                    ν
+                        y
+                        z
+                  )
+        .
+    {\displaystyle G_{\rm {yz}}={\cfrac {E_{\rm {y}}}{2(1+\nu _{\rm {yz}})}}~.}
+Therefore, there are five independent elastic material properties two of which are Poisson's ratios. For the assumed plane of symmetry, the larger of 
+          ν
+              x
+              y
+    {\displaystyle \nu _{\rm {xy}}}
+   and 
+          ν
+              y
+              x
+    {\displaystyle \nu _{\rm {yx}}}
+   is the major Poisson's ratio. The other major and minor Poisson's ratios are equal.
+Some materials known as auxetic materials display a negative Poisson’s ratio. When subjected to positive strain in a longitudinal axis, the transverse strain in the material will actually be positive (i.e. it would increase the cross sectional area). For these materials, it is usually due to uniquely oriented, hinged molecular bonds. In order for these bonds to stretch in the longitudinal direction, the hinges must ‘open’ in the transverse direction, effectively exhibiting a positive strain. This can also be done in a structured way and lead to new aspects in material design as for mechanical metamaterials.
+One area in which Poisson's effect has a considerable influence is in pressurized pipe flow. When the air or liquid inside a pipe is highly pressurized it exerts a uniform force on the inside of the pipe, resulting in a hoop stress within the pipe material. Due to Poisson's effect, this hoop stress will cause the pipe to increase in diameter and slightly decrease in length. The decrease in length, in particular, can have a noticeable effect upon the pipe joints, as the effect will accumulate for each section of pipe joined in series. A restrained joint may be pulled apart or otherwise prone to failure.
+Another area of application for Poisson's effect is in the realm of structural geology. Rocks, like most materials, are subject to Poisson's effect while under stress. In a geological timescale, excessive erosion or sedimentation of Earth's crust can either create or remove large vertical stresses upon the underlying rock. This rock will expand or contract in the vertical direction as a direct result of the applied stress, and it will also deform in the horizontal direction as a result of Poisson's effect. This change in strain in the horizontal direction can affect or form joints and dormant stresses in the rock.
+The use of cork as a stopper for wine bottles is due to cork having a Poisson ratio of practically zero, so that, as the cork is inserted into the bottle, the upper part which is not yet inserted does not expand in diameter as it is compressed axially. The force needed to insert a cork into a bottle arises only from the friction between the cork and the bottle due to the radial compression of the cork. If the stopper were made of rubber, for example, (with a Poisson ratio of about 1/2), there would be a relatively large additional force required to overcome the radial expansion of the upper part of the rubber stopper.
+3-D elasticity
+Hooke's Law
+Impulse excitation technique
+Orthotropic material
+Shear modulus
+Young's modulus
+Coefficient of thermal expansion

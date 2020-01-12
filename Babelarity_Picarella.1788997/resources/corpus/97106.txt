@@ -1,0 +1,63 @@
+Life simulation (or artificial life games) is a subgenre of simulation video games in which the player lives or controls one or more virtual lifeforms. A life simulation game can revolve around "individuals and relationships, or it could be a simulation of an ecosystem".
+Life simulation games are about "maintaining and growing a manageable population of organisms", where players are given the power to control the lives of autonomous creatures or people. Artificial life games are related to computer science research in artificial life. But "because they're intended for entertainment rather than research, commercial A-life games implement only a subset of what A-life research investigates." This broad genre includes god games which focus on managing tribal worshipers, as well as artificial pets that focus on one or several animals. It also includes genetic artificial life games, where players manages populations of creatures over several generations.
+Artificial life games and life simulations find their origins in artificial life research, including Conway's Game of Life from 1970. But one of the first commercially viable artificial life games was Little Computer People in 1985, a Commodore 64 game that allowed players to type requests to characters living in a virtual house. The game is cited as a little-known forerunner of virtual-life simulator games to follow. One of the earliest dating sims, Tenshitachi no gogo, was released for the 16-bit NEC PC-9801 computer that same year, though dating sim elements can be found in Sega's earlier Girl's Garden in 1984. In 1986, the early biological simulation game Bird Week was released.
+In the mid-1990s, as artificial intelligence programming improved, true AI virtual pets such as Petz and Tamagotchi began to appear. Around the same time, Creatures became "the first full-blown commercial entertainment application of Artificial Life and genetic algorithms". By 2000, The Sims refined the formula seen in Little Computer People and became the most successful artificial life game created to date. In 2008 also came the game Spore (2008 video game) in which you develop an alien species from the microbial tide pool into intergalactic gods.
+Digital pets are a subgenre of artificial life game where players train, maintain, and watch a simulated animal. The pets can be simulations of real animals, or fantasy pets. Unlike genetic artificial life games that focus on larger populations of organisms, digital pet games usually allow players to interact with one or a few pets at once. In contrast to artificial life games, digital pets do not usually reproduce or die, although there are exceptions where pets will run away if ignored or mistreated.
+Digital pets are usually designed to be cute, and act out a range of emotions and behaviors that tell the player how to influence the pet. "This quality of rich intelligence distinguishes artificial pets from other kinds of A-life, in which individuals have simple rules but the population as a whole develops emergent properties". Players are able to tease, groom, and teach the pet, and so they must be able to learn behaviors from the player. However, these behaviors are typically "preprogrammed and are not truly emergent".
+Game designers try to sustain the player's attention by mixing common behaviors with more rare ones, so the player is motivated to keep playing until they see them. Otherwise, these games often lack a victory condition or challenge, and can be classified as software toys. Games such as Nintendogs have been implemented for the Nintendo DS, although there are also simple electronic games that have been implemented on a keychain, such as Tamagotchi. There are also numerous online pet-raising/virtual pet games, such as Neopets. Today online games which allow you to raise show dogs or sim horse games are also quite popular.
+Some artificial life games allow players to manage a population of creatures over several generations, and try to achieve goals for the population as a whole. These games have been called genetic artificial life games, or biological simulations. Players are able to crossbreed creatures, which have a set of genes or descriptors that define the creature's characteristics. Some games also introduce mutations due to random or environmental factors, which can benefit the population as creatures reproduce. These creatures typically have a short life-span, such as the Creatures series where organisms can survive from half an hour to well over seven hours. Players are able to watch forces of natural selection shape their population, but can also interact with the population by breeding certain individuals together, by modifying the environment, or by introducing new creatures from their design.
+Another group of biological simulation games seek to simulate the life of an individual animal whose role the player assumes (rather than simulating an entire ecosystem controlled by the player). These include Wolf and its sequel Lion, the similar WolfQuest, and the more modest Odell educational series.
+In addition, a large number of games have loose biological or evolutionary themes but don't attempt to reflect closely the reality of either biology or evolution: these include, within the "God game" variety, Evolution: The Game of Intelligent Life and Spore, and within the arcade/RPG variety, a multitude of entertainment software products including Bird Week, Eco and EVO: Search for Eden.
+Social simulation games explore social interactions between multiple artificial lives. The most famous example from this genre is The Sims, which was influenced by the 1985 game Little Computer People. These games are part of a subcategory of artificial life game sometimes called a virtual dollhouse, a category which includes Animal Crossing by Nintendo.
+Bird Week (1986) - a simple game for the Famicom where the player assumes the role of a bird feeding its young
+Creatures series, by Creature Labs/Gameware Development
+Lion — the sequel to Wolf; simulates the life of a lion
+Odell Lake and Odell Down Under, simple educational games about aquatic life and food chains
+Science Horizons Survival — an early game which also teaches about food chains.
+SimAnt — a Maxis game that allows the player to assume control of an ant colony
+SimEarth
+SimLife — Another Maxis game which experiments with genetics and ecosystems.
+SimPark
+Seaman — a virtual pet game that simulates the raising of a talking fish with a human face that develops into a frog-like creature.
+Star Wars: The Gungan Frontier simulates a planet which the player populates with creatures that compete for limited supplies of food.
+Wolf — simulates the life of a wolf, made by Sanctuary Woods.
+WolfQuest
+Species: Artificial Life, Real Evolution
+Metapopulus: Artificial Life Simulation
+Some games take biology or evolution as a theme, rather than attempting to simulate.
+Cubivore: Survival of the Fittest (2002, Nintendo) – an action adventure.
+Eco (1988, Ocean)
+E.V.O.: Search for Eden (1992, Enix) — an arcade game which portrays an evolving organism across different stages. "Evolutionary points" are earned by eating other creatures and are used to evolve.
+Evolites - Simple Evolution Simulator (2006, Reflect Games) — a simple life simulation where you indirectly control the fates of a countless number of tiny, unique creatures, known as Evolites. As the Evolites evolve naturally, various tools are at your disposal to save, destroy, create, and interact with them. You may let things run their course, or you may directly intervene, and make sure that only your chosen strain of Evolites survives!
+flOw (2006, Jenova Chen) — a Flash game similar to E.V.O.
+L.O.L.: Lack of Love (2000, ASCII Entertainment) - a role playing game; the player assumes the role of a creature which gradually changes its body and improves its abilities, but this is done by means of more varied achievements, often involving social interactions with other creatures.
+Seaman (video game) (2000, Vivarium) - a virtual pet video game for the Sega Dreamcast.
+Seventh Cross Evolution (1999, UFO Interactive Games) - an action game.
+Spore (2008, Electronic Arts) - a multi-genre god game. The first and second stages are biology-themed, although the second stage also has more role playing game elements.
+Creatures (artificial life program) (1998–2002, Creature Labs) - an early 'artificial-life' program, the Creatures franchise features creatures called 'Norns', each of which has its own 'digital DNA' that later generations can inherit. The Norns are semi-autonomous, but must be trained to interact with their environment to avoid starvation.
+Alter Ego — a personality computer game released by Activision in 1986
+Animal Crossing — a life simulator series by Nintendo. It has also been dubbed as a "communication game" by the company as had Cubivore, Doshin the Giant and GiFTPiA.
+Eccky — by Media Republic.
+Façade (interactive story)- An artificial-intelligence-based interactive story created by Michael Mateas and Andrew Stern.
+The Story of Seasons series — by Marvelous Entertainment, farming simulator, role-playing game, and dating sim rolled into one.
+The Idolmaster - an idol raising sim by Namco.
+Jones in the Fast Lane — by Sierra Entertainment is one of the earliest life simulators.
+Kudos (video game) series — by Positech Games.
+Life: the Social Game — is a social game inspired by Conway's Game of Life.
+Little Computer People — by David Crane, published by Activision in (1985)
+The Money Game — a Famicom life simulation about balance love with high finance
+The Money Game II: Kabutochou no Kiseki the Famicom sequel to Money Game
+My Life My Love: Boku no Yume: Watashi no Negai — a life simulation for the Japanese Famicom system
+The Princess Maker series — by Gainax, a raising sim which the player have to raise an adoptive daughter until she reaches adulthood. The final result varies from a ruling queen to an ordinary housewife, or even a prostitute if the player looks after her poorly
+Real Lives — an educational life simulator by Educational Simulations where the player is randomly "born" somewhere in the world and often must deal with third-world difficulties such as disease, malnutrition, and civil war.
+Tenshitachi no gogo — One of the earliest dating sims, released for the 16-bit NEC PC-9801 computer that same year.
+The Sims — by Will Wright, published by EA for the PC (2000), and sequels, The Sims 2 (2004), The Sims 3 (2009) and The Sims 4 (2014).
+Tomodachi Life — by Nintendo
+True Love — (1994), a Japanese erotic dating sim and general life simulation game where the player must manage the player's daily activities, such as studying, exercise, and employment.
+The Virtual Villagers series — by Last Day of Work.
+Moon RPG Remix Adventure — a social RPG released only in Japan, created by the same designer as Lack of Love and GiFTPiA
+New York Nights: Success in the City — a social simulation created and designed by Gameloft released for mobile phones.
+Shenmue - an open world video game series that simulates life in Japan and China in the year 1986.
+Yakuza - a video game series based in modern-day Japan featuring beat 'em up mechanics developed and published by Sega.
+Digital pets
+Social simulation game

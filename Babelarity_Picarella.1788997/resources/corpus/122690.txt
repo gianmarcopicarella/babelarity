@@ -1,0 +1,85 @@
+Garifuna (Karif) is a minority language still widely spoken in villages of Garifuna people in the western part of the northern coast of Central America. It is a member of the Arawakan languages family but an atypical one since it is spoken outside of the Arawakan language area, which is otherwise confined to the northern parts of South America, and because it contains an unusually high number of loanwords, from both Carib languages and a number of European languages because of an extremely tumultuous past involving warfare, migration and colonization. The language was once confined to the Antillean islands of St. Vincent and Dominica, but its speakers, the Garifuna people, were deported en masse by the British in 1797 to the north coast of Honduras from where the language and Garifuna people have since spread along the coast south to Nicaragua and north to Guatemala and Belize. It is still widely spoken in many Garifuna villages throughout this coastal region. In recent years, a large number of Garifunas have settled in larger US cities, presumably as part of a more general pattern of northbound migration.
+Parts of Garifuna vocabulary are split between men's speech and women's speech, and some concepts have two words to express them, one for women and one for men. Moreover, the terms used by men are generally loanwords from Carib while those used by women are Arawak.
+The Garifuna language was declared a Masterpiece of the Oral and Intangible Heritage of Humanity in 2008 along with Garifuna music and dance.
+Garifuna is spoken in Central America, especially in Honduras (146,000 speakers), but also in Guatemala (20,000 speakers), Belize (14,100 speakers), Nicaragua (2,600 speakers), and the US, particularly in New York City, where it is spoken in Queens, Brooklyn and the Bronx. By the 1980s, the influx of Central Americans made languages including Garifuna begin having a presence in Houston. The first feature film in the Garifuna language, Garifuna in Peril, was released in 2012.
+The Garinagu (singular Garifuna) are a mix of West/Central African, Arawak, and Carib ancestry. Though they were captives removed from their homelands, these people were never documented as slaves. The two prevailing theories are that they were the survivors of two recorded shipwrecks or they somehow took over the ship on which they came. The more Western and Central African-looking people were transferred by the British from Saint Vincent to islands in the Bay of Honduras in 1796.
+Their linguistic ancestors, Carib people, who gave their name to the Caribbean, once lived throughout the Lesser Antilles, and although their language is now extinct there, ethnic Caribs still live on Dominica, Trinidad, Saint Lucia, and Saint Vincent. The Caribs had conquered the previous population of the islands, Arawakan peoples like the Taino and Palikur peoples. During the conquest, which was conducted primarily by men, the Carib married Arawakan women. Children were raised by their mothers speaking Arawak, but as boys came of age, their fathers taught them Carib, a language still spoken in mainland South America. When European missionaries described the Island Carib people in the 17th century, they recorded two unrelated languages: Carib spoken by the men and Arawak spoken by the women. However, while the boys acquired Carib vocabulary, after a few generations, they retained the Arawakan grammar of their first language. Thus, Island Carib, as spoken by men, was genetically either a mixed language or a relexified language. Over the generations, men substituted fewer Arawak words, and many Carib words diffused to the women so the amount of distinctly male vocabulary diminished until both genders spoke Arawak, with an infusion of Carib vocabulary and distinct words in only a handful of cases.
+The vocabulary of Garifuna is composed as follows:
+45 % Arawak (Igñeri)
+25 % Carib (Kallínagu)
+15 % French
+10 % English
+5 % Spanish or English technical terms
+Also, there also some few words from African languages.
+Relatively few examples of diglossia remain in common speech, and men and women use different words for the same concept such as au ~ nugía for the pronoun "I". Most such words are rare and often dropped by men. For example, there are distinct Carib and Arawak words for 'man' and 'women', four words altogether, but in practice, the generic term mútu is used by both men and women and for both men and women, with grammatical gender agreement on a verb, adjective, or demonstrative, distinguishing whether mútu refers to a man or to a woman (mútu lé "the man", mútu tó "the woman").
+There remains, however, a diglossic distinction in the grammatical gender of many inanimate nouns, with abstract words generally being considered grammatically feminine by men and grammatically masculine by women. Thus, the word wéyu may mean either concrete "sun" or abstract "day"; with the meaning of "day", most men use feminine agreement, at least in conservative speech, while women use masculine agreement. The equivalent of the abstract impersonal pronoun in phrases like "it is necessary" is also masculine for women but feminine in conservative male speech.
+With independent personal pronouns, Garifuna distinguishes grammatical gender:
+The forms au and amürü are of Cariban origin, and the others are of Arawakan origin.
+Pluralization of nouns is irregular and is realized by means of suffixing:
+isâni "child" – isâni-gu "children"
+wügüri "man" – wügüri-ña "men"
+hiñaru "woman" – hiñáru-ñu "women"
+itu "sister" – ítu-nu "sisters"
+The plural of Garífuna is Garínagu.
+Possession on nouns is expressed by personal prefixes:
+ibágari "life"
+n-ibágari "my life"
+b-ibágari "your (singular) life"
+l-ibágari "his life"
+t-ibágari "her life"
+wa-bágari "our life"
+h-ibágari "your (plural) life"
+ha-bágari "their life"
+For the Garifuna verb, the grammatical tense, grammatical aspect, grammatical mood, negation, and person (both subject and object) are expressed by affixes, partly supported by particles.
+The paradigms of grammatical conjugation are numerous.
+The conjugation of the verb alîha "to read" in the present continuous tense:
+n-alîha-ña "I am reading"
+b-alîha-ña "you (singular) are reading"
+l-alîha-ña "he is reading"
+t-alîha-ña "she is reading"
+wa-lîha-ña "we are reading"
+h-alîha-ña "you (plural) are reading"
+ha-lîha-ña "they are reading"
+The conjugation of the verb alîha "to read" in the simple present tense:
+alîha-tina "I read"
+alîha-tibu "you (singular) read"
+alîha-ti "he reads"
+alîha-tu "she reads"
+alîha-tiwa "we read"
+alîha-tiü "you (plural) read"
+alîha-tiñu "they (masculine) read"
+alîha-tiña "they (feminine) read"
+There are also some irregular verbs.
+From "3" upwards, the numbers of Garifuna are exclusively of French origin and are based on the vigesimal system, which, in today's French, is apparent at "80":
+1 = aban
+2 =biñá, biama, bián
+3 = ürüwa (< trois)
+4 = gádürü (< quatre)
+5 = seingü (< cinq)
+6 = sisi (< six)
+7 = sedü (< sept)
+8 = widü (< huit)
+9 = nefu (< neuf)
+10 = dîsi (< dix)
+11 = ûnsu (< onze)
+12 = dûsu (< douze)
+13 = tareisi (< treize)
+14 = katorsu (< quatorze)
+15 = keinsi (< quinze)
+16 = dîsisi, disisisi (< "dix-six" → seize)
+17 = dîsedü, disisedü (< dix-sept)
+18 = dísiwidü (< dix-huit)
+19 = dísinefu (< dix-neuf)
+20 = wein (< vingt)
+30 = darandi (< trente)
+40 = biama wein (< 2 X vingt → quarante)
+50 = dimí san (< "demi cent" → cinquante)
+60 = ürüwa wein (< "trois-vingt" → soixante)
+70 = ürüwa wein dîsi (< "trois-vingt-dix" → soixante-dix)
+80 = gádürü wein (< quatre-vingt)
+90 = gádürü wein dîsi (< quatre-vingt-dix)
+100 = san (< cent)
+1,000 = milu (< mil)
+1,000,000 = míñonu (< engl. million?)
+The language uses prepositions and conjunctions.
+The word order is verb–subject–object (VSO).

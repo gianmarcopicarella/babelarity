@@ -1,0 +1,16 @@
+Fon (native name Fon gbè, pronounced [fɔ̃̄ɡ͡bè]) is part of the Gbe language cluster and belongs to the Volta–Niger branch of the Niger–Congo languages. Fon is spoken mainly in Benin by approximately 1.7 million speakers, by the Fon people. Like the other Gbe languages, Fon is an analytic language with an SVO basic word order.
+Capo (1988) considers Maxi and Gun to be part of the Fon dialect cluster. However, he does not include Alada or Toli (Tɔli) as part of Gun, as classified by Ethnologue, but as Phla–Pherá languages.
+Fon has seven oral vowel phonemes and five nasal vowel phonemes.
+/p/ only occurs in linguistic mimesis and loanwords, though often it is replaced by /f/ in the latter, as in cɔ́fù 'shop'. Several of the voiced occlusives only occur before oral vowels, while the homorganic nasal stops only occur before nasal vowels, indicating that [b] [m] and [ɖ] [n] are allophones. [ɲ] is in free variation with [j̃]; Fongbe therefore can be argued to have no phonemic nasal consonants, a pattern rather common in West Africa. /w/ and /l/ are also nasalized before nasal vowels; /w/ may be assimilated to [ɥ] before /i/.
+The only consonant clusters in Fon have /l/ or /j/ as the second consonant; after (post)alveolars, /l/ is optionally realized as [ɾ]: klɔ́ 'to wash', wlí 'to catch', jlò [d͡ʒlò] ~ [d͡ʒɾò] 'to want'.
+Tone
+Fon has two phonemic tones, HIGH and LOW. High is realized as rising (low–high) after a voiced consonant. Basic disyllabic words have all four possibilities: HIGH–HIGH, HIGH–LOW, LOW–HIGH, and LOW–LOW.
+In longer phonological words, such as verb and noun phrases, a high tone tends to persist until the final syllable; if that syllable has a phonemic low tone, it becomes falling (high–low). Low tones disappear between high tones, but their effect remains as a downstep. Rising tones (low–high) simplify to HIGH after HIGH (without triggering downstep) and to LOW before HIGH.
+Hwevísatɔ́, é ko hɔ asón we.
+"The fishmonger, she bought two crabs"
+In Ouidah, a rising or falling tone is realized as a mid tone. For example, mǐ 'we, you', phonemically high-tone /bĩ́/ but phonetically rising because of the voiced consonant, is generally mid-tone [mĩ̄] in Ouidah.
+X is used for /x/ in some orthographies, h in others. In many texts 〈e〉, 〈o〉 are used in nasal contexts: me [mɛ̃], Fon [fɔ̃]. Tone is generally not written except when necessary.
+Sample text
+From the Universal Declaration of Human Rights
+GBETA GBƐ Ɔ BI TƆN EE ƉƆ XÓ DÓ ACƐ E GBƐTƆ ƉÓ KPODO SISI E ƉO NA ƉÓ N'I LƐ KPO WU E WEXWLE
+Ee nyi ɖɔ hɛnnu ɖokpo mɛ ɔ, mɛ ɖokpoɖokpo ka do susu tɔn, bɔ acɛ ɖokpo ɔ wɛ mɛbi ɖo bo e ma sixu kan fɛn kpon é ɖi mɛɖesusi jijɛ, hwɛjijɔzinzan, kpodo fifa ni tiin nu wɛkɛ ɔ bi e ɔ, ...

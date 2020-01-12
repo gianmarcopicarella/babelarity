@@ -1,0 +1,25 @@
+A mobile Internet device (MID) is a multimedia-capable mobile device providing wireless Internet access. They are designed to provide entertainment, information and location-based services for personal or business use. They allow 2-way communication and real-time sharing. They have been described as filling a niche between smartphones and tablet computers.
+As all the features of MID started becoming available on smartphones and tablets, the term is now mostly used to refer to both low-end as well as high-end tablets.
+The class of mobile Internet tablets from Archos has included multiple operating systems: Windows CE, Android, and Windows 7. The form factor is very similar to the Lenovo image on the right. The Android tablet uses an ARM Cortex CPU and a touchscreen.
+Intel announced a prototype MID at the Intel Developer Forum in Spring 2007 in Beijing. A MID development kit by Sophia Systems using Intel Centrino Atom was announced in April 2008.
+Intel MID platforms are based on an Intel processor and chipset which consume less power than most of the x86 derivatives. A few platforms have been announced as listed below:
+Intel's first generation MID platform (codenamed McCaslin) contains a 90 nm Intel A100/A110 processor (codenamed Stealey) which runs at 600–800 MHz.
+On 2 March 2008, Intel introduced the Intel Atom processor brand for a new family of low-power processor platforms. The components have thin, small designs and work together to "enable the best mobile computing and Internet experience" on mobile and low-power devices.
+Intel's second generation MID platform (codenamed Menlow) contains a 45 nm Intel Atom processor (codenamed Silverthorne) which can run up to 2.0 GHz and a System Controller Hub (codenamed Poulsbo) which includes Intel HD Audio (codenamed Azalia). This platform was initially branded as Centrino Atom but such practice was discontinued in Q3 2008.
+Intel's third generation MID/smartphone platform (codenamed Moorestown) contains a 45 nm Intel Atom processor (codenamed Lincroft) and a 65 nm Platform Controller Hub (codenamed Langwell). Since the memory controller and graphics controller are all now integrated into the processor, the northbridge has been removed and the processor communicates directly with the southbridge via the DMI bus interface.
+Intel's fourth generation MID/smartphone platform (codenamed Medfield) contains a 32 nm Intel Atom SoC (codenamed Penwell).
+Intel's MID/smartphone platform (codenamed Clover Trail+) based on its Clover Trail tablet platform. It contains a 32 nm Intel Atom SoC (codenamed Cloverview).
+Intel's fifth generation MID/smartphone platform (codenamed Merrifield ) contains a 22 nm Intel Atom SoC (codenamed Tangier).
+Intel's sixth generation MID/smartphone platform (codenamed Moorefield) contains a 14 nm Intel Atom SoC (codenamed Anniedale).
+Intel's seventh generation MID/smartphone platform (codenamed Morganfield) contains a 14 nm Intel Atom SoC (codenamed Broxton).
+Intel announced collaboration with Ubuntu to create Ubuntu for mobile internet devices distribution, known as Ubuntu Mobile. Ubuntu's website says the new distribution "will provide a rich Internet experience for users of Intel’s 2008 Mobile Internet Device (MID) platform." Another MID Open Source Linux distribution is Moblin, which had been merged into the new MeeGo project that has been merged with LiMo into Tizen project.
+Centrino
+Phablet
+Android (operating system)
+CrunchPad
+Moblin project
+Netbook / Smartbook
+Ubuntu Mobile
+Ultra-Mobile PC (UMPC)
+WiMAX
+Mobile web

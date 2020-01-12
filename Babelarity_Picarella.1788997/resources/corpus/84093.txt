@@ -1,0 +1,192 @@
+Concordia Research Station, which opened in 2005, is a French-Italian research facility that was built 3,233 m (2.0 mi) above sea level at a location called Dome C on the Antarctic Plateau, Antarctica. It is located 1,100 km (680 mi) inland from the French research station at Dumont D'Urville, 1,100 km (680 mi) inland from Australia's Casey Station and 1,200 km (750 mi) inland from the Italian Zucchelli Station at Terra Nova Bay. Russia's Vostok Station is 560 km (350 mi) away. The Geographic South Pole is 1,670 km (1,040 mi) away. The facility is also located within Australia's claim on Antarctica, the Australian Antarctic Territory.
+Concordia Station is the third permanent, all-year research station on the Antarctic Plateau besides Vostok Station (Russian) and the Amundsen–Scott South Pole Station (U.S.) at the Geographic South Pole. It is jointly operated by scientists from France and Italy and regularly hosts ESA scientists.
+In 1992, France decided to build a new station on the Antarctic Plateau. The program was later joined by Italy in 1993.
+In 1996, a French-Italian team established a summer camp at Dome C. The two main objectives of the camp were the provision of logistical support for the European Project for Ice Coring in Antarctica (EPICA) and the construction of a permanent research station.
+The new all-year facility, Concordia Station, became operational in 2005. The first winterover began with a staff of 13 (eleven French and 2 Italians) in February 2005.
+Most of the cargo is moved to Dome C by traverse from Dumont d'Urville Station, covering 1,200 km in 7 to 12 days depending on weather conditions. Station personnel and light cargo arrive by air, using Twin Otter aircraft from DDU or Mario Zucchelli Station at 1200 km.
+Dome C is one of the coldest places on Earth. Temperatures hardly rise above −25 °C in summer and can fall below −80 °C in winter with a recent record –84.6 °C in 2010. The annual average air temperature is −54.5 °C. Humidity is low and it is also very dry, with very little precipitation throughout the year.
+Dome C does not experience the katabatic winds typical for the coastal regions of Antarctica because of its elevated location and its relative distance from the edges of the Antarctic Plateau. Typical wind speed in winter is 2.8 m/s.
+Dome C is situated on top of the Antarctic Plateau, the world's largest desert. No animals or plants live at a distance of more than a few tens of kilometers from the Southern Ocean. However, south polar skuas have been spotted overflying the station, 1,200 km away from their nearest food sources. It is believed that these birds have learned to cross the continent instead of circumnavigating it.
+Concordia Station shares many stressor characteristics with long duration deep space missions, in particular extreme isolation and confinement, and as such serves as a useful analogue platform for research relevant to space medicine. During the winter the crew are without possibility of evacuation or deliveries for 9 months and live for a prolonged period in total darkness, at altitude almost equivalent to 4000m at the equator. The physiological and psychological strains on the crew are marked. Concordia station is particularly useful for the study of chronic hypobaric hypoxia, stress secondary to confinement and isolation, circadian rhythm and sleep disruption, individual and group psychology, telemedicine, and astrobiology. Concordia station has been proposed as the one of the highest fidelity real-life Earth-based analogues for long duration deep space missions.
+In the 1970s, Dome C was the site of ice core drilling by field teams of several nations. In the 1990s, Dome C was chosen for deep ice core drilling by the European Project for Ice Coring in Antarctica (EPICA). Drilling at Dome C began in 1996 and was completed on December 21, 2004, reaching a drilling depth of 3270.2 m, 5 m above bedrock. The age of the oldest recovered ice is estimated to be ca. 900,000 years.
+Concordia Station has been identified as a suitable location for extremely accurate astronomical observations. The transparency of the Antarctic atmosphere permits the observation of stars even when the sun is at an elevation angle of 38°. Other advantages include the very low infrared sky emission, the high percentage of cloud-free time and the low aerosol and dust content of the atmosphere.
+Writing in the Proceedings of the Astronomical Society of the Pacific, Karim Agabi et al. discuss the suitability of the site for astronomy in terms of the seeing. Their key finding:
+The median seeing measured with a DIMM (Differential Image Motion Monitor) placed on top of an 8.5 m high tower is 1.3 ± 0.8 arcseconds.
+This is significantly worse than most major observatory sites, but similar to other observatories in Antarctica. However, Lawrence et al. consider other features of the site and conclude that "Dome C is the best ground-based site to develop a new astronomical observatory". Note however that this was written before whole-atmospheric seeing measurements had been made at Dome C.
+The experiments to measure the astronomical conditions at the site were controlled by a computer system that had to supervise the generation of its own electricity using a jet-fuel powered stirling engine. The computer, running Linux, communicated with the outside world using an Iridium phone.
+The climate at Concordia Station is frigid all year round. It has a polar ice cap climate, with maximums ranging from −24.8 °C (−12.6 °F) in December to −62 °C (−80 °F) in May, mean ranging from −30.4 °C (−22.7 °F) in December to −65.3 °C (−85.5 °F) in May and minimums ranging from −36.1 °C (−33.0 °F) in December to −68.7 °C (−91.7 °F) in May. The station has never recorded a temperature above freezing; the warmest temperature recorded was −5.4 °C (22.3 °F) in January. The coldest recorded temperature was −84.6 °C (−120.3 °F) in August; one of the coldest temperatures ever recorded on Earth.
+While the station is used in summer campaign since December 1997, the first winterover (February to October) was only made in 2005. During this period, the station is inaccessible, requiring total autonomy.
+The first winter began in mid-February 2005, with thirteen wintering (eleven French people and two Italians):
+Michel Munoz: station leader, plumber,  France
+Roberto Dicasilati: physician,  Italy
+Christophe Mozer: powerhouse chief,  France
+Pascal Bordais: radio, electronics, computers,  France
+Emanuele Salvietti: glaciologist,  Italy
+Claire Le Calvez: technical chief,  France
+Michel Galland: electrician,  France
+Jean-Louis Duraffourg: chef,  France
+Abdelkarim Agabi (Karim Agabi): astronomer,  France
+Stéphane Beausire: boilermaker, welder,  France
+Jean Elegoet: vehicle mechanic,  France
+Jean-François Jurvilliers: multipurpose technician,  France
+Guillaume Dargaud: climatologist,  France (under contract with the Italian National Antarctic Research Program – PNRA)
+In September 2005 the highest temperature was -48 °C, with an average in August of -60.2 °C and a record of -78.6 °C on 1 September. At these temperatures, trips outside had to be performed with the utmost care. Those going outside travelled at least in pairs and were equipped with a radio, spare batteries and a full fleece suit, with only the eyes at times visible. Glaciologist Italian Emanuele Salvietti had to take snow samples every day one kilometre from the base. As he had to walk (because no vehicle operates at these temperatures), he built a full face mask, with only a pipe to breathe. The slightest mistake would lead to certain injury, as astronomer Agabi Karim explained: "Burns on the cheeks and eyelashes glued to the lens of the telescope," after exposure to the freezing cold.
+The second winter was conducted from February to November 2006 with a team of ten wintering (six French and four Italian):
+Minh Ly Pham Minh: station leader, physician,  France
+Michele Impara: computer science,  Italy
+Loïc Le Bechec: chef,  France
+Lucia Agnoletto: seismologist,  Italy
+Eric Aristidi: astronomer,  France
+Omar Cerri: glaciologist,  Italy
+Shaun Deshommes: technical chief,  France
+Elyseo of Eramo: mechanic,  Italy
+José Dos Santos: electrician,  France
+Miguel Ravoux: plumber,  France
+The record temperature for this winter was measured at -80 °C on 5 September 2006 at 2:37 ET was renewed several times.
+The third winter ran from February to November 2007 with a team of wintering composed of fourteen people (eight French and six Italian):
+François Jeanneaux: engineer,  France
+Jean-Pierre Pillisio: plumber,  France
+Carlos Marsal: chef,  France
+Maurizio Busetto: climatologist,  Italy
+Yvan Levy: technical chief,  France
+Nicolas Le Parc: electrician,  France
+Christophe Choley: mechanic,  France
+Federico Miliacca: computer and telecommunications,  Italy
+Djamel Mékarnia: astronomer,  France
+Runa Briguglio: astronomer,  Italy
+Giuseppe Soriani: surgeon,  Italy
+Pietro di Felice: station leader, engineer,  Italy
+Benedict Cuisset: technical,  France
+Alessandro Iacomino: glaciologist,  Italy
+The average temperature was -65 °C and the minimum temperature recorded was -81.9 °C reached on September 5.
+The fourth winter took place from 31 January 2008 to 8 November 2008 with a team consisting of thirteen winter-overs (seven French and six Italian):
+Erick Bondoux: astronomer,  France
+Laurent Bonnardot: biomedical,  France
+Zalpha Challita: astronomer,  France
+Giorgio Deidda: chef,  Italy
+Sébastien Denamur: mechanic,  France
+Laurent Fromont: electrician,  France
+Daniele Frosini: glaciologist,  Italy
+Patrick LeRoy: technical chief,  France
+Fabrizio Martinet: plumber,  Italy
+Roberto Rainis: doctor,  Italy
+Lucia Sabbatini: astrophysicist,  Italy
+Riccardo Schioppo: climatologist,  Italy
+Jean-François Vanacker: station leader, radio,  France
+The fifth wintering took place from February 2009 to November 2009 with a team of twelve people (eight French, three Italian and one British):
+Massimiliano Faiella: technical chief,  Italy
+Domenico Fasano: chef,  Italy
+William Frinot: plumber,  France
+Laura Genoni: glaciologist,  Italy
+Caroline Jullian: atmospheric chemistry,  France
+Alexander Leluc: mechanic,  France
+Eric Lotz: station leader, physician,  France
+Denis Petermann: astronomer,  France
+Cyprien Pouzenc: astronomer,  France
+Alex Salam: ESA biomedical research,  United Kingdom
+Eric Tragin: electrician,  France
+Jonathan Zaccaria: radio, computer, science support,  France
+This Wintering took place with a team of thirteen (six French, six Italian and one Czech):
+Jean-François Vanacker: station leader,  France
+Ales Rybka: ESA biomedical research,  Czech Republic
+Karim Agabi: astronomer,  France
+Alessandro Bambini: electrician,  Italy
+Arthur Le Forestier: technical chief,  France
+Boris Padovan: computer, telecommunications,  Italy
+Christophe Rouy: mechanic,  France
+Daniele Karlicek: glaciologist,  Italy
+Giorgio Deidda: chef,  Italy
+Jean-Marie Moysan: plumber,  France
+Lorenzo Moggio: atmospheric chemistry,  Italy
+Rosa Forgittoni: doctor,  Italy
+Sylvain Lafont: glaciologist,  France
+The seventh wintering took place with a team of 14 people (seven French, six Italian and one British):
+Andrea Cesana: station leader, doctor,  Italy
+Eoin MacDonald: ESA biomedical research,  United Kingdom
+Djamel Mekarnia: astronomer,  France
+Eric Aristidi: astronomer,  France
+Alessandro Giusto: electrician,  Italy
+Sergeant Frederic: technical chief,  France
+Paolo Perfetti: computer, telecommunications,  Italy
+David Colin: mechanic,  France
+Domenico Romano: astronomer, glaciologist,  Italy
+Andrea Ballarini: chef,  Italy
+Vivien Koutcheroff: plumber,  France
+Ilann Bourgeois: atmospheric chemistry, glaciologist,  France
+Pascal Robert: technician seismology, magnetism,  France
+Angelo Galeandro: meteorologist,  Italy
+The eighth wintering took place with a team of 13 people (seven French, four Italian, one Russian and one British):
+Erick Bondoux: station leader, electronic technician for science,  France
+Alexander Kumar: Station physician and ESA biomedical research MD,  United Kingdom
+Barbara Grolla: nurse anesthetist,  France
+Guillaume Bouchez: astronomer,  France
+Alessandro Bambini: electrotechnician,  Italy
+Stephane Calvo: technical chief,  France
+Roberto D'Amato: informatician, telecommunications,  Italy
+Bruno Limouzy: mecanician,  France
+Mattia Bonazza: glaciologist, atmospheric chemistry,  Italy
+Giorgio Deidda: chef,  Italy
+Gérard Guérin: plumber,  France
+Sebastien Aubin: glaciologist, atmospheric chemistry,  France
+Igor Petenko: atmospheric science and climate,  Russia.
+The ninth wintering took place with a team of 15 people (nine French, five Italian and one Greek):
+Anne-Marie Courant: station leader, physician,  France
+Evangelos Kaimakamis: ESA biomedical research,  Greece
+Helene Faradji: astronomer,  France
+Christophe Leroy Dos Santos: astronomer,  France
+Yann Reinert: astronomer,  France
+Jean Gabriel Coll: electrician,  France
+Yannick Marin: technical chief,  France
+Bruno Epifania: computer, telecommunications,  Italy
+Simon Reuze: mechanic,  France
+Elio Padoan: glaciologist, atmospheric chemistry,  Italy
+Luigi Vailati: chef,  Italy
+Olivier Delanoë: Plumber,  France
+Albane Barbero: glaciologist, atmospheric chemistry, meteorological maintenance,  France
+Antonio Litterio: electronic technician for science,  Italy
+Simonetta Montaguti: atmospheric science and climate,  Italy
+The tenth wintering took place with a team of 13 people (six French, five Italian, one Russian and one Greek):
+Bruno Limouzy: Electrical motors,  France
+Giorgio Deidda: Chef,  Italy
+Tindari Ceraolo: Station leader, physician,  Italy
+Adrianos Golemis: ESA biomedical research,  Greece
+Pierre Pejoine: Mechanic,  France
+Paride Legovini: Physicist, Electronic technician for science,  Italy
+Julien Ribet: Electrotechnician,  France
+Tommaso Nicosia: Computer, telecommunications,  Italy
+Daniele Tavagnacco: Astrophysicist,  Italy
+Olivier Haye: Technical Chief, plumbing and heating,  France
+Cecile Lenormant: Chemist,  France
+Igor Petenko: Atmospheric science and climate,  Russia
+Xavier Joffrin: Astronomy,  France.
+During the 2014 Antarctic winter Concordia is an active amateur radio station: Paride Legovini operates from there on a weekly basis with call sign IA/IZ3SUS. The HF radio equipment consists in a Rohde & Schwarz XK2100L transceiver with a 150W RF output and a delta loop antenna located a few hundreds of meters away from the station.
+The analemma (path that the sun follows in the sky if photographed at precisely the same time every week through the course of a year) was captured for the first time ever in Antarctica by Adrianos Golemis during the 10th winterover mission at Concordia Station in 2013-2014. The resulting picture was selected as NASA Astronomy Picture of the Day (APOD) on 23 September 2015.
+The eleventh wintering is taking place from February 2015 to November 2015 with a team of 13 people (six French, five Italian, one British and one Swiss):
+Mario Salza: Station Leader, Information and Communications Technology (ICT),  Italy
+Yannick Marin: Technical Manager and Electrical motors,  France
+Antonietta Roveran: Physician,  Italy
+Roxanne Jacob: Glaciology and Atmospheric Chemistry,  France
+Luca Ficara: Chef,
+Guillaume Poirot: Mechanic,  France
+Giampietro Casasanta: Glaciology and Atmospheric Remote Sensing,  Italy
+Benoit Laurent: Electronics for Science,  France
+Markus Wildi: Astrophysics,   Switzerland
+Benoit Joncheray: Plumbing and Heating Engineering Technician,  France
+Lorenzo Moggio: Atmospheric Physics,  Italy
+Beth Healey: ESA Biomedical Research,  United Kingdom
+Rémi Puaud: Electrical Engineering Technician,  France
+The twelfth winter began on February 10, 2016, with twelve overwintering (five Italian, six French, one Dutch):
+Elvio Lazzarini: Physician,  Italy
+Alessandro Fausto: Information and Communications Technology (ICT),  Italy
+Luciano Milano: Electronics for Science,  Italy
+Vitale Stanzione: Station Leader, Glaciology,  Italy
+Bertrand Bonnefoy: Chef,  France
+Floris van den Berg: ESA Biomedical Research MD,  the Netherlands
+Georges Karakasidis: Electrician,  France
+Henri van den Hove: Plumbing and Heating Engineering Technician,  France
+Olivier Leloir: Technical Chief,  France
+Gaetan Quere: Mechanic,  France
+Simonetta Montaguti: Atmospheric Science and Climate,  Italy
+Nicole Hueber: Glaciology and Atmospheric Chemistry,  France
+Research stations in Antarctica
+List of Mars analogs

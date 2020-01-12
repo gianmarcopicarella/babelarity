@@ -1,0 +1,10 @@
+An apical consonant is a phone (speech sound) produced by obstructing the air passage with the tip of the tongue. It contrasts with laminal consonants, which are produced by creating an obstruction with the blade of the tongue (which is just behind the tip).
+It is not a very common distinction and is typically applied only to fricatives and affricates. Thus, many varieties of English have either apical or laminal pairs of [t]/[d]. However, some varieties of Arabic, including Hadhrami Arabic in Yemen, realizes [t] as laminal but [d] as apical.
+Basque uses this distinction for alveolar fricatives, as does Serbo-Croatian. Mandarin Chinese uses it for postalveolar fricatives (the "alveolo-palatal" and "retroflex" series). St'at'imcets uses this as a secondary feature in contrasting velarized and non-velarized affricates. A distinction between apical and laminal is common in Australian languages for the nasals, plosives and usually also the lateral approximants.
+Most dialects in the Bengali–Assamese continuum distinguish between dental–laminal alveolar stops and apical alveolar stops. In Upper Assamese they have merged, leaving only the apical alveolar stops, whereas in Western Bengali the apical alveolar are instead apical postalveolar.
+In the International Phonetic Alphabet, the diacritic for apical consonants is U+033A ◌̺ COMBINING INVERTED BRIDGE BELOW (HTML &#826;).
+Coronal consonant
+Laminal consonant
+List of phonetic topics
+Voiceless apicoalveolar fricative
+Voiced apicoalveolar fricative

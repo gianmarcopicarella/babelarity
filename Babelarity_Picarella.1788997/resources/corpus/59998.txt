@@ -1,0 +1,17 @@
+A sulfonate is a salt or ester of a sulfonic acid. It contains the functional group R-SO3−.
+Anions with the general formula RSO3− are called sulfonates. They are the conjugate bases of sulfonic acids with formula RSO2OH. As sulfonic acids tend to be strong acids, the corresponding sulfonates are weak bases. Due to the stability of sulfonate anions, the cations of sulfonate salts such as scandium triflate have application as Lewis acids.
+A classic organic reaction for the preparation of sulfonates is that of alkyl halides with sulfites such as sodium sulfite, first described by Adolph Strecker in 1868 (Strecker sulfite alkylation). The general reaction is:
+RX + M2SO3 → RSO3M + MX
+Iodide is used as a catalyst.
+Esters with the general formula R1SO2OR2 are called sulfonic esters. Individual members of the category are named analogously to how ordinary carboxyl esters are named. For example, if the R2 group is a methyl group and the R1 group is a trifluoromethyl group, the resulting compound is methyl trifluoromethanesulfonate.
+Sulfonic esters are used as reagents in organic synthesis, chiefly because the RSO3− group is a good leaving group, especially when R is electron-withdrawing. Methyl triflate, for example, is a strong methylating reagent.
+Sulfonates are commonly used to confer water solubility to protein crosslinkers such as N-hydroxysulfosuccinimide (Sulfo-NHS), BS3, Sulfo-SMCC, etc.
+Cyclic sulfonic esters are called sultones. One example is 1,3-propane sultone. Some sultones are short-lived intermediates, used as strong alkylating agents to introduce a negatively charged sulfonate group. In the presence of water, they slowly hydrolyze to the hydroxy sulfonic acids. Sultone oximes are key intermediates in the synthesis of the anti-convulsant drug zonisamide.
+Mesylate (methanesulfonate), CH3SO3−
+Triflate (trifluoromethanesulfonate), CF3SO3−
+Esylate (ethanesulfonate), C2H5SO3−
+Besylate (benzenesulfonate), C6H5SO3−Tosylate (p-toluenesulfonate), CH3C6H4SO3−
+Sulfate
+Sulfoxide
+Sulfonyl
+Sulfoxyl

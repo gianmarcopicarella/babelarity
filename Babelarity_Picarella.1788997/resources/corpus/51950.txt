@@ -1,0 +1,13 @@
+Kdenlive (KDE Non-Linear Video Editor) /ˌkeɪdɛnˈlaɪv/ is an open-source video editing software based on the MLT Framework and KDE. The project was started by Jason Wood in 2002, and is now maintained by a small team of developers. With the release of Kdenlive 15.04.0 it became part of the official KDE project.
+Kdenlive packages are freely available for Linux and FreeBSD, and the source code is available for Mac OS X under the terms of GNU General Public License version 2 or any later version.
+KDE's Kdenlive makes use of MLT, Frei0r effects, SoX and LADSPA libraries. Kdenlive supports all of the formats supported by FFmpeg or libav (such as QuickTime, AVI, WMV, MPEG, and Flash Video, among others), and also supports 4:3 and 16:9 aspect ratios for both PAL, NTSC and various HD standards, including HDV and AVCHD. Video can also be exported to DV devices, or written to a DVD with chapters and a simple menu.
+Kdenlive has multi-track editing with a timeline and supports an unlimited number of video and audio tracks.
+Tools to create, move, crop and delete video clips, audio clips, text clips and image clips. Configurable keyboard shortcuts and interface layouts.
+A wide range of effects and transitions. Audio effects include normalization, phase and pitch shifting, limiting, volume adjustment, reverb and equalization filters as well as others. Video effects include options for masking, blue-screen, distortions, rotations, colour tools, blurring, obscuring and others.
+Ability to add custom effects and transitions.
+Rendering is done using a separate non-blocking process so it can be stopped, paused and restarted.
+Kdenlive also provides a script called the Kdenlive Builder Wizard (KBW) that compiles the latest developer version of the software and its main dependencies from source, to allow users to try to test new features and report problems on the bug tracker.
+The project was initially started by Jason Wood in 2002. The development of Kdenlive moved on from the K Desktop Environment 3 version (which wasn't originally made for MLT) to KDE Platform 4, with an almost complete rewrite. This was completed with Kdenlive 0.7, released on November 12, 2008. Kdenlive 0.9.10 released on October 1, 2014 was the last KDE 4 release.
+Kdenlive started to plan a move into the KDE project and its infrastructure in 2014. Port to KDE Frameworks 5 was finished with the release of 2015.04.0 as part of KDE Applications 5. The move to KDE is ongoing.
+List of video editing software
+Comparison of video editing software

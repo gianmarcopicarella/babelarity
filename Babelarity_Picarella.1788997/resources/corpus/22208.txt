@@ -1,0 +1,49 @@
+Ion Barbu (Romanian pronunciation: [iˈon ˈbarbu], pen name of Dan Barbilian; 18 March 1895 –11 August 1961) was a Romanian mathematician and poet.
+Born in Câmpulung-Muscel, Argeş County, he was the son of Constantin Barbilian and Smaranda, born Şoiculescu. He attended the Ion Brătianu High School in Piteşti and the Gheorghe Lazăr High School in Bucharest. During that time, he discovered that he had a talent for mathematics, and started publishing in Gazeta Matematică, one of the most prestigious math publications of that time; it was also then that he discovered his passion for poetry. Ion Barbu was known as "one of the greatest Romanian poets of the twentieth century and perhaps the greatest of all" according to Romanian literary critic Alexandru Ciorănescu. As a poet, he is best known for his volume Joc secund ("Mirrored Play").
+He was a student at the University of Bucharest when World War I caused his studies to be interrupted by military service. He completed his degree in 1921. He then went to Göttingen University to study number theory with Edmund Landau for two years. Returning to Bucharest, he studied with Gheorghe Țițeica, completing his thesis in 1929
+In 1934, Barbilian published his article describing metrization of a region K, the interior of a simple closed curve J. Let xy denote the Euclidean distance from x to y. Barbilian’s function for the distance from a to b in K is
+        d
+        (
+        a
+        ,
+        b
+        )
+        =
+        log
+        ⁡
+            max
+              p
+              ∈
+              J
+        (
+        p
+        a
+          /
+        p
+        b
+        )
+        +
+        log
+        ⁡
+            max
+              q
+              ∈
+              J
+        (
+        q
+        b
+          /
+        q
+        a
+        )
+        .
+    {\displaystyle d(a,b)=\log {\underset {p\in J}{\max }}(pa/pb)+\log {\underset {q\in J}{\max }}(qb/qa).}
+At the University of Missouri in 1938 Leonard Blumenthal wrote Distance Geometry. A Study of the Development of Abstract Metrics, where he used the term "Barbilian spaces" for metric spaces based on Barbilian's function to obtain their metric. And in 1954 American Mathematical Monthly published an article by P.J. Kelley on Barbilian's method of metrizing a region bounded by a curve. Dan did not have access to these publications but he did read Blumenthal in Mathematical Reviews.
+He answered in 1959 with an article which described "a very general procedure of metrization through which the positive functions of two points, on certain sets, can be refined to a distance." Besides Blumenthal and Kelly, articles on "Barbilian spaces" have appeared in the 1990s from W.G. Boskoff and P. Souza, while Marian G. Ciucă and Bogdan Suceavă write in the 2000s about "Barbilian's metrization procedure. Dan Barbilian indicated in his paper "Asupra unui principiu de metrizare" that he prefers the term "Apollonian metric space", and articles from A.F. Beardon, Gehring & Hag, P.A. Häströ, and Z. Ibragimov and others use that term.
+Barbilian made a contribution to the foundations of geometry with his articles in 1940 and 1941 in Jahresbericht der Deutschen Mathematiker-Vereinigung on projective planes with coordinates from a ring. According to Boskoff & Suceava, this work "inspired research in ring geometries, nowadays associated with his, Hjelmslev’s and Klingenberg’s names." A more critical stance was taken in 1995 by Ferdinand D Velkamp:
+A systematic study of projective planes over large classes of associative rings was initiated by D. Barbilian. His very general approach in [1940 and 41] remained rather unsatisfactory, however, his axioms were partly of a geometric nature, partly algebraic as pertaining to the ring of coordinates, and there were a number of difficulties which Barbilian could not overcome.
+Nevertheless, in 1989 John R. Faulkner wrote an article "Barbilian Planes" that clarified terminology and advanced the study. In his introduction he wrote:
+A classical result from projective geometry is that a Desarguesian projective plane is coordinatized by an associative division ring. A Barbilian plane is a geometric structure which extends the notion of a projective plane and thereby allows a coordinate ring which is not necessarily a division ring. There are advantages ...
+In 1942, Barbilian was named professor at the University of Bucharest (with some help from fellow mathematician Grigore Moisil). As a mathematician, Barbilian authored 80 research papers and studies.
+Barbu was mostly apolitical, with one exception: around 1940 he became a sympathizer of the fascist movement The Iron Guard (hoping to get a professorship if they came to power), dedicating some poems to one of its leaders, Corneliu Zelea Codreanu. In 1940, he also wrote a poem praising Hitler.
+Ion Barbu died in Bucharest in 1961, and is buried at Bellu Cemetery.

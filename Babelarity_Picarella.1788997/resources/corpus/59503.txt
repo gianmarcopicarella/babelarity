@@ -1,0 +1,13 @@
+In chemistry, methine is a trivalent functional group =CH−, derived formally from methane. It consists of a carbon atom bound by two single bonds and one double bond, where one of the single bonds is to a hydrogen. The group is also called methyne or methene; its IUPAC systematic name is methylylidene or methanylylidene
+This name is also used for each carbon-hydrogen subunit of an aromatic compound, although the latter do not have discrete single and double bonds.
+This group is sometimes called "methylidyne", however that name belongs properly to either the methylidyne group ≡CH (connected to the rest of the molecule by a triple bond) or to the methylidyne radical ⫶CH (the two atoms as a free molecule with dangling bonds).
+The name "methine" is also widely used in non-systematic nomenclature for the methanetriyl group (IUPAC): a carbon with four single bonds, where one bond is to a hydrogen (>CH−).
+Every carbon in this molecule is a methine carbon, except the two that are attached to the two nitrogens and not to any hydrogens, and the one attached to the nitrogen, which is attached to two hydrogens (far right). There is a five carbon poly-methine chain in the center of this molecule.
+Methyl group −CH
+3
+Methylene group or methylidene =CH
+2
+Methylene bridge or methanediyl −CH
+2−
+Methanetriyl group >CH−
+Methylylidyne group ≡C−

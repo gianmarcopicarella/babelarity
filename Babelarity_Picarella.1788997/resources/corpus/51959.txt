@@ -1,0 +1,40 @@
+Adobe Acrobat is a family of application software and Web services developed by Adobe Systems to view, create, manipulate, print and manage files in Portable Document Format (PDF).
+The family comprises Acrobat Reader (formerly Adobe Reader), Acrobat (formerly Acrobat Exchange) and Acrobat.com. The basic Acrobat Reader, available for several desktop and mobile platforms, is freeware; it supports viewing, printing and annotating of PDF files. Additional, "Premium", services are available for reader on paid subscription. The commercial proprietary Acrobat, available for Microsoft Windows and OS X only, can also create, edit, convert, digitally sign, encrypt, export and publish PDF files. Acrobat.com complements the family with a variety of enterprise content management and file hosting services.
+Since the early 1990s the Acrobat product has had several competitors, some of which used their own document formats, such as:
+AnyView from Binar Graphics company
+Common Ground from No Hands Software company
+Envoy from WordPerfect Corporation
+Folio from NextPage company
+Replica from Netopia (formerly Farallon Computing)
+WorldView from Interleaf company
+DjVu from AT&T Laboratories
+Adobe also allows third parties to develop Acrobat plug-ins, which can add extra functions to the Acrobat program.
+Adobe has changed the names of the products of the Acrobat set several times, also dividing, merging, or discontinuing products. Initially, the name "Acrobat" was used as the parent name of a set of products which included Acrobat Reader, Acrobat Exchange and Acrobat Distiller. Over time, Acrobat Reader became Reader; and the name Acrobat Exchange was simplified to Acrobat. Between versions 3 and 5, Standard and Professional versions were one product known simply as Acrobat.
+In April 2015, Adobe introduced the Adobe "Document Cloud," along with the first of several applications with "DC" at the end of the name. One of the main goals was to have all of a user's PDFs available on any of the user's devices, such as an editing a PDF on an iPad and then later retrieving it on a PC. As of October, 2015, the "Document Cloud" also includes integration with Dropbox and includes electronic signature improvements, although at least some features require a subscription.
+As of April 2015, the main members of the Acrobat family include:
+Desktop applications:
+Adobe Acrobat Reader DC (for OS X v10.6.4 and above, and Windows 7 and above. Reader X is the last supported version for Windows Vista).
+Adobe Acrobat Standard DC
+Adobe Acrobat Pro DC
+Mobile applications with the Document Cloud (DC) launch:
+Adobe Acrobat DC (mobile app on iOS and Android)
+Fill n Sign app
+e-Sign manager
+Acrobat.com (Online services):
+CreatePDF
+ExportPDF
+EchoSign
+FormsCentral
+Personal Storage
+Send
+Workspaces
+Unlike most other Adobe products, such as members of Adobe Creative Suite family, the Acrobat products do not have icons that display two letters on a colored rectangle.
+The UI had major changes with the introduction of Acrobat DC in 2015, which supports Windows 7 and later, and Mac OS X 10.9 and later. Version numbers are now identified by the last two digits of the year of major release, and the month and year is specified; the previous version was 12, but examples of the DC (Document Cloud) Acrobat product family versions are DC June 2016, version 15.016.20045, released 2 June 2016 and DC classic January 2016, version 15.006.30119, released 12 January 2016. From DC 2015 the Acrobat family is available in two tracks, the original track, now named classic, and the continuous track. Updates for the classic track are released quarterly, and do not include new features, whereas updates for the continuous track are issued more frequently, and implemented silently and automatically.
+Adobe Acrobat is available in the following languages: Arabic, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish and Ukrainian. Arabic and Hebrew versions are available from WinSoft International, Adobe Systems' internationalization and localization partner.
+The Arabic and Hebrew versions are developed specifically for these languages, which are normally written right-to-left. These versions include special TouchUp properties to manage digits, ligatures option and paragraph direction in right-to-left Middle Eastern scripts such as Arabic, Hebrew, and Persian, as well as standard left-to-right Indian scripts such as Devanagari and Gujarati. The Web Capture feature can convert single web pages or entire web sites into PDF files, while preserving the content's original text encoding. Acrobat can also copy Arabic and Hebrew text to the system clipboard in its original encoding; if the target application is also compatible with the text encoding, then the text will appear in the correct script.
+The latest security bulletins from Adobe are published on their Security bulletins and advisories page. There have been security updates for Adobe Reader and Acrobat on January 10, April 10 and August 14, 2012, and January 8, 2013.
+From Version 3.02 onwards, Acrobat Reader has included support for JavaScript. This functionality allows a PDF document creator to include code which executes when the document is read. Malicious PDF files that attempt to attack security vulnerabilities can be attached to links on web pages or distributed as email attachments. While JavaScript is designed without direct access to the file system to make it "safe", vulnerabilities have been reported for abuses such as distributing malicious code by Acrobat programs. Adobe applications had already become the most popular client-software targets for attackers during the last quarter of 2009. McAfee predicted that Adobe software, especially Reader and Flash, would be the primary target for software attacks during 2010.
+On September 13, 2006, David Kierznowski provided sample PDF files illustrating JavaScript vulnerabilities. Since at least version 6, JavaScript can be disabled using the preferences menu and embedded URLs that are launched are intercepted by a security warning dialog box to either allow or block the website from activating.
+On February 19, 2009, Adobe released a Security Bulletin announcing JavaScript vulnerabilities in Adobe Reader and Acrobat versions 9 and earlier. As a workaround for this issue, US-CERT recommended disabling JavaScript in the affected Adobe products, canceling integration with Windows shell and web browsers (while carrying out an extended version of de-integration for Internet Explorer), deactivating Adobe indexing service and avoiding all PDF files from external sources.
+Creative Cloud
+List of PDF software

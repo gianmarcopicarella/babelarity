@@ -1,0 +1,25 @@
+The Java Naming and Directory Interface (JNDI) is a Java API for a directory service that allows Java software clients to discover and look up data and objects via a name. Like all Java APIs that interface with host systems, JNDI is independent of the underlying implementation. Additionally, it specifies a service provider interface (SPI) that allows directory service implementations to be plugged into the framework. It may make use of a server, a flat file, or a database; the choice is up to the vendor.
+Typical uses of JNDI include:
+connecting a Java application to an external directory service (such as an address database or an LDAP server)
+allowing a Java Servlet to look up configuration information provided by the hosting web container
+The Java RMI and Java EE APIs use the JNDI API to look up objects in a network.
+The API provides:
+a mechanism to bind an object to a name
+a directory-lookup interface that allows general queries
+an event interface that allows clients to determine when directory entries have been modified
+LDAP extensions to support the additional capabilities of an LDAP service
+The SPI portion allows support for practically any kind of naming or directory service, including:
+LDAP
+DNS
+NIS
+CORBA name service
+file system
+Sun Microsystems first released the JNDI specification on March 10, 1997. As of 2006, the current version is JNDI 1.2.
+JNDI (Java Naming and Directory Interface) organizes its names into a hierarchy. A name can be any string such as "com.mydomain.ejb.MyBean". A name can also be an object that implements the Name interface; however a string is the most common way to name an object. A name is bound to an object in the directory by storing either the object or a reference to the object in the directory service identified by the name.
+The JNDI API defines a context that specifies where to look for an object. The initial context is typically used as a starting point.
+In the simplest case, an initial context must be created using the specific implementation and extra parameters required by the implementation. The initial context will be used to look up a name. The initial context is analogous to the root or top of a directory tree for a file system. Below is an example of creating an initial context:
+A context is then used to look up previously bound names in that context. For example:
+Alternative to above code is as below:
+The Context object can also be configured by adding jndi.properties file in classpath containing initial context factory class name and provider URL. The above code will be reduced as shown below:
+A context is then used to look up previously bound names in that context. For example:
+Attributes may be attached to special entries called directories. Directories enable searching for objects by their associated attributes. Directories are a type of context; they restrict the name space much like a directory structure on a file system does.

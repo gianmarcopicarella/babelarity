@@ -1,0 +1,91 @@
+Kerkythea is a standalone rendering system that supports raytracing and Metropolis light transport, uses physically accurate materials and lighting, and is distributed as freeware. Currently, the program can be integrated with any software that can export files in obj and 3ds formats, including 3ds Max, Blender, LightWave 3D, SketchUp, Silo and Wings3D.
+Kerkythea started development in 2004 and released its first version on April 2005. Initially it was only compatible with Microsoft Windows, but an updated release on October 2005 made it Linux compatible. As of January 2016, it is also available for Mac OS X. In May 2009 it was announced that the development team started a new commercial renderer, although Kerkythea will be updated and it will stay free and available. A new version called 'Boost' has been released in 2013.
+There are 6 official exporters for Kerkythea.
+Blender
+Blend2KT
+Exporter to XML format
+3D Studio Max
+3dsMax2KT 3dsMax Exporter
+Maya
+Maya2KT Maya Exporter
+GMax
+GMax2KT GMax Exporter
+SketchUp
+SU2KT SketchUp Exporter
+SU2KT Light Components
+Supported 3D file formats
+3DS format
+OBJ format
+XML (internal) format
+SIA (Silo) format (partially supported)
+Supported image formats
+All supported by FreeImage library (JPEG, BMP, PNG, TGA and HDR included)
+Supported materials
+Matte
+Perfect reflections/refractions
+Blurry reflections/refractions
+Translucency (SSS)
+Dielectric material
+Thin glass material
+Phong shading material
+Ward anisotropic material
+Anisotropic Ashikhmin material
+Lafortune material
+Layered material (additive combination of the above with use of alpha maps)
+Supported shapes
+Triangulated meshes
+Sphere
+Planes
+Supported lights
+Omni light
+Spot light
+Projector light
+Point diffuse
+Area diffuse
+Point light with spherical soft shadows
+Ambient lighting
+Sky lighting (Physical sky, SkySphere bitmap (normal or HDRI))
+Supported textures
+Constant colors
+Bitmaps (normal and HDRI)
+Procedurals (Perlin noise, marble, wood, windy, checker, wireframe, normal ramp, Fresnel ramp)
+Any weighted or multiplicative combination of the above
+Supported features
+Bump mapping
+Normal mapping
+Clip mapping
+Bevel mapping (an innovative KT feature)
+Edge outlining
+Depth of field
+Fog
+Isotropic volume scattering
+Faked caustics
+Faked translucency
+Dispersion
+Anti-aliasing (Texture filtering, edge antialiasing)
+Selection rendering
+Surface and material instancing
+Supported camera types
+Planar projection (Pinhole, thin lens)
+Cylindrical pinhole
+Spherical pinhole
+Supported rendering techniques
+Classic ray tracing
+Path tracing (Kajiya)
+Bidirectional path tracing (Veach & Guibas)
+Metropolis light transport (Kelemen, Kalos et al.)
+Photon mapping (Jensen) (mesh maps, photon maps, final gathering, irradiance caching, caustics)
+Diffuse interreflection (Ward)
+Depth rendering
+Mask rendering
+Clay rendering
+Application environment
+OpenGL real-time viewer (basic staging capabilities)
+Integrated material editor
+Easy rendering customization
+Sun/sky customization
+Script system
+Command line mode
+YafaRay, free and open-source ray tracing software that uses an XML scene description language.
+POV-Ray, free and open-source ray tracing software
+LuxRender, free and open-source "unbiased" rendering system

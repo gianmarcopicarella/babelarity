@@ -1,0 +1,817 @@
+The mathematics of pendulums are in general quite complicated. Simplifying assumptions can be made, which in the case of a simple pendulum allows the equations of motion to be solved analytically for small-angle oscillations.
+A so-called "simple pendulum" is an idealization of a "real pendulum" but in an isolated system using the following assumptions:
+The rod or cord on which the bob swings is massless, inextensible and always remains taut;
+The bob is a point mass;
+Motion occurs only in two dimensions, i.e. the bob does not trace an ellipse but an arc.
+The motion does not lose energy to friction or air resistance.
+The gravitational field is uniform.
+The support does not move.
+The differential equation which represents the motion of a simple pendulum is
+where g is acceleration due to gravity, ℓ is the length of the pendulum, and θ is the angular displacement.
+The differential equation given above is not easily solved, and there is no solution that can be written in terms of elementary functions. However adding a restriction to the size of the oscillation's amplitude gives a form whose solution can be easily obtained. If it is assumed that the angle is much less than 1 radian (often cited as less than 0.1 radian, about 6°), or
+        θ
+        ≪
+        1
+    {\displaystyle \theta \ll 1\,}
+  ,
+then substituting for sin θ into Eq. 1 using the small-angle approximation,
+        sin
+        ⁡
+        θ
+        ≈
+        θ
+    {\displaystyle \sin \theta \approx \theta \,}
+  ,
+yields the equation for a harmonic oscillator,
+                d
+                  2
+              θ
+              d
+                t
+                  2
+        +
+            g
+            ℓ
+        θ
+        =
+        0.
+    {\displaystyle {d^{2}\theta  \over dt^{2}}+{g \over \ell }\theta =0.}
+The error due to the approximation is of order θ3 (from the Maclaurin series for sin θ).
+Given the initial conditions θ(0) = θ0 and dθ/dt(0) = 0, the solution becomes,
+        θ
+        (
+        t
+        )
+        =
+          θ
+            0
+        cos
+        ⁡
+          (
+                g
+                  ℓ
+          t
+          )
+          θ
+            0
+        ≪
+        1.
+    {\displaystyle \theta (t)=\theta _{0}\cos \left({\sqrt {g \over \ell \,}}\,t\right)\quad \quad \quad \quad \theta _{0}\ll 1.}
+The motion is simple harmonic motion where θ0 is the semi-amplitude of the oscillation (that is, the maximum angle between the rod of the pendulum and the vertical). The period of the motion, the time for a complete oscillation (outward and return) is
+          T
+            0
+        =
+        2
+        π
+              ℓ
+              g
+          θ
+            0
+        ≪
+        1
+    {\displaystyle T_{0}=2\pi {\sqrt {\frac {\ell }{g}}}\quad \quad \quad \quad \quad \theta _{0}\ll 1}
+which is known as Christiaan Huygens's law for the period. Note that under the small-angle approximation, the period is independent of the amplitude θ0; this is the property of isochronism that Galileo discovered.
+          T
+            0
+        =
+        2
+        π
+              ℓ
+              g
+    {\displaystyle T_{0}=2\pi {\sqrt {\frac {\ell }{g}}}}
+   can be expressed as 
+        ℓ
+        =
+            g
+              π
+                2
+        ×
+              T
+                0
+                2
+            4
+        .
+    {\displaystyle \ell ={\frac {g}{\pi ^{2}}}\times {\frac {T_{0}^{2}}{4}}.}
+If SI units are used (i.e. measure in metres and seconds), and assuming the measurement is taking place on the Earth's surface, then 
+        g
+        ≈
+        9.81
+    {\displaystyle g\approx 9.81}
+   m/s2, and 
+        g
+          /
+          π
+            2
+        ≈
+          1
+    {\displaystyle g/\pi ^{2}\approx {1}}
+   (0.994 is the approximation to 3 decimal places).
+Therefore, a relatively reasonable approximation for the length and period are,
+        ℓ
+        ≈
+              T
+                0
+                2
+            4
+        ,
+    {\displaystyle \ell \approx {\frac {T_{0}^{2}}{4}},}
+          T
+            0
+        ≈
+        2
+            ℓ
+    {\displaystyle T_{0}\approx 2{\sqrt {\ell }}}
+where T0 is the number of seconds between two beats (one beat for each side of the swing), and ℓ is measured in metres.
+For amplitudes beyond the small angle approximation, one can compute the exact period by first inverting the equation for the angular velocity obtained from the energy method (Eq. 2),
+              d
+              t
+              d
+              θ
+        =
+              ℓ
+                2
+                g
+            1
+                cos
+                ⁡
+                θ
+                −
+                cos
+                ⁡
+                  θ
+                    0
+    {\displaystyle {dt \over d\theta }={\sqrt {\ell  \over 2g}}{1 \over {\sqrt {\cos \theta -\cos \theta _{0}}}}}
+and then integrating over one complete cycle,
+        T
+        =
+        t
+        (
+          θ
+            0
+        →
+        0
+        →
+        −
+          θ
+            0
+        →
+        0
+        →
+          θ
+            0
+        )
+        ,
+    {\displaystyle T=t(\theta _{0}\rightarrow 0\rightarrow -\theta _{0}\rightarrow 0\rightarrow \theta _{0}),}
+or twice the half-cycle
+        T
+        =
+        2
+        t
+          (
+            θ
+              0
+          →
+          0
+          →
+          −
+            θ
+              0
+          )
+        ,
+    {\displaystyle T=2t\left(\theta _{0}\rightarrow 0\rightarrow -\theta _{0}\right),}
+or 4 times the quarter-cycle
+        T
+        =
+        4
+        t
+          (
+            θ
+              0
+          →
+          0
+          )
+        ,
+    {\displaystyle T=4t\left(\theta _{0}\rightarrow 0\right),}
+which leads to
+        T
+        =
+        4
+              ℓ
+                2
+                g
+          ∫
+            0
+              θ
+                0
+            1
+                cos
+                ⁡
+                θ
+                −
+                cos
+                ⁡
+                  θ
+                    0
+        d
+        θ
+        .
+    {\displaystyle T=4{\sqrt {\ell  \over 2g}}\int _{0}^{\theta _{0}}{1 \over {\sqrt {\cos \theta -\cos \theta _{0}}}}\,d\theta .}
+Note that this integral diverges as 
+          θ
+            0
+    {\displaystyle \theta _{0}}
+   approaches the vertical
+          lim
+              θ
+                0
+            →
+            π
+        T
+        =
+        ∞
+    {\displaystyle \lim _{\theta _{0}\rightarrow \pi }T=\infty }
+  ,
+so that a pendulum with just the right energy to go vertical will never actually get there. (Conversely, a pendulum close to its maximum can take an arbitrarily long time to fall down.)
+This integral can be re-written in terms of elliptic integrals as
+        T
+        =
+        4
+              ℓ
+              g
+        F
+          (
+                θ
+                  0
+              2
+          ,
+          csc
+          ⁡
+                θ
+                  0
+              2
+          )
+        csc
+        ⁡
+              θ
+                0
+            2
+    {\displaystyle T=4{\sqrt {\ell  \over g}}F\left({\theta _{0} \over 2},\csc {\theta _{0} \over 2}\right)\csc {\theta _{0} \over 2}}
+where 
+        F
+    {\displaystyle F}
+   is the incomplete elliptic integral of the first kind defined by
+        F
+        (
+        φ
+        ,
+        k
+        )
+        =
+          ∫
+            0
+            φ
+            1
+                1
+                −
+                  k
+                    2
+                  sin
+                    2
+                ⁡
+                  u
+        d
+        u
+        .
+    {\displaystyle F(\varphi ,k)=\int _{0}^{\varphi }{1 \over {\sqrt {1-k^{2}\sin ^{2}{u}}}}\,du\,.}
+Or more concisely by the substitution 
+        sin
+        ⁡
+          u
+        =
+              sin
+              ⁡
+                  θ
+                  2
+              sin
+              ⁡
+                    θ
+                      0
+                  2
+    {\displaystyle \sin {u}={\frac {\sin {\theta  \over 2}}{\sin {\theta _{0} \over 2}}}}
+   expressing 
+        θ
+    {\displaystyle \theta }
+   in terms of u,
+where 
+        K
+    {\displaystyle K}
+   is the complete elliptic integral of the first kind defined by
+        K
+        (
+        k
+        )
+        =
+        F
+          (
+              π
+              2
+          ,
+          k
+          )
+        =
+          ∫
+            0
+            π
+              /
+            2
+            1
+                1
+                −
+                  k
+                    2
+                  sin
+                    2
+                ⁡
+                  u
+        d
+        u
+        .
+    {\displaystyle K(k)=F\left({\pi  \over 2},k\right)=\int _{0}^{\pi /2}{1 \over {\sqrt {1-k^{2}\sin ^{2}{u}}}}\,du\,.}
+For comparison of the approximation to the full solution, consider the period of a pendulum of length 1 m on Earth (g = 9.80665 m/s2) at initial angle 10 degrees is 
+        4
+                1
+                  m
+              g
+        K
+          (
+          sin
+          ⁡
+              (
+                    10
+                      ∘
+                  2
+              )
+          )
+        ≈
+        2.0102
+          s
+    {\displaystyle 4{\sqrt {\frac {1\ \mathrm {m} }{g}}}\ K\left(\sin {\left({\frac {10^{\circ }}{2}}\right)}\right)\approx 2.0102\ \mathrm {s} }
+  . The linear approximation gives 
+        2
+        π
+                1
+                  m
+              g
+        ≈
+        2.0064
+          s
+    {\displaystyle 2\pi {\sqrt {\frac {1\ \mathrm {m} }{g}}}\approx 2.0064\ \mathrm {s} }
+  . The difference between the two values, less than 0.2%, is much less than that caused by the variation of g with geographical location.
+From here there are many ways to proceed to calculate the elliptic integral:
+Given Eq. 3 and the Legendre polynomial solution for the elliptic integral:
+        K
+        (
+        k
+        )
+        =
+            π
+            2
+          {
+          1
+          +
+              (
+                  1
+                  2
+              )
+              2
+            k
+              2
+          +
+              (
+                    1
+                    ⋅
+                    3
+                    2
+                    ⋅
+                    4
+              )
+              2
+            k
+              4
+          +
+          ⋯
+          +
+              [
+                      (
+                      2
+                      n
+                      −
+                      1
+                      )
+                    !
+                    !
+                      (
+                      2
+                      n
+                      )
+                    !
+                    !
+              ]
+              2
+            k
+              2
+              n
+          +
+          ⋯
+          }
+        ,
+    {\displaystyle K(k)={\frac {\pi }{2}}\left\{1+\left({\frac {1}{2}}\right)^{2}k^{2}+\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}k^{4}+\cdots +\left[{\frac {\left(2n-1\right)!!}{\left(2n\right)!!}}\right]^{2}k^{2n}+\cdots \right\},}
+where n!! denotes the double factorial, an exact solution to the period of a pendulum is:
+                T
+                =
+                2
+                π
+                      ℓ
+                      g
+                  (
+                  1
+                  +
+                      (
+                          1
+                          2
+                      )
+                      2
+                    sin
+                      2
+                  ⁡
+                    (
+                          θ
+                            0
+                        2
+                    )
+                  +
+                      (
+                            1
+                            ⋅
+                            3
+                            2
+                            ⋅
+                            4
+                      )
+                      2
+                    sin
+                      4
+                  ⁡
+                    (
+                          θ
+                            0
+                        2
+                    )
+                  +
+                      (
+                            1
+                            ⋅
+                            3
+                            ⋅
+                            5
+                            2
+                            ⋅
+                            4
+                            ⋅
+                            6
+                      )
+                      2
+                    sin
+                      6
+                  ⁡
+                    (
+                          θ
+                            0
+                        2
+                    )
+                  +
+                  ⋯
+                  )
+                =
+                2
+                π
+                      ℓ
+                      g
+                ⋅
+                  ∑
+                    n
+                    =
+                    0
+                    ∞
+                  [
+                      (
+                            (
+                            2
+                            n
+                            )
+                            !
+                            (
+                              2
+                                n
+                            ⋅
+                            n
+                            !
+                              )
+                                2
+                      )
+                      2
+                  ⋅
+                    sin
+                      2
+                      n
+                  ⁡
+                    (
+                          θ
+                            0
+                        2
+                    )
+                  ]
+                .
+    {\displaystyle {\begin{alignedat}{2}T&=2\pi {\sqrt {\ell  \over g}}\left(1+\left({\frac {1}{2}}\right)^{2}\sin ^{2}\left({\frac {\theta _{0}}{2}}\right)+\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}\sin ^{4}\left({\frac {\theta _{0}}{2}}\right)+\left({\frac {1\cdot 3\cdot 5}{2\cdot 4\cdot 6}}\right)^{2}\sin ^{6}\left({\frac {\theta _{0}}{2}}\right)+\cdots \right)\\&=2\pi {\sqrt {\ell  \over g}}\cdot \sum _{n=0}^{\infty }\left[\left({\frac {(2n)!}{(2^{n}\cdot n!)^{2}}}\right)^{2}\cdot \sin ^{2n}\left({\frac {\theta _{0}}{2}}\right)\right].\end{alignedat}}}
+Figure 4 shows the relative errors using the power series. T0 is the linear approximation, and T2 to T10 include respectively the terms up to the 2nd to the 10th powers.
+Another formulation of the above solution can be found if the following Maclaurin series:
+        sin
+        ⁡
+              θ
+                0
+            2
+        =
+            1
+            2
+          θ
+            0
+        −
+            1
+            48
+          θ
+            0
+            3
+        +
+            1
+            3840
+          θ
+            0
+            5
+        −
+            1
+            645120
+          θ
+            0
+            7
+        +
+        ⋯
+        .
+    {\displaystyle \sin {\theta _{0} \over 2}={\frac {1}{2}}\theta _{0}-{\frac {1}{48}}\theta _{0}^{3}+{\frac {1}{3840}}\theta _{0}^{5}-{\frac {1}{645120}}\theta _{0}^{7}+\cdots .}
+is used in the Legendre polynomial solution above. The resulting power series is:
+                T
+                =
+                2
+                π
+                      ℓ
+                      g
+                  (
+                  1
+                  +
+                      1
+                      16
+                    θ
+                      0
+                      2
+                  +
+                      11
+                      3072
+                    θ
+                      0
+                      4
+                  +
+                      173
+                      737280
+                    θ
+                      0
+                      6
+                  +
+                      22931
+                      1321205760
+                    θ
+                      0
+                      8
+                  +
+                      1319183
+                      951268147200
+                    θ
+                      0
+                      10
+                  +
+                      233526463
+                      2009078326886400
+                    θ
+                      0
+                      12
+                  +
+                  .
+                  .
+                  .
+                  )
+        .
+    {\displaystyle {\begin{alignedat}{2}T&=2\pi {\sqrt {\ell  \over g}}\left(1+{\frac {1}{16}}\theta _{0}^{2}+{\frac {11}{3072}}\theta _{0}^{4}+{\frac {173}{737280}}\theta _{0}^{6}+{\frac {22931}{1321205760}}\theta _{0}^{8}+{\frac {1319183}{951268147200}}\theta _{0}^{10}+{\frac {233526463}{2009078326886400}}\theta _{0}^{12}+...\right)\end{alignedat}}.}
+Given Eq. 3 and the arithmetic–geometric mean solution of the elliptic integral:
+        K
+        (
+        k
+        )
+        =
+              π
+                /
+              2
+              M
+              (
+              1
+              −
+              k
+              ,
+              1
+              +
+              k
+              )
+        ,
+    {\displaystyle K(k)={\frac {\pi /2}{M(1-k,1+k)}},}
+where M(x,y) is the arithmetic-geometric mean of x and y.
+This yields an alternative and faster-converging formula for the period:
+        T
+        =
+              2
+              π
+              M
+              (
+              1
+              ,
+              cos
+              ⁡
+              (
+                θ
+                  0
+                /
+              2
+              )
+              )
+              ℓ
+              g
+        .
+    {\displaystyle T={\frac {2\pi }{M(1,\cos(\theta _{0}/2))}}{\sqrt {\frac {\ell }{g}}}.}
+The animations below depict several different modes of oscillation given different initial conditions. The small graph above the pendulums are their phase portraits.
+A compound pendulum (or physical pendulum) is one where the rod is not massless, and may have extended size; that is, an arbitrarily shaped rigid body swinging by a pivot. In this case the pendulum's period depends on its moment of inertia I around the pivot point.
+The equation of torque gives:
+        τ
+        =
+        I
+        α
+    {\displaystyle \tau =I\alpha \,}
+where:
+α is the angular acceleration.
+τ is the torque
+The torque is generated by gravity so:
+        τ
+        =
+        −
+        m
+        g
+        L
+        sin
+        ⁡
+        θ
+    {\displaystyle \tau =-mgL\sin \theta \,}
+where:
+m is the mass of the body
+L is the distance from the pivot to the center of mass of the pendulum
+θ is the angle from the vertical
+Hence, under the small-angle approximation 
+          sin
+          ⁡
+          θ
+          ≈
+          θ
+    {\displaystyle \scriptstyle \sin \theta \approx \theta \,}
+  ,
+        α
+        =
+          θ
+            ′
+            ′
+        ≈
+        −
+              m
+              g
+              L
+              θ
+                I
+                  c
+                  m
+              +
+              m
+                L
+                  2
+    {\displaystyle \alpha =\theta ^{\,\prime \prime }\approx -{\frac {mgL\theta }{I_{cm}+mL^{2}}}}
+where Icm is the moment of inertia of the body about its center of mass.
+The expression for α is of the same form as the conventional simple pendulum and gives a period of:
+        T
+        =
+        2
+        π
+                  I
+                    c
+                    m
+                +
+                m
+                  L
+                    2
+                m
+                g
+                L
+    {\displaystyle T=2\pi {\sqrt {\frac {I_{cm}+mL^{2}}{mgL}}}}
+And a frequency of:
+        f
+        =
+            1
+            T
+        =
+            1
+              2
+              π
+                m
+                g
+                L
+                  I
+                    c
+                    m
+                +
+                m
+                  L
+                    2
+    {\displaystyle f={\frac {1}{T}}={\frac {1}{2\pi }}{\sqrt {\frac {mgL}{I_{cm}+mL^{2}}}}}
+If the initial angle is taken into consideration (for large amplitudes), then the expression for 
+        α
+    {\displaystyle \alpha }
+   becomes:
+        α
+        =
+          θ
+            ′
+            ′
+        =
+        −
+              m
+              g
+              L
+              sin
+              ⁡
+              θ
+                I
+                  c
+                  m
+              +
+              m
+                L
+                  2
+    {\displaystyle \alpha =\theta ^{\,\prime \prime }=-{\frac {mgL\sin \theta }{I_{cm}+mL^{2}}}}
+and gives a period of:
+        T
+        =
+        4
+        K
+          (
+            sin
+              2
+          ⁡
+            (
+                  θ
+                    0
+                2
+            )
+          )
+                  I
+                    c
+                    m
+                +
+                m
+                  L
+                    2
+                m
+                g
+                L
+    {\displaystyle T=4K\left(\sin ^{2}\left({\frac {\theta _{0}}{2}}\right)\right){\sqrt {\frac {I_{cm}+mL^{2}}{mgL}}}}
+where θ0 is the maximum angle of oscillation (with respect to the vertical) and K(k) is the complete elliptic integral of the first kind.
+The Jacobian elliptic function that expresses the position of a pendulum as a function of time is a doubly periodic function with a real period and an imaginary period. The real period is of course the time it takes the pendulum to go through one full cycle. Paul Appell pointed out a physical interpretation of the imaginary period: if θ0 is the maximum angle of one pendulum and 180° − θ0 is the maximum angle of another, then the real period of each is the magnitude of the imaginary period of the other. This interpretation, involving dual forces in opposite directions, might be further clarified and generalized to other classical problems in mechanics with dual solutions.
+Abrarov's critical solution corresponds to the upper unstable equilibrium of the pendulum. It separates solutions with oscillatory mode of motion from solutions, where the motion is revolutional. Explicit formulas are given in the Proceedings of the Sixteenth International Conference on Geometry, Integrability and Quantization. Remarkably, the modulus of the imaginary period of Abrarov's solution coincides with the period for small angles pendulum.
+Blackburn pendulum
+Conical pendulum
+Double pendulum
+Inverted pendulum
+Kapitza's pendulum
+Spring pendulum
+Mathieu function
+Pendulum equations (software)

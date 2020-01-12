@@ -1,0 +1,21 @@
+A protractor is a measuring instrument, typically made of transparent plastic or glass, for measuring angles. Most protractors measure angles in degrees (°). Radian-scale protractors measure angles in radians. Most protractors are divided into 180 equal parts.
+They are used for a variety of mechanical and engineering-related applications, but perhaps the most common use is in geometry lessons in schools.
+Some protractors are simple half-discs. More advanced protractors, such as the bevel protractor, have one or two swinging arms, which can be used to help measure the angle.
+Protractors have traditionally been one-sided. This is thought to be because early manufacturing methods set the tone of future production. Unfortunately, the two number scales on a one-sided protractor often confuse learners when first learning to measure and draw angles.
+However, in 2009, Jake Adamson, a maths teacher working at Musselburgh Grammar School invented and patented the first two sided protractor trademarked "The Angler". This was a double sided protractor with one scale on each side, avoiding the confusion of having two scales together and enabling easier measuring and drawing of angles. "The Angler" protractor has been widely adopted by schools in the UK.
+A bevel protractor is a graduated circular protractor with one pivoted arm used for measuring or marking off angles. Sometimes Vernier scales are attached to give more precise readings. It has wide application in architectural and mechanical drawing, although its use is decreasing with the availability of modern drawing software or CAD.
+Universal bevel protractors are also used by toolmakers, as they measure angles by mechanical contact they are classed as mechanical protractors.
+The bevel protractor is used to establish and test angles to very close tolerances. It reads to 5 minutes or 1/12° and can measure any angle from 0° to 360°.
+The bevel protractor consists of a beam, a graduated dial and a blade which is connected to a swivel plate (with Vernier scale) by thumb nut and clamp. When the edges of the beam and blade are parallel, a small mark on the swivel plate coincides with the zero line on the graduated dial. To measure an angle between the beam and the blade of 90° or less, the reading may be obtained direct from the graduation number on the dial indicated by the mark on the swivel plate. To measure an angle of over 90°, subtract the number of degrees as indicated on the dial from 180°, as the dial is graduated from opposite zero marks to 90° each way.
+Since the spaces, both on the main scale and the Vernier scale, are numbered both to the right and to the left from zero, any angle can be measured. The readings can be taken either to the right or to the left, according to the direction in which the zero on the main scale is moved.
+The above picture illustrates a variety of uses of the bevel protractor.
+Reading the Vernier scale:
+The bevel protractor Vernier scale may have graduations of 5′ (minutes) or 1/12°. Each space on the Vernier scale is 5′ less than two spaces on the main scale. Twenty four spaces on the Vernier scale equal in extreme length twenty three double degrees. Thus the difference between the space occupied by 2° on a main scale and the space of the Vernier scale is equal to one twenty-fourth of 2°, or 5′.
+Read off directly from the main scale the number of whole degrees between 0 on this scale and the 0 of the Vernier scale. Then count, in the same direction, the number of spaces from the zero on the Vernier scale to a line that coincides with a line on the main scale; multiply this number by 5 and the product will be the number of minutes to be added to the whole number of degrees.
+For example: Zero on the vernier scale has moved 28 whole degrees to the right of the 0 on the main scale and the 3rd line on the vernier scale coincides with a line upon the main scale as indicated. Multiplying 3 by 5, the product, 15, is the number of minutes to be added to the whole number of degrees, thus indicating a setting of 28 degrees and 15 minutes.
+Compass (drawing tool) for drawing circles or arcs
+French curve
+Goniometer
+Inclinometer
+Birkhoff's axioms
+Technical drawing tools

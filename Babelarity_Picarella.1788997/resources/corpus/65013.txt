@@ -1,0 +1,716 @@
+In heat transfer at a boundary (surface) within a fluid, the Nusselt number (Nu) is the ratio of convective to conductive heat transfer across (normal to) the boundary. In this context, convection includes both advection and diffusion. Named after Wilhelm Nusselt, it is a dimensionless number. The conductive component is measured under the same conditions as the heat convection but with a (hypothetically) stagnant (or motionless) fluid. A similar non-dimensional parameter is Biot Number, with the difference that the thermal conductivity is of the solid body and not the fluid.
+A Nusselt number close to one, namely convection and conduction of similar magnitude, is characteristic of "slug flow" or laminar flow. A larger Nusselt number corresponds to more active convection, with turbulent flow typically in the 100–1000 range.
+The convection and conduction heat flows are parallel to each other and to the surface normal of the boundary surface, and are all perpendicular to the mean fluid flow in the simple case.
+            N
+            u
+            L
+        =
+            Total heat transfer 
+            Conductive heat transfer 
+        =
+              h
+              L
+            k
+    {\displaystyle \mathrm {Nu} _{L}={\frac {\mbox{Total heat transfer }}{\mbox{Conductive heat transfer }}}={\frac {hL}{k}}}
+where h is the convective heat transfer coefficient of the flow, L is the characteristic length, k is the thermal conductivity of the fluid.
+Selection of the characteristic length should be in the direction of growth (or thickness) of the boundary layer; some examples of characteristic length are: the outer diameter of a cylinder in (external) cross flow (perpendicular to the cylinder axis), the length of a vertical plate undergoing natural convection, or the diameter of a sphere. For complex shapes, the length may be defined as the volume of the fluid body divided by the surface area.
+The thermal conductivity of the fluid is typically (but not always) evaluated at the film temperature, which for engineering purposes may be calculated as the mean-average of the bulk fluid temperature and wall surface temperature.
+In contrast to the definition given above, known as average Nusselt number, local Nusselt number is defined by taking the length to be the distance from the surface boundary to the local point of interest.
+            N
+            u
+            x
+        =
+                h
+                  x
+              x
+            k
+    {\displaystyle \mathrm {Nu} _{x}={\frac {h_{x}x}{k}}}
+The mean, or average, number is obtained by integrating the expression over the range of interest, such as:
+              N
+              u
+            ¯
+        =
+            1
+            H
+          ∫
+            0
+            H
+            N
+            u
+          (
+          y
+          )
+          ⋅
+          d
+          y
+    {\displaystyle {\overline {\mathrm {Nu} }}={\frac {1}{H}}\int _{0}^{H}{\mathrm {Nu} (y)\cdot dy}}
+The mass transfer analog of the Nusselt number is the Sherwood number.
+An understanding of convection boundary layers is necessary to understanding convective heat transfer between a surface and a fluid flowing past it. A thermal boundary layer develops if the fluid free stream temperature and the surface temperatures differ. A temperature profile exists due to the energy exchange resulting from this temperature difference.
+The heat transfer rate can then be written as,
+              Q
+              y
+        =
+        h
+        A
+          (
+                T
+                s
+          −
+                T
+                ∞
+          )
+    {\displaystyle {{Q}_{y}}=hA\left({{T}_{s}}-{{T}_{\infty }}\right)}
+And because heat transfer at the surface is by conduction,
+              Q
+              y
+        =
+        −
+        k
+        A
+            ∂
+              ∂
+              y
+                (
+                T
+                −
+                      T
+                      s
+                )
+                |
+              y
+              =
+              0
+    {\displaystyle {{Q}_{y}}=-kA{\frac {\partial }{\partial y}}{{\left.\left(T-{{T}_{s}}\right)\right|}_{y=0}}}
+These two terms are equal; thus
+        −
+        k
+        A
+            ∂
+              ∂
+              y
+                (
+                T
+                −
+                      T
+                      s
+                )
+                |
+              y
+              =
+              0
+        =
+        h
+        A
+          (
+                T
+                s
+          −
+                T
+                ∞
+          )
+    {\displaystyle -kA{\frac {\partial }{\partial y}}{{\left.\left(T-{{T}_{s}}\right)\right|}_{y=0}}=hA\left({{T}_{s}}-{{T}_{\infty }}\right)}
+Rearranging,
+            h
+            k
+        =
+                        ∂
+                          (
+                                T
+                                s
+                          −
+                          T
+                          )
+                        ∂
+                        y
+                  |
+                y
+                =
+                0
+              (
+                    T
+                    s
+              −
+                    T
+                    ∞
+              )
+    {\displaystyle {\frac {h}{k}}={\frac {{\left.{\frac {\partial \left({{T}_{s}}-T\right)}{\partial y}}\right|}_{y=0}}{\left({{T}_{s}}-{{T}_{\infty }}\right)}}}
+Making it dimensionless by multiplying by representative length L,
+              h
+              L
+            k
+        =
+                        ∂
+                          (
+                                T
+                                s
+                          −
+                          T
+                          )
+                        ∂
+                        y
+                  |
+                y
+                =
+                0
+                (
+                      T
+                      s
+                −
+                      T
+                      ∞
+                )
+              L
+    {\displaystyle {\frac {hL}{k}}={\frac {{\left.{\frac {\partial \left({{T}_{s}}-T\right)}{\partial y}}\right|}_{y=0}}{\frac {\left({{T}_{s}}-{{T}_{\infty }}\right)}{L}}}}
+The right hand side is now the ratio of the temperature gradient at the surface to the reference temperature gradient. While the left hand side is similar to the Biot modulus. This becomes the ratio of conductive thermal resistance to the convective thermal resistance of the fluid, otherwise known as the Nusselt number, Nu.
+          N
+          u
+        =
+              h
+              L
+            k
+    {\displaystyle \mathrm {Nu} ={\frac {hL}{k}}}
+The Nusselt number may be obtained by a non dimensional analysis of Fourier's law since it is equal to the dimensionless temperature gradient at the surface:
+        q
+        =
+        −
+        k
+        A
+        ∇
+        T
+    {\displaystyle q=-kA\nabla T}
+  , where q is the heat transfer rate, k is the constant thermal conductivity and T the fluid temperature.
+Indeed, if: 
+          ∇
+          ′
+        =
+        −
+        L
+        ∇
+    {\displaystyle \nabla '=-L\nabla }
+  , and 
+          T
+          ′
+        =
+                T
+                  h
+              −
+                T
+                  0
+                T
+                  h
+              −
+                T
+                  c
+    {\displaystyle T'={\frac {T_{h}-T_{0}}{T_{h}-T_{c}}}}
+we arrive at
+        −
+          ∇
+          ′
+          T
+          ′
+        =
+        −
+            L
+              k
+              A
+              (
+                T
+                  h
+              −
+                T
+                  c
+              )
+        q
+        =
+              h
+              L
+            k
+    {\displaystyle -\nabla 'T'=-{\frac {L}{kA(T_{h}-T_{c})}}q={\frac {hL}{k}}}
+then we define
+            N
+            u
+            L
+        =
+              h
+              L
+            k
+    {\displaystyle \mathrm {Nu} _{L}={\frac {hL}{k}}}
+so the equation becomes
+            N
+            u
+            L
+        =
+        −
+          ∇
+          ′
+          T
+          ′
+    {\displaystyle \mathrm {Nu} _{L}=-\nabla 'T'}
+By integrating over the surface of the body:
+              N
+              u
+            ¯
+        =
+        −
+              1
+                S
+                ′
+          ∫
+              S
+              ′
+          N
+          u
+          d
+          S
+          ′
+    {\displaystyle {\overline {\mathrm {Nu} }}=-{{1} \over {S'}}\int _{S'}^{}\mathrm {Nu} \,\mathrm {d} S'\!}
+  ,
+where 
+          S
+          ′
+        =
+            S
+              L
+                2
+    {\displaystyle S'={\frac {S}{L^{2}}}}
+Typically, for free convection, the average Nusselt number is expressed as a function of the Rayleigh number and the Prandtl number, written as:
+          N
+          u
+        =
+        f
+        (
+        R
+        a
+        ,
+        P
+        r
+        )
+    {\displaystyle \mathrm {Nu} =f(Ra,Pr)}
+Otherwise, for forced convection, the Nusselt number is generally a function of the Reynolds number and the Prandtl number, or
+          N
+          u
+        =
+        f
+        (
+        R
+        e
+        ,
+        P
+        r
+        )
+    {\displaystyle \mathrm {Nu} =f(Re,Pr)}
+Empirical correlations for a wide variety of geometries are available that express the Nusselt number in the aforementioned forms.
+Cited as coming from Churchill and Chu:
+                N
+                u
+              ¯
+            L
+        =
+        0.68
+        +
+              0.67
+                  R
+                  a
+                  L
+                  1
+                    /
+                  4
+                  [
+                  1
+                  +
+                  (
+                  0.492
+                    /
+                    P
+                    r
+                    )
+                      9
+                        /
+                      16
+                  ]
+                  4
+                    /
+                  9
+            R
+            a
+            L
+        ≤
+          10
+            9
+    {\displaystyle {\overline {\mathrm {Nu} }}_{L}\ =0.68+{\frac {0.67\,\mathrm {Ra} _{L}^{1/4}}{\left[1+(0.492/\mathrm {Pr} )^{9/16}\,\right]^{4/9}\,}}\quad \mathrm {Ra} _{L}\leq 10^{9}}
+If the characteristic length is defined
+        L
+        =
+              A
+                s
+            P
+    {\displaystyle L\ ={\frac {A_{s}}{P}}}
+where 
+            A
+            s
+    {\displaystyle \mathrm {A} _{s}}
+   is the surface area of the plate and 
+        P
+    {\displaystyle P}
+   is its perimeter.
+Then for the top surface of a hot object in a colder environment or bottom surface of a cold object in a hotter environment
+                N
+                u
+              ¯
+            L
+        =
+        0.54
+            R
+            a
+            L
+            1
+              /
+            4
+          10
+            4
+        ≤
+            R
+            a
+            L
+        ≤
+          10
+            7
+    {\displaystyle {\overline {\mathrm {Nu} }}_{L}\ =0.54\,\mathrm {Ra} _{L}^{1/4}\,\quad 10^{4}\leq \mathrm {Ra} _{L}\leq 10^{7}}
+                N
+                u
+              ¯
+            L
+        =
+        0.15
+            R
+            a
+            L
+            1
+              /
+            3
+          10
+            7
+        ≤
+            R
+            a
+            L
+        ≤
+          10
+            11
+    {\displaystyle {\overline {\mathrm {Nu} }}_{L}\ =0.15\,\mathrm {Ra} _{L}^{1/3}\,\quad 10^{7}\leq \mathrm {Ra} _{L}\leq 10^{11}}
+And for the bottom surface of a hot object in a colder environment or top surface of a cold object in a hotter environment
+                N
+                u
+              ¯
+            L
+        =
+        0.27
+            R
+            a
+            L
+            1
+              /
+            4
+          10
+            5
+        ≤
+            R
+            a
+            L
+        ≤
+          10
+            10
+    {\displaystyle {\overline {\mathrm {Nu} }}_{L}\ =0.27\,\mathrm {Ra} _{L}^{1/4}\,\quad 10^{5}\leq \mathrm {Ra} _{L}\leq 10^{10}}
+Forced convection on flat plate
+The local Nusselt number for laminar flow over a flat plate is given by
+            N
+            u
+            x
+        =
+        0.332
+            R
+            e
+            x
+            1
+              /
+            2
+            P
+            r
+            1
+              /
+            3
+        ,
+        (
+          P
+          r
+        >
+        0.6
+        )
+    {\displaystyle \mathrm {Nu} _{x}\ =0.332\,\mathrm {Re} _{x}^{1/2}\,\mathrm {Pr} ^{1/3},(\mathrm {Pr} >0.6)}
+The average Nusselt number for laminar flow over a flat plate is given by
+                    N
+                    u
+                  ¯
+              x
+        =
+        2
+        ∗
+        0.332
+            R
+            e
+            x
+            1
+              /
+            2
+            P
+            r
+            1
+              /
+            3
+        ,
+        (
+          P
+          r
+        >
+        0.6
+        )
+    {\displaystyle \mathrm {{\bar {Nu}}_{x}} \ =2*0.332\,\mathrm {Re} _{x}^{1/2}\,\mathrm {Pr} ^{1/3},(\mathrm {Pr} >0.6)}
+Gnielinski's correlation for turbulent flow in tubes:
+            N
+            u
+            D
+        =
+                (
+                f
+                  /
+                8
+                )
+                (
+                    R
+                    e
+                    D
+                −
+                1000
+                )
+                P
+                r
+              1
+              +
+              12.7
+              (
+              f
+                /
+              8
+                )
+                  1
+                    /
+                  2
+                (
+                    P
+                    r
+                    2
+                      /
+                    3
+                −
+                1
+                )
+    {\displaystyle \mathrm {Nu} _{D}={\frac {\left(f/8\right)\left(\mathrm {Re} _{D}-1000\right)\mathrm {Pr} }{1+12.7(f/8)^{1/2}\left(\mathrm {Pr} ^{2/3}-1\right)}}}
+where f is the Darcy friction factor that can either be obtained from the Moody chart or for smooth tubes from correlation developed by Petukhov:
+        f
+        =
+            (
+            0.79
+            ln
+            ⁡
+              (
+                  R
+                  e
+                  D
+              )
+            −
+            1.64
+            )
+            −
+            2
+    {\displaystyle f=\left(0.79\ln \left(\mathrm {Re} _{D}\right)-1.64\right)^{-2}}
+The Gnielinski Correlation is valid for:
+        0.5
+        ≤
+          P
+          r
+        ≤
+        2000
+    {\displaystyle 0.5\leq \mathrm {Pr} \leq 2000}
+        3000
+        ≤
+            R
+            e
+            D
+        ≤
+        5
+        ×
+          10
+            6
+    {\displaystyle 3000\leq \mathrm {Re} _{D}\leq 5\times 10^{6}}
+The Dittus-Boelter equation (for turbulent flow) is an explicit function for calculating the Nusselt number. It is easy to solve but is less accurate when there is a large temperature difference across the fluid. It is tailored to smooth tubes, so use for rough tubes (most commercial applications) is cautioned. The Dittus-Boelter equation is:
+            N
+            u
+            D
+        =
+        0.023
+            R
+            e
+            D
+            4
+              /
+            5
+            P
+            r
+            n
+    {\displaystyle \mathrm {Nu} _{D}=0.023\,\mathrm {Re} _{D}^{4/5}\,\mathrm {Pr} ^{n}}
+where:
+        D
+    {\displaystyle D}
+   is the inside diameter of the circular duct
+          P
+          r
+    {\displaystyle \mathrm {Pr} }
+   is the Prandtl number
+        n
+        =
+        0.4
+    {\displaystyle n=0.4}
+   for heating of the fluid, and 
+        n
+        =
+        0.3
+    {\displaystyle n=0.3}
+   for cooling of the fluid.
+The Dittus-Boelter equation is valid for 
+        0.6
+        ≤
+          P
+          r
+        ≤
+        160
+    {\displaystyle 0.6\leq \mathrm {Pr} \leq 160}
+            R
+            e
+            D
+        ≳
+        10
+        000
+    {\displaystyle \mathrm {Re} _{D}\gtrsim 10\,000}
+            L
+            D
+        ≳
+        10
+    {\displaystyle {\frac {L}{D}}\gtrsim 10}
+Example The Dittus-Boelter equation is a good approximation where temperature differences between bulk fluid and heat transfer surface are minimal, avoiding equation complexity and iterative solving. Taking water with a bulk fluid average temperature of 20 °C, viscosity 10.07×10−4 Pa·s and a heat transfer surface temperature of 40 °C (viscosity 6.96×10−4, a viscosity correction factor for 
+        (
+          μ
+          /
+            μ
+              s
+        )
+    {\displaystyle ({\mu }/{\mu _{s}})}
+   can be obtained as 1.45. This increases to 3.57 with a heat transfer surface temperature of 100 °C (viscosity 2.82×10−4 Pa·s), making a significant difference to the Nusselt number and the heat transfer coefficient.
+The Sieder-Tate correlation for turbulent flow is an implicit function, as it analyzes the system as a nonlinear boundary value problem. The Sieder-Tate result can be more accurate as it takes into account the change in viscosity (
+        μ
+    {\displaystyle \mu }
+   and 
+          μ
+            s
+    {\displaystyle \mu _{s}}
+  ) due to temperature change between the bulk fluid average temperature and the heat transfer surface temperature, respectively. The Sieder-Tate correlation is normally solved by an iterative process, as the viscosity factor will change as the Nusselt number changes.
+            N
+            u
+            D
+        =
+        0.027
+            R
+            e
+            D
+            4
+              /
+            5
+            P
+            r
+            1
+              /
+            3
+            (
+                μ
+                  μ
+                    s
+            )
+            0.14
+    {\displaystyle \mathrm {Nu} _{D}=0.027\,\mathrm {Re} _{D}^{4/5}\,\mathrm {Pr} ^{1/3}\left({\frac {\mu }{\mu _{s}}}\right)^{0.14}}
+where:
+        μ
+    {\displaystyle \mu }
+   is the fluid viscosity at the bulk fluid temperature
+          μ
+            s
+    {\displaystyle \mu _{s}}
+   is the fluid viscosity at the heat-transfer boundary surface temperature
+The Sieder-Tate correlation is valid for
+        0.7
+        ≤
+          P
+          r
+        ≤
+        16
+        700
+    {\displaystyle 0.7\leq \mathrm {Pr} \leq 16\,700}
+            R
+            e
+            D
+        ≳
+        10
+        000
+    {\displaystyle \mathrm {Re} _{D}\gtrsim 10\,000}
+            L
+            D
+        ≳
+        10
+    {\displaystyle {\frac {L}{D}}\gtrsim 10}
+For fully developed internal laminar flow, the Nusselt numbers are constant-valued. The values depend on the hydraulic diameter.
+For internal Flow:
+          N
+          u
+        =
+              h
+                D
+                  h
+              k
+                f
+    {\displaystyle \mathrm {Nu} ={\frac {hD_{h}}{k_{f}}}}
+where:
+Dh = Hydraulic diameter
+kf = thermal conductivity of the fluid
+h = convective heat transfer coefficient
+From Incropera & DeWitt,
+            N
+            u
+            D
+        =
+            48
+            11
+        ≃
+        4.36
+    {\displaystyle \mathrm {Nu} _{D}={\frac {48}{11}}\simeq 4.36}
+For the case of constant surface temperature,
+            N
+            u
+            D
+        =
+        3.66
+    {\displaystyle \mathrm {Nu} _{D}=3.66}
+Sherwood number (mass transfer Nusselt number)
+Churchill–Bernstein equation
+Biot Number
+Reynolds number
+Convective heat transfer
+Heat transfer coefficient
+Thermal conductivity

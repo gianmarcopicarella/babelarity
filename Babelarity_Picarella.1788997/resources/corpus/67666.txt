@@ -1,0 +1,12 @@
+Albert Betz (25 December 1885, in Schweinfurt – 16 April 1968, in Göttingen), was a German physicist and a pioneer of wind turbine technology.
+In 1910 he graduated as a naval engineer from Technische Hochschule Berlin (Diplomingenieur Schiffbau). In 1911 Betz became a researcher at the University of Göttingen aerodynamics laboratory, where he was awarded his PhD in 1919 for his work on 'ship propellers with minimum loss of energy'. In his 1920 paper "Das Maximum der theoretisch möglichen Ausnutzung des Windes durch Windmotoren" ("Theoretical Limit for Best Utilization of Wind by Wind Motors") was published. His work was based on earlier studies by Frederick Lanchester that included the first full description of lift and drag. The formulation was somewhat complex and had to wait for Ludwig Prandtl's version before becoming generally useful. Betz' law states that, independent of the design of a wind turbine, only 16/27 (or 59%) of the kinetic energy of the wind can be converted to mechanical energy. His book "Wind-Energie und ihre Ausnutzung durch Windmühlen" ("Wind Energy and its Use by Windmills"), published in 1926, gives a good account of the understanding of wind energy and wind turbines at that period.
+In 1926 he was appointed professor at Göttingen. In 1936 he succeeded Ludwig Prandtl as director of the Aerodynamische Versuchsanstalt (AVA, aerodynamics laboratory), a position he held until 1956.
+During World War II he developed the Messerschmidt swept wing, as well as other war devices for the Luftwaffe (the Nazi air force). There are also sources tying him to the development of wind turbines, in a plan to establish a German rural population in the east, replacing the Slavic population. In early 1945 he participated in the attempt to evacuate the Z4 (computer) to the AVA under his supervision.
+From 1947 to 1956 he also headed research into hydrodynamics at the Max Planck Institute.
+He was the great uncle of the Author Alfred J. Betz from Philadelphia, and great nephew of Vladimir Alekseyevich Betz the discoverer of the pyramidal cell.
+Betz received the Ludwig-Prandtl-Ring from the Deutsche Gesellschaft für Luft- und Raumfahrt (German Society for Aeronautics and Astronautics) for "outstanding contribution in the field of aerospace engineering" in 1958.
+Betz was awarded the Carl Friedrich Gauss medal of the West German Academy of Science in 1965.
+A street is named after him in Munich and in Hamburg. His original house in Göttingen is noted as a town monument.
+Betz' law
+Wind tunnel
+Propeller

@@ -1,0 +1,15 @@
+Eth (/ɛð/, uppercase: Ð, lowercase: ð; also spelled edh or eð) is a letter used in Old English, Middle English, Icelandic, Faroese (in which it is called edd), and Elfdalian. It was also used in Scandinavia during the Middle Ages but was subsequently replaced with dh and later d. It is often transliterated as d (and d- is rarely used as a mnemonic). The lowercase version has been adopted to represent a voiced dental fricative in the International Phonetic Alphabet.
+The letter originated in Irish writing as a d with a cross-stroke added. The lowercase version has retained the curved shape of a medieval scribe's d, which d itself in general has not.
+In Old English, ð (referred to as ðæt by the Anglo-Saxons) was used interchangeably with þ (thorn) to represent the Old English dental fricative /θ/, which could manifest as either voiceless (and thus like the th in Modern English think) or voiced (and thus like the th of Modern English that) depending on where it appeared in a word or utterance. The letter ð was used throughout the Anglo-Saxon era but gradually fell out of use in Middle English, practically disappearing altogether by 1300; þ survived longer, ultimately being replaced by the digraph th.
+In Icelandic, ð represents a (usually apical) voiced alveolar non-sibilant fricative [ð̠], similar to the th in English that, but it never appears as the first letter of a word, where þ is used in its stead. The name of the letter is pronounced in isolation (and before words beginning with a voiceless consonant) as [ɛθ̠] and therefore with a voiceless rather than voiced fricative.
+In Faroese, ð is not assigned to any particular phoneme and appears mostly for etymological reasons; however, it does show where most of the Faroese glides are; when ð appears before r, it is, in a few words, pronounced [ɡ]. In the Icelandic and Faroese alphabets, ð follows d.
+In Olav Jakobsen Høyem's version of Nynorsk based on Trøndersk, ð was always silent and was introduced for etymological reasons.
+Ð is also used by some in written Welsh to represent /ð/, which is normally represented as dd.
+The letter ð is sometimes used in mathematics and engineering textbooks as a symbol for a spin-weighted partial derivative. This operator gives rise to spin-weighted spherical harmonics.
+A capital eth is used as the currency symbol for Dogecoin.
+Thorn
+D with stroke
+African D
+Insular script
+Ladefoged, Peter; Maddieson, Ian (1996). The Sounds of the World's Languages. Oxford: Blackwell. ISBN 0-631-19814-8. 
+Pétursson, Magnus (1971), "Étude de la réalisation des consonnes islandaises þ, ð, s, dans la prononciation d'un sujet islandais à partir de la radiocinématographie", Phonetica 33: 203–216, doi:10.1159/000259344 

@@ -1,0 +1,42 @@
+Aperture was a photo editing and management computer program developed by Apple Inc. for the OS X operating system, first released in 2005, and now discontinued from the Mac App Store. The software handles a number of tasks common in post-production work such as importing and organizing image files, applying corrective adjustments, displaying slideshows, and printing photographs.
+Features of Aperture include non-destructive editing, organization of photographs by keyword, faces (using face detection and recognition), and places (using GPS metadata embedded in image files), brushes for applying effects (such as dodge and burn, skin smoothing, and polarization), and exporting to several popular websites, including Flickr, Facebook, SmugMug, and Apple's iCloud. The program has been widely reviewed by independent parties.
+On June 2, 2014, Apple announced Photos as a replacement for Aperture and iPhoto. Aperture 3.6, a final update adding compatibility with OS X Yosemite, was released on October 16, 2014. Aperture was discontinued and removed from sale on April 8, 2015.
+Complete raw image format support from import to export (for supported cameras).
+Supports tethered shooting from Nikon and Canon DSLRs.
+Master image files (raw or otherwise) may be kept in place on import or migrated into the Aperture library.
+Raw Fine Tuning, allowing versions of raw decode to be managed over time and conversion parameters adjusted.
+Many image adjustment tools including specific color retouching, a luminance based edge sharpener, and spot repair.
+Lens correction tools, such as chromatic aberration.
+Project management, with extensive metadata and searching support.
+Autostacking, a way to group photos based on the time between shutter clicks.
+Stacks (for grouping photos) and Versions (for making multiple working copies of the same image).
+Multiple display spanning.
+Loupe, allowing viewing of images at zooms from 50% to 1600%.
+Light Table, a type of freeform workspace.
+Native support of the Adobe Photoshop PSD, PNG, JPEG and TIFF formats.
+Nondestructive image editing.
+Customizable printing and publishing.
+Supports importing from USB and FireWire memory card readers or directly from a camera connected via USB.
+Ability to simultaneously zoom and pan multiple images.
+Read and write support for IPTC image metadata.
+Heavily customizable book creation.
+Web gallery and blog creation, uploadable via FTP or Webdav.
+Full-featured full-screen mode, for editing and sorting images.
+Aperture 2.0 was released on February 12, 2008 with a reduced US price of $199. This can be compared with the $499 price tag of version 1.0.
+Streamlined interface.
+Enhanced performance due to database optimizations and interface improvements.
+Enhanced image processing with updated raw support.
+Improved integration with OS X, MobileMe (now iCloud) and various software packages including iLife and iWork.
+Support for editing plug-ins, including Apple's own dodging and burning tool (Aperture 2.1).
+Aperture 3.0 was released on February 9, 2010. and was the first version of Aperture to require an Intel-based Macintosh computer (previous versions could run on PowerPC based systems). With the launch of the Mac App Store on January 6, 2011, Apple started offering Aperture 3.0 through the store at a reduced US price of $80. Apple claims more than 200 new features are included in version 3.0 and cites the main enhancements as follows:
+64 bit application, able to handle huge files such as very high definition scans.
+Face detection and recognition tool, called Faces.
+Place pictures on maps using Places. It is compatible with GPS metadata and manually editable through an interactive map.
+Native Flickr and Facebook integration.
+Nondestructive, edge-aware brushes to apply adjustments to photos.
+Dozens of new built-in adjustment presets. Some photographers created custom presets available for download.
+Advanced slideshows.
+Handling and editing of video and audio files.
+Comparison of image viewers
+Comparison of raster graphics editors
+iPhoto

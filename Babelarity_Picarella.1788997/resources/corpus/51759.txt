@@ -1,0 +1,48 @@
+Viiv /ˈvaɪv/ was a platform initiative from Intel similar to Intel's Centrino and vPro. Initially (through release 1.7), it was a collection of computer technologies with a particular combination of Intel ingredients to support a "media PC" concept. Intel also provided the Media Server as the core software stack on the PC to support "media" distribution through the home.
+Until 2007, Viiv was Intel's attempt to become the center of electronic-based home entertainment. Intel was repeating the marketing model for the very successful Centrino platform, which was their first branded platform. The Intel Viiv brand has been "de-emphasized" and comes after the CPU branding, similar to that of "Core 2 with Viiv inside", putting more focus on the CPU.
+There will be no additional releases beyond 1.7.1 of the media server product.
+The platform was originally codenamed East Fork and received some press coverage under this name.
+Viiv Media Server 1.0 was released on January 5, 2006 during the 2006 Consumer Electronics Show (CES) with initial partner agreements with ESPN, Movielink, T Mobile, TiVo, Yahoo, AOL, Napster, Virgin Records, Gametap, Adobe, Google, DirecTV and Pinnacle. Initially, Viiv is a particular combination of CPU, mainboard chipset, software, Digital Rights Management and network card. It is intended for primary use as an in-home media and desktop platform with the ability to operate as a normal PC or as a hardware media player/centre - running applications, playing DVDs, CDs, MP3, photographs and games as well as subscription-based, DRM-restricted content such as that from LOVEFiLM, Napster and SKY.
+Viiv 1.5 has updated features including matrix storage, integrated Media Server and support for Digital Media Adaptors.
+Viiv 1.6 has the same functionality of version 1.5 and supports Microsoft Windows Vista Home Premium and Ultimate, 32-bit versions.
+Viiv 1.7 has an improved user interface, enhanced media features, simplified network map with ability to edit device settings and resolved issues. There will be no more versions of Viiv Mediserver product, as development has moved from focusing on media products to focus on delivery of Intel Core 2 processors in 2008. Intel does not plan to update Viiv software for Windows Vista SP1 or Windows 7.
+To be certified as a Viiv-technology based, PCs must feature one of the following dual-core or quad-core processors:
+Intel Pentium D
+Intel Pentium Extreme Edition (which is Pentium D-based)
+Intel Core Duo
+Intel Core 2 Duo
+Intel Core 2 Extreme
+Intel Core 2 Quad
+Alongside one of the following chipsets:
+Intel 975X Express, 955X Express, 945G Express, 945P Express, 945GT Express, P965 Express, G965 Express or
+Mobile Intel 945GM Express Chipset
+And one of the following network adapters:
+Intel PRO/1000 PM, PRO/100 VE, or PRO/100 VM
+Some of the other features of Viiv PCs include:
+Intel Matrix Storage Technology for setting up a RAID 0, 1, 5, or 10 array.
+Support for up to 1080i high-definition television
+Optional Integrated Media Server (IMS) - software designed to allow other portable devices in the same network.
+64-bit processor  running a 32-bit operating system.
+Gigabit ethernet controller (only with Intel PRO/1000 PM Network Adapter)
+Integrated digital video recorder (DVR)
+Optional TV tuner
+At least 5.1 channel audio, up to 7.1 audio
+Intel's Quick Resume technology: allows on and off in a few seconds like a normal VCR or DVD player (Viiv 1.5 and prior versions)
+Windows XP Media Center Edition with Update Rollup 2 or Windows Vista Home Premium or Ultimate, 32-bit versions.
+On the entertainment front, AMD is attempting to directly compete with Viiv through AMD LIVE! and AMD Vision. AMD LIVE! is focused on the Athlon 64 X2 CPU, Windows Media Center Edition and a number of partners in the media and entertainment industry. AMD has not announced any compatible subscription services for films or games.
+Further confusion to both Intel's Viiv and even more to AMD's LIVE! offering is the launch of Windows Live as a direct competitor to Google mail, maps, search and other offerings.
+The Viiv media platform included components that may be used by content owners to implement more tamper resistant DRM systems using features present in Intel's processor, the Core 2 Duo.
+Although currently the Trusted Platform Module chip is being included in many new laptops and desktops, Viiv does not currently depend on it. The inclusion of TPM in future versions of Viiv is yet to be confirmed. Currently, DRM systems work on Intel Viiv technology-based PCs just like they do any other electronic device.
+PC Pro: behind the badge, conclusive look at Viiv 1.5
+Slashdot: Viiv 1.5 May End Traditional Media PCs
+Engadget: Intel VIIV says no thank you to DRM
+Ars technica:Intel pimps Viiv with a baker's dozen of major partners
+Digitimes: Intel looking to develop Linux version of Viiv to reduce costs
+Bit Tech: Why Intel's DRM strategy is flawed
+Inquirer: Intel Viiv is stupid and broken
+Inquirer: Intel's Viiv is an embarrassment
+Intel's official Viiv (Core2 Processor with Viiv Technology) website
+Intel Core 2
+Intel vPro
+Centrino
+Vixs

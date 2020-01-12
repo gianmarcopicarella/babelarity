@@ -1,0 +1,40 @@
+Phosphorus pentachloride is the chemical compound with the formula PCl5. It is one of the most important phosphorus chlorides, others being PCl3 and POCl3. PCl5 finds use as a chlorinating reagent. It is a colourless, water- and moisture-sensitive solid, although commercial samples can be yellowish and contaminated with hydrogen chloride.
+The structures for the phosphorus chlorides are invariably consistent with VSEPR theory. The structure of PCl5 depends on its environment. Gaseous and molten PCl5 is a neutral molecule with trigonal bipyramidal (D3h) symmetry. The hypervalent nature of this species (as well as for PCl−
+6, see below) can be explained with the inclusion of non-bonding MOs (Molecular orbital theory) or resonance (Valence bond theory). This trigonal bipyramidal structure persists in non-polar solvents, such as CS2 and CCl4. In the solid state PCl5 is ionic, formulated PCl+
+4PCl−
+6.
+In solutions of polar solvents, PCl5 undergoes "autoionization". Dilute solutions dissociate according to the following equilibrium:
+PCl5 ⇌ [PCl+
+4]Cl−
+At higher concentrations, a second equilibrium becomes more prevalent:
+2 PCl5 ⇌ [PCl+
+4][PCl6−]
+The cation PCl+
+4 and the anion PCl−
+6 are tetrahedral and octahedral, respectively. At one time, PCl5 in solution was thought to form a dimeric structure, P2Cl10, but this suggestion is not supported by Raman spectroscopic measurements.
+AsCl5 and SbCl5 also adopt trigonal bipyramidal structures. The relevant bond distances are 211 (As-Cleq), 221 (As-Clax), 227 (Sb-Cleq), and 233.3 pm (Sb-Clax ). At low temperatures, SbCl5 converts to the dimer, bioctahedral Sb2Cl10, structurally related to niobium pentachloride.
+PCl5 is prepared by the chlorination of PCl3. This reaction is used to produce ca. 10,000,000 kg/y of PCl5 (as of 2000).
+PCl3 + Cl2 ⇌ PCl5 (ΔH = −124 kJ/mol)
+PCl5 exists in equilibrium with PCl3 and chlorine, and at 180 °C the degree of dissociation is ca. 40%. Because of this equilibrium, samples of PCl5 often contain chlorine, which imparts a greenish colouration.
+In its most characteristic reaction, PCl5 reacts upon contact with water to release hydrogen chloride and give phosphorus oxides. The first hydrolysis product is phosphorus oxychloride:
+PCl5 + H2O → POCl3 + 2 HCl
+In hot water, hydrolysis proceeds completely to ortho-phosphoric acid:
+PCl5 + 4 H2O → H3PO4 + 5 HCl
+In synthetic chemistry, two classes of chlorination are usually of interest: oxidative chlorinations and substitutive chlorinations. Oxidative chlorinations entail the transfer of Cl2 from the reagent to the substrate. Substitutive chlorinations entail replacement of O or OH groups with chloride. PCl5 can be used for both processes.
+Upon treatment with PCl5, carboxylic acids convert to the corresponding acyl chloride. The following mechanism has been proposed:
+It also converts alcohols to alkyl chloride. Thionyl chloride is more commonly used in the laboratory because the SO2 is more easily separated from the organic products than is POCl3.
+PCl5 reacts with a tertiary amides, such as DMF, to give dimethylchloromethyleneammonium chloride, which is called the Vilsmeier reagent, [(CH3)2NCClH]Cl. More typically, a related salt is generated from the reaction of DMF and POCl3. Such reagents are useful in the preparation of derivatives of benzaldehyde by formylation and for the conversion of C-OH groups into C-Cl groups.
+It is especially renowned for the conversion of C=O groups to CCl2 groups. For example, benzophenone and phosphorus pentachloride react to give the diphenyldichloromethane:
+(C6H5)2CO + PCl5 → (C6H5)2CCl2 + POCl3
+The electrophilic character of PCl5 is highlighted by its reaction with styrene to give, after hydrolysis, phosphonic acid derivatives.
+Both PCl3 and PCl5 convert R3COH groups to the chloride R3CCl. The pentachloride is however a source of chlorine in many reactions. It chlorinates allylic and benzylic CH bonds. PCl5 bears a greater resemblance to SO2Cl2, also a source of Cl2. For oxidative chlorinations on the laboratory scale, sulfuryl chloride is often preferred over PCl5 since the gaseous SO2 by-product is readily separated.
+As for the reactions with organic compounds, the use of PCl5 has been superseded by SO2Cl2. The reaction of phosphorus pentoxide and PCl5 produces POCl3:
+6 PCl5 + P4O10 → 10 POCl3
+PCl5 chlorinates nitrogen dioxide to form nitronium chloride:
+PCl5 + 2 NO2 → PCl3 + 2 NO2Cl
+PCl5 is a precursor for lithium hexafluorophosphate, LiPF6, an electrolyte in lithium ion batteries. LiPF
+6 is produced by the reaction of PCl
+5 with lithium fluoride, with lithium chloride as a side-product:
+PCl5 + 6 LiF → LiPF6 + 5 LiCl
+PCl5 is a dangerous substance as it reacts violently with water.
+Phosphorus halides

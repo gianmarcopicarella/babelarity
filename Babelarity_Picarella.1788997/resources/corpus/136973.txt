@@ -1,0 +1,55 @@
+Methyldopa (L-α-Methyl-3,4-dihydroxyphenylalanine; Aldomet, Aldoril, Dopamet, Dopegyt, etc.) is a centrally acting antihypertensive agent. It is metabolized to alpha-methylnorepinephrine in the brain, and this compound is thought to activate central alpha-2 adrenergic receptors (Gerber, 1990). Being a selective agonist for α2 adrenergic receptors, psychoactive drug is used as a sympatholytic or antihypertensive. Its use is now mostly deprecated following the introduction of alternative safer classes of agents. However, it continues to have a role in otherwise difficult to treat hypertension and gestational hypertension (previously known as pregnancy-induced hypertension (PIH)).
+It is on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system.
+Methyldopa is used in the clinical treatment of the following disorders:
+Hypertension (or high blood pressure)
+Gestational hypertension (or pregnancy-induced hypertension) and pre-eclampsia
+Methyldopa is capable of inducing a number of adverse side effects, which range from mild to severe. Nevertheless, they are generally mild when the dose is less than 1 gram per day. Side effects may include:
+Psychological
+Depression and/or even suicidal ideation, as well as nightmares
+Apathy and/or anhedonia, as well as dysphoria
+Anxiety, especially of the social anxiety variant
+Decreased alertness, awareness, and wakefulness
+Impaired attention, focus, and concentration
+Decreased desire, drive, and motivation
+Fatigue or lethargy and/or malaise or lassitude
+Sedation or drowsiness and/or somnolence or sleepiness
+Agitation or restlessness
+Cognitive and memory impairment
+Derealization and/or depersonalization, as well as mild psychosis
+Sexual dysfunction including impaired libido, desire, and drive
+Physiological
+Dizziness, lightheadedness, or vertigo
+Miosis or pupil constriction
+Xerostomia or dry mouth
+Gastrointestinal disturbances such as diarrhea and/or constipation
+Headache or migraine
+Myalgia or muscle aches, arthralgia or joint pain, and/or paresthesia ("pins and needles")
+Restless legs syndrome (RLS)
+Parkinsonian symptoms such as muscle tremors, rigidity, hypokinesia, and/or balance or postural instability
+Akathisia, ataxia, dyskinesia as well as even tardive dyskinesia, and/or dystonia
+Bell's palsy or facial paralysis
+Sexual dysfunction consisting of impaired erectile dysfunction and/or anorgasmia
+Hyperprolactinemia or excess prolactin, gynecomastia/breast enlargement in males, and/or amenorrhoea or absence of menstrual cycles in females
+Bradycardia or decreased heart rate
+Hypotension or decreased blood pressure (though this may also be considered a therapeutic benefit)
+Orthostatic hypotension (also known as postural hypotension)
+Hepatitis, hepatotoxicity, or liver dysfunction or damage
+Pancreatitis or inflammation of the pancreas
+Haemolytic anaemia or deficiency in red blood cells (RBCs)
+Myelotoxicity or bone marrow suppression, potentially leading to thrombocytopenia or blood platelet deficiency and/or leukopenia or white blood cell (WBC) deficiency
+Hypersensitivity such as lupus erythematosus, myocarditis, and/or pericarditis
+Lichenoid reactions such as skin lesions and/or rashes
+Pallor
+Rebound hypertension via withdrawal on account of tolerance upon the abrupt discontinuation of methyldopa has been reported.
+Methyldopa has a dual mechanism of action:
+It is a competitive inhibitor of the enzyme DOPA decarboxylase, also known as aromatic L-amino acid decarboxylase, which converts L-DOPA into dopamine. Dopamine is a precursor for norepinephrine (noradrenaline) and subsequently epinephrine (adrenaline). This inhibition results in reduced dopaminergic and adrenergic neurotransmission in the peripheral nervous system. This effect may lower blood pressure and cause central nervous system effects such as depression, anxiety, apathy, anhedonia, and parkinsonism. In addition, decreased dopamine may reduce its inhibitory effect on prolactin leading to signs and symptoms of hyperprolactinemia.
+It is converted to α-methylnorepinephrine by dopamine beta-hydroxylase (DBH). α-methylnorepinephrine is an agonist of presynaptic central nervous system α2 adrenergic receptors. Activation of these receptors in the brainstem appears to inhibit sympathetic nervous system output and lower blood pressure. This is also the mechanism of action of clonidine.
+Methyldopa exhibits variable absorption from the gastrointestinal tract. It is metabolized in the liver and intestines and is excreted in urine.
+When methyldopa was first introduced, it was the mainstay of antihypertensive treatment, but its use has declined on account of relatively severe adverse side effects, with increased use of other safer and more tolerable agents such as alpha blockers, beta blockers, and calcium channel blockers. Additionally, it has yet to be associated with reducing adverse cardiovascular events including myocardial infarction and stroke, or overall all-cause mortality reduction in clinical trials. Nonetheless, one of methyldopa's still current indications is in the management of pregnancy-induced hypertension (PIH), as it is relatively safe in pregnancy compared to many other antihypertensives which may affect the fetus.
+Difluoromethyldopa
+D-DOPA (dextrodopa)
+L-DOPA (levodopa; trade names Sinemet, Parcopa, Atamet, Stalevo, Madopar, Prolopa, etc.)
+L-DOPS (droxidopa)
+Dopamine (Intropan, Inovan, Revivan, Rivimine, Dopastat, Dynatra, etc.)
+Norepinephrine (noradrenaline; Levophed, etc.)
+Epinephrine (adrenaline; Adrenalin, EpiPed, Twinject, etc.)

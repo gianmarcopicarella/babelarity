@@ -1,0 +1,15 @@
+Socket 479 (mPGA479M) is the CPU socket for the Intel Pentium M and Celeron M, mobile processors. Normally used in laptops, but has also been used with Tualatin-M Pentium III processors. The official naming by Intel is µFCPGA and µPGA479M.
+There exist multiple electrically incompatible, but mechanically compatible processor families that are available in PGA packages using this socket or variants thereof:
+Socket 478 for Pentium 4 and Celeron series desktop CPUs;
+Socket 479 for Pentium III-M (released in 2001);
+Socket 479 for Pentium M and Celeron M 3xx (this was the most common version of the socket, and was released in 2003);
+Socket M for Intel Core, Core 2 and Celeron M 4xx and 5xx processors; and
+Socket P for Core 2 processors.
+Even the Intel's CPU specifications seem to be not clear enough on the distinction and instead use the package/socket designations PGA478 or PPGA478 for more than 1 of the above sockets.
+Perhaps adding yet more confusion, some of the PGA-based CPUs above are also available in a BGA (or more precisely, µBGA or even µFCBGA) package which has all of the 479 contacts (balls) populated. For these CPU variants, the Intel's CPU specifications use the designations BGA479, PBGA479 or H-PBGA479. It should be however pointed out that these designations denote rather the CPU package itself and not the socket, which the BGA variants do not use at all (they are intended to be directly soldered to the mainboard, e.g. in an embedded system). The non-BGA counterparts of these CPUs use any one of the above mentioned sockets, not only the Socket 479.
+Socket 479 has 479 pin holes. Pentium M processors in PGA package have 479 pins that plug into this zero insertion force socket. Only 478 pins are electrically connected (B2 is reserved and "depopulated on the Micro-FCPGA package").
+Although electrically and mechanically similar, Socket 478 has one pin less, making it impossible to use a Pentium M processor in a 478 board. For this reason manufacturers like Asus have made drop-in boards (e.g. CT-479) which let you use Socket 479 processors,.
+Chipsets which employ this socket for the Pentium M are the Intel 855GM/GME/PM and Intel 915GM/GMS/PM. While the Intel 855GME chipset supports all Pentium M CPU's, the Intel 855GM chipset does not officially support 90 nm 2MB L2 cache (Dothan core) models (even though it works, it only works at 400FSB, some 3rd party/user was able to overclock the FSB on 855GM/GME/PM to support 533FSB Dothan Core). The other difference is the 855GM chipset graphics core runs at 200 MHz while the 855GME runs at 250 MHz. In 2006, Intel released the successor to Socket 479 with a revised pinout for its Core processor, called Socket M. This socket has the placement of one pin changed from the Pentium M version of Socket 479; Socket M processors will physically fit into a Socket 479, but are electrically incompatible with most versions of the socket. Socket M supports a 667 MT/s FSB with the Intel 945PM/945GM chipsets.
+List of Intel microprocessors
+List of Intel Pentium M microprocessors
+List of Intel Celeron microprocessors

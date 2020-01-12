@@ -1,0 +1,7 @@
+Mycetozoa is a grouping of slime molds.
+It can be divided into dictyostelid, myxogastrid, and protostelid groups.
+The mycetozoan groups all fit into the unikont supergroup Amoebozoa, whereas most other slime molds fit into various bikont groups (fonticulids are opisthokonts).
+Dictyostelids are used as examples of cellular communication and differentiation, and may provide insights into how multicellular organisms develop.
+Slime molds like Physarum polycephalum are useful for studying cytoplasmic streaming. They have also been used to study the biochemical events that surround mitosis, since all the nuclei in a medium-sized plasmodium divide in synchrony. It has been observed that they can find their way through mazes by spreading out and choosing the shortest path, an interesting example of information processing without a nervous system. Myxomycete plasmodia have also been used to study the genetics of asexual cell fusion. The giant size of the plasmodial cells allows for easy evaluation of complete or partial cell fusion.
+In 2006, researchers at the University of Southampton and the University of Kobe reported that they had built a six-legged robot whose movement was remotely controlled by a Physarum slime mold. The mold directed the robot into a dark corner most similar to its natural habitat.
+Slime molds are sometimes studied in advanced mathematics courses. Slime mold aggregation is a natural process that can be approximated with partial differential equations.

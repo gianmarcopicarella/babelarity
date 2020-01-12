@@ -1,0 +1,30 @@
+Boreoeutheria (synonymous with Boreotheria) (Greek: βόρειο "north" + ευ "good" + θεριό "beast") is a clade (magnorder) of placental mammals that is composed of the sister taxa Laurasiatheria (most hoofed mammals, most pawed carnivores, and several other groups) and Euarchontoglires (Supraprimates). It is now well supported by DNA sequence analyses, as well as retrotransposon presence or absence data.
+The earliest known fossils belonging to this group date to about 65 million years ago, shortly after the K-Pg extinction event, though molecular data suggests they may have originated earlier, during the Cretaceous period.
+With the exception of rhinoceroses and cetaceans, male members of the clade share the distinction of external testicles.
+The common ancestor of Boreoeutheria lived between 100 and 80 million years ago. The boreoeutherian ancestor gave rise to species as diverse as cat, dog, mouse, rabbit, whale and humans. The concept of boreoeutherian ancestor was first proposed in 2004 in the journal Genome Research. The genome sequence of the boreoeutherian ancestor can be computationally predicted with high accuracy. It is estimated to contain three billion base pairs.
+Class Mammalia
+Magnorder Boreoeutheria
+Superorder Euarchontoglires (Supraprimates)
+Clade Euarchonta
+Order Scandentia: treeshrews (Southeast Asia)
+Clade Primatomorpha
+Order Dermoptera: flying lemurs or colugos (Southeast Asia)
+Order Primates: lemurs, bushbabies, monkeys, apes (cosmopolitan)
+Clade Glires
+Order Lagomorpha: pikas, rabbits, hares (Eurasia, Africa, Americas)
+Order Rodentia: rodents (cosmopolitan)
+Superorder Laurasiatheria
+Clade Eulipotyphla
+Order Erinaceomorpha: hedgehogs and gymnures (Eurasia, Africa, extinct in North America)
+Order Soricomorpha: moles, shrews, solenodons (Eurasia, Africa, North America, northern South America)
+Clade Cetartiodactyla
+Order Cetacea: whales, dolphins and porpoises (cosmopolitan in seas)
+Order Artiodactyla: even-toed ungulates, including pigs, hippopotamus, camels, giraffe, deer, antelope, cattle, sheep, goats (cosmopolitan)
+Order Chiroptera: bats (cosmopolitan)
+Clade Zooamata
+Order Perissodactyla: odd-toed ungulates, including horses, donkeys, zebras, tapirs, and rhinoceroses (cosmopolitan)
+Clade Ferae
+Order Pholidota: pangolins or scaly anteaters (Africa, South and Southeast Asia)
+Order Carnivora: carnivorans (cosmopolitan)
+While it is agreed that the cetaceans evolved within artiodactyls, much of the branching order within Laurasiatheria is not yet well resolved. In particular, the most difficult order to place definitively has been and still is Perissodactyla: Their placement within Zooamata is controversial.
+One study has suggested that the carnivores, cetaceans, chiroptera and ungulates form an ancient clade. This is supported by another study that suggests that Eulipotyphla are the earliest diverging clade within the Laurasiatheria.

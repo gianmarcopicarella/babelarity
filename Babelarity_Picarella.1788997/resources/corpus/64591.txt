@@ -1,0 +1,46 @@
+In number theory, Euclid's lemma is a lemma that captures a fundamental property of prime numbers, namely: If a prime divides the product of two numbers, it must divide at least one of those numbers. It is also called Euclid's first theorem although that name more properly belongs to the side-angle-side condition for showing that triangles are congruent. For example, 133 × 143 = 19019, and since 19019 is divisible by 19, the lemma implies that one or both of 133 or 143 must be as well. In fact, 133 = 19 × 7.
+This property is the key in the proof of the fundamental theorem of arithmetic. It is used to define prime elements, a generalization of prime numbers to arbitrary commutative rings.
+The lemma is not true for composite numbers. For example, 4 divides neither 6 nor 10, yet 4 does divide their product, 60.
+Let p be a prime number, and assume p divides the product of two integers a and b. (In symbols this is written p|ab. Its negation, p does not divide ab is written p∤ab.) Then p|a or p|b (or both). Equivalent statements are:
+If p∤a and p∤b, then p∤ab.
+If p∤a and p|ab, then p|b.
+Euclid's lemma can be generalized from prime numbers to any integers:
+If n|ab, and n is relatively prime to a, then n|b.
+This is a generalization because if n is prime, either
+n|a or
+n is relatively prime to a. In this second possibility, n∤a so n|b.
+The lemma first appears as proposition 30 in Book VII of Euclid's Elements. It is included in practically every book that covers elementary number theory.
+The generalization of the lemma to integers appeared in Jean Prestet's textbook Nouveaux Elémens de Mathématiques in 1681.
+In Carl Friedrich Gauss's treatise Disquisitiones Arithmeticae, the statement of the lemma is Euclid's Proposition 14 (Section 2), which he uses to prove the uniqueness of the decomposition product of prime factors of an integer (Theorem 16), admitting the existence as "obvious." From this existence and uniqueness he then deduces the generalization of prime numbers to integers. For this reason, the generalization of Euclid's lemma is sometimes referred to as Gauss's lemma, but some believe this usage to be incorrect due to confusion with Gauss's lemma on quadratic residues.
+The usual proof involves another lemma called Bézout's identity. This states that if x and y are relatively prime integers (i.e. they share no common divisors other than 1) there exist integers r and s such that
+        r
+        x
+        +
+        s
+        y
+        =
+        1.
+    {\displaystyle rx+sy=1.}
+Let a and n be relatively prime, and assume that n|ab. By Bézout's identity, there are r and s making
+        r
+        n
+        +
+        s
+        a
+        =
+        1.
+    {\displaystyle rn+sa=1.}
+Multiply both sides by b:
+        r
+        n
+        b
+        +
+        s
+        a
+        b
+        =
+        b
+        .
+    {\displaystyle rnb+sab=b.}
+The first term on the left is divisible by n, and the second term is divisible by ab which by hypothesis is divisible by n. Therefore their sum, b, is also divisible by n. This is the generalization of Euclid's lemma mentioned above.
+Euclidean algorithm

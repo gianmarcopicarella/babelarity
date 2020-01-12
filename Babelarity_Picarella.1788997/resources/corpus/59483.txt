@@ -1,0 +1,10 @@
+In autoprotolysis a proton is transferred between two identical molecules, one of which acts as a Brønsted acid, releasing a proton which is accepted by the other molecule acting as a Brønsted base. For example, water undergoes autoprotolysis in the self-ionization of water reaction.
+2H
+2O ⇌ OH− + H
+3O+
+Any solvent that contains both acidic hydrogen and lone pairs of electrons to accept H+ can undergo autoprotolysis.
+For example, ammonia in its purest form may undergo autoprotolysis:
+2NH
+3 ⇌ NH−
+2 + NH+
+4

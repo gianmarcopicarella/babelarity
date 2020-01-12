@@ -1,0 +1,23 @@
+Cadmium chloride is a white crystalline compound of cadmium and chlorine, with the formula CdCl2. It is a hygroscopic solid that is highly soluble in water and slightly soluble in alcohol. Although it is considered to be ionic, it has considerable covalent character to its bonding. The crystal structure of cadmium chloride (described below), composed of two-dimensional layers of ions, is a reference for describing other crystal structures. Also known are CdCl2.H2O and CdCl2.5H2O.
+Cadmium chloride forms crystals with rhombohedral symmetry. Cadmium iodide, CdI2, has a very similar crystal structure to CdCl2. The individual layers in the two structures are identical, but in CdCl2 the chloride ions are arranged in a CCP lattice, whereas in CdI2 the iodide ions are arranged in an HCP lattice.
+Cadmium chloride dissolves well in water and other polar solvents. In water, its high solubility is due in part to formation of complex ions such as [CdCl4]2−. Because of this behavior, CdCl2 is a mild Lewis acid).
+CdCl2 + 2 Cl− → [CdCl4]2−
+With large cations, it is possible to isolate the trigonal bipyramidal [CdCl5]3− ion.
+Anhydrous cadmium chloride can be prepared by the action of anhydrous chlorine or hydrogen chloride gas on heated cadmium metal.
+Cd + 2 HCl → CdCl2 + H2
+Hydrochloric acid may be used to make hydrated CdCl2 from the metal, or from cadmium oxide or cadmium carbonate.
+Cadmium chloride is used for the preparation of cadmium sulfide, used as "Cadmium Yellow", a brilliant-yellow stable inorganic pigment.
+CdCl
+2 + H
+2S → CdS + 2 HCl
+In the laboratory, anhydrous CdCl2 can be used for the preparation of organocadmium compounds of the type R2Cd, where R is an aryl or a primary alkyl. These were once used in the synthesis of ketones from acyl chlorides:
+CdCl
+2 + 2 RMgX → R
+2Cd + MgCl
+2 + MgX
+2
+R
+2Cd + R'COCl → R'COR + CdCl
+2
+Such reagents have largely been supplanted by organocopper compounds, which are much less toxic.
+Cadmium chloride is also used for photocopying, dyeing and electroplating.

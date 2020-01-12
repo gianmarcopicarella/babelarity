@@ -1,0 +1,63 @@
+The Limits to Growth is a 1972 book about the computer simulation of exponential economic and population growth with finite resource supplies. Funded by the Volkswagen Foundation and commissioned by the Club of Rome it was first presented at the St. Gallen Symposium. Its authors were Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, and William W. Behrens III. The book used the World3 model to simulate the consequence of interactions between the Earth's and human systems.
+The original version presented a model based on five variables: world population, industrialisation, pollution, food production and resources depletion. These variables are considered to grow exponentially, while the ability of technology to increase resources availability is only linear. The authors intended to explore the possibility of a sustainable feedback pattern that would be achieved by altering growth trends among the five variables under three scenarios. They noted that their projections for the values of the variables in each scenario were predictions "only in the most limited sense of the word," and were only indications of the system's behavioral tendencies. Two of the scenarios saw "overshoot and collapse" of the global system by the mid to latter part of the 21st century, while a third scenario resulted in a "stabilized world."
+The book continues to generate fervent debate and has been the subject of several subsequent publications. The most recent updated version was published on June 1, 2004 by Chelsea Green Publishing Company and Earthscan under the name Limits to Growth: The 30-Year Update. Donella H. Meadows, Jørgen Randers, and Dennis Meadows have updated and expanded the original version.
+The purpose of The Limits to Growth was not to make specific predictions, but to explore how exponential growth interacts with finite resources. Because the size of resources is not known, only the general behavior can be explored.
+One key idea within The Limits to Growth is the notion that if the rate of resource use is increasing, the amount of reserves cannot be calculated by simply taking the current known reserves and dividing by the current yearly usage, as is typically done to obtain a static index. For example, in 1972, the amount of chromium reserves was 775 million metric tons, of which 1.85 million metric tons were mined annually (see exponential growth). The static index is 775/1.85=418 years, but the rate of chromium consumption was growing at 2.6% annually (Limits to Growth, pp. 54–71). If instead of assuming a constant rate of usage, the assumption of a constant rate of growth of 2.6% annually is made, the resource will instead last
+              ln
+              ⁡
+              (
+              1
+              +
+              0.026
+              ×
+              418
+              )
+            0.026
+        ≈
+          95 years
+    {\displaystyle {\frac {\ln(1+0.026\times 418)}{0.026}}\approx {\text{95 years}}}
+In general, the formula for calculating the amount of time left for a resource with constant consumption growth is:
+        y
+        =
+              ln
+              ⁡
+              (
+              (
+              r
+              ×
+              s
+              )
+              +
+              1
+              )
+            r
+    {\displaystyle y={\frac {\ln((r\times s)+1)}{r}}}
+where:
+y = years left;
+r = 0.026, the continuous compounding growth rate (2.6%).
+s = R/C or static reserve.
+R = reserve;
+C = (annual) consumption.
+The authors list a number of similar exponential indices comparing current reserves to current reserves multiplied by a factor of five:
+The static reserve numbers assume that the usage is constant, and the exponential reserve assumes that the growth rate is constant.
+The exponential index has been interpreted as a prediction of the number of years until the world would "run out" of various resources, both by environmentalist groups calling for greater conservation and restrictions on use, and by skeptics criticizing the index when supplies failed to run out. What The Limits to Growth actually has is the above table, which has the current reserves (that is no new sources of oil are found) for oil running out in 1992 assuming constant exponential growth. In Limits to Growth: The Thirty Year Update there are several pages explaining that new resources are found over time and that the current reserves therefore change but that ultimately resources are finite. (Earlier editions did explain this as well, but not in as much detail.) The standard model includes a resource base of double that of what they have calculated, but the book includes model runs where the assumed resources are infinite, but those model runs still result in overshoot and collapse from other factors.
+The report has been criticized by economists and businessmen, and some claim that history has proved the projections to be incorrect. The Limits to Growth faced ridicule as early as the 1970s. Attacks were made on the methodology, the computer, the conclusions, the rhetoric and the people behind the project. Yale economist Henry C. Wallich agreed that growth could not continue indefinitely, but that a natural end to growth was preferable to intervention. Wallich stated that technology could solve all the problems the report was concerned about, but only if growth continued apace. By stopping growth too soon, Wallich warned, the world would be "consigning billions to permanent poverty".
+Robert Solow from MIT, argued that prediction in The Limits to Growth was based on a weak foundation of data (Newsweek, March 13, 1972, page 103). Allen Kneese and Ronald Riker of Resources for the Future (RFF) stated:
+The authors load their case by letting some things grow exponentially and others not. Population, capital and pollution grow exponentially in all models, but technologies for expanding resources and controlling pollution are permitted to grow, if at all, only in discrete increments.
+Critics also argue that the authors of the report claimed to accept that the then-known resources of minerals and energy could, and would, grow in the future, and consumption growth rates could also decline. The theoretical expiry time for each resource would therefore need to be updated as new discoveries, technologies and trends came to light. To overcome this uncertainty, the authors offered an upper value for the expiry time, calculated as if the known resources were multiplied by two. Even in that case, assuming continuation of the average rate of consumption growth, virtually all major minerals and energy resources would expire within 100 years of publication (i.e., by 2070). Even if reserves were two times larger than expected, they state, ongoing growth in the consumption rate would still lead to the relatively rapid exhaustion of those reserves.
+In 2008, Graham Turner from the Commonwealth Scientific and Industrial Research Organisation (CSIRO) published "A comparison of The Limits to Growth with thirty years of reality". Turner found that the observed historical data from 1970 to 2000 closely matches the simulated results of the "standard run" limits of growth model for almost all the outputs reported. "The comparison is well within uncertainty bounds of nearly all the data in terms of both magnitude and the trends over time." Turner also examined a number of reports, particularly by economists, which over the years have purported to discredit the limits-to-growth model. Turner says these reports are flawed, and reflect misunderstandings about the model. In 2010, Nørgård, Peet and Ragnarsdóttir called the book a "pioneering report", and said that it "has withstood the test of time and, indeed, has only become more relevant."
+In 2014, The Guardian published an article about a new Graham Turner review - 40 years later of "The Limits to Growth" according to which the actual data and the 1972 forecasts still match.
+The Club of Rome has persisted after The Limits of Growth and has generally provided comprehensive updates to the book on a 5-year basis.
+An independent retrospective on the public debate over The Limits to Growth concluded in 1978 that optimistic attitudes had won out, causing a general loss of momentum in the environmentalist movement. While summarizing a large number of opposing arguments, the article concluded that "scientific arguments for and against each position ... have, it would seem, played only a small part in the general acceptance of alternative perspectives."
+In 1989, a symposium was held in Hanover, Lower Saxony, entitled "Beyond the Limits to Growth: Global Industrial Society, Vision or Nightmare?"
+In 1993, Beyond the Limits was published as a 20-year update on the original material.
+Limits to Growth: The 30-Year Update was published in 2004.
+In 2008 Graham Turner at the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Australia published a paper called "A Comparison of `The Limits to Growth` with Thirty Years of Reality". It examined the past thirty years of reality with the predictions made in 1972 and found that changes in industrial production, food production and pollution are all in line with one of the book's three scenarios so far- that of 'business as usual'. This set of predictions in LtG goes on to forecast economic and societal collapse in the 21st century. In 2010, Peet, Nørgård, and Ragnarsdóttir called the book a "pioneering report". They said that, "its approach remains useful and that its conclusions are still surprisingly valid... unfortunately the report has been largely dismissed by critics as a doomsday prophecy that has not held up to scrutiny."
+In a 2009 article published in American Scientist titled "Revisiting the Limits to Growth After Peak Oil," Hall and Day noted that "the values predicted by the limits-to-growth model and actual data for 2008 are very close." These findings are consistent with the above-mentioned 2008 CSIRO study which concluded: "The analysis shows that 30 years of historical data compares favorably with key features… [of the Limits to Growth] ‘standard run’ scenario, which results in collapse of the global system midway through the 21st Century."
+In 2008 researcher Peter A. Victor wrote, that even though D.H. Meadows et al. probably underestimated price-mechanism's role in adjusting, their critics have overestimated it. He states that Limits to Growth has had a significant impact on the conception of environmental issues and notes that the models in the book were meant to be taken as predictions "only in the most limited sense of the word" as they wrote.
+In 2011 Ugo Bardi published a book-length academic study of The Limits to Growth, its methods and historical reception and concluded that "The warnings that we received in 1972 ... are becoming increasingly more worrisome as reality seems to be following closely the curves that the ... scenario had generated." A popular analysis of the accuracy of the report by science writer Richard Heinberg was also published.
+In 2012 the Smithsonian Institution held a symposium entitled "Perspectives on Limits to Growth". Another symposium was held in Hanover, Lower Saxony entitled "Already Beyond?"
+Limits to Growth did not receive an official update in 2012, but one of its coauthors, Jørgen Randers, published a book, 2052: A Global Forecast for the Next Forty Years.
+In a 2012 writing in American Scientist, Brian Hayes stated that the model is "more a polemical tool than a scientific instrument". He went on to say that the graphs generated by the computer program should not, as the authors note, be used as predictions.
+In 2014 Graham Turner concluded that "preparing for a collapsing global system could be even more important than trying to avoid collapse."
+Many books about humanity's uncertain future have appeared regularly over the years. Precursors to Limits to Growth included Thomas Malthus's An Essay on the Principle of Population (1798), Harrison Brown's The Challenge of Man's Future (1956), Rachel Carson's Silent Spring (1962) and Paul R. Ehrlich's The Population Bomb (1968). Some of the notable books published after 1972 include the State of the World reports issued by the Worldwatch Institute (produced annually since 1984); the influential Our Common Future, published by the UN’s World Commission on Environment and Development (1987); Earth in the Balance, written by then-US senator Al Gore (1992); and Earth Odyssey (ISBN 978-0767900591) by journalist Mark Hertsgaard (1999).

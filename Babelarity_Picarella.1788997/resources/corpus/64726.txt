@@ -1,0 +1,1396 @@
+In physics and fluid mechanics, a boundary layer is the layer of fluid in the immediate vicinity of a bounding surface where the effects of viscosity are significant. In the Earth's atmosphere, the atmospheric boundary layer is the air layer near the ground affected by diurnal heat, moisture or momentum transfer to or from the surface. On an aircraft wing the boundary layer is the part of the flow close to the wing, where viscous forces distort the surrounding non-viscous flow. See Reynolds number.
+Laminar boundary layers can be loosely classified according to their structure and the circumstances under which they are created. The thin shear layer which develops on an oscillating body is an example of a Stokes boundary layer, while the Blasius boundary layer refers to the well-known similarity solution near an attached flat plate held in an oncoming unidirectional flow. When a fluid rotates and viscous forces are balanced by the Coriolis effect (rather than convective inertia), an Ekman layer forms. In the theory of heat transfer, a thermal boundary layer occurs. A surface can have multiple types of boundary layer simultaneously.
+The viscous nature of airflow reduces the local velocities on a surface and is responsible for skin friction. The layer of air over the wing's surface that is slowed down or stopped by viscosity, is the boundary layer. There are two different types of boundary layer flow: laminar and turbulent.
+Laminar Boundary Layer Flow
+The laminar boundary is a very smooth flow, while the turbulent boundary layer contains swirls or "eddies." The laminar flow creates less skin friction drag than the turbulent flow, but is less stable. Boundary layer flow over a wing surface begins as a smooth laminar flow. As the flow continues back from the leading edge, the laminar boundary layer increases in thickness.
+Turbulent Boundary Layer Flow
+At some distance back from the leading edge, the smooth laminar flow breaks down and transitions to a turbulent flow. From a drag standpoint, it is advisable to have the transition from laminar to turbulent flow as far aft on the wing as possible, or have a large amount of the wing surface within the laminar portion of the boundary layer. The low energy laminar flow, however, tends to break down more suddenly than the turbulent layer.
+The aerodynamic boundary layer was first defined by Ludwig Prandtl in a paper presented on August 12, 1904 at the third International Congress of Mathematicians in Heidelberg, Germany. It simplifies the equations of fluid flow by dividing the flow field into two areas: one inside the boundary layer, dominated by viscosity and creating the majority of drag experienced by the boundary body; and one outside the boundary layer, where viscosity can be neglected without significant effects on the solution. This allows a closed-form solution for the flow in both areas, a significant simplification of the full Navier–Stokes equations. The majority of the heat transfer to and from a body also takes place within the boundary layer, again allowing the equations to be simplified in the flow field outside the boundary layer. The pressure distribution throughout the boundary layer in the direction normal to the surface (such as an airfoil) remains constant throughout the boundary layer, and is the same as on the surface itself.
+The thickness of the velocity boundary layer is normally defined as the distance from the solid body at which the viscous flow velocity is 99% of the freestream velocity (the surface velocity of an inviscid flow). Displacement Thickness is an alternative definition stating that the boundary layer represents a deficit in mass flow compared to inviscid flow with slip at the wall. It is the distance by which the wall would have to be displaced in the inviscid case to give the same total mass flow as the viscous case. The no-slip condition requires the flow velocity at the surface of a solid object be zero and the fluid temperature be equal to the temperature of the surface. The flow velocity will then increase rapidly within the boundary layer, governed by the boundary layer equations, below.
+The thermal boundary layer thickness is similarly the distance from the body at which the temperature is 99% of the temperature found from an inviscid solution. The ratio of the two thicknesses is governed by the Prandtl number. If the Prandtl number is 1, the two boundary layers are the same thickness. If the Prandtl number is greater than 1, the thermal boundary layer is thinner than the velocity boundary layer. If the Prandtl number is less than 1, which is the case for air at standard conditions, the thermal boundary layer is thicker than the velocity boundary layer.
+In high-performance designs, such as gliders and commercial aircraft, much attention is paid to controlling the behavior of the boundary layer to minimize drag. Two effects have to be considered. First, the boundary layer adds to the effective thickness of the body, through the displacement thickness, hence increasing the pressure drag. Secondly, the shear forces at the surface of the wing create skin friction drag.
+At high Reynolds numbers, typical of full-sized aircraft, it is desirable to have a laminar boundary layer. This results in a lower skin friction due to the characteristic velocity profile of laminar flow. However, the boundary layer inevitably thickens and becomes less stable as the flow develops along the body, and eventually becomes turbulent, the process known as boundary layer transition. One way of dealing with this problem is to suck the boundary layer away through a porous surface (see Boundary layer suction). This can reduce drag, but is usually impractical due to its mechanical complexity and the power required to move the air and dispose of it. Natural laminar flow techniques push the boundary layer transition aft by reshaping the aerofoil or fuselage so that its thickest point is more aft and less thick. This reduces the velocities in the leading part and the same Reynolds number is achieved with a greater length.
+At lower Reynolds numbers, such as those seen with model aircraft, it is relatively easy to maintain laminar flow. This gives low skin friction, which is desirable. However, the same velocity profile which gives the laminar boundary layer its low skin friction also causes it to be badly affected by adverse pressure gradients. As the pressure begins to recover over the rear part of the wing chord, a laminar boundary layer will tend to separate from the surface. Such flow separation causes a large increase in the pressure drag, since it greatly increases the effective size of the wing section. In these cases, it can be advantageous to deliberately trip the boundary layer into turbulence at a point prior to the location of laminar separation, using a turbulator. The fuller velocity profile of the turbulent boundary layer allows it to sustain the adverse pressure gradient without separating. Thus, although the skin friction is increased, overall drag is decreased. This is the principle behind the dimpling on golf balls, as well as vortex generators on aircraft. Special wing sections have also been designed which tailor the pressure recovery so laminar separation is reduced or even eliminated. This represents an optimum compromise between the pressure drag from flow separation and skin friction from induced turbulence.
+When using half-models in wind tunnels, a peniche is sometimes used to reduce or eliminate the effect of the boundary layer.
+The deduction of the boundary layer equations was one of the most important advances in fluid dynamics (Anderson, 2005). Using an order of magnitude analysis, the well-known governing Navier–Stokes equations of viscous fluid flow can be greatly simplified within the boundary layer. Notably, the characteristic of the partial differential equations (PDE) becomes parabolic, rather than the elliptical form of the full Navier–Stokes equations. This greatly simplifies the solution of the equations. By making the boundary layer approximation, the flow is divided into an inviscid portion (which is easy to solve by a number of methods) and the boundary layer, which is governed by an easier to solve PDE. The continuity and Navier–Stokes equations for a two-dimensional steady incompressible flow in Cartesian coordinates are given by
+              ∂
+              u
+              ∂
+              x
+        +
+              ∂
+              υ
+              ∂
+              y
+        =
+        0
+    {\displaystyle {\partial u \over \partial x}+{\partial \upsilon  \over \partial y}=0}
+        u
+              ∂
+              u
+              ∂
+              x
+        +
+        υ
+              ∂
+              u
+              ∂
+              y
+        =
+        −
+            1
+            ρ
+              ∂
+              p
+              ∂
+              x
+        +
+          ν
+          (
+                  ∂
+                    2
+                u
+                ∂
+                  x
+                    2
+          +
+                  ∂
+                    2
+                u
+                ∂
+                  y
+                    2
+          )
+    {\displaystyle u{\partial u \over \partial x}+\upsilon {\partial u \over \partial y}=-{1 \over \rho }{\partial p \over \partial x}+{\nu }\left({\partial ^{2}u \over \partial x^{2}}+{\partial ^{2}u \over \partial y^{2}}\right)}
+        u
+              ∂
+              υ
+              ∂
+              x
+        +
+        υ
+              ∂
+              υ
+              ∂
+              y
+        =
+        −
+            1
+            ρ
+              ∂
+              p
+              ∂
+              y
+        +
+          ν
+          (
+                  ∂
+                    2
+                υ
+                ∂
+                  x
+                    2
+          +
+                  ∂
+                    2
+                υ
+                ∂
+                  y
+                    2
+          )
+    {\displaystyle u{\partial \upsilon  \over \partial x}+\upsilon {\partial \upsilon  \over \partial y}=-{1 \over \rho }{\partial p \over \partial y}+{\nu }\left({\partial ^{2}\upsilon  \over \partial x^{2}}+{\partial ^{2}\upsilon  \over \partial y^{2}}\right)}
+where 
+        u
+    {\displaystyle u}
+   and 
+        υ
+    {\displaystyle \upsilon }
+   are the velocity components, 
+        ρ
+    {\displaystyle \rho }
+   is the density, 
+        p
+    {\displaystyle p}
+   is the pressure, and 
+        ν
+    {\displaystyle \nu }
+   is the kinematic viscosity of the fluid at a point.
+The approximation states that, for a sufficiently high Reynolds number the flow over a surface can be divided into an outer region of inviscid flow unaffected by viscosity (the majority of the flow), and a region close to the surface where viscosity is important (the boundary layer). Let 
+        u
+    {\displaystyle u}
+   and 
+        υ
+    {\displaystyle \upsilon }
+   be streamwise and transverse (wall normal) velocities respectively inside the boundary layer. Using scale analysis, it can be shown that the above equations of motion reduce within the boundary layer to become
+        u
+              ∂
+              u
+              ∂
+              x
+        +
+        υ
+              ∂
+              u
+              ∂
+              y
+        =
+        −
+            1
+            ρ
+              ∂
+              p
+              ∂
+              x
+        +
+          ν
+                ∂
+                  2
+              u
+              ∂
+                y
+                  2
+    {\displaystyle u{\partial u \over \partial x}+\upsilon {\partial u \over \partial y}=-{1 \over \rho }{\partial p \over \partial x}+{\nu }{\partial ^{2}u \over \partial y^{2}}}
+            1
+            ρ
+              ∂
+              p
+              ∂
+              y
+        =
+        0
+    {\displaystyle {1 \over \rho }{\partial p \over \partial y}=0}
+and if the fluid is incompressible (as liquids are under standard conditions):
+              ∂
+              u
+              ∂
+              x
+        +
+              ∂
+              υ
+              ∂
+              y
+        =
+        0
+    {\displaystyle {\partial u \over \partial x}+{\partial \upsilon  \over \partial y}=0}
+The order of magnitude analysis assumes the streamwise length scale significantly larger than the transverse length scale inside the boundary layer. It follows that variations in properties in the streamwise direction are generally much lower than those in the wall normal direction. Apply this to the continuity equation shows that 
+        υ
+    {\displaystyle \upsilon }
+  , the wall normal velocity, is small compared with 
+        u
+    {\displaystyle u}
+   the streamwise velocity.
+Since the static pressure 
+        p
+    {\displaystyle p}
+   is independent of 
+        y
+    {\displaystyle y}
+  , then pressure at the edge of the boundary layer is the pressure throughout the boundary layer at a given streamwise position. The external pressure may be obtained through an application of Bernoulli's equation. Let 
+          u
+            0
+    {\displaystyle u_{0}}
+   be the fluid velocity outside the boundary layer, where 
+        u
+    {\displaystyle u}
+   and 
+          u
+            0
+    {\displaystyle u_{0}}
+   are both parallel. This gives upon substituting for 
+        p
+    {\displaystyle p}
+   the following result
+        u
+              ∂
+              u
+              ∂
+              x
+        +
+        υ
+              ∂
+              u
+              ∂
+              y
+        =
+          u
+            0
+              ∂
+                u
+                  0
+              ∂
+              x
+        +
+          ν
+                ∂
+                  2
+              u
+              ∂
+                y
+                  2
+    {\displaystyle u{\partial u \over \partial x}+\upsilon {\partial u \over \partial y}=u_{0}{\partial u_{0} \over \partial x}+{\nu }{\partial ^{2}u \over \partial y^{2}}}
+For a flow in which the static pressure 
+        p
+    {\displaystyle p}
+   also does not change in the direction of the flow then
+              ∂
+              p
+              ∂
+              x
+        =
+        0
+    {\displaystyle {\partial p \over \partial x}=0}
+so 
+          u
+            0
+    {\displaystyle u_{0}}
+   remains constant.
+Therefore, the equation of motion simplifies to become
+        u
+              ∂
+              u
+              ∂
+              x
+        +
+        υ
+              ∂
+              u
+              ∂
+              y
+        =
+          ν
+                ∂
+                  2
+              u
+              ∂
+                y
+                  2
+    {\displaystyle u{\partial u \over \partial x}+\upsilon {\partial u \over \partial y}={\nu }{\partial ^{2}u \over \partial y^{2}}}
+These approximations are used in a variety of practical flow problems of scientific and engineering interest. The above analysis is for any instantaneous laminar or turbulent boundary layer, but is used mainly in laminar flow studies since the mean flow is also the instantaneous flow because there are no velocity fluctuations present. This simplified equations is parabolic PDE and can be solved using a similarity solution often referred to as the Blasius boundary layer
+The treatment of turbulent boundary layers is far more difficult due to the time-dependent variation of the flow properties. One of the most widely used techniques in which turbulent flows are tackled is to apply Reynolds decomposition. Here the instantaneous flow properties are decomposed into a mean and fluctuating component. Applying this technique to the boundary layer equations gives the full turbulent boundary layer equations not often given in literature:
+              ∂
+                  u
+                  ¯
+              ∂
+              x
+        +
+              ∂
+                  v
+                  ¯
+              ∂
+              y
+        =
+        0
+    {\displaystyle {\partial {\overline {u}} \over \partial x}+{\partial {\overline {v}} \over \partial y}=0}
+            u
+            ¯
+              ∂
+                  u
+                  ¯
+              ∂
+              x
+        +
+            v
+            ¯
+              ∂
+                  u
+                  ¯
+              ∂
+              y
+        =
+        −
+            1
+            ρ
+              ∂
+                  p
+                  ¯
+              ∂
+              x
+        +
+        ν
+          (
+                  ∂
+                    2
+                    u
+                    ¯
+                ∂
+                  x
+                    2
+          +
+                  ∂
+                    2
+                    u
+                    ¯
+                ∂
+                  y
+                    2
+          )
+        −
+            ∂
+              ∂
+              y
+        (
+                u
+                ′
+                v
+                ′
+            ¯
+        )
+        −
+            ∂
+              ∂
+              x
+        (
+              u
+                ′
+                  2
+            ¯
+        )
+    {\displaystyle {\overline {u}}{\partial {\overline {u}} \over \partial x}+{\overline {v}}{\partial {\overline {u}} \over \partial y}=-{1 \over \rho }{\partial {\overline {p}} \over \partial x}+\nu \left({\partial ^{2}{\overline {u}} \over \partial x^{2}}+{\partial ^{2}{\overline {u}} \over \partial y^{2}}\right)-{\frac {\partial }{\partial y}}({\overline {u'v'}})-{\frac {\partial }{\partial x}}({\overline {u'^{2}}})}
+            u
+            ¯
+              ∂
+                  v
+                  ¯
+              ∂
+              x
+        +
+            v
+            ¯
+              ∂
+                  v
+                  ¯
+              ∂
+              y
+        =
+        −
+            1
+            ρ
+              ∂
+                  p
+                  ¯
+              ∂
+              y
+        +
+        ν
+          (
+                  ∂
+                    2
+                    v
+                    ¯
+                ∂
+                  x
+                    2
+          +
+                  ∂
+                    2
+                    v
+                    ¯
+                ∂
+                  y
+                    2
+          )
+        −
+            ∂
+              ∂
+              x
+        (
+                u
+                ′
+                v
+                ′
+            ¯
+        )
+        −
+            ∂
+              ∂
+              y
+        (
+              v
+                ′
+                  2
+            ¯
+        )
+    {\displaystyle {\overline {u}}{\partial {\overline {v}} \over \partial x}+{\overline {v}}{\partial {\overline {v}} \over \partial y}=-{1 \over \rho }{\partial {\overline {p}} \over \partial y}+\nu \left({\partial ^{2}{\overline {v}} \over \partial x^{2}}+{\partial ^{2}{\overline {v}} \over \partial y^{2}}\right)-{\frac {\partial }{\partial x}}({\overline {u'v'}})-{\frac {\partial }{\partial y}}({\overline {v'^{2}}})}
+Using a similar order-of-magnitude analysis, the above equations can be reduced to leading order terms. By choosing length scales 
+        δ
+    {\displaystyle \delta }
+   for changes in the transverse-direction, and 
+        L
+    {\displaystyle L}
+   for changes in the streamwise-direction, with 
+        δ
+        <<
+        L
+    {\displaystyle \delta <<L}
+  , the x-momentum equation simplifies to:
+            u
+            ¯
+              ∂
+                  u
+                  ¯
+              ∂
+              x
+        +
+            v
+            ¯
+              ∂
+                  u
+                  ¯
+              ∂
+              y
+        =
+        −
+            1
+            ρ
+              ∂
+                  p
+                  ¯
+              ∂
+              x
+        −
+            ∂
+              ∂
+              y
+        (
+                u
+                ′
+                v
+                ′
+            ¯
+        )
+    {\displaystyle {\overline {u}}{\partial {\overline {u}} \over \partial x}+{\overline {v}}{\partial {\overline {u}} \over \partial y}=-{1 \over \rho }{\partial {\overline {p}} \over \partial x}-{\frac {\partial }{\partial y}}({\overline {u'v'}})}
+  .
+This equation does not satisfy the no-slip condition at the wall. Like Prandtl did for his boundary layer equations, a new, smaller length scale must be used to allow the viscous term to become leading order in the momentum equation. By choosing 
+        η
+        <<
+        δ
+    {\displaystyle \eta <<\delta }
+   as the y-scale, the leading order momentum equation for this "inner boundary layer" is given by:
+        0
+        =
+        −
+            1
+            ρ
+              ∂
+                  p
+                  ¯
+              ∂
+              x
+        +
+          ν
+                ∂
+                  2
+                  u
+                  ¯
+              ∂
+                y
+                  2
+        −
+            ∂
+              ∂
+              y
+        (
+                u
+                ′
+                v
+                ′
+            ¯
+        )
+    {\displaystyle 0=-{1 \over \rho }{\partial {\overline {p}} \over \partial x}+{\nu }{\partial ^{2}{\overline {u}} \over \partial y^{2}}-{\frac {\partial }{\partial y}}({\overline {u'v'}})}
+  .
+In the limit of infinite Reynolds number, the pressure gradient term can be show to have no effect on the inner region of the turbulent boundary layer. The new "inner length scale" 
+        η
+    {\displaystyle \eta }
+   is a viscous length scale, and is of order 
+            ν
+              u
+                ∗
+    {\displaystyle {\frac {\nu }{u_{*}}}}
+  , with 
+          u
+            ∗
+    {\displaystyle u_{*}}
+   being the velocity scale of the turbulent fluctuations, in this case a friction velocity.
+Unlike the laminar boundary layer equations, the presence of two regimes governed by different sets of flow scales (i.e. the inner and outer scaling) has made finding a universal similarity solution for the turbulent boundary layer difficult and controversial. To find a similarity solution that spans both regions of the flow, it is necessary to asymptotically match the solutions from both regions of the flow. Such analysis will yield either the so-called log-law or power-law.
+The additional term 
+                u
+                ′
+                v
+                ′
+            ¯
+    {\displaystyle {\overline {u'v'}}}
+   in the turbulent boundary layer equations is known as the Reynolds shear stress and is unknown a priori. The solution of the turbulent boundary layer equations therefore necessitates the use of a turbulence model, which aims to express the Reynolds shear stress in terms of known flow variables or derivatives. The lack of accuracy and generality of such models is a major obstacle in the successful prediction of turbulent flow properties in modern fluid dynamics.
+A constant stress layer exists in the near wall region. Due to the damping of the vertical velocity fluctuations near the wall, the Reynolds stress term will become negligible and we find that a linear velocity profile exists. This is only true for the very near wall region.
+In 1928, the French engineer André Lévêque observed that convective heat transfer in a flowing fluid is affected only by the velocity values very close to the surface. For flows of large Prandtl number, the temperature/mass transition from surface to freestream temperature takes place across a very thin region close to the surface. Therefore, the most important fluid velocities are those inside this very thin region in which the change in velocity can be considered linear with normal distance from the surface. In this way, for
+        u
+        (
+        y
+        )
+        =
+          u
+            0
+          [
+          1
+          −
+                (
+                y
+                −
+                h
+                  )
+                    2
+                h
+                  2
+          ]
+        =
+          u
+            0
+            y
+            h
+          [
+          2
+          −
+              y
+              h
+          ]
+        ,
+    {\displaystyle u(y)=u_{0}\left[1-{\frac {(y-h)^{2}}{h^{2}}}\right]=u_{0}{\frac {y}{h}}\left[2-{\frac {y}{h}}\right]\;,}
+when 
+        y
+        →
+        0
+    {\displaystyle y\rightarrow 0}
+  , then
+        u
+        (
+        y
+        )
+        ≈
+        2
+          u
+            0
+            y
+            h
+        =
+        θ
+        y
+    {\displaystyle u(y)\approx 2u_{0}{\frac {y}{h}}=\theta y}
+  ,
+where θ is the tangent of the Poiseuille parabola intersecting the wall. Although Lévêque's solution was specific to heat transfer into a Poiseuille flow, his insight helped lead other scientists to an exact solution of the thermal boundary-layer problem. Schuh observed that in a boundary-layer, u is again a linear function of y, but that in this case, the wall tangent is a function of x. He expressed this with a modified version of Lévêque's profile,
+        u
+        (
+        y
+        )
+        =
+        θ
+        (
+        x
+        )
+        y
+    {\displaystyle u(y)=\theta (x)y}
+  .
+This results in a very good approximation, even for low 
+        P
+        r
+    {\displaystyle Pr}
+   numbers, so that only liquid metals with 
+        P
+        r
+    {\displaystyle Pr}
+   much less than 1 cannot be treated this way. In 1962, Kestin and Persen published a paper describing solutions for heat transfer when the thermal boundary layer is contained entirely within the momentum layer and for various wall temperature distributions. For the problem of a flat plate with a temperature jump at 
+        x
+        =
+          x
+            0
+    {\displaystyle x=x_{0}}
+  , they propose a substitution that reduces the parabolic thermal boundary-layer equation to an ordinary differential equation. The solution to this equation, the temperature at any point in the fluid, can be expressed as an incomplete gamma function. Schlichting proposed an equivalent substitution that reduces the thermal boundary-layer equation to an ordinary differential equation whose solution is the same incomplete gamma function.
+Paul Richard Heinrich Blasius derived an exact solution to the above laminar boundary layer equations. The thickness of the boundary layer 
+        δ
+    {\displaystyle \delta }
+   is a function of the Reynolds number for laminar flow.
+        δ
+        ≈
+              5.0
+              ×
+              x
+                R
+                e
+    {\displaystyle \delta \approx {5.0\times x \over {\sqrt {Re}}}}
+        δ
+    {\displaystyle \delta }
+   = the thickness of the boundary layer: the region of flow where the velocity is less than 99% of the far field velocity 
+          v
+            ∞
+    {\displaystyle v_{\infty }}
+  ; 
+        x
+    {\displaystyle x}
+   is position along the semi-infinite plate, and 
+        R
+        e
+    {\displaystyle Re}
+   is the Reynolds Number given by 
+        ρ
+          v
+            ∞
+        x
+          /
+        μ
+    {\displaystyle \rho v_{\infty }x/\mu }
+   (
+        ρ
+        =
+    {\displaystyle \rho =}
+   density and 
+        μ
+        =
+    {\displaystyle \mu =}
+   dynamic viscosity).
+The Blasius solution uses boundary conditions in a dimensionless form:
+                v
+                  x
+              −
+                v
+                  S
+                v
+                  ∞
+              −
+                v
+                  S
+        =
+              v
+                x
+              v
+                ∞
+        =
+              v
+                y
+              v
+                ∞
+        =
+        0
+    {\displaystyle {v_{x}-v_{S} \over v_{\infty }-v_{S}}={v_{x} \over v_{\infty }}={v_{y} \over v_{\infty }}=0}
+       at     
+        y
+        =
+        0
+    {\displaystyle y=0}
+                v
+                  x
+              −
+                v
+                  S
+                v
+                  ∞
+              −
+                v
+                  S
+        =
+              v
+                x
+              v
+                ∞
+        =
+        1
+    {\displaystyle {v_{x}-v_{S} \over v_{\infty }-v_{S}}={v_{x} \over v_{\infty }}=1}
+       at     
+        y
+        =
+        ∞
+    {\displaystyle y=\infty }
+   and 
+        x
+        =
+        0
+    {\displaystyle x=0}
+Note that in many cases, the no-slip boundary condition holds that 
+          v
+            S
+    {\displaystyle v_{S}}
+  , the fluid velocity at the surface of the plate equals the velocity of the plate at all locations. If the plate is not moving, then 
+          v
+            S
+        =
+        0
+    {\displaystyle v_{S}=0}
+  . A much more complicated derivation is required if fluid slip is allowed.
+In fact, the Blasius solution for laminar velocity profile in the boundary layer above a semi-infinite plate can be easily extended to describe Thermal and Concentration boundary layers for heat and mass transfer respectively. Rather than the differential x-momentum balance (equation of motion), this uses a similarly derived Energy and Mass balance:
+Energy:         
+          v
+            x
+              ∂
+              T
+              ∂
+              x
+        +
+          v
+            y
+              ∂
+              T
+              ∂
+              y
+        =
+            k
+              ρ
+              C
+              p
+                ∂
+                  2
+              T
+              ∂
+                y
+                  2
+    {\displaystyle v_{x}{\partial T \over \partial x}+v_{y}{\partial T \over \partial y}={k \over \rho Cp}{\partial ^{2}T \over \partial y^{2}}}
+Mass:           
+          v
+            x
+              ∂
+                c
+                  A
+              ∂
+              x
+        +
+          v
+            y
+              ∂
+                c
+                  A
+              ∂
+              y
+        =
+          D
+            A
+            B
+                ∂
+                  2
+                c
+                  A
+              ∂
+                y
+                  2
+    {\displaystyle v_{x}{\partial c_{A} \over \partial x}+v_{y}{\partial c_{A} \over \partial y}=D_{AB}{\partial ^{2}c_{A} \over \partial y^{2}}}
+For the momentum balance, kinematic viscosity 
+        ν
+    {\displaystyle \nu }
+   can be considered to be the momentum diffusivity. In the energy balance this is replaced by thermal diffusivity 
+        α
+        =
+          k
+            /
+          ρ
+            C
+              P
+    {\displaystyle \alpha ={k/\rho C_{P}}}
+  , and by mass diffusivity 
+          D
+            A
+            B
+    {\displaystyle D_{AB}}
+   in the mass balance. In thermal diffusivity of a substance, 
+        k
+    {\displaystyle k}
+   is its thermal conductivity, 
+        ρ
+    {\displaystyle \rho }
+   is its density and 
+          C
+            P
+    {\displaystyle C_{P}}
+   is its heat capacity. Subscript AB denotes diffusivity of species A diffusing into species B.
+Under the assumption that 
+        α
+        =
+          D
+            A
+            B
+        =
+        ν
+    {\displaystyle \alpha =D_{AB}=\nu }
+  , these equations become equivalent to the momentum balance. Thus, for Prandtl number 
+        P
+        r
+        =
+        ν
+          /
+        α
+        =
+        1
+    {\displaystyle Pr=\nu /\alpha =1}
+   and Schmidt number 
+        S
+        c
+        =
+        ν
+          /
+          D
+            A
+            B
+        =
+        1
+    {\displaystyle Sc=\nu /D_{AB}=1}
+   the Blasius solution applies directly.
+Accordingly, this derivation uses a related form of the boundary conditions, replacing 
+        v
+    {\displaystyle v}
+   with 
+        T
+    {\displaystyle T}
+   or 
+          c
+            A
+    {\displaystyle c_{A}}
+   (absolute temperature or concentration of species A). The subscript S denotes a surface condition.
+                v
+                  x
+              −
+                v
+                  S
+                v
+                  ∞
+              −
+                v
+                  S
+        =
+              T
+              −
+                T
+                  S
+                T
+                  ∞
+              −
+                T
+                  S
+        =
+                c
+                  A
+              −
+                c
+                  A
+                  S
+                c
+                  A
+                  ∞
+              −
+                c
+                  A
+                  S
+        =
+        0
+    {\displaystyle {v_{x}-v_{S} \over v_{\infty }-v_{S}}={T-T_{S} \over T_{\infty }-T_{S}}={c_{A}-c_{AS} \over c_{A\infty }-c_{AS}}=0}
+       at     
+        y
+        =
+        0
+    {\displaystyle y=0}
+                v
+                  x
+              −
+                v
+                  S
+                v
+                  ∞
+              −
+                v
+                  S
+        =
+              T
+              −
+                T
+                  S
+                T
+                  ∞
+              −
+                T
+                  S
+        =
+                c
+                  A
+              −
+                c
+                  A
+                  S
+                c
+                  A
+                  ∞
+              −
+                c
+                  A
+                  S
+        =
+        1
+    {\displaystyle {v_{x}-v_{S} \over v_{\infty }-v_{S}}={T-T_{S} \over T_{\infty }-T_{S}}={c_{A}-c_{AS} \over c_{A\infty }-c_{AS}}=1}
+       at     
+        y
+        =
+        ∞
+    {\displaystyle y=\infty }
+   and 
+        x
+        =
+        0
+    {\displaystyle x=0}
+Using the streamline function Blasius obtained the following solution for the shear stress at the surface of the plate.
+          τ
+            0
+        =
+            (
+                  ∂
+                    v
+                      x
+                  ∂
+                  y
+            )
+            y
+            =
+            0
+        =
+        0.332
+              v
+                ∞
+            x
+        R
+          e
+            1
+              /
+            2
+    {\displaystyle \tau _{0}=\left({\partial v_{x} \over \partial y}\right)_{y=0}=0.332{v_{\infty } \over x}Re^{1/2}}
+And via the boundary conditions, it is known that
+                v
+                  x
+              −
+                v
+                  S
+                v
+                  ∞
+              −
+                v
+                  S
+        =
+              T
+              −
+                T
+                  S
+                T
+                  ∞
+              −
+                T
+                  S
+        =
+                c
+                  A
+              −
+                c
+                  A
+                  S
+                c
+                  A
+                  ∞
+              −
+                c
+                  A
+                  S
+    {\displaystyle {v_{x}-v_{S} \over v_{\infty }-v_{S}}={T-T_{S} \over T_{\infty }-T_{S}}={c_{A}-c_{AS} \over c_{A\infty }-c_{AS}}}
+We are given the following relations for heat/mass flux out of the surface of the plate
+            (
+                  ∂
+                  T
+                  ∂
+                  y
+            )
+            y
+            =
+            0
+        =
+        0.332
+                T
+                  ∞
+              −
+                T
+                  S
+            x
+        R
+          e
+            1
+              /
+            2
+    {\displaystyle \left({\partial T \over \partial y}\right)_{y=0}=0.332{T_{\infty }-T_{S} \over x}Re^{1/2}}
+            (
+                  ∂
+                    c
+                      A
+                  ∂
+                  y
+            )
+            y
+            =
+            0
+        =
+        0.332
+                c
+                  A
+                  ∞
+              −
+                c
+                  A
+                  S
+            x
+        R
+          e
+            1
+              /
+            2
+    {\displaystyle \left({\partial c_{A} \over \partial y}\right)_{y=0}=0.332{c_{A\infty }-c_{AS} \over x}Re^{1/2}}
+So for 
+        P
+        r
+        =
+        S
+        c
+        =
+        1
+    {\displaystyle Pr=Sc=1}
+        δ
+        =
+          δ
+            T
+        =
+          δ
+            c
+        =
+              5.0
+              ∗
+              x
+                R
+                e
+    {\displaystyle \delta =\delta _{T}=\delta _{c}={5.0*x \over {\sqrt {Re}}}}
+Where 
+          δ
+            T
+        ,
+          δ
+            c
+    {\displaystyle \delta _{T},\delta _{c}}
+   are the regions of flow where 
+        T
+    {\displaystyle T}
+   and 
+          c
+            A
+    {\displaystyle c_{A}}
+   are less than 99% of their far field values.
+Because the Prandtl number of a particular fluid is not often unity, German engineer E. Polhausen who worked with Ludwig Prandtl attempted to empirically extend these equations to apply for 
+        P
+        r
+        ≠
+        1
+    {\displaystyle Pr\neq 1}
+  . His results can be applied to 
+        S
+        c
+    {\displaystyle Sc}
+   as well. He found that for Prandtl number greater than 0.6, the thermal boundary layer thickness was approximately given by:
+            δ
+              δ
+                T
+        =
+        P
+          r
+            1
+              /
+            3
+    {\displaystyle {\delta  \over \delta _{T}}=Pr^{1/3}}
+            and therefore          
+            δ
+              δ
+                c
+        =
+        S
+          c
+            1
+              /
+            3
+    {\displaystyle {\delta  \over \delta _{c}}=Sc^{1/3}}
+From this solution, it is possible to characterize the convective heat/mass transfer constants based on the region of boundary layer flow. Fourier’s law of conduction and Newton’s Law of Cooling are combined with the flux term derived above and the boundary layer thickness.
+            q
+            A
+        =
+        −
+        k
+            (
+                  ∂
+                  T
+                  ∂
+                  y
+            )
+            y
+            =
+            0
+        =
+          h
+            x
+        (
+          T
+            S
+        −
+          T
+            ∞
+        )
+    {\displaystyle {q \over A}=-k\left({\partial T \over \partial y}\right)_{y=0}=h_{x}(T_{S}-T_{\infty })}
+          h
+            x
+        =
+        0.332
+            k
+            x
+        R
+          e
+            x
+            1
+              /
+            2
+        P
+          r
+            1
+              /
+            3
+    {\displaystyle h_{x}=0.332{k \over x}Re_{x}^{1/2}Pr^{1/3}}
+This gives the local convective constant 
+          h
+            x
+    {\displaystyle h_{x}}
+   at one point on the semi-infinite plane. Integrating over the length of the plate gives an average
+          h
+            L
+        =
+        0.664
+            k
+            x
+        R
+          e
+            L
+            1
+              /
+            2
+        P
+          r
+            1
+              /
+            3
+    {\displaystyle h_{L}=0.664{k \over x}Re_{L}^{1/2}Pr^{1/3}}
+Following the derivation with mass transfer terms (
+        k
+    {\displaystyle k}
+   = convective mass transfer constant, 
+          D
+            A
+            B
+    {\displaystyle D_{AB}}
+   = diffusivity of species A into species B, 
+        S
+        c
+        =
+        ν
+          /
+          D
+            A
+            B
+    {\displaystyle Sc=\nu /D_{AB}}
+   ), the following solutions are obtained:
+          k
+            x
+          ′
+        =
+        0.332
+              D
+                A
+                B
+            x
+        R
+          e
+            x
+            1
+              /
+            2
+        S
+          c
+            1
+              /
+            3
+    {\displaystyle k'_{x}=0.332{D_{AB} \over x}Re_{x}^{1/2}Sc^{1/3}}
+          k
+            L
+          ′
+        =
+        0.664
+              D
+                A
+                B
+            x
+        R
+          e
+            L
+            1
+              /
+            2
+        S
+          c
+            1
+              /
+            3
+    {\displaystyle k'_{L}=0.664{D_{AB} \over x}Re_{L}^{1/2}Sc^{1/3}}
+These solutions apply for laminar flow with a Prandtl/Schmidt number greater than 0.6.
+Many of the principles that apply to aircraft also apply to ships, submarines, and offshore platforms.
+For ships, unlike aircraft, one deals with incompressible flows, where change in water density is negligible (a pressure rise close to 1000kPa leads to a change of only 2–3 kg/m3). This field of fluid dynamics is called hydrodynamics. A ship engineer designs for hydrodynamics first, and for strength only later. The boundary layer development, breakdown, and separation become critical because the high viscosity of water produces high shear stresses. Another consequence of high viscosity is the slip stream effect, in which the ship moves like a spear tearing through a sponge at high velocity.
+This effect was exploited in the Tesla turbine, patented by Nikola Tesla in 1913. It is referred to as a bladeless turbine because it uses the boundary layer effect and not a fluid impinging upon the blades as in a conventional turbine. Boundary layer turbines are also known as cohesion-type turbine, bladeless turbine, and Prandtl layer turbine (after Ludwig Prandtl).
+By using the transient and viscous force equations for a cylindrical flow you can predict the transient boundary layer thickness by finding the Womersley Number (
+          N
+            w
+    {\displaystyle N_{w}}
+  ).
+Transient Force = 
+        ρ
+        v
+        w
+    {\displaystyle \rho vw}
+Viscous Force = 
+              μ
+              v
+              δ
+                1
+    {\displaystyle {\mu v \over \delta _{1}}}
+Setting them equal to each other gives:
+        ρ
+        v
+        w
+        =
+              μ
+              v
+              δ
+                1
+    {\displaystyle \rho vw={\mu v \over \delta _{1}}}
+Solving for delta gives:
+          δ
+            1
+        =
+              μ
+                ρ
+                w
+        =
+                v
+                w
+    {\displaystyle \delta _{1}={\sqrt {\mu  \over \rho w}}={\sqrt {\ v \over \ w}}}
+In dimensionless form:
+            L
+              δ
+                1
+        =
+          L
+                w
+                  v
+        =
+          N
+            w
+    {\displaystyle {L \over \delta _{1}}={L{\sqrt {w \over \ v}}}=N_{w}}
+Where 
+          N
+            w
+    {\displaystyle N_{w}}
+   = Womersley Number; 
+        ρ
+    {\displaystyle \rho }
+   = density; 
+        v
+    {\displaystyle v}
+   = velocity; 
+          δ
+            1
+    {\displaystyle \delta _{1}}
+   = length of transient boundary layer; 
+        μ
+    {\displaystyle \mu }
+   = viscosity; 
+        L
+    {\displaystyle L}
+   = characteristic length.
+By using the convective and viscous force equations at the boundary layer for a cylindrical flow you can predict the convective flow conditions at the boundary layer by finding the dimensionless Reynolds Number (
+          N
+            R
+    {\displaystyle N_{R}}
+  ).
+Convective Force = 
+          ρ
+            v
+              2
+          L
+    {\displaystyle \rho v^{2} \over \ L}
+Viscous Force = 
+              μ
+              v
+              δ
+                2
+                2
+    {\displaystyle {\mu v \over \delta _{2}^{2}}}
+Setting them equal to each other gives:
+              ρ
+                v
+                  2
+              L
+        =
+              μ
+              v
+              δ
+                2
+                2
+    {\displaystyle {\rho v^{2} \over \ L}={\mu v \over \delta _{2}^{2}}}
+Solving for delta gives:
+          δ
+            2
+        =
+                μ
+                L
+                ρ
+                v
+    {\displaystyle \delta _{2}={\sqrt {\mu L \over \rho v}}}
+In dimensionless form:
+            L
+              δ
+                2
+        =
+                ρ
+                v
+                L
+              μ
+        =
+              N
+                R
+    {\displaystyle {L \over \delta _{2}}={\sqrt {\rho vL \over \mu }}={\sqrt {N_{R}}}}
+Where 
+          N
+            R
+    {\displaystyle N_{R}}
+   = Reynolds Number; 
+        ρ
+    {\displaystyle \rho }
+   = density; 
+        v
+    {\displaystyle v}
+   = velocity; 
+          δ
+            2
+    {\displaystyle \delta _{2}}
+   = length of convective boundary layer; 
+        μ
+    {\displaystyle \mu }
+   = viscosity; 
+        L
+    {\displaystyle L}
+   = characteristic length.
+Boundary layer separation
+Boundary-layer thickness
+Boundary layer suction
+Boundary layer control
+Coandă effect
+Facility for Airborne Atmospheric Measurements
+Logarithmic law of the wall
+Planetary boundary layer
+Shape factor (boundary layer flow)
+Shear stress

@@ -1,0 +1,132 @@
+In computational complexity theory, Savitch's theorem, proved by Walter Savitch in 1970, gives a relationship between deterministic and non-deterministic space complexity. It states that for any function 
+        f
+        ∈
+        Ω
+        (
+        log
+        ⁡
+        (
+        n
+        )
+        )
+    {\displaystyle f\in \Omega (\log(n))}
+  ,
+          NSPACE
+          (
+          f
+            (
+            n
+            )
+          )
+        ⊆
+          DSPACE
+          (
+              (
+              f
+                (
+                n
+                )
+              )
+              2
+          )
+        .
+    {\displaystyle {\text{NSPACE}}\left(f\left(n\right)\right)\subseteq {\text{DSPACE}}\left(\left(f\left(n\right)\right)^{2}\right).}
+In other words, if a nondeterministic Turing machine can solve a problem using f(n) space, an ordinary deterministic Turing machine can solve the same problem in the square of that space bound. Although it seems that nondeterminism may produce exponential gains in time, this theorem shows that it has a markedly more limited effect on space requirements.
+There is a proof of the theorem that is constructive: it demonstrates an algorithm for STCON, the problem of determining whether there is a path between two vertices in a directed graph, which runs in 
+        O
+          (
+          (
+          log
+          ⁡
+          n
+            )
+              2
+          )
+    {\displaystyle O\left((\log n)^{2}\right)}
+   space for n vertices. The basic idea of the algorithm is to solve recursively a somewhat more general problem, testing the existence of a path from a vertex s to another vertex t that uses at most k edges, where k is a parameter that is given as input to the recursive algorithm; STCON may be solved from this problem by setting k to n. To test for a k-edge path from s to t, one may test whether each vertex u may be the midpoint of the path, by recursively searching for paths of half the length from s to u and u to t. Using pseudocode (with syntax closely resembling Python) we can express this algorithm as follows:
+This search calls itself to a recursion depth of O(log n) levels, each of which requires O(log n) bits to store the function arguments and local variables at that level, so the total space used by the algorithm is 
+        O
+          (
+          (
+          log
+          ⁡
+          n
+            )
+              2
+          )
+    {\displaystyle O\left((\log n)^{2}\right)}
+  . Although described above in the form of a program in a high-level language, the same algorithm may be implemented with the same asymptotic space bound on a Turing machine.
+The reason why this algorithm implies the theorem is that any language 
+        L
+        ∈
+          NSPACE
+          (
+          f
+            (
+            n
+            )
+          )
+    {\displaystyle L\in {\text{NSPACE}}\left(f\left(n\right)\right)}
+   corresponds to a directed graph whose vertices are the 
+        O
+          (
+            2
+              f
+              (
+              n
+              )
+          )
+    {\displaystyle O\left(2^{f(n)}\right)}
+   configurations of a Turing machine deciding membership in 
+        L
+    {\displaystyle L}
+  . For each 
+        x
+        ∈
+        {
+        0
+        ,
+        1
+          }
+            n
+    {\displaystyle x\in \{0,1\}^{n}}
+  , this graph has a path from the starting configuration on input 
+        x
+    {\displaystyle x}
+   to the accepting configuration if and only if 
+        x
+        ∈
+        L
+    {\displaystyle x\in L}
+  . Thus deciding connectivity is sufficient to decide membership in 
+        L
+    {\displaystyle L}
+  , and by the above algorithm this can be done in 
+          DSPACE
+          (
+              (
+              f
+                (
+                n
+                )
+              )
+              2
+          )
+    {\displaystyle {\text{DSPACE}}\left(\left(f\left(n\right)\right)^{2}\right)}
+  .
+Some important corollaries of the theorem include:
+PSPACE = NPSPACE
+This follows directly from the fact that the square of a polynomial function is still a polynomial function. It is believed that a similar relationship does not exist between the polynomial time complexity classes, P and NP, although this is still an open question.
+NL ⊆ L2STCON is NL-complete, and so all languages in NL are also in the complexity class L2 = 
+          DSPACE
+          (
+              (
+              log
+              ⁡
+              n
+              )
+              2
+          )
+    {\displaystyle {\text{DSPACE}}\left(\left(\log n\right)^{2}\right)}
+  .
+Immerman–Szelepcsényi theorem

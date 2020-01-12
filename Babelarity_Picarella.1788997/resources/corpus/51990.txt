@@ -1,0 +1,14 @@
+Plesk is a commercial web hosting platform. Originally released under the U.S. company Plesk Inc. and designed in Novosibirsk, Russia, Plesk was acquired by SWSoft in July 2003. SWSoft renamed themselves under the Parallels name (a brand which had been acquired by SWSoft) in 2008. In 2015 Parallels rebranded the service provider business unit to Odin. In December 2015 the Odin brand was acquired by Ingram Micro rendering Plesk a separate business entity.
+Plesk's control panel allows a server administrator to set up new websites, reseller accounts, e-mail accounts, and DNS entries through a web-based interface. The administrator can create client and site templates, which predetermine resource-allocation parameters for the domains and/or clients.
+The latest version of Plesk for Linux/Unix supports multiple POSIX platforms, including Debian, Ubuntu, CentOS, Red Hat Linux and CloudLinux. Previous versions also supported openSUSE, Fedora and FreeBSD. Plesk for Windows supports Windows Server 2008 and Windows Server 2012 operating systems.
+Plesk installs custom versions of or manages versions of MySQL and PostgreSQL databases (Microsoft SQL Server and Microsoft SQL Server Desktop Engine under Windows), Apache Tomcat Java platform server, and ColdFusion server.
+The Plesk Platform includes extensions for Authentication, Backup, Developers, Domain and DNS.
+Plesk has several software packs that are not part of the main Plesk code base. These add-ons are designed to fully interact with Plesk, and they include:
+WordPress Toolkit
+Developer Pack
+Security Core Complete by Atomicorp
+Control Suite for Windows
+Kaspersky Antivirus
+Plesk offers users the possibility to easily install web applications using the (APS) Application Packaging Standard. APS packages are updated by the packaging vendor when a security update is made available.
+Web hosting control panel
+Comparison of web hosting control panels

@@ -1,0 +1,12 @@
+Acetyl chloride, CH3COCl is an acid chloride derived from acetic acid. It belongs to the class of organic compounds called acyl halides. It is a colorless, corrosive, volatile liquid.
+Acetyl chloride was first prepared in 1852 by French chemist Charles Gerhardt by reacting potassium acetate with phosphoryl chloride (POCl3).
+Acetyl chloride mixed with acetic acid is produced by the reaction of acetic anhydride with hydrogen chloride:
+(CH3CO)2O + HCl → CH3COCl + CH3CO2H
+Acetyl chloride is produced in the laboratory by the reaction of acetic acid with chlorodehydrating agents such as PCl3, PCl5, SO2Cl2, or SOCl2. However, these methods usually gives acetyl chloride contaminated by phosphorus or sulfur impurities, which may interfere with the organic reactions. a route avoiding these impurities of phosphorus and sulphur is that of phosgene and acetic acid, COCl2 + CH3COOH = CH3COCl + HCl + CO2. HCl impurities can be removed by distilling the crude product from dimethylaniline or by degassing the mixture by a stream of argon.
+When heated, a mixture of dichloroacetic acid and acetic acid gives acetyl chloride. It can also be synthesized from the catalytic carbonylation of methyl chloride.
+Acetyl chloride is not expected to exist in nature, because contact with water would hydrolyze it into acetic acid and hydrogen chloride. In fact, if handled in open air it releases white "smoke" resulting from hydrolysis due to the moisture in the air. The smoke is actually small droplets of hydrochloric acid and acetic acid formed by hydrolysis.
+Acetyl chloride is used for acetylation reactions, i.e., the introduction of an acetyl group. Acetyl is an acyl group having the formula-C(=O)-CH3. For further information on the types of chemical reactions compounds such as acetyl chloride can undergo, see acyl halide. Two major classes of acetylations include esterification and the Friedel-Crafts reaction.
+Acetyl chloride is a reagent for the preparation of esters and amides of acetic acid, used in the derivatization of alcohols and amines. One class of acetylation reactions are esterification.
+CH3COCl + HO-CH2-CH3 → CH3-COO-CH2-CH3 + H-Cl
+Frequently such acylations are carried out in the presence of a base such as pyridine, triethylamine, or DMAP, which act as catalysts to help promote the reaction and as bases neutralize the resulting HCl. Such reactions will often proceed via ketene.
+A second major class of acetylation reactions are the Friedel-Crafts reactions.

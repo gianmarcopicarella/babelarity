@@ -1,0 +1,10 @@
+Amyloplasts are non-pigmented organelles found in some plant cells. They are responsible for the synthesis and storage of starch granules, through the polymerization of glucose. Amyloplasts also convert this starch back into sugar when the plant needs energy. Large numbers of amyloplasts can be found in fruit and in underground storage tissues of some plants, such as in potato tubers.
+Amyloplasts are plastids, specifically leucoplasts. Plastids are a specialized class of cellular organelles that carry their own genome and are believed to be descendants of cyanobacteria (blue-green algae) which formed a symbiotic relationship with the eukaryotic cell.
+Starch synthesis and storage also takes place in chloroplasts, a type of pigmented plastid involved in photosynthesis. Amyloplasts and chloroplasts are closely related, and amyloplasts can turn into chloroplasts; this is for instance observed when potato tubers are exposed to light and turn green.
+In the root cap (a tissue at the tip of the root) there is a special subset of cells, called statocytes. Inside the statocyte cells, some specialized amyloplasts are involved in the perception of gravity by the plant (gravitropism). These specialized amyloplasts—called statoliths—are denser than the cytoplasm and can sediment according to the gravity vector. The statoliths are enmeshed in a web of actin and it is thought that their sedimentation transmits the gravitropic signal by activating mechanosensitive channels. The gravitropic signal then leads to the reorientation of auxin efflux carriers and subsequent redistribution of auxin streams in the root cap and root as a whole. The changed relations in concentration of auxin leads to differential growth of the root tissues. Taken together, the root is then turning to follow the gravity stimuli. Statoliths are also found in the endodermic layer of the inflorescence stem. The redistribution of auxin causes the shoot to turn in a direction opposite that of the gravity stimuli.
+Chloroplast and etioplast
+Chromoplast
+Leucoplast
+Amyloplast
+Elaioplast
+Proteinoplast

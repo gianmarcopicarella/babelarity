@@ -1,0 +1,72 @@
+The Kawasaki Ki-48, 九九式双発軽爆撃機 'Sokei', Army Type 99 Twin-engined Light Bomber, was a Japanese twin-engine light bomber that was used during World War II. Its Allied reporting name was "Lily".
+The development of the aircraft began at the end of 1937 at the request of the Japanese military high command. Kawasaki received an order to develop a "high-speed bomber" capable of 480 km/h (300 mph) at 3,000 m (9,840 ft), and able to reach 5,000 m (16,400 ft) within 10 minutes. It was inspired by the Soviet Tupolev SB.
+Kawasaki had the advantage of the experience of designing the Ki-45 twin-engined heavy fighter. Most technical problems were solved; however the aircraft had a number of shortcomings. It was designed to carry only an 800 kg (1,760 lb) bombload (which is actually more than contemporary light bombers such as the Bristol Blenheim or Tupolev Tu-2, and only slightly less than light bombers designed several years later, after the start of hostilities, such as the A-20 Havoc, and the strikingly similar-appearing Martin Maryland and Baltimore), and was equipped only with three machine guns (again, an equivalent armament to contemporary light bombers), which made it very vulnerable to enemy fighters later in the war, once they became fast enough to actually catch it, although speed was intended to be its primary defense, much like the later, unarmed, De Havilland Mosquito. The flight characteristics of the Ki-48 also left much to be desired. Newer generations of Allied fighters caught up in speed, and eventually, the Ki-48 was too slow to outrun them, while superior modern Japanese aircraft that could meet the enemy on equal terms, such as the Yokosuka P1Y and the Mitsubishi Ki-67, could only be produced in small numbers compared to the vast output of the Allied aircraft production lines. Thanks to the fact that the first versions were lightly armoured, the Ki-48 was quite aerobatic, and could loop and turn with an experienced pilot at the controls. The aircraft was often used as a dive bomber in Burma. The aircraft was not necessarily a failure, and was considered an acceptable light bomber for the first few years of the war by many historians; much like the Mitsubishi A6M fighter, it was a satisfactory machine for the period it was designed and built, but forced to soldier on against much newer and faster competition, due to the inadequate number of more modern aircraft the Japanese were able to produce due to lack of raw materials and industrial capacity.
+The aircraft served in China from late 1940, replacing the Kawasaki Ki-32, and were widely used in the Philippines, Malaya, Burma, New Guinea, the Solomon Islands and the Dutch East Indies, where the Ki-48 Ia and Ib models, slow and badly armed, were supplemented by the marginally improved Ki-48 IIa and IIc, which were maintained in service along with the older types until the end of the war.
+All models continued in service until the Battle of Okinawa during April 1945, when many were converted into kamikaze aircraft (Ki-48-II KAI Tai-Atari) armed with an 800 kg (1,760 lb) bomb.
+The fact that all models continued in service until 1945 reflects that many Ki-48s survived more often than not. This was due to the use of small ship formations (3–10 aircraft) escorted by large numbers of fighters (25–75), typically Nakajima Ki-43s. Although not as fast as more modern fighters, after 1942, the aircraft was still fast enough to enable it to often avoid interception unless it ran into a standing patrol of fighters. The 90th Air Regiment of the 5th Air Army (based in Hopei, north China) equipped with Ki-48s was the only Japanese air unit in China proper to engage the Soviets, although others were advanced in preparation. It flew 20 sorties against the Soviets during 14 August 1945.
+The British Pacific Fleet departed from Ceylon on 16 January 1945 en route to Australia, and struck Japanese-held oil wells and refineries at Palembang, Sumatra on 24–29 January 1945 in Operation Meridian.
+On 29 January, seven Kawasaki Ki-48 of the Army's Shichisi Mitate Tokubetsu Kōgeki Tai counter-attacked the Allied fleet at low level as the British aircraft were returning from Palembang. The British radar picture was confused by the presence of over 100 friendly aircraft and the first two or three Supermarine Seafire CAP interceptions did not occur until just before the Ki-48 formation entered the air defence zone. The last pair of Seafires chased the five remaining Ki-48s inside the screen, and with the support of returning Vought F4U Corsairs and Grumman F6F Hellcats which had just been scrambled, shot down all of them, amongst intense AA fire. One Seafire was slightly damaged and one Hellcat was written off by friendly fire, but the only ship to be damaged was the carrier HMS Illustrious, hit by heavy AA shells.
+Such success, minor by Pacific fighting standards at the time, gave the British Pacific Fleet useful expertise and confidence in its ability to deal with kamikaze attacks.
+Ki-48
+Four prototypes with Ha-25 engines of 708 kW (950 hp), and five pre-production aircraft, with modified tail surfaces.
+Ki-48-Ia
+Army Type 99 Twin Engine Light Bomber Model 1A; as first series model. Produced from 1940, 557 built.
+Ki-48-Ib,
+Similar to the Ia, with changes in defensive machine gun mountings.
+Total production of Ki-48 Ia and Ib: 557 aircraft
+Ki-48-II
+Three prototypes built.
+Ki-48-IIa
+Fitted with more powerful engines, a longer fuselage, additional armour, and larger bomb load. Produced from April 1942.
+Ki-48-IIb
+Dive bomber version, with reinforced fuselage and dive brakes.
+Ki-48-IIc
+Improved defensive weapons. Produced from 1943.
+Total production of Ki-48 IIa, IIb and IIc: 1,408 aircraft
+Ki-48-II KAI Kamikaze (Type Tai-Atari)
+Conversion with 800 kg (1,760 lb) of explosives and two or three crew for kamikaze missions
+Ki-66
+Nose turret removed and replaced with solid nose fitted with 2x fixed forward firing 12.7mm machine guns. 8 prototypes built of varying configurations. None selected for mass production due to minimal increase in speed. Dive brakes used on Ki-48 IIb.
+Ki-81
+Proposed version of the Ki-48. Not built.
+Ki-174
+Single-seat special attack version. Not built.
+Total production of all versions: 1,977 aircraft
+The China Aviation Museum in Datangshan has a Kawasaki Ki-48 in Chinese Liberation Army Air Force colours. Some of the parts of the airplane are reproduced. The Indonesian Air Force Museum is also claimed to have a Ki-48 in its collection.
+ Japan
+ China
+Chinese Nationalist Air Force
+6th Group
+5th Squadron operated captured aircraft.
+ People's Republic of China
+Chinese Communist Air Force operated captured aircraft. The last Ki-48 retired from training role in 1952.
+ Indonesia
+Indonesian People's Security Force operated one aircraft against Dutch colonial rule. This aircraft was put together from bits and pieces of a number of aircraft to become the first twin-engined bomber in the Indonesian People's Security Force.
+Data from Encyclopedia of Military Aircraft; Japanese Aircraft of the Pacific War; Kawasaki Ki.48-I/II Sokei in Japanese Army Air Force-CNAF & IPSF Service, Aircam No.32
+General characteristics
+Crew: Four
+Length: 12.75 m (41 ft 9 in)
+Wingspan: 17.45 m (57 ft 3 in)
+Height: 3.8 m (12 ft 5 in)
+Wing area: 40 m² (430.555 ft²)
+Empty weight: 4,550 kg (10,031 lb)
+Loaded weight: 6,500 kg (14,350 lb)
+Max. takeoff weight: 6,750 kg (14,881 lb)
+Powerplant: 2 × Nakajima Ha.115 radial engines, 843 kW (1,130 hp) each
+Performance
+Maximum speed: 505 km/h (273 kn, 314 mph) at 5,600 m (18,375 ft)
+Range: 2,400 km (1,296 nmi, 1,491 mi)
+Service ceiling: 10,100 m (33,135 ft)
+Armament
+3 × 7.7 mm (0.303 in) Type 89 machine guns, in nose, dorsal and ventral positions
+800 kg (1,764 lb) of bombs
+Aircraft of comparable role, configuration and era
+Bristol Blenheim
+Dornier Do 17
+Douglas A-20 Havoc
+Lockheed Hudson
+Related lists
+List of aircraft of World War II
+List of military aircraft of Japan
+List of aircraft of Japan, World War II
+List of bomber aircraft

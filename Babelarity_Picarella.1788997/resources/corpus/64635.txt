@@ -1,0 +1,1450 @@
+In algebra, the discriminant of a polynomial is a function of its coefficients, typically denoted by a capital 'D' or the capital Greek letter Delta (Δ). It gives information about the nature of its roots. The discriminant is zero if and only if the polynomial has a multiple root. For example, the discriminant of the quadratic polynomial
+        a
+          x
+            2
+        +
+        b
+        x
+        +
+        c
+    {\displaystyle ax^{2}+bx+c\,}
+is
+        Δ
+        =
+          b
+            2
+        −
+        4
+        a
+        c
+        .
+    {\displaystyle \Delta =\,b^{2}-4ac.}
+Here for real a, b and c, if Δ > 0, the polynomial has two real roots, if Δ = 0, the polynomial has one real double root, and if Δ < 0, the two roots of the polynomial are complex conjugates.
+The discriminant of the cubic polynomial
+        a
+          x
+            3
+        +
+        b
+          x
+            2
+        +
+        c
+        x
+        +
+        d
+    {\displaystyle ax^{3}+bx^{2}+cx+d\,}
+is
+        Δ
+        =
+          b
+            2
+          c
+            2
+        −
+        4
+        a
+          c
+            3
+        −
+        4
+          b
+            3
+        d
+        −
+        27
+          a
+            2
+          d
+            2
+        +
+        18
+        a
+        b
+        c
+        d
+        .
+    {\displaystyle \Delta =\,b^{2}c^{2}-4ac^{3}-4b^{3}d-27a^{2}d^{2}+18abcd.}
+For higher degrees, the discriminant is always a polynomial function of the coefficients. It becomes significantly longer for the higher degrees. The discriminant of a general quartic has 16 terms, that of a quintic has 59 terms, that of a sextic has 246 terms, and the number of terms increases exponentially with the degree. This is OEIS sequence A007878.
+If the lead coefficient a equals 1, the discriminant equals the product of the squared differences of all pairs of roots of the polynomial. Thus a polynomial has a multiple root (i.e. a root with multiplicity greater than one) in the complex numbers if and only if its discriminant is zero.
+The concept also applies if the polynomial has coefficients in a field which is not contained in the complex numbers. In this case, the discriminant vanishes if and only if the polynomial has a multiple root in any algebraically closed field containing the coefficients.
+As the discriminant is a polynomial function of the coefficients, it is defined as long as the coefficients belong to an integral domain R and, in this case, the discriminant is in R. In particular, the discriminant of a polynomial with integer coefficients is always an integer. This property is widely used in number theory.
+The term "discriminant" was coined in 1851 by the British mathematician James Joseph Sylvester.
+In terms of the roots, the discriminant is given by
+        Δ
+        =
+          a
+            n
+            2
+            n
+            −
+            2
+          ∏
+            i
+            <
+            j
+          (
+            r
+              i
+          −
+            r
+              j
+            )
+              2
+        =
+        (
+        −
+        1
+          )
+            n
+            (
+            n
+            −
+            1
+            )
+              /
+            2
+          a
+            n
+            2
+            n
+            −
+            2
+          ∏
+            i
+            ≠
+            j
+          (
+            r
+              i
+          −
+            r
+              j
+          )
+    {\displaystyle \Delta =a_{n}^{2n-2}\prod _{i<j}{(r_{i}-r_{j})^{2}}=(-1)^{n(n-1)/2}a_{n}^{2n-2}\prod _{i\neq j}{(r_{i}-r_{j})}}
+where 
+          a
+            n
+    {\displaystyle a_{n}}
+   is the leading coefficient and 
+          r
+            1
+        ,
+        …
+        ,
+          r
+            n
+    {\displaystyle r_{1},\ldots ,r_{n}}
+   are the roots (counting multiplicity) of the polynomial in some splitting field. It is the square of the Vandermonde polynomial times 
+          a
+            n
+            2
+            n
+            −
+            2
+    {\displaystyle a_{n}^{2n-2}}
+  .
+As the discriminant is a symmetric function in the roots, it can also be expressed in terms of the coefficients of the polynomial, since the coefficients are the elementary symmetric polynomials in the roots; such a formula is given below.
+Expressing the discriminant in terms of the roots makes its key property clear, namely that it vanishes if and only if there is a repeated root, but does not allow it to be calculated without factoring a polynomial, after which the information it provides is redundant (if one has the roots, one can tell if there are any duplicates). Hence the formula in terms of the coefficients allows the nature of the roots to be determined without factoring the polynomial.
+The discriminant of a linear polynomial (degree 1) is rarely considered. If needed, it is commonly defined to be equal to 1 (this is compatible with the usual conventions for the empty product and the determinant of the empty matrix). There is no common convention for the discriminant of a constant polynomial (degree 0).
+The quadratic polynomial
+        a
+          x
+            2
+        +
+        b
+        x
+        +
+        c
+    {\displaystyle ax^{2}+bx+c\,}
+has discriminant
+        Δ
+        =
+          b
+            2
+        −
+        4
+        a
+        c
+        .
+    {\displaystyle \Delta =b^{2}-4ac.\,}
+The cubic polynomial
+        a
+          x
+            3
+        +
+        b
+          x
+            2
+        +
+        c
+        x
+        +
+        d
+    {\displaystyle ax^{3}+bx^{2}+cx+d\,}
+has discriminant
+        Δ
+        =
+          b
+            2
+          c
+            2
+        −
+        4
+        a
+          c
+            3
+        −
+        4
+          b
+            3
+        d
+        −
+        27
+          a
+            2
+          d
+            2
+        +
+        18
+        a
+        b
+        c
+        d
+        .
+    {\displaystyle \Delta =b^{2}c^{2}-4ac^{3}-4b^{3}d-27a^{2}d^{2}+18abcd.\,}
+The quartic polynomial
+        a
+          x
+            4
+        +
+        b
+          x
+            3
+        +
+        c
+          x
+            2
+        +
+        d
+        x
+        +
+        e
+    {\displaystyle ax^{4}+bx^{3}+cx^{2}+dx+e\,}
+has discriminant
+                Δ
+                =
+                256
+                  a
+                    3
+                  e
+                    3
+                −
+                192
+                  a
+                    2
+                b
+                d
+                  e
+                    2
+                −
+                128
+                  a
+                    2
+                  c
+                    2
+                  e
+                    2
+                +
+                144
+                  a
+                    2
+                c
+                  d
+                    2
+                e
+                −
+                27
+                  a
+                    2
+                  d
+                    4
+                +
+                144
+                a
+                  b
+                    2
+                c
+                  e
+                    2
+                −
+                6
+                a
+                  b
+                    2
+                  d
+                    2
+                e
+                −
+                80
+                a
+                b
+                  c
+                    2
+                d
+                e
+                +
+                18
+                a
+                b
+                c
+                  d
+                    3
+                +
+                16
+                a
+                  c
+                    4
+                e
+                −
+                4
+                a
+                  c
+                    3
+                  d
+                    2
+                −
+                27
+                  b
+                    4
+                  e
+                    2
+                +
+                18
+                  b
+                    3
+                c
+                d
+                e
+                −
+                4
+                  b
+                    3
+                  d
+                    3
+                −
+                4
+                  b
+                    2
+                  c
+                    3
+                e
+                +
+                  b
+                    2
+                  c
+                    2
+                  d
+                    2
+                .
+    {\displaystyle {\begin{aligned}\Delta ={}&256a^{3}e^{3}-192a^{2}bde^{2}-128a^{2}c^{2}e^{2}+144a^{2}cd^{2}e\\&{}-27a^{2}d^{4}+144ab^{2}ce^{2}-6ab^{2}d^{2}e-80abc^{2}de\\&{}+18abcd^{3}+16ac^{4}e-4ac^{3}d^{2}-27b^{4}e^{2}+18b^{3}cde\\&{}-4b^{3}d^{3}-4b^{2}c^{3}e+b^{2}c^{2}d^{2}.\end{aligned}}}
+These are homogeneous polynomials in the coefficients, respectively of degree 2, 4 and 6. They are also homogeneous in terms of the roots, of respective degrees 2, 6 and 12.
+Simpler polynomials have simpler expressions for their discriminants. For example, the monic quadratic polynomial x2 + bx + c has discriminant Δ = b2 − 4c. The monic cubic polynomial without quadratic term x3 + px + q has discriminant Δ = −4p3 − 27q2. In terms of the roots, these discriminants are homogeneous polynomials of respective degrees 2 and 6.
+The discriminant is a homogeneous polynomial in the coefficients; it is also a homogeneous polynomial in the roots.
+In the coefficients, the discriminant is homogeneous of degree 2n−2; this can be seen two ways. In terms of the roots-and-leading-term formula, multiplying all the coefficients by λ does not change the roots, but multiplies the leading term by λ. In terms of the formula as a determinant of a (2n−1) ×(2n−1) matrix divided by an, the determinant of the matrix is homogeneous of degree 2n−1 in the entries, and dividing by an makes the degree 2n−2; explicitly, multiplying the coefficients by λ multiplies all entries of the matrix by λ, hence multiplies the determinant by λ2n−1.
+For a monic polynomial, the discriminant is a polynomial in the roots alone (as the an term is one), and is of degree n(n−1) in the roots, as there are 
+                (
+                n
+                2
+                )
+          =
+                n
+                (
+                n
+                −
+                1
+                )
+              2
+    {\displaystyle \textstyle {\binom {n}{2}}={\frac {n(n-1)}{2}}}
+   terms in the product, each squared.
+Let us consider the polynomial
+        P
+        =
+          a
+            0
+          x
+            n
+        +
+          a
+            1
+          x
+            n
+            −
+            1
+        +
+        ⋯
+        +
+          a
+            n
+        .
+    {\displaystyle P=a_{0}x^{n}+a_{1}x_{n-1}+\cdots +a_{n}.}
+It follows from what precedes that its discriminant is homogeneous of degree 2n−2 in the 
+          a
+            i
+    {\displaystyle a_{i}}
+   and quasi-homogeneous of weight n(n−1) if each 
+          a
+            i
+    {\displaystyle a_{i}}
+   is given the weight i. In other words, every monomial 
+          a
+            0
+              i
+                0
+        ⋯
+        ,
+          a
+            n
+              i
+                n
+    {\displaystyle a_{0}^{i_{0}}\cdots ,a_{n}^{i_{n}}}
+   appearing in the discriminant satisfies the two equations
+          i
+            0
+        +
+          i
+            1
+        +
+        ⋯
+        +
+          i
+            n
+        =
+        2
+        n
+        −
+        2
+    {\displaystyle i_{0}+i_{1}+\cdots +i_{n}=2n-2}
+and
+        0
+          i
+            0
+        +
+        1
+          i
+            1
+        +
+        ⋯
+        +
+        n
+          i
+            n
+        =
+        n
+        (
+        n
+        −
+        1
+        )
+    {\displaystyle 0\,i_{0}+1\,i_{1}+\cdots +n\,i_{n}=n(n-1)}
+These thus correspond to the partitions of n(n−1) into at 2n−2 (non negative) parts of size at most n
+This restricts the possible terms in the discriminant. For the quadratic polynomial 
+        a
+          x
+            2
+        +
+        b
+        x
+        +
+        c
+    {\displaystyle ax^{2}+bx+c}
+   there are only two possibilities for 
+        [
+          i
+            0
+        ,
+          i
+            1
+        ,
+          i
+            2
+        ]
+        ,
+    {\displaystyle [i_{0},i_{1},i_{2}],}
+   either [1,0,1] or [0,2,0], given the two monomials ac and b2. For the cubic polynomial 
+        a
+          x
+            3
+        +
+        b
+          x
+            2
+        +
+        c
+        x
+        +
+        d
+    {\displaystyle ax^{3}+bx^{2}+cx+d}
+  , these are the partitions of 6 into 4 parts of size at most 3:
+                  a
+                    2
+                  d
+                    2
+                =
+                a
+                a
+                d
+                d
+                :
+                0
+                +
+                0
+                +
+                3
+                +
+                3
+                a
+                b
+                c
+                d
+                :
+                0
+                +
+                1
+                +
+                2
+                +
+                3
+                a
+                  c
+                    3
+                =
+                a
+                c
+                c
+                c
+                :
+                0
+                +
+                2
+                +
+                2
+                +
+                2
+                  b
+                    3
+                d
+                =
+                b
+                b
+                b
+                d
+                :
+                1
+                +
+                1
+                +
+                1
+                +
+                3
+                  b
+                    2
+                  c
+                    2
+                =
+                b
+                b
+                c
+                c
+                :
+                1
+                +
+                1
+                +
+                2
+                +
+                2.
+    {\displaystyle {\begin{aligned}a^{2}d^{2}=aadd&:0+0+3+3&&&abcd&:0+1+2+3&&&ac^{3}=accc&:0+2+2+2\\b^{3}d=bbbd&:1+1+1+3&&&b^{2}c^{2}=bbcc&:1+1+2+2.\end{aligned}}}
+All these five monomials occur effectively in the discriminant.
+While this approach gives the possible terms, it does not determine the coefficients. Moreover, in general not all possible terms will occur in the discriminant. The first example is for the quartic polynomial 
+        a
+          x
+            4
+        +
+        b
+          x
+            3
+        +
+        c
+          x
+            2
+        +
+        d
+        x
+        +
+        e
+    {\displaystyle ax^{4}+bx^{3}+cx^{2}+dx+e}
+  , in which case 
+        (
+          i
+            0
+        ,
+        …
+        ,
+          i
+            4
+        )
+        =
+        (
+        0
+        ,
+        1
+        ,
+        4
+        ,
+        1
+        ,
+        0
+        )
+    {\displaystyle (i_{0},\ldots ,i_{4})=(0,1,4,1,0)}
+   satisfies 
+        0
+        +
+        1
+        +
+        4
+        +
+        1
+        +
+        0
+        =
+        6
+    {\displaystyle 0+1+4+1+0=6}
+   and 
+        1
+        ⋅
+        1
+        +
+        2
+        ⋅
+        4
+        +
+        3
+        ⋅
+        1
+        =
+        12
+    {\displaystyle 1\cdot 1+2\cdot 4+3\cdot 1=12}
+  , even though the corresponding discriminant does not involve the monomial 
+        b
+          c
+            4
+        d
+    {\displaystyle bc^{4}d}
+  .
+The quadratic polynomial 
+        p
+        (
+        x
+        )
+        =
+        a
+          x
+            2
+        +
+        b
+        x
+        +
+        c
+    {\displaystyle \ p(x)=ax^{2}+bx+c}
+   has discriminant
+        Δ
+        =
+          b
+            2
+        −
+        4
+        a
+        c
+        ,
+    {\displaystyle \Delta =b^{2}-4ac,\,}
+which is the quantity under the square root sign in the quadratic formula. For real numbers a, b, c, one has:
+When Δ > 0, P(x) has two distinct real roots
+          x
+            1
+            ,
+            2
+        =
+              −
+              b
+              ±
+                  Δ
+              2
+              a
+        =
+              −
+              b
+              ±
+                    b
+                      2
+                  −
+                  4
+                  a
+                  c
+              2
+              a
+    {\displaystyle x_{1,2}={\frac {-b\pm {\sqrt {\Delta }}}{2a}}={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}
+and its graph crosses the x-axis twice.
+When Δ = 0, P(x) has two coincident real roots
+          x
+            1
+        =
+          x
+            2
+        =
+        −
+            b
+              2
+              a
+    {\displaystyle x_{1}=x_{2}=-{\frac {b}{2a}}}
+and its graph is tangent to the x-axis.
+When Δ < 0, P(x) has no real roots, and its graph lies strictly above or below the x-axis. The polynomial has two distinct complex roots
+          z
+            1
+            ,
+            2
+        =
+              −
+              b
+              ±
+              i
+                  −
+                  Δ
+              2
+              a
+        =
+              −
+              b
+              ±
+              i
+                  4
+                  a
+                  c
+                  −
+                    b
+                      2
+              2
+              a
+        .
+    {\displaystyle z_{1,2}={\frac {-b\pm i{\sqrt {-\Delta }}}{2a}}={\frac {-b\pm i{\sqrt {4ac-b^{2}}}}{2a}}.}
+An alternative way to understand the discriminant of a quadratic is to use the characterization as "zero if and only if the polynomial has a repeated root". In that case the polynomial is 
+        (
+        x
+        −
+        r
+          )
+            2
+        =
+          x
+            2
+        −
+        2
+        r
+        x
+        +
+          r
+            2
+        .
+    {\displaystyle (x-r)^{2}=x^{2}-2rx+r^{2}.}
+   The coefficients then satisfy 
+        (
+        −
+        2
+        r
+          )
+            2
+        =
+        4
+        (
+          r
+            2
+        )
+        ,
+    {\displaystyle (-2r)^{2}=4(r^{2}),}
+   so 
+          b
+            2
+        =
+        4
+        c
+        ,
+    {\displaystyle b^{2}=4c,}
+   and a monic quadratic has a repeated root if and only if this is the case, in which case the root is 
+        r
+        =
+        −
+        b
+          /
+        2.
+    {\displaystyle r=-b/2.}
+   Putting both terms on one side and including a leading coefficient yields 
+          b
+            2
+        −
+        4
+        a
+        c
+        .
+    {\displaystyle b^{2}-4ac.}
+To find the formula for the discriminant of a polynomial in terms of its coefficients, it is easiest to introduce the resultant. Just as the discriminant of a single polynomial is the product of the square of the differences between distinct roots, the resultant of two polynomials is the product of the differences between their roots, and just as the discriminant vanishes if and only if the polynomial has a repeated root, the resultant vanishes if and only if the two polynomials share a root.
+Since a polynomial 
+        p
+        (
+        x
+        )
+    {\displaystyle p(x)}
+   has a repeated root if and only if it shares a root with its derivative 
+          p
+          ′
+        (
+        x
+        )
+        ,
+    {\displaystyle p'(x),}
+   the discriminant 
+        D
+        (
+        p
+        )
+    {\displaystyle D(p)}
+   and the resultant 
+        R
+        (
+        p
+        ,
+          p
+          ′
+        )
+    {\displaystyle R(p,p')}
+   both have the property that they vanish if and only if p has a repeated root, and they have almost the same degree (the degree of the resultant is one greater than the degree of the discriminant) and thus are equal up to a factor of degree one, which is, up to the sign, the leading coefficient of p.
+The benefit of the resultant is that it can be computed as a determinant, namely as the determinant of the Sylvester matrix, a (2n − 1)×(2n − 1) matrix, whose first n – 1 rows contain the coefficients of p and the n last ones the coefficients of its derivative.
+The resultant 
+        R
+        (
+        p
+        ,
+          p
+          ′
+        )
+    {\displaystyle R(p,p')}
+   of the general polynomial
+        p
+        (
+        x
+        )
+        =
+          a
+            n
+          x
+            n
+        +
+          a
+            n
+            −
+            1
+          x
+            n
+            −
+            1
+        +
+          a
+            n
+            −
+            2
+          x
+            n
+            −
+            2
+        +
+        ⋯
+        +
+          a
+            1
+        x
+        +
+          a
+            0
+    {\displaystyle p(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}+\cdots +a_{1}x+a_{0}}
+is equal to the determinant of the (2n − 1)×(2n − 1) Sylvester matrix:
+        R
+        (
+        p
+        ,
+          p
+          ′
+        )
+        =
+          |
+                    a
+                      n
+                    a
+                      n
+                      −
+                      1
+                    a
+                      n
+                      −
+                      2
+                  …
+                    a
+                      1
+                    a
+                      0
+                  0
+                  …
+                  …
+                  0
+                  0
+                    a
+                      n
+                    a
+                      n
+                      −
+                      1
+                    a
+                      n
+                      −
+                      2
+                  …
+                    a
+                      1
+                    a
+                      0
+                  0
+                  …
+                  0
+                  ⋮
+                  ⋮
+                  0
+                  …
+                  0
+                    a
+                      n
+                    a
+                      n
+                      −
+                      1
+                    a
+                      n
+                      −
+                      2
+                  …
+                    a
+                      1
+                    a
+                      0
+                  n
+                    a
+                      n
+                  (
+                  n
+                  −
+                  1
+                  )
+                    a
+                      n
+                      −
+                      1
+                  (
+                  n
+                  −
+                  2
+                  )
+                    a
+                      n
+                      −
+                      2
+                  …
+                    a
+                      1
+                  0
+                  …
+                  …
+                  0
+                  0
+                  n
+                    a
+                      n
+                  (
+                  n
+                  −
+                  1
+                  )
+                    a
+                      n
+                      −
+                      1
+                  (
+                  n
+                  −
+                  2
+                  )
+                    a
+                      n
+                      −
+                      2
+                  …
+                    a
+                      1
+                  0
+                  …
+                  0
+                  ⋮
+                  ⋮
+                  0
+                  0
+                  …
+                  0
+                  n
+                    a
+                      n
+                  (
+                  n
+                  −
+                  1
+                  )
+                    a
+                      n
+                      −
+                      1
+                  (
+                  n
+                  −
+                  2
+                  )
+                    a
+                      n
+                      −
+                      2
+                  …
+                    a
+                      1
+          |
+        .
+    {\displaystyle R(p,p')=\left|{\begin{matrix}&a_{n}&a_{n-1}&a_{n-2}&\ldots &a_{1}&a_{0}&0\ldots &\ldots &0\\&0&a_{n}&a_{n-1}&a_{n-2}&\ldots &a_{1}&a_{0}&0\ldots &0\\&\vdots \ &&&&&&&&\vdots \\&0&\ldots \ &0&a_{n}&a_{n-1}&a_{n-2}&\ldots &a_{1}&a_{0}\\&na_{n}&(n-1)a_{n-1}&(n-2)a_{n-2}&\ldots \ &a_{1}&0&\ldots &\ldots &0\\&0&na_{n}&(n-1)a_{n-1}&(n-2)a_{n-2}&\ldots \ &a_{1}&0&\ldots &0\\&\vdots \ &&&&&&&&\vdots \\&0&0&\ldots &0&na_{n}&(n-1)a_{n-1}&(n-2)a_{n-2}&\ldots \ &a_{1}\\\end{matrix}}\right|.}
+The discriminant 
+        D
+        (
+        p
+        )
+    {\displaystyle D(p)}
+   of 
+        p
+        (
+        x
+        )
+    {\displaystyle p(x)}
+   is now given by the formula
+        D
+        (
+        p
+        )
+        =
+        (
+        −
+        1
+          )
+                1
+                2
+            n
+            (
+            n
+            −
+            1
+            )
+            1
+              a
+                n
+        R
+        (
+        p
+        ,
+          p
+          ′
+        )
+        .
+    {\displaystyle D(p)=(-1)^{{\frac {1}{2}}n(n-1)}{\frac {1}{a_{n}}}R(p,p').\,}
+For example, in the case n = 4, the above determinant is
+            |
+                    a
+                      4
+                    a
+                      3
+                    a
+                      2
+                    a
+                      1
+                    a
+                      0
+                  0
+                  0
+                  0
+                    a
+                      4
+                    a
+                      3
+                    a
+                      2
+                    a
+                      1
+                    a
+                      0
+                  0
+                  0
+                  0
+                    a
+                      4
+                    a
+                      3
+                    a
+                      2
+                    a
+                      1
+                    a
+                      0
+                  4
+                    a
+                      4
+                  3
+                    a
+                      3
+                  2
+                    a
+                      2
+                  1
+                    a
+                      1
+                  0
+                  0
+                  0
+                  0
+                  4
+                    a
+                      4
+                  3
+                    a
+                      3
+                  2
+                    a
+                      2
+                  1
+                    a
+                      1
+                  0
+                  0
+                  0
+                  0
+                  4
+                    a
+                      4
+                  3
+                    a
+                      3
+                  2
+                    a
+                      2
+                  1
+                    a
+                      1
+                  0
+                  0
+                  0
+                  0
+                  4
+                    a
+                      4
+                  3
+                    a
+                      3
+                  2
+                    a
+                      2
+                  1
+                    a
+                      1
+            |
+        .
+    {\displaystyle {\begin{vmatrix}&a_{4}&a_{3}&a_{2}&a_{1}&a_{0}&0&0\\&0&a_{4}&a_{3}&a_{2}&a_{1}&a_{0}&0\\&0&0&a_{4}&a_{3}&a_{2}&a_{1}&a_{0}\\&4a_{4}&3a_{3}&2a_{2}&1a_{1}&0&0&0\\&0&4a_{4}&3a_{3}&2a_{2}&1a_{1}&0&0\\&0&0&4a_{4}&3a_{3}&2a_{2}&1a_{1}&0\\&0&0&0&4a_{4}&3a_{3}&2a_{2}&1a_{1}\end{vmatrix}}.}
+The discriminant of the degree 4 polynomial is then obtained from this determinant upon dividing by 
+          a
+            4
+    {\displaystyle a_{4}}
+  .
+In terms of the roots, the discriminant is equal to
+          a
+            n
+            2
+            n
+            −
+            2
+          ∏
+            i
+            <
+            j
+          (
+            r
+              i
+          −
+            r
+              j
+            )
+              2
+    {\displaystyle a_{n}^{2n-2}\prod _{i<j}{(r_{i}-r_{j})^{2}}}
+where r1, ..., rn are the complex roots (counting multiplicity) of the polynomial:
+                p
+                (
+                x
+                )
+                =
+                  a
+                    n
+                  x
+                    n
+                +
+                  a
+                    n
+                    −
+                    1
+                  x
+                    n
+                    −
+                    1
+                +
+                ⋯
+                +
+                  a
+                    1
+                x
+                +
+                  a
+                    0
+                =
+                  a
+                    n
+                (
+                x
+                −
+                  r
+                    1
+                )
+                (
+                x
+                −
+                  r
+                    2
+                )
+                ⋯
+                (
+                x
+                −
+                  r
+                    n
+                )
+                .
+    {\displaystyle {\begin{aligned}p(x)&=a_{n}x^{n}+a_{n-1}x^{n-1}+\cdots +a_{1}x+a_{0}\\&=a_{n}(x-r_{1})(x-r_{2})\cdots (x-r_{n}).\end{aligned}}}
+This second expression makes it clear that p has a multiple root if and only if the discriminant is zero. (This multiple root can be complex.)
+The discriminant can be defined for polynomials over arbitrary fields, in exactly the same fashion as above. The product formula involving the roots ri remains valid; the roots have to be taken in some splitting field of the polynomial. The discriminant can even be defined for polynomials over any commutative ring. However, if the ring is not an integral domain, above division of the resultant by 
+          a
+            n
+    {\displaystyle a_{n}}
+   should be replaced by substituting 
+          a
+            n
+    {\displaystyle a_{n}}
+   by 1 in the first column of the matrix.
+The discriminant gives additional information on the nature of the roots beyond simply whether there are any repeated roots: for polynomials with real coefficients, it also gives information on whether the roots are real or complex. This is most transparent and easily stated for quadratic and cubic polynomials; for polynomials of degree 4 or higher this is more difficult to state.
+Because the quadratic formula expressed the roots of a quadratic polynomial as a rational function in terms of the square root of the discriminant, the roots of a quadratic polynomial are in the same field as the coefficients if and only if the discriminant is a square in the field of coefficients: in other words, the polynomial factors over the field of coefficients if and only if the discriminant is a square.
+As a real number has real square roots if and only if it is nonnegative, and these roots are distinct if and only if it is positive (not zero), the sign of the discriminant allows a complete description of the nature of the roots of a quadratic polynomial with real coefficients: 
+Δ > 0: 2 distinct real roots: factors over the reals;
+Δ < 0: 2 distinct complex roots (complex conjugates), does not factor over the reals;
+Δ = 0: 1 real root with multiplicity 2: factors over the reals as a square.
+Further, for a quadratic polynomial with rational coefficients, it factors over the rationals if and only if the discriminant – which is necessarily a rational number, being a polynomial in the coefficients – is in fact a square.
+For a cubic polynomial with real coefficients, the discriminant reflects the nature of the roots as follows: 
+Δ > 0: the equation has 3 distinct real roots;
+Δ < 0, the equation has 1 real root and 2 complex conjugate roots;
+Δ = 0: at least 2 roots coincide, and they are all real.
+It may be that the equation has a double real root and another distinct single real root; alternatively, all three roots may coincide, yielding a triple real root.
+If a cubic polynomial has a triple root, it is a root of its derivative and of its second derivative, which is linear. Thus to decide if a cubic polynomial has a triple root or not, one may compute the root of the second derivative and look if it is a root of the cubic and of its derivative.
+More generally, for a polynomial of degree n with real coefficients, we have
+Δ > 0: for some integer k such that 
+        0
+        ≤
+        k
+        ≤
+            n
+            4
+    {\displaystyle 0\leq k\leq {\frac {n}{4}}}
+  , there are 2k pairs of complex conjugate roots and n − 4k real roots, all different;
+Δ < 0: for some integer k such that 
+        0
+        ≤
+        k
+        ≤
+              n
+              −
+              2
+            4
+    {\displaystyle 0\leq k\leq {\frac {n-2}{4}}}
+  , there are 2k + 1 pairs of complex conjugate roots and n − 4k − 2 real roots, all different;
+Δ = 0: at least 2 roots coincide, which may be either real or not real (in this case their complex conjugates also coincide).
+The definition of the discriminant of a polynomial in terms of the resultant may easily be extended to polynomials whose coefficients belong to any commutative ring. However, as the division is not always defined in such a ring, instead of dividing the determinant by the leading coefficient, one substitutes the leading coefficient by 1 in the first column of the determinant. This generalized discriminant has the following property which is fundamental in algebraic geometry.
+Let f be a polynomial with coefficients in a commutative ring A and D its discriminant. Let φ be a ring homomorphism of A into a field K and φ(f) be the polynomial over K obtained by replacing the coefficients of f by their images by φ. Then φ(D) = 0 if and only if either the difference of the degrees of f and φ(f) is at least 2 or φ(f) has a multiple root in an algebraic closure of K. The first case may be interpreted by saying that φ(f) has a multiple root at infinity.
+The typical situation where this property is applied is when A is a (univariate or multivariate) polynomial ring over a field k and φ is the substitution of the indeterminates in A by elements of a field extension K of k.
+For example, let f be a bivariate polynomial in X and Y with real coefficients, such that f = 0 is the implicit equation of a plane algebraic curve. Viewing f as a univariate polynomial in Y with coefficients depending on X, then the discriminant is a polynomial in X whose roots are the X-coordinates of the singular points, of the points with a tangent parallel to the Y-axis and of some of the asymptotes parallel to the Y-axis. In other words, the computation of the roots of the Y-discriminant and the X-discriminant allows one to compute all of the remarkable points of the curve, except the inflection points.
+The concept of discriminant has been generalized to other algebraic structures besides polynomials of one variable, including conic sections, quadratic forms, and algebraic number fields. Discriminants in algebraic number theory are closely related, and contain information about ramification. In fact, the more geometric types of ramification are also related to more abstract types of discriminant, making this a central algebraic idea in many applications.
+For a conic section defined in plane geometry by the real polynomial
+        A
+          x
+            2
+        +
+        B
+        x
+        y
+        +
+        C
+          y
+            2
+        +
+        D
+        x
+        +
+        E
+        y
+        +
+        F
+        =
+        0
+        ,
+    {\displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0,\,}
+the discriminant is equal to
+          B
+            2
+        −
+        4
+        A
+        C
+        ,
+    {\displaystyle B^{2}-4AC,\,}
+and determines the shape of the conic section. If the discriminant is less than 0, the equation is of an ellipse or a circle. If the discriminant equals 0, the equation is that of a parabola. If the discriminant is greater than 0, the equation is that of a hyperbola. This formula will not work for degenerate cases (when the polynomial factors).
+There is a substantive generalization to quadratic forms Q over any field K of characteristic ≠ 2. For characteristic 2, the corresponding invariant is the Arf invariant.
+Given a quadratic form Q, the discriminant or determinant is the determinant of a symmetric matrix S for Q.
+Change of variables by a matrix A changes the matrix of the symmetric form by ATSA, which has determinant (det A)2 det S, so under change of variables, the discriminant changes by a non-zero square, and thus the class of the discriminant is well-defined in K/(K×)2, i.e., up to non-zero squares. See also Quadratic residue.
+Less intrinsically, by a theorem of Jacobi, quadratic forms on 
+          K
+            n
+    {\displaystyle K^{n}}
+   can be expressed, after a linear change of variables, in diagonal form as
+          a
+            1
+          x
+            1
+            2
+        +
+        ⋯
+        +
+          a
+            n
+          x
+            n
+            2
+        .
+    {\displaystyle a_{1}x_{1}^{2}+\cdots +a_{n}x_{n}^{2}.}
+More precisely, a quadratic forms on V may be expressed as a sum
+          ∑
+            i
+            =
+            1
+            n
+          a
+            i
+          L
+            i
+            2
+    {\displaystyle \sum _{i=1}^{n}a_{i}L_{i}^{2}}
+where the Li are independent linear forms and n is the number of the variables (some of the ai may be zero). Then the discriminant is the product of the ai, which is well-defined as a class in K/(K×)2.
+For K = R, the real numbers, (R×)2 is the positive real numbers (any positive number is a square of a non-zero number), and thus the quotient R/(R×)2 has three elements: positive, zero, and negative. This is a cruder invariant than signature (n0, n+, n−), where n0 is the number of 0s and n± is the number of ±1s in diagonal form. The discriminant is then zero if the form is degenerate (n0 > 0), and otherwise it is the parity of the number of negative coefficients, (−1)n−.
+For K = C, the complex numbers, (C×)2 is the non-zero complex numbers (any complex number is a square), and thus the quotient C/(C×)2 has two elements: non-zero and zero.
+This definition generalizes the discriminant of a quadratic polynomial, as the polynomial 
+        a
+          x
+            2
+        +
+        b
+        x
+        +
+        c
+    {\displaystyle ax^{2}+bx+c}
+   homogenizes to the quadratic form 
+        a
+          x
+            2
+        +
+        b
+        x
+        y
+        +
+        c
+          y
+            2
+    {\displaystyle ax^{2}+bxy+cy^{2}}
+   which has symmetric matrix
+            [
+                  a
+                  b
+                    /
+                  2
+                  b
+                    /
+                  2
+                  c
+            ]
+        ,
+    {\displaystyle {\begin{bmatrix}a&b/2\\b/2&c\end{bmatrix}},}
+whose determinant is 
+        a
+        c
+        −
+        (
+        b
+          /
+        2
+          )
+            2
+        =
+        a
+        c
+        −
+          b
+            2
+          /
+        4
+    {\displaystyle ac-(b/2)^{2}=ac-b^{2}/4}
+  . Up to a factor of −4, this is 
+          b
+            2
+        −
+        4
+        a
+        c
+    {\displaystyle b^{2}-4ac}
+  .
+The invariance of the class of the discriminant of a real form (positive, zero, or negative) corresponds to the corresponding conic section being an ellipse, parabola, or hyperbola.
+The discriminant is a symmetric polynomial in the roots; if one adjoins a square root of it (halves each of the powers: the Vandermonde polynomial) to the ring of symmetric polynomials in n variables 
+          Λ
+            n
+    {\displaystyle \Lambda _{n}}
+  , one obtains the ring of alternating polynomials, which is thus a quadratic extension of 
+          Λ
+            n
+    {\displaystyle \Lambda _{n}}
+  .

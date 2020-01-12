@@ -1,0 +1,14 @@
+Pinta is an open-source, cross-platform bitmap image drawing and editing program inspired by Paint.NET, a similar image editing program which is limited to Microsoft Windows. Pinta has more features than Microsoft Paint. Compared with open-source image editor GIMP, Pinta is simpler and has fewer features.
+Pinta is a bitmap image editor with many features typical of image editing software including drawing tools, image filters and colour adjustment tools. The focus on usability is reflected in several of the main features of the program:
+Unlimited undo history.
+Multiple language support.
+Flexible toolbar arrangement, including floating as windows or docking around the image edge.
+Unlike some simple image editing software, Pinta also features support for image layers.
+Development of Pinta began in February 2010 and was driven by Jonathan Pobst, then working at Novell. In September 2011 Pobst announced that he was no longer interested in developing Pinta. A new group of developers continued the project.
+Pinta is written in C# and uses the GTK+ toolkit and the cairo library. The code adjustment and effect filters, originally came from Paint.NET but otherwise the project is original code. Pinta is under active development.
+Comparison of raster graphics editors
+GIMP
+KolourPaint
+Krita
+MyPaint
+Windows Paint

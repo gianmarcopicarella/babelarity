@@ -1,0 +1,99 @@
+The Apocrita are a suborder of insects in the order Hymenoptera. It includes wasps, bees, and ants, and consists of many families. It contains the most advanced hymenopterans and is distinguished from Symphyta by the narrow "waist" (petiole) formed between the first two segments of the actual abdomen; the first abdominal segment is fused to the thorax, and is called the propodeum. Therefore, it is general practice, when discussing the body of an apocritan in a technical sense, to refer to the mesosoma and metasoma (or "gaster") rather than the "thorax" and "abdomen", respectively. The ovipositor of the female either extends freely or is retracted, and may be developed into a stinger for both defense and paralyzing prey. Larvae are legless and blind, and either feed inside a host (plant or animal) or in a nest cell provisioned by their mothers.
+The Apocrita have historically been split into two groups, "Parasitica" and Aculeata, but these are rankless groupings in present classifications, if they appear at all. The term Parasitica is an artificial (paraphyletic) group comprising the majority of hymenopteran insects, with respective members living as parasitoids on what amounts to nearly "every other species of insect", and many noninsects. Most species are small, with the ovipositor adapted for piercing. In some hosts, the parasitoids induce metamorphosis prematurely, and in others it is prolonged. There are even species that are hyperparasites (that which are parasitoids on other parasitoids). The Parasitica lay their eggs inside or on another insect (egg, larva or pupa) and their larvae grow and develop within or on that host. The host is nearly always killed. Many parasitic hymenopterans are used as biological control agents to control pests, such as caterpillars, true bugs and hoppers, flies, and weevils.
+The Aculeata are a monophyletic group that includes those species in which the female's ovipositor is modified into a "stinger" to inject venom. Groups include the familiar ants, bees, and various types of parasitic and predatory wasps; it also includes all of the social hymenopterans.
+Among the nonparasitic and nonsocial Aculeata, larvae are fed with captured prey (typically alive and paralyzed) or may be fed pollen and nectar. The social Aculeata feed their young prey (paper wasps and hornets), or pollen and nectar (bees), or perhaps seeds, fungi, or even nonviable eggs (ants).
+Suborder Apocrita
+(unranked) Aculeata
+Superfamily Apoidea (bees and sphecoid wasps)
+Family Ampulicidae (cockroach wasps)
+Family Andrenidae (mason bees)
+Family Apidae (carpenter bees, digger bees, cuckoo bees, bumble bees, orchid bees, stingless bees, and honeybees)
+Family Colletidae (yellow-faced bees and plasterer bees)
+Family Crabronidae (sand wasps, bee wolves, etc.)
+Family Dasypodaidae
+Family Halictidae ("sweat bees")
+Family Heterogynaidae
+Family Megachilidae (leaf-cutting bees)
+Family Meganomiidae
+Family Melittidae
+Family Stenotritidae
+Family Sphecidae (digger wasps)
+Superfamily Chrysidoidea
+Family Bethylidae
+Family Chrysididae (cuckoo wasps)
+Family Dryinidae
+Family Embolemidae
+Family Plumariidae
+Family Sclerogibbidae
+Family Scolebythidae
+Superfamily Vespoidea
+Family Bradynobaenidae
+Family Formicidae (ants)
+Family Mutillidae (velvet ants)
+Family Pompilidae (spider wasps)
+Family Rhopalosomatidae
+Family Sapygidae
+Family Scoliidae
+Family Sierolomorphidae
+Family Tiphiidae
+Family Vespidae (paper wasps, potter wasps, hornets, pollen wasps, yellowjackets)
+(unranked) Parasitica
+Superfamily Ceraphronoidea
+Family Ceraphronidae
+Family Megaspilidae
+Superfamily Chalcidoidea
+Family Agaonidae (fig wasps)
+Family Aphelinidae
+Family Chalcididae (chalcid wasps)
+Family Encyrtidae
+Family Eucharitidae
+Family Eulophidae
+Family Eupelmidae
+Family Eurytomidae (seed chalcids)
+Family Leucospidae
+Family Mymaridae (fairyflies) - the smallest of all insects
+Family Ormyridae
+Family Perilampidae
+Family Pteromalidae
+Family Rotoitidae
+Family Signiphoridae
+Family Tanaostigmatidae
+Family Tetracampidae
+Family Torymidae
+Family Trichogrammatidae
+Superfamily Cynipoidea
+Family Austrocynipidae
+Family Cynipidae (gall wasps)
+Family Figitidae
+Family Ibaliidae
+Family Liopteridae
+Superfamily Evanioidea
+Family Aulacidae
+Family Evaniidae (ensign wasps)
+Family Gasteruptiidae
+Superfamily Ichneumonoidea
+Family Braconidae
+Family Ichneumonidae (ichneumon wasps)
+Superfamily Megalyroidea
+Family Megalyridae
+Superfamily Mymarommatoidea - sometimes called Serphitoidea
+Family Mymarommatidae
+Superfamily Platygastroidea
+Family Platygastridae
+Family Scelionidae
+Superfamily Proctotrupoidea
+Family Austroniidae
+Family Diapriidae
+Family Heloridae
+Family Maamingidae
+Family Monomachidae
+Family Pelecinidae
+Family Peradeniidae
+Family Proctorenyxidae
+Family Proctotrupidae
+Family Roproniidae
+Family Vanhorniidae
+Superfamily Stephanoidea
+Family Stephanidae
+Superfamily Trigonaloidea
+Family Trigonalidae

@@ -1,0 +1,44 @@
+Xeroderma pigmentosum (XP) is a rare autosomal recessive genetic disorder of DNA repair in which the ability to repair damage caused by ultraviolet (UV) light is deficient. In extreme cases, all exposure to sunlight must be forbidden, no matter how small; as such, individuals with the disease are often colloquially referred to as "Moon child". Multiple basal cell carcinomas (basaliomas) and other skin malignancies frequently occur at a young age in those with XP; metastatic malignant melanoma and squamous cell carcinoma are the two most common causes of death in XP victims. This disease is present in both genders and in all races, with an incidence of 1:250,000 in the United States. XP is roughly six times more common in Japanese people than in other groups.
+Normally, damage to DNA in epidermal cells occurs during exposure to UV light. The absorption of the high-energy light leads to the formation of pyrimidine dimers, namely cyclobutane-pyrimidine dimers and pyrimidine-6-4-pyrimidone photoproducts. In a healthy, normal human being, the damage is first excised by endonucleases. DNA polymerase then repairs the missing sequence, and ligase "seals" the transaction. This process is known as nucleotide excision repair.
+One of the most frequent defects in xeroderma pigmentosum is an autosomal recessive genetic defect in which nucleotide excision repair (NER) enzymes are mutated, leading to a reduction in or elimination of NER. If left unchecked, damage caused by ultraviolet light can cause mutations in individual cell's DNA. The causes of the neurological abnormalities are poorly understood and are not connected with exposure to ultraviolet light. The most current theories suggest that oxidative DNA damage is generated during normal metabolism in the central nervous system, and that some types of this damage must be repaired by NER
+Since DNA repair is under genetic control, it can easily undergo mutations. Many genetic disorders such as xeroderma pigmentosum (XP; MIM 278700) are caused by mutations in genes that repair DNA. If the gene was not repaired correctly it could cause xeroderma pigmentosum in individuals. The autosomal recessive disorder xeroderma pigmentosum or XP has a frequency of 1 in every 250,000 individuals of all races and ethnic groups. Those affected with the autosomal recessive disorder XP are extremely sensitive to UV light produced by the sun and even with a short exposure to it causes dry, flaking skin and pigmented spots that can develop into skin cancer. Individuals with XP are about 1,000 times more likely to develop skin cancer than individuals without the disorder.
+The molecular defects in XP cells result in a greatly elevated induction of mutations in sun-exposed skin of affected individuals. This increased mutation frequency probably accounts for the pigmentation changes and the skin cancers. Examination of mutations in the p53 gene in tumors from XP patients reveal p53 mutations characteristic of UV exposure in the majority of tumors As with all genetic disorders, genetic counseling and psychological support is appropriate for the families, to discuss probability of occurrence in future pregnancies, feelings of isolation and concern about career prospects. Although there is no cure for xeroderma pigmentosum, the effects can be minimized by getting protection from the sunlight and if possible early removal of precancerous lesions. The most common fate for individuals with XP is early death from cancer due to the fact that they need to take outstanding measures to protect themselves from the dangers of the UV light. But if there is an absence of neurological problems and the individual is always protected or away from sunlight, the prognosis is good.
+There are seven complementation groups, plus one variant form:
+Symptoms include:
+Severe sunburn when exposed to only small amounts of sunlight. These often occur during a child's first exposure to sunlight.
+Development of many freckles at an early age
+Rough-surfaced growths (solar keratoses), and skin cancers
+Eyes that are painfully sensitive to the sun and may easily become irritated, bloodshot and clouded
+Blistering or freckling on minimum sun exposure
+Spider Veins
+Limited growth of hair on chest and legs
+Scaly skin
+Dry skin
+Irregular dark spots on the skin
+Corneal ulcerations
+The most obvious, and often important part of treatment, is avoiding exposure to sunlight. This includes wearing protective clothing and using sunscreen (physical and chemical). Keratoses can also be treated using cryotherapy or fluorouracil.
+Fewer than 40% of individuals with the disease survive beyond the age of 20. Some XP victims with less severe cases do manage to live well into their 40s.
+These fictional characters have XP:
+Christopher Snow in Dean Koontz's Moonlight Bay Trilogy
+1994 CBS-TV movie Children of the Dark is based on XP.
+Luke in the 2002 novel Going Out by Scarlett Thomas
+In the Channel 4 series Ultraviolet, one of the humans is mistaken for a vampire because he avoids sunlight, when in fact he has XP.
+In the book The Lucifer Code (originally published in 1997 as "Lucifer") the character Bradley Soames suffers from XP, and wears an all-encompassing "suit" complete with mask, hood and heavily tinted lenses in order to venture outdoors.
+In the independent film Dark Side of the Sun (1988) with Brad Pitt as the main character suffering from XP.
+In the 2001 film The Others, the two children, Anne and Nicholas, suffer from XP.
+In the 2003 novel Second Glance by Jodi Picoult, Ethan Wakeman, the 9-year-old nephew of Ross Wakeman (the main protagonist) has XP.
+The 2003 Angela Johnson novel, A Cool Moonlight, centers on a girl who has XP and can never be in the sun. The family has gone to drastic measures to help make her life easier, and to make her feel like a normal 8-year-old.
+The 2006 Japanese drama "Taiyou no uta" (A Song to the Sun) centers around a girl with XP who dreams of being a singer.
+The 2006 German film Mondscheinkinder (Children of the Moonlight) features 12-year-old Lisa who creates a fantasy world for her 6-year-old brother Paul, who has XP and cannot leave the house. Their special relationship is threatened when Lisa gets her first boyfriend, facing her with hard choices.
+The Spanish film "Eskalofrío" or "Shiver" released in 2008 featured a main character named Santi who is ostracized as he suffers from the condition.
+The 2011 film La permission de minuit by French director Delphine Gleize centers on a teenage boy with XP.
+The 2012 documentary "Sun Kissed" explores the XP problem on the Navajo Indian Reservation.
+The 2013 young adult novel What We Saw at Night by Jacquelyn Mitchard tells the story of three teenagers who are suffering from this disease, go out only when dark and witness something strange one night.
+The 2013 middle grade novel "Doom & Gloom" by M. J. Shaughnessy tells the story of a twelve-year-old boy who triumphs over his disease by donning a protective solar suit and becoming a superhero.
+The 2014 adult fiction book The Deepest Secret by Carla Buckley tells the story of a mother with a son who has XP and the lengths she will go to in order to protect him from a crisis that threatens to tear the community apart.
+Biogerontology
+Cockayne syndrome
+List of cutaneous conditions
+List of cutaneous conditions associated with increased risk of nonmelanoma skin cancer
+Photophobia
+Senescence

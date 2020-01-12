@@ -1,0 +1,22 @@
+An acetal is a functional group with the following connectivity R2C(OR')2, where both R' groups are organic fragments. The central carbon atom has four bonds to it, and is therefore saturated and has tetrahedral geometry. The two R'O groups may be equivalent to each other or not. The two R groups can be equivalent to each other (a "symmetric acetal") or not (a "mixed acetal"), and one or both can even be hydrogen atoms rather than organic fragments. Acetals are formed from and convertible to carbonyl compounds (aldehydes or ketones R2C=O). The term ketal is sometimes used to identify structures associated with ketones rather than aldehydes and, historically, the term acetal was used specifically for the aldehyde cases.
+Formation of an acetal occurs when the hydroxyl group of a hemiacetal becomes protonated and is lost as water. The carbocation that is produced is then rapidly attacked by a molecule of alcohol. Loss of the proton from the attached alcohol gives the acetal.
+Acetals are stable compared to hemiacetals but their formation is a reversible equilibrium as with esters. As a reaction to create an acetal proceeds, water must be removed from the reaction mixture, for example, with a Dean-Stark apparatus, lest it will hydrolyse the product back to the hemiacetal. The formation of acetals reduces the total number of molecules present and therefore is not favourable with regards to entropy. A way to improve this is to use an orthoester as a source of alcohol. Aldehydes and ketones undergo a process called acetal exchange with orthoesters to give acetals. Water produced along with the acetal product is used up in hydrolysing the orthoester and producing more alcohol to be used in the reaction.
+Acetals are used as protecting groups for carbonyl groups in organic synthesis because they are stable with respect to hydrolysis by bases and with respect to many oxidizing and reducing agents. They can either protect the carbonyl in a molecule (by temporarily reacting it with an alcohol) or a diol (by temporarily reacting it with a carbonyl). That is, either the carbonyl, or the alcohols, or both could be part of the molecule whose reactivity is to be controlled.
+Various specific carbonyl compounds have special names for their acetal forms. For example, an acetal formed from formaldehyde is sometimes called a "formal" or the methylenedioxy group. The acetal formed from acetone is sometimes called an acetonide.
+Acetalisation is the organic reaction that involves the formation of an acetal (or ketals). One way of acetal formation is the nucleophilic addition of an alcohol to a ketone or an aldehyde. Acetalisation is often used in organic synthesis to create a protecting group because it is a reversible reaction.
+Acetalisation is acid catalysed with elimination of water; acetals do not form under basic conditions. The reaction can be driven to the acetal when water is removed from the reaction system either by azeotropic distillation or trapping water with molecular sieves or aluminium oxide.
+The carbonyl group in 1 takes a proton from hydrochloric acid. The protonated carbonyl group 2 is activated for nucleophilic addition of the alcohol. The structures 2a and 2b are mesomers. After deprotonation of 3 by water the hemiacetal or hemiketal 4 is formed. The hydroxyl group in 4 is protonated leading to the oxonium ion 6 which accepts a second alcohol group to 7 with a final deprotonation to the acetal 8. The reverse reaction takes place by adding water in the same acidic medium. Acetals are stable towards basic media. In a transacetalisation or crossacetalisation a diol reacts with an acetal or two different acetals react with each other. Again this is possible because all the reaction steps are equilibria.
+Dimethoxymethane, a solvent, a.k.a. methylal, a.k.a. formal [ambiguous]
+Dioxolane
+Metaldehyde
+Paraldehyde
+1,3,5-Trioxane
+Most glycosidic bonds in carbohydrates and other polysaccharides are acetal linkages.Cellulose is a ubiquitous example of a polyacetal.
+Although many compounds contain an acetal functional group, at least two acetal compounds are called "acetal" for short:
+Polyoxymethylene (POM) plastic, also known as "acetal" or "polyacetal", is a polyacetal (and a polyether), and a polymer of formaldehyde.
+1,1-Diethoxyethane (acetaldehyde diethyl acetal), sometimes called simply "acetal", is an important flavouring compound in distilled beverages.
+Aminal, a.k.a. aminoacetal
+Hemiaminal
+Mozingo reduction
+Thioacetal
+Thioketal

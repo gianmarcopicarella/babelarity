@@ -1,0 +1,39 @@
+In chemistry, hypochlorite is an ion composed of chlorine and oxygen, with the chemical formula ClO−. It can combine with a number of counter ions to form hypochlorites, which may also be regarded as the salts of hypochlorous acid. Common examples include sodium hypochlorite (household bleach) and calcium hypochlorite (bleaching powder, swimming pool "chlorine").
+Hypochlorites are frequently quite unstable in their pure forms and for this reason are normally handled as aqueous solutions. Their primary applications are as bleaching, disinfection and water treatment agents but they are also used in chemistry for chlorination and oxidation reactions.
+A variety of hypochlorites can be formed by a disproportionation reaction between chlorine gas and metal hydroxides. The reaction must be performed at close to room temperature, as further oxidation will occur at higher temperatures leading to the formation of chlorates. This process is widely used for the industrial production of sodium hypochlorite (NaClO) and calcium hypochlorite (Ca(ClO)2).
+Cl2 + 2 NaOH → NaCl + NaClO + H2O
+2 Cl2 + 2 Ca(OH)2 → CaCl2 + Ca(ClO)2 + 2 H2O
+Large amounts of sodium hypochlorite are also produced electrochemically via an un-separated chloralkali process. In this process brine is electrolyzed to form Cl
+2 which dissociates in water to form hypochlorite. This reaction must be run in non-acidic conditions to prevent chlorine gas from bubbling out of solution:
+2 Cl− → Cl
+2 + 2 e−
+Cl
+2 + H
+2O ⇌ HClO + Cl− + H+
+Small amounts of more unusual hypochlorites may also be formed by a salt metathesis reaction between calcium hypochlorite and various metal sulfates. This reaction is performed in water and relies on the formation of insoluble calcium sulfate, which will precipitate out of solution, driving the reaction to completion.
+Ca(ClO)2 + MSO4 → M(ClO)2 + CaSO4
+The human immune system generates minute quantities of hypochlorite during the destruction of pathogens. This takes place within special white blood cells, called neutrophil granulocytes; which engulf viruses and bacteria in an intracellular vacuole called the phagosome, where they are digested. Part of the digestion mechanism involves an enzyme-mediated respiratory burst, which produces reactive oxygen-derived compounds, including superoxide (which is produced by NADPH oxidase). Superoxide decays to oxygen and hydrogen peroxide, which is used in a myeloperoxidase-catalysed reaction to convert chloride to hypochlorite.
+Stability is the limiting factor in the formation of hypochlorite salts and many simply cannot be formed. Only lithium hypochlorite LiOCl, calcium hypochlorite Ca(OCl)2 and barium hypochlorite Ba(ClO)2 have been isolated as pure anhydrous compounds; all of which are solids. A wider variety of compounds exist in aqueous solution and in general the greater the dilution the greater their stability.
+The alkali metal salts decrease in stability down the group. Anhydrous lithium hypochlorite is stable at room temperature, however sodium hypochlorite has not be prepared drier than the pentahydrate (NaOCl·(H2O)5). This is unstable above 0 °C; although the more dilute solutions encountered as household bleach possesses better stability. Potassium hypochlorite (KOCl) is known only in solution.
+It is not possible to determine trends for the alkaline earth metal salts, as many of them cannot be formed. Beryllium hypochlorite is unheard of, however this is not unexpected as the Be2+ ion is not known in solution. Pure magnesium hypochlorite cannot be prepared, however solid Mg(OH)OCl is known. Calcium hypochlorite is produced on an industrial scale and has good stability. Strontium hypochlorite, Sr(OCl)2, is not well characterised and its stability has not yet been determined.
+Hypochlorites do not form stable coordination complexes with heavy metals and so are not viable ligands. Transition metal hypochlorites are generally unheard of, although hypochlorite will briefly coordinate to a Mn(III)-salen complex during the Jacobsen epoxidation reaction. The resulting compound is unstable and rapidly decomposes to give the Mn(V) complex.
+Lanthanide hypochlorites are also unstable; interestingly however they have been reported as being more stable in their anhydrous forms than in the presence of water. Hypochlorite has been used to oxidise cerium from its +3 to +4 oxidation state.
+Finally there is hypochlorous acid, which is not stable in isolation as it decomposes to form chlorine.
+Covalent hypochlorites, such as methyl hypochlorite and t-butyl hypochlorite are also known. They are in general formed from the corresponding alcohols, by treatment with any of a number of reagents (e.g. chlorine, hypochlorous acid, dichlorine monoxide and various acidified hypochlorite salts). They are typically very unstable.
+Acidification of hypochlorites generates hypochlorous acid. This exists in an equilibrium with chlorine gas, which can bubble out of solution. The equilibrium is subject to Le Chatelier's principle; thus a high pH drives the reaction to the left by consuming H+ ions, promoting the disproportionation of chlorine into chloride and hypochlorite, whereas a low pH drives the reaction to the right, promoting the release of chlorine gas.
+2 H+ + ClO− + Cl− ⇌ Cl
+2 + H
+2O
+Hypochlorous acid also exists in equilibrium with its anhydride; dichlorine monoxide.
+2 HOCl ⇌ Cl2O + H2O       K (at 0 °C) = 6997355000000000000♠3.55×10−3 dm3 mol−1
+Hypochlorite is the strongest oxidizing agent of the chlorine oxyanions. This can be seen by comparing the standard half cell potentials across the series; the data also shows that the chlorine oxyanions are stronger oxidizers in acidic conditions.
+Hypochlorite is a sufficiently strong oxidiser to convert Mn(III) to Mn(V) during the Jacobsen epoxidation reaction and to convert Ce3+ to Ce4+. This oxidising power also makes them effective bleaches. In organic chemistry hypochlorites can be used to oxidise primary alcohols to carboxylic acids.
+Hypochlorite salts can ring-chlorinate phenols and other electron rich aromatic hydrocarbons.
+Hypochlorites are generally unstable and many compounds exist only in solution. Hypochlorite is unstable with respect to disproportionation. Upon heating, it degrades to a mixture of chloride, oxygen and other chlorates:
+2 ClO− → 2 Cl− + O
+2
+3 ClO− → 2 Cl− + ClO−
+3
+This reaction is exothermic and in the case of concentrated hypochlorites, such as LiOCl and Ca(OCl)2, can lead to a dangerous thermal runaway and potentially explosions.
+Chlorine can assume oxidation states of −1, +1, +3, +5, or +7, an additional oxidation state of +4 is seen in the neutral compound chlorine dioxide ClO2, which has a similar structure.
+Chlorine oxide

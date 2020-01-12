@@ -1,0 +1,4 @@
+Kinetic theory may refer to:
+Kinetic theory of gases, an account of gas properties in terms of motion and interaction of microscopic particles
+Phonons, explaining properties of solids in terms of quantal collective motions and interactions of microscopic particles
+Kinematics, the part of mechanics that describes the motion of points, particles, bodies, and systems of bodies, without reference to the forces, energies and interactions that govern their motion

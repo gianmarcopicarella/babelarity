@@ -1,0 +1,59 @@
+Chromosome 19 is one of the 23 pairs of chromosomes in humans. People normally have two copies of this chromosome. Chromosome 19 spans more than 58.6 million base pairs, the building material of DNA.
+Identifying genes on each chromosome is an active area of genetic research. Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Depending on the genome annotation used, chromosome 19 contains 2,188 or 2,670 genes, and chromosome 19 thereby has the highest gene density of all the 23 chromosomes.
+The following are some of the genes located on chromosome 19:
+ACSBG2: encoding enzyme Long-chain-fatty-acid—CoA ligase
+ARMC6: encoding protein Armadillo repeat-containing protein 6
+BTBD14B/NACC1: encoding protein Nucleus accumbens-associated protein 1
+ATPase ASNA1: encoding enzyme ATPase ASNA1 also known as arsenical pump-driving ATPase and arsenite-stimulated ATPase
+KLK3: The Prostate-specific antigen (PSA)
+NWD1: NACHT and WD repeat domain containing 1.
+PEX11G: peroxisomal biogenesis factor 11 gamma
+PRX: Periaxin
+SLC5A5: Solute carrier family 5 (sodium iodide symporter), member 5
+STK11: Serine/threonine kinase 11 (Peutz-Jeghers syndrome)
+ZNF649: Transcriptional suppressor
+CACNA1A: Calcium channel, voltage-dependent, P/Q type, alpha 1A subunit (Familial hemiplegic migraine Type I). Gene map locus 19p13
+COMP: Cartilage oligomeric matrix protein. Gene map locus 19p13.1
+NOTCH3: Notch homolog 3 (Drosophila): Gene map locus 19p13.1-p13.2
+GCDH: Glutaryl-Coenzyme A dehydrogenase. Gene map locus 19p13.2
+BSG: Basigin (Ok blood group)/Extracellular matrix metalloproteinase inducer/CD147. Gene map locus 19p13.3
+ICAM4: Landsteiner and Weiner glycoprotein. Gene map locus 19p13.3
+NRTN: Neurturin, associated with Hirschsprung's disease: Gene locus map 19p13.3
+HCL1: Hair Colour 1; Brown hair colour; BRHC. Gene map locus 19p13.1-q13.11 OMIM: 113750
+EYCL1: Eye Colour 1; Eye colour, green/blue; GEY. Gene map locus 19p13.1-q13.11 OMIM: 227240
+KLF2: Krüppel-like factor 2, also known as Lung Krüppel-like factor. Gene map locus 19p13.11 OMIM: 602016
+HAMP: Hepcidin antimicrobial peptide. Gene map locus 19q13.12
+BCKDHA: Branched chain keto acid dehydrogenase E1, alpha polypeptide (maple syrup urine disease). Gene map location 19q13.1-q13.2
+APOE: Apolipoprotein E, gene associated with Alzheimer's disease. Gene map locus 19q13.2
+ATP1A3: ATPase. Gene map locus 19q13.31
+DMPK: Dystrophia myotonica-protein kinase. Gene map locus 19q13.32
+A1BG: Plasma glycoprotein, unknown function. Gene map locus 19q13.43
+LRC: The Leukocyte Receptor Complex is a family of immunoreceptors expressed predominantly on monocytes and B cells and at lower levels on dendritic cells and natural killer (NK) cells. The LRC also includes the KIR locus. Gene map locus 19q13.4 OMIM: 604812
+KPTN: Kaptin (actin binding protein) at the tips of stereocilia. Gene map locus 19q13.4
+FUT1: The H locus is located on chromosome 19 at 19q13.3. It contains three exons that span more than 5 kb of genomic DNA, and it encodes a fucosyltransferase that produces the H antigen on RBCs.
+FUT2: The Se locus is located on chromosome 19 at 19q13.3. It contains two exons that span about 25 kb of genomic DNA. The Se locus encodes a specific fucosyltransferase that is expressed in the epithelia of secretory tissues, such as salivary glands, the gastrointestinal tract, and the respiratory tract. The enzyme it encodes catalyzes the production of H antigen.
+MORT (Mortal Obligate RNA Transcript, lincRNA): Gene map locus 19q13.43
+The following diseases are some of those related to genes on chromosome 19:
+Alternating hemiplegia of childhood
+Alzheimer's disease
+CADASIL
+Centronuclear myopathy autosomal dominant form
+Charcot-Marie-Tooth disease
+Congenital hypothyroidism
+Congenital hearing loss
+Donohue syndrome
+Familial hemiplegic migraine
+Glutaric acidemia type 1
+Hemochromatosis
+Leber's Congenital Amaurosis
+Maple syrup urine disease
+Multiple epiphyseal dysplasia
+Myotonic dystrophy
+Myotubular myopathy autosomal dominant form
+Marfan Syndrome
+Oligodendroglioma
+Peutz-Jeghers syndrome
+Pseudoachondroplasia
+Spinocerebellar ataxia type-6
+X-linked agammaglobulinemia or Bruton's Disease
+Prolidase deficiency

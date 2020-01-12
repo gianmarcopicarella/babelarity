@@ -1,0 +1,16 @@
+Codex Vaticanus, designated by S or 028 (in the Gregory-Aland numbering), ε 1027 (von Soden), formerly called Codex Guelpherbytanus, is a Greek manuscript of the four Gospels which can be dated to a specific year instead of an estimated range. The colophon of the codex lists the date as 949 (on folio 234 verso). This manuscript is one of the four oldest New Testament manuscripts dated in this manner, and the only dated uncial.
+The manuscript has complex contents.
+The codex contains 235 parchment leaves (36 cm by 24 cm), with complete text of the four Gospels. The text is written in two columns per page, 27 lines per page, 15-17 letters per line. It is written in large, oblong, and compressed uncial letters. It has no breathings and accents.
+The nomina sacra are written in an abbreviated way.
+The text is divided according to the κεφαλαια (chapters), whose numbers are given at the margin, and their τιτλοι (titles of chapters) at the top. There is also a division according to the smaller Ammonian sections, with references to the Eusebian Canons.
+It contains the Epistula ad Carpianum, lists of the κεφαλαια (tables of contents) before each Gospel, and subscriptions at the end of each Gospel, with numbers of stichoi. It contains many later corrections (e.g. Luke 8:15), and margin notes (e.g. Matthew 27:16.17) predominantly added by later hand. It also includes neumes, and it is one of the oldest manuscript with neumes. The writing is large oblong and compressed, and appears Slavic.
+The Greek text of this codex is a representative of the Byzantine text-type in close relationship to the codices Codex Mosquensis II, Codex Washingtonianus. Kurt Aland placed it in Category V (2061 1051/2 42 12S). It belongs to the textual family K1.
+In Matthew 27:16 it has marginal comment: "In many ancient copies which I have met with I found Barabbas himself likewise called Jesus; that is, the question of Pilate stood there as follows, Τινα θελετε απο των δυο απολυσω υμιν, Ιησουν τον Βαραββαν η Ιησουν τον λεγομενον Χριστον; for apparently the paternal name of the robber was Barabbas, which is interpreted Son of the teacher".
+The spurious texts of Luke 22:43.44, John 5:4, and Pericope Adultera (John 7:53-8:11) are marked by asterisks (※) as questionable texts.
+In John 8:1 it reads επορευετο instead of επορευθη.
+The name of the scribe was Michael, a monk, who finished his work "in the month of March, the fifth day, the sixth hour, the year 6457, the seventh indiction".
+The manuscript was examined and described by Bianchini. It was collated with some errors by Birch in 1781-1783, but collators in his day rarely noticed orthographical forms. Tischendorf in 1866 corrected the collation of Birch. Tischendorf states that facsimile of Bianchini was coarsely executed, he made another for himself.
+The codex currently is located in Rome (Bibl. Vat. Gr. 354).
+List of New Testament uncials
+List of New Testament papyri
+Textual criticism

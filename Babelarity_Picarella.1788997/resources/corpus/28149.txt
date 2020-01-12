@@ -1,0 +1,71 @@
+The Messerschmitt Me 323 Gigant ("Giant") was a German military transport aircraft of World War II. It was a powered variant of the Me 321 military glider and was the largest land-based transport aircraft of the war. A total of 213 are recorded as having been made, a few being converted from the Me 321.
+The Me 323 was the result of a 1940 German requirement for a large assault glider in preparation for Operation Sea Lion, the projected invasion of Great Britain. The DFS 230 light glider had already proven its worth in the Battle of Fort Eben-Emael in Belgium (the first ever assault by gliderborne troops), and would later be used successfully in the invasion of Crete in 1941.
+However, in order to mount an invasion across the English Channel, the Germans would need to be able to airlift vehicles and other heavy equipment as part of an initial assault wave. Although Operation Sea Lion was cancelled, the requirement for a heavy air transport capability still existed, with the focus now on the forthcoming Operation Barbarossa, the invasion of the Soviet Union.
+On 18 October 1940, Junkers and Messerschmitt were given just 14 days to submit a proposal for a large transport glider. The emphasis was still very much on the assault role: the ambitious requirement was to be able to carry either an 88 mm gun and its half-track tractor, or a Panzer IV medium tank. The Junkers Ju 322 Mammut reached prototype form but was eventually scrapped due to difficulties in procuring the necessary high-grade timber for its all-wood construction and, as was discovered during the Mammut's only test flight, an unacceptably high degree of instability inherent in the design. The proposed Messerschmitt aircraft was originally designated Me 261w — partly borrowing the designation of the long-range Messerschmitt Me 261 long-range aircraft, then changed to Me 263 (later re-used for Messerschmitt's improved rocket fighter design) and eventually became the Me 321. Although the Me 321 saw considerable service in Russia as a transport, it was never used for its intended role as an assault glider.
+Early in 1941, as a result of feedback from Transport Command pilots in Russia, the decision was taken to produce a motorized variant of the Me 321, to be designated Me 323. It was decided to use French Gnome et Rhône GR14N radial engines rated at 1,180 PS (1,164 hp, 868 kW) for take-off as used in the Bloch MB.175 aircraft; using French engines was thought to place no burden on Germany's overstrained industry.
+Initial tests were conducted using four Gnome engines attached to a strengthened Me 321 wing, which gave a modest speed of 210 km/h (130 mph) – 80 km/h (50 mph) slower than the Ju 52 transport aircraft. A fixed undercarriage was fitted, which comprised four small wheels in a bogie at the front of the aircraft with six larger wheels in two lines of three at each side of the fuselage, partly covered by an aerodynamic fairing. The rear wheels were fitted with pneumatic brakes, and could stop the aircraft within 200 m (660 ft).
+The four-engined Me 323C was considered merely a stepping stone to the six-engined D series; it still required the five-engined Heinkel He 111Z Zwilling or the highly dangerous, "vic-style" Troika-Schlepp formation of three Messerschmitt Bf 110 heavy fighters and underwing-mounted Walter HWK 109-500 Starthilfe rocket assisted takeoff units to get airborne when fully loaded, but it could return to base under its own power when empty. This was clearly not much better than the Me 321, so the V2 prototype became the first to have six engines and flew for the first time in early 1942, becoming the prototype for the D series aircraft.
+The selection of the six engines, and their specific placement on the wing's leading edge, were fitted to reduce torque – a trio of counterclockwise rotation engines mounted on the port wing, and a trio of clockwise rotation engines on the starboard wing as seen forward from "behind" each engine, resulting in the props rotating "away" from each other at the tops of their arcs, as did the counter-rotating twin propellers on the Heinkel He 177.
+As per the Me 321, the Me 323 had massive, semi-cantilever, high-mounted wings which were braced from the fuselage out to the middle of the wing. To reduce weight and to save on aluminum, much of the wing was made of plywood and fabric, while the fuselage was of metal tube construction with wooden spars and covered with doped fabric, with heavy bracing in the floor to support the payload.
+The "D" series had a crew of five: two pilots, two flight engineers and a radio operator. Two gunners could also be carried. The flight engineers occupied two small cabins, one in each wing between the inboard and center engines. The engineers were intended to monitor engine synchronisation and allow the pilot to fly without worrying about engine status, although the pilot could override the engineers' decisions on engine and propeller control.
+Maximum payload was around 12 tonnes, although at that weight the Hellmuth Walter Werke-designed Walter HWK 109-500 Starthilfe RATO (rocket assisted takeoff) units used on the Me 321 were required for take off. The RATO's were mounted beneath the wings outboard of the engines, with the wings having underside fittings to take up to a total of four RATO units. The cargo hold was 11 m (36 ft) long, 3 m (10 ft) wide and 3.4 m (11 ft) high. The typical loads it carried were: One 15 cm FH18 field artillery piece (5.5 ton) accompanied by its Sd.Kfz.7 halftrack transport vehicle (11 ton), two 3.6 tonne (4 ton) trucks, 8,700 loaves of bread, an 88 mm Flak gun and accessories, 52 drums of fuel (252 L/45 US gal), 130 men, or 60 stretchers.
+Some Me 321s were converted to Me 323s, but the majority were built as six-engine aircraft from the beginning; early models were fitted with wooden two-blade propellers, which were later replaced by metal, three-blade variable-pitch versions.
+The Me 323 had a maximum speed of only 219 km/h (136 mph) at sea level and speed dropped with altitude. For defensive armament, it was armed with five 13 mm (.51 in) MG 131 machine guns firing from a dorsal position behind the wings and from the fuselage. They were manned by the extra gunners, radio operator and engineers.
+By September 1942, Me 323s were being delivered for use in the Tunisian campaign, and entered service in the Mediterranean theater in November 1942. The high rate of loss among Axis shipping had made necessary a huge airlift of equipment across the Mediterranean to keep Rommel's Afrika Korps supplied.
+On 22 April 1943, a formation of 27 fully loaded Me 323s was being escorted across the Sicilian Straits by Bf 109s of JG 27 when it was intercepted by seven squadrons of Spitfires and P-40s. Twenty one of the Me 323s were lost while  three of the P-40s were shot down by the escorts.
+A total of 198 Me 323s were built before production ceased in April 1944. There were several production versions, beginning with the D-1. Later D- and E- versions differed in the choice of power plant and in defensive armament, with improvements in structural strength, total cargo load and fuel capacity also being implemented. Nonetheless, the Me 323 remained significantly underpowered. There was a proposal to install six BMW 801 radials, but this never came to pass. The Me 323 was also a short-range aircraft, with a typical range (loaded) of 1,000–1,200 km (620–750 mi). Despite this, the limited numbers of Me 323s in service were an invaluable asset to the Germans, and saw intensive use.
+.
+Me 323 V1
+First Prototype, powered by four Gnome-Rhône 14N-48/49 engines
+Me 323 V2
+Prototype, powered by six Gnome-Rhône 14N engines, became the standard for D production series
+Me 323 D-1
+First production series, powered by six Gnome-Rhône 14N engines originally intended for use in the Bloch 175, two 7.92 mm (.312 in) MG 15 machine guns in cockpit fittings provided, field modifications increased defensive armament, variable-pitch Ratier propellers with three blades
+Me 323 D-2
+as D-1 but with engine installation originally intended for use in the LeO 451, fixed-pitch wooden Heine propellers with two blades
+Me 323 D-6
+as D-2, variable-pitch Ratier propellers with three blades
+Me 323 V13
+Prototype, powered by six Gnome-Rhône 14N engines, served as a master for the Me 323E production series
+Me 323 V14
+Prototype, powered by six 1,340 PS unitized Junkers Jumo 211F engines, not proceeded with
+Me 323 E-1
+Second production series, two gun turrets incorporated in the wings
+Me 323 E-2
+Proposed version with heavier armament
+Me 323 E-2 WT
+Proposed 'escort' gunship version, based on the E-1. Classified as a Waffentrager (weapons carrier) by the RLM, which the WT suffix denoted, in a similar role to that of the American YB-40 Flying Fortress "gunship" heavy defensive fighter conversion for the USAAF. Primary mission was to provide normal 323 cargo formations with heavy defensive protection. No cargo carrying ability. "Solid" nose with 20mm cannon turret, two additional wing turrets plus up to ten other machine guns/cannon of varying calibres firing from standard and new waist/beam positions. 1.3 tonnes of armour plating was added across the entire airframe. Crew increased to twenty-one, the extra crew-members operating the plane's guns. Two prototypes built and tested, but series was cancelled after it was judged that normal single-engined fighters were more effective in the transport escort role. One of the prototypes was briefly assigned to KG 200 for operational evaluation, where it flew armed escort for the small number of captured B-17 Flying Fortresses operated by the Geschwader.
+Me 323 V16
+Prototype, powered by six unitized 1,340 PS Jumo 211R engines, intended to serve as a master for the Me 323F production series
+Me 323 V17
+Prototype (unfinished), powered by six 1,600 PS (1,578 hp, 1,177 kW) Gnome-Rhône 14R engines, intended to serve as a master for the Me 323G
+No complete aircraft survives, but the Luftwaffenmuseum der Bundeswehr (Air Force Museum of the German Federal Armed Forces) near Berlin has a Me 323 main wing spar in its collection.
+A ruined but complete wreck was found in 2012, in the sea near La Maddalena, an island near Sardinia, Italy. The aircraft lies in around 60 m (200 ft) of water, around 8 nautical miles (15 km) from the coast. It was shot down by a British Bristol Beaufighter long–range fighter on July 26, 1943, while en–route from Sardinia to Pistoia in Italy.
+Data from Britannica Book Of The Year 1944; German Aircraft of the Second World War
+General characteristics
+Crew: 5
+Capacity: 130 troops or 10–12 tonnes of equipment
+Length: 28.2 m (92 ft 4 in)
+Wingspan: 55.2 m (181 ft 0 in)
+Height: 10.15 m (33 ft 3.5 in)
+Wing area: 300 m² (3,228 sq ft)
+Empty weight: 27,330 kg (60,260 lb)
+Loaded weight: 29,500 kg (65,000 lb)
+Max. takeoff weight: 43,000 kg (94,815 lb)
+Powerplant: 6 × Gnome-Rhône 14N-48/49, 1180 PS for take-off (868 kW) each
+Performance
+Maximum speed: 285 km/h (177 mph (154 kn))
+Cruise speed: 218 km/h (136 mph (118 kn))
+Range: 800 km (500 mi)
+Ferry range: 1,100 km (684 mi)
+Service ceiling: 4,000 m (13,123 ft)
+Rate of climb: 3.6 m/s (710 ft/min)
+Armament
+Guns: multiple 7.92 mm MG 15, MG 81 or 13 mm MG 131 machine guns
+Related development
+Messerschmitt Me 321
+Aircraft of comparable role, configuration and era
+Junkers Ju 322
+Related lists
+List of aircraft of World War II
+List of military aircraft of Germany

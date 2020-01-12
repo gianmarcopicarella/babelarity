@@ -1,0 +1,16 @@
+Calcium hydride is the chemical compound with the formula CaH2. This grey powder (white if pure, which is rare) reacts vigorously with water liberating hydrogen gas. CaH2 is thus used as a drying agent, i.e. a desiccant.
+CaH2 is a saline hydride, meaning that its structure is salt-like. The alkali metals and the alkaline earth metals all form saline hydrides. A well-known example is sodium hydride, which crystallizes in the NaCl motif. These species are insoluble in all solvents with which they do not react. CaH2 crystallizes in the PbCl2 (cotunnite) structure.
+Calcium hydride is prepared from its elements by direct combination of calcium and hydrogen at 300 to 400 °C.
+CaH2 is a reducing agent for the production of metal powders from the oxides of Ti, V, Nb, Ta, and U. It is proposed to operate via its decomposition to Ca metal:
+TiO2 + 2 CaH2 → Ti + 2 CaO + 2 H2
+CaH2 has been used for hydrogen production. In the 1940s, it was available under the trade name "Hydrolith" as a source of hydrogen:
+'The trade name for this compound is "hydrolith"; in cases of emergency, it can be used as a portable source of hydrogen, for filling airships. It is rather expensive for this use.'
+The reference to "emergency" probably refers to wartime use. The compound has, however, been widely used for decades as a safe and convenient means to inflate weather balloons. Likewise, it is regularly used in laboratories to produce small quantities of highly pure hydrogen for experiments. The moisture content of diesel fuel is estimated by the hydrogen evolved upon treatment with CaH2.
+The reaction of CaH2 with water can be represented as follows:
+CaH2 + 2 H2O → Ca(OH)2 + 2 H2
+The two hydrolysis products, H2, a gas and Ca(OH)2, are readily separated from the dried solvent.
+Calcium hydride is a relatively mild desiccant and, compared to molecular sieves, probably inefficient. Its use is safer than more reactive agents such as sodium metal or sodium-potassium alloy. Calcium hydride is widely used as a desiccant for basic solvents such as amines and pyridine. It is also used to dry alcohols.
+Despite its convenience, CaH2 has a few drawbacks:
+it is insoluble in all solvents with which it does not react vigorously, in contrast to LiAlH4, thus the speed of its drying action can be slow.
+Because CaH2 and Ca(OH)2 are almost indistinguishable in appearance, the quality of a sample of CaH2 is not obvious visually.
+calcium monohydride

@@ -1,0 +1,136 @@
+In common usage, theft is the taking of another person's property without that person's permission or consent with the intent to deprive the rightful owner of it. The word is also used as an informal shorthand term for some crimes against property, such as burglary, embezzlement, larceny, looting, robbery, shoplifting, library theft, and fraud (i.e., obtaining money under false pretenses). In some jurisdictions, theft is considered to be synonymous with larceny; in others, theft has replaced larceny. Someone who carries out an act of or makes a career of theft is known as a thief. The act of theft is also known by other terms such as stealing, thieving, and filching.
+Theft is the name of a statutory offence in California, Canada, England and Wales, Hong Kong, Northern Ireland, Ireland, Victoria (Australia) and South Australia.
+The actus reus of theft is usually defined as an unauthorized taking, keeping or using of another's property which must be accompanied by a mens rea of dishonesty and/or the intent to permanently deprive the owner or the person with rightful possession of that property or its use.
+For example, if X goes to a restaurant and, by mistake, takes Y's scarf instead of her own, she has physically deprived Y of the use of the property (which is the actus reus) but the mistake prevents X from forming the mens rea (i.e., because she believes that she is the owner, she is not dishonest and does not intend to deprive the "owner" of it) so no crime has been committed at this point. But if she realises the mistake when she gets home and could return the scarf to Y, she will steal the scarf if she dishonestly keeps it (see theft by finding). Note that there may be civil liability for the torts of trespass to chattels or conversion in either eventuality.
+Section 322(1) of the Criminal Code provides the general definition for theft in Canada:
+322. (1) Every one commits theft who fraudulently and without colour of right takes, or fraudulently and without colour of right converts to his/her use or to the use of another person, anything, whether animate or inanimate, with intent
+(a) to deprive, temporarily or absolutely, the owner of it, or a person who has a special property or interest in it, of the thing or of his property or interest in it;
+(b) to pledge it or deposit it as security;
+(c) to part with it under a condition with respect to its return that the person who parts with it may be unable to perform; or
+(d) to deal with it in such a manner that it cannot be restored in the condition in which it was at the time it was taken or converted.
+Sections 323 to 333 provide for more specific instances and exclusions:
+theft from oyster beds (s. 323)
+theft by bailee of things under seizure (s. 324)
+exception when agent is pledging goods (s. 325)
+theft of telecommunications service (s. 326)
+possession of device to obtain telecommunication facility or service (s. 327)
+theft by or from person having special property or interest (s. 328)
+theft by person required to account (s. 330)
+theft by person holding power of attorney (s. 331)
+misappropriation of money held under direction (s. 332)
+exception for ore taken for exploration or scientific research (s. 333)
+In the general definition above, the Supreme Court of Canada has construed "anything" very broadly, stating that it is not restricted to tangibles, but includes intangibles. To be the subject of theft it must, however:
+be property of some sort;
+be property capable of being
+taken (therefore intangibles are excluded); or
+converted (and may be an intangible);
+taken or converted in a way that deprives the owner of his/her proprietary interest in some way.
+Because of this, confidential information cannot be the subject of theft, as it is not capable of being taken as only tangibles can be taken. It cannot be converted, not because it is an intangible, but because, save in very exceptional far‑fetched circumstances, the owner would never be deprived of it. However, the theft of trade secrets in certain circumstances does constitute part of the offence of economic espionage, which can be prosecuted under s. 19 of the Security of Information Act.
+For the purposes of punishment, Section 334 divides theft into two separate offences, according to the value and nature of the goods stolen:
+If the thing stolen is worth more than $5000 or is a testamentary instrument the offence is commonly referred to as Theft Over $5000 and is an indictable offence with a maximum punishment of 10 years imprisonment.
+Where the stolen item is not a testamentary instrument and is not worth more than $5000 it is known as Theft Under $5000 and is a hybrid offence, meaning that it can be treated either as an indictable offence or a less serious summary conviction offence, depending on the choice of the prosecutor.
+if dealt with as an indictable offence, it is punishable by imprisonment for not more than 2 years, and,
+if treated as a summary conviction offence, it is punishable by 6 months imprisonment, a fine of $2000 or both.
+Where a motor vehicle is stolen, Section 333.1 provides for a maximum punishment of 10 years for an indictable offence (and a minimum sentence of six months for a third or subsequent conviction), and a maximum sentence of 18 months on summary conviction.
+Theft is a crime with related articles in the Wetboek van Strafrecht.
+Article 310 prohibits theft (Dutch: diefstal), which is defined as taking away any object that (partly) belongs to someone else, with the intention to appropriate it illegally. Maximum imprisonment is 4 years or a fine of the fifth category.
+Article 311 consists of the following:
+Part 1. Punishable with maximum imprisonment of 6 years or a fine of the fourth category is:
+1. Theft of cattle;
+2. Theft during certain emergency occasions;
+3. Theft during night in a residence by someone who is there without knowledge or permission of the owner;
+4. Theft by 2 or more organized people;
+5. Theft, where the thief got access by means of violence, climbing in, using false keys or disguise;
+6. Terroristic theft.
+Part 2. When theft if committed as in 3 with the situation of 4 and 5, the punishment is a maximum imprisonment of 9 nears or a fine of the fifth category.
+Article 312 consists of the following:
+Part 1 prohibits robbery (Dutch: beroving), which is defined as taking away any object with violence or with threat of violence. Maximum imprisonment is 9 years or a fine with the fifth category
+Part 2 allows maximum imprisonment of 12 years or a fine of the fifth category when:
+1. Robbery was committed during night, in a residence, on the public road or moving train;
+2. Robbery was committed by 2 or more people;
+3. Robbery was committed by violence, climbing in, false key or disguise;
+4. Robbery caused severe injury;
+5. Robbery was terroristic.
+Part 3 allows maximum imprisonment of 15 years instead of 12 when robbery caused death to the victim.
+Article 314 consists of the following:
+Part 1 prohibits poaching (Dutch: stroperij), which is defined as taking away without violence the following: clay, sand, earth, raw wood, fallen vegetables (see the source for a complete list). Maximum imprisonment is one month or a fine of the second category.
+Part 2 increases the maximum imprisonment to 2 months when the crime is committed again less than 2 years after the first time.
+Article 315 increases the maximum imprisonment and fine category when poaching is done with vehicles and draft animals. Maximum imprisonment is 3 years or a fine of the fourth category.
+Theft is a statutory offence, created by section 4(1) of the Criminal Justice (Theft and Fraud Offences) Act, 2001.
+According to the Romanian Penal Code a person committing theft (furt) can face a penalty ranging from 1 to 20 years.
+Degrees of theft:
+Article 208: Theft (1 to 12 years)—When a person steals an object, or uses a vehicle without permission and no aggravating circumstances apply.
+Article 209: Qualified theft (3 to 20 years)
+Aggravating circumstances (3 to 15 years): a) by two or more persons together; b) by a person in possession of a gun or a narcotic substance; c) by a masked or disguised person; d) against a person who cannot defend his or herself; e) in a public place; f) in a public transportation vehicle; g) during nighttime; h) during a natural disaster; i) through burglary, or by using an original or copied key; j) stealing national treasures; k) stealing official identity papers with the intention to make use of them; l) stealing official identity badges with the intention to make use of them.
+Aggravating circumstances (4 to 18 years): a) stealing petrol-based products directly from transportation pipes and vehicles or deposits; b) stealing components from national electrification, telecommunication, irrigation networks or from any type of navigational system; c) stealing a siren; d) stealing a public intervention vehicle or device; e) stealing something which jeopardises the safety of public transportation.
+Aggravating circumstances (10 to 20 years): when the consequences are extremely grave and affect public institutions or the material stolen is worth over 200,000 RON (approximately US$80,000).
+In England and Wales, theft is a statutory offence, created by section 1(1) of the Theft Act 1968. This offence replaces the former offences of larceny, embezzlement and fraudulent conversion.
+The marginal note to section 1 of the Theft Act 1968 describes it as a "basic definition" of theft. Sections 1(1) and (2) provide:
+1.-(1) A person is guilty of theft, if he dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it; and "thief" and "steal" shall be construed accordingly.
+(2) It is immaterial whether the appropriation is made with a view to gain, or is made for the thief’s own benefit.
+Sections 2 to 6 of the Theft Act 1968 have effect as regards the interpretation and operation of section 1 of that Act. Except as otherwise provided by that Act, sections 2 to 6 of that Act apply only for the purposes of section 1 of that Act.
+See dishonesty.
+Section 3 provides:
+(1) Any assumption by a person of the rights of an owner amounts to an appropriation, and this includes, where he has come by the property (innocently or not) without stealing it, any later assumption of a right to it by keeping or dealing with it as owner.
+(2) Where property or a right or interest in property is or purports to be transferred for value to a person acting in good faith, no later assumption by him of rights which he believed himself to be acquiring shall, by reason of any defect in the transferor’s title, amount to theft of the property.
+See R v Hinks and Lawrence v Metropolitan Police Commissioner.
+Section 4(1) provides that:
+"Property" includes money and all other property, real or personal, including things in action and other intangible property.
+Edward Griew said that section 4(1) could, without changing its meaning, be reduced, by omitting words, to:
+"Property" includes ... all ... property.
+Sections 4(2) to (4) provide that the following can only be stolen under certain circumstances:
+Land or things forming part of land and severed from it (s. 4(2))
+Mushrooms growing wild on any land, or the flowers, fruit or foliage of plants growing wild on any land (s. 4(3))
+Wild creatures or the carcases of wild creatures (s. 4(4))
+Intangible property
+Confidential information and trade secrets are not property within the meaning of section 4.
+The words "other intangible property" include export quotas that are transferable for value on a temporary or permanent basis.
+Electricity
+Electricity cannot be stolen. It is not property within the meaning of section 4 and is not appropriated by switching on a current. Cf. the offence of abstracting electricity under section 13.
+Section 5 "belonging to another" requires a distinction to be made between ownership, possession and control:
+ownership is where a person is not legally accountable to anyone else for the use of the property:
+possession is where a person is only accountable to the owner for the use of the property; and
+control is where a person is only accountable to two people for the use of the property.
+So if A buys a car for cash, A will be the owner. If A then lends the car to B Ltd (a company), B Ltd will have possession. C, an employee of B Ltd then uses the car and has control. If C uses the car in an unauthorised way, C will steal the car from A and B Ltd. This means that it is possible to steal one's own property.
+In R v Turner, the owner removed his car from the forecourt of a garage where it had been left for collection after repair. He intended to avoid paying the bill. There was an appropriation of the car because it had been physically removed but there were two issues to be decided:
+did the car "belong to another"? The garage had a lien i.e. a "proprietary right or interest" in the car as security for the unpaid bill and this gave the garage a better right than the owner to possess the car at the relevant time.
+what was the relevance of Turner's belief that he could not steal his own property? The defence of mistake of law only applies if the defendant honestly believes that he has a right in law to act in the given way. Generalised and non-specific beliefs about what the law might permit are not a defence.
+Section 6 "with the intent to permanently deprive the other of it" is sufficiently flexible to include situations where the property is later returned. For example, suppose that B, a keen football fan, has bought a ticket for the next home match. T takes the ticket, watches the match and then returns the ticket to B. In this instance, all that T returns is a piece of paper. Its value as a licence to enter the stadium on a particular day has been permanently lost. Hence, T steals the ticket. Similarly, if T takes a valuable antique but later repents and returns the goods, T has committed the actus reus with the mens rea. The fact that T's conscience forces a change of mind is relevant only for sentencing.
+Alternative verdict
+The offence created by section 12(1) of the Theft Act 1968 (TWOC) is available an alternative verdict on an indictment for theft.
+Visiting forces
+Theft is an offence against property for the purposes of section 3 of the Visiting Forces Act 1952.
+Mode of trial and sentence
+Theft is triable either way. A person guilty of theft is liable, on conviction on indictment, to imprisonment for a term not exceeding seven years, or on summary conviction to imprisonment for a term not exceeding six months, or to a fine not exceeding the prescribed sum, or to both.
+Aggravated theft
+The only offence of aggravated theft is robbery, contrary to section 8 of the Theft Act 1968.
+Stolen goods
+For the purposes of the provisions of the Theft Act 1968 which relate to stolen goods, goods obtain in England or Wales or elsewhere by blackmail or fraud are regarded as stolen, and the words "steal", "theft" and "thief" are construed accordingly.
+Sections 22 to 24 and 26 to 28 of the Theft Act 1968 contain references to stolen goods.
+Handling stolen goods
+The offence of handling stolen goods, contrary to section 22(1) of the Theft Act 1968, can only be committed "otherwise than in the course of stealing".
+Similar or associated offences
+According to its title, the Theft Act 1968 revises the law as to theft and similar or associated offences. See also the Theft Act 1978.
+In Northern Ireland, theft is a statutory offence, created by section 1 of the Theft Act (Northern Ireland) 1969.
+In the United States, plenary regulation of theft exists only at the state level, in the sense that most thefts by default will be prosecuted by the state in which the theft occurred. The federal government has criminalized certain narrow categories of theft which directly affect federal agencies or interstate commerce.
+Although many U.S. states have retained larceny as the primary offense, some have now adopted theft provisions.
+In many states, grand theft of a vehicle is charged as "grand theft auto" (see motor vehicle theft for more information).
+Repeat offenders who continue to steal may become subject to life imprisonment in certain states.
+Sometimes the federal anti-theft-of-government-property law 18 U.S.C. § 640 is used to prosecute cases where the Espionage Act would otherwise be involved; the theory being that by retaining sensitive information, the defendant has taken a 'thing of value' from the government. For examples, see the Amerasia case and United States v. Bradley Manning.
+The Theft Act of 1927 consolidated a variety of common law crimes into theft. The state now distinguishes between two types of theft, grand theft and petty theft. Grand theft generally consists of the theft of something of value over $950 (it can be money, labor or property but is lower with respect to various specified property), while petty theft is the default category for all other thefts. Grand theft is punishable by up to a year in jail or prison, and may be charged (depending upon the circumstances) as a misdemeanor or felony, while petty theft is a misdemeanor punishable by a fine or imprisonment not exceeding six months in jail or both. As for the older crimes of embezzlement, larceny, and stealing, any preexisting references to them now mean theft instead.
+Victoria
+Theft is defined at s.72 of the Crimes Act 1958. The actus reus and mens rea are defined as follows:
+Appropriation - defined at s.73(4) of the Crimes Act 1958 as the assumption of any of the owners rights. It does not have be all the owner's rights, as long as at least one right has been assumed(Stein v Henshall). If the owner gave their consent to the appropriation there cannot be an appropriation(Baruday v R). However, if this consent is obtained by deception, this consent is vitiated.
+Property - defined at s.71(1) of the Crimes Act 1958 as being both tangible property, including money and intangible property. Information has been held not be property (Oxford v Moss).
+Belonging to another - s.73(5) that property belongs to another if that person has ownership, possession, or a proprietary interest in the property. Property can belong to more than one person. s.73(9) & s.73(10) deal with situations where the accused receives property under an obligation or by mistake.
+South Australia
+Theft is defined at s.134 of the Criminal Consolidation Act 1935 (SA).
+If a person deals with property dishonestly, without the owners consent and intending to deprive the owner of their property, or make a serious encroachment on the proprietary rights of the owner, they are guilty of theft.
+Under this law, encroachment on proprietary rights means that the property is dealt with in a way that creates a substantial risk that the property will not be returned to the owner, or that the value of the property will be greatly diminished when the owner does get it back. Also, where property is treated as the defendants own property to dispose of, disregarding the actual property owner’s rights.
+For a basic offence, a person found guilty of this offence is liable for imprisonment of up to 10 years.
+For an aggravated offence, a person found guilty of this offence is liable for imprisonment of up to 15 years.
+Intention to permanently deprive - defined at s.73(12) as treating property as it belongs to the accused, rather than the owner.
+Dishonestly - s.73(2) creates a negative definition of the term 'dishonestly'. The section deems only three circumstances when the accused is deemed to have been acting honestly. These are a belief in a legal claim of right (s.73(2)(a)), a belief that the owner would have consented (s.73(2)(b)), or a belief the owner could not be found(s.73(2)(c))
+In the British West Indies, especially Grenada, there have been a spate of large-scale thefts of tons of sand from beaches. Both Grenada and Jamaica are considering increasing fines and jail time for the thefts.
+In parts of the world which govern with sharia law, the punishment for theft is amputation of the right hand if the thief does not repent. This ruling is derived from sura 5 verse 38 of the Quran which states As to the thief, Male or female, cut off his or her hands: a punishment by way of example, from Allah, for their crime: and Allah is Exalted in power. This is viewed as being a deterrent.
+Specific forms of theft and other related offences

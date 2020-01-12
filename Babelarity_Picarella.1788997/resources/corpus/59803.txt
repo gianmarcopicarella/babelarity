@@ -1,0 +1,8 @@
+Keto acids or ketoacids (also called oxo acids or oxoacids) are organic compounds that contain a carboxylic acid group and a ketone group. In several cases, the keto group is hydrated. The alpha-keto acids are especially important in biology as they are involved in the Krebs citric acid cycle and in glycolysis.
+Common types of keto acids include:
+Alpha-keto acids, or 2-oxoacids, such as pyruvic acid, have the keto group adjacent to the carboxylic acid. One important alpha-keto acid is oxaloacetic acid, a component of the Krebs cycle. Another is alpha-ketoglutarate, is a 5-carbon ketoacid derived from glutamic acid. Alpha-ketoglutarate participates in cell signaling by functioning as a coenzyme, and is commonly used in transamination reactions.
+Beta-keto acids, or 3-oxoacids, such as acetoacetic acid, have the ketone group at the second carbon from the carboxylic acid. They can be formed by the Claisen condensation.
+Gamma-keto acids, or 4-oxoacids, such as levulinic acid, have the ketone group at the third carbon from the carboxylic acid.
+When ingested sugars and carbohydrate levels are low, stored fats and proteins are the primary source of energy production. Glucogenic amino acids from proteins are converted to glucose. Ketogenic amino acids can be deaminated to produce alpha keto acids and ketone bodies.
+Alpha keto acids are used primarily as energy for liver cells and in fatty acid synthesis, also in the liver.
+Ulosonic acids

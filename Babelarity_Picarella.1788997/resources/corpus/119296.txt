@@ -1,0 +1,5 @@
+3361 Orpheus (1982 HR) is an Apollo asteroid that was discovered on April 24, 1982 by Carlos Torres at Cerro El Roble Astronomical Station. Its eccentric orbit crosses that of Mars and Earth, and approaches Venus as well. From 1900 to 2100 it passes closer than 30 Gm to Venus 11, Earth 33, and Mars 14 times. It passed by Earth at a distance of about 40 lunar distances on December 7, 2013.
+3361 Orpheus is a potentially hazardous asteroid (PHA) because its minimum orbit intersection distance (MOID) is less than 0.05 AU and its diameter is greater than 150 meters. The Earth-MOID is 0.0139 AU (2,080,000 km; 1,290,000 mi). Its orbit is well-determined for the next several hundred years.
+The orbital solution includes non-gravitational forces.
+3361 Orpheus had been one of the originally proposed targets for the Near Earth Asteroid Rendezvous (NEAR) mission.
+The proposed AIDA may make a fly-by observation of 3361 Orpheus during its trajectory to asteroid 65803 Didymos.

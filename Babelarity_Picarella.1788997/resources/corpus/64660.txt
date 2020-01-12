@@ -1,0 +1,44 @@
+In mathematics and computer science, a higher-order function (also functional, functional form or functor) is a function that does at least one of the following:
+takes one or more functions as arguments (i.e., procedural parameters),
+returns a function as its result.
+All other functions are first-order functions. In mathematics higher-order functions are also known as operators or functionals. The differential operator in calculus is a common example, since it maps a function to its derivative, also a function.
+In the untyped lambda calculus, all functions are higher-order; in a typed lambda calculus, from which most functional programming languages are derived, higher-order functions that take one function as argument are values with types of the form 
+        (
+          τ
+            1
+        →
+          τ
+            2
+        )
+        →
+          τ
+            3
+    {\displaystyle (\tau _{1}\to \tau _{2})\to \tau _{3}}
+  .
+The map function, found in many functional programming languages, is one example of a higher-order function. It takes as arguments a function f and a list of elements, and as the result, returns a new list with f applied to each element from the list. Another very common kind of higher-order function in those languages which support them are sorting functions which take a comparison function as a parameter, allowing the programmer to separate the sorting algorithm from the comparisons of the items being sorted. The C standard function qsort is an example of this.
+Other examples of higher-order functions include fold, function composition, integration, and the constant-function function λx.λy.y.x.
+The examples are not intended to compare and contrast programming languages, but to serve as examples of higher-order function syntax
+In the following examples, the higher-order function twice takes a function, and applies the function to some value twice. If twice has to be applied several times for the same f it preferably should return a function rather than a value. This is in line with the "don't repeat yourself " principle.
+In Clojure, "#" starts a lambda expression, and "%" refers to the next function argument.
+In this Scheme example, the higher-order function (f x) is used to implement currying. It takes a single argument and returns a function. The evaluation of the expression ((f 3) 7) first returns a function after evaluating (f 3). The returned function is (lambda (y) (+ 3 y)). Then, it evaluates the returned function with 7 as the argument, returning 10. This is equivalent to the expression (add 3 7), since (f x) is equivalent to the curried form of (add x y).
+In this Erlang example, the higher-order function or_else/2 takes a list of functions (Fs) and argument (X). It evaluates the function F with the argument X as argument. If the function F returns false then the next function in Fs will be evaluated. If the function F returns {false,Y} then the next function in Fs with argument Y will be evaluated. If the function F returns R the higher-order function or_else/2 will return R. Note that X, Y, and R can be functions. The example returns false.
+In this JavaScript example, the higher-order function arrayForEach takes an array and a function in as arguments and calls the function on every element in the array. Although the function may or may not return a value, there is no mapping involved since mapping requires saving returned values to a list.
+However, this could also be implemented using the map function, which in JavaScript can accept functions with no return value.
+Function pointers in languages such as C and C++ allow programmers to pass around references to functions. The following C code computes an approximation of the integral of an arbitrary function:
+The qsort function from the C standard library uses a function pointer to emulate the behavior of a higher-order function.
+Macros can also be used to achieve some of the effects of higher order functions. However, macros cannot easily avoid the problem of variable capture; they may also result in large amounts of duplicated code, which can be more difficult for a compiler to optimize. Macros are generally not strongly typed, although they may produce strongly typed code.
+In other imperative programming languages it is possible to achieve some of the same algorithmic results as are obtained through use of higher-order functions by dynamically executing code (sometimes called "Eval" or "Execute" operations) in the scope of evaluation. There can be significant drawbacks to this approach:
+The argument code to be executed is usually not statically typed; these languages generally rely on dynamic typing to determine the well-formedness and safety of the code to be executed.
+The argument is usually provided as a string, the value of which may not be known until run-time. This string must either be compiled during program execution (using just-in-time compilation) or evaluated by interpretation, causing some added overhead at run-time, and usually generating less efficient code.
+In object-oriented programming languages that do not support higher-order functions, objects can be an effective substitute. An object's methods act in essence like functions, and a method may accept objects as parameters and produce objects as return values. Objects often carry added run-time overhead compared to pure functions, however, and added boilerplate code for defining and instantiating an object and its method(s). Languages that permit stack-based (versus heap-based) objects or structs can provide more flexibility with this method.
+An example of using a simple stack based record in Free Pascal with a function that returns a function:
+The function a() takes a Txy record as input and returns the integer value of the sum of the record's x and y fields (3 + 7).
+Defunctionalization can be used to implement higher-order functions in languages that lack first-class functions:
+In this case, different types are used to trigger different functions through the use of overloading. The overloaded function in this example has the signature auto apply.
+First-class function
+Combinatory logic
+Function-level programming
+Functional programming
+Kappa calculus - a formalism for functions which excludes higher-order functions
+Strategy pattern
+Higher order messages

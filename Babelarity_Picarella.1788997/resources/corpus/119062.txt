@@ -1,0 +1,9 @@
+John Kerr FRS (17 December 1824 – 15 August 1907) was a Scottish physicist and a pioneer in the field of electro-optics. He is best known for the discovery of what is now called the Kerr effect.
+John Kerr was born on 17 December 1824 at Ardrossan, Scotland. He was a student in Glasgow from 1841 to 1846, and at the Theological College of the Free Church of Scotland, in Edinburgh, in 1849. Starting in 1857 he was mathematical lecturer at the Free Church Training College in Glasgow. He died in Glasgow in 1907.
+Kerr's most important experimental work was the discovery of double refraction in solid and liquid dielectrics in an electrostatic field (1875) and of the so-called Kerr effect. In the Kerr effect, a change in refractive index is proportional to the square of the electric field. Where the relationship is linear, the effect is known as the Pockels effect. Kerr also demonstrated a similar phenomenon for magnetic fields, and it is now called the magneto-optic Kerr effect. Light from lasers allows the achievement of the effect using the light's own electric field, the AC Kerr effect.
+The Kerr effect is exploited in the Kerr cell, which is used in applications such as shutters in high-speed photography, with shutter-speeds as fast as 100 ns. In 1928 Karolus & Mittelstaedt used a Kerr cell to modulate a beam of light to measure its speed. Earlier measurements had used mechanical means of modulation achieving frequencies of around 10 kHz, but the Kerr cell allow frequencies of 10 MHz and greater precision of measurement. Kerr's original cell was a glass block. Modern cells are more commonly filled with liquids such as nitrobenzene.
+Kerr also was an early champion of the metric system in the UK.
+Honorary LL.D from the University of Glasgow (1864)
+Fellow of the Royal Society (1890)
+Royal Medal of the Royal Society (1898)
+Civil list pension (1902)

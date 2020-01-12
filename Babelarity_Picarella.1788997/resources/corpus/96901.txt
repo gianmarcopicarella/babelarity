@@ -1,0 +1,20 @@
+Anvil (development project name Scimitar before 2006) is a game engine created in 2007 by Ubisoft Montreal video game developers for use on Microsoft Windows, PlayStation 3, Xbox 360, Wii U, PlayStation Vita, Xbox One, and PlayStation 4.
+The engine is coded mainly in C++. At the time Ubisoft is trying to integrate C# to ensure an enhancement of versatility.
+Claude Langlais (Technical Director of Ubisoft Montreal) says that modeling is done in 3ds Max for environment and ZBrush for characters. The engine uses Autodesk's HumanIK middleware to correctly position the character's hands and feet in climbing and pushing animations at run-time. Anvil has been improved for Assassin's Creed II. Features added include a full night and day cycle, enhanced draw distance, the same vegetation technology used in Far Cry 2, improved lighting, reflection and special effects, new cloth system, and a new AI and NPC navigation system. Assassin's Creed: Lineage short films made by Hybride Technologies (a post-production VFX studio acquired by Ubisoft) and Ubisoft Digital Arts used assets from Anvil to recreate the environment in which the live actors are filmed.
+The latest iteration of the engine is called AnvilNext, which was developed for Assassin's Creed III and beyond featuring a number of enhancements. Firstly, AnvilNext adds support for a new weather system, which allows for specific weather settings as well as an automatically cycling mode as seen in Assassin's Creed IV. Secondly, the renderer was rewritten for higher efficiency and support for additional post-processing techniques, enabling up to 3,000 non-playable characters to be rendered in real time (compared to the few 100s in the previous Anvil engine). Finally, AnvilNext adds technology from Far Cry 4 to support a more dynamic sandbox environment and new water technology, where the game world could change over time depending on player actions and progression. This means enemy settlements on both land and sea may appear/disappear relating to the events in the game, and water effects could be adjusted as accordingly. More importantly, AnvilNext starting with Assassin's Creed Unity is capable of generating structures in a flexible and automatic manner while following specific design rules and templates, which reduces the amount of time and manual effort required for artists and designers to create an intricate urban environment. Specific landmarks, such as the Notre Dame de Paris, are still designed by hand but now could be rendered at an almost 1:1 ratio to its real-life counterpart. AnvilNext also features improved AI for non-playable characters.
+The engine received a variety of significant upgrades, including pre-baked Global Illumination, reflection mapping, volumetric fog, dynamic weather, and dynamic foliage to name but a few examples. For Unity there has been a similar upgrade, advanced control mechanics with Physically Based Rendering (PBR) being the stand-out addition, enabling materials, objects and surfaces to look and react more realistically to lighting, shading and shadowing. Furthermore, the Global Illumination system is now more realistic with the addition of volumetric technology, physics-led objects react more realistically, and cloth behaves in a realistic manner on the protagonist, in the environment, and on other characters. The world now supports larger landmasses, more objects, bigger buildings, building interiors that can be accessed without loading screens, and many other additions that enhance visual fidelity, immersion, and the gameplay.
+Assassin's Creed (2007)
+Prince of Persia (2008)
+Shaun White Snowboarding (2008)
+Assassin's Creed II (2009)
+Prince of Persia: The Forgotten Sands (2010)
+Assassin's Creed: Brotherhood (2010)
+Assassin's Creed: Revelations (2011)
+Assassin's Creed III (2012)
+Assassin's Creed III: Liberation (2012)
+Assassin's Creed IV: Black Flag (2013)
+Assassin's Creed Rogue (2014)
+Assassin's Creed Unity (2014)
+Assassin's Creed Syndicate (2015)
+Tom Clancy's Rainbow Six: Siege (2015)
+For Honor (2017)

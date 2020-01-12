@@ -1,0 +1,54 @@
+The Walser language (German: Walserdeutsch), also known as Walliser German (locally Wallisertiitsch), is a group of Highest Alemannic dialects spoken in parts of Switzerland (Wallis region, Ticino, Graubünden), Italy (Piedmont, Aosta Valley), Liechtenstein, and Austria (Vorarlberg).
+The terms Walser and Walliser are geographic; there is no linguistic divide. Specific Walser dialects can be traced to eastern or western dialects of Wallis canton. Conservative Walser dialects are more similar to the respective groups of Wallis dialects than to neighboring Walser dialects.
+The German-speaking immigration to the Wallis started in the 8th century from the canton of Bern. There were presumably two different immigration routes that led to two main groups of Walliser dialects. In the twelfth or thirteenth century, the Walliser began to settle other parts of the Alps. These new settlements are known as Walser migration. In many of these settlements, people still speak Walser.
+The dialects are difficult to understand for people who speak Swiss German (called Üsserschwyzer 'outer Swiss' by the Walliser), and it is different from Standard German as well. Because the dialect group is quite spread out, there is rarely any contact between the dialects. Therefore, the dialects that compose Walser German are very different from each other as well. Because the people who speak Walser German live in the isolated valleys of the high mountains, Walser German has preserved many archaisms, which makes it nearest to Old High German. The dialect of the Lötschental, for instance, preserved three distinct classes of weak verbs until the beginning of the 20th century. Walser German also shows linguistic innovations, such as the plural Tannu - Tannä (fir - firs), also found in the other Highest Alemannic dialects.
+Walser German dialects are considered endangered, and language shift to the majority language (Italian, German) is occurring. The total number of speakers in the world is about 22,780, with about 10,000 in Switzerland alone.
+Valais: Simplon, Gondo (Zwischbergen)
+valleys in the Monte Rosa massif:
+Aosta Valley: Gressoney-La-Trinité, Gressoney-Saint-Jean, Issime, historically in upper Ayas Valley and in Champdepraz.
+Vercelli province: Alagna Valsesia, Rima San Giuseppe, Rimella, Riva Valdobbia
+Verbano-Cusio-Ossola province: Formazza, Macugnaga, Ornavasso, Agaro and Salecchio (frazioni of Premia), Ausone, Campello Monti (frazione of Valstrona)
+Bernese Oberland: Lauterbrunnen, Mürren, Planalp
+Canton of Grisons: Rheinwald, Obersaxen, Vals GR, Signina (Gemeinde Riein, Safiental, Tenna, Valendas, Versam, Tschappina, Avers, Mutten, Schanfigg, upper Landwassertal, Davos, Prättigau
+Liechtenstein (probably settled from Prättigau): Triesenberg, Planken
+Canton of Ticino: Bosco-Gurin
+Canton of St. Gall: Calfeisental, Taminatal
+Vorarlberg and Tirol: Großes Walsertal, Kleines Walsertal; Tannberg, Schröcken, Lech and Warth, parts of Steeg in Tirol, Galtür and Ischgl in the Paznauntal, Brand, Bürserberg, Dünserberg, Ebnit, Laternsertal, Damüls, Silbertal
+Allgäu: Kleinwalsertal
+Because the dialects of Walser German are different from each other, it is difficult to make generalizations about the language that applies to all the dialects. This section will be about the Walser German dialect of Formazza, or Pomattertitsch. Pomattertitsch is part of the Highest Alemannic German (höchstalemannisch) dialect group, which is made up of dialects that share similar features. The Highest Alemannic German group contains German dialects of Valais; Walser German dialects in Italy and Ticino; and eastern Walser German dialects in Grisons, Vorarlberg, and Liechtenstein. The first feature that is shared by this group is the palatalization of Middle High German (MHG) -s- to -sch-. This is actually really typical of Walser German dialects in general. For Pomattertitsch,however, this doesn't apply to every word that contains -s-: su 'son', sunna 'sun', and si 'to be'. The second feature is a change from -nk- to -ch- or -h-: German denken to Pomattertitsch teche 'think', German trinken to Pomattertitsch triche 'drink'. The final feature is the lack of diphthongs where they are present in German words: German bauen to Pomattertitsch büwe 'build', German schneien to Pomattertitsch schnie 'snow'.
+Again, this section will be about the Walser German dialect Pomattertitsch.
+Pomattertitsch marks number (singular and plural) and gender (masculine, feminine, neuter) on nouns, like most dialects of German. It also marks case (nominative/accusative, genitive, dative) on nouns, although it has been reduced over time. It also distinguishes between strong and weak nouns, which is becoming blurred over time as well.
+Table 1 Nouns:
+Pomattertitsch has definite (English 'the') and indefinite (English 'a') articles that agree in case, number, and gender with the noun:
+Table 2 Definite Articles:
+Table 3 Indefinite Articles:
+Adjectives also agree in number, and gender with the noun it is modifying in Pomattertitsch. For adjectives in the attributive position, there is also agreement in strong versus weak nouns, and in case.
+Table 4 Strong Attributive 'tired':
+Table 5 Weak Attributive 'tired':
+Table 6 Predicative 'tired':
+In Pomattertitsch, there is a distinction between impersonal and personal pronouns. The impersonal pronoun is mu, which is third person singular. The personal pronouns agree in number and case, with third person agreeing in gender as well for singular pronouns only.
+Table 7 Personal Pronouns:
+The verbs in Pomattertitsch can be categorized into one of four classes depending on their past participle and infinitive endings:
+Strong verbs: infinitive ending in -ä, past participle ending in -ä. Examples: schlissä/gschlossä 'close', wärfä/gworfä 'throw', mälchä/gmolchä 'milk'.
+Weak verbs, Old High German -jan, -en: infinitive ending in -ä, past participle ending in -t. Examples: zellä/zellt 'speak', läbä/gläbt 'live'.
+Weak verbs, Old High German -on: infinitive ending in -u, past participle ending in -(u)t. Examples: machu/gmachut 'make', losu/glost 'listen', malu/gmalut 'paint'.
+Weak verbs derived from Italian: infinitive ending in -ire, past participle ending in -irt. Examples: pentsire/pentsirt 'think', studire/studirt 'study'.
+The two classes that are most productive are three and four. The third class is most productive in deriving verbs from nouns, and the fourth class is most productive in deriving loan-words from Italian.
+Table 8 Verb Conjugations in Present Indicative of 'Normal Verbs':
+Table 9 Verb Conjugations in Present Indicative of 'Special Verbs':
+In Pomattertitsch, a 'dummy' auxiliary tö 'do' followed by the infinitive form of a verb is common for the present indicative, subjunctive, and imperative. This insertion has the same meaning as if the verb was to be conjugated normally: ich tö zellä 'I do speak/I speak'.
+There is not a preterite form in Pomattertitsch. Instead, past tense is expressed using the present perfect, which is formed with auxiliaries 'to be' and 'to have' followed by the past participle. On the other hand, the future tense is expressed morphologically by adding the particle de at the end of an inflected verb and after enclitic pronouns, if there are any in the sentence.
+The passive is expressed in Pomattertitsch by using the auxiliary cho 'come' followed by the past participle of the verb, which agrees in gender and number with the subject of the sentence: der salam chun röwä gässä 'salami is eaten raw'. The causative is expressed using tö 'do' followed by the agent of the caused event, then the preposition z (separate word, not morpheme), and then the infinitive: und töt ds metjie z ässä 'and he makes the girl eat'. The imperative is expressed most commonly by using tö 'do' plus the infinitive, as stated above: tö frägä! 'do ask, ask!'. Another way is the bare indicative stem for the singular form, and the same present indicative form for the plural: zel titsch, dü! 'speak German, you!' and chomet hier! 'come (pl) here!'.
+There are two different subjunctive forms used in Pomattertitsch. The first form is used mainly in reported speech and in subordinate clauses that follow 'say' or 'think'. It also occurs in complement clauses that follow das 'that'. The second form is used for the conditional mood, where the conjunction wenn 'if' can be omitted without changing the meaning of the sentence.
+Table 10 Subjunctive 1:
+Table 11 Subjunctive 2:
+The Walser German dialect group has the same word order as German, for the most part. For some dialects, however, there is a change occurring in the word order of verbal brace constructions. In German, the finite verb occurs in the second position, and the non-finite verb occurs in the final position:
+Peter hat vorhin den Ball ins Tor geworfen
+Peter has just now the ball into the goal thrown
+'Peter threw the ball into the goal just now'
+In some dialects, specifically Gressoney, Formazza, and Rimella, the finite and non-finite verbs occur right next to each other, with the complements and adverbials at the end of the sentence. An example of this in Rimella is given below:
+de pappa òn d mamma hein gmacht ds chriz dem chénn
+the father and the mother have made the cross to the child
+'The father and mother made a cross for the child'
+This is a change from SOV (subject, object, verb) to SVO word order. This change is due to the increasing influence of Italian on Walser German. However, the SOV word order is still used when there is negation and when there is an inverted subject.
+Some southern dialects of Walser German are starting to omit the subject pronoun of sentences, just having the inflection on the verb to indicate what the subject is. This phenomena is known as pro-dropping, and is common among languages. Italian is a pro-drop language, and German is not, which means that Italian is influencing some southern dialects of Walser German.

@@ -1,0 +1,35 @@
+The Ranger program was a series of unmanned space missions by the United States in the 1960s whose objective was to obtain the first close-up images of the surface of the Moon. The Ranger spacecraft were designed to take images of the lunar surface, transmitting those images to Earth until the spacecraft were destroyed upon impact. A series of mishaps, however, led to the failure of the first six flights. At one point, the program was called "shoot and hope". Congress launched an investigation into “problems of management” at NASA Headquarters and Jet Propulsion Laboratory. After two reorganizations of the agencies, Ranger 7 successfully returned images in July 1964, followed by two more successful missions.
+Ranger was originally designed, beginning in 1959, in three distinct phases, called "blocks". Each block had different mission objectives and progressively more advanced system design. The JPL mission designers planned multiple launches in each block, to maximize the engineering experience and scientific value of the mission and to assure at least one successful flight. Total research, development, launch, and support costs for the Ranger series of spacecraft (Rangers 1 through 9) was approximately $170 million.
+Each of the block III Ranger spacecraft had six cameras on board. The cameras were fundamentally the same with differences in exposure times, fields of view, lenses, and scan rates. The camera system was divided into two channels, P (partial) and F (full). Each channel was self-contained with separate power supplies, timers, and transmitters. The F-channel had two cameras: the wide-angle A-camera and the narrow angle B-camera. The P-channel had four cameras: P1 and P2 (narrow angle) and P3 and P4 (wide angle). The final F-channel image was taken between 2.5 and 5 seconds before impact (altitude about 5 km) and the last P-channel image 0.2 to 0.4 seconds before impact (altitude about 600 m). The images provided better resolution than was available from Earth-based views by a factor of 1000.
+Ranger 1, launched 23 August 1961, lunar prototype, launch failure
+Ranger 2, launched 18 November 1961, lunar prototype, launch failure
+Block 1, consisting of two spacecraft launched into Earth orbit in 1961, was intended to test the Atlas-Agena launch vehicle and spacecraft equipment without attempting to reach the Moon.
+Problems with the early version of the launch vehicle left Ranger 1 and Ranger 2 in short-lived, low-Earth orbits in which the spacecraft could not stabilize themselves, collect solar power, or survive for long. In 1962, JPL utilized the Ranger 1 and Ranger 2 design for the failed Mariner 1 and successful Mariner 2 deep-space probes to Venus.
+Ranger 3, launched 26 January 1962, lunar probe, spacecraft failed, missed Moon
+Ranger 4, launched 23 April 1962, lunar probe, spacecraft failed, impact
+Ranger 5, launched 18 October 1962, lunar probe, spacecraft failed, missed
+Block 2 of the Ranger project launched three spacecraft to the Moon in 1962, carrying a TV camera, a radiation detector, and a seismometer in a separate capsule slowed by a rocket motor and packaged to survive its low-speed impact on the Moon’s surface. The three missions together demonstrated good performance of the Atlas/Agena B launch vehicle and the adequacy of the spacecraft design, but unfortunately not both on the same attempt. Ranger 3 had problems with both the launch vehicle and the spacecraft, missed the Moon by about 36,800 km, and has orbited the Sun ever since. Ranger 4 had a perfect launch, but the spacecraft was completely disabled. The project team tracked the seismometer capsule to impact just out of sight on the lunar far side, validating the communications and navigation system. Ranger 5 missed the Moon and was disabled. No significant science information was gleaned from these missions. The craft weighed 331 kg.
+Around the end of Block 2, it was discovered that a type of diode used in previous missions produced problematic gold-plate flaking in the conditions of space. This may have been responsible for some of the failures.
+Ranger 6, launched 30 January 1964, lunar probe, impact, cameras failed
+Ranger 7
+Launched 28 July 1964
+Impacted Moon 31 July 1964 at 13:25:49 UT
+10.35°S 20.58°W﻿ / -10.35; -20.58﻿ (Ranger 7) - Mare Cognitum
+Ranger 8
+Launched 17 February 1965
+Impacted Moon 20 February 1965 at 09:57:37 UT
+2.67°N 24.65°E﻿ / 2.67; 24.65﻿ (Ranger 8) - Mare Tranquillitatis (Sea of Tranquility)
+Ranger 9
+Launched 21 March 1965
+Impacted Moon 24 March 1965 at 14:08:20 UT
+12.83°S 2.37°W﻿ / -12.83; -2.37﻿ (Ranger 9) - Alphonsus crater
+Ranger's Block 3 embodied four launches in 1964-65. These spacecraft boasted a television instrument designed to observe the lunar surface during the approach; as the spacecraft neared the Moon, they would reveal detail smaller than the best Earth telescopes could show, and finally details down to dishpan size. The first of the new series, Ranger 6, had a flawless flight, except that the television system was disabled by an in-flight accident and could take no pictures.
+The next three Rangers, with a redesigned television, were completely successful. Ranger 7 photographed its way down to target in a lunar plain, soon named Mare Cognitum, south of the crater Copernicus. It sent more than 4,300 pictures from six cameras to waiting scientists and engineers. The new images revealed that craters caused by impact were the dominant features of the Moon's surface, even in the seemingly smooth and empty plains. Great craters were marked by small ones, and the small with tiny impact pockmarks, as far down in size as could be discerned—about 50 centimeters (20 inches). The light-colored streaks radiating from Copernicus and a few other large craters turned out to be chains and nets of small craters and debris blasted out in the primary impacts.
+In February 1965, Ranger 8 swept an oblique course over the south of Oceanus Procellarum and Mare Nubium, to crash in Mare Tranquillitatis where Apollo 11 would land 4½ years later. It garnered more than 7,000 images, covering a wider area and reinforcing the conclusions from Ranger 7. About a month later, Ranger 9 came down in the 90 kilometers (56 miles) diameter crater Alphonsus. Its 5,800 images, nested concentrically and taking advantage of very low-level sunlight, provided strong confirmation of the crater-on-crater, gently rolling contours of the lunar surface.
+Surveyor program
+Lunar Orbiter program
+Apollo program
+Pioneer program
+Luna programme
+Timeline of Solar System exploration
+NASA FACTS Volume 2 number 6 PROJECT RANGER on wikisource

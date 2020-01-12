@@ -1,0 +1,439 @@
+Ergodic theory (Ancient Greek: ergon work, hodos way) is a branch of mathematics that studies dynamical systems with an invariant measure and related problems. Its initial development was motivated by problems of statistical physics.
+A central concern of ergodic theory is the behavior of a dynamical system when it is allowed to run for a long time. The first result in this direction is the Poincaré recurrence theorem, which claims that almost all points in any subset of the phase space eventually revisit the set. More precise information is provided by various ergodic theorems which assert that, under certain conditions, the time average of a function along the trajectories exists almost everywhere and is related to the space average. Two of the most important theorems are those of Birkhoff (1931) and von Neumann which assert the existence of a time average along each trajectory. For the special class of ergodic systems, this time average is the same for almost all initial points: statistically speaking, the system that evolves for a long time "forgets" its initial state. Stronger properties, such as mixing and equidistribution, have also been extensively studied.
+The problem of metric classification of systems is another important part of the abstract ergodic theory. An outstanding role in ergodic theory and its applications to stochastic processes is played by the various notions of entropy for dynamical systems.
+The concepts of ergodicity and the ergodic hypothesis are central to applications of ergodic theory. The underlying idea is that for certain systems the time average of their properties is equal to the average over the entire space. Applications of ergodic theory to other parts of mathematics usually involve establishing ergodicity properties for systems of special kind. In geometry, methods of ergodic theory have been used to study the geodesic flow on Riemannian manifolds, starting with the results of Eberhard Hopf for Riemann surfaces of negative curvature. Markov chains form a common context for applications in probability theory. Ergodic theory has fruitful connections with harmonic analysis, Lie theory (representation theory, lattices in algebraic groups), and number theory (the theory of diophantine approximations, L-functions).
+Ergodic theory is often concerned with ergodic transformations. The intuition behind such transformations, which act on a given set, is that they do a thorough job "stirring" the elements of that set. (E.g., if the set is a quantity of hot oatmeal in a bowl, and if a spoon of syrup is dropped into the bowl, then iterations of the inverse of an ergodic transformation of the oatmeal will not allow the syrup to remain in a local subregion of the oatmeal, but will distribute the syrup evenly throughout. At the same time, these iterations will not compress or dilate any portion of the oatmeal: they preserve the measure that is density.) Here is the formal definition.
+Let 
+        T
+        :
+        X
+        →
+        X
+    {\displaystyle \quad T:X\to X\quad }
+   be a measure-preserving transformation on a measure space 
+        (
+        X
+        ,
+        Σ
+        ,
+        μ
+        )
+    {\displaystyle \;(X,\Sigma ,\mu )\;}
+  , with 
+        μ
+        (
+        X
+        )
+        =
+        1
+    {\displaystyle \mu (X)=1}
+   . A measure-preserving transformation T as above is ergodic if for every E in Σ with T−1(E) = E either μ(E) = 0 or μ(E) = 1.
+An irrational rotation of the circle R/Z, T: x → x + θ, where θ is irrational, is ergodic. This transformation has even stronger properties of unique ergodicity, minimality, and equidistribution. By contrast, if θ = p/q is rational (in lowest terms) then T is periodic, with period q, and thus cannot be ergodic: for any interval I of length a, 0 < a < 1/q, its orbit under T (that is, the union of I, T(I), …, ''Tq−1(I), which contains the image of I under any number of applications of T) is a T-invariant mod 0 set that is a union of q intervals of length a, hence it has measure qa strictly between 0 and 1.
+Let G be a compact abelian group, μ the normalized Haar measure, and T a group automorphism of G. Let G* be the Pontryagin dual group, consisting of the continuous characters of G, and T* be the corresponding adjoint automorphism of G*. The automorphism T is ergodic if and only if the equality (T*)n(χ) = χ is possible only when n = 0 or χ is the trivial character of G. In particular, if G is the n-dimensional torus and the automorphism T is represented by a unimodular matrix A then T is ergodic if and only if no eigenvalue of A is a root of unity.
+A Bernoulli shift is ergodic. More generally, ergodicity of the shift transformation associated with a sequence of i.i.d. random variables and some more general stationary processes follows from Kolmogorov's zero-one law.
+Ergodicity of a continuous dynamical system means that its trajectories "spread around" the phase space. A system with a compact phase space which has a non-constant first integral cannot be ergodic. This applies, in particular, to Hamiltonian systems with a first integral I functionally independent from the Hamilton function H and a compact level set X = {(p,q): H(p,q) = E} of constant energy. Liouville's theorem implies the existence of a finite invariant measure on X, but the dynamics of the system is constrained to the level sets of I on X, hence the system possesses invariant sets of positive but less than full measure. A property of continuous dynamical systems that is the opposite of ergodicity is complete integrability.
+Let T: X → X be a measure-preserving transformation on a measure space (X, Σ, μ) and suppose ƒ is a μ-integrable function, i.e. ƒ ∈ L1(μ). Then we define the following averages:
+Time average: This is defined as the average (if it exists) over iterations of T starting from some initial point x:
+              f
+              ^
+        (
+        x
+        )
+        =
+          lim
+            n
+            →
+            ∞
+            1
+            n
+          ∑
+            k
+            =
+            0
+            n
+            −
+            1
+        f
+        (
+          T
+            k
+        x
+        )
+        .
+    {\displaystyle {\hat {f}}(x)=\lim _{n\rightarrow \infty }\;{\frac {1}{n}}\sum _{k=0}^{n-1}f(T^{k}x).}
+Space average: If μ(X) is finite and nonzero, we can consider the space or phase average of ƒ:
+              f
+              ¯
+        =
+            1
+              μ
+              (
+              X
+              )
+        ∫
+        f
+        d
+        μ
+        .
+           (For a probability space, 
+        μ
+        (
+        X
+        )
+        =
+        1.
+        )
+    {\displaystyle {\bar {f}}={\frac {1}{\mu (X)}}\int f\,d\mu .\quad {\text{ (For a probability space, }}\mu (X)=1.)}
+In general the time average and space average may be different. But if the transformation is ergodic, and the measure is invariant, then the time average is equal to the space average almost everywhere. This is the celebrated ergodic theorem, in an abstract form due to George David Birkhoff. (Actually, Birkhoff's paper considers not the abstract general case but only the case of dynamical systems arising from differential equations on a smooth manifold.) The equidistribution theorem is a special case of the ergodic theorem, dealing specifically with the distribution of probabilities on the unit interval.
+More precisely, the pointwise or strong ergodic theorem states that the limit in the definition of the time average of ƒ exists for almost every x and that the (almost everywhere defined) limit function ƒ̂ is integrable:
+              f
+              ^
+        ∈
+          L
+            1
+        (
+        μ
+        )
+        .
+    {\displaystyle {\hat {f}}\in L^{1}(\mu ).\,}
+Furthermore, ƒ̂ is T-invariant, that is to say
+              f
+              ^
+        ∘
+        T
+        =
+              f
+              ^
+    {\displaystyle {\hat {f}}\circ T={\hat {f}}\,}
+holds almost everywhere, and if μ(X) is finite, then the normalization is the same:
+        ∫
+              f
+              ^
+        d
+        μ
+        =
+        ∫
+        f
+        d
+        μ
+        .
+    {\displaystyle \int {\hat {f}}\,d\mu =\int f\,d\mu .}
+In particular, if T is ergodic, then ƒ̂ must be a constant (almost everywhere), and so one has that
+              f
+              ¯
+        =
+              f
+              ^
+    {\displaystyle {\bar {f}}={\hat {f}}\,}
+almost everywhere. Joining the first to the last claim and assuming that μ(X) is finite and nonzero, one has that
+          lim
+            n
+            →
+            ∞
+            1
+            n
+          ∑
+            k
+            =
+            0
+            n
+            −
+            1
+        f
+        (
+          T
+            k
+        x
+        )
+        =
+            1
+              μ
+              (
+              X
+              )
+        ∫
+        f
+        d
+        μ
+    {\displaystyle \lim _{n\rightarrow \infty }\;{\frac {1}{n}}\sum _{k=0}^{n-1}f(T^{k}x)={\frac {1}{\mu (X)}}\int f\,d\mu }
+for almost all x, i.e., for all x except for a set of measure zero.
+For an ergodic transformation, the time average equals the space average almost surely.
+As an example, assume that the measure space (X, Σ, μ) models the particles of a gas as above, and let ƒ(x) denote the velocity of the particle at position x. Then the pointwise ergodic theorems says that the average velocity of all particles at some given time is equal to the average velocity of one particle over time.
+A generalization of Birkhoff's theorem is Kingman's subadditive ergodic theorem.
+Birkhoff–Khinchin theorem. Let ƒ be measurable, E(|ƒ|) < ∞, and T be a measure-preserving map. Then with probability 1:
+          lim
+            n
+            →
+            ∞
+            1
+            n
+          ∑
+            k
+            =
+            0
+            n
+            −
+            1
+        f
+        (
+          T
+            k
+        x
+        )
+        =
+        E
+        (
+        f
+        ∣
+            C
+        )
+        ,
+    {\displaystyle \lim _{n\rightarrow \infty }\;{\frac {1}{n}}\sum _{k=0}^{n-1}f(T^{k}x)=E(f\mid {\mathcal {C}}),}
+where 
+        E
+        (
+        f
+          |
+            C
+        )
+    {\displaystyle E(f|{\mathcal {C}})}
+   is the conditional expectation given the σ-algebra 
+            C
+    {\displaystyle {\mathcal {C}}}
+   of invariant sets of T.
+Corollary (Pointwise Ergodic Theorem): In particular, if T is also ergodic, then 
+            C
+    {\displaystyle {\mathcal {C}}}
+   is the trivial σ-algebra, and thus with probability 1:
+          lim
+            n
+            →
+            ∞
+            1
+            n
+          ∑
+            k
+            =
+            0
+            n
+            −
+            1
+        f
+        (
+          T
+            k
+        x
+        )
+        =
+        E
+        (
+        f
+        )
+        .
+    {\displaystyle \lim _{n\rightarrow \infty }\;{\frac {1}{n}}\sum _{k=0}^{n-1}f(T^{k}x)=E(f).}
+Von Neumann's mean ergodic theorem, holds in Hilbert spaces.
+Let U be a unitary operator on a Hilbert space H; more generally, an isometric linear operator (that is, a not necessarily surjective linear operator satisfying ‖Ux‖ = ‖x‖ for all x in H, or equivalently, satisfying U*U = I, but not necessarily UU* = I). Let P be the orthogonal projection onto {ψ ∈ H | Uψ = ψ} = ker(I − U).
+Then, for any x in H, we have:
+          lim
+            N
+            →
+            ∞
+            1
+            N
+          ∑
+            n
+            =
+            0
+            N
+            −
+            1
+          U
+            n
+        x
+        =
+        P
+        x
+        ,
+    {\displaystyle \lim _{N\to \infty }{1 \over N}\sum _{n=0}^{N-1}U^{n}x=Px,}
+where the limit is with respect to the norm on H. In other words, the sequence of averages
+            1
+            N
+          ∑
+            n
+            =
+            0
+            N
+            −
+            1
+          U
+            n
+    {\displaystyle {\frac {1}{N}}\sum _{n=0}^{N-1}U^{n}}
+converges to P in the strong operator topology.
+Indeed, it is not difficult to see that in this case any 
+        x
+        ∈
+        H
+    {\displaystyle x\in H}
+   admits an orthogonal decomposition into parts from 
+        ker
+        ⁡
+        (
+        I
+        −
+        U
+        )
+    {\displaystyle \ker(I-U)}
+   and 
+              ran
+              ⁡
+              (
+              I
+              −
+              U
+              )
+            ¯
+    {\displaystyle {\overline {\operatorname {ran} (I-U)}}}
+   respectively. The former part is invariant in all the partial sums as 
+        N
+    {\displaystyle N}
+   grows, while for the latter part, from the telescoping series one would have:
+          lim
+            N
+            →
+            ∞
+            1
+            N
+          ∑
+            n
+            =
+            0
+            N
+            −
+            1
+          U
+            n
+        (
+        I
+        −
+        U
+        )
+        =
+          lim
+            N
+            →
+            ∞
+            1
+            N
+        (
+        I
+        −
+          U
+            N
+        )
+        =
+        0
+    {\displaystyle \lim _{N\to \infty }{1 \over N}\sum _{n=0}^{N-1}U^{n}(I-U)=\lim _{N\to \infty }{1 \over N}(I-U^{N})=0}
+This theorem specializes to the case in which the Hilbert space H consists of L2 functions on a measure space and U is an operator of the form
+        U
+        f
+        (
+        x
+        )
+        =
+        f
+        (
+        T
+        x
+        )
+    {\displaystyle Uf(x)=f(Tx)\,}
+where T is a measure-preserving endomorphism of X, thought of in applications as representing a time-step of a discrete dynamical system. The ergodic theorem then asserts that the average behavior of a function ƒ over sufficiently large time-scales is approximated by the orthogonal component of ƒ which is time-invariant.
+In another form of the mean ergodic theorem, let Ut be a strongly continuous one-parameter group of unitary operators on H. Then the operator
+            1
+            T
+          ∫
+            0
+            T
+          U
+            t
+        d
+        t
+    {\displaystyle {\frac {1}{T}}\int _{0}^{T}U_{t}\,dt}
+converges in the strong operator topology as T → ∞. In fact, this result also extends to the case of strongly continuous one-parameter semigroup of contractive operators on a reflexive space.
+Remark: Some intuition for the mean ergodic theorem can be developed by considering the case where complex numbers of unit length are regarded as unitary transformations on the complex plane (by left multiplication). If we pick a single complex number of unit length (which we think of as U), it is intuitive that its powers will fill up the circle. Since the circle is symmetric around 0, it makes sense that the averages of the powers of U will converge to 0. Also, 0 is the only fixed point of U, and so the projection onto the space of fixed points must be the zero operator (which agrees with the limit just described).
+Let (X, Σ, μ) be as above a probability space with a measure preserving transformation T, and let 1 ≤ p ≤ ∞. The conditional expectation with respect to the sub-σ-algebra ΣT of the T-invariant sets is a linear projector ET of norm 1 of the Banach space Lp(X, Σ, μ) onto its closed subspace Lp(X, ΣT, μ) The latter may also be characterized as the space of all T-invariant Lp-functions on X. The ergodic means, as linear operators on Lp(X, Σ, μ) also have unit operator norm; and, as a simple consequence of the Birkhoff–Khinchin theorem, converge to the projector ET in the strong operator topology of Lp if 1 ≤ p ≤ ∞, and in the weak operator topology if p = ∞. More is true if 1 < p ≤ ∞ then the Wiener–Yoshida–Kakutani ergodic dominated convergence theorem states that the ergodic means of ƒ ∈ Lp are dominated in Lp; however, if ƒ ∈ L1, the ergodic means may fail to be equidominated in Lp. Finally, if ƒ is assumed to be in the Zygmund class, that is |ƒ| log+(|ƒ|) is integrable, then the ergodic means are even dominated in L1.
+Let (X, Σ, μ) be a measure space such that μ(X) is finite and nonzero. The time spent in a measurable set A is called the sojourn time. An immediate consequence of the ergodic theorem is that, in an ergodic system, the relative measure of A is equal to the mean sojourn time:
+              μ
+              (
+              A
+              )
+              μ
+              (
+              X
+              )
+        =
+            1
+              μ
+              (
+              X
+              )
+        ∫
+          χ
+            A
+        d
+        μ
+        =
+          lim
+            n
+            →
+            ∞
+            1
+            n
+          ∑
+            k
+            =
+            0
+            n
+            −
+            1
+          χ
+            A
+        (
+          T
+            k
+        x
+        )
+    {\displaystyle {\frac {\mu (A)}{\mu (X)}}={\frac {1}{\mu (X)}}\int \chi _{A}\,d\mu =\lim _{n\rightarrow \infty }\;{\frac {1}{n}}\sum _{k=0}^{n-1}\chi _{A}(T^{k}x)}
+for all x except for a set of measure zero, where χA is the indicator function of A.
+The occurrence times of a measurable set A is defined as the set k1, k2, k3, ..., of times k such that Tk(x) is in A, sorted in increasing order. The differences between consecutive occurrence times Ri = ki − ki−1 are called the recurrence times of A. Another consequence of the ergodic theorem is that the average recurrence time of A is inversely proportional to the measure of A, assuming that the initial point x is in A, so that k0 = 0.
+                R
+                  1
+              +
+              ⋯
+              +
+                R
+                  n
+            n
+        →
+              μ
+              (
+              X
+              )
+              μ
+              (
+              A
+              )
+          (almost surely)
+    {\displaystyle {\frac {R_{1}+\cdots +R_{n}}{n}}\rightarrow {\frac {\mu (X)}{\mu (A)}}\quad {\text{(almost surely)}}}
+(See almost surely.) That is, the smaller A is, the longer it takes to return to it.
+The ergodicity of the geodesic flow on compact Riemann surfaces of variable negative curvature and on compact manifolds of constant negative curvature of any dimension was proved by Eberhard Hopf in 1939, although special cases had been studied earlier: see for example, Hadamard's billiards (1898) and Artin billiard (1924). The relation between geodesic flows on Riemann surfaces and one-parameter subgroups on SL(2, R) was described in 1952 by S. V. Fomin and I. M. Gelfand. The article on Anosov flows provides an example of ergodic flows on SL(2, R) and on Riemann surfaces of negative curvature. Much of the development described there generalizes to hyperbolic manifolds, since they can be viewed as quotients of the hyperbolic space by the action of a lattice in the semisimple Lie group SO(n,1). Ergodicity of the geodesic flow on Riemannian symmetric spaces was demonstrated by F. I. Mautner in 1957. In 1967 D. V. Anosov and Ya. G. Sinai proved ergodicity of the geodesic flow on compact manifolds of variable negative sectional curvature. A simple criterion for the ergodicity of a homogeneous flow on a homogeneous space of a semisimple Lie group was given by Calvin C. Moore in 1966. Many of the theorems and results from this area of study are typical of rigidity theory.
+In the 1930s G. A. Hedlund proved that the horocycle flow on a compact hyperbolic surface is minimal and ergodic. Unique ergodicity of the flow was established by Hillel Furstenberg in 1972. Ratner's theorems provide a major generalization of ergodicity for unipotent flows on the homogeneous spaces of the form Γ \ G, where G is a Lie group and Γ is a lattice in G.
+In the last 20 years, there have been many works trying to find a measure-classification theorem similar to Ratner's theorems but for diagonalizable actions, motivated by conjectures of Furstenberg and Margulis. An important partial result (solving those conjectures with an extra assumption of positive entropy) was proved by Elon Lindenstrauss, and he was awarded the Fields medal in 2010 for this result.
+Chaos theory
+Ergodic hypothesis
+Ergodic process
+Lyapunov time – the time limit to the predictability of the system
+Maximal ergodic theorem
+Ornstein isomorphism theorem
+Statistical mechanics
+Symbolic dynamics
+Lindy effect

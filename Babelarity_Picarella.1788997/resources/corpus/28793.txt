@@ -1,0 +1,45 @@
+The Breguet Br.1050 Alizé (French: "Tradewind") was a French carrier-based anti-submarine warfare aircraft. It was developed in the 1950s, based loosely on the second prototype Breguet Vultur attack aircraft which had been modified into the Breguet Br.965 Épaulard anti-submarine warfare aircraft.
+The Alizé was a low-wing monoplane of conventional configuration. It had a CSF radar system with a retractable antenna dome in its belly. The cockpit accommodated a crew of three, including pilot, radar operator, and sensor operator. The pilot was seated in front on the left, the navigator in front on the right, and the sensor operator sat sideways behind them. The landing gear was of tricycle configuration, with the main gear retracting backwards into nacelles in the wings. The main gear had dual wheels, and the front part of the nacelles accommodated sonobuoys. The Alizé had a yoke-style arresting hook.
+The internal weapons bay could accommodate a homing torpedo or depth charges, and underwing stores pylons could carry bombs, depth charges, rockets, or missiles. Typical underwing stores included 68 mm (2.68 in) rocket pods or AS.12 wire-guided antiship missiles.
+The prototype Alizé first flew on 6 October 1956. It was exhibited at the Paris Air Show at Paris Le Bourget Airport in May 1957.
+A total of 89 examples of the Alizé were built between 1957 and 1962, including two preproduction prototypes. 75 production aircraft were acquired by the Aéronavale, with initial service delivery in March 1959. The Alizé went into operation on the carriers Arromanches, Clémenceau and Foch, and were also used in shore-based training. 12 were acquired by the Indian Navy. Some sources say that there were five preproduction prototypes, which may mean some of the prototypes were brought up to production standard and passed on to the Aéronavale; and that India acquired 17 examples, which hints that they bought five used aircraft from the Aéronavale.
+The Indian Navy operated the Alizé from shore bases and from the light carrier Vikrant. The Alizé was used for reconnaissance and patrol during India's 1961 invasion of Portuguese controlled Goa, and was also used for ASW patrol during the Indo-Pakistani War of 1971, during which one Alizé was shot down by a Pakistan Air Force F-104 Starfighter. It was also instrumental in taking out many gunboats unopposed during the war. The Alizé dwindled in numbers in the Indian Navy during the 1980s, was relegated to shore-based patrol in 1987. Nevertheless, they were employed that year in support of the Indian Peacekeeping Force's Operation Pawan in Sri Lanka, flying sorties against the LTTE and crippling the merchant ship Progress Light. The type was finally phased out in 1991, replaced in its duties by ASW helicopters.
+The Aéronavale provided the Alizé with a series of upgrades. A modernization program performed in the early 1980s refitted 28 of the aircraft to the Br.1050M standard, featuring improved Thomson-CSF Iguane radar as used on the Atlantique NG ocean-patrol aircraft, new OMEGA radio navigation gear, and a new ARAR 12 radar and radio location ("electronic support measures / ESM") system.
+Another upgrade program in the early 1990s fitted 24 of these aircraft with a new decoy system; a microcomputer-based data processing system; a datalink system; and other new avionics. Later in the decade, they were also fitted with the Thomson-CSF TTD Optronique Chlio forward-looking infrared (FLIR) imaging sensor. Despite the upgrades, by this time the Alizé was clearly not up to the task of hunting modern nuclear submarines, and so it was tasked with ocean surface patrol.
+As late as 1997, the Aéronavale was still operating 24 examples for surface patrol, though they were clearly on their way out by then. The Alizé was used operationally during the NATO air campaign against Yugoslavia over Kosovo in the spring of 1999, with the aircraft flying off the carrier Foch. The last Alizé was finally withdrawn from service in 2000 with the retirement of the Foch.
+ France
+French Navy
+French Naval Aviation (Aviation Navale)
+ India
+Indian Navy
+Data from Jane's Civil and Military Upgrades 1994-95 
+General characteristics
+Crew: Three: pilot, radar operator, navigator
+Length: 13.86 m (45 ft 5¾ in)
+Wingspan: 15.60 m (51 ft 2 in)
+Height: 5.00 m (16 ft 5 in)
+Wing area: 36.0 m² (387.5 ft²)
+Empty weight: 5,700 kg (12,566 lb)
+Max. takeoff weight: 8,200 kg (18,078 lb)
+Powerplant: 1 × Rolls-Royce Dart RDa.7 Mk 21 turboprop, 1,565 kW (2,100 ehp)
+Performance
+Maximum speed: 518 km/h (280 kn, 322 mph) at 3,050 m (10,000 ft), 460 km/h (248 knots, 286 mph) at sea level
+Cruise speed: 240-370 km/h (130-200 knots, 149-230 mph) (patrol speed)
+Range: 2,500 km (1,349 nmi, 1,553 mi)
+Endurance: 5 hr 10 min
+Service ceiling: 8,000 m (26,250 ft)
+Rate of climb: 7.0 m/s (1,380 ft/min)
+Wing loading: 229 kg/m² (46.9 lb/ft²)
+Power/mass: 190 kW/kg (0.12 hp/lb)
+Armament
+Torpedo or depth charges carried in internal bay
+Bombs, depth charges, rockets, or missiles carried on underwing pylons
+Related development
+Breguet Épaulard
+Breguet Vultur
+Aircraft of comparable role, configuration and era
+Fairey Gannet
+Short Seamew
+Tupolev Tu-91
+Related lists
+List of military aircraft of France

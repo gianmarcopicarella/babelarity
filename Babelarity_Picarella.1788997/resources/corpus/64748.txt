@@ -1,0 +1,50 @@
+Raymond Merrill Smullyan (/ˈsmʌli.ən/; born May 25, 1919) is an American mathematician, concert pianist, logician, Taoist philosopher, and magician.
+Born in Far Rockaway, New York, his first career was stage magic. He then earned a BSc from the University of Chicago in 1955 and his Ph.D. from Princeton University in 1959. He is one of many logicians to have studied under Alonzo Church.
+Born in Far Rockaway, New York, he showed musical talent, winning a gold medal in a piano competition when he was aged 12. The following year, his family moved to Manhattan and he attended Theodore Roosevelt High School in The Bronx as this school offered courses suited to his musical talents, but he left to study on his own as the school did not offer similar courses in mathematics. He attended several colleges, studying mathematics and music.
+While a Ph.D. student, Smullyan published a paper in the 1957 Journal of Symbolic Logic showing that Gödelian incompleteness held for formal systems considerably more elementary than that of Gödel's 1931 landmark paper. The contemporary understanding of Gödel's theorem dates from this paper. Smullyan later made a compelling case that much of the fascination with Gödel's theorem should be directed at Tarski's theorem, which is much easier to prove and equally disturbing philosophically.
+Smullyan is the author of many books on recreational mathematics and recreational logic. Most notably, one is titled What Is the Name of This Book? ISBN 0139550623.
+He was a professor of philosophy at Lehman College and the Graduate Center, City University of New York, and at Indiana University. He is also an amateur astronomer, using a six inch reflecting telescope for which he ground the mirror.
+Many of his logic problems are extensions of classic puzzles. Knights and Knaves involves knights (who always tell the truth) and knaves (who always lie). This is based on a story of two doors and two guards, one who lies and one who tells the truth. One door leads to heaven and one to hell, and the puzzle is to find out which door leads to heaven by asking one of the guards a question. One way to do this is to ask "Which door would the other guard say leads to hell?". This idea was famously used in the 1986 film Labyrinth.
+In more complex puzzles, he introduces characters who may lie or tell the truth (referred to as "normals"), and furthermore instead of answering "yes" or "no", use words which mean "yes" or "no", but the reader does not know which word means which. The puzzle known as "the hardest logic puzzle ever" is based on these characters and themes. In his Transylvania puzzles, half of the inhabitants are insane, and believe only false things, whereas the other half are sane and believe only true things. In addition, humans always tell the truth, and vampires always lie. For example, an insane vampire will believe a false thing (2 + 2 is not 4) but will then lie about it, and say that it is false. A sane vampire knows 2 + 2 is 4, but will lie and say it is not. And mutatis mutandis for humans. Thus everything said by a sane human or an insane vampire is true, while everything said by an insane human or a sane vampire is false.
+ His book Forever Undecided popularizes Gödel's incompleteness theorems by phrasing them in terms of reasoners and their beliefs, rather than formal systems and what can be proved in them. For example, if a native of a knight/knave island says to a sufficiently self-aware reasoner, "You will never believe that I am a knight", the reasoner cannot believe either that the native is a knight or that he is a knave without becoming inconsistent (i.e., holding two contradictory beliefs). The equivalent theorem is that for any formal system S, there exists a mathematical statement that can be interpreted as "This statement is not provable in formal system S". If the system S is consistent, neither the statement nor its opposite will be provable in it. See also Doxastic logic.
+Inspector Craig is a frequent character in Smullyan's "puzzle-novellas." He is generally called into a scene of a crime that has a solution that is mathematical in nature. Then, through a series of increasingly harder challenges, he (and the reader) begin to understand the principles in question. Finally the novella culminates in Inspector Craig (and the reader) solving the crime, utilizing the mathematical and logical principles learned. Inspector Craig generally does not learn the formal theory in question, and Smullyan usually reserves a few chapters after the Inspector Craig adventure to illuminate the analogy for the reader. Inspector Craig gets his name from William Craig.
+His book To Mock a Mockingbird (1985) is a recreational introduction to the subject of combinatory logic.
+Apart from writing about and teaching logic, Smullyan has recently released a recording of his favorite classical piano pieces by composers such as Bach, Scarlatti, and Schubert. Some recordings are available on the Piano Society website, along with the video "Rambles, Reflections, Music and Readings". He has also written an autobiography titled Some Interesting Memories: A Paradoxical Life (ISBN 1-888710-10-1).
+In 2001, documentary filmmaker Tao Ruspoli made a film about Smullyan called This Film Needs No Title: A Portrait of Raymond Smullyan.
+Smullyan has written several books about Taoist philosophy, which he believes neatly solves most or all traditional philosophical problems as well as integrating mathematics, logic, and philosophy into a cohesive whole.
+(1978) What Is the Name of This Book? The Riddle of Dracula and Other Logical Puzzles ISBN 0139550623 – knights, knaves, and other logic puzzles
+(1979) The Chess Mysteries of Sherlock Holmes ISBN 0394737571 – introducing retrograde analysis in the game of chess.
+(1981) The Chess Mysteries of the Arabian Knights ISBN 0192861247 – second book on retrograde analysis chess problems.
+(1982) The Lady or the Tiger? ISBN 0812921178 – ladies, tigers, and more logic puzzles
+(1982) Alice in Puzzle-Land ISBN 0688007481
+(1985) To Mock a Mockingbird ISBN 0192801422 – puzzles based on combinatory logic
+(1987) Forever Undecided ISBN 0192801414 – puzzles based on undecidability in formal systems
+(1992) Satan, Cantor and Infinity ISBN 0679406883
+(1997) The Riddle of Scheherazade ISBN 0156006065
+(2007) The Magic Garden of George B. And Other Logic Puzzles ISBN 9788876990663, Polimetrica (Monza/Italy)
+(2009) Logical Labyrinths ISBN 9781568814438, A K Peters
+(2010) King Arthur in Search of his Dog ISBN 0486474356
+(2013) The Godelian Puzzle Book: Puzzles, Paradoxes and Proofs ISBN 0486497054
+(2015) The Magic Garden of George B and Other Logic Puzzles ISBN 978-981-4675-05-5
+(1977) The Tao is Silent ISBN 0060674695
+(1980) This Book Needs No Title ISBN 0671628313
+(1983) 5000 B.C. and other philosophical fantasies ISBN 0312295162
+(2002) Some Interesting Memories: A Paradoxical Life ISBN 1888710101
+(2003) Who Knows?: A Study of Religious Consciousness ISBN 0253215749
+(2009) Rambles Through My Library ISBN 9780963923165, Praxis International
+(2015) Reflections: The Magic, Music and Mathematics of Raymond Smullyan ISBN 978-981-4644-58-7
+(2016) A Mixed Bag: Jokes, RIddles, Puzzles and Memorabilia ISBN 978-098-6144-57-8
+(1961) Theory of Formal Systems ISBN 069108047X
+(1968) First-Order Logic ISBN 0486683702
+(1992) Gödel's Incompleteness Theorems ISBN 0195046722
+(1993) Recursion Theory for Metamathematics ISBN 019508232X
+(1994) Diagonalization and Self-Reference ISBN 0198534507
+(1996) Set Theory and the Continuum Problem ISBN 0198523955
+(2014) A Beginner's Guide to Mathematical Logic ISBN 0486492370
+Is God a Taoist? by Raymond Smullyan, 1977.
+Planet Without Laughter by Raymond Smullyan, 1980.
+An Epistemological Nightmare by Raymond Smullyan, 1982.
+Alice's Adventures in Wonderland
+Logic
+Paradox
+The Lady, or the Tiger

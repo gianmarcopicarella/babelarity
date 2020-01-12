@@ -1,0 +1,698 @@
+In electromagnetism, the electromagnetic tensor or electromagnetic field tensor (sometimes called the field strength tensor, Faraday tensor or Maxwell bivector) is a mathematical object that describes the electromagnetic field in space-time of a physical system. The field tensor was first used after the 4-dimensional tensor formulation of special relativity was introduced by Hermann Minkowski. The tensor allows some physical laws to be written in a very concise form.
+The electromagnetic tensor, conventionally labelled F, is defined as the exterior derivative of the electromagnetic four-potential, A, a differential 1-form:
+        F
+                =
+                  d
+                  e
+                  f
+          d
+        A
+        .
+    {\displaystyle F\ {\stackrel {\mathrm {def} }{=}}\ \mathrm {d} A.}
+Therefore, F is a differential 2-form—that is, an antisymmetric rank-2 tensor field—on Minkowski space. In component form,
+          F
+            μ
+            ν
+        =
+          ∂
+            μ
+          A
+            ν
+        −
+          ∂
+            ν
+          A
+            μ
+        .
+    {\displaystyle F_{\mu \nu }=\partial _{\mu }A_{\nu }-\partial _{\nu }A_{\mu }.}
+where 
+        ∂
+    {\displaystyle \partial }
+   is the 4-gradient and 
+        A
+    {\displaystyle A}
+   is the 4-potential.
+SI units for Maxwell's equations and the particle physicist's sign convention for the signature of Minkowski space (+,−,−,−), will be used throughout this article.
+The electromagnetic tensor is completely isomorphic to the electric and magnetic fields, though the electric and magnetic fields change with the choice of the reference frame, while the electromagnetic tensor does not. In general, the relationship is quite complicated, but in Cartesian coordinates, using the coordinate system's own reference frame, the relationship is very simple.
+          E
+            i
+        =
+        c
+          F
+            0
+            i
+        ,
+    {\displaystyle E_{i}=cF_{0i},}
+where c is the speed of light, and
+          B
+            i
+        =
+        −
+            1
+            2
+          ϵ
+            i
+            j
+            k
+          F
+            j
+            k
+        ,
+    {\displaystyle B_{i}=-{\frac {1}{2}}\epsilon _{ijk}F^{jk},}
+where 
+          ϵ
+            i
+            j
+            k
+    {\displaystyle \epsilon _{ijk}}
+   is the Levi-Civita symbol.
+In contravariant matrix form,
+            [
+                  0
+                  −
+                    E
+                      x
+                    /
+                  c
+                  −
+                    E
+                      y
+                    /
+                  c
+                  −
+                    E
+                      z
+                    /
+                  c
+                    E
+                      x
+                    /
+                  c
+                  0
+                  −
+                    B
+                      z
+                    B
+                      y
+                    E
+                      y
+                    /
+                  c
+                    B
+                      z
+                  0
+                  −
+                    B
+                      x
+                    E
+                      z
+                    /
+                  c
+                  −
+                    B
+                      y
+                    B
+                      x
+                  0
+            ]
+        =
+          F
+            μ
+            ν
+        .
+    {\displaystyle {\begin{bmatrix}0&-E_{x}/c&-E_{y}/c&-E_{z}/c\\E_{x}/c&0&-B_{z}&B_{y}\\E_{y}/c&B_{z}&0&-B_{x}\\E_{z}/c&-B_{y}&B_{x}&0\end{bmatrix}}=F^{\mu \nu }.}
+The covariant form is given by index lowering,
+          F
+            μ
+            ν
+        =
+          η
+            μ
+            α
+          F
+            α
+            β
+          η
+            β
+            ν
+        =
+            [
+                  0
+                    E
+                      x
+                    /
+                  c
+                    E
+                      y
+                    /
+                  c
+                    E
+                      z
+                    /
+                  c
+                  −
+                    E
+                      x
+                    /
+                  c
+                  0
+                  −
+                    B
+                      z
+                    B
+                      y
+                  −
+                    E
+                      y
+                    /
+                  c
+                    B
+                      z
+                  0
+                  −
+                    B
+                      x
+                  −
+                    E
+                      z
+                    /
+                  c
+                  −
+                    B
+                      y
+                    B
+                      x
+                  0
+            ]
+        .
+    {\displaystyle F_{\mu \nu }=\eta _{\mu \alpha }F^{\alpha \beta }\eta _{\beta \nu }={\begin{bmatrix}0&E_{x}/c&E_{y}/c&E_{z}/c\\-E_{x}/c&0&-B_{z}&B_{y}\\-E_{y}/c&B_{z}&0&-B_{x}\\-E_{z}/c&-B_{y}&B_{x}&0\end{bmatrix}}.}
+The mixed-variance form appears in the Lorentz force equation when using the contravariant four-velocity: 
+              d
+                p
+                  μ
+              d
+              τ
+        =
+        q
+          F
+            μ
+            ν
+          u
+            ν
+    {\displaystyle {\frac {dp^{\mu }}{d\tau }}=qF^{\mu }{}_{\nu }u^{\nu }}
+  , where
+          F
+            μ
+            ν
+        =
+          F
+            μ
+            β
+          η
+            β
+            ν
+        =
+            [
+                  0
+                    E
+                      x
+                    /
+                  c
+                    E
+                      y
+                    /
+                  c
+                    E
+                      z
+                    /
+                  c
+                    E
+                      x
+                    /
+                  c
+                  0
+                    B
+                      z
+                  −
+                    B
+                      y
+                    E
+                      y
+                    /
+                  c
+                  −
+                    B
+                      z
+                  0
+                    B
+                      x
+                    E
+                      z
+                    /
+                  c
+                    B
+                      y
+                  −
+                    B
+                      x
+                  0
+            ]
+        .
+    {\displaystyle F^{\mu }{}_{\nu }=F^{\mu \beta }\eta _{\beta \nu }={\begin{bmatrix}0&E_{x}/c&E_{y}/c&E_{z}/c\\E_{x}/c&0&B_{z}&-B_{y}\\E_{y}/c&-B_{z}&0&B_{x}\\E_{z}/c&B_{y}&-B_{x}&0\end{bmatrix}}.}
+From now on in this article, when the electric or magnetic fields are mentioned, a Cartesian coordinate system is being assumed, and the electric and magnetic fields are with respect to coordinate system's own reference frame, as in the equations above.
+The matrix form of the field tensor yields the following properties:
+This tensor simplifies and reduces Maxwell's equations as four vector calculus equations into two tensor field equations. In electrostatics and electrodynamics, Gauss's law and Ampère's circuital law are respectively:
+        ∇
+        ⋅
+          E
+        =
+            ρ
+              ϵ
+                0
+        ,
+        ∇
+        ×
+          B
+        −
+            1
+              c
+                2
+              ∂
+                E
+              ∂
+              t
+        =
+          μ
+            0
+          J
+    {\displaystyle \nabla \cdot \mathbf {E} ={\frac {\rho }{\epsilon _{0}}},\quad \nabla \times \mathbf {B} -{\frac {1}{c^{2}}}{\frac {\partial \mathbf {E} }{\partial t}}=\mu _{0}\mathbf {J} }
+and reduce to the inhomogeneous Maxwell equation:
+          ∂
+            α
+          F
+            α
+            β
+        =
+          μ
+            0
+          J
+            β
+    {\displaystyle \partial _{\alpha }F^{\alpha \beta }=\mu _{0}J^{\beta }}
+where
+          J
+            α
+        =
+        (
+        c
+        ρ
+        ,
+          J
+        )
+    {\displaystyle J^{\alpha }=(c\rho ,\mathbf {J} )}
+is the 4-current. In magnetostatics and magnetodynamics, Gauss's law for magnetism and Maxwell–Faraday equation are respectively:
+        ∇
+        ⋅
+          B
+        =
+        0
+        ,
+              ∂
+                B
+              ∂
+              t
+        +
+        ∇
+        ×
+          E
+        =
+        0
+    {\displaystyle \nabla \cdot \mathbf {B} =0,\quad {\frac {\partial \mathbf {B} }{\partial t}}+\nabla \times \mathbf {E} =0}
+which reduce to Bianchi identity:
+          ∂
+            γ
+          F
+            α
+            β
+        +
+          ∂
+            α
+          F
+            β
+            γ
+        +
+          ∂
+            β
+          F
+            γ
+            α
+        =
+        0
+    {\displaystyle \partial _{\gamma }F_{\alpha \beta }+\partial _{\alpha }F_{\beta \gamma }+\partial _{\beta }F_{\gamma \alpha }=0}
+or using the index notation with square brackets[note 1] for the antisymmetric part of the tensor:
+          ∂
+            [
+            α
+          F
+            β
+            γ
+            ]
+        =
+        0
+    {\displaystyle \partial _{[\alpha }F_{\beta \gamma ]}=0}
+The field tensor derives its name from the fact that the electromagnetic field is found to obey the tensor transformation law, this general property of (non-gravitational) physical laws being recognised after the advent of special relativity. This theory stipulated that all the (non-gravitational) laws of physics should take the same form in all coordinate systems - this led to the introduction of tensors. The tensor formalism also leads to a mathematically simpler presentation of physical laws.
+The inhomogeneous Maxwell equation leads to the continuity equation:
+          ∂
+            α
+          J
+            α
+        =
+          J
+            α
+            ,
+            α
+        =
+        0
+    {\displaystyle \partial _{\alpha }J^{\alpha }{}=J^{\alpha }{}_{,\alpha }=0}
+implying conservation of charge.
+Maxwell's laws above can be generalised to curved spacetime by simply replacing partial derivatives with covariant derivatives:
+          F
+            [
+            α
+            β
+            ;
+            γ
+            ]
+        =
+        0
+    {\displaystyle F_{[\alpha \beta ;\gamma ]}=0}
+   and 
+          F
+            α
+            β
+            ;
+            α
+        =
+          μ
+            0
+          J
+            β
+    {\displaystyle F^{\alpha \beta }{}_{;\alpha }\,=\mu _{0}J^{\beta }}
+where the semi-colon notation represents a covariant derivative, as opposed to a partial derivative. These equations are sometimes referred to as the curved space Maxwell equations. Again, the second equation implies charge conservation (in curved spacetime):
+          J
+            α
+            ;
+            α
+        =
+        0
+    {\displaystyle J^{\alpha }{}_{;\alpha }\,=0}
+Classical electromagnetism and Maxwell's equations can be derived from the action:
+            S
+        =
+        ∫
+          (
+          −
+                      1
+                        4
+                          μ
+                            0
+            F
+              μ
+              ν
+            F
+              μ
+              ν
+          −
+            J
+              μ
+            A
+              μ
+          )
+            d
+            4
+        x
+    {\displaystyle {\mathcal {S}}=\int \left(-{\begin{matrix}{\frac {1}{4\mu _{0}}}\end{matrix}}F_{\mu \nu }F^{\mu \nu }-J^{\mu }A_{\mu }\right)\mathrm {d} ^{4}x\,}
+where
+            d
+            4
+        x
+    {\displaystyle \mathrm {d} ^{4}x\;}
+     is over space and time.
+This means the Lagrangian density is
+                    L
+                =
+                −
+                    1
+                      4
+                        μ
+                          0
+                  F
+                    μ
+                    ν
+                  F
+                    μ
+                    ν
+                −
+                  J
+                    μ
+                  A
+                    μ
+                =
+                −
+                    1
+                      4
+                        μ
+                          0
+                  (
+                    ∂
+                      μ
+                    A
+                      ν
+                  −
+                    ∂
+                      ν
+                    A
+                      μ
+                  )
+                  (
+                    ∂
+                      μ
+                    A
+                      ν
+                  −
+                    ∂
+                      ν
+                    A
+                      μ
+                  )
+                −
+                  J
+                    μ
+                  A
+                    μ
+                =
+                −
+                    1
+                      4
+                        μ
+                          0
+                  (
+                    ∂
+                      μ
+                    A
+                      ν
+                    ∂
+                      μ
+                    A
+                      ν
+                  −
+                    ∂
+                      ν
+                    A
+                      μ
+                    ∂
+                      μ
+                    A
+                      ν
+                  −
+                    ∂
+                      μ
+                    A
+                      ν
+                    ∂
+                      ν
+                    A
+                      μ
+                  +
+                    ∂
+                      ν
+                    A
+                      μ
+                    ∂
+                      ν
+                    A
+                      μ
+                  )
+                −
+                  J
+                    μ
+                  A
+                    μ
+    {\displaystyle {\begin{aligned}{\mathcal {L}}&=-{\frac {1}{4\mu _{0}}}F_{\mu \nu }F^{\mu \nu }-J^{\mu }A_{\mu }\\&=-{\frac {1}{4\mu _{0}}}\left(\partial _{\mu }A_{\nu }-\partial _{\nu }A_{\mu }\right)\left(\partial ^{\mu }A^{\nu }-\partial ^{\nu }A^{\mu }\right)-J^{\mu }A_{\mu }\\&=-{\frac {1}{4\mu _{0}}}\left(\partial _{\mu }A_{\nu }\partial ^{\mu }A^{\nu }-\partial _{\nu }A_{\mu }\partial ^{\mu }A^{\nu }-\partial _{\mu }A_{\nu }\partial ^{\nu }A^{\mu }+\partial _{\nu }A_{\mu }\partial ^{\nu }A^{\mu }\right)-J^{\mu }A_{\mu }\\\end{aligned}}}
+The two middle terms in the parentheses are the same, as are the two outer terms, so the Lagrangian density is
+            L
+        =
+        −
+            1
+              2
+                μ
+                  0
+          (
+            ∂
+              μ
+            A
+              ν
+            ∂
+              μ
+            A
+              ν
+          −
+            ∂
+              ν
+            A
+              μ
+            ∂
+              μ
+            A
+              ν
+          )
+        −
+          J
+            μ
+          A
+            μ
+        .
+    {\displaystyle {\mathcal {L}}=-{\frac {1}{2\mu _{0}}}\left(\partial _{\mu }A_{\nu }\partial ^{\mu }A^{\nu }-\partial _{\nu }A_{\mu }\partial ^{\mu }A^{\nu }\right)-J^{\mu }A_{\mu }.}
+Substituting this into the Euler–Lagrange equation of motion for a field:
+          ∂
+            μ
+          (
+                ∂
+                    L
+                ∂
+                (
+                  ∂
+                    μ
+                  A
+                    ν
+                )
+          )
+        −
+              ∂
+                  L
+              ∂
+                A
+                  ν
+        =
+        0
+    {\displaystyle \partial _{\mu }\left({\frac {\partial {\mathcal {L}}}{\partial (\partial _{\mu }A_{\nu })}}\right)-{\frac {\partial {\mathcal {L}}}{\partial A_{\nu }}}=0}
+So the Euler–Lagrange equation becomes:
+        −
+          ∂
+            μ
+            1
+              μ
+                0
+          (
+            ∂
+              μ
+            A
+              ν
+          −
+            ∂
+              ν
+            A
+              μ
+          )
+        +
+          J
+            ν
+        =
+        0.
+    {\displaystyle -\partial _{\mu }{\frac {1}{\mu _{0}}}\left(\partial ^{\mu }A^{\nu }-\partial ^{\nu }A^{\mu }\right)+J^{\nu }=0.\,}
+The quantity in parentheses above is just the field tensor, so this finally simplifies to
+          ∂
+            μ
+          F
+            μ
+            ν
+        =
+          μ
+            0
+          J
+            ν
+    {\displaystyle \partial _{\mu }F^{\mu \nu }=\mu _{0}J^{\nu }}
+That equation is another way of writing the two inhomogeneous Maxwell's equations (namely, Gauss's law and Ampère's circuital law) using the substitutions:
+                    1
+                    c
+                  E
+                    i
+                =
+                −
+                  F
+                    0
+                    i
+                  ϵ
+                    i
+                    j
+                    k
+                  B
+                    k
+                =
+                −
+                  F
+                    i
+                    j
+    {\displaystyle {\begin{aligned}{\frac {1}{c}}E^{i}&=-F^{0i}\\\epsilon ^{ijk}B_{k}&=-F^{ij}\end{aligned}}}
+where i, j, k take the values 1, 2, and 3.
+The Lagrangian of quantum electrodynamics extends beyond the classical Lagrangian established in relativity to incorporate the creation and annihilation of photons (and electrons):
+            L
+        =
+              ψ
+              ¯
+        (
+        i
+        ℏ
+        c
+          γ
+            α
+          D
+            α
+        −
+        m
+          c
+            2
+        )
+        ψ
+        −
+            1
+              4
+                μ
+                  0
+          F
+            α
+            β
+          F
+            α
+            β
+        ,
+    {\displaystyle {\mathcal {L}}={\bar {\psi }}(i\hbar c\,\gamma ^{\alpha }D_{\alpha }-mc^{2})\psi -{\frac {1}{4\mu _{0}}}F_{\alpha \beta }F^{\alpha \beta },}
+where the first part in the right hand side, containing the Dirac spinor 
+        ψ
+    {\displaystyle \psi }
+  , represents the Dirac field. In quantum field theory it is used as the template for the gauge field strength tensor. By being employed in addition to the local interaction Lagrangian it reprises its usual role in QED.
+Classification of electromagnetic fields
+Covariant formulation of classical electromagnetism
+Electromagnetic stress–energy tensor
+Gluon field strength tensor
+Ricci calculus
+Riemann–Silberstein vector

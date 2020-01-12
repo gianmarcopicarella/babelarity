@@ -1,0 +1,104 @@
+The Chrysophyceae, usually called chrysophytes, chrysomonads, golden-brown algae or golden algae are a large group of algae, found mostly in freshwater. Golden algae is also commonly used to refer to a single species, Prymnesium parvum, which causes fish kills.
+The Chrysophyceae should not be confused with the Chrysophyta, which is a more ambiguous taxon. Although "chrysophytes" is the anglicization of "Chrysophyta", it generally refers to the Chrysophyceae.
+Originally they were taken to include all such forms of the diatoms and multicellular brown algae, but since then they have been divided into several different groups (e.g., Haptophyceae, Synurophyceae) based on pigmentation and cell structure. Some heterotrophic flagellates as the bicosoecids and choanoflagellates were sometimes seen as related to golden algae too.
+They are now usually restricted to a core group of closely related forms, distinguished primarily by the structure of the flagella in motile cells, also treated as an order Chromulinales. It is possible membership will be revised further as more species are studied in detail.
+A "primary" cell contains two specialized flagella. The active, "feathered" (with mastigonemes) flagellum is oriented toward the moving direction. The smooth passive flagellum, oriented toward the opposite direction, may be present only in rudimentary form in some species.
+Most members are unicellular flagellates, with either two visible flagella, as in Ochromonas, or sometimes one, as in Chromulina. The Chromulinales as first defined by Pascher in 1910 included only the latter type, with the former treated as the order Ochromonadales. However, structural studies have revealed that a short second flagellum, or at least a second basal body, is always present, so this is no longer considered a valid distinction. Most of these have no cell covering. Some have loricae or shells, such as Dinobryon, which is sessile and grows in branched colonies. Most forms with silicaceous scales are now considered a separate group, the synurids, but a few belong among the Chromulinales proper, such as Paraphysomonas.
+Some members are generally amoeboid, with long branching cell extensions, though they pass through flagellate stages as well. Chrysamoeba and Rhizochrysis are typical of these. There is also one species, Myxochrysis paradoxa, which has a complex life cycle involving a multinucleate plasmodial stage, similar to those found in slime molds. These were originally treated as the order Chrysamoebales. The superficially similar Rhizochromulina was once included here, but is now given its own order based on differences in the structure of the flagellate stage.
+Other members are non-motile. Cells may be naked and embedded in mucilage, such as Chrysosaccus, or coccoid and surrounded by a cell wall, as in Chrysosphaera. A few are filamentous or even parenchymatous in organization, such as Phaeoplaca. These were included in various older orders, most of the members of which are now included in separate groups. Hydrurus and its allies, freshwater genera which form branched gelatinous filaments, are often placed in the separate order Hydrurales, but may belong here.
+Classification of the class Chrysophyceae according to Pascher (1914):
+Division Chrysophyta
+Class Chrysophyceae
+Order Chrysomonadales
+Order Chrysocapsales
+Order Chrysosphaerales
+Order Chrysotrichales
+Class Heterokontae
+Class Diatomeae
+According to Smith (1938):
+Class Chrysophyceae
+Order Chrysomonadales
+Suborder Cromulinae (e.g., Mallomonas)
+Suborder Isochrysidineae (e.g., Synura)
+Suborder Ochromonadineae (e.g., Dinobryon)
+Order Rhizochrysidales (e.g., Chrysamoeba)
+Order Chrysocapsales (e.g., Hydrurus)
+Order Chrysotrichales (e.g., Phaeothamnion)
+Order Chrysosphaerales (e.g., Epichrysis)
+According to Bourrely (1957):
+Class Chrysophyceae
+Order Phaeoplacales
+Order Stichogloeales
+Order Phaeothamniales
+Order Chrysapionales
+Order Thallochrysidales
+Order Chrysosphaerales
+Order Chrysosaccales
+Order Rhizochrysidales
+Order Ochromonadales
+Order Isochrysidales
+Order Silicoflagellales
+Order Craspedomonadales
+Order Chromulinales
+According to Starmach (1985):
+Class Chrysophyceae
+Subclass Heterochrysophycidae
+Order Chromulinales
+Order Ochromonadales
+Subclass Acontochrysophycidae
+Order Chrysarachniales
+Order Stylococcales
+Order Chrysosaccales
+Order Phaeoplacales
+Subclass Craspedomonadophycidae
+Order Monosigales
+Classification of the class Chrysophyceae and splinter groups according to Kristiansen (1986):
+Class Chrysophyceae
+Order Ochromonadales
+Order Mallomonadales
+Order Chrysamoebales
+Order Chrysocapsales
+Order Hydrurales
+Order Chrysosphaerales
+Order Phaeothamniales
+Order Sarcinochrysidales
+Class Pedinellophyceae
+Order Pedinellales
+Class Dictyochophyceae
+Order Dictyochales
+Classification of the phylum Chrysophyta according to Margulis et al. (1990):
+Phylum Chrysophyta
+Class Chrysophyceae
+Class Pedinellophyceae
+Class Dictyochophyceae (= Silicoflagellata)
+According to van den Hoek, Mann and Jahns (1995):
+Class Chrysophyceae
+Order Ochromonadales (e.g., Ochromonas, Pseudokephyrion, Dinobryon)
+Order Mallomonadales (= Class Synurophyceae, e.g., Mallomonas, Synura)
+Order Pedinellales (= Class Pedinellophyceae, e.g., Pedinella)
+Order Chrysamoebidales (e.g., Rhizochrysis, Chrysarachnion)
+Order Chrysocapsales (e.g., Chrysocapsa, Hydrurus)
+Order Chrysosphaerales (e.g., Chrysosphaera)
+Order Phaeothamniales (e.g., Phaeothamnion, Thallochrysis)
+Classification of the class Chrysophyceae and splinter groups according to Preisig (1995):
+Class Chrysophyceae
+Order Bicosoecales
+Order Chromulinales
+Order Hibberdiales
+Order Hydrurales
+Order Sancinochrysidales
+Order Chrysomeridales
+Class Dictyochophyceae
+Order Pedinellales
+Order Rhizochromulinales
+Order Dictyochales
+Class Synurophyceae
+Order Synurales
+According to Guiry and Guiry (2014):
+Class Chrysophyceae
+Order Chromulinales
+Order Hibberdiales
+Order Hydrurales
+Order Thallochrysidales
+Chrysophyceae ordo incertae sedis (11 genera)
+Chrysophytes contain the pigment fucoxanthin. Because of this, they were once considered to be a specialized form of cyanobacteria. Because many of these organisms had a silica capsule, they have a relatively complete fossil record, allowing modern biologists to confirm that they are, in fact, not derived from cyanobacteria, but rather an ancestor that did not possess the capability to photosynthesize. Many of the chrysophyta precursor fossils entirely lacked any type of photosynthesis-capable pigment. Most biologists believe that the chrysophytes obtained their ability to photosynthesize from an endosymbiotic relationship with fucoxanthin-containing cyanobacteria.

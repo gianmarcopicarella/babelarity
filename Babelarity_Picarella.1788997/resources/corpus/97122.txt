@@ -1,0 +1,27 @@
+Armagetron Advanced is a multiplayer snake game in 3D based on the light cycle sequence from the film Tron. It is available for Linux, OS X, Microsoft Windows, AmigaOS 4  and OpenBSD as free software released under version 2 of the GNU General Public License.
+Two or more players are represented by dual-wheeled motor vehicles, or light cycles, in a grid-lined arena. The vehicles constantly move forward, leaving a coloured trail behind them as they travel. Contact with either the arena walls or a trail left by a player will result in death and elimination from the battle. Therefore, players attempt to box each other in order to force their opponents to touch their trail or one of the arena walls. Players can change the direction of movement, by turning 90 degrees to the left or right (though in some servers the number of axes is more than four, making it possible to turn 45 degrees, or none at all).
+Being close to a coloured trail causes the bike to accelerate; the closer the player is to the trail, the greater the acceleration. This allows players to accelerate and use the resulting speed advantage to outmanoeuvre their opponents. Players are able to use a brake - the 'v' key by default - to slow down, however the effectiveness of the brake varies from server to server. Some servers even implement a 'speed brake', which turns the brake key into an accelerator.
+Several game modes exist:
+Fast Track (FT): A free-for-all game mode with up to 8 players. High rubber, high speed, and very high enemy wall acceleration make for very intense game play.
+Team Gauntlet: Two teams compete with each other on various generated maps.
+Wild Fortress: Objective is to conquer the opponents' zone.
+Rotation: Two teams compete on various game modes.
+Death Match: Last man standing. (One of the most common ways played)
+No Rubber (NR): Played with no or one rubber. Rubber is a mechanism that helps to account for lag. The more rubber, the greater leeway the server allows the player. Touching a wall will result in instant death, making this a fast-paced game mode where players need fast reflexes.
+Low Rubber (LR): Played with an average of five to ten rubber.
+Medium Rubber (MR): Played with an average of ten to fifteen rubber.
+High Rubber (HR): Played with an average of fifteen to thirty rubber. And a speed of about 20-40
+Dog Fight (DF): Currently it is a mode that consists of slow to medium speed bikes and medium rubber (around 12).
+Loose / Open Play: Usually played with medium speed bikes or DF settings. On loose servers (any servers with "Loose Dogfight" in the name) there are rules for trapping the opponent that disallow completely grinding or sealing the tail of another player (known as stabbing/digging). This leaves an open path that an opponent can in theory maneuver through without having to "dig" underneath another player's grind. This is the only game mode in which the player is not 'allowed' to do certain things within the game, such as stabbing, although the server does not specifically restrict them.
+Team Death Match: Cooperate with teammates.
+Fortress: Capture the enemy base. This game can be played with teams or death match style.
+Sumo: The object is to stay in a zone while trying to force the opponent out, forcing their zone to collapse and their cycle to explode.
+Race: Race to the win zone at the end of the map.
+Maze: Find a path to the win zone.
+Sty Patch (formerly Pig Sty):
+Shooting: A team death match where the object is to try to shoot the other team's players with death zones.
+StyBall: A team match where the object is to score a goal by pushing the ball zone into the goal zone. (quite similar to football)
+Capture the Flag (CTF): Capture the opponents' flag. Players are respawned if they are dead and a player (ally or opponent) touches the base on the respective side. (This is a 2 team Game Mode)
+Capture The Flag Shooting (CTFS): Capture the opponents' flag while shooting. Players are respawned if they are dead and a player (ally or opponent) touches the base on the respective side.
+Flag Fortress (FF): A fortress game with fortress physics with the objective being to capture the opponents flag. Players are respawned if they are dead and a player (ally or opponent) touches the base with the respective color.
+GLtron

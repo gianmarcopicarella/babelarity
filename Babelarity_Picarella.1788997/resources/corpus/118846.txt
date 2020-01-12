@@ -1,0 +1,294 @@
+The density of air, (Greek: rho) (air density), is the mass per unit volume of Earth's atmosphere. Air density, like air pressure, decreases with increasing altitude. It also changes with variation in temperature or humidity. At sea level and at 15 °C air has a density of approximately 1.225 kg/m3 (0.001225 g/cm3, 0.0023769 slug/ft3, 0.0765 lbm/ft3) according to ISA (International Standard Atmosphere).
+The air density is a property used in many branches of science as aeronautics; gravimetric analysis; the air-conditioning industry; atmospheric research and meteorology; the agricultural engineering in their modeling and tracking of Soil-Vegetation-Atmosphere-Transfer (SVAT) models; and the engineering community that deals with compressed air from industry utility, heating, dry and cooling process in industry like a cooling towers, vacuum and deep vacuum processes, high pressure processes, the gas and light oil combustion processes that power the turbine-powered airplanes, gas turbine-powered generators and heating furnaces, and air conditioning from deep mines to space capsules.
+Depending on the measuring instruments, use, area of expertise and necessary rigor of the result different calculation criteria and sets of equations for the calculation of the density of air are used. This topic are some examples of calculations with the main variables involved, the amounts presented throughout these examples are properly referenced usual values, different values can be found in other references depending on the criteria used for the calculation . Furthermore we must pay attention to the fact that air is a mixture of gases and the calculation always simplify, to a greater or lesser extent, the properties of the mixture and the values for the composition according to the criteria of calculation.
+The density of dry air can be calculated using the ideal gas law, expressed as a function of temperature and pressure:
+        ρ
+        =
+            p
+                R
+                    s
+                    p
+                    e
+                    c
+                    i
+                    f
+                    i
+                    c
+              T
+    {\displaystyle \rho ={\frac {p}{R_{\rm {specific}}T}}}
+where:
+        ρ
+        =
+    {\displaystyle \rho =}
+   air density (kg/m^3)
+        p
+        =
+    {\displaystyle p=}
+   absolute pressure (Pa)
+        T
+        =
+    {\displaystyle T=}
+   absolute temperature (K)
+          R
+              s
+              p
+              e
+              c
+              i
+              f
+              i
+              c
+        =
+    {\displaystyle R_{\rm {specific}}=}
+   specific gas constant for dry air (J/(kg*K))
+The specific gas constant for dry air is 287.058 J/(kg·K) in SI units, and 53.35 (ft·lbf)/(lbm·°R) in United States customary and Imperial units. This quantity may vary slightly depending on the molecular composition of air at a particular location.
+Therefore:
+At IUPAC standard temperature and pressure (0 °C and 100 kPa), dry air has a density of 1.2754 kg/m3.
+At 20 °C and 101.325 kPa, dry air has a density of 1.2041 kg/m3.
+At 70 °F and 14.696 psi, dry air has a density of 0.074887lbm/ft3.
+The following table illustrates the air density–temperature relationship at 1 atm or 101.325 kPa:
+The addition of water vapor to air (making the air humid) reduces the density of the air, which may at first appear counter-intuitive. This occurs because the molar mass of water (18 g/mol) is less than the molar mass of dry air (around 29 g/mol). For any gas, at a given temperature and pressure, the number of molecules present is constant for a particular volume (see Avogadro's Law). So when water molecules (water vapor) are added to a given volume of air, the dry air molecules must decrease by the same number, to keep the pressure or temperature from increasing. Hence the mass per unit volume of the gas (its density) decreases.
+The density of humid air may be calculated as a mixture of ideal gases. In this case, the partial pressure of water vapor is known as the vapor pressure. Using this method, error in the density calculation is less than 0.2% in the range of −10 °C to 50 °C. The density of humid air is found by:
+          ρ
+              h
+              u
+              m
+              i
+              d
+              a
+              i
+              r
+        =
+              p
+                d
+                R
+                  d
+              T
+        +
+              p
+                v
+                R
+                  v
+              T
+        =
+                p
+                  d
+                M
+                  d
+              +
+                p
+                  v
+                M
+                  v
+              R
+              T
+    {\displaystyle \rho _{\,\mathrm {humid~air} }={\frac {p_{d}}{R_{d}T}}+{\frac {p_{v}}{R_{v}T}}={\frac {p_{d}M_{d}+p_{v}M_{v}}{RT}}\,}
+where:
+          ρ
+              h
+              u
+              m
+              i
+              d
+              a
+              i
+              r
+        =
+    {\displaystyle \rho _{\,\mathrm {humid~air} }=}
+   Density of the humid air (kg/m³)
+          p
+            d
+        =
+    {\displaystyle p_{d}=}
+   Partial pressure of dry air (Pa)
+          R
+            d
+        =
+    {\displaystyle R_{d}=}
+   Specific gas constant for dry air, 287.058 J/(kg·K)
+        T
+        =
+    {\displaystyle T=}
+   Temperature (K)
+          p
+            v
+        =
+    {\displaystyle p_{v}=}
+   Pressure of water vapor (Pa)
+          R
+            v
+        =
+    {\displaystyle R_{v}=}
+   Specific gas constant for water vapor, 461.495 J/(kg·K)
+          M
+            d
+        =
+    {\displaystyle M_{d}=}
+   Molar mass of dry air, 0.028964 kg/mol
+          M
+            v
+        =
+    {\displaystyle M_{v}=}
+   Molar mass of water vapor, 0.018016 kg/mol
+        R
+        =
+    {\displaystyle R=}
+   Universal gas constant, 8.314 J/(K·mol)
+The vapor pressure of water may be calculated from the saturation vapor pressure and relative humidity. It is found by:
+          p
+            v
+        =
+        ϕ
+          p
+              s
+              a
+              t
+    {\displaystyle p_{v}=\phi p_{\mathrm {sat} }\,}
+where:
+          p
+            v
+        =
+    {\displaystyle p_{v}=}
+   Vapor pressure of water
+        ϕ
+        =
+    {\displaystyle \phi =}
+   Relative humidity
+          p
+              s
+              a
+              t
+        =
+    {\displaystyle p_{\mathrm {sat} }=}
+   Saturation vapor pressure
+The saturation vapor pressure of water at any given temperature is the vapor pressure when relative humidity is 100%. One formula  used to find the saturation vapor pressure is:
+          p
+              s
+              a
+              t
+        =
+        6.1078
+        ×
+          10
+                7.5
+                T
+                T
+                +
+                237.3
+    {\displaystyle p_{\mathrm {sat} }=6.1078\times 10^{\frac {7.5T}{T+237.3}}}
+where 
+        T
+        =
+    {\displaystyle T=}
+   is in degrees C.
+note:
+This equation will give the result of pressure in hPa (100 Pa, equivalent to the older unit millibar, 1 mbar = 0.001 bar = 0.1 kPa)
+The partial pressure of dry air 
+          p
+            d
+    {\displaystyle p_{d}}
+   is found considering partial pressure, resulting in:
+          p
+            d
+        =
+        p
+        −
+          p
+            v
+    {\displaystyle p_{d}=p-p_{v}\,}
+Where 
+        p
+    {\displaystyle p}
+   simply denotes the observed absolute pressure.
+To calculate the density of air as a function of altitude, one requires additional parameters. They are listed below, along with their values according to the International Standard Atmosphere, using for calculation the universal gas constant instead of the air specific constant:
+          p
+            0
+        =
+    {\displaystyle p_{0}=}
+   sea level standard atmospheric pressure, 101.325 kPa
+          T
+            0
+        =
+    {\displaystyle T_{0}=}
+   sea level standard temperature, 288.15 K
+        g
+        =
+    {\displaystyle g=}
+   earth-surface gravitational acceleration, 9.80665 m/s2
+        L
+        =
+    {\displaystyle L=}
+   temperature lapse rate, 0.0065 K/m
+        R
+        =
+    {\displaystyle R=}
+   ideal (universal) gas constant, 8.31447 J/(mol·K)
+        M
+        =
+    {\displaystyle M=}
+   molar mass of dry air, 0.0289644 kg/mol
+Temperature at altitude 
+        h
+    {\displaystyle h}
+   meters above sea level is approximated by the following formula (only valid inside the troposphere):
+        T
+        =
+          T
+            0
+        −
+        L
+        h
+    {\displaystyle T=T_{0}-Lh\,}
+The pressure at altitude 
+        h
+    {\displaystyle h}
+   is given by:
+        p
+        =
+          p
+            0
+            (
+            1
+            −
+                  L
+                  h
+                  T
+                    0
+            )
+                g
+                M
+                R
+                L
+    {\displaystyle p=p_{0}\left(1-{\frac {Lh}{T_{0}}}\right)^{\frac {gM}{RL}}}
+Density can then be calculated according to a molar form of the ideal gas law:
+        ρ
+        =
+              p
+              M
+              R
+              T
+    {\displaystyle \rho ={\frac {pM}{RT}}\,}
+where:
+        M
+        =
+    {\displaystyle M=}
+   molar mass
+        R
+        =
+    {\displaystyle R=}
+   ideal gas constant
+        T
+        =
+    {\displaystyle T=}
+   absolute temperature
+        p
+        =
+    {\displaystyle p=}
+   absolute pressure
+The air composition adopted for each set of equations varies with the references used in the table below are listed some examples of air composition according to the references. Despite minor differences to define all formulations the predicted molar mass of dry air and below table shows these differences. Importantly, some of the examples are not normalized so that the composition is equal to unity (100%), before they used should be normalized.
+Air
+Density
+Atmosphere of Earth
+International Standard Atmosphere
+U.S. Standard Atmosphere
+NRLMSISE-00

@@ -1,0 +1,33 @@
+Alfresco is a free/libre enterprise content management system for Microsoft Windows and Unix-like operating systems. Alfresco comes in three flavors:
+Alfresco Community Edition is free software, LGPL licensed open source and open standards. It has some important limitations in terms of scalability and availability, since the clustering feature has been removed from the community repository and is only available in the enterprise edition.
+Alfresco Enterprise Edition is commercially & proprietary licensed open source, open standards and enterprise scale. Its design is geared towards users who require a high degree of modularity and scalable performance.
+Alfresco Cloud Edition (Alfresco in the cloud) is the SaaS version of Alfresco.
+Alfresco includes a content repository, an out-of-the-box, web-based user interface for managing and using standard portal content, a CIFS interface that provides file system compatibility on Microsoft Windows and Unix-like operating systems, Lucene and Solr indexing, and Activiti workflow. The Alfresco system is developed using Java technology.
+John Newton (co-founder of Documentum) and John Powell (a former COO of Business Objects) founded Alfresco Software, Inc. in 2005. Its investors include the investment firms SAP Ventures, Accel Partners and Mayfield Fund. The original technical staff consisted of principal engineers from Documentum and Oracle.
+While Alfresco's product initially focused on document management, in May, 2006, the company announced its intention to expand into web content management by acquiring senior technical and managerial staff from Interwoven; this included its VP of Web Content Management, two principal engineers, and a member of its user-interface team. In 2007, Alfresco hired the principal sales engineer from Vignette.
+In October 2009, the 2009 Open Source CMS Market Share Report described Alfresco as a leading Java-based open source web content management system.
+In 2010, Alfresco sponsored a new open-source BPM engine called Activiti.
+In July 2011, Alfresco and Ephesoft announced a technology partnership to offer their users document capture and Content Management Interoperability Services brought together for intelligent PDF capture and search and workflow development.
+In January 2012, Alfresco 4.0 was released with significant improvements to the user interface. The new Alfresco aims to move further features from Alfresco Explorer to Alfresco Share, as Alfresco Explorer is intended to be deprecated over time.
+In January 2013, Alfresco appointed Doug Dennerline, former President of SuccessFactors, former EVP of Sales at Salesforce.com, and former CEO of WebEx, as its new CEO.
+Enterprise content management for documents, web, records, images and collaborative content development.
+Alfresco is capable of the following:
+Document management
+Records management, including 5015.2 certification
+Image management
+Learning content management support for learning management systems (e.g. Moodle)
+LOR Learning Object Repository (edu-sharing)
+Integrated publishing
+Repository access via CIFS/SMB, FTP, WebDAV, NFS and CMIS
+Automating business processes with the embedded Activiti workflow engine
+Lucene search
+Federated servers
+Multi-language support
+Portable application packaging
+Multi-platform support (officially Windows, GNU/Linux and Solaris)
+Browser-based GUI (official support for Internet Explorer and Firefox)
+Desktop integration with Microsoft Office (available in enterprise version only), OpenOffice.org and LibreOffice.
+Online integration with Google Docs
+Clustering support
+Pluggable authentication: NTLM, LDAP, Kerberos, CAS
+Multiple database support: MySQL, PostgreSQL, Oracle Database (Enterprise Edition), IBM DB2, Microsoft SQL Server (Enterprise Edition).

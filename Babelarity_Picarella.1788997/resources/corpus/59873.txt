@@ -1,0 +1,105 @@
+The oil drop experiment was performed by Robert A. Millikan and Harvey Fletcher in 1909 to measure the elementary electric charge (the charge of the electron).
+The experiment entailed observing tiny charged droplets of oil between two horizontal metal electrodes. First, with zero applied electric field, the terminal velocity of a droplet was measured. At terminal velocity, the drag force equals the gravitational force, and these depend on the radius in different ways, so that the radius of the droplet, and therefore the mass and gravitational force, could be determined (using the known density of the oil). Then an adjustable voltage was applied between the plates to induce an electric field, and the voltage was adjusted until the drops were suspended in mechanical equilibrium, indicating that the electrical force and the gravitational force were balanced. Now using the known electric field, Millikan and Fletcher could determine the charge on the oil droplet. By repeating the experiment for many droplets, they confirmed that the charges were all small integer multiples of a certain base value, which was found to be 6981159240000000000♠1.5924(17)×10−19 C, less than a 1% difference from the currently accepted value of 6981160217648699999♠1.602176487(40)×10−19 C. They proposed that this was the (negative of the) charge of a single electron.
+Starting in 1908, while a professor at the University of Chicago, Millikan, with the significant input of Fletcher, and after improving his setup, published his seminal study in 1913. This remains controversial since papers found after Fletcher's death describe events in which Millikan coerced Fletcher into relinquishing authorship as a condition for receiving his PhD. In return, Millikan used his influence in support of Fletcher's career at Bell Labs.
+Millikan and Fletcher's experiment involved measuring the force on oil droplets in a glass chamber sandwiched between two electrodes, one above and one below. With the electrical field calculated, he could measure the droplet's charge, the charge on a single electron being (6981159200000000000♠1.592×10−19 C). At the time of Millikan and Fletcher's oil drop experiments, the existence of subatomic particles was not universally accepted. Experimenting with cathode rays in 1897, J. J. Thomson had discovered negatively charged "corpuscles", as he called them, with a mass about 1840 times smaller than that of a hydrogen atom. Similar results had been found by George FitzGerald and Walter Kaufmann. Most of what was then known about electricity and magnetism, however, could be explained on the basis that charge is a continuous variable; in much the same way that many of the properties of light can be explained by treating it as a continuous wave rather than as a stream of photons.
+The elementary charge e is one of the fundamental physical constants and its accurate value is of great importance. In 1923, Millikan won the Nobel Prize in physics, in part because of this experiment.
+Aside from the measurement, the beauty of the oil drop experiment is that it is a simple, elegant hands-on demonstration that charge is actually quantized. Thomas Edison, who had previously thought of charge as a continuous variable, became convinced after working with Millikan and Fletcher's apparatus. This experiment has since been repeated by generations of physics students, although it is rather expensive and difficult to conduct properly.
+In the last two decades, several computer-automated experiments have been conducted to search for isolated fractionally charged particles. So far (2015), no evidence for fractional charge particles was found after measuring over 100 million drops.
+Millikan’s and Fletcher's apparatus incorporated a parallel pair of horizontal metal plates. By applying a potential difference across the plates, a uniform electric field was created in the space between them. A ring of insulating material was used to hold the plates apart. Four holes were cut into the ring, three for illumination by a bright light, and another to allow viewing through a microscope.
+A fine mist of oil droplets was sprayed into a chamber above the plates. The oil was of a type usually used in vacuum apparatus and was chosen because it had an extremely low vapour pressure. Ordinary oil would evaporate under the heat of the light source causing the mass of the oil drop to change over the course of the experiment. Some oil drops became electrically charged through friction with the nozzle as they were sprayed. Alternatively, charging could be brought about by including an ionising radiation source (such as an X-ray tube). The droplets entered the space between the plates and, because they were charged, could be made to rise and fall by changing the voltage across the plates.
+Initially the oil drops are allowed to fall between the plates with the electric field turned off. They very quickly reach a terminal velocity because of friction with the air in the chamber. The field is then turned on and, if it is large enough, some of the drops (the charged ones) will start to rise. (This is because the upwards electric force FE is greater for them than the downwards gravitational force Fg, in the same way bits of paper can be picked by a charged rubber rod). A likely looking drop is selected and kept in the middle of the field of view by alternately switching off the voltage until all the other drops have fallen. The experiment is then continued with this one drop.
+The drop is allowed to fall and its terminal velocity v1 in the absence of an electric field is calculated. The drag force acting on the drop can then be worked out using Stokes' law:
+          F
+            d
+        =
+        6
+        π
+        r
+        η
+          v
+            1
+    {\displaystyle F_{d}=6\pi r\eta v_{1}\,}
+where v1 is the terminal velocity (i.e. velocity in the absence of an electric field) of the falling drop, η is the viscosity of the air, and r is the radius of the drop.
+The weight w is the volume D multiplied by the density ρ and the acceleration due to gravity g. However, what is needed is the apparent weight. The apparent weight in air is the true weight minus the upthrust (which equals the weight of air displaced by the oil drop). For a perfectly spherical droplet the apparent weight can be written as:
+          w
+        =
+              4
+              π
+            3
+          r
+            3
+        (
+        ρ
+        −
+          ρ
+            a
+            i
+            r
+        )
+          g
+    {\displaystyle {\boldsymbol {w}}={\frac {4\pi }{3}}r^{3}(\rho -\rho _{air}){\boldsymbol {g}}}
+At terminal velocity the oil drop is not accelerating. Therefore, the total force acting on it must be zero and the two forces F and w must cancel one another out (that is, F = w). This implies
+          r
+            2
+        =
+              9
+              η
+                v
+                  1
+              2
+              g
+              (
+              ρ
+              −
+                ρ
+                  a
+                  i
+                  r
+              )
+        .
+    {\displaystyle r^{2}={\frac {9\eta v_{1}}{2g(\rho -\rho _{air})}}.\,}
+Once r is calculated, w can easily be worked out.
+Now the field is turned back on, and the electric force on the drop is
+          F
+            E
+        =
+        q
+        E
+    {\displaystyle F_{E}=qE\,}
+where q is the charge on the oil drop and E is the electric field between the plates. For parallel plates
+        E
+        =
+            V
+            d
+    {\displaystyle E={\frac {V}{d}}\,}
+where V is the potential difference and d is the distance between the plates.
+One conceivable way to work out q would be to adjust V until the oil drop remained steady. Then we could equate FE with w. Also, determining FE proves difficult because the mass of the oil drop is difficult to determine without reverting to the use of Stokes' Law. A more practical approach is to turn V up slightly so that the oil drop rises with a new terminal velocity v2. Then
+        q
+          E
+        −
+          w
+        =
+        6
+        π
+        η
+          (
+          r
+          ⋅
+            v
+              2
+          )
+        =
+          |
+                v
+                  2
+                v
+                  1
+          |
+          w
+    {\displaystyle q{\boldsymbol {E}}-{\boldsymbol {w}}=6\pi \eta {\boldsymbol {(r\cdot v_{2})}}=\left|{\boldsymbol {\frac {v_{2}}{v_{1}}}}\right|{\boldsymbol {w}}}
+  .
+Some controversy was raised by historian Gerald Holton (1978) who pointed out that Millikan recorded more measurements in his journal than he included in his final results. Horton suggested these data points were omitted from the large set of oil drops measured in his experiments without apparent reason. This claim was rebutted by Allan Franklin, a high energy physics experimentalist and philosopher of science at the University of Colorado. Franklin contended that Millikan's exclusions of data did not substantively affect his final value of e, but did reducing the statistical error around this estimate e. This enabled Millikan to claim that he had calculated e to better than one half of one percent; in fact, if Millikan had included all of the data he had thrown out, the standard error of the mean would have been within 2%. While this would still have resulted in Millikan having measured e better than anyone else at the time, the slightly larger uncertainty might have allowed more disagreement with his results within the physics community. While Franklin left his support for Millikan's measurement with the conclusion that concedes that Millikan may have performed "cosmetic surgery" on the data, David Goldstein investigated the original detailed notebooks kept by Millikan, concluding that Millikan plainly states here and in the reports that he included only drops that had undergone a "complete series of observations" and excluded no drops from this group of complete measurements. Reasons for a failure to generate a complete observation include annotations regarding the apparatus setup, oil drop production, and atmospheric effects which invalidated, in Millikan's opinion (born out by the reduced error in this set), a given particular measurement.
+In a commencement address given at the California Institute of Technology (Caltech) in 1974 (and reprinted in Surely You're Joking, Mr. Feynman! in 1985 as well as in The Pleasure of Finding Things Out in 1999), physicist Richard Feynman noted:
+We have learned a lot from experience about how to handle some of the ways we fool ourselves. One example: Millikan measured the charge on an electron by an experiment with falling oil drops, and got an answer which we now know not to be quite right. It's a little bit off because he had the incorrect value for the viscosity of air. It's interesting to look at the history of measurements of the charge of an electron, after Millikan. If you plot them as a function of time, you find that one is a little bit bigger than Millikan's, and the next one's a little bit bigger than that, and the next one's a little bit bigger than that, until finally they settle down to a number which is higher.
+Why didn't they discover the new number was higher right away? It's a thing that scientists are ashamed of—this history—because it's apparent that people did things like this: When they got a number that was too high above Millikan's, they thought something must be wrong—and they would look for and find a reason why something might be wrong. When they got a number close to Millikan's value they didn't look so hard. And so they eliminated the numbers that were too far off, and did other things like that...
+As of 2014, the accepted value for the elementary charge is 6981160217656499999♠1.602176565(35)×10−19 C, where the (35) indicates the uncertainty of the last two decimal places. In his Nobel lecture, Millikan gave his measurement as 6990477400000000000♠4.774(5)×10−10 statC, which equals 6981159240000000000♠1.5924(17)×10−19 C. The difference is less than one percent, but it is more than five times greater than Millikan's standard error, so the disagreement is significant.

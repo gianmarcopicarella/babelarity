@@ -1,0 +1,6 @@
+Étienne Bézout (French: [bezu]; 31 March 1730 – 27 September 1783) was a French mathematician who was born in Nemours, Seine-et-Marne, France, and died in Avon (near Fontainebleau), France.
+In 1758 Bézout was elected an adjoint in mechanics of the French Academy of Sciences. Besides numerous minor works, wrote a Théorie générale des équations algébriques, published at Paris in 1779, which in particular contained much new and valuable matter on the theory of elimination and symmetrical functions of the roots of an equation: he used determinants in a paper in the Histoire de l'académie royale, 1764, but did not treat the general theory.
+Bézout's theorem
+Bézout's identity
+Bézout matrix
+Bézout domain

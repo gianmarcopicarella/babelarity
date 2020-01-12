@@ -1,0 +1,25 @@
+Client-to-client protocol (CTCP) is a special type of communication between Internet Relay Chat (IRC) clients.
+CTCP is a common protocol implemented by most major IRC clients in use today. CTCP extends the original IRC protocol by allowing users to query other clients or channels, this causes all the clients in the channel to reply the CTCP, for specific information. Additionally, CTCP can be used to encode messages that the raw IRC protocol would not allow to be sent over the link, such as messages containing newlines or the byte value 0 (NULL). CTCP does not establish a direct connection between clients; however, it is commonly used to negotiate DCC connections.
+CTCP allows users to query a remote client about the version of the client they are using (via CTCP VERSION), or the time (via CTCP TIME), among other things. It is also used to implement the /me command (via CTCP ACTION).
+ircII was the first IRC client to implement the CTCP and DCC protocols. The CTCP protocol was implemented by Michael Sandrof in 1990 for ircII version 2.1, while the DCC protocol was implemented by Troy Rollo in 1991 for version 2.1.2.
+A CTCP message is implemented as a PRIVMSG or NOTICE where the first and last characters of the message are ASCII value 0x01. Additionally, characters which would not be allowed in the IRC protocol are escaped. Since a NOTICE as the standard should not generate a reply, CTCP messages are sent as PRIVMSG and the reply is implemented with a NOTICE instead of a PRIVMSG.
+A CTCP query is initiated on most clients as follows:
+CTCP <target> <command> <arguments>
+Where <target> is the target nickname or channel, <command> is the CTCP command (e.g. VERSION), and <arguments> are additional information to be sent to the <target>.
+Please note that the following CTCP commands and replies are client-specific, however, are supported by the majority of IRC clients. Therefore, depending on your IRC client, you may or may not have an automated response (or replies) to specific incoming CTCPs set up, and these automated responses will differ between clients.
+A CTCP VERSION request will return the name and version of the IRC client the target is using, and in some cases technical information such as the operating system, clock rate, CPU Manufacturer and CPU architecture/instruction set.
+A sample reply for a CTCP VERSION request to a target that uses the HexChat client (a fork of XChat) is:
+VERSION HexChat 2.9.1 [x86] / Windows 8 [1.46GHz]
+A CTCP TIME request will return the local time of the target computer. Depending on the IRC client, the reply may consist of the date, the time (either in 12-hour format or 24-hour format), the year (e.g. 2019), and sometimes the time zone (e.g. AEST).
+A sample reply for a CTCP TIME request to a target that uses the ChatZilla client is:
+TIME Fri 23 Nov 2019 19:26:42 AEST
+A CTCP PING request will determine the ping rate that directly exists between two clients (i.e. discounting the server). The CTCP PING command works by sending an (often) integer argument (a timestamp) to a target client, the target client then responds by supplying exactly the same numerical parameter. The difference between the original timestamp and the current timestamp is calculated, with the result being displayed to the user that initiated the CTCP PING. More often than not, a timestamp that utilises milliseconds is used due to the majority of users with broadband Internet connections having a ping under 1 second.
+A sample CTCP PING request to target <nickname> from the XChat client is:
+CTCP PING 23152511
+Likewise, sample output generated from the difference (see above) is:
+Ping reply from <nickname>: 0.53 second(s)
+See Direct Client-to-Client.
+Internet Relay Chat (IRC)
+IRC client
+Comparison of Internet Relay Chat clients
+DCC (Direct Client-to-Client)

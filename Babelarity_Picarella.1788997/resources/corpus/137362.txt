@@ -1,0 +1,28 @@
+Etoposide or VP-16 (trade name Etopophos) is a cytotoxic anticancer drug which belongs to the topoisomerase inhibitor drug class. It is used in form of its salt etoposide phosphate.
+It is on the WHO Model List of Essential Medicines, the most important medications needed in a basic health system.
+Etoposide is used as a form of chemotherapy for cancers such as Kaposi’s sarcoma, Ewing's sarcoma, lung cancer, testicular cancer, lymphoma, nonlymphocytic leukemia, and glioblastoma multiforme. It is often given in combination with other drugs (such as bleomycin in treating testicular cancer). It is also sometimes used in a conditioning regimen prior to a bone marrow or blood stem cell transplant.
+It is given intravenously (IV) or orally in capsule form. If the drug is given IV, it must be done slowly over a 30- to 60-minute period because it can lower blood pressure as it is being administered. Blood pressure is checked often during infusing, with the speed of administration adjusted accordingly.
+Common are:
+infusion site reactions
+low blood pressure
+hair loss
+pain and or burning at the IV site
+constipation or diarrhea
+metallic food taste
+Bone marrow suppression, leading to:
+decreased white blood cell counts (leading to increased susceptibility to infections)
+low red blood cell counts (anemia)
+low platelet counts (leading to easy bruising and bleeding)
+Less common are:
+nausea and vomiting
+allergic-type reactions
+rash
+fever, often occurring shortly after IV administration and not due to infection
+mouth sores
+Acute myeloid leukemia (which ironically can be treated with etoposide itself)
+When given with warfarin, it may cause bleeding.
+Etoposide forms a ternary complex with DNA and the topoisomerase II enzyme (which aids in DNA unwinding), prevents re-ligation of the DNA strands, and by doing so causes DNA strands to break. Cancer cells rely on this enzyme more than healthy cells, since they divide more rapidly. Therefore, this causes errors in DNA synthesis and promotes apoptosis of the cancer cell.
+Etoposide is a semisynthetic derivative of podophyllotoxin from the rhizome of the wild mandrake (Podophyllum peltatum). More specifically, it is a glycoside of podophyllotoxin with a D-glucose derivative. It is chemically similar to the anti-cancer drug teniposide, being distinguished only by a methyl rest where teniposide has a thienyl. Both these compounds have been developed with the aim of creating less toxic derivatives of podophyllotoxin.
+The substance is a white to yellow-brown, crystalline powder. It is soluble in organic solvents.
+Etoposide was first synthesized in 1966 and U.S. Food and Drug Administration approval was granted in 1983.
+The nickname VP-16 likely comes from a compounding of the last name of the chemists who performed early work on the drug (von Wartburg and von Kuhn) and podophyllotoxin. Another scientist who was integral in the development of podophyllotoxin-based chemotherapeutics was the medical pharmacologist Hartmann F. Stähelin.

@@ -1,0 +1,25 @@
+A network administrator maintains computer infrastructures with emphasis on networking. Responsibilities may vary between organizations, but on-site servers, software-network interactions as well as network integrity/resilience are the key areas of focus.
+The role of the network administrator can vary significantly depending on an organization's size, location, and socio-economic considerations. Some organizations work on a user-to-technical support ratio, whilst others implement many other strategies.
+Generally, in terms of reactive situations (i.e.: unexpected disruptions to service, or service improvements), IT Support Incidents are raised through an Issue tracking system. Typically, issues work their way through a Help desk and then flow through to the relevant technology area for resolution. In the case of a network related issue, an issue will be directed towards a network administrator. If a network administrator is unable to resolve an issue, a ticket will be escalated to a more senior network engineer for a restoration of service or a more appropriate skill group.
+Network administrators are often involved in proactive work. This type of work will often include:
+Network monitoring
+Testing the network for weakness
+Keeping an eye out for needed updates
+Installing and implementing security programs
+In many cases, E-mail and Internet filters
+Evaluating implementing network
+Network administrators are for making sure that computer hardware and network infrastructure related to an organization's data network are effectively maintained. In smaller organizations, they are typically involved in the procurement of new hardware, the rollout of new software, maintaining disk images for new computer installs, making sure that licenses are paid for and up to date for software that needs it, maintaining the standards for server installations and applications, monitoring the performance of the network, checking for security breaches, and poor data management practices. A common question for the small-medium business (SMB) network administrator is, how much bandwidth do I need to run my business? Typically, within a larger organization, these roles are split into multiple roles or functions across various divisions and are not actioned by the one individual. In other organizations, some of these roles mentioned are carried out by system administrators.
+As with many technical roles, network administrator positions require a breadth of technical knowledge and the ability to learn the intricacies of new networking and server software packages quickly. Within smaller organizations, the more senior role of network engineer is sometimes attached to the responsibilities of the network administrator. It is common for smaller organizations to outsource this function.
+Juniper
+Cisco
+CWNA
+BCNE
+F5-CA
+Microsoft
+Novell
+CompTIA
+Red Hat
+Network analyzer (disambiguation)
+Network architecture
+Network management system
+System administrator

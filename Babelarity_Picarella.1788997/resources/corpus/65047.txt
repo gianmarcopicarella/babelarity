@@ -1,0 +1,174 @@
+In geometry, a dodecagon or 12-gon is any twelve-sided polygon.
+A regular dodecagon is a closed figure with sides of the same length and internal angles of the same size. It has twelve lines of reflective symmetry and rotational symmetry of order 12. A regular dodecagon is represented by the Schläfli symbol {12} and can be constructed as a truncated hexagon, t{6}, or a twice-truncated triangle, tt{3}. The internal angle at each vertex of a regular dodecagon is 150°.
+The area of a regular dodecagon of side length a is given by:
+                A
+                =
+                3
+                cot
+                ⁡
+                  (
+                      π
+                      12
+                  )
+                  a
+                    2
+                =
+                3
+                  (
+                  2
+                  +
+                      3
+                  )
+                  a
+                    2
+                ≃
+                11.19615242
+                  a
+                    2
+    {\displaystyle {\begin{aligned}A&=3\cot \left({\frac {\pi }{12}}\right)a^{2}=3\left(2+{\sqrt {3}}\right)a^{2}\\&\simeq 11.19615242\,a^{2}\end{aligned}}}
+And in terms of the apothem r (see also inscribed figure), the area is:
+                A
+                =
+                12
+                tan
+                ⁡
+                  (
+                      π
+                      12
+                  )
+                  r
+                    2
+                =
+                12
+                  (
+                  2
+                  −
+                      3
+                  )
+                  r
+                    2
+                ≃
+                3.2153903
+                  r
+                    2
+    {\displaystyle {\begin{aligned}A&=12\tan \left({\frac {\pi }{12}}\right)r^{2}=12\left(2-{\sqrt {3}}\right)r^{2}\\&\simeq 3.2153903\,r^{2}\end{aligned}}}
+In terms of the circumradius R, the area is:
+        A
+        =
+        6
+        sin
+        ⁡
+          (
+              π
+              6
+          )
+          R
+            2
+        =
+        3
+          R
+            2
+    {\displaystyle A=6\sin \left({\frac {\pi }{6}}\right)R^{2}=3R^{2}}
+The span of the dodecagon is the distance between two parallel sides and is equal to twice the apothem. A simple formula for area (given side length and span) is:
+        A
+        =
+        3
+        a
+        S
+    {\displaystyle A=3aS}
+This can be verified with the trigonometric relationship:
+        S
+        =
+        a
+        (
+        1
+        +
+        2
+        cos
+        ⁡
+            30
+              ∘
+        +
+        2
+        cos
+        ⁡
+            60
+              ∘
+        )
+    {\displaystyle S=a(1+2\cos {30^{\circ }}+2\cos {60^{\circ }})}
+The perimeter of a regular dodecagon in terms of apothem is:
+                p
+                =
+                24
+                a
+                tan
+                ⁡
+                  (
+                      π
+                      12
+                  )
+                =
+                12
+                a
+                    2
+                    −
+                        3
+                ≃
+                6.21165708246
+                a
+    {\displaystyle {\begin{aligned}p&=24a\tan \left({\frac {\pi }{12}}\right)=12a{\sqrt {2-{\sqrt {3}}}}\\&\simeq 6.21165708246a\end{aligned}}}
+The perimeter in terms of circumradius is:
+                p
+                =
+                24
+                R
+                tan
+                ⁡
+                  (
+                      π
+                      12
+                  )
+                =
+                24
+                R
+                (
+                2
+                −
+                    3
+                )
+                ≃
+                6.43078061835
+                R
+    {\displaystyle {\begin{aligned}p&=24R\tan \left({\frac {\pi }{12}}\right)=24R(2-{\sqrt {3}})\\&\simeq 6.43078061835R\end{aligned}}}
+This coefficient is double the coefficient found in the apothem equation for area.
+As 12 = 22 × 3, regular dodecagon is constructible using compass and straightedge:
+Construction of a regular dodecagon
+Coxeter states that every parallel-sided 2m-gon can be divided into m(m-1)/2 rhombs. For the dodecagon, m=6, and it can be divided into 15 rhombs, with one example shown below. This decomposition is based on a Petrie polygon projection of a 6-cube, with 15 of 240 faces.
+One of the ways the mathematical manipulative pattern blocks are used is in creating a number of different dodecagons.
+The regular dodecagon has Dih12 symmetry, order 24. There are 15 distinct subgroup dihedral and cyclic symmetries. Each subgroup symmetry allows one or more degrees of freedom for irregular forms. Only the g12 subgroup has no degrees of freedom but can seen as directed edges.
+A regular dodecagon can fill a plane vertex with other regular polygons in 4 ways:
+Here are 3 example periodic plane tilings that use regular dodecagons, defined by their vertex configuration:
+A skew dodecagon is a skew polygon with 12 vertices and edges but not existing on the same plane. The interior of such an dodecagon is not generally defined. A skew zig-zag dodecagon has vertices alternating between two parallel planes.
+A regular skew dodecagon is vertex-transitive with equal edge lengths. In 3-dimensions it will be a zig-zag skew dodecagon and can be seen in the vertices and side edges of a hexagonal antiprism with the same D5d, [2+,10] symmetry, order 20. The dodecagrammic antiprism, s{2,24/5} and dodecagrammic crossed-antiprism, s{2,24/7} also have regular skew dodecagons.
+The regular dodecagon is the Petrie polygon for many higher-dimensional polytopes, seen as orthogonal projections in Coxeter planes. Examples in 4 dimensionare the 24-cell, snub 24-cell, 6-6 duoprism, 6-6 duopyramid. In 6 dimensions 6-cube, 6-orthoplex, 221, 122. It is also the Petrie polygon for the grand 120-cell and great stellated 120-cell.
+A dodecagram is a 12-sided star polygon, represented by symbol {12/n}. There is one regular star polygon: {12/5}, using the same vertices, but connecting every fifth point. There are also three compounds: {12/2} is reduced to 2{6} as two hexagons, and {12/3} is reduced to 3{4} as three squares, {12/4} is reduced to 4{3} as four triangles, and {12/6} is reduced to 6{2} as six degenerate digons.
+Deeper truncations of the regular dodecagon and dodecagrams can produce isogonal (vertex-transitive) intermediate star polygon forms with equal spaced vertices and two edge lengths. A truncated hexagon is a dodecagon, t{6}={12}. A quasitruncated hexagon, inverted as {6/5}, is a dodecagram: t{6/5}={12/5}.
+In block capitals, the letters E, H and X (and I in a slab serif font) have dodecagonal outlines. A cross is a dodecagon.
+The regular dodecagon features prominently in many buildings. The Torre del Oro is a dodecagonal military watchtower in Seville, southern Spain, built by the Almohad dynasty. The early thirteenth century Vera Cruz church in Segovia, Spain is dodecagonal. Another example is the Porta di Venere (Venus' Gate), in Spello, Italy, built in the 1st century BC has two dodecagonal towers, called "Propertius' Towers".
+Regular dodecagonal coins include:
+British threepenny bit from 1937 to 1971, when it ceased to be legal tender.
+British One Pound Coin to be introduced in 2017.
+Australian 50-cent coin
+Fijian 50 cents
+Tongan 50-seniti, since 1974
+Solomon Islands 50 cents
+Croatian 25 kuna
+Romanian 5000 lei, 2001–2005
+Canadian penny, 1982–1996
+South Vietnamese 25 đồng, 1968–1975
+Zambian 50 ngwee, 1969–1992
+Malawian 50 tambala, 1986–1995
+Mexican 20 centavos, 1992-2009
+Dodecagonal number
+Dodecahedron – a regular polyhedron with 12 pentagonal faces.
+Dodecagram

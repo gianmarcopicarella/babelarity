@@ -1,0 +1,98 @@
+A palindromic number or numeral palindrome is a number that remains the same when its digits are reversed. Like 16461, for example, it is "symmetrical". The term palindromic is derived from palindrome, which refers to a word (such as rotor or "racecar" or even "Malayalam") whose spelling is unchanged when its letters are reversed. The first 30 palindromic numbers (in decimal) are:
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33, 44, 55, 66, 77, 88, 99, 101, 111, 121, 131, 141, 151, 161, 171, 181, 191, 202, … (sequence A002113 in OEIS).
+Palindromic numbers receive most attention in the realm of recreational mathematics. A typical problem asks for numbers that possess a certain property and are palindromic. For instance:
+The palindromic primes are 2, 3, 5, 7, 11, 101, 131, 151, … (sequence A002385 in OEIS).
+The palindromic square numbers are 0, 1, 4, 9, 121, 484, 676, 10201, 12321, … (sequence A002779 in OEIS).
+Buckminster Fuller identified a set of numbers he called Scheherazade numbers, some of which have a palindromic symmetry of digit groups.
+It is fairly straightforward to appreciate that in any base there are infinitely many palindromic numbers, since in any base the infinite sequence of numbers written (in that base) as 101, 1001, 10001, etc. (in which the nth number is a 1, followed by n zeros, followed by a 1) consists of palindromic numbers only.
+Although palindromic numbers are most often considered in the decimal system, the concept of palindromicity can be applied to the natural numbers in any numeral system. Consider a number n > 0 in base b ≥ 2, where it is written in standard notation with k+1 digits ai as:
+        n
+        =
+          ∑
+            i
+            =
+            0
+            k
+          a
+            i
+          b
+            i
+    {\displaystyle n=\sum _{i=0}^{k}a_{i}b^{i}}
+with, as usual, 0 ≤ ai < b for all i and ak ≠ 0. Then n is palindromic if and only if ai = ak−i for all i. Zero is written 0 in any base and is also palindromic by definition.
+All numbers in base 10 with one digit are palindromic. The number of palindromic numbers with two digits is 9:
+{11, 22, 33, 44, 55, 66, 77, 88, 99}.
+There are 90 palindromic numbers with three digits (Using the Rule of product: 9 choices for the first digit - which determines the third digit as well - multiplied by 10 choices for the second digit):
+{101, 111, 121, 131, 141, 151, 161, 171, 181, 191, …, 909, 919, 929, 939, 949, 959, 969, 979, 989, 999}
+and also 90 palindromic numbers with four digits: (Again, 9 choices for the first digit multiplied by ten choices for the second digit. The other two digits are determined by the choice of the first two)
+{1001, 1111, 1221, 1331, 1441, 1551, 1661, 1771, 1881, 1991, …, 9009, 9119, 9229, 9339, 9449, 9559, 9669, 9779, 9889, 9999},
+so there are 199 palindromic numbers below 104. Below 105 there are 1099 palindromic numbers and for other exponents of 10n we have: 1999, 10999, 19999, 109999, 199999, 1099999, … (sequence A070199 in OEIS). For some types of palindromic numbers these values are listed below in a table. Here 0 is included.
+There are many palindromic perfect powers nk, where n is a natural number and k is 2, 3 or 4.
+Palindromic squares: 0, 1, 4, 9, 121, 484, 676, 10201, 12321, 14641, 40804, 44944, ... (sequence A002779 in OEIS)
+Palindromic cubes: 0, 1, 8, 343, 1331, 1030301, 1367631, 1003003001, ... (sequence A002781 in OEIS)
+Palindromic fourth powers: 0, 1, 14641, 104060401, 1004006004001, ... (sequence A186080 in OEIS)
+The first nine terms of the sequence 12, 112, 1112, 11112, ... form the palindromes 1, 121, 12321, 1234321, ... (sequence A002477 in OEIS)
+The only known non-palindromic number whose cube is a palindrome is 2201, and it is a conjecture the fourth root of all the palindrome fourth powers are a palindrome with 100000...000001 (10n + 1).
+G. J. Simmons conjectured there are no palindromes of form nk for k > 4 (and n > 1).
+Palindromic numbers can be considered in other numeral systems than decimal. For example, the binary palindromic numbers are:
+0, 1, 11, 101, 111, 1001, 1111, 10001, 10101, 11011, 11111, 100001, …
+or in decimal: 0, 1, 3, 5, 7, 9, 15, 17, 21, 27, 31, 33, … (sequence A006995 in OEIS). The Fermat primes and the Mersenne primes form a subset of the binary palindromic primes.
+All numbers are palindromic in an infinite number of bases. But, it's more interesting to consider bases smaller than the number itself - in which case most numbers are palindromic in more than one base,for example, 
+          1221
+            4
+        =
+          151
+            8
+        =
+          77
+            14
+        =
+          55
+            20
+        =
+          33
+            34
+        =
+          11
+            104
+    {\displaystyle 1221_{4}=151_{8}=77_{14}=55_{20}=33_{34}=11_{104}}
+  , 
+          1991
+            10
+        =
+        7
+        C
+          7
+            16
+    {\displaystyle 1991_{10}=7C7_{16}}
+In base 18, some powers of seven are palindromic:
+And in base 24 the first eight powers of five are palindromic as well:
+Any number n is palindromic in all bases b with b ≥ n + 1 (trivially so, because n is then a single-digit number), and also in base n−1 (because n is then 11n−1). A number that is non-palindromic in all bases 2 ≤ b < n − 1 is called a strictly non-palindromic number.
+Non-palindromic numbers can be paired with palindromic ones via a series of operations. First, the non-palindromic number is reversed and the result is added to the original number. If the result is not a palindromic number, this is repeated until it gives a palindromic number.
+It is not known whether all non-palindromic numbers can be paired with palindromic numbers in this way. While no number has been proven to be unpaired, many do not appear to be. For example, 196 does not yield a palindrome even after 700,000,000 iterations. Any number that never becomes palindromic in this way is known as a Lychrel number.
+The sum of the reciprocals of the palindromic numbers is a convergent series, whose value is approximately 3.37028... (sequence A118031 in OEIS).
+Scheherazade numbers are a set of numbers identified by Buckminster Fuller in his book Synergetics. Fuller does not give a formal definition for this term, but from the examples he gives, it can be understood to be those numbers that contain a factor of the primorial n#, where n≥13 and is the largest prime factor in the number. Fuller called these numbers Scheherazade numbers because they must have a factor of 1001. Scheherazade is the storyteller of One Thousand and One Nights, telling a new story each night to delay her execution. Since n must be at least 13, the primorial must be at least 1·2·3·5·7·11·13, and 7×11×13 = 1001. Fuller also refers to powers of 1001 as Scheherazade numbers. The smallest primorial containing Scheherazade number is 13# = 30,030.
+Fuller pointed out that some of these numbers are palindromic by groups of digits. For instance 17# = 510,510 shows a symmetry of groups of three digits. Fuller called such numbers Scheherazade Sublimely Rememberable Comprehensive Dividends, or SSRCD numbers. Fuller notes that 1001 raised to a power not only produces sublimely rememberable numbers that are palindromic in three-digit groups, but also the values of the groups are the binomial coefficients. For instance,
+        (
+        1001
+          )
+            6
+        =
+        1
+        ,
+        006
+        ,
+        015
+        ,
+        020
+        ,
+        015
+        ,
+        006
+        ,
+        001
+    {\displaystyle (1001)^{6}=1,006,015,020,015,006,001}
+This sequence fails at (1001)13 because there is a carry digit taken into the group to the left in some groups. Fuller suggests writing these spillovers on a separate line. If this is done, using more spillover lines as necessary, the symmetry is preserved indefinitely to any power. Many other Scheherazade numbers show similar symmetries when expressed in this way.
+Lychrel number
+Palindromic prime
+Palindrome
+Strictly non-palindromic number

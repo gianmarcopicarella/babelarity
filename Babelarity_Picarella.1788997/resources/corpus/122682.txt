@@ -1,0 +1,31 @@
+The sokuon (促音) is a Japanese symbol in the form of a small hiragana or katakana tsu. In less formal language it is called chiisai tsu (小さいつ) or chiisana tsu (小さなつ), meaning "little tsu". Compare to a full-sized tsu:
+The sokuon is used for various purposes. The main use is to mark a geminate consonant, which is represented in rōmaji (romanized Japanese) by the doubling of the consonant (except when the following consonant is ch). It denotes the gemination of the initial consonant of the kana that follows it.
+Examples:
+Pocky, a Japanese snack food, is written in kana as ポッキー, which is
+ポ po
+ッ (sokuon)
+キ ki
+ー (chōonpu)
+In rōmaji, this is written pokkī, with the sokuon represented by the doubled k consonant.
+待って (matte), the te form of the verb 待つ (matsu, "wait"), is composed of:
+待 ma (kanji)
+っ (sokuon)
+て te
+In the rōmaji rendering, matte, the sokuon is represented by the doubling of the t consonant.
+こっち (kotchi), meaning "here", is composed of:
+こ ko
+っ (sokuon)
+ち chi
+In the rōmaji rendering, kotchi, the sokuon is represented by the t consonant, even though the following consonant is ch. This is because rōmaji ch actually represents [t͡ɕ] (Voiceless alveolo-palatal affricate), and the sokuon before it doubles the [t] sound.
+The sokuon cannot appear at the beginning of a word, before a vowel kana (a, i, u, e, or o), or before kana that begin with the consonants n, m, r, w, or y (in words and loanwords that require geminating these consonants, ン, ム, ル, ウ, and イ are used respectively instead of the sokuon). In addition, it does not appear before voiced consonants (g, z, d, or b), or before h, except in loanwords, or distorted speech, or dialects.
+The sokuon is also used at the end of a sentence, to indicate a glottal stop (IPA [ʔ], a sharp or cut-off articulation), which may indicate angry or surprised speech. There is no standard way of romanizing the sokuon that is at the end of a sentence. In English writing, this is often rendered as an em dash. Other conventions are to render it as t or as an apostrophe.
+In the International Phonetic Alphabet, the sokuon is transcribed with either a colon-like length mark or a doubled consonant:
+kite (来て, "come") – /kite/
+kitte (切手, "postage stamp") – /kitːe/ or /kitte/
+asari (あさり, "clams") – /asaɽi/
+assari (あっさり, "easily") – /asːaɽi/ or /assaɽi/
+In addition to Japanese, sokuon is used in Okinawan katakana orthographies. Ainu katakana uses a small ッ both for a final t-sound and to represent a sokuon (there is no ambiguity however, as gemination is allophonic with syllable-final t).
+There are several methods of entering the sokuon using a computer or word-processor, such as xtu, ltu, ltsu, etc. Some systems, such as Mac OS X's Kotoeri and the Microsoft IME, automatically generate a sokuon if an applicable consonant letter is typed twice; for example tta generates った.
+Braille:
+Japanese phonology gives a detailed description of the sound system of Japanese.
+Gemination

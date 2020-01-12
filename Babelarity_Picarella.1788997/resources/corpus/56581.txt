@@ -1,0 +1,53 @@
+The General Electric F404 and F412 are a family of afterburning turbofan engines in the 10,500–19,000 lbf (47–85 kN) class (static thrust). The series are produced by GE Aviation. Partners include Volvo Aero, which builds the RM12 variant. The F404 was developed into the larger F414 turbofan, as well as the experimental GE36 civil propfan.
+GE developed the F404 for the F/A-18 Hornet, shortly after losing the competition for the F-15 Eagle's engine to Pratt & Whitney, and losing the Lightweight Fighter (LWF) competition to the Pratt & Whitney F100 powered YF-16. For the F/A-18, GE based the F404 on the YJ101 engine they had developed for the Northrop YF-17, enlarging the bypass ratio from .20 to .34 to enable higher fuel economy. The engine was designed with a higher priority on reliability than performance. Cost was the main goal in the design of the engine.
+GE also analyzed "throttle profiles" and found that pilots were changing throttle settings far more often than engineers previously expected; putting undue stress on the engines. GE also sought with the F404 a design that would avoid compressor stalls and other engine failures, and would respond quickly to control inputs; a common complaint of pilots converting from propeller planes to jets were that early turbojets were not responsive to changes in thrust input. GE executives Frederick A. Larson and Paul Setts also set the goal that the new engine would be smaller than the F-4's GE J79, but provide at least as much thrust, and cost half as much as the P&W F100 engine for the F-16.
+Due to a fan designed to smooth airflow before it enters the compressor, the F404 has high resistance to compressor stalls, even at high angles of attack. It requires less than two shop visits per 1,000 flight hours and averages 6,500 hours between in-flight events. It also demonstrates high responsiveness to control inputs, spooling from idle to full afterburner in 4 seconds. The engine contains an in-flight engine condition monitoring system (IECMS) that monitors for critical malfunctions and keeps track of parts lifetimes.
+GE developed the F110 for the Air Force as an alternative to the Pratt & Whitney F100 for use on the F-16 and F-15 based on the F101 and used F404 technology. GE developed the F404-GE-402 in response to a Swiss requirement for more power in its F/A-18 version. The new engine version was used on Kuwaiti Hornets, later U.S. C and D Hornets, and subsequent Hornets.
+The T-50 Golden Eagle uses a single General Electric F404-102 turbofan engine with Full Authority Digital Engine Control (FADEC) system. The engine consists of three-staged fans, seven axial stage arrangement, and an afterburner. The aircraft has a maximum speed of Mach 1.4. Its engine produces a maximum of 78.7 kN (17,700 lbf) of thrust with afterburner.
+Almost 4,000 F404 engines power the F/A-18 Hornets in service worldwide. The F404 engine family had totaled over 12 million flight hours by 2010.
+GE developed the F404 into the F412-GE-400 non-afterburning turbofan for the McDonnell Douglas A-12 Avenger II. After the cancellation of the A-12, the research was directed toward an engine for the Super Hornet, which evolved into the F414.
+F404
+Boeing Phantom Ray
+Boeing X-45C
+FMA SAIA 90 (as designed, not built)
+Dassault Rafale A
+Grumman X-29
+HAL Tejas Mk 1
+Lockheed F-117 Nighthawk
+KAI T-50 Golden Eagle
+McDonnell Douglas F/A-18 Hornet
+Northrop F-20 Tigershark
+Rockwell-MBB X-31
+ST Aerospace A-4SU Super Skyhawk
+F412
+McDonnell Douglas A-12 Avenger II (as designed, not built)
+Patuxent River Naval Air Museum
+Type: Afterburning turbofan
+Length: 154 in (391 cm)
+Diameter: 35 in (89 cm)
+Dry weight: 2,282 lb (1,036 kg)
+Compressor: Axial compressor with 3 fan and 7 compressor stages
+Combustors: annular
+Turbine: 1 low-pressure and 1 high-pressure stage
+Maximum thrust:
+11,000 lbf (48.9 kN) military thrust
+17,700 lbf (78.7 kN) with afterburner
+Overall pressure ratio: 26:1
+Bypass ratio: 0.34:1
+Specific fuel consumption:
+Military thrust: 0.81 lb/(lbf·h) (82.6 kg/(kN·h))
+Full afterburner: 1.74 lb/(lbf·h) (177.5 kg/(kN·h))
+Thrust-to-weight ratio: 4.8:1 (dry), 7.8:1 (wet/afterburning) (76.0 N/kg)
+Related development
+General Electric YJ101
+General Electric F414
+General Electric F110
+Volvo RM12
+Comparable engines
+GTRE GTX-35VS Kaveri
+Guizhou WS-13
+Klimov RD-33
+Snecma M88
+Turbo-Union RB199
+Related lists
+List of aircraft engines

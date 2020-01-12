@@ -1,0 +1,63 @@
+Alexius Meinong Ritter von Handschuchsheim (17 July 1853 – 27 November 1920) was an Austrian philosopher, a realist known for his unique ontology. He also made contributions to philosophy of mind and theory of value.
+He studied at the Akademisches Gymnasium, Vienna and later the University of Vienna, where he read history and philosophy as a pupil of Franz Brentano. He was professor and Chair of Philosophy at the University of Graz, where he founded the Graz psychological institute (in 1894) and the Graz School of experimental psychology. Meinong supervised the promotions of Christian von Ehrenfels (founder of Gestalt psychology) and Adalbert Meingast, as well as the habilitation of Alois Höfler and Anton Oelzelt-Newin.
+Meinong wrote two early essays on David Hume, the first dealing with his theory of abstraction, the second with his theory of relations, and was relatively strongly influenced by British empiricism. He is most noted, however, for his Theory of Objects (Über Gegenstandstheorie, 1904), which grew out of his work on intentionality and his belief in the possibility of intending nonexistent objects. The theory is based around the purported empirical observation that it is possible to think about something, such as a golden mountain, even though that object does not exist. Since we can refer to such things, they must have some sort of being. Meinong thus distinguishes the "being" of a thing, in virtue of which it may be an object of thought, from a thing's "existence", which is the substantive ontological status ascribed, for example, to horses but denied to unicorns. Meinong called such nonexistent objects "homeless"; others have nicknamed their place of residence "Meinong's jungle" because of their great number and exotic nature.
+Historically, Meinong has been treated, especially by Gilbert Ryle, as an eccentric whose theory of objects was allegedly dealt a severe blow in Bertrand Russell's essay "On Denoting". However, Russell himself thought highly of the vast majority of Meinong's work and, until formulating his theory of descriptions, held similar views about non-existent objects. Further, recent Meinongians such as Terence Parsons and Roderick Chisholm have established the consistency of a Meinongian theory of objects, while others (e.g., Karel Lambert) have defended the usefulness of such a theory.
+Meinong is also seen to be controversial in the field of philosophy of language for holding the view that "existence" is merely a property of an object, just as color or mass might be a property. Closer readers of his work, however, accept that Meinong held the view that objects are "indifferent to being" and that they stand "beyond being and non-being". On this view Meinong is expressly denying that existence is a property of an object. For Meinong, what an object is, its real essence, depends on the properties of the object. These properties are genuinely possessed whether the object exists or not, and so existence cannot be a mere property of an object.
+Meinong holds that objects can be divided into three categories on the basis of their ontological status. Objects may have one of the following three modalities of being and non-being:
+Existence (Existenz, verb: existieren), or actual reality (Wirklichkeit), which denotes the material and temporal being of an object
+Subsistence (Bestand, verb: bestehen), which denotes the being of an object in a non-temporal sense.
+Absistence or Being-given (Gegebenheit, as in the German use es gibt, i.e. "there are", "it is given"), which denotes being an object but not having being.
+Certain objects can exist (mountains, birds, etc.); others cannot in principle ever exist, such as the objects of mathematics (numbers, theorems, etc.): such objects simply subsist. Finally, a third class of objects cannot even subsist, such as impossible objects (e.g. square circle, wooden iron, etc.). Being-given is not a minimal mode of being, because it is not a mode of being at all. Rather, to be "given" is just to be an object. Being-given, termed "absistence" by J.N. Findlay, is better thought of as a mode of non-being than as a mode of being. Absistence, unlike existence and subsistence, does not have a negation; everything absists. (Note that all objects absist, while some subset of these subsist, of which a yet-smaller subset exist.) The result that everything absists allows Meinong to deal with our ability to affirm the non-being (Nichtsein) of an object. Its absistence is evidenced by our act of intending it, which is logically prior to our denying that it has being.
+Meinong distinguishes four classes of "objects":
+"Object" (Objekt), which can be real (like horses) or ideal (like the concepts of difference, identity, etc.)
+"Objective" (Objectiv), e.g. the affirmation of the being (Sein) or non-being (Nichtsein), of a being-such (Sosein), or a being-with (Mitsein) - parallel to existential, categorical and hypothetical judgements. Objectives are close to what contemporary philosophers call states of affairs (where these may be actual—may "obtain"—or not).
+"Dignitative", e.g. the true, the good, the beautiful
+"Desiderative", e.g. duties, ends, etc.
+To these four classes of objects correspond four classes of psychological acts:
+(re)presentation (das Vorstellen), for objects
+thought (das Denken), for the objectives
+feeling (das Fühlen), for dignitatives
+desire (das Begehren), for the desideratives.
+Meinong, A. (1885). Über philosophische Wissenschaft und ihre Propädeutik
+Meinong, A. (1894). Psychologisch-ethische Untersuchungen zur Werttheorie
+Meinong, A. (1902). Über Annahmen, 1st ed.
+Meinong, A., ed. (1904). Untersuchung zur Gegenstandstheorie und Psychologie
+Meinong, A. (1910). Über Annahmen, 2nd ed.
+Meinong, A. (1915). Über Möglichkeit und Wahrscheinlichkeit
+Meinong, A. (1917). Über emotionale Präsentation
+Meinong, A. (1877). "Hume Studien I. Zur Geschichte und Kritik des modernen Nominalismus" in Sitzungsbereiche der phil.-hist. Classe der kais. Akademie der Wissenschaften, 78:185-260.
+Meinong, A. (1882). "Hume Studien II. Zur Relationstheorie" in Sitzungsbereiche der phil.-hist. Classe der kais. Akademie der Wissenschaften, 101:573–752.
+Meinong, A. (1891). "Zur psychologie der Komplexionen und Relationen" in Zeitschrift für Psychologie und Physiologie der Sinnesorgane, II:245–265.
+Meinong, A. (1899). "Über Gegenstände höherer Ordnung und deren Verhältniss zur inneren Wahrnehmung" in Zeitschrift für Psychologie und Physiologie der Sinnesorgane, 21, pp. 187–272.
+Höfler, A. and Meinong, A. (1890). Philosophische Propädeutik. Erster Theil: Logik. F. Tempsky / G. Freytag, Vienna.
+Haller, R., Kindinger, R., and Chisholm, R., editors, (1968–78). Gesamtausgabe, 7 vols., Akademische Druck- und Verlagsgesellschaft, Graz.
+Meinong, A. (1965). Philosophenbriefe, ed. Kindinger, R., Akademische Druck- und Verlagsanstalt, Graz.
+On Assumptions, trans. James Heanue. Berkeley: University of California Press, 1983.
+On Emotional Presentation, trans. M.-L. Schubert Kalsi. Evanston, Ill: Northwestern University Press, 1927.
+"The Theory of Objects", trans. Isaac Levi, D. B. Terrell, and Roderick Chisholm. In Realism and the Background of Phenomenology, ed. Roderick Chisholm. Atascadero, CA: Ridgeview, 1981, pp. 76–117.
+On the Content and Object of Presentations by Kazimierz Twardowski
+Albertazzi, L., Jacquette, D., and Poli, R., editors (2001). The School of Alexius Meinong. Aldershot: Ashgate. ISBN 1-84014-374-6
+Bergmann, Gustav. Realism: A Critique of Brentano and Meinong. Madison, Wisconsin: University of Wisconsin Press, 1967.
+Chisholm, R. Brentano and Meinong Studies. Amsterdam: Rodopi, 1982.
+Dölling, E. Wahrheit Suchen und Wahrheit Bekennen. Alexius Meinong: Skizze seines Lebens. Amsterdam: Rodopi, 1999. ISBN 90-420-0774-5
+Findlay, J. N. Meinong's Theory of Objects and Values, 2nd ed. Oxford: Clarendon Press, 1963.
+Grossman, R. Meinong. London and Boston: Routledge & Kegan Paul, 1974. ISBN 0-7100-7831-5
+Haller, R., editor. Jenseits von Sein und Nichtsein. Graz: Akademische Druck- und Verlagsanstalt, 1972.
+Lindenfeld, D. F. The Transformation of Positivism: Alexius Meinong and European Thought, 1880-1920. Berkeley: University of California Press, 1980. ISBN 0-520-03994-7
+Rollinger, R. D. Meinong and Husserl on Abstraction and Universals. Number XX in Studien zur Österreichischen Philosophie. Amsterdam and Atlanta: Rodopi, 1993. ISBN 90-5183-573-6
+Rollinger, Robin D. Austrian Phenomenology: Brentano, Husserl, Meinong, and Others on Mind and Object. Frankfurt am Main: Ontos, 2008. ISBN 978-3-86838-005-7
+Routley, R. (1982). Exploring Meinong's Jungle and Beyond. Ridgeview Pub Co. ISBN 978-0-685-05636-3. (Also published by the Research School of Social Sciences, Australian National University, Canberra, 1979.)
+Schubert Kalsi, Marie-Luise. Alexius Meinong: On Objects of Higher Order and Husserl's Phenomenology. Martinus Nijhoff, The Hague, Netherlands. ISBN 90-247-2033-8
+Smith, Barry. Austrian Philosophy: The Legacy of Franz Brentano. Chicago: Open Court, 1996. ISBN 0-8126-9307-8
+Chrudzimski, A. (2005). "Abstraktion und Relationen beim jungen Meinong". In [Schramm, 2005], pages 7–62.
+Dölling, E. (2005). "Eine semiotische Sicht auf Meinongs Annahmenlehre". In [Schramm, 2005], pages 129–158.
+Kenneth, B. (1970). "Meinong’s Hume Studies. Part I: Meinong’s Nominalism". in Philosophy and Phenomenological Research, 30:550–567.
+Kenneth, B. (1971). "Meinong’s Hume Studies. Part II: Meinong’s Analysis of Relations". in PPR, 31:564–584.
+Rollinger, R. D. (2005). "Meinong and Brentano". In [Schramm, 2005], pages 159–197.
+Routley, R. and Valerie Routley. "Rehabilitating Meinong's Theory of Objects". Review Internationale de Philosophie 104-105 (1973).
+Russell, Bertrand. "Meinong's Theory of Complexes and Assumptions" in Essays in Analysis, ed. Douglas Lackey. New York: George Braziller, 1973.
+Ryle, Gilbert. "Intentionality-Theory and the Nature of Thinking." Review Internationale de Philosophie 104-105 (1973).
+Schermann, H. (1972). "Husserls II. Logische Untersuchung und Meinongs Hume-Studien I. In [Haller, 1972], pages 103–116.
+Vendrell-Ferran, I. (2009): "Meinongs Philosophie der Gefühle und ihr Einfluss auf die Grazer Schule" in: Meinong Studien III Graz
+Schramm, A., editor. Meinong Studies — Meinong Studien, Volume 1 (2005). Ontos Verlag.
+The philosopher A. C. Grayling discusses Meinong in a podcast about Bertrand Russell's Theory of Descriptions. Available from Philosophy Bites and iTunes.

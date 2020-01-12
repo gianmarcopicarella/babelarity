@@ -1,0 +1,13 @@
+In organic chemistry, an electrophilic addition reaction is an addition reaction where, in a chemical compound, a π bond is broken and two new σ bonds are formed. The substrate of an electrophilic addition reaction must have a double bond or triple bond.
+The driving force for this reaction is the formation of an electrophile X+ that forms a covalent bond with an electron-rich unsaturated C=C bond. The positive charge on X is transferred to the carbon-carbon bond, forming a carbocation during the formation of the C-X bond.
+In step 2 of an electrophilic addition, the positively charged intermediate combines with (Y) that is electron-rich and usually an anion to form the second covalent bond.
+Step 2 is the same nucleophilic attack process found in an SN1 reaction. The exact nature of the electrophile and the nature of the positively charged intermediate are not always clear and depend on reactants and reaction conditions.
+In all asymmetric addition reactions to carbon, regioselectivity is important and often determined by Markovnikov's rule. Organoborane compounds give anti-Markovnikov additions. Electrophilic attack to an aromatic system results in electrophilic aromatic substitution rather than an addition reaction.
+Typical electrophilic additions to alkenes with reagents are:
+dihalo addition reactions: X2
+Hydrohalogenations: HX
+Hydration reactions: H2O
+Hydrogenations: H2
+Oxymercuration reactions: mercuric acetate, water
+Hydroboration-oxidation reactions: diborane
+the Prins reaction: formaldehyde, water

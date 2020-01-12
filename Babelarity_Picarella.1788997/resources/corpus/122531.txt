@@ -1,0 +1,78 @@
+Tuareg (English pronunciation: /ˈtwɑːrɛɡ/), also known as Tamasheq (English pronunciation: /ˈtæməʃɛk/), Tamajaq, or Tamahaq, and ⵜⴰⵎⴰⵌⴰⵆ in Tifinagh, is a Berber language, or a family of very closely related languages and dialects, spoken by the Tuareg Berbers, in large parts of Mali, Niger, Algeria, Libya, and Burkina Faso, with a few speakers, the Kinnin, in Chad.
+Tuareg dialects belong to the South Berber group, and are commonly regarded as a single language (as for instance by Karl-G. Prasse). They are distinguished mainly by a few sound shifts (notably affecting the pronunciation of original z and h). The Tuareg varieties are unusually conservative in some respects; they retain two short vowels where Northern-Berber languages have one or none, and have a much lower proportion of Arabic loanwords than most Berber languages. The Tuareg languages are traditionally written in the indigenous Tifinagh alphabet. However, the Arabic script is commonly used in some areas (and has been since medieval times), while the Latin script is official in Mali and Niger. In Morocco, of the three official languages (Arabic, French and Berber), Central Atlas Tamazight is the second Berber language. Some scholars claim that Tifinagh-Tamazight is "one of the oldest languages in the world," being close both linguistically and in alphabet to Old Phoenician; that the Phoenician alphabet was progenitor of the Greek, and thereby Western, alphabets.
+Northern
+Tamahaq – Language of the Kel Ahaggar, and Kel Ajjer spoken in Algeria and in the north of Niger by a large saharan population. Also known as Tahaggart.
+Southern
+Tamasheq – Language of the Kel Adrar (also known as Adrar des Ifoghas), spoken in Mali by approximately 270,000 people.
+Tayart Tamajaq language – Language of the Kel Ayer (sometimes spelled Aïr), spoken in Niger by approximately 250,000 people.
+Tawallammat Tamajaq – Language of the Iwellemmeden, spoken in Mali and Niger by approximately 870,000 people. The term Iwellemmeden (the name of the people) is sometimes used to denote the language.
+Tamashaq language of Kal Asakan.
+Blench (ms, 2006) lists the following as separate languages, with dialects in parentheses:
+Tawellemet (Abalagh/East, West)
+Tayiṛt (Ingal, Gofat)
+Tamesgrest (Azerori)
+Tafaghist
+Tahaggart/Ahaggar
+Ghat
+Speakers of Tin Sert (Tetserret) identify as Tuareg, but the language is Western Berber.
+The Tuareg languages may be written in the Latin script, the Arabic script, or Tifinagh. The Malian national literacy program DNAFLA has established a standard for the Latin alphabet, which is used with modifications in Prasse's Lexique and the government literacy program in Burkina, while in Niger a different system was used. There is also some variation in Tifinagh and in the Arabic script.
+The Arabic script is mostly in use by tribes more involved in Islamic learning, and little is known about its conventions.
+Tifinagh usage is restricted mainly to writing magical formulae, writing on palms when silence is required, and recently letter-writing.
+The DNAFLA system is a somewhat morphophonemic orthography, not indicating initial vowel shortening, always writing the directional particle as < dd⟩, and not indicating all assimilations (e.g. 〈Tămašăɣt〉 for [tămašăq]).
+In Burkina Faso the emphatics are denoted by "hooked" letters, as in Fula, e.g. 〈ɗ ƭ〉.
+The vowel system includes 5 long vowels, /a, e, i, o, u/, "emphatic" versions of /e, o/, and two short vowels, /ə, ă/. Karl Prasse argued that /e/ goes back to Proto-Berber, while /o/ is derived from /u/. Comparative evidence shows that /ə/ derives from a merger of Proto-Berber */ĭ/ and */ŭ/.
+Sudlow classes the "semivowels" /w, j/ with the vowels, and notes the following possible diphthongs: /əw/ (> [u]), /ăw/, /aw/, /ew/, /iw/, /ow/, /uw/, /əj/ (> [i]), /ăj/, /aj/, /ej/, /ij/, /oj/, /uj/.
+Before emphatics, vowels lower, turning /ə/ into [ă], /e, i/ into "emphatic" [e], and /u, o/ into "emphatic" [o], with some dialectal variation (with the realizations of /i, u/ "less open" than /e, o/).
+The consonant inventory largely resembles Arabic: differentiated voicing; uvulars, pharyngeals (traditionally referred to as emphatics) /tˤ/, /lˤ/, /sˤ/, /dˤ/, /zˤ/; requiring the pharynx muscles to contract and influencing the pronunciation of the following vowel (although /lˤ, sˤ/ only occur in Arabic loans and /ɫ/ only in the name of Allah).
+/ŋ/ is rare, /ʒ/ is rare in Tadraq, and /ħ, ʕ/ are only used in Arabic words in the Tanəsləmt dialect (most Tamasheq replace them with /x, ɣ/ respectively).
+The glottal stop is non-phonemic. It occurs at the beginning of vowel-initial words to fill the place of the initial consonant in the syllable structure (see below), although if the words is preceded by a word ending in a consonant, it makes a liaison instead. Phrase-final /a/ is also followed by a phonetic glottal stop.
+Gemination is contrastive. Normally /ɣɣ/ becomes [qː], /ww/ becomes [ɡː], and /dˤdˤ/ becomes [tˤː]. /q/ and /tˤ/ are predominantly geminate. In addition, in Tadraq /ɡ/ is usually geminate, but in Tudalt singleton /ɡ/ may occur.
+Voicing assimilation occurs, with the first consonant taking the voicing of the second (e.g. /edˤkăr/ > [etˤkăr]).
+Cluster reduction turns word/morpheme-final /-ɣt, -ɣk/ into [-qː] and /-kt, -ɟt, -ɡt/ into [-kː] (e.g. /tămaʃăɣt/ > [tămaʃăq] 'Tamasheq').
+Syllable structure is CV(C)(C), including glottal stops (see above).
+Contrastive stress may occur in the stative aspect of verbs.
+Different dialects have slightly different consonant inventories. Some of these differences can be diachronically accounted for. For example, Proto-Berber *h is mostly lost in Ayer Tuareg, while it is maintained in almost every position in Mali Tuareg. The Iwellemmeden and Ahaggar Tuareg dialects are midway between these positions. The Proto-Berber consonant *z comes out differently in different dialects, a development that is to some degree reflected in the dialect names. It is realized as h in Tamahaq (Tahaggart), as š in Tamasheq and as simple z in the Tamajaq dialects Tawallammat and Tayart. In the latter two, *z is realised as ž before palatal vowels, explaining the form Tamajaq. In Tawallammat and especially Tayart, this kind of palatalization actually does not confine itself to z. In these dialects, dentals in general are palatalized before /i/ and /j/. For example, tidət is pronounced [tidʲət] in Tayart.
+Other differences can easily be traced back to borrowing. For example, the Arabic pharyngeals ħ and ʻ have been borrowed along with Arabic loanwords by dialects specialized in Islamic (Maraboutic) learning. Other dialects substitute ħ and ʻ respectively with x and ɣ.
+The basic word order in Tuareg is verb–subject–object. Verbs can be grouped into 19 morphological classes; some of these classes can be defined semantically. Verbs carry information on the subject of the sentence in the form of pronominal marking. No simple adjectives exist in the Tuareg languages; adjectival concepts are expressed using a relative verb form traditionally called 'participle'. The Tuareg languages have very heavily influenced Northern Songhay languages such as Sawaq, whose speakers are culturally Tuareg but speak Songhay; this influence includes points of phonology and sometimes grammar as well as extensive loanwords.
+Tamasheq prefers VSO order; however it contains topic–comment structure (like in American Sign Language, Modern Hebrew, Japanese and Russian), allowing the emphasized concept to be placed first, be it the subject or object, the latter giving an effect somewhat like the English passive. Sudlow uses the following examples, all expressing the concept “Men don’t cook porridge” (e denotes Sudlow’s schwa):
+Again like Japanese, the “pronoun/particle ‘a’ is used with a following relative clause to bring a noun in a phrase to the beginning for emphasis,” a structure which can be used to emphasize even objects of prepositions. Sudlow’s example (s denotes voiceless palato-alveolar fricative):
+The indirect object marker takes the form i/y in Tudalt and e/y in Tadraq.
+As a root-and-pattern, or templatic language, triliteral roots (three-consonant bases) are the most common in Tamasheq. Niels and Regula Christiansen use the root k-t-b (to write) to demonstrate past completed aspect conjugation:
+The verbal correspondence with the use of aspect; Tamasheq uses four, as delineated by Sudlow:
+Perfective: complete actions
+Stative: "lasting states as the ongoing results of a completed action."
+Imperfective: future or possible actions, "often used following a verb expressing emotion, decision or thought," it can be marked with "'ad'" (shortened to "'a-'" with prepositions).
+Cursive: ongoing actions, often habitual ones.
+Commands are expressed in the imperative mood, which tends to be a form of the imperfective aspect, unless the action is to be repeated or continued, in which case the cursive aspect is preferred.
+Bougchiche, Lamara. (1997) Langues et litteratures berberes des origines a nos jours. Bibliographie internationale et sytematique. Paris: Ibis Press.
+Chaker, Salem, ed. (1988) Etudes touaregues. Bilan des recherches en sciences sociales. Travaux et Documents de i.R.E.M.A.M. no. 5. Aix-en-Provence: IREMAM / LAPMO.
+Leupen, A.H.A. (1978) Bibliographie des populations touaregues: Sahara et Soudan centraux. Leiden: Afrika Studiecentrum.
+Charles de Foucauld (1951–1952) Dictionnaire touareg–francais. 4 vol. Paris: Imprimerie Nationale de France. [posthumous facsimile publication (author dec. 1916); dialect of Hoggar, southern Algeria]
+Jeffrey Heath (2006) Dictionnaire tamachek–anglais–français. Paris: Karthala. [covers dialects of northern Mali]
+Motylinski, A. (1908). Grammaire, dialogues et dictionnaire touaregs. Alger: P. Fontana.
+Karl-G Prasse, Ghoubeid Alojaly and Ghabdouane Mohamed, (2003) Dictionnaire touareg–francais (Niger). 2nd edition revised; 2 vol. Copenhagen: Museum Tusculanum Press, University of Copenhagen. [1st edition 1998; covers two dialects of the northern Republic of Niger]
+Christiansen, Niels, and Regula. "Some verb morphology features of Tadaksahak ." SIL Electronic Working Papers. 2002. SIL International. 2 December 2007 <http://www.sil.org/silewp/yearindex.asp?year=2002>.
+Hanoteau, A. (1896) Essai de grammaire de la langue tamachek' : renfermant les principes du langage parlé par les Imouchar' ou Touareg. Alger: A. Jourdan.
+Galand, Lionel. (1974) 'Introduction grammaticale'. In: Petites Soeurs de Jesus, Contes touaregs de l'Air (Paris: SELAF), pp. 15–41.
+Heath, Jeffrey. 2005. Grammar of Tamashek (Tuareg of Mali). (Mouton Grammar Series.) the Hague: Mouton de Gruyter.
+Kossmann, Maarten G. (2011), A Grammar of Ayer Tuareg (Niger), Berber Studies 30, Köln: Rüdiger Köppe 
+Prasse, Karl G. (1973) Manuel de grammaire touaregue (tahaggart). 4 vol. Copenhagen.
+Sudlow, David. (2001). The Tamasheq of North-East Burkina Faso. Köln: Rüdiger Köppe Verlag.
+Ag Erless, Mohamed (1999) "Il ný a qu'un soleil sur terre". Contes, proverbes et devinettes des Touaregs Kel-Adagh. Aix-en-Provence: IREMAM.
+Aghali-Zakara, Mohamed & Jeannine Drouin (1979) Traditions touarègues nigériennes. Paris: L'Harmattan.
+Albaka, Moussa & Dominique Casajus (1992) Poésies et chant touaregs de l'Ayr. Tandis qu'ils dorment tous, je dis mon chant d'amour. Paris: L'Harmattan.
+Alojaly, Ghoubeïd (1975) Ǎttarikh ən-Kəl-Dənnəg – Histoire des Kel-Denneg. Copenhagen: Akademisk Forlag.
+Casajus, Dominique (1985) Peau d'Âne et autres contes touaregs. Paris: L'Harmattan.
+Chaker, Salem & Hélène Claudot & Marceau Gast, eds. (1984) Textes touaregs en prose de Charles de Foucauld et. A. de Calassanto-Motylinski. Aix-en-Provence: Édisud.
+Chants touaregs. Recueillis et traduits par Charles de Foucauld. Paris, Albin Michel, 1997
+Foucauld, Charles de (1925) Poésies touarègues. Dialecte de l'Ahaggar. Paris: Leroux.
+Lettres au marabout. Messages touaregs au Père de Foucauld. Paris, Belin, 1999
+Heath, Jeffrey (2005) Tamashek Texts from Timbuktu and Kidal. Berber Linguistics Series. Cologne: Koeppe Verlag
+Louali-Raynal, Naïma & Nadine Decourt & Ramada Elghamis (1997) Littérature orale touarègue. Contes et proverbes. Paris: L'Harmattan.
+Mohamed, Ghabdouane & Karl-G. Prasse (1989) Poèmes touaréges de l'Ayr. 2 vol. Copenhagen: Akademisk Forlag.
+Mohamed, Ghabdouane & Karl-G. Prasse (2003) əlqissǎt ən-təməddurt-in – Le récit de ma vie. Copenhagen: Museum Tusculanum Press.
+Nicolaisen, Johannes, and Ida Nicolaisen. The Pastoral Tuareg: Ecology, Culture, and Society. Vol. 1,2. New York: Thames and Hudson, Inc, 1997. 2 vols.
+Nicolas, Francis (1944) Folklore Twareg. Poésies et Chansons de l'Azawarh. BIFAN VI, 1-4, p. 1-463.
+Cohen, David (1993) 'Racines'. In: Drouin & Roth, eds. À la croisée des études libyco-berbères. Mélanges offerts à Paulette Galand-Pernet et Lionel Galand (Paris: Geuthner), 161-175.
+Kossmann, Maarten (1999) Essai sur la phonologie du proto-berbère. Köln: Rüdiger Köppe.
+Prasse, Karl G. (1969) A propos de l'origine de h touareg (tahaggart). Copenhagen.

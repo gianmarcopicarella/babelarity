@@ -1,0 +1,73 @@
+Phi (uppercase Φ, lowercase  or ; Ancient Greek: ϕεῖ, pheî, [pʰé͜e]; modern Greek: φι, fi, [fi]; English: /faɪ/) is the 21st letter of the Greek alphabet. In Ancient Greek, it represented an aspirated voiceless bilabial plosive ([pʰ]), which was the origin of its usual romanization as "ph". In modern Greek, it represents a voiceless labiodental fricative ([f]) and is correspondingly romanized as "f". Its origin is uncertain but it may be that phi originated as the letter qoppa and initially represented the sound /kʷʰ/ before shifting to Classical Greek [pʰ]. In traditional Greek numerals, phi has a value of 500 (φʹ) or 500 000 (͵φ). The Cyrillic letter Ef (Ф, ф) descends from phi.
+Phi is also used as a symbol for the golden ratio and on other occasions in math and science. This use is separately encoded as the Unicode glyph ϕ. The modern Greek pronunciation of the letter is sometimes encountered in English (as /fiː/) when the letter is being used in this sense.
+The lower-case letter φ (or often its variant, ϕ) is often used to represent the following:
+Magnetic flux in physics
+The golden ratio 
+                1
+                +
+                    5
+              2
+        ≈
+    {\displaystyle {\tfrac {1+{\sqrt {5}}}{2}}\approx }
+   7000161803398874989♠1.618033988749894848204586834... in mathematics, art, and architecture.
+Euler's totient function φ(n) in number theory; also called Euler's phi function.
+The cyclotomic polynomial functions Φn(x) of algebra.
+In algebra, group or ring homomorphisms
+In probability theory, ϕ(x) = (2π)−½e−x2/2 is the probability density function of the normal distribution.
+In probability theory, φX(t) = E[eitX] is the characteristic function of a random variable X.
+An angle, typically the second angle mentioned, after θ (theta). Especially:
+The argument of a complex number.
+The phase of a wave in signal processing.
+In spherical coordinates, mathematicians usually refer to phi as the polar angle (from the z-axis). The convention in physics is to use phi as the azimuthal angle (from the x-axis).
+One of the dihedral angles in the backbones of proteins in a Ramachandran plot
+Internal or effective angle of friction.
+The work function of a surface, in solid-state physics.
+A shorthand representation for an aromatic functional group in organic chemistry.
+The fugacity coefficient in thermodynamics.
+The ratio of free energy destabilizations of protein mutants in phi value analysis.
+In cartography and navigation, latitude.
+In combustion engineering, fuel–air equivalence ratio. The ratio between the actual fuel air ratio to the stoichiometric fuel air ratio.
+A sentence in first-order logic.
+The Veblen function in set theory
+Porosity in geology and hydrology.
+Strength (or resistance) reduction factor in structural engineering, used to account for statistical variabilities in materials and construction methods.
+The symbol for a voiceless bilabial fricative in the International Phonetic Alphabet (using the straight line variant character)
+In economics, this is usually an additive term.
+In flight dynamics, the roll angle.
+In philosophy, φ is often used as shorthand for a generic act. (Also in upper-case.)
+In perceptual psychology, the phi phenomenon is the apparent motion caused by the successive viewing of stationary objects, such as the frames of a motion picture.
+In lexical-functional grammar, the function that maps elements from the c-structure to the f-structure.
+The upper-case letter Φ is used as a symbol for:
+The golden ratio conjugate −0.618... in mathematics.
+The magnetic flux and electric flux in physics, with subscripts distinguishing the two.
+The cumulative distribution function of the normal distribution in mathematics and statistics.
+In philosophy, Φ is often used as shorthand for a generic act. (Also in lower-case.)
+The number of phases in a power system in electrical engineering, for example 1Φ for single phase, 3Φ for three phase.
+A common symbol for the parametrization of a surface in vector calculus.
+In Lacanian algebra, Φ stands for the imaginary phallus and also represents phallic signification; -Φ stands in for castration.
+The diameter symbol in engineering, ⌀, is often incorrectly referred to as "phi". This symbol is used to indicate the diameter of a circular section; for example, "⌀14" means the diameter of the circle is 14 units.
+In Unicode, there are multiple forms of the phi letter:
+In ordinary Greek text, the character U+03C6 φ is used exclusively, although this character has considerable glyphic variation, sometimes represented with a glyph more like the representative glyph shown for U+03C6 (φ, the “loopy” form) and less often with a glyph more like the representative glyph shown for U+03D5 (ϕ, the “straight“ form).
+Because Unicode represents a character in an abstract way, the choice between glyphs is purely a matter of font design. While some Greek typefaces, most notably "Porson" typefaces (used widely in editions of classical Greek texts), have a "stroked" glyph in this position (), most other typefaces have "loopy" glyphs. This goes for the "Didot" (or "apla") typefaces employed in most Greek book printing (), as well as for the "Neohellenic" typeface often used for ancient texts ().
+It is necessary to have the stroked glyph available for some mathematical uses, and U+03D5 GREEK PHI SYMBOL is designed for this function. Prior to Unicode version 3.0 (1998), the glyph assignments in the Unicode code charts were the reverse, and thus older fonts may still show a loopy form 
+        φ
+    {\displaystyle \varphi }
+   at U+03D5.
+For use as a phonetic symbol in IPA, Unicode has a separate codepoint U+0278, LATIN SMALL LETTER PHI, because in this use only the stroked glyph is considered correct. It typically appears in a form adapted to a Latin typographic environment, with a more upright shape than normal Greek letters and with serifs at the top and bottom.
+In HTML/XHTML, the upper- and lower-case phi character entity references are &Phi; (Φ) and &phi; (φ), respectively.
+In LaTeX, the math symbols are \Phi (
+        Φ
+    {\displaystyle \Phi \,\!}
+  ), \phi (
+        ϕ
+    {\displaystyle \phi \,\!}
+  ), and \varphi (
+        φ
+    {\displaystyle \varphi \,\!}
+  ).
+The Unicode standard also includes the following variants of phi and phi-like characters:
+F, f: Ef (Latin)
+Ф, ф: Ef (Cyrillic)
+Psi and phi type figurine
+Փ (Armenian letter)
+Deposition (geology)

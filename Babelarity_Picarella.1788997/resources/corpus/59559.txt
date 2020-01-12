@@ -1,0 +1,57 @@
+Scanning probe microscopy (SPM) is a branch of microscopy that forms images of surfaces using a physical probe that scans the specimen. SPM was founded in 1981, with the invention of the scanning tunneling microscope, an instrument for imaging surfaces at the atomic level. The first successful scanning tunneling microscope experiment was done by Binnig and Rohrer. The key to their success was using a feedback loop to regulate gap distance between the sample and the probe.
+Many scanning probe microscopes can image several interactions simultaneously. The manner of using these interactions to obtain an image is generally called a mode.
+The resolution varies somewhat from technique to technique, but some probe techniques reach a rather impressive atomic resolution. This is due largely because piezoelectric actuators can execute motions with a precision and accuracy at the atomic level or better on electronic command. This family of techniques can be called "piezoelectric techniques". The other common denominator is that the data are typically obtained as a two-dimensional grid of data points, visualized in false color as a computer image.
+AFM, atomic force microscopy Contact AFM
+Non-contact AFM
+Dynamic contact AFM
+Tapping AFM
+AFM-IR
+BEEM, ballistic electron emission microscopy
+CFM, chemical force microscopy
+C-AFM, conductive atomic force microscopy
+ECSTM electrochemical scanning tunneling microscope
+EFM, electrostatic force microscopy
+FluidFM, Fluidic force microscopy
+FMM, force modulation microscopy
+FOSPM, feature-oriented scanning probe microscopy
+KPFM, kelvin probe force microscopy
+MFM, magnetic force microscopy
+MRFM, magnetic resonance force microscopy
+NSOM, near-field scanning optical microscopy (or SNOM, scanning near-field optical microscopy)
+PFM, Piezoresponse Force Microscopy
+PSTM, photon scanning tunneling microscopy
+PTMS, photothermal microspectroscopy/microscopy
+SCM, scanning capacitance microscopy
+SECM, scanning electrochemical microscopy
+SGM, scanning gate microscopy
+SHPM, scanning Hall probe microscopy
+SICM, scanning ion-conductance microscopy
+SPSM spin polarized scanning tunneling microscopy
+SSM, scanning SQUID microscopy
+SSRM, scanning spreading resistance microscopy
+SThM, scanning thermal microscopy
+STM, scanning tunneling microscopy
+STP, scanning tunneling potentiometry
+SVM, scanning voltage microscopy
+SXSTM, synchrotron x-ray scanning tunneling microscopy
+SSET Scanning Single-Electron Transistor Microscopy 
+Of these techniques AFM and STM are the most commonly used for roughness measurements.
+To form images, scanning probe microscopes raster scan the tip over the surface. At discrete points in the raster scan a value is recorded (which value depends on the type of SPM and the mode of operation, see below). These recorded values are displayed as a heat map to produce the final STM images, usually using a black and white or an orange color scale.
+In constant interaction mode (often referred to as "in feedback"), a feedback loop is used to physically move the probe closer to or further from the surface (in the z axis) under study to maintain a constant interaction. This interaction depends on the type of SPM, for scanning tunneling microscopy the interaction is the tunnel current, for contact mode AFM or MFM it is the cantilever deflection, etc. The type of feedback loop used is usually a PI-loop, which is a PID-loop where the differential gain has been set to zero (as it amplifies noise). The z position of the tip (scanning plane is the xy-plane) is recorded periodically and displayed as a heat map. This is normally referred to as a topography image.
+In this mode a second image, known as the ″error signal" or "error image" is also taken, which is a heat map of the interaction which was fed back on. Under perfect operation this image would be a blank at a constant value which was set on the feedback loop. Under real operation the image shows noise and often some indication of the surface structure. The user can use this image to edit the feedback gains to minimise features in the error signal.
+If the gains are set incorrectly, many imaging artifacts are possible. If gains are too low features can appear smeared. If the gains are too high the feedback can become unstable and oscillate, producing striped features in the images which are not physical.
+In constant height mode the probe is not moved in the z-axis during the raster scan. Instead the value of the interaction under study is recorded (i.e. the tunnel current for STM, or the cantilever oscillation amplitude for amplitude modulated non-contact AFM). This recorded information is displayed as a heat map, and is usually referred to as a constant height image.
+Constant height imaging is much more difficult than constant interaction imaging as the probe is much more likely to crash into the sample surface. Usually before performing constant height imaging one must image in constant interaction mode to check the surface has no large contaminants in the imaging region, to measure and correct for the sample tilt, and (especially for slow scans) to measure and correct for thermal drift of the sample. Piezoelectric creep can also be a problem, so the microscope often needs time to settle after large movements before constant height imaging can be performed.
+Constant height imaging can be advantageous for eliminating the possibility of feedback artifacts.
+The nature of an SPM probe depends entirely on the type of SPM being used. The combination of tip shape and topography of the sample make up a SPM image. However, certain characteristics are common to all, or at least most, SPMs.
+Most importantly the probe must have a very sharp apex. The apex of the probe defines the resolution of the microscope, the sharper the probe the better the resolution. For atomic resolution imaging the probe must be terminated by a single atom.
+For many cantilever based SPMs (e.g. AFM and MFM), the entire cantilever and integrated probe are fabricated by acid [etching], usually from silicon nitride. Conducting probes, needed for STM and SCM among others, are usually constructed from platinum/iridium wire for ambient operations, or tungsten for UHV operation. Other materials such as gold are sometimes used either for sample specific reasons or if the SPM is to be combined with other experiments such as TERS. Platinum/iridium (and other ambient) probes are normally cut using sharp wire cutters, the optimal method is to cut most of the way through the wire and then pull to snap the last of the wire, increasing the likelihood of a single atom termination. Tungsten wires are usually electrochemically etched, following this the oxide layer normally needs to be removed once the tip is in UHV conditions.
+It is not uncommon for SPM probes (both purchased and "home-made") to not image with the desired resolution. This could be a tip which is too blunt or the probe may have more than one peak, resulting in a doubled or ghost image. For some probes, in situ modification of the tip apex is possible, this is usually done by either crashing the tip into the surface or by applying a large electric field. The latter is achieved by applying a bias voltage (of order 10V) between the tip and the sample, as this distance is usually 1-3 Angstroms, a very large field is generated.
+The resolution of the microscopes is not limited by diffraction, only by the size of the probe-sample interaction volume (i.e., point spread function), which can be as small as a few picometres. Hence the ability to measure small local differences in object height (like that of 135 picometre steps on <100> silicon) is unparalleled. Laterally the probe-sample interaction extends only across the tip atom or atoms involved in the interaction.
+The interaction can be used to modify the sample to create small structures (Scanning probe lithography).
+Unlike electron microscope methods, specimens do not require a partial vacuum but can be observed in air at standard temperature and pressure or while submerged in a liquid reaction vessel.
+The detailed shape of the scanning tip is sometimes difficult to determine. Its effect on the resulting data is particularly noticeable if the specimen varies greatly in height over lateral distances of 10 nm or less.
+The scanning techniques are generally slower in acquiring images, due to the scanning process. As a result, efforts are being made to greatly improve the scanning rate. Like all scanning techniques, the embedding of spatial information into a time sequence opens the door to uncertainties in metrology, say of lateral spacings and angles, which arise due to time-domain effects like specimen drift, feedback loop oscillation, and mechanical vibration.
+The maximum image size is generally smaller.
+Scanning probe microscopy is often not useful for examining buried solid-solid or liquid-liquid interfaces.
+In all instances and contrary to optical microscopes, rendering software is necessary to produce images. Such software is produced and embedded by instrument manufacturers but also available as an accessory from specialized work groups or companies. The main packages used are freeware : Gwyddion, WSxM (developed by Nanotec) and commercial: SPIP (developed by Image Metrology), FemtoScan Online (developed by Advanced Technologies Center), MountainsMap SPM (developed by Digital Surf), TopoStitch (developed by Image Metrology)

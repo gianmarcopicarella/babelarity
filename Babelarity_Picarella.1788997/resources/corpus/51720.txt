@@ -1,0 +1,57 @@
+Interaction design, often abbreviated as IxD, is defined as "the practice of designing interactive digital products, environments, systems, and services." While the digital side of this statement is true, Interaction design is also valid when creating physical (non-digital) products, covering the ideology of how a user may interact with it. Common topics that interaction design is most often associated with include design, human–computer interaction, and software development. While interaction design has an interest in form (similar to other design fields), its main area of focus rests on behavior. Rather than analyzing how things are, interaction design synthesizes and imagines things as they might or ought to be. This element of interaction design is what clearly marks IxD as an aspect of a design field as opposed to a science or engineering field.
+While disciplines like software engineering have a heavy focus on designing for technical stakeholders of a project, interaction design is more geared toward satisfying the needs and desires of the majority of users of a given product.
+The term interaction design was first coined by Bill Moggridge and Bill Verplank in the mid-1980s, but it would be another 10 years before other designers rediscovered the term and the concept started to take hold. To Verplank, it was an adaptation of the computer science term user interface design for the industrial design profession. To Moggridge, it was an improvement over soft-face, which he had coined in 1984 to refer to the application of industrial design to products containing software.
+The first academic program officially named "Interaction Design" was established at Carnegie Mellon University in 1994 as a Master of Design in Interaction Design. At the outset, the program focused mainly on screen interfaces, but has since shifted to a greater emphasis on the "big picture" aspects of interaction—people, organizations, culture, service, and system.
+In 1990, Gillian Crampton Smith founded the Computer-related Design MA at the Royal College of Art (RCA) in London, which changed to Design Interactions in 2005, headed by Professor Anthony Dunne. In 2001, Crampton Smith helped found the Interaction Design Institute Ivrea, a small institute in Northern Italy dedicated solely to interaction design; the institute moved to Milan in October 2005 and merged courses with Domus Academy. In 2007, some of the people originally involved with IDII set up the Copenhagen Institute of Interaction Design (CIID). After Ivrea Gillian Crampton Smith and Philip Tabor, added the Interaction Design (IxD) programme in the Visual and Multimedia Communication at Iuav, University of Venice, Italy, between 2006 and 2014.
+In 1998, the Swedish Foundation for Strategic Research founded The Interactive Institute - a Swedish research institute in the field of interaction design.
+Today, interaction design is taught in many schools worldwide. It is also a topic frequently discussed at conferences such as Gamification 2013 held at the University of Waterloo Stratford Campus, where author Stephen P. Anderson discussed Seductive Interaction Design, a fresh approach to designing sites and interactions based on the stages of seduction.
+Goal-oriented design (or Goal-Directed™ design) "is concerned most significantly with satisfying the needs and desires of the people who will interact with a product or service."
+Alan Cooper argues in The Inmates Are Running the Asylum that we need to take a new approach to how interactive software based problems are solved. The problems faced with designing computer based interfaces are fundamentally different from the challenges we face when designing interfaces for products that do not include software (e.g. hammers). Alan introduces the concept of cognitive friction, whereby we treat things as human when they are significantly complex enough that we cannot always understand how they behave. Computer interfaces are sufficiently complex as to be treated this way.
+Currently, the common problem-solving approach is very much oriented towards solving individual problems from the perspective of a business or other interested parties. However, in order to achieve best practices for problem-solving, it is argued that we must truly understand the personal and objective goals of a user first.
+Personas are archetypes that describe the various goals and observed behavior patterns among your potential users and customers.
+A persona encapsulates and explains the most critical behavioral data in a way that designers and stakeholders can understand, remember, and relate to. Unlike simple lists of findings or other types of models, personas use storytelling to engage the social and emotional aspects of our brains, which helps team members either visualize the best product behavior or see why the recommended design is successful.
+The cognitive dimensions framework provides a specialized vocabulary to evaluate and modify particular design solutions. Cognitive dimensions are designed as a lightweight approach to analysis of a design quality, rather than an in-depth, detailed description. They provide a common vocabulary for discussing many factors in notation, user interface or programming language design.
+Dimensions provide high-level descriptions of the interface and how the user interacts with it; examples include consistency, error-proneness, hard mental operations, viscosity or premature commitment. These concepts aid the creation of new designs from existing ones through design maneuvers that alter the position of the design within a particular dimension.
+Throughout the process of interaction design, designers must be aware of key aspects in their designs that influence emotional responses in target users. For instance, the need for products to convey positive emotions while avoiding negative ones is critical to product success. Other important aspects for consideration include motivational, learning, creative, social, and persuasive influences. One method that can help convey such aspects is the use of expressive interfaces. In software, for example, the use of dynamic icons, animations and sound can help communicate a state of operation, thus creating a sense of interactivity and feedback. Interface aspects such as fonts, color palettes, and graphical layouts can also influence an interface's perceived effectiveness; in fact, studies have shown that affective aspects can affect a user's perception of usability.
+Emotional and pleasure theories exist to explain people's responses to the use of interactive products. These include Don Norman's emotional design model, Patrick Jordan's pleasure model, and McCarthy and Wright's Technology as Experience framework.
+The dimensions of interaction design were first introduced in the introduction of Moggridge's book Designing Interactions. Gillian Crampton Smith stated that there were four dimensions to an interaction design language, and a fifth dimension was later added by Kevin Silver.
+This dimension defines the interactions, such that words are the interaction that users interact with.
+Visual representations are the elements of an interface that the user interacts with; these may include but are not limited to "typography, diagrams, icons, and other graphics".
+The third dimension of interaction design defines the objects or space "with which or within which users interact".
+The time with which or during which the user interacts with the interface is the fourth dimension. An example of this includes "content that changes over time such as sound, video, or animation".
+The final dimension, behavior, defines the users actions in reaction to the interface and how they respond to it.
+The Interaction Design Association (IxDA) was created in 2003 to serve the international Interaction Design community. Currently, the organization has over 80,000 members and more than 173 local groups around the world. IxDA hosts Interaction the annual interaction design conference, and the Interaction Awards.
+Industrial design
+The core principles of industrial design overlap with those of interaction design. Industrial designers use their knowledge of physical form, color, aesthetics, human perception and desire, usability to create a fit of an object with the person using it.
+Human factors and ergonomics
+Certain basic principles of ergonomics provide grounding for interaction design. These include anthropometry, biomechanics, kinesiology, physiology and psychology as they relate to human behavior in the built environment.
+Cognitive psychology
+Certain basic principles of cognitive psychology provide grounding for interaction design. These include mental models, mapping, interface metaphors, and affordances. Many of these are laid out in Donald Norman's influential book The Design of Everyday Things.
+Human–computer interaction
+Academic research in human–computer interaction (HCI) includes methods for describing and testing the usability of interacting with an interface, such as cognitive dimensions and the cognitive walkthrough.
+Design research
+Interaction designers are typically informed through iterative cycles of user research. User research is used to identify the needs, motivations and behaviors of end users. They design with an emphasis on user goals and experience, and evaluate designs in terms of usability and affective influence.
+Architecture
+As interaction designers increasingly deal with ubiquitous computing and urban computing, the architects' ability to make, place, and create context becomes a point of contact between the disciplines.
+User interface design
+Like user interface design and experience design, interaction design is often associated with the design of system interfaces in a variety of media but concentrates on the aspects of the interface that define and present its behavior over time, with a focus on developing the system to respond to the user's experience and not the other way around.
+Interaction Design Foundation
+Chief Experience Officer (CXO)
+Data presentation architecture
+Information architecture
+Hardware Interface design
+Human interface guidelines (user friendly computer application designs)
+Instructional design
+Interaction design pattern
+Interactive systems engineering
+Interactivity
+Interface design
+Kinetic user interface
+Mobile interaction
+Service design
+Sonic interaction design
+Transgenerational design
+Usability
+User experience design
+User-centered design
+Web literacy (Creating interactive experiences on the web)

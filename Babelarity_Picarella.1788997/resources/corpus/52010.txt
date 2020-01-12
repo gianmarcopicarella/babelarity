@@ -1,0 +1,11 @@
+Google Code Search was a free beta product from Google which debuted in Google Labs on October 5, 2006 allowing web users to search for open-source code on the Internet. Google announced that Code Search was to be shut down along with the Code Search API on January 15, 2012. The service remained online until March 2013, and it now returns a 404.
+Features included the ability to search using operators. These are lang:, package:, license: and file:.
+The code available for searching was in various formats including tar.gz, .tar.bz2, .tar, and .zip, CVS, Subversion, git and Mercurial repositories.
+The site allowed the use of regular expressions in queries, which is not offered by any other search engine for code. This makes it resemble grep, but over the world's public code. The methodology employed combines a trigram index with a custom-built, denial-of-service resistant regular expression engine.
+Google Code Search supported POSIX extended regular expression syntax, excluding back-references, collating elements, and collation classes.
+Languages not officially supported could be searched for using the file: operator to match the common file extensions for the language.
+Codase
+Krugle
+Open Hub (a merge of Ohloh and Koders)
+Merobase
+OpenGrok

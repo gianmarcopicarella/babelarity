@@ -1,0 +1,20 @@
+General-purpose input/output (GPIO) is a generic pin on an integrated circuit whose behavior—including whether it is an input or output pin—is controllable by the user at run time.
+GPIO pins have no predefined purpose, and go unused by default. The idea is that sometimes a system integrator who is building a full system might need a handful of additional digital control lines—and having these available from a chip avoids having to arrange additional circuitry to provide them. For example, the Realtek ALC260 chips (audio codec) have 8 GPIO pins, which go unused by default. Some system integrators (Acer Inc. laptops) use the first GPIO (GPIO0) on the ALC260 to turn on the amplifier for the laptop's internal speakers and external headphone jack.
+Manufacturers use GPIOs in:
+Devices with pin scarcity: integrated circuits such as system-on-a-chip, embedded and custom hardware, and programmable logic devices (for example, FPGAs)
+Multifunction chips: power managers, audio codecs, and video cards
+Embedded applications (Arduino, BeagleBone, PSoC kits, Raspberry Pi, etc.) use GPIO for reading from various environmental sensors (IR, video, temperature, 3-axis orientation, and acceleration), and for writing output to DC motors (via PWM), audio, LCD displays, or LEDs for status.
+GPIO capabilities may include:
+GPIO pins can be configured to be input or output
+GPIO pins can be enabled/disabled
+Input values are readable (typically high=1, low=0)
+Output values are writable/readable
+Input values can often be used as IRQs (typically for wakeup events)
+GPIO peripherals vary widely. In some cases, they are simple—a group of pins that can switch as a group to either input or output. In others, each pin can be set up to accept or source different logic voltages, with configurable drive strengths and pull ups/downs. Input and output voltages are typically—though not always—limited to the supply voltage of the device with the GPIOs, and may be damaged by greater voltages.
+A GPIO pin's state may be exposed to the software developer through one of a number of different interfaces, such as a memory mapped peripheral, or through dedicated IO port instructions. Some GPIOs have 5 V tolerant inputs: even when the device has a low supply voltage (such as 2 V), the device can accept 5 V without damage.
+A GPIO port is a group of GPIO pins (typically 8 GPIO pins) arranged in a group and controlled as a group.
+Programmed input/output
+SGPIO
+I²C
+Serial Peripheral Interface Bus
+Special input/output

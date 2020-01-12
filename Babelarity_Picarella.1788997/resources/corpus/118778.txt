@@ -1,0 +1,23 @@
+Derek John de Solla Price (22 January 1922 – 3 September 1983) was a physicist, historian of science, and information scientist, credited as the father of scientometrics.
+Price was born in Leyton, England, to Philip Price, a tailor, and Fanny de Solla, a singer. He began work in 1938 as an assistant in a physics laboratory at the South West Essex Technical College, before studying Physics and Mathematics at the University of London, where he received a Bachelor of Science in 1942. He obtained a Doctor of Philosophy in experimental physics from the University of London in 1946.
+Price worked as a teacher of applied mathematics at Raffles College (which was to become part of the University of Singapore in 1948). It was there that he formulated his theory on the exponential growth of science, an idea that occurred to him when he noticed the characteristic log curve of the Philosophical Transactions of the Royal Society between 1665 and 1850, which he had stacked against his wall at home while Raffles College had its library built.
+After three years, Price returned to England to work on a second Ph.D., in the history of science, this time at the University of Cambridge. During his Ph.D. studies, he accidentally discovered Equatorie of the Planetis, a manuscript written in Middle English, which he attributed to Geoffrey Chaucer.
+Around 1950, Price adopted his mother's Sephardic name, "de Solla", as a middle name. He was a "British Atheist... from a rather well-known Sephardic Jewish family", and although his Danish wife, Ellen, had been christened as a Lutheran, he did not, according to their son Mark, regard their marriage as "mixed", because they were both atheists.
+After obtaining his second doctorate, Price moved to the United States, where he served as a consultant to the Smithsonian Institution, and as a fellow at the Institute for Advanced Study in Princeton. His next post was at Yale University, where he worked until his death, serving as the Avalon Professor of the History of Science, and as chair of a new department that encompassed the histories of science, technology, and medicine.
+In 1984, Price received, posthumously, the ASIS Research Award for outstanding contributions in the field of information science.
+Price's major scientific contributions include:
+studies of the exponential growth of science and the half-life of scientific literature; together with the formulation of Price's Law, namely that 25% of scientific authors are responsible for 75% of published papers (Price 1963);
+quantitative studies of the network of citations between scientific papers (Price 1965), including the discovery that both the in- and out-degrees of a citation network have power-law distributions, making this the first published example of a scale-free network;
+Price's model, a mathematical theory of the growth of citation networks, based on what would now be called a preferential attachment process (Price 1976);
+an analysis of the Antikythera mechanism, an ancient Greek analogue computer and astronomical instrument (Price 1959, 1974).
+"An ancient Greek computer", in Scientific American 200 (6):60-67 (1959).
+Science Since Babylon see review 
+"Mechanical Waterclocks of the 14th Century in Fez, Morocco", in Proceedings of the Tenth International Congress of the History of Science (Ithaca, N.Y, 1962), Paris: Hermann, pp. 599–602 (1962)
+Little Science, Big Science
+De Solla Price, D. J. (1965). "Networks of Scientific Papers". Science 149 (3683): 510–515. doi:10.1126/science.149.3683.510. PMID 14325149. 
+"Nations can Publish or Perish", in International Science and Technology 70 84-90 (1967)
+"Citation Measures of Hard Science, Soft Science, Technology, and Nonscience", in Nelson, C. E. & Pollock, D.K. (eds.), Communication among Scientists and Engineers, Lexington, MA: D.C. Heath and Company, pp. 3–22 (1970).
+Price, D.J. de Solla (November 1974). "Gears from the Greeks. The Antikythera Mechanism: A Calendar Computer from ca. 80 B. C.". Transactions of the American Philosophical Society New Series 64 (7): 1–70. doi:10.2307/1006146. ISBN 978-0871696472. JSTOR 1006146. 
+Price, D.J. de Solla (September 1976). "A general theory of bibliometric and other cumulative advantage processes". Journal of the American Society for Information Science 27 (5): 292–306. doi:10.1002/asi.4630270505.  (Winner of 1976 JASIS paper award.)
+Planetary equatorium
+A Treatise on the Astrolabe

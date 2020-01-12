@@ -1,0 +1,26 @@
+A nickel–hydrogen battery (NiH2 or Ni–H2) is a rechargeable electrochemical power source based on nickel and hydrogen. It differs from a nickel–metal hydride (NIMH) battery by the use of hydrogen in gaseous form, stored in a pressurized cell at up to 1200 psi (82.7 bar) pressure. The Nickel–hydrogen battery was patented on Feb 25, 1971 by Alexandr Ilich Kloss and Boris Ioselevich Tsenter in the United States.
+NiH2 cells using 26% potassium hydroxide (KOH) as an electrolyte have shown a service life of 15 years or more at 80% depth of discharge (DOD) The energy density is 75 Wh/kg, 60 Wh/dm3 specific power 220 W/kg. The open-circuit voltage is 1.55 V, the average voltage during discharge is 1.25 V.
+While the energy density is only around one third as that of a lithium battery, the specific property of the nickel–hydrogen battery is its long life: the cells handle more than 20,000 charge cycles with 85% energy efficiency and 100% faradaic efficiency.
+NiH2 rechargeable batteries possess properties which make them attractive for the energy storage of electrical energy in satellites and space probes. For example, the ISS, Mercury Messenger, Mars Odyssey and the Mars Global Surveyor are equipped with nickel–hydrogen batteries. The Hubble Space Telescope, when its original batteries were changed in May 2009 more than 19 years after launch, led with the highest number of charge and discharge cycles of any NiH2 battery in low earth orbit.
+The development of the nickel hydrogen battery started in 1970 at Comsat and was used for the first time in 1977 aboard the U.S. Navy's Navigation technology satellite-2 (NTS-2). Currently, the major manufacturers of nickel-hydrogen batteries are Eagle-Picher Technologies and Johnson Controls, Inc.
+The nickel-hydrogen battery combines the positive nickel electrode of a nickel-cadmium battery and the negative electrode, including the catalyst and gas diffusion elements, of a fuel cell. During discharge, hydrogen contained in the pressure vessel is oxidized into water while the nickel oxyhydroxide electrode is reduced to nickel hydroxide. Water is consumed at the nickel electrode and produced at the hydrogen electrode, so the concentration of the potassium hydroxide electrolyte does not change. As the battery discharges, the hydrogen pressure drops, providing a reliable state of charge indicator. In one communication satellite battery, the pressure at full charge was over 500 pounds/square inch (3.4 MPa), dropping to only about 15 PSI (0.1 MPa) at full discharge.
+If the cell is over-charged, the oxygen produced at the nickel electrode reacts with the hydrogen present in the cell and forms water; as a consequence the cells can withstand overcharging as long as the heat generated can be dissipated.
+The cells have the disadvantage of relatively high self-discharge rate, i.e. chemical reduction of Ni(III) into Ni(II) in the cathode:
+NiOOH + 0.5 H2 = Ni(OH)2.
+which is proportional to the pressure of hydrogen in the cell; in some designs, 50% of the capacity can be lost after only a few days' storage. Self-discharge is less at lower temperature. 
+Compared with other rechargeable batteries, a nickel-hydrogen battery provides good specific energy of 55-60 watthours/kg, and very long cycle life (40,000 cycles at 40% DOD) and operating life (> 15 years) in satellite applications. The cells can tolerate overcharging and accidental polarity reversal, and the hydrogen pressure in the cell provides a good indication of the state of charge. However, the gaseous nature of hydrogen means that the volume efficiency is relatively low (60-100 Wh/L for an IPV (individual pressure vessel) cell), and the high pressure required makes for high-cost pressure vessels.
+The positive electrode is made up of a dry sintered porous nickel plaque, which contains nickel hydroxide. The negative hydrogen electrode utilises a teflon-bonded platinum black catalyst at a rather high loading of 7 mg/cm2, the separator is knit zirconia cloth(ZYK-15 Zircar)  Asbestos was used in the past.
+The Hubble replacement batteries are produced with a wet slurry process where a binder agent and powdered metallic materials are molded and heated to boil off the liquid.
+Individual pressure vessel (IPV) design consists of a single unit of NiH2 cells in a pressure vessel.
+Common pressure vessel (CPV) design consist of two NiH2 cell stacks in series in a common pressure vessel. The CPV provides a slightly higher specific energy than the IPV.
+Single pressure vessel (SPV) design combines up to 22 cells in series in a single pressure vessel.
+Bipolar design is based on thick electrodes, positive-to-negative back-to-back stacked in a SPV.
+Dependent pressure vessel (DPV) cell design offers higher specific energy and reduced cost.
+Common/dependent pressure vessel (C/DPV) is a hybrid of the common pressure vessel (CPV) and the dependent pressure vessel (DPV) with a high volumetric efficiency.
+Schematics
+List of battery types
+List of battery sizes
+Comparison of battery types
+Power-to-weight ratio
+Pressure vessel
+Timeline of hydrogen technologies

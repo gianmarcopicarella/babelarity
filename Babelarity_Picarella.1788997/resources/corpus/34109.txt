@@ -1,0 +1,238 @@
+The Arvicolinae are a subfamily of rodents that includes the voles, lemmings, and muskrats. They are most closely related to the other subfamilies in the Cricetidae (comprising the hamsters and New World rats and mice). Some authorities place the subfamily Arvicolinae in the family Muridae along with all other members of the superfamily Muroidea. Some refer to the subfamily as the Microtinae or rank the taxon as a full family, the Arvicolidae.
+The Arvicolinae are the most populous group of Rodentia in the Northern Hemisphere. They often are found in fossil occlusions of bones cached by past predators such as owls and other birds of prey. Fossils of this group are often used for biostratigraphic dating of archeological sites in North America and Europe.
+The most convenient distinguishing feature of the Arvicolinae is the nature of their molar teeth, which have prismatic cusps in the shape of alternating triangles. These molars are an adaptation to a herbivorous diet in which the major food plants include a large proportion of abrasive materials such as phytoliths; the teeth get worn down by abrasion throughout the adult life of the animal and they grow continuously in compensation.
+Arvicolinae are Holarctic in distribution and represent one of only a few major muroid radiations to reach the New World via Beringia. (The others are the three subfamilies of New World rats and mice.) Arvicolines do very well in the subnival zone beneath the winter snowpack, and persist throughout winter without needing to hibernate. They are also characterized by extreme fluctuations in population size.
+Most arvicolines are small, furry, short-tailed voles or lemmings, but some, such as Ellobius and Hyperacrius, are well adapted to a fossorial lifestyle. Others, such as Ondatra, Neofiber, and Arvicola, have evolved larger body sizes and are associated with an aquatic lifestyle.
+The phylogeny of Arvicolinae has been studied using morphological and molecular characters. Markers for the molecular phylogeny of arvicolines included the mitochondrial DNA cytochrome b (cyb) gene  and the exon 10 of the growth hormone receptor (ghr) nuclear gene. The comparison of the cyb and ghr phylogenetic results seems to indicate nuclear genes are useful for resolving relationships of recently evolved animals. As compared to mitochondrial genes, nuclear genes display several informative sites in third codon positions that evolve rapidly enough to accumulate synapomorphies, but slow enough to avoid evolutionary noise. Of note, mitochondrial pseudogenes translocated within the nuclear genome complicate the assessment of the mitochondrial DNA orthology, but they can also be used as phylogenetic markers. Sequencing complete mitochondrial genomes of voles  may help to distinguish between authentical genes and pseudogenes.
+The complementary phylogenetic analysis of morphological and molecular characters  suggests:
+Ellobius, Prometheomys, and Lagurus are among the most basal arvicolines.
+Dicrostonyx, Phenacomys, and Arborimus may form a clade.
+Core arvicolines include three subclades:
+Lemmini: Synaptomys, Lemmus, Myopus
+Clethrionomyini: Eothenomys, Myodes
+Arvicolini: Arvicola, Chionomys, Stenocranius and Microtus
+Microtus sensu lato contains Alexandromys, ‘Neodon’, Mynomes, Lasiopodomys, Terricola, and Microtus sensu stricto.
+Ondatra and Dinaromys positions are uncertain, probably compromised by the convergent evolution of morphological characters.
+Some authorities have placed the zokors within the Arvicolinae, but they have been shown to be unrelated.
+Subfamily Arvicolinae - voles, lemmings, muskrats
+The subfamily Arvicolinae contains ten tribes, seven of which are classified as voles, one as lemmings, and two as muskrats.
+Tribe Arvicolini
+Genus Arvicola - water voles
+European (or Northern) water vole, A. amphibius (A. terrestris)
+Southwestern (or southern) water vole, A. sapidus
+Montane water vole, A. scherman
+Genus Blanfordimys
+Afghan vole, B. afghanus
+Bucharian vole, B. bucharicus
+Genus Chionomys - snow voles
+Caucasian snow vole, C. gud
+European snow vole, C. nivalis
+Robert's snow vole, C. roberti
+Genus Lasiopodomys
+Brandt's vole, L. brandtii
+Plateau vole, L. fuscus
+Mandarin vole, L. mandarinus
+Genus Lemmiscus
+Sagebrush vole, L. curtatus
+Genus Microtus - voles
+Insular vole, M. abbreviatus
+California vole, M. californicus
+Rock vole, M. chrotorrhinus
+Long-tailed vole, M. longicaudus
+Mexican vole, M. mexicanus
+Singing vole, M. miurus
+North American water vole, M. richardsoni
+Zempoaltépec vole, M. umbrosus
+Taiga vole, M. xanthognathus
+Subgenus Microtus
+Field vole, M. agrestis
+Anatolian vole, M. anatolicus
+Common vole, M. arvalis
+Cabrera's vole, M. cabrerae
+Doğramaci's vole, M. dogramacii
+Günther's vole, M. guentheri
+Tien Shan vole, M. ilaeus
+Persian vole, M. irani
+Southern vole, M. levis
+Paradox vole, M. paradoxus
+Qazvin vole, M. qazvinensis
+Schidlovsky's vole, M. schidlovskii
+Social vole, M. socialis
+European pine vole, M. subterraneus
+Transcaspian vole, M. transcaspicus
+Subgenus Terricola
+Bavarian pine vole, M. bavaricus
+Calabria pine vole, M. brachycercus
+Daghestan pine vole, M. daghestanicus
+Mediterranean pine vole, M. duodecimcostatus
+Felten's vole, M. felteni
+Liechtenstein's pine vole, M. liechtensteini
+Lusitanian pine vole, M. lusitanicus
+Major's pine vole, M. majori
+Alpine pine vole, M. multiplex
+Savi's pine vole, M. savii
+Tatra pine vole, M. tatricus
+Thomas's pine vole, M. thomasi
+Subgenus Mynomes
+Beach vole, M. breweri
+Gray-tailed vole, M. canicaudus
+Montane vole, M. montanus
+Creeping vole, M. oregoni
+Meadow vole, M. pennsylvanicus
+Townsend's vole, M. townsendii
+Subgenus Alexandromys
+Clarke's vole, M. clarkei
+Evorsk vole, M. evoronensis
+Reed vole, M. fortis
+Gerbe's vole, M. gerbei
+Taiwan vole, M. kikuchii
+Lacustrine vole, M. limnophilus
+Maximowicz's vole, M. maximowiczii
+Middendorf's vole, M. middendorffi
+Mongolian vole, M. mongolicus
+Japanese grass vole, M. montebelli
+Muisk vole, Microtus mujanensis
+Tundra vole (root vole), M. oeconomus
+Sakhalin vole, M. sachalinensis
+Subgenus Stenocranius
+Narrow-headed vole, M. gregalis
+Subgenus Pitymys
+Guatemalan vole, M. guatemalensis
+Tarabundí vole, M. oaxacensis
+Woodland vole, M. pinetorum
+Jalapan pine vole, M. quasiater
+Subgenus Pedomys
+Prairie vole, M. ochrogaster
+Subgenus Hyrcanicola
+Schelkovnikov's pine vole, M. schelkovnikovi
+Genus Neodon - mountain voles
+Juniper vole, N. juldaschi
+Chinese scrub vole, N. irene
+Sikkim mountain vole, N. sikimensis
+Forrest's mountain vole, N. forresti
+Neodon linzhiensis
+*Genus Phaiomys
+Blyth's vole, P. leucurus
+Genus Proedromys
+Duke of Bedford's vole, P. bedfordi
+Proedromys liangshanensis
+Genus Volemys
+Szechuan vole, V. millicens
+Marie's vole, V. musseri
+Tribe Dicrostonychini - collared lemmings
+Genus Dicrostonyx
+Northern collared lemming, D. groenlandicus
+Saint Lawrence Island collared lemming, D. g. exsul (D. exsul )
+Victoria collared lemming, D. g. kilangmiutak (D. kilangmiutak)
+Nelson's collared lemming, D. g. nelsoni (D. nelsoni)
+Bering collared lemming, D. g. rubricatus (D. rubricatus)
+Ungava collared lemming, D. hudsonius
+Ogilvie Mountains collared lemming, D. nunatakensis
+Richardson's collared lemming, D. richardsoni
+Arctic lemming, D. torquatus
+Unalaska collared lemming, D. unalascensis
+Wrangel lemming, D. vinogradovi
+Tribe Ellobiusini - mole voles
+Genus Ellobius - mole voles
+Alai mole vole, E. alaicus
+Southern mole vole, E. fuscocapillus
+Transcaucasian mole vole, E. lutescens
+Northern mole vole, E. talpinus
+Zaisan mole vole, E. tancrei
+Tribe Lagurini
+Genus Eolagurus
+Yellow steppe lemming, E. luteus
+Przewalski's steppe lemming, E. przewalskii
+Genus Lagurus
+Steppe lemming, L. lagurus
+Tribe Lemmini - lemmings
+Genus Lemmus - true lemmings
+Amur lemming, L. amurensis
+Norway lemming, L. lemmus
+Siberian brown lemming, L. sibiricus
+North American brown lemming, L. trimucronatus
+Wrangel Island lemming, L. portenkoi
+Genus Myopus
+Wood lemming, M. schisticolor
+Genus Synaptomys - bog lemmings
+Northern bog lemming, S. borealis
+Southern bog lemming, S. cooperi
+Tribe Myodini
+Genus Alticola - voles from Central Asia
+Subgenus Alticola
+White-tailed mountain vole, A. albicauda
+Silver mountain vole, A. argentatus
+Gobi Altai mountain vole, A. barakshin
+Central Kashmir vole, A. montosa
+Royle's mountain vole, A. roylei
+Mongolian silver vole, A. semicanus
+Stolička's mountain vole, A. stoliczkanus
+Tuva silver vole, A. tuvinicus
+Subgenus Aschizomys
+Lemming vole, A. lemminus
+Large-eared vole, A. macrotis
+Lake Baikal mountain vole, A. olchonensis
+Subgenus Platycranius
+Flat-headed vole, 'A. strelzowi
+Genus Caryomys
+Ganzu vole, C. eva
+Kolan vole, C. inez
+Genus Eothenomys - voles from East Asia
+Kachin red-backed vole, E. cachinus
+Pratt's vole, E. chinensis
+Southwest China vole, E. custos
+Père David's vole, E. melanogaster
+Yunnan red-backed vole, E. miletus
+Chaotung vole, E. olitor
+Yulungshan vole, E. proditor
+Ward's red-backed vole, E. wardi
+Genus Hyperacrius - voles from Pakistan
+True's vole, H. fertilis
+Murree vole, H. wynnei
+Genus Myodes - red-backed voles
+Anderson's red-backed vole, M. andersoni
+Western red-backed vole, M. californicus
+Tien Shan red-backed vole, M. centralis
+Southern red-backed vole, M. gapperi
+Bank vole, M. glareolus
+Imaizumi's red-backed vole, M. imaizumii
+Korean red-backed vole, M. regulus
+Hokkaido red-backed vole, M. rex
+Grey red-backed vole, M. rufocanus
+Northern red-backed vole, M. rutilus
+Shansei vole, M. shanseius
+Smith's vole, M. smithii
+Tribe Neofibrini
+Genus Neofiber
+Round-tailed muskrat, N. alleni
+Tribe Ondatrini - muskrat
+Genus Ondatra
+Muskrat, O. zibethicus
+Tribe Pliomyini
+Genus Dinaromys
+Balkan snow vole, D. bogdanovi
+Tribe Prometheomyini
+Genus Prometheomys
+Long-clawed mole vole, P. schaposchnikowi
+incertae sedis
+Genus Arborimus - tree voles
+White-footed vole, A. albipes
+Red tree vole, A. longicaudus
+California red tree mouse or Sonoma tree vole, A. pomo
+Genus Phenacomys - heather voles
+Western heather vole, P. intermedius
+Eastern heather vole, P. ungava
+Genus Mimomys †
+Subgenus Mimomys †
+Subgenus Pusillomimus †
+Genus Pitymimomys †
+Genus Borsodia †
+Genus Allophaiomys †
+Genus Prolagurus †
+Tribe Dicrostonychini - collared lemmings
+Genus Predicrostonyx †
+Hopkins's Lemming, Predicrostonyx hopkinsi †
+Tribe Clethrionomyini
+Genus Altaiomys
+Hantavirus
+Isla Vista virus

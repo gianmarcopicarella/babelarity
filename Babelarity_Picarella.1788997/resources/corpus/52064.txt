@@ -1,0 +1,35 @@
+Cinnamon is a desktop environment that is based on the GTK+ 3 toolkit. It was released in 2011. The project was originally started as a fork of the GNOME Shell, i.e. a mere graphical shell, but became its own desktop environment in Cinnamon 2.0. Cinnamon was initially developed by (and for) the Linux Mint distribution, with wider adoption spreading to other distributions over time.
+Because the Cinnamon desktop environment intends to implement a graphical user interface (GUI) distinct from the GNOME desktop environment, many of the GNOME Core Applications were forked, so that their GUIs can be rewritten appropriately.
+The Linux Mint development team was initially unsure about the future of the distribution after the release of GNOME 3. Its new graphical shell, GNOME Shell, did not fit the design goals the team had in mind for Linux Mint, but there were initially no available alternatives. Linux Mint 11 "Katya" was released in May 2011 with the final release of GNOME 2, but it was clear that a better solution was needed, as GNOME Panel was no longer being developed. Therefore, the team set out to improve GNOME Shell so that it would fit Linux Mint's goals, and the result was the "Mint GNOME Shell Extensions" (MGSE). In the meantime, the MATE desktop environment was forked from GNOME 2. The Mint team decided to incorporate MATE into Linux Mint 12 "Lisa" alongside MGSE, to give users a choice whether to use the traditional GNOME 2 desktop or the GNOME 3-based MGSE.
+However, MGSE fell short of expectations. Since GNOME Shell was going in a different direction than the Mint developers had in mind, it was clear that MGSE was not viable in the long run. In response to this problem, GNOME Shell was forked to create the Cinnamon project, allowing the Linux Mint developers better control over the development process and to implement their own vision of the GNOME interface for use in future releases of Linux Mint. The project was publicly announced on 2 January 2012 on the Linux Mint blog.
+From version 1.2 onward, Cinnamon uses Muffin, a fork of the GNOME 3 window manager Mutter, as its window manager.
+Cinnamon 1.6 was introduced on 18 September 2012 with new default file browser Nemo replacing Nautilus, although Nautilus is still optional.
+Cinnamon 1.8 was released on 5 May 2013. GNOME Control Center has been forked. It is now called Cinnamon-Control-Center and it combines Gnome-Control-Center and Cinnamon-Settings. Gnome-Screensaver has been also forked and is now called Cinnamon-Screensaver. Now it is possible to install and update applets, extensions, desklets and themes through control-center instead of placing example themes into the .themes folder. It also features a modified Nemo interface. Desklets that come with the release are like Widgets.
+Cinnamon 2.0 was released on 10 October 2013. From this version, Cinnamon is no longer a frontend on top of the GNOME desktop like Unity or GNOME Shell, but "an entire desktop environment". Cinnamon is still built on GNOME technologies and uses GTK+, but it no longer requires GNOME itself to be installed. The biggest changes in this release are improved edge-tiling, improved user management, configurable individual sound effects and performance improvements for full screen applications.
+Cinnamon has forked a couple of the GNOME Core Applications.
+Features provided by Cinnamon include
+Desktop effects, including animations and transition effects;
+Panels equipped with a main menu, launchers, a window list and the system tray can be adjusted on left, right, upper or lower edge of the screen
+Various extensions;
+Applets that appear on the panel
+Overview with functions similar to that in GNOME Shell; and
+Settings editor for easy customization. It can customize:
+The panel
+The calendar
+Themes
+Desktop effects
+Applets
+Extensions
+As of 24 January 2012 there was no official documentation for Cinnamon itself, although most documentation for GNOME Shell applies to Cinnamon. There is documentation for the Cinnamon edition of Linux Mint, with a chapter on the Cinnamon desktop.
+New overview modes have been added to Cinnamon 1.4. These two modes are "Expo" and "Scale", which can be configured in Cinnamon Settings.
+Cinnamon can be modified by themes, applets and extensions. Themes can customize the look of aspects of Cinnamon, including but not limited to the menu, panel, calendar and run dialog. Applets are icons or texts that appear on the panel. Five applets are shipped by default, and developers are free to create their own. A tutorial for creating simple applets is available. Extensions can modify the functionalities of Cinnamon, such as providing a dock or altering the look of the Alt+Tab ↹ window switcher.
+Developers can upload their themes, applets and extension to Cinnamon's web page and let users download and rate.
+Cinnamon is available in the Linux Mint 12 repositories, and is included in all Linux Mint versions 13 and higher as one of the four possible choices of desktop environment, one other being MATE. It is also an optional user interface in Linux Mint Debian Edition Update Pack 4 respin.
+Outside Linux Mint, Cinnamon is available for Ubuntu via a PPA, Fedora, openSUSE, Arch Linux, Gentoo Linux, Mageia, Debian, Pardus, Manjaro Linux, Sabayon 8. and FreeBSD It is the default desktop environment of Cubuntu, and Cr OS Linux, and is expected to be adopted by Fusion Linux for version 16, though a full release was not available as of June 2014.
+Although as of January 2012 still in the early stages of development, the reception of Cinnamon has been generally positive. Its supporters perceive it as more flexible and powerful than GNOME Shell while providing advanced features.
+In their review of Linux Mint 17, Ars Technica described Cinnamon 2.2 as "being perhaps the most user-friendly and all-around useful desktop available on any platform."
+Linux Mint
+MATE (desktop environment) - a fork of original GNOME 2 code
+GNOME Shell
+Unity (user interface)
+KDE Plasma Workspaces

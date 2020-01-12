@@ -1,0 +1,70 @@
+The Heinkel He 51 was a German single-seat biplane which was produced in a number of different versions. It was initially developed as a fighter, and a seaplane variant and a ground-attack version were also developed. It was a development of the earlier He 49.
+In 1931, Heinkel recruited the talented aircraft designers, Walter and Siegfried Günter, and their first major design for Heinkel was the Heinkel He 49. While this was officially an advanced trainer, in fact it was a fighter. The first prototype, the He 49a, flew in November 1932, and was followed by two further prototypes, the He 49b, with a longer fuselage, and the He 49c, with a revised engine.
+The type was ordered into production for the still secret Luftwaffe as the He 51, the first pre-production aircraft flying in May 1933. Deliveries started in July of the next year.
+The He 51 was a conventional single-bay biplane, with all-metal construction and fabric covering. It was powered by a glycol-cooled BMW VI engine, with an armament of two 7,92 mm (.323 in) machine guns mounted above the engine.
+The He 51 was intended to replace the earlier Arado Ar 65, but served side-by-side with the slightly later Ar 68. The He 51 was outdated the day it entered service, and after an initial run of 150 production fighters, the design was switched into the modified He 51B, with approximately 450 built, including about 46 He 51B-2 floatplanes, and then finally a further 100 He 51C light ground-attack plane.
+On 6 August 1936, six of the He 51s were delivered to Spain to fight in the Spanish Civil War along with the fraction of the army in revolt. Initial operations were successful, with the Heinkels meeting and defeating a number of older biplane of the Spanish Republican Air Force, with two Nieuport Ni-52 fighters, a Breguet 19 and a Potez 54 destroyed on 18 August 1936, the first day of operations by Spanish-flown He 51s. Deliveries continued as the hostilities increased, with two Nationalist squadrons equipped by November, and the Legion Condor forming three squadrons of 12 aircraft each manned by German "volunteers".
+This time of superiority was short lived, with the arrival of large numbers of modern aircraft from the Soviet Union, including the Polikarpov I-15 biplane and new Polikarpov I-16 monoplane, together with the Tupolev SB bomber, which was 110 km/h (70 mph) faster. The He 51 proved unable to protect the Legion Condor's bombers, forcing it to switch to night operations, while also unable to intercept the much faster SB. The He 51 was therefore withdrawn from fighter duty and relegated to the ground-attack role by both the Legion Condor and the Spanish rebels. It was replaced in the fighter role by the Fiat CR.32 in the rebel Nationalist Air Force, with the Legion Condor receiving Messerschmitt Bf 109s from April 1937 to allow it to operate successfully in fighter operations.
+While a failure as a fighter, the Heinkel proved successful as a ground-attack aircraft, being used by Wolfram von Richthofen to develop the close support tactics which were used by the Luftwaffe in World War II. It continued in use as a ground attack aircraft for the remainder of the Civil War, although losses were heavy. After the war the 46 surviving aircraft would be joined by another 15 new builds, and serve in the utility role in Spain until 1952.
+The He 51 continued in front-line service with the Luftwaffe until 1938, with it remaining in service as an advanced trainer for the first few years of World War II.
+He 49a
+First prototype. Short fuselage.
+He 49b
+Second prototype, with stretched fuselage. Tested as both landplane and floatplane.
+He 49c
+Third prototype, with revised, glycol-cooled engine installation.
+He 51a
+Fourth prototype. New vertical tail, revised wings and undercarriage, new radiator.
+He 51A-0
+Pre-production aircraft. Nine built.
+He 51A-1
+Initial production version, 150 built.
+He 51B-0
+Structurally strengthened. Pre-production aircraft, 12 built.
+He 51B-1
+Production version of B-0. 12 built.
+He 51B-2
+Single-seat floatplane fighter, reconnaissance version; 46 built.
+He 51B-3
+High-altitude version.
+He 51C-1
+Light ground-attack version. 79 sent to Spain to equip the Legion Condor and Nationalist air force.
+He 51C-2
+Improved version of C-1, with revised radio equipment. 21 built.
+ Bulgaria
+Bulgarian Air Force - Acquired 12 He 51s.
+ Germany
+Luftwaffe
+ Spanish State
+Spanish Air Force
+Data from Warplanes of the Luftwaffe 
+General characteristics
+Crew: 1
+Length: 8.40 m (25 ft 6¾ in)
+Wingspan: 11.00 m (36 ft 1 in)
+Height: 3.20 m (10 ft 6 in)
+Wing area: 27.20 m² (292.6 ft²)
+Empty weight: 1,460 kg (3,212 lb)
+Loaded weight: 1,900 kg (4,180 lb)
+Powerplant: 1 × BMW VI 7,3Z liquid-cooled V12 engine, 559 kW (750 hp)
+Performance
+Maximum speed: 330 km/h (178 kn, 205 mph)
+Cruise speed: 280 km/h (151 kn, 174 mph)
+Range: 570 km (308 nmi, 354 mi)
+Service ceiling: 7,700 m (25,256 ft)
+Wing loading: 69.9 kg/m² (14.3 lb/ft²)
+Power/mass: 0.29 kW/kg (0.18 hp/lb)
+Climb to 1,000 m (3,300 ft): 1.4 min 
+Climb to 6,000 m (19,700 ft): 16.5 min 
+Armament
+Guns: 2 × 7.92 mm MG 17 machine guns in nose; 500 rpg
+Bombs: 6 × 10 kg (22 lb) bombs (C-1)
+Aircraft of comparable role, configuration and era
+Arado Ar 65
+Arado Ar 68
+Fiat CR.32
+Polikarpov I-15
+Kawasaki Ki-10
+Related lists
+List of World War II military aircraft of Germany
+List of military aircraft of Germany

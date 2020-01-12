@@ -1,0 +1,13 @@
+A fructan is a polymer of fructose molecules. Fructans with a short chain length are known as fructooligosaccharides. Fructans occur in foods such as agave, artichokes, asparagus, leeks, garlic, onions (including spring onions), yacón, jícama, and wheat.
+Fructans also appear in grass, with dietary implications for horses and other grazing animals (Equidae).
+Fructans are built up of fructose residues, normally with a sucrose unit (i.e. a glucose-fructose disaccharide) at what would otherwise be the reducing terminus. The linkage position of the fructose residues determine the type of the fructan. Linkage normally occurs at one of the two primary hydroxyls (OH-1 or OH-6), and there are two basic types of simple fructan:
+1-linked: In Inulin, the fructosyl residues are linked by β-2,1-linkages.
+6-linked: In Levan (or Phlein), the fructosyl residues are linked by β-2,6-linkages.
+A third type of fructans, the graminan-type, contains both β-2,1-linkages and β-2,6-linkages.
+More complex fructans are formed on a 6G-kestotriose backbone where elongations occur on both sides of the molecule. Again two types are discerned:
+neo-inulin type: pre- dominant β-2,1-linkages
+neo-levan type: pre- dominant β-2,6-linkages
+Fructans are important storage polysaccharides in the stems of many species of grasses and confer a degree of freezing tolerance. A notable exception is rice, which is unable to synthesise fructans.
+Fructose malabsorption
+Hereditary fructose intolerance
+Prebiotic (nutrition)

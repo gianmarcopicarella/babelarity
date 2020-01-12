@@ -1,0 +1,69 @@
+The Myasishchev M-4 Molot (Russian: Молот (Hammer), USAF/DoD reporting name "Type 37", NATO reporting name Bison) is a four-engined strategic bomber designed by Vladimir Myasishchev and manufactured by the Soviet Union in the 1950s to provide a Long Range Aviation bomber capable of attacking targets in North America. The Myasishchev design bureau was formed to build such a bomber.
+First flying soon after the first flight of the Boeing B-52 Stratofortress, the M-4 was first displayed to the public in Red Square, on May Day, 1954. The aircraft was a surprise to the United States, which had not known that the Soviets had built a jet bomber. However, it soon became clear that the bomber had an insufficient range to attack the United States and still return to the Soviet Union. Only a few of the original production M-4s were actually put into service. To remedy this problem, the Myasishchev design bureau introduced the 3M, known to the West as the 'Bison-B', which was considerably more powerful than the previous version. This new model first flew in 1955. Among other things, two of the five original gun barbettes were removed to lighten the aircraft.
+In July 1955 American observers saw 28 Bisons in two groups during a Soviet air show. The United States government believed that the bomber was in mass production, and the Central Intelligence Agency estimated that 800 would be available by 1960. The display was a hoax (maskirovka); the first group of ten repeated the flyby with eight more. The classified estimates led, however, to American politicians warning of a "bomber gap".
+This time, it was not the Soviet Air Force (VVS) that wanted the 3M, but rather Naval Aviation (AV-MF). Though it could still not bomb Washington, D.C., the 3M had a sufficient range to fulfill the need for a long-range maritime patrol aircraft. In 1959, the 3M broke numerous world records; however, it was thought by the West (and would continue to be thought so until 1961) that the 3M was the original M-4, meaning that the capability of the M-4 was vastly overestimated by Western intelligence agencies.
+In the early 1960s, the 'Bison-C', with a specialized search radar, was introduced. By this time, many of the original M-4s had been converted to M-4-2 fuel tankers for aerial refueling. Later, 3Ms were converted to 3MS-2 and 3MN-2 tankers as well.
+Neither the M-4 nor the 3M ever saw combat, and none were ever converted for low-altitude attack, as many American B-52s were, nor were any ever exported to the Soviet Union's allies.
+Production of the Bison aircraft stopped in 1963, by which time 93 of them had been built. The last aircraft, an M-4-2 fuel tanker, was withdrawn from service in 1994.
+The three VM-T heavy lift aircraft were converted from 3MN-2 tankers, with very large loads carried piggy-back above the fuselage. The single vertical fin/rudder was replaced with two large rectangular fin/rudders at the tips of the horizontal stabilizers to improve control due to the turbulence caused by the cargo pod.
+With the withdrawal of the Myasishchev bombers and tankers the vast majority of the retired airframes were broken up under the terms of the relevant arms limitation treaty. Four aircraft are known to survive:
+3MD '30 Red' (c/n 6302831) in the Central Russian Air force Museum at Monino
+M-4 '60 Red' (c/n 0301804) in the Long Range Aviation museum at Dyagilevo AB, Ryazan
+M-4 '63 Red' (c/n 5301518) at Ukrainka Airbase, Amur Oblast
+3MS-2 '14 Red' (c/n 7300805) at Engels Air Force Base
+ Soviet Union
+Soviet Air Force
+Soviet Naval Aviation
+Izdeliye M (Product M) – the in-house designation for the SDB, Project 25, M-4 aircraft.
+SDB (Strategicheskiy Dahl'niy Bombardirovshchik – strategic long-range bomber) – The government designation for the M-4 programme.
+[Tema Dvadtsat Pyat] Subject 25 – The VVS designation for the strategic bomber program.
+Myasishchev M-4 – The designation used for production aircraft. 35 built including two prototypes and a static test article. (NATO Air Standards Co-ordinating Committee codename Bison-A)
+Myasishchev M-4-2 (aka M-4-II) – M-4 production aircraft converted to in-flight refueling tankers. (NATO Bison-A)
+Myasishchev M-6 – The OKB designation used for re-engined Myasishchev 3M aircraft. (NATO Bison-A)
+Myasishchev 3M – The improved M-4 with Dobrynin VD-7 engines with higher thrust and better S.F.C. than the Mikulin AM-3A engines. The first prototype was converted from a M-4.(NATO Bison-B)
+Myasishchev 3M-5 – The improved M-4 with Dobrynin VD-7 engines with higher thrust and better S.F.C. than the Mikulin AM-3A engines, configured as a launch platform for the KSR-5 air to surface missile. One prototype aircraft converted from a 3MN-1 bomber, but further conversions not carried out due to the limited life remaining on candidate aircraft. (NATO Bison-B)
+Myasishchev 3MD – Production cruise missile carrying aircraft for carrying the P-6, KSR or Kh-10 air to surface missiles, with only nine built in 1960 before the production line was shut down and the Myasishchev OKB dissolved. (NATO Bison-C)
+Myasishchev 3ME – A comprehensive avionics upgrade was tested on the sole 3ME, converted from a production 3M bomber (c/n 8301101). New navigation and radar equipment and a completely revised fire sensing and suppression system were also fitted. The prototype was damaged beyond repair when the Myasishchev M-50 prototype jumped its chocks during ground running of the engines, striking the 3ME killing one engineer on the 3ME. (NATO Bison-B)
+Myasishchev 3MS-1 (S:Staryye [dvigateli] – old engines) – New production long-range bomber aircraft capable of accommodating the VD-7 engines but fitted with Mikulin RD-3M-500a, RD-3M or AM-3A engines due to a lack of flight ready VD-7's. (NATO Bison-B)
+Myasishchev 3MS-2 (S:Staryye [dvigateli] – old engines) – New production in-flight refueling tanker aircraft capable of accommodating the VD-7 engines but fitted with Mikulin RD-3M-500a, RD-3M or AM-3A engines due to a lack of flight ready VD-7's. During the 1970s and 1980s the majority of surviving 3MS bombers were converted to 3MS-2 tankers. (NATO Bison-B)
+Myasishchev 3MN-1 (N:Novyye [dvigateli] – new engines) – The initial production version of the 3MN long-range bomber with de-rated VD-7 engines to improve reliability after compressor blade failures. (NATO Bison-B)
+Myasishchev 3MN-2 (N:Novyye [dvigateli] – new engines) – The initial production version of the 3MN in-flight refueling tanker with de-rated VD-7 engines to improve reliability after compressor blade failures. (NATO Bison-B)
+Myasishchev 3MSR-1 (S:Staryye [dvigateli] Rahdioapparatoora – old engines, avionics [upgrade]) – New production long-range bomber aircraft capable of accommodating the VD-7 engines but fitted with Mikulin RD-3M-500a, RD-3M or AM-3A engines due to a lack of flight ready VD-7's, and fitted with an upgraded avionics suite. (NATO Bison-B)
+Myasishchev 3MSN-1 (N:Novyye [dvigateli] Rahdioapparatoora – new engines, avionics [upgrade]) – Several new production long-range bomber aircraft capable of accommodating the VD-7 engines but fitted with Mikulin RD-3M-500a, RD-3M or AM-3A engines due to a lack of flight ready VD-7's, and fitted with an upgraded avionics suite. (NATO Bison-B)
+[Tema Tridtsat Shestt] Subject 36 – The government designation for the re-engined M-4. (NATO Bison-B)
+VM-T (Vladimir Myasishchev-Trahnsportnyy) – Three 3MN-2 aircraft converted for oversize cargo flights with a large cargo pod supported on struts above the fuselage and Large rectangular fins attached to the tips of the tail plane. Notably used for transporting the Buran shuttle and Energiya launch vehicle components before the Antonov An-225 became available.
+Myasishchev 3M-A (Ahtomnyy – atomic) – A nuclear-powered reconnaissance derivative using an indirect heat transfer reactor in the bomb bay for nuclear gas turbines in the wing roots, with the crew housed in a windowless lead lined cockpit.
+Myasishchev 3M-M (Morskoy – marine) – A proposed flying boat with a boat hulled fuselage and floats under the wingtips.
+Myasishchev 3M-R (Razvedchik – reconnaissance) – A proposed reconnaissance aircraft carrying high-speed reconnaissance cameras.
+Myasishchev 3M-K (Kompleks – weapons system) – A proposed strategic missile carrying strike aircraft to carry the Kh-20 long range cruise missile.
+Myasishchev 3MP – The 3MP was a projected alternative quick-change tanker/bomber, to support all AV-MF receiver aircraft, based on the 3MD, which was not proceeded with due to the cessation of 3MD production and closure of the Myasishchev OKB.
+Myasishchev 3M-T (Toplivozaprahvshchik – refuelling tanker) – The 3M-T was an attempt to make a production convertible tanker/missile carrier version of the 3MD, for supporting the expected Myasishchev M-52 supersonic bomber, Tu-95 and the remaining 3M bombers. No hardware was produced before the OKB was closed in September 1960.
+General characteristics
+Crew: 8
+Length: 47.20 m  (154 ft 10 in )
+Wingspan: 50.5 m  (165 ft 7 in )
+Height: 14.10 m (46 ft 3 in)
+Wing area: 326.35 m² (3,512.8 ft²)
+Empty weight: 79,700 kg (175,700 lb)
+Loaded weight: 138,500 kg (305,340 lb)
+Max. takeoff weight: 181,500 kg (400,135 lb)
+Powerplant: 4 × Mikulin AM-3A turbojets, 85.75 kN (19,280 lbf) each
+Performance
+Maximum speed: 947 km/h (588 mph)
+Range: 8,100 km (5,030 mi) ferry; 5,600 km (3,480 mi) normal range
+Service ceiling: 11,000 m (36,000 ft)
+Wing loading: 425 kg/m² (87 lb/ft²)
+Thrust/weight: 0.25
+Armament
+Guns: 9 × 23 mm NR-23 cannon or 6 × 23 mm AM-23 cannon in ventral, dorsal and tail barbettes. 1,100 rounds in ventral and dorsal barbettes, 2,000 rounds in tail barbette.
+Missiles: Up to four cruise missiles carried externally.
+Bombs: Typically 9,000 kg (19,840 lb) of internal stores. Up to 24,000 kg (52,910 lb) could be carried, including nuclear and conventional bombs
+Related development
+Myasishchev VM-T
+Aircraft of comparable role, configuration and era
+B-52 Stratofortress
+Convair YB-60
+Handley Page Victor
+Tupolev Tu-95
+Related lists
+List of military aircraft of the Soviet Union and the CIS

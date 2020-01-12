@@ -1,0 +1,12 @@
+Tetraethyl orthosilicate is the chemical compound with the formula Si(OC2H5)4. Often abbreviated TEOS, it is a colorless liquid that degrades in water. TEOS is the ethyl ether of orthosilicic acid, Si(OH)4. It is a prototypical alkoxide.
+TEOS is a tetrahedral molecule. Like its many analogues, TEOS is prepared by alcoholysis of silicon tetrachloride:
+SiCl4 + 4 EtOH → Si(OEt)4 + 4 HCl
+where Et = C2H5
+TEOS is mainly used as a crosslinking agent in silicone polymers and as a precursor to silicon dioxide in the semiconductor industry. TEOS is also used as the silica source for synthesis of zeolites. Other applications include coatings for carpets and other objects. TEOS is used in the production of aerogel. These applications exploit the reactivity of the Si-OR bonds.
+TEOS easily converts to silicon dioxide. This reaction occurs upon the addition of water:
+Si(OC2H5)4 + 2 H2O → SiO2 + 4 C2H5OH
+This hydrolysis reaction is an example of a sol-gel process. The side product is ethanol. The reaction proceeds via a series of condensation reactions that convert the TEOS molecule into a mineral-like solid via the formation of Si-O-Si linkages. Rates of this conversion are sensitive to the presence of acids and bases, both of which serve as catalysts. The Stöber process allows the formation of monodisperse silica particles.
+At elevated temperatures (>600 °C), TEOS converts to silicon dioxide:
+Si(OC2H5)4 → SiO2 + 2 (C2H5)2O
+The volatile coproduct is diethyl ether.
+Although nontoxic to ingestion, TEOS vapor is highly damaging to eyes since it deposits silica.

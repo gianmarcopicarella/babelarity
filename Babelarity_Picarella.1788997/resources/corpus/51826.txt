@@ -1,0 +1,30 @@
+The Zope Object Database (ZODB) is an object-oriented database for transparently and persistently storing Python objects. It is included as part of the Zope web application server, but can also be used independently of Zope.
+Features of the ZODB include: transactions, history/undo, transparently pluggable storage, built-in caching, multiversion concurrency control (MVCC), and scalability across a network (using ZEO).
+Created by Jim Fulton of Zope Corporation in the late 90s.
+Started as simple Persistent Object System (POS) during Principia development (which later became Zope)
+ZODB 3 was renamed when a significant architecture change was landed.
+ZODB 4 was a short lived project to re-implement the entire ZODB 3 package using 100% Python.
+A ZODB storage is basically a directed graph of (Python) objects pointing at each other, with a Python dictionary at the root. Objects are accessed by starting at the root, and following pointers until the target object. In this respect, ZODB can be seen as a sophisticated Python persistence layer.
+For example, say we have a car described using 3 classes Car, Wheel and Screw. In Python, this could be represented the following way:
+If the variable zodb is the root of persistence, then:
+This puts all of the object instances (car, wheel, screws etc.) into storage, which can be retrieved later. If another program gets a connection to the database through the zodb object, performing:
+And retrieves all the objects, the pointer to the car being held in the carzz variable. Then at some later stage, this object can be altered with a Python code like:
+The storage is altered to reflect the change of data (after a commit is ordered).
+There is no declaration of the data structure in either Python or ZODB, so new fields can be freely added to any existing object.
+For persistence to take place, the Python Car class must be derived from the persistence.Persistent class — this class both holds the data necessary for the persistence machinery to work, such as the internal object id, state of the object, and so on, but also defines the boundary of the persistence in the following sense: every object whose class derives from Persistent is the atomic unit of storage (the whole object is copied to the storage when a field is modified).
+In the example above, if Car is the only class deriving from Persistent, when wheel3 is added to car, all of the objects must be written to the storage. In contrast, if Wheel also derives from Persistent, then when carzz.wheel3 = Wheel is performed, a new record is written to the storage to hold the new value of the Car, but the existing Wheel are kept, and the new record for the Car points to the already existing Wheel record inside the storage.
+The ZODB machinery doesn't chase modification down through the graph of pointers. In the example above, carzz.wheel3 = something is a modification automatically tracked down by the ZODB machinery, because carzz is of (Persistent) class Car. The ZODB machinery does this by marking the record as dirty. However, if there is a list, any change inside the list isn't noticed by the ZODB machinery, and the programmer must help by manually adding carzz._p_changed = 1, notifying ZODB that the record actually changed. Thus, to a certain extent the programmer must be aware of the working of the persistence machinery.
+The storage unit (that is, an object whose class derives from Persistent) is also the atomicity unit. In the example above, if Cars is the only Persistent class, a thread modifies a Wheel (the Car record must be notified), and another thread modifies another Wheel inside another transaction, the second commit will fail. If Wheel is also Persistent, both Wheels can be modified independently by two different threads in two different transactions.
+The class persistence—writing the class of a particular object into the storage—is obtained by writing a kind of "fully qualified" name of the class into each record on the disk. It should be noted that, in Python, the name of the class involves the hierarchy of directory the source file of the class resides in. A consequence is that the source file of persisting object cannot be moved. If it is, the ZODB machinery is unable to locate the class of an object when retrieving it from the storage, resulting into a broken object.
+Zope Enterprise Objects (ZEO) is a ZODB storage implementation that allows multiple client processes to persist objects to a single ZEO server. This allows transparent scaling.
+Network Storage (aka ZEO) - Enables multiple python processes load and store persistent instances concurrently.
+File Storage - Enables a single python process to talk to a file on disk.
+relstorage - Enables the persistence backing store to be a RDBMS.
+Directory Storage - Each persistent data is stored as a separate file on the filesystem. Similar to FSFS in Subversion.
+Demo Storage - An in-memory back end for the persistent store.
+BDBStorage - Which uses Berkeley DB back end. Now abandoned.
+Zope Replication Services (ZRS) - A commercial add-on (open-source since May 2013) that removes the single point of failure, providing hot backup for writes and load-balancing for reads.
+zeoraid - An open source solution that provides a proxy Network Server that distributes object stores and recovery across a series of Network Servers.
+relstorage - since RDBMS technologies are used this obviates need for ZEO server.
+NEO - Distributed (fault tolerance, load-balancing) storage implementation.
+Object database

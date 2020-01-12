@@ -1,0 +1,11 @@
+Atomic electron transition is a change of an electron from one quantum state to another within an atom or artificial atom. It appears discontinuous as the electron "jumps" from one energy level to another in a few nanoseconds or less. It is also known as atomic transition, quantum jump, or quantum leap.
+Electron transitions cause the emission or absorption of electromagnetic radiation in the form of quantized units called photons. Their statistics are Poissonian, and the time between jumps is exponentially distributed. The damping time constant (which ranges from nanoseconds to a few seconds) relates to the natural, pressure, and field broadening of spectral lines. The larger the energy separation of the states between which the electron jumps, the shorter the wavelength of the photon emitted.
+The observability of quantum jumps was predicted by Hans Dehmelt in 1975, and they were first observed using trapped ions of mercury at NIST in 1986. The optical Bloch equations are not consistent with quantum jumps.
+Although changes of quantum state occur on the sub-microscopic level, in popular discourse, the term "quantum leap" refers to a large increase.
+Spontaneous emission
+Stimulated emission
+Burst noise
+Ensemble interpretation
+Fluorescence
+Phosphorescence
+Molecular electronic transition for molecules

@@ -1,0 +1,13 @@
+Frequency division multiple access or FDMA is a channel access method used in multiple-access protocols as a channelization protocol. FDMA gives users an individual allocation of one or several frequency bands, or channels. It is particularly commonplace in satellite communication. FDMA, like other multiple access systems, coordinates access between multiple users. Alternatives include TDMA, CDMA, or SDMA. These protocols are utilized differently, at different levels of the theoretical OSI model.
+Disadvantage: Crosstalk may cause interference among frequencies and disrupt the transmission.
+In FDMA, all users share the satellite transponder or frequency channel simultaneously but each user transmits at single frequency.
+FDMA can be used with both analog and digital signal.
+FDMA requires high-performing filters in the radio hardware, in contrast to TDMA and CDMA.
+FDMA is not vulnerable to the timing problems that TDMA has. Since a predetermined frequency band is available for the entire period of communication, stream data (a continuous flow of data that may not be packetized) can easily be used with FDMA.
+Due to the frequency filtering, FDMA is not sensitive to near-far problem which is pronounced for CDMA.
+Each user transmits and receives at different frequencies as each user gets a unique frequency slots.
+FDMA is distinct from frequency division duplexing (FDD). While FDMA allows multiple users simultaneous access to a transmission system, FDD refers to how the radio channel is shared between the uplink and downlink (for instance, the traffic going back and forth between a mobile-phone and a mobile phone base station). Frequency-division multiplexing (FDM) is also distinct from FDMA. FDM is a physical layer technique that combines and transmits low-bandwidth channels through a high-bandwidth channel. FDMA, on the other hand, is an access method in the data link layer.
+FDMA also supports demand assignment in addition to fixed assignment. Demand assignment allows all users apparently continuous access of the radio spectrum by assigning carrier frequencies on a temporary basis using a statistical assignment process. The first FDMA demand-assignment system for satellite was developed by COMSAT for use on the Intelsat series IVA and V satellites.
+There are two main techniques:
+Multi-channel per-carrier (MCPC)
+Single-channel per-carrier (SCPC)

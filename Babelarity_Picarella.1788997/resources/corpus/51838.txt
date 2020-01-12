@@ -1,0 +1,9 @@
+In computer networking, unicast transmission is the sending of messages to a single network destination identified by a unique address.
+The term unicast is contrasted with the term broadcast which means transmitting the same data to all possible destinations. Another multi-destination distribution method, multicasting, sends data only to interested destinations by using special address assignments.
+If an IP Unicast packet passes through a switch that does not know the location of the associated MAC Address, the packet will be broadcast to all ports on the switch. This failure of Unicast to 'cast to a single device' is called a Unicast flood.
+Unicast messaging is used for all network processes in which a private or unique resource is requested.
+Certain network applications which are mass-distributed are too costly to be conducted with unicast transmission since each network connection consumes computing resources on the sending host and requires its own separate network bandwidth for transmission. Such applications include streaming media of many forms. Internet radio stations using unicast connections may have high bandwidth costs.
+These terms are also used by streaming content providers' services. Unicast-based media servers open and provide a stream for each unique user. Multicast-based servers can support a larger audience by serving content simultaneously to multiple users.
+IP address
+Multicast
+Broadcasting (networking)

@@ -1,0 +1,68 @@
+The instrumental case (abbreviated INS or INSTR; also called the eighth case) is a grammatical case used to indicate that a noun is the instrument or means by or with which the subject achieves or accomplishes an action. The noun may be either a physical object or an abstract concept.
+The instrumental case appears in this Russian sentence:
+Here, the inflection of the noun indicates its instrumental role – the nominative перо changes its ending to become пером.
+Modern English expresses the instrumental meaning by use of adverbial phrases that begin with the words with, by, or using then followed by the noun indicating the instrument:
+I wrote the note with a pen.
+I wrote the note (by) using a pen.
+Technical descriptions often use the phrase "by means of", which is similar to "by use of", as in:
+I wrote the note by means of a pen.
+I wrote the note by use of a pen.
+This can be replaced by "via", which is a Latin ablative of the nominative (viā) via, meaning road, route, or way. In the ablative this means by way of.
+The instrumental case appears in Old English, Old Saxon, Georgian, Armenian, Basque, Sanskrit, and the Balto-Slavic languages. An instrumental/comitative case is arguably present in Turkish and other Altaic languages, as well as in Tamil. Also, Uralic languages reuse the adessive case where available, locative case if not, to mark the same category, or comitative case (Estonian). For example, the Finnish kirjoitan kynällä does not mean "I write on a pen", but "I write using a pen", even if the adessive -llä is used. In Ob-Ugric languages, the same category may also mark agents with verbs that use an ergative alignment, like "I give you, using a pen".
+The instrumental case is notably used in Russian, where the case is called творительный падеж (tvoritel'nyj padež). In most declension paradigms, the instrumental case in Russian can generally be distinguished by the -ом ("-om") suffix for most masculine and neuter nouns, the -ою/-oй ("-oju"/"-oj") suffix for most feminine nouns and -ами ("-ami") for any of the three genders in the plural.
+Just as in English the preposition "with" can express instrumental ("using, by means of"), comitative ("in the company of"), and a number of other semantic relations, the instrumental case in Russian is not limited to its instrumental thematic role. It is also used to denote:
+the agent in a passive voice construction. E.g.: "Книга написана Марком Твеном" ("The book was written by Mark Twain"). Here, "Марком Твеном" ("by Mark Twain") is "Марк Твен" ("Mark Twain") in the instrumental case.
+a predicate with infinitive, future tense, imperative, conditional and gerund of the verbs "быть" and "являться" (both meaning 'to be') (for example, "я хочу быть врачом", "не будь трусом" translate as "I want to be a doctor" and "don't be a coward", with the nouns in the instrumental case).
+a predicate with a number of other verbs, denoting state, appearance, manner, consideration, etc.
+parts of the day, seasons of the year, and some other temporal relations. For example, the sentence "я работаю утром" (ja rabotaju utrom) means "I work in the morning". The word утро (utro, "morning") in its instrumental case denotes the time in which the action (in the case of this example, "working") takes place ("in the morning").
+similarity. For example, the phrases "выть волком," "умереть героем," "лететь стрелой" (to howl like a wolf, to die like a hero, to fly like an arrow) use nouns in the instrumental case.
+location, when used with prepositions "behind", "in front of", "under", "above", "next to", and "between"
+The Russian instrumental case is also used with verbs of use and control (to own, to manage, to abuse, to rule, to possess, etc.), attitude (to be proud of, to threaten (with), to value, to be interested (in), to admire, to be obsessed (with), etc.), reciprocal action (to share, to exchange), and some other verbs.
+Though the instrumental case does not exist in many languages, some languages use other cases to denote the means, or instrument, of an action. In Classical Greek, for example, the dative case is used as the instrumental case. This can be seen in the sentence "..με κτείνει δόλῳ," or "..me ktenei dolôi" (Book IX, line 407 of the Odyssey), which means "he kills me with a bait". Here, "δόλῳ," the dative of "δόλος" ("dolos" - a bait) is used as the instrumental case (the means or instrument here is, obviously, the bait). In Latin the instrumental case has merged with the ablative, thus the ablative case has the same functions. For example, ipso facto can be translated as "by the fact itself", while oculīs vidēre means "to see with one's eyes".
+In Modern English, the word why is one instance of an etymologically instrumental declension. Though not commonly known to be of pronominal origin, it was, in fact, inherited from Old English hwȳ, which was the declension of hwæt (now what) in the Old English instrumental case – a grammatical feature rare even in Old English. The modern instrumental case (as present in why) does not bear the meaning of instrument, but of purpose, cause, or reason: rather, the closely related form how is used to express instrument, way, or means.
+The instrumental case in Classical Sanskrit can have several meanings:
+It can indicate the instrument (of an action):
+रामो लेखन्या लिखति।
+Rāmo lekhanyā likhati.
+"Rāma writes with a pen".
+It can be used to indicate someone or something accompanying an action. In this case, the sense of "company" is indicated by postpositions like सह saha ("with") (may be optionally omitted):
+दासेन सह देवदत्तोऽगच्छत्।
+Dāsena saha devadatto'gacchat.
+"Devadatta went accompanied by the servant".
+It can indicate the agent of a passive verb:
+देवदत्तेन यवं खाद्यते।
+Devadattena yavaṁ khādyate.
+"Barley is eaten by Devadatta".
+It can indicate the cause, reason or circumstance of an action. In this case, it can be translated as "because of", "out of", etc.:
+दुःखेन ग्रामम् अत्यजत्।
+duḥkhena grāmam atyajat.
+"He abandoned the village out of misery".
+It is used with the preposition विना vinā ("without"):
+जलेन विना पद्मं नश्यति।
+jalena vinā padmaṁ naśyati.
+"A lotus dies without water".
+It can also be used with the particles अलम् alam कृतम् kṛtam, both meaning "enough".
+कृतं कोलाहलेन।
+kṛtaṁ kolāhalena.
+"Enough with noise".
+The functions of the Proto-Indo-European instrumental case were taken over by the dative, so that the dative has functions belonging to the Proto-Indo-European dative, instrumental, and locative. This is the case with the bare dative, and the dative with the preposition σύν sýn "with".
+Just as above, the object with which the action is done or completed is declined. For example:
+Píšu perem.
+psát = to write; píšu = I write
+pero = a pen → perem = with a pen
+Jedu do školy autobusem.
+jet = to go via transport (× jít = to go on foot); jedu = I go (using any kind of vehicle)
+škola = school, do školy = to school (genitive)
+autobus = a bus → autobusem = by bus
+The instrumental in Armenian is denoted by the -ով (-ov) suffix to say that an action is done by, with or through an agent.
+մատիտ (matit, pencil) → մատիտով (matitov, with/by a pencil)
+մատիտով գրիր (matitov grir) Write with a pencil.
+While the instrumental case is the form most commonly used for this purpose, when coupled with the passive voice in Armenian the instrumental case can be replaced with the ablative case.
+The instrumental case is present in the Hungarian language, where it serves several purposes. The main purpose is the same as the above, i.e. the means with which an action occurs. It has a role in the -(t)at- causative form of verbs, that is, the form of a verb that shows the subject caused someone else to action the verb. In this sense, the instrumental case is used to mark the person that was caused to execute the action expressed by the verb. It is also used to quantify or qualify words such as 'better' or 'ago', such as sokkal jobban 'much better' (literally 'with-much better'); hét évvel ezelőtt 'seven years ago' (literally 'seven with-years before this').
+In Hungarian the instrumental and comitative case look the same, see Instrumental-comitative case.
+See the links section below for a more detailed article.
+Finnish has historic, marginal instructive case (-n), but in practice the adessive case (-lla/-llä) is used instead outside lexicalised fixed expressions, even though the adessive literally means 'on top', e.g. vasaralla 'using a hammer' (instrumental meaning) or 'on a hammer' (locative meaning). (Vasaroin 'using hammers' is plausible and understandable, but not common in use.)
+Nahuatl uses the suffix -tica to indicate the instrumental case. For example in the sentence ātlān ācaltica in huāllahqueh 'they came on the water by boat', ācalli means 'boat' and ācaltica means 'by (use of a) boat'.
+Turkish uses the suffix -(y)lA (realised as -(y)la or -(y)le, depending on the dominant vowel of the noun—see vowel harmony) to indicate the instrumental case. For example, in the sentence Arabayla geldi 'he came by (the use of a) car', araba means 'car' and arabayla means 'by (the use of a) car, with a car'.
+In Japanese, the post-positional particle で de indicates the instrumental case.
+'(I) slay (my) foe with a katana.'

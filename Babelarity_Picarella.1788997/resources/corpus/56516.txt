@@ -1,0 +1,22 @@
+A gear pump uses the meshing of gears to pump fluid by displacement. They are one of the most common types of pumps for hydraulic fluid power applications.
+Gear pumps are also widely used in chemical installations to pump high viscosity fluids. There are two main variations; external gear pumps which use two external spur gears, and internal gear pumps which use an external and an internal spur gears (internal spur gear teeth face inwards, see below). Gear pumps are positive displacement (or fixed displacement), meaning they pump a constant amount of fluid for each revolution. Some gear pumps are designed to function as either a motor or a pump.
+As the gears rotate they separate on the intake side of the pump, creating a void and suction which is filled by fluid. The fluid is carried by the gears to the discharge side of the pump, where the meshing of the gears displaces the fluid. The mechanical clearances are small— in the order of 10 μm. The tight clearances, along with the speed of rotation, effectively prevent the fluid from leaking backwards.
+The rigid design of the gears and houses allow for very high pressures and the ability to pump highly viscous fluids.
+Many variations exist, including; helical and herringbone gear sets (instead of spur gears), lobe shaped rotors similar to Roots blowers (commonly used as superchargers), and mechanical designs that allow the stacking of pumps. The most common variations are shown below (the drive gear is shown blue and the idler is shown purple).
+An external precision gear pump is usually limited to a maximum working pressure of 210 bars (21,000 kPa) and a maximum speed of 3,000 rpm. Some manufacturers produce gear pumps with higher working pressures and speeds but these types of pumps tend to be noisy and special precautions may have to be made.
+Suction and pressure ports need to interface where the gears mesh (shown as dim gray lines in the internal pump images). Some internal gear pumps have an additional, crescent-shaped seal (shown above, right).
+Pump formulas:
+Flow rate in US gal/min = Fluid Density X Pump Capacity X rpm
+Power in hp = US gal/min X (lbf/in³)/1714
+Generally used in:
+Petrochemicals: Pure or filled bitumen, pitch, diesel oil, crude oil, lube oil etc.
+Chemicals: Sodium silicate, acids, plastics, mixed chemicals, isocyanates etc.
+Paint and ink.
+Resins and adhesives.
+Pulp and paper: acid, soap, lye, black liquor, kaolin, lime, latex, sludge etc.
+Food: Chocolate, cacao butter, fillers, sugar, vegetable fats and oils, molasses, animal food etc.
+Gerotor
+Hydraulic pump
+Vane pump
+External gear pump description
+Internal gear pump description
